@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="f_103.wav" dic="p103" dlgName="Как ты сдал свой экзамен?" dlgFile="exr\fg103.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Comment as-tu passé ton examen, Pierre?" someNumber="680" image="dg\103_001.gif" lang2="- Как ты сдал твой экзамен, Пьер?">
+      <audioTime in="0" out="2220" />
+    </line>
+    <line lang1="- Pas mal du tout." someNumber="680" image="dg\103_001.gif" lang2="- Совсем неплохо.">
+      <audioTime in="2220" out="3207" />
+    </line>
+    <line lang1="J'ai subi l'anglais et les mathématiques." someNumber="None" image="dg\103_001.gif" lang2="Я сдал английский и математику.">
+      <audioTime in="3207" out="5638" />
+    </line>
+    <line lang1="Les questions étaient faciles. Et toi, Paul?" someNumber="None" image="dg\103_001.gif" lang2="Вопросы были лёгкими. А ты, Поль?">
+      <audioTime in="5638" out="8349" />
+    </line>
+    <line lang1="- L'anglais et les mathématiques n'étaient pas assez faciles pour moi." someNumber="360" image="dg\103_001.gif" lang2="- Английский и математика не были достаточно лёгкими для меня.">
+      <audioTime in="8349" out="11484" />
+    </line>
+    <line lang1="J'espère que je n'ai pas échoué." someNumber="None" image="dg\103_001.gif" lang2="Я надеюсь, что я не провалился.">
+      <audioTime in="11484" out="13161" />
+    </line>
+    <line lang1="- Je pense que je n'ai pas réussi les tests d'esprit d'à propos." someNumber="None" image="dg\103_001.gif" lang2="- Я думаю, я не сдал тест на сообразительность.">
+      <audioTime in="13161" out="16626" />
+    </line>
+    <line lang1="Je n'ai pas pu répondre aux seize questions." someNumber="None" image="dg\103_001.gif" lang2="Я не смог ответить на 16 вопросов.">
+      <audioTime in="16626" out="19133" />
+    </line>
+    <line lang1="EIles n'étaient pas faciles. Quand au reste, je n'ai pas pu y répondre." someNumber="780" image="dg\103_001.gif" lang2="Они не были лёгкими. Что касается остальных, я не смог ответить на них.">
+      <audioTime in="19133" out="23894" />
+    </line>
+    <line lang1="C'était trop compliqué pour moi." someNumber="780" image="dg\103_001.gif" lang2="Это было слишком сложно для меня.">
+      <audioTime in="23894" out="25587" />
+    </line>
+    <line lang1="- Les tests d'esprit d'à propos étaient terribles, n'est-ce pas?" someNumber="None" image="dg\103_001.gif" lang2="- Тесты на сообразительность были ужасны, не так ли?">
+      <audioTime in="25587" out="28719" />
+    </line>
+    <line lang1="- Je les déteste. Je suis sûr que je recevrai une mauvaise note." someNumber="None" image="dg\103_001.gif" lang2="- Я их ненавижу. Я уверен, что я получу плохую оценку.">
+      <audioTime in="28719" out="32192" />
+    </line>
+    <line lang1="- Ne perds pas courage, peut-être que tout ira bien." someNumber="700" image="dg\103_001.gif" lang2="- Не унывай, может быть всё будет хорошо.">
+      <audioTime in="32192" out="35015" />
+    </line>
+    <line lang1="Un garçon qui était assis à côté de moi a écrit son nom sur la feuille." someNumber="None" image="dg\103_001.gif" lang2="Парень, который сидел рядом со мной, написал свою фамилию на листе.">
+      <audioTime in="35015" out="38537" />
+    </line>
+    <line lang1="- Et alors?" someNumber="None" image="dg\103_001.gif" lang2="- И что же?">
+      <audioTime in="38537" out="39621" />
+    </line>
+    <line lang1="- Puis pendant 3 heures, il a regardé cette feuille." someNumber="470" image="dg\103_001.gif" lang2="- Затем в течение 3 часов он смотрел на этот листок!">
+      <audioTime in="39621" out="41999" />
+    </line>
+    <line lang1="Il n'a pas écrit un seul mot." someNumber="None" image="dg\103_001.gif" lang2="Он не написал ни одного слова!">
+      <audioTime in="41999" out="43708" />
+    </line>
+  </lines>
+</lesson>

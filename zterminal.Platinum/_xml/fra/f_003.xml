@@ -1,0 +1,32 @@
+<lesson>
+  <header wav="f_003.wav" dic="p003" dlgName="B гардеробе." dlgFile="exr\fg003.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Mon manteau et mon parapluie, s'il vous plaît." someNumber="920" image="dg\003_001.gif" lang2="- Моё пальто мой зонтик пожалуйста.">
+      <audioTime in="0" out="2842" />
+    </line>
+    <line lang1="Voici mon billet." someNumber="None" image="dg\003_002.gif" lang2="Вот мой номер.">
+      <audioTime in="2842" out="4397" />
+    </line>
+    <line lang1="- Merci, monsieur. Le numéro 5." someNumber="410" image="dg\003_003.gif" lang2="- Спасибо, сударь. Номер пять.">
+      <audioTime in="4397" out="6918" />
+    </line>
+    <line lang1="Voici votre parapluie et votre manteau." someNumber="None" image="dg\003_004.gif" lang2="Вот ваш зонтик и ваше пальто.">
+      <audioTime in="6918" out="9760" />
+    </line>
+    <line lang1="- Non, ce n'est pas mon parapluie. Excusez-moi monsieur." someNumber="None" image="dg\003_005.gif" lang2="- Нет, это не мой зонтик. Извините меня сударь.">
+      <audioTime in="9760" out="13085" />
+    </line>
+    <line lang1="- Est-ce votre parapluie?" someNumber="None" image="dg\003_006.gif" lang2="- Это ваш зонтик?">
+      <audioTime in="13085" out="14336" />
+    </line>
+    <line lang1="Non, ce n'est pas le mien." someNumber="None" image="dg\003_006.gif" lang2="Нет, это не мой!">
+      <audioTime in="14336" out="16427" />
+    </line>
+    <line lang1="- Et celui-là?" someNumber="470" image="dg\003_007.gif" lang2="- А тот?">
+      <audioTime in="16427" out="17721" />
+    </line>
+    <line lang1="- Oui, c'est le mien. Merci beaucoup." someNumber="470" image="dg\003_007.gif" lang2="- Да, это мой. Большое спасибо.">
+      <audioTime in="17721" out="20608" />
+    </line>
+  </lines>
+</lesson>

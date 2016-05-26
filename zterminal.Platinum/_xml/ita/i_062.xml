@@ -1,0 +1,149 @@
+<lesson>
+  <header wav="i_062.wav" dic="p062" dlgName="Что случилось с?.." dlgFile="exr\ig061.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Cosa le è successo?" someNumber="730" image="dg\062_001.gif" lang2="- Что случилось с ней?">
+      <audioTime in="112" out="1850" />
+    </line>
+    <line lang1="Ha mal d'orecchio?" someNumber="None" image="dg\062_001.gif" lang2="У неё болят уши?">
+      <audioTime in="1850" out="3069" />
+    </line>
+    <line lang1="- Non ha mal d'orecchio." someNumber="None" image="dg\062_001.gif" lang2="- У неё не болят уши.">
+      <audioTime in="3024" out="4424" />
+    </line>
+    <line lang1="Ha mal di testa." someNumber="None" image="dg\062_001.gif" lang2="У неё болит голова.">
+      <audioTime in="4424" out="5688" />
+    </line>
+    <line lang1="- Che cosa deve fare?" someNumber="None" image="dg\062_002.gif" lang2="- Что она должна сделать?">
+      <audioTime in="5832" out="7289" />
+    </line>
+    <line lang1="- Deve prendere un'aspirina." someNumber="None" image="dg\062_002.gif" lang2="- Она должна принять аспирин.">
+      <audioTime in="7345" out="8937" />
+    </line>
+    <line lang1="- Cos'è successo a Giorgio?" someNumber="None" image="dg\062_003.gif" lang2="- Что случилось с Джорджио?">
+      <audioTime in="9163" out="10934" />
+    </line>
+    <line lang1="Ha mal di testa?" someNumber="None" image="dg\062_003.gif" lang2="У него болит голова?">
+      <audioTime in="11047" out="12560" />
+    </line>
+    <line lang1="- Non ha mal di testa." someNumber="None" image="dg\062_003.gif" lang2="- У него не болит голова.">
+      <audioTime in="12616" out="14085" />
+    </line>
+    <line lang1="Ha mal d'orecchio." someNumber="None" image="dg\062_003.gif" lang2="У него болит ухо.">
+      <audioTime in="14085" out="15259" />
+    </line>
+    <line lang1="- Che cosa deve fare?" someNumber="None" image="dg\062_004.gif" lang2="- Что он должен сделать?">
+      <audioTime in="15543" out="16878" />
+    </line>
+    <line lang1="- Deve consultare un dottore." someNumber="None" image="dg\062_004.gif" lang2="- Он должен сходить к врачу.">
+      <audioTime in="16990" out="18784" />
+    </line>
+    <line lang1="- Cos'ha lui?" someNumber="None" image="dg\062_005.gif" lang2="- Что с ним?">
+      <audioTime in="19008" out="20186" />
+    </line>
+    <line lang1="Ha mal di stomaco?" someNumber="None" image="dg\062_005.gif" lang2="У него болит желудок?">
+      <audioTime in="20299" out="21623" />
+    </line>
+    <line lang1="- Non ha mal di stomaco." someNumber="None" image="dg\062_005.gif" lang2="- У него не болит желудок.">
+      <audioTime in="21623" out="23203" />
+    </line>
+    <line lang1="Ha mal di denti." someNumber="None" image="dg\062_005.gif" lang2="У него болит зуб.">
+      <audioTime in="23348" out="24793" />
+    </line>
+    <line lang1="- Cosa deve fare?" someNumber="None" image="dg\062_006.gif" lang2="- Что он должен сделать?">
+      <audioTime in="24952" out="26186" />
+    </line>
+    <line lang1="- Deve andare dal dentista." someNumber="None" image="dg\062_006.gif" lang2="- Он должен сходить к зубному врачу.">
+      <audioTime in="26130" out="27902" />
+    </line>
+    <line lang1="- Cos'è successo a Maria?" someNumber="None" image="dg\062_007.gif" lang2="- Что случилось с Марией?">
+      <audioTime in="27868" out="29562" />
+    </line>
+    <line lang1="Ha mal di denti?" someNumber="None" image="dg\062_007.gif" lang2="У неё болит зуб?">
+      <audioTime in="29551" out="30953" />
+    </line>
+    <line lang1="- Non ha mal di denti." someNumber="None" image="dg\062_007.gif" lang2="- У неё не болит зуб.">
+      <audioTime in="31132" out="32523" />
+    </line>
+    <line lang1="Ha mal di stomaco." someNumber="None" image="dg\062_007.gif" lang2="У неё болит желудок.">
+      <audioTime in="32523" out="33877" />
+    </line>
+    <line lang1="- Che cosa deve fare?" someNumber="None" image="dg\062_007.gif" lang2="- Что должна она сделать?">
+      <audioTime in="33916" out="35292" />
+    </line>
+    <line lang1="- Deve prendere una medicina." someNumber="None" image="dg\062_007.gif" lang2="- Она должна выпить лекарство.">
+      <audioTime in="35296" out="36995" />
+    </line>
+    <line lang1="- Cos'è successo a Paolo?" someNumber="None" image="dg\062_008.gif" lang2="- Что случилось с Паоло?">
+      <audioTime in="37061" out="39092" />
+    </line>
+    <line lang1="Ha mal di stomaco?" someNumber="None" image="dg\062_008.gif" lang2="У него болит желудок?">
+      <audioTime in="39092" out="40534" />
+    </line>
+    <line lang1="- Non ha mal di stomaco." someNumber="None" image="dg\062_008.gif" lang2="- У него не болит желудок.">
+      <audioTime in="40534" out="41976" />
+    </line>
+    <line lang1="Ha la febbre." someNumber="None" image="dg\062_008.gif" lang2="У него температура.">
+      <audioTime in="42021" out="43090" />
+    </line>
+    <line lang1="- Cosa deve fare?" someNumber="None" image="dg\062_008.gif" lang2="- Что должен он сделать?">
+      <audioTime in="43155" out="44466" />
+    </line>
+    <line lang1="- Deve stare a letto." someNumber="None" image="dg\062_008.gif" lang2="- Он должен лечь в постель.">
+      <audioTime in="44466" out="45928" />
+    </line>
+    <line lang1="- Cos'ha Gianni?" someNumber="None" image="dg\062_009.gif" lang2="- Что случилось с Джанни?">
+      <audioTime in="46038" out="47349" />
+    </line>
+    <line lang1="Ha mal di testa?" someNumber="None" image="dg\062_009.gif" lang2="У него головная боль?">
+      <audioTime in="47304" out="48658" />
+    </line>
+    <line lang1="- Non ha mal di testa." someNumber="None" image="dg\062_009.gif" lang2="- У него не головная боль.">
+      <audioTime in="48725" out="50232" />
+    </line>
+    <line lang1="Ha l'influenza." someNumber="None" image="dg\062_009.gif" lang2="У него грипп.">
+      <audioTime in="50167" out="51457" />
+    </line>
+    <line lang1="- Cosa deve fare?" someNumber="None" image="dg\062_009.gif" lang2="- Что он должен сделать?">
+      <audioTime in="51608" out="52920" />
+    </line>
+    <line lang1="- Deve stare a letto." someNumber="None" image="dg\062_009.gif" lang2="- Он должен лечь в постель.">
+      <audioTime in="53116" out="54557" />
+    </line>
+    <line lang1="- Cos'è successo a Giuliana?" someNumber="None" image="dg\062_010.gif" lang2="- Что случилось с Джулиано?">
+      <audioTime in="54754" out="56524" />
+    </line>
+    <line lang1="Ha mal di testa?" someNumber="None" image="dg\062_010.gif" lang2="У него головная боль?">
+      <audioTime in="56654" out="58096" />
+    </line>
+    <line lang1="- Non ha mal di testa." someNumber="None" image="dg\062_010.gif" lang2="- У него не головная боль.">
+      <audioTime in="58161" out="59562" />
+    </line>
+    <line lang1="Ha il morbillo." someNumber="None" image="dg\062_010.gif" lang2="У него корь.">
+      <audioTime in="59562" out="60691" />
+    </line>
+    <line lang1="- Che cosa dobbiamo fare?" someNumber="None" image="dg\062_010.gif" lang2="- Что должны мы сделать?">
+      <audioTime in="60893" out="62486" />
+    </line>
+    <line lang1="- Dobbiamo chiamare il dottore." someNumber="None" image="dg\062_010.gif" lang2="- Мы должны вызвать врача.">
+      <audioTime in="62527" out="64079" />
+    </line>
+    <line lang1="- Cos'è successo a Susanna?" someNumber="None" image="dg\062_011.gif" lang2="- Что случилось с Сусанной?">
+      <audioTime in="64321" out="66026" />
+    </line>
+    <line lang1="Ha mal d'orecchio?" someNumber="None" image="dg\062_011.gif" lang2="У неё болят уши?">
+      <audioTime in="66026" out="67335" />
+    </line>
+    <line lang1="- Non ha mal d'orecchio." someNumber="None" image="dg\062_011.gif" lang2="- У неё не болят уши.">
+      <audioTime in="67335" out="68735" />
+    </line>
+    <line lang1="Ha gli orecchioni." someNumber="None" image="dg\062_011.gif" lang2="У неё свинка.">
+      <audioTime in="68780" out="70135" />
+    </line>
+    <line lang1="- Cosa dobbiamo fare?" someNumber="None" image="dg\062_011.gif" lang2="- Что мы должны делать?">
+      <audioTime in="70135" out="71579" />
+    </line>
+    <line lang1="- Dobbiamo chiamare il dottore." someNumber="None" image="dg\062_011.gif" lang2="- Мы должны вызвать врача.">
+      <audioTime in="71534" out="73296" />
+    </line>
+  </lines>
+</lesson>

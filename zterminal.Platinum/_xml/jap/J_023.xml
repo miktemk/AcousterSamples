@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="j_023.wav" dlgName="Учим минуты" dic="p023" />
+  <lines>
+    <line lang1="ー一日*は*２４*じかん*です。" someNumber="39" image="023_001.jpg" lang2="- В сутках 24 часа.">
+      <audioTime in="0" out="3629" />
+    </line>
+    <line lang1="ごぜん*と*ごご*が*あります。" someNumber="None" image="023_001.jpg" lang2="Принято считать время до полудня и после полудня.">
+      <audioTime in="3629" out="6953" />
+    </line>
+    <line lang1="ひる*１２じ*まで*は*ごぜん*です。" someNumber="None" image="023_003.jpg" lang2="До 12 часов дня - время до полудня.">
+      <audioTime in="6953" out="10960" />
+    </line>
+    <line lang1="ひる*１２時*から*よる*１２時*まで*は*ごご*です。" someNumber="None" image="023_004.jpg" lang2="С 12 часов дня до 12 часов ночи - время после полудня.">
+      <audioTime in="11250" out="16675" />
+    </line>
+    <line lang1="一時間*は*６０ぷん*です。" someNumber="39" image="023_004.jpg" lang2="- В одном часе 60 минут.">
+      <audioTime in="16675" out="20806" />
+    </line>
+    <line lang1="たとえば、２時*から*３時*まで*は*つぎ*の*とおり*です。" someNumber="None" image="023_006.jpg" lang2="Например, с 2-х до 3-х часов (время считают) следующим образом:">
+      <audioTime in="20806" out="26780" />
+    </line>
+    <line lang1="２時５分、" someNumber="34" image="023_007.jpg" lang2="2 часа 5 минут,">
+      <audioTime in="26780" out="29899" />
+    </line>
+    <line lang1="２時１０分、" someNumber="None" image="023_008.jpg" lang2="2 часа 10 минут,">
+      <audioTime in="29899" out="31744" />
+    </line>
+    <line lang1="２時１５分、" someNumber="None" image="023_009.jpg" lang2="2 часа 15 минут,">
+      <audioTime in="31744" out="33725" />
+    </line>
+    <line lang1="２じ２０分、" someNumber="None" image="023_010.jpg" lang2="2 часа 20 минут,">
+      <audioTime in="33725" out="35737" />
+    </line>
+    <line lang1="２時２５分、" someNumber="None" image="023_011.jpg" lang2="2 часа 25 минут,">
+      <audioTime in="35737" out="38003" />
+    </line>
+    <line lang1="２時３０分、" someNumber="None" image="023_012.jpg" lang2="2 часа 30 минут,">
+      <audioTime in="38003" out="40142" />
+    </line>
+    <line lang1="２時３５分、" someNumber="None" image="023_013.jpg" lang2="2 часа 35 минут,">
+      <audioTime in="40142" out="42615" />
+    </line>
+    <line lang1="２時４０分、" someNumber="None" image="023_014.jpg" lang2="2 часа 40 минут,">
+      <audioTime in="42615" out="44914" />
+    </line>
+    <line lang1="２時４５分、" someNumber="None" image="023_015.jpg" lang2="2 часа 45 минут,">
+      <audioTime in="44914" out="47306" />
+    </line>
+    <line lang1="２時５０分、" someNumber="None" image="023_016.jpg" lang2="2 часа 50 минут,">
+      <audioTime in="47306" out="49415" />
+    </line>
+    <line lang1="２じ５５分" someNumber="None" image="023_017.jpg" lang2="2 часа 55 минут,">
+      <audioTime in="49415" out="51744" />
+    </line>
+    <line lang1="ちょうど*３時。" someNumber="None" image="023_018.jpg" lang2="ровно 3 часа.">
+      <audioTime in="51744" out="54168" />
+    </line>
+    <line lang1="―せんせい、２時５５分*と*３時５分*まえ*は*おなじ*です*か。" someNumber="None" image="023_019.jpg" lang2="- Сэнсэй, 2 часа 55 минут и без 5 минут 3 - одно и то же?">
+      <audioTime in="54168" out="60265" />
+    </line>
+    <line lang1="―そう*です。" someNumber="None" image="023_020.jpg" lang2="- Да.">
+      <audioTime in="60265" out="62009" />
+    </line>
+    <line lang1="たとえば*２時４５分*から*３時*まで*は*つぎ*の*とおり*です。" someNumber="None" image="023_020.jpg" lang2="Например, с 2 часов 45 минут до 3-х часов (время считают) следующим образом:">
+      <audioTime in="62009" out="68840" />
+    </line>
+    <line lang1="３時１５分*前、" someNumber="None" image="023_020.jpg" lang2="без 15 минут 3 часа,">
+      <audioTime in="68840" out="71444" />
+    </line>
+    <line lang1="３時１０分*前、" someNumber="None" image="023_023.jpg" lang2="без 10 минут 3 часа,">
+      <audioTime in="71444" out="73773" />
+    </line>
+    <line lang1="３時５分*前です。" someNumber="None" image="023_024.jpg" lang2="без 5 минут 3 часа.">
+      <audioTime in="73773" out="76183" />
+    </line>
+    <line lang1="ーわかりました。" someNumber="None" image="023_024.jpg" lang2="- Понятно.">
+      <audioTime in="76183" out="78179" />
+    </line>
+    <line lang1="ー今*何時*です*か。" someNumber="None" image="023_026.jpg" lang2="- Который сейчас час?">
+      <audioTime in="78179" out="80880" />
+    </line>
+    <line lang1="ー６時１５分*前*です。" someNumber="None" image="023_027.jpg" lang2="- Без 15 минут 6 часов.">
+      <audioTime in="80880" out="83256" />
+    </line>
+    <line lang1="ーじゅぎょう*は*何時*まで*です*か。" someNumber="11" image="023_028.jpg" lang2="- До которого часа (продолжается) урок?">
+      <audioTime in="83256" out="86436" />
+    </line>
+    <line lang1="ー６時１５分*まで*です。" someNumber="None" image="023_029.jpg" lang2="- До без 15 минут 6 часов.">
+      <audioTime in="86436" out="88659" />
+    </line>
+    <line lang1="ーそれ*から*きゅうけい*の*時間*です*ね。" someNumber="None" image="023_030.jpg" lang2="- Значит теперь перемена?">
+      <audioTime in="88659" out="92267" />
+    </line>
+    <line lang1="こんど*の*きゅうけい*は*何分*です*か。" someNumber="27" image="023_030.jpg" lang2="Сколько (продолжается) перемена на этот раз?">
+      <audioTime in="92391" out="95415" />
+    </line>
+    <line lang1="―１０分*です。" someNumber="None" image="023_032.jpg" lang2="- 10 минут.">
+      <audioTime in="95415" out="97617" />
+    </line>
+  </lines>
+</lesson>

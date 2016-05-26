@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="FR_032.wav" dlgName="Кино. Выбор фильма" dlgFile="exr\frg032.txt" />
+  <lines>
+    <line lang1="- Je vois que tu viens d'acheter le dernier numéro de &quot;La Semaine de Paris&quot;." someNumber="None" image="f.jpg" lang2="- Я вижу, что ты купил последний номер &quot;Ла-семэн-де-Пари&quot;.">
+      <audioTime in="0" out="5655" />
+    </line>
+    <line lang1="Regarde s'il y a quelques beaux films à voir." someNumber="None" image="f.jpg" lang2="Посмотри, есть ли какие-нибудь хорошие фильмы, которые стоит посмотреть.">
+      <audioTime in="5655" out="9630" />
+    </line>
+    <line lang1="- Je ne connais pas bien cette revue." someNumber="None" image="f.jpg" lang2="- Я не знаю хорошо этот журнал.">
+      <audioTime in="9630" out="12604" />
+    </line>
+    <line lang1="A quelle page faut-il chercher les films?" someNumber="None" image="f.jpg" lang2="На какой странице надо искать фильмы?">
+      <audioTime in="12604" out="15795" />
+    </line>
+    <line lang1="- La rubrique des &quot;actualités cinématographiques&quot; est à la page 6." someNumber="None" image="f.jpg" lang2="- Рубрика &quot;кинематографических новостей&quot; находится на 6 странице.">
+      <audioTime in="15795" out="22361" />
+    </line>
+    <line lang1="- Ça y est. J'y suis!" someNumber="None" image="f.jpg" lang2="- Хорошо я нашёл!">
+      <audioTime in="22361" out="25360" />
+    </line>
+    <line lang1="- Eh bien, quel est le programme de la semaine?" someNumber="None" image="f.jpg" lang2="- Какая программа на эту неделю?">
+      <audioTime in="25360" out="29469" />
+    </line>
+    <line lang1="- Comme films nouveaux on donne cette semaine:" someNumber="None" image="f.jpg" lang2="- На этой неделе идут новые фильмы:">
+      <audioTime in="29469" out="34081" />
+    </line>
+    <line lang1="&quot;Le Fou du cirque&quot;, &quot;L'Indiscret&quot;, &quot;Le Colosse fantastique&quot;," someNumber="None" image="f.jpg" lang2="&quot;Безумец из цирка&quot;, &quot;Нескромный&quot;, &quot;Фантастический великан&quot;,">
+      <audioTime in="34081" out="40321" />
+    </line>
+    <line lang1="&quot;L'histoire de James Dean&quot; et &quot;La Veuve et le Tueur&quot;." someNumber="None" image="f.jpg" lang2="&quot;История Дина&quot; и &quot;Вдова и убийца&quot;.">
+      <audioTime in="40321" out="46352" />
+    </line>
+    <line lang1="- Si nous allions voir &quot;L'histoire de James Dean&quot;, qu'en penses-tu?" someNumber="None" image="f.jpg" lang2="- А что, если пойти посмотреть &quot;Историю Джемса Дина&quot;, что ты об этом думаешь?">
+      <audioTime in="46352" out="52051" />
+    </line>
+    <line lang1="- D'accord." someNumber="None" image="f.jpg" lang2="- Хорошо.">
+      <audioTime in="52051" out="53448" />
+    </line>
+  </lines>
+</lesson>

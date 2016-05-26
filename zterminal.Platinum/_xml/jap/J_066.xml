@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="j_066.wav" dlgName="Что случилось?" dic="p066" />
+  <lines>
+    <line lang1="ーどうした*ん*です*か。顔色*が*悪い*です*よ。" someNumber="107" image="066_001.jpg" lang2="- Что случилось? (У Вас) плохой цвет лица!">
+      <audioTime in="0" out="4635" />
+    </line>
+    <line lang1="ーかぜ*を*引いた*ん*です。" someNumber="None" image="066_002.jpg" lang2="- Я простудилась.">
+      <audioTime in="4635" out="7023" />
+    </line>
+    <line lang1="せき*が*出る*し、くしゃみ*も*出る*ん*です。" someNumber="148" image="066_002.jpg" lang2="Кашляю и чихаю.">
+      <audioTime in="7023" out="9984" />
+    </line>
+    <line lang1="頭*が*いたい*ん*です。" someNumber="None" image="066_004.jpg" lang2="(И) голова болит.">
+      <audioTime in="9984" out="12454" />
+    </line>
+    <line lang1="ーくすり*は*飲んだ*ん*です*か。" someNumber="05" image="066_005.jpg" lang2="- Лекарство принимали?">
+      <audioTime in="12454" out="14310" />
+    </line>
+    <line lang1="―いいえ、まだ*飲んでいません。" someNumber="113" image="066_005.jpg" lang2="- Нет, пока не принимала.">
+      <audioTime in="14310" out="17209" />
+    </line>
+    <line lang1="くすり*を*まだ*買っていません。" someNumber="None" image="066_007.jpg" lang2="Лекарства пока не купила.">
+      <audioTime in="17209" out="20006" />
+    </line>
+    <line lang1="ーそれ*は*いけません*ね。" someNumber="None" image="066_008.jpg" lang2="- Так ведь нельзя!">
+      <audioTime in="20006" out="22005" />
+    </line>
+    <line lang1="むり*を*しない*方*が*いい*です*よ。" someNumber="091" image="066_008.jpg" lang2="Лучше не напрягаться зря!">
+      <audioTime in="22005" out="24427" />
+    </line>
+    <line lang1="今日*は*早く*帰って、" someNumber="75" image="066_008.jpg" lang2="Хорошо бы сегодня вернуться пораньше,">
+      <audioTime in="24427" out="26456" />
+    </line>
+    <line lang1="薬*を*飲んで、しばらく*寝た*方*が*いい*です。" someNumber="None" image="066_011.jpg" lang2="выпить лекарство и полежать некоторое время.">
+      <audioTime in="26456" out="29558" />
+    </line>
+    <line lang1="そして*お風呂*に*入らない*方*が*いい*です*ね。" someNumber="70" image="066_012.jpg" lang2="Кроме того, лучше не принимать ванну, не так ли.">
+      <audioTime in="29558" out="33499" />
+    </line>
+    <line lang1="それ*に、お医者さん*に*行った*方*が*良い*ん*じゃない*です*か。" someNumber="None" image="066_013.jpg" lang2="И ещё, не лучше ли пойти к врачу?">
+      <audioTime in="33499" out="37961" />
+    </line>
+    <line lang1="ーそう*です*ね。でも、まだ*仕事*が*ある*ん*です。" someNumber="None" image="066_014.jpg" lang2="- В самом деле. Но (у меня) ещё есть работа.">
+      <audioTime in="37961" out="43120" />
+    </line>
+    <line lang1="昨日、遅く*まで*やった*ん*です*が、終わらなかった*ん*です。" someNumber="None" image="066_014.jpg" lang2="Вчера работала допоздна, но не закончила.">
+      <audioTime in="43009" out="47443" />
+    </line>
+    <line lang1="ーこれ*です*か。" someNumber="None" image="066_016.jpg" lang2="- Вот это?">
+      <audioTime in="47443" out="48903" />
+    </line>
+    <line lang1="ぼく*が*やりましょう。" someNumber="None" image="066_016.jpg" lang2="Я сделаю (за Вас).">
+      <audioTime in="48903" out="51027" />
+    </line>
+    <line lang1="心配*しない*で、ゆっくり*休んで*下さい。" someNumber="083" image="066_018.jpg" lang2="Не беспокойтесь, отдыхайте спокойно.">
+      <audioTime in="51027" out="54178" />
+    </line>
+    <line lang1="ーどうも*ありがとう。" someNumber="None" image="066_019.jpg" lang2="- Большое спасибо.">
+      <audioTime in="54160" out="55859" />
+    </line>
+    <line lang1="ーお大事に。" someNumber="128" image="066_019.jpg" lang2="- Берегите себя!">
+      <audioTime in="55859" out="57121" />
+    </line>
+  </lines>
+</lesson>

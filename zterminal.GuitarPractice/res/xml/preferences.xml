@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:acouster="http://acouster.org" >
+
+    <PreferenceCategory android:title="Basic Options">
+
+        <CheckBoxPreference
+                android:key="optBool"
+                android:title="balls of steel"
+                android:defaultValue="true"
+                android:summary="I have balls of steel"
+        />
+        <org.acouster.android.ui.SeekBarPreference android:key="optInt"
+	        android:title="optInt"
+	        android:defaultValue="5"
+	        acouster:suffix=" times i slept with her"
+	        acouster:minValue = "0"
+	       	acouster:maxValue = "10"
+        />
+        
+
+    </PreferenceCategory>    
+
+</PreferenceScreen>

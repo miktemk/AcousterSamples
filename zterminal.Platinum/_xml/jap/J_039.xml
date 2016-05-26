@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="j_039.wav" dlgName="Как Вы думаете?" dic="p039" />
+  <lines>
+    <line lang1="―明日*の*パーティー*に*山本*さん*も*来ます*か。" someNumber="None" image="039_001.jpg" lang2="- Ямамото-сан тоже придёт завтра на вечеринку?">
+      <audioTime in="0" out="4003" />
+    </line>
+    <line lang1="―来ます。" someNumber="None" image="039_002.jpg" lang2="- Придёт.">
+      <audioTime in="4003" out="5113" />
+    </line>
+    <line lang1="ー山本*さん*は*どんな*人*です*か。" someNumber="54" image="039_003.jpg" lang2="- Что за человек Ямамото-сан?">
+      <audioTime in="5113" out="9085" />
+    </line>
+    <line lang1="せ*が*高い*です*か、せ*が*ひくい*です*か。" someNumber="123" image="039_004.jpg" lang2="Высокий или низкий?">
+      <audioTime in="9059" out="12478" />
+    </line>
+    <line lang1="ー山本*さん*は*田中*さん*より*せ*が*高い*です。" someNumber="10" image="039_004.jpg" lang2="- Ямамото-сан выше ростом, чем Танака-сан.">
+      <audioTime in="12478" out="16467" />
+    </line>
+    <line lang1="しかし、スミス*さん*ほど*せ*が*高くない*と*おもいます。" someNumber="160" image="039_006.jpg" lang2="Но, по-моему, он не такой высокий, как Смит-сан.">
+      <audioTime in="16467" out="20920" />
+    </line>
+    <line lang1="スミス*さん*は*クラス*で*もっとも*せ*が*高い*人*です。" someNumber="28" image="039_006.jpg" lang2="Смит-сан самый высокий в группе.">
+      <audioTime in="20920" out="25571" />
+    </line>
+    <line lang1="ーこの*赤い*ワンピース*と*白い*ワンピース*と*で*は*どちら*が*いい*と*思います*か。" someNumber="54" image="039_008.jpg" lang2="- Как Вы думаете, которое из этих платьев лучше, красное или белое?">
+      <audioTime in="25571" out="34505" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="039_008.jpg" lang2="- Дайте-ка подумать...">
+      <audioTime in="34505" out="35981" />
+    </line>
+    <line lang1="白い*ワンピース*は*赤い*ワンピース*より*高い*です*ね。" someNumber="None" image="039_008.jpg" lang2="Белое платье дороже красного, правда.">
+      <audioTime in="35981" out="40285" />
+    </line>
+    <line lang1="ー赤い*ワンピース*と*白い*ワンピース*と*で*は*どちら*が*すてき*でしょう*か。" someNumber="None" image="039_008.jpg" lang2="- А какое из этих платьев красивее, красное или белое?">
+      <audioTime in="40285" out="46028" />
+    </line>
+    <line lang1="ー白い*ワンピース*の*方*が*すてき*です。" someNumber="None" image="039_008.jpg" lang2="- Белое платье красивее.">
+      <audioTime in="45698" out="49171" />
+    </line>
+    <line lang1="でも、青い*ワンピース*は*もっと*すてき*だ*と*思います。" someNumber="None" image="039_013.jpg" lang2="Но синее платье, по-моему, ещё красивее.">
+      <audioTime in="49171" out="53443" />
+    </line>
+    <line lang1="もっとも*すてき*な*の*は*黒い*ワンピース*だ*と思います。" someNumber="None" image="039_014.jpg" lang2="А самое красивое, по-моему, чёрное платье.">
+      <audioTime in="53443" out="58157" />
+    </line>
+    <line lang1="でも、高い*です*ね。" someNumber="None" image="039_014.jpg" lang2="Но (оно) ведь дорогое!">
+      <audioTime in="58157" out="60031" />
+    </line>
+    <line lang1="―じゃ、白い*ワンピース*に*しましょう。" someNumber="None" image="039_016.jpg" lang2="- Ладно, возьмем белое платье.">
+      <audioTime in="60031" out="63579" />
+    </line>
+    <line lang1="スカート*が*みじかくて、新しい*ファッション*です*ね。" someNumber="None" image="039_016.jpg" lang2="И юбка короткая, и фасон современный, правда!">
+      <audioTime in="63579" out="67852" />
+    </line>
+  </lines>
+</lesson>

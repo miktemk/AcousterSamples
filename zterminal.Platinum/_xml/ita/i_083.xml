@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="i_083.wav" dic="p083" dlgName="Мы хотим взять отпуск." dlgFile="exr\ig083.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ciao, Franco. Entra." someNumber="None" image="dg\083_001.gif" lang2="- Здравствуй, Франко. Входи.">
+      <audioTime in="276" out="2143" />
+    </line>
+    <line lang1="- Ciao, Franco." someNumber="None" image="dg\083_002.gif" lang2="- Здравствуй, Франко.">
+      <audioTime in="2097" out="3388" />
+    </line>
+    <line lang1="Stiamo pranzando." someNumber="None" image="dg\083_002.gif" lang2="Мы обедаем.">
+      <audioTime in="3388" out="4978" />
+    </line>
+    <line lang1="Non vuoi unirti a noi?" someNumber="None" image="dg\083_002.gif" lang2="Не хочешь пообедать с нами?">
+      <audioTime in="5116" out="7051" />
+    </line>
+    <line lang1="- No, grazie." someNumber="None" image="dg\083_002.gif" lang2="- Нет, спасибо.">
+      <audioTime in="7175" out="8340" />
+    </line>
+    <line lang1="Ho già pranzato." someNumber="None" image="dg\083_002.gif" lang2="Я уже пообедал.">
+      <audioTime in="8384" out="9620" />
+    </line>
+    <line lang1="Ho pranzato a mezzogiorno e mezzo." someNumber="820" image="dg\083_002.gif" lang2="Я обедал в половине первого.">
+      <audioTime in="9747" out="12375" />
+    </line>
+    <line lang1="- Bè, allora prendi una tazzina di caffè." someNumber="None" image="dg\083_003.gif" lang2="- Ну тогда выпей чашечку кофе.">
+      <audioTime in="12537" out="15002" />
+    </line>
+    <line lang1="- Ho appena preso il caffè, grazie." someNumber="None" image="dg\083_003.gif" lang2="- Я только что пил кофе, спасибо.">
+      <audioTime in="15141" out="17560" />
+    </line>
+    <line lang1="L'ho preso finito il pranzo." someNumber="None" image="dg\083_003.gif" lang2="Я выпил чашечку после обеда.">
+      <audioTime in="17629" out="20394" />
+    </line>
+    <line lang1="- Nicoletta, andiamo in salotto." someNumber="None" image="dg\083_004.gif" lang2="- Николетта, давай пойдём в гостиную.">
+      <audioTime in="20464" out="22538" />
+    </line>
+    <line lang1="Possiamo prendere il caffè là." someNumber="380" image="dg\083_004.gif" lang2="Мы можем выпить кофе там.">
+      <audioTime in="22468" out="24680" />
+    </line>
+    <line lang1="- Scusa il disordine, Franco." someNumber="None" image="dg\083_005.gif" lang2="- Извини за беспорядок, Франко.">
+      <audioTime in="24705" out="26755" />
+    </line>
+    <line lang1="Non ho fatto pulizie nella stanza." someNumber="None" image="dg\083_005.gif" lang2="В комнате совсем не убрано.">
+      <audioTime in="26757" out="29036" />
+    </line>
+    <line lang1="Stiamo preparando le valigie." someNumber="1070" image="dg\083_005.gif" lang2="Мы пакуем чемоданы.">
+      <audioTime in="29036" out="31318" />
+    </line>
+    <line lang1="Abbiamo intenzione di partire domani." someNumber="None" image="dg\083_005.gif" lang2="Мы собираемся уехать завтра.">
+      <audioTime in="31248" out="33669" />
+    </line>
+    <line lang1="Marco ed io vogliamo riposarci." someNumber="None" image="dg\083_005.gif" lang2="Мы с Марко собираемся отдохнуть.">
+      <audioTime in="33669" out="36019" />
+    </line>
+    <line lang1="- Beati voi!" someNumber="None" image="dg\083_005.gif" lang2="- Как вам везет!">
+      <audioTime in="35881" out="37218" />
+    </line>
+    <line lang1="- E tu, Franco, quando ti prenderai le ferie?" someNumber="None" image="dg\083_006.gif" lang2="- А когда ты собираешься взять отпуск, Франко?">
+      <audioTime in="37080" out="39614" />
+    </line>
+    <line lang1="- Non lo so." someNumber="None" image="dg\083_006.gif" lang2="- Не знаю.">
+      <audioTime in="39614" out="40788" />
+    </line>
+    <line lang1="Quest'anno le ho già prese." someNumber="None" image="dg\083_006.gif" lang2="В этом году я уже брал отпуск.">
+      <audioTime in="40789" out="42725" />
+    </line>
+    <line lang1="- Dove sei andato?" someNumber="None" image="dg\083_006.gif" lang2="- Куда ты ездил?">
+      <audioTime in="42726" out="44124" />
+    </line>
+    <line lang1="- Sono rimasto a casa!" someNumber="None" image="dg\083_006.gif" lang2="- Я сидел дома!">
+      <audioTime in="44042" out="45836" />
+    </line>
+  </lines>
+</lesson>

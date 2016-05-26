@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_026.wav" dic="p026" dlgName="Есть ли?.. Нет..." dlgFile="exr\fg025.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Y a-t-il une tasse propre sur le plancher?" someNumber="740" image="dg\026_001.gif" lang2="- Есть ли чистая чашка на полу?">
+      <audioTime in="0" out="2129" />
+    </line>
+    <line lang1="- Non, il n'y en a pas. Il y en a une sur la table." someNumber="None" image="dg\026_001.gif" lang2="- Нет, её там нет. Есть одна на столе.">
+      <audioTime in="2129" out="4543" />
+    </line>
+    <line lang1="- Y a-t-il une grande boîte sur le rayon?" someNumber="210" image="dg\026_002.gif" lang2="- На полке есть большая коробка?">
+      <audioTime in="4543" out="6489" />
+    </line>
+    <line lang1="- Non, il n'y en a pas. Il y en a une sur le plancher." someNumber="None" image="dg\026_002.gif" lang2="- Нет, её там нет. Есть одна на полу.">
+      <audioTime in="6489" out="8971" />
+    </line>
+    <line lang1="- Y a-t-il un verre vide dans le frigidaire?" someNumber="None" image="dg\026_003.gif" lang2="- В холодильнике есть пустой стакан?">
+      <audioTime in="8971" out="10899" />
+    </line>
+    <line lang1="- Non, il n'y en a pas. Il y en a un dans le buffet." someNumber="None" image="dg\026_003.gif" lang2="- Нет, его там нет. Есть один в шкафу.">
+      <audioTime in="10899" out="13381" />
+    </line>
+    <line lang1="- Y a-t-il un couteau pointu sur la boîte de conserves?" someNumber="None" image="dg\026_004.gif" lang2="- На консервной банке есть острый нож?">
+      <audioTime in="13381" out="16134" />
+    </line>
+    <line lang1="- Non, il n'y en a pas. Il y en a un sur l'assiette." someNumber="810" image="dg\026_004.gif" lang2="- Нет, его там нет. Есть один на тарелке.">
+      <audioTime in="16134" out="18386" />
+    </line>
+    <line lang1="- Y a-t-il une fourchette sale sur l'assiette?" someNumber="None" image="dg\026_005.gif" lang2="- На тарелке есть грязная вилка?">
+      <audioTime in="18386" out="20380" />
+    </line>
+    <line lang1="- Non, il n'y en a pas. Il y en a une sur la boîte de conserves." someNumber="None" image="dg\026_005.gif" lang2="- Нет, её там нет. Есть одна на консервной банке.">
+      <audioTime in="20380" out="23176" />
+    </line>
+    <line lang1="- Y a-t-il une bouteille pleine sur le buffet?" someNumber="None" image="dg\026_006.gif" lang2="- В шкафу есть полная бутылка?">
+      <audioTime in="23176" out="25214" />
+    </line>
+    <line lang1="- Non, il n'y en a pas. Il y en a une dans le frigidaire." someNumber="None" image="dg\026_006.gif" lang2="- Нет, её там нет. Есть одна в холодильнике.">
+      <audioTime in="25214" out="27609" />
+    </line>
+    <line lang1="- Y a-t-il un crayon sur la table?" someNumber="60" image="dg\026_007.gif" lang2="- На столе есть карандаш?">
+      <audioTime in="27609" out="29192" />
+    </line>
+    <line lang1="- Non, il n'y en a pas. Il y en a un sur le bureau." someNumber="None" image="dg\026_007.gif" lang2="- Нет, его там нет. Есть один на письменном столе.">
+      <audioTime in="29192" out="31686" />
+    </line>
+    <line lang1="- Y a-t-il une petite cuillère dans le verre?" someNumber="None" image="dg\026_008.gif" lang2="- В стакане есть маленькая ложка?">
+      <audioTime in="31686" out="33471" />
+    </line>
+    <line lang1="- Non, il n'y en a pas. Il y en a une dans la tasse." someNumber="730" image="dg\026_008.gif" lang2="- Нет, её там нет. Есть одна в чашке.">
+      <audioTime in="33471" out="36024" />
+    </line>
+  </lines>
+</lesson>

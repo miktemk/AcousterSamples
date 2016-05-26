@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="j_103.wav" dlgName="Сакура" dic="p103" />
+  <lines>
+    <line lang1="ー日本人*の*よう*に*自然*を*愛する*民族*は*いない*みたい*です。" someNumber="106" image="103_001.jpg" lang2="- Похоже, что нет другого народа, так любящего природу, как японцы.">
+      <audioTime in="0" out="5236" />
+    </line>
+    <line lang1="春*の*花、" someNumber="None" image="103_002.jpg" lang2="Говорят, что это народ, любующийся весенними цветами,">
+      <audioTime in="5236" out="7424" />
+    </line>
+    <line lang1="夏*の*緑、" someNumber="None" image="103_003.jpg" lang2="летней зеленью,">
+      <audioTime in="7424" out="8964" />
+    </line>
+    <line lang1="秋*の*紅葉、" someNumber="None" image="103_004.jpg" lang2="осенней покрасневшей листвой,">
+      <audioTime in="8964" out="10802" />
+    </line>
+    <line lang1="冬*の*雪*と*いう*四季*の*美しさ*を*楽しむ*民族*だ*そう*です*ね。" someNumber="None" image="103_005.jpg" lang2="зимними снегами - красотой всех четырех времен года.">
+      <audioTime in="10802" out="15770" />
+    </line>
+    <line lang1="ー日本に住んでいる外国人も" someNumber="None" image="103_005.jpg" lang2="- Говорят, что и у иностранцев, живущих в Японии,">
+      <audioTime in="15630" out="19144" />
+    </line>
+    <line lang1="自然*の*美*の*センス*に*富む*よう*に*なる*そう*です*よ。" someNumber="106" image="103_005.jpg" lang2="восприятие красоты природы становится богаче.">
+      <audioTime in="19144" out="22755" />
+    </line>
+    <line lang1="ー山本*さん、春*の*しょうちょう*は*桜*だ*そう*です*が、なぜ*です*か。" someNumber="None" image="103_008.jpg" lang2="- Ямамото-сан, говорят, что сакура - символ весны, а почему это так?">
+      <audioTime in="22755" out="29729" />
+    </line>
+    <line lang1="ーなぜ*でしょう*ね。" someNumber="None" image="103_008.jpg" lang2="- Интересно, почему же.">
+      <audioTime in="29729" out="31665" />
+    </line>
+    <line lang1="桜*の*花*が*咲いている*時間*は*短い*のに、ほか*の*花*より*愛されています。" someNumber="157" image="103_008.jpg" lang2="Хотя период цветения сакуры и недолог, она более любима, чем другие цветы.">
+      <audioTime in="31665" out="37848" />
+    </line>
+    <line lang1="―花*の*命*は*短い*です*ね。" someNumber="None" image="103_008.jpg" lang2="- Как коротка жизнь цветов (сакуры)!">
+      <audioTime in="37848" out="41000" />
+    </line>
+    <line lang1="―そう*です*ね。" someNumber="None" image="103_008.jpg" lang2="- В самом деле!">
+      <audioTime in="41000" out="42229" />
+    </line>
+    <line lang1="ところ*で、この*ごろ*テレビ*で*は*毎日*桜前線*の*こと*を*ほうそうしています。" someNumber="None" image="103_013.jpg" lang2="Кстати, в эту пору по телевизору каждый день сообщают о фронте цветения сакуры.">
+      <audioTime in="42229" out="48161" />
+    </line>
+    <line lang1="見た*こと*が*あります*か。" someNumber="110" image="103_013.jpg" lang2="(Вам) приходилось видеть?">
+      <audioTime in="48161" out="50080" />
+    </line>
+    <line lang1="―いいえ。それ*は*何*です*か。" someNumber="None" image="103_013.jpg" lang2="- Нет. А что это такое?">
+      <audioTime in="50080" out="52916" />
+    </line>
+    <line lang1="―桜*は*日本*で*一番*暖かい*沖縄*から*咲き始め、" someNumber="None" image="103_016.jpg" lang2="- Сакура начинает цвести на самом теплом в Японии острове Окинава">
+      <audioTime in="52916" out="58833" />
+    </line>
+    <line lang1="約*２ヵ月*かけて*北海道*まで*開花時*が*移動していきます。" someNumber="None" image="103_017.jpg" lang2="и, примерно, в течение двух месяцев сезон цветения перемещается до острова Хоккайдо.">
+      <audioTime in="58833" out="63336" />
+    </line>
+    <line lang1="同じ*ころ*に*桜*の*花*が*咲く*場所*を*線*で*結んで*地図*に*表わします。" someNumber="None" image="103_018.jpg" lang2="Места одновременного цветения сакуры связывают линией и обозначают на карте.">
+      <audioTime in="63336" out="69695" />
+    </line>
+    <line lang1="それ*を*桜前線*と*言います。" someNumber="152" image="103_018.jpg" lang2="Это называется фронтом цветения сакуры.">
+      <audioTime in="69695" out="72296" />
+    </line>
+    <line lang1="テレビ*で*は*毎日*桜前線*が*どこ*まで*来た*か*ほうそうしています。" someNumber="None" image="103_020.jpg" lang2="Каждый день сообщают по телевизору, до какой местности дошел фронт цветения сакуры.">
+      <audioTime in="72296" out="78179" />
+    </line>
+    <line lang1="ー桜*が*咲く*と*みんな*花見*に*行く*そう*です*が、" someNumber="None" image="103_021.jpg" lang2="- Говорят, что когда зацветает сакура, все едут на ханами,">
+      <audioTime in="78179" out="85406" />
+    </line>
+    <line lang1="山本*さん*は*いつも*どこ*へ*行きます*か。" someNumber="None" image="103_021.jpg" lang2="а куда обычно ездите Вы, Ямамото-сан?">
+      <audioTime in="85406" out="88052" />
+    </line>
+    <line lang1="ーぼく*は*郊外*へ*行きます*が、" someNumber="None" image="103_023.jpg" lang2="- Я езжу за город,">
+      <audioTime in="88052" out="91220" />
+    </line>
+    <line lang1="東京*の*上野*公園*に*も*花見*に*来る*人*が*おおぜい*いる*そう*です。" someNumber="143" image="103_024.jpg" lang2="но, говорят, что в парке Уэно в Токио тоже бывает многолюдно.">
+      <audioTime in="91220" out="95730" />
+    </line>
+    <line lang1="でも*やっぱり、郊外*の*方*が*いい*と*思います。" someNumber="28" image="103_025.jpg" lang2="Однако я считаю, что за городом всё-таки лучше.">
+      <audioTime in="95730" out="99529" />
+    </line>
+    <line lang1="見渡す*限り*山*に*柔らかい*ピンク色*の*毛布*を*敷いた*よう*です。" someNumber="127" image="103_025.jpg" lang2="Вокруг, насколько хватает глаз, на горы словно накинуто мягкое розовое одеяло.">
+      <audioTime in="99529" out="104977" />
+    </line>
+    <line lang1="匂い*も*いずる・・・" someNumber="None" image="103_025.jpg" lang2="И исходит благоухание...">
+      <audioTime in="104977" out="107516" />
+    </line>
+    <line lang1="ー山本*さん*は*詩人*みたい*です*ね。" someNumber="106" image="103_028.jpg" lang2="- Ямамото-сан, Вы словно поэт!">
+      <audioTime in="107516" out="111158" />
+    </line>
+    <line lang1="ー「百聞*は*一見*に*しかず」と*言われています*よ。" someNumber="72" image="103_029.jpg" lang2="- &quot;Лучше раз увидеть, чем сто раз услышать&quot;, говорится (в пословице).">
+      <audioTime in="111158" out="114422" />
+    </line>
+    <line lang1="一度*花見*に*行ったら*どう*です*か。" someNumber="091" image="103_029.jpg" lang2="Не лучше ли и Вам разок поехать на ханами?">
+      <audioTime in="114422" out="117351" />
+    </line>
+  </lines>
+</lesson>

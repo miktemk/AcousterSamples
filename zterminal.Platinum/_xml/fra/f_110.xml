@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_110.wav" dic="p110" dlgName="У меня есть ...меньше." dlgFile="exr\fg109.txt" author="Alexander" />
+  <lines>
+    <line lang1="- J'ai un peu de café." someNumber="780" image="dg\110_001.gif" lang2="- У меня есть немного кофе.">
+      <audioTime in="0" out="1088" />
+    </line>
+    <line lang1="- J'ai moins de café que toi. J'en ai peu." someNumber="None" image="dg\110_001.gif" lang2="- У меня меньше кофе, чем у тебя. У меня его мало.">
+      <audioTime in="1088" out="3520" />
+    </line>
+    <line lang1="- J'ai quelques livres." someNumber="None" image="dg\110_002.gif" lang2="- У меня есть несколько книг.">
+      <audioTime in="3520" out="4411" />
+    </line>
+    <line lang1="- J'ai moins de livres que toi. J'en ai peu." someNumber="810" image="dg\110_002.gif" lang2="- У меня меньше книг, чем у тебя. У меня их мало.">
+      <audioTime in="4411" out="7381" />
+    </line>
+    <line lang1="- J'ai un peu de viande." someNumber="None" image="dg\110_003.gif" lang2="- У меня есть немного мяса.">
+      <audioTime in="7381" out="8396" />
+    </line>
+    <line lang1="- J'ai moins de viande que toi. J'en ai peu." someNumber="None" image="dg\110_003.gif" lang2="- У меня меньше мяса, чем у тебя. У меня его мало.">
+      <audioTime in="8396" out="10800" />
+    </line>
+    <line lang1="- J'ai un peu d'argent." someNumber="210" image="dg\110_004.gif" lang2="- У меня есть немного денег.">
+      <audioTime in="10800" out="11774" />
+    </line>
+    <line lang1="- J'ai moins d'argent que toi. J'en ai peu." someNumber="None" image="dg\110_004.gif" lang2="- У меня меньше денег, чем у тебя. У меня их мало.">
+      <audioTime in="11774" out="14070" />
+    </line>
+    <line lang1="- J'ai un peu de légumes." someNumber="None" image="dg\110_005.gif" lang2="- У меня есть немного овощей.">
+      <audioTime in="14070" out="15192" />
+    </line>
+    <line lang1="- J'ai moins de légumes que toi. J'en ai peu." someNumber="None" image="dg\110_005.gif" lang2="- У меня меньше овощей, чем у тебя. У меня их мало.">
+      <audioTime in="15192" out="17718" />
+    </line>
+    <line lang1="- J'ai quelques biscuits." someNumber="None" image="dg\110_006.gif" lang2="- У меня есть несколько печений.">
+      <audioTime in="17718" out="18755" />
+    </line>
+    <line lang1="- J'ai moins de biscuits que toi. J'en ai peu." someNumber="460" image="dg\110_006.gif" lang2="- У меня меньше печений, чем у тебя. У меня их мало.">
+      <audioTime in="18755" out="21390" />
+    </line>
+    <line lang1="- J'ai quelques fournitures de bureau." someNumber="None" image="dg\110_007.gif" lang2="- У меня есть несколько письменных принадлежностей.">
+      <audioTime in="21390" out="22965" />
+    </line>
+    <line lang1="- J'en ai moins que toi. J'en ai peu." someNumber="None" image="dg\110_007.gif" lang2="- У меня их меньше, чем у тебя. У меня их мало.">
+      <audioTime in="22965" out="25132" />
+    </line>
+    <line lang1="- J'ai un peu de chocolat." someNumber="90" image="dg\110_008.gif" lang2="- У меня есть немного шоколада.">
+      <audioTime in="25132" out="26237" />
+    </line>
+    <line lang1="- J'en ai moins que toi. J'en ai peu." someNumber="None" image="dg\110_008.gif" lang2="- У меня его меньше, чем у тебя. У меня его мало.">
+      <audioTime in="26237" out="28385" />
+    </line>
+    <line lang1="- J'ai quelques cadeaux." someNumber="610" image="dg\110_009.gif" lang2="- У меня есть несколько подарков.">
+      <audioTime in="28385" out="29373" />
+    </line>
+    <line lang1="- J'en ai moins que toi. J'en ai peu." someNumber="None" image="dg\110_009.gif" lang2="- У меня их меньше, чем у тебя. У меня их мало.">
+      <audioTime in="29373" out="31316" />
+    </line>
+    <line lang1="- J'ai un peu d'encre." someNumber="None" image="dg\110_010.gif" lang2="- У меня есть немного чернил.">
+      <audioTime in="31316" out="32237" />
+    </line>
+    <line lang1="- J'en ai moins que toi. J'en ai peu." someNumber="None" image="dg\110_010.gif" lang2="- У меня их меньше, чем у тебя. У меня их мало.">
+      <audioTime in="32237" out="34178" />
+    </line>
+  </lines>
+</lesson>

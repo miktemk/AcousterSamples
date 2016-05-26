@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="FR_029.wav" dlgName="Вокзалы Парижа" dlgFile="exr\frg029.txt" />
+  <lines>
+    <line lang1="- Combien de gares y a-t-il à Paris?" someNumber="None" image="f.jpg" lang2="- Сколько вокзалов в Париже?">
+      <audioTime in="0" out="3056" />
+    </line>
+    <line lang1="- A Paris il y a cinq grandes gares:" someNumber="None" image="f.jpg" lang2="- В Париже пять больших вокзалов:">
+      <audioTime in="3056" out="5690" />
+    </line>
+    <line lang1="la gare du Nord, d'où les trains partent pour l'Angleterre, la Belgique et la Hollande," someNumber="None" image="f.jpg" lang2="Северный вокзал, откуда поезда отправляются в Англию, Бельгию, Голландию,">
+      <audioTime in="5690" out="11878" />
+    </line>
+    <line lang1="la gare de l'Est, où arrivent les trains venant d'Autriche, d'Allemagne," someNumber="None" image="f.jpg" lang2="Восточный вокзал, куда приезжают поезда из Австрии, Германии,">
+      <audioTime in="11878" out="17355" />
+    </line>
+    <line lang1="la gare de Lyon, où l'on prend le train pour l'Afrique du Nord, la Suisse et l'Italie," someNumber="None" image="f.jpg" lang2="Лионский вокзал, откуда отправляются поезда в Северную Африку, Швейцарию и Италию,">
+      <audioTime in="17355" out="22844" />
+    </line>
+    <line lang1="la gare d'Austerlitz, d'où l'on part pour l'Espagne et le Portugal," someNumber="None" image="f.jpg" lang2="Аустерлицкий вокзал, откуда можно ехать в Испанию и Португалию,">
+      <audioTime in="22844" out="27569" />
+    </line>
+    <line lang1="et la gare Saint-Lazare, où prennent le train les voyageurs qui vont en Angleterre, au Canada et aux Etats-Unis." someNumber="None" image="f.jpg" lang2="и вокзал Сен Лазар, откуда поезда вывозят пассажиров в Англию, Канаду и США.">
+      <audioTime in="27569" out="35851" />
+    </line>
+    <line lang1="- Et combien de classes les trains ont-ils en France?" someNumber="None" image="f.jpg" lang2="- Как распределяются места во французских поездах?">
+      <audioTime in="35851" out="39338" />
+    </line>
+    <line lang1="- Il y a deux classes dans les trains français." someNumber="None" image="f.jpg" lang2="- Во французских поездах имеются 2 класса.">
+      <audioTime in="39338" out="42026" />
+    </line>
+    <line lang1="Dans les wagons de première classe il y a six voyageurs par compartiment," someNumber="None" image="f.jpg" lang2="В вагонах первого класса шесть пассажиров в купе,">
+      <audioTime in="42026" out="47680" />
+    </line>
+    <line lang1="et dans les wagons de deuxième classe il a huit voyageurs par compartiment." someNumber="None" image="f.jpg" lang2="а в вагонах второго класса - восемь пассажиров в купе.">
+      <audioTime in="47680" out="53364" />
+    </line>
+    <line lang1="- Est-ce que les compartiments de deuxième classe ont des banquettes de cuir?" someNumber="None" image="f.jpg" lang2="- Кожаные ли сиденья в вагонах второго класса?">
+      <audioTime in="53364" out="57725" />
+    </line>
+    <line lang1="- Oui, elles ont des banquettes de cuir ou de drap" someNumber="None" image="f.jpg" lang2="- Да, они имеют кожаные или суконные сиденья,">
+      <audioTime in="57725" out="61034" />
+    </line>
+    <line lang1="et les compartiments de première classe ont des fauteuils." someNumber="None" image="f.jpg" lang2="а в мягких купе 1 класса - кресла.">
+      <audioTime in="61034" out="65205" />
+    </line>
+    <line lang1="- J'ai entendu dire que le réseau français est un des plus denses." someNumber="None" image="f.jpg" lang2="- Мне говорили, что французская железнодорожная сеть является одной из наиболее густых.">
+      <audioTime in="65205" out="69538" />
+    </line>
+    <line lang1="- Oui, il a une longueur de 42.000 kilomètres." someNumber="None" image="f.jpg" lang2="- Да, она длиной в 42000 километров.">
+      <audioTime in="69538" out="74656" />
+    </line>
+    <line lang1="Grâce au travail dévoué de nos employés de gare, les cheminots comme on les appelle," someNumber="None" image="f.jpg" lang2="Благодаря хорошей работе служащих наших вокзалов &quot;ле шемино&quot; как их называют,">
+      <audioTime in="74656" out="81166" />
+    </line>
+    <line lang1="les trains français sont très rapides et assurent aux voyageurs un plein confort." someNumber="None" image="f.jpg" lang2="французские поезда движутся очень быстро и обеспечивают пассажирам полный комфорт.">
+      <audioTime in="81166" out="88055" />
+    </line>
+    <line lang1="- Les Français voyagent beaucoup, n'est-ce pas?" someNumber="None" image="f.jpg" lang2="- Французы много путешествуют, не так ли?">
+      <audioTime in="88055" out="90583" />
+    </line>
+    <line lang1="- Les jeunes Français voyagent beaucoup, dans l'esprit du dicton:" someNumber="None" image="f.jpg" lang2="- Молодые французы много путешествуют, согласно поговорке:">
+      <audioTime in="90583" out="95243" />
+    </line>
+    <line lang1="&quot;Les voyages forment la jeunesse&quot;." someNumber="None" image="f.jpg" lang2="&quot;Путешествия развивают молодежь&quot;.">
+      <audioTime in="95243" out="98114" />
+    </line>
+    <line lang1="Mais en France on sait aussi que &quot;Partir c'est mourir un peu&quot;," someNumber="None" image="f.jpg" lang2="Но во Франции известно также, что &quot;ехать - значит частично умереть&quot;,">
+      <audioTime in="98114" out="103915" />
+    </line>
+    <line lang1="c'est pourquoi on s'embrasse beaucoup sur les quais des gares françaises." someNumber="None" image="f.jpg" lang2="и поэтому на перронах французских вокзалов так много целуются.">
+      <audioTime in="103915" out="110356" />
+    </line>
+  </lines>
+</lesson>

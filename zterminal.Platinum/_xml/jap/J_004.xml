@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="J_004.wav" dlgName="Какого цвета?" dic="p004" />
+  <lines>
+    <line lang1="ーたかやま*さん、たかやま*さん*の*かさ*は*どれ*です*か。" someNumber="03" image="004_001.jpg" lang2="- Такаяма-сан, который из этих Ваш зонт?">
+      <audioTime in="0" out="5344" />
+    </line>
+    <line lang1="ーわたし*の*かさ*は*くろい*かさ*です。" someNumber="22" image="004_001.jpg" lang2="- Мой зонт - чёрный.">
+      <audioTime in="5344" out="8789" />
+    </line>
+    <line lang1="―これ*です*か。" someNumber="None" image="004_003.jpg" lang2="- Этот?">
+      <audioTime in="8789" out="11337" />
+    </line>
+    <line lang1="―いいえ、私*の*かさ*は*ふるい*です。" someNumber="141" image="004_004.jpg" lang2="- Нет, мой зонт - старый.">
+      <audioTime in="11337" out="14918" />
+    </line>
+    <line lang1="それ*です。" someNumber="143" image="004_005.jpg" lang2="Тот (что рядом с Вами).">
+      <audioTime in="14918" out="16665" />
+    </line>
+    <line lang1="―あおい*かさ*は*だれ*の*かさ*です*か。" someNumber="15" image="004_006.jpg" lang2="- (А) синий зонт чей?">
+      <audioTime in="16665" out="20823" />
+    </line>
+    <line lang1="ーそれ*は*やまだ*せんせい*の*です。" someNumber="None" image="004_006.jpg" lang2="- Это - зонт учителя Ямада.">
+      <audioTime in="20823" out="24317" />
+    </line>
+    <line lang1="それ*は*せんせい*の*あたらしい*かさ*です。" someNumber="22" image="004_008.jpg" lang2="Это новый зонт учителя.">
+      <audioTime in="24317" out="28938" />
+    </line>
+    <line lang1="―すみません、しろい*はな*は*なん*の*はな*です*か。　" someNumber="None" image="004_009.jpg" lang2="- Простите, что за цветы те белые?">
+      <audioTime in="28938" out="35559" />
+    </line>
+    <line lang1="―しろい*はな*は*ゆり*です。" someNumber="124" image="004_010.jpg" lang2="- Белые цветы - лилии.">
+      <audioTime in="35559" out="38584" />
+    </line>
+    <line lang1="―あかい*はな*は*ばら*です*ね。" someNumber="122" image="004_011.jpg" lang2="- (А) красные цветы - розы, не так ли?">
+      <audioTime in="38584" out="42925" />
+    </line>
+    <line lang1="―そう*です。きいろい*はな*も*ばら*です。" someNumber="142" image="004_011.jpg" lang2="- Да. Жёлтые цветы тоже розы.">
+      <audioTime in="42925" out="47803" />
+    </line>
+    <line lang1="あおい*の*は*あじさい*です。" someNumber="None" image="004_013.jpg" lang2="Синие - это гортензии.">
+      <audioTime in="47803" out="51456" />
+    </line>
+    <line lang1="ーすみません、あおい*の*は*なん*です*か。" someNumber="140" image="004_013.jpg" lang2="- Простите, синие - это что?">
+      <audioTime in="51456" out="56480" />
+    </line>
+    <line lang1="ーあじさい*です。それ*は*あおい*あじさい*です。" someNumber="None" image="004_013.jpg" lang2="- Гортензии. Это синие гортензии.">
+      <audioTime in="56480" out="61917" />
+    </line>
+    <line lang1="―おおきい*です*ね。" someNumber="None" image="004_013.jpg" lang2="- Какие большие!">
+      <audioTime in="61917" out="65099" />
+    </line>
+  </lines>
+</lesson>

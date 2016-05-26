@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="FR_011.wav" dlgName="Выбор гостиницы" dlgFile="exr\frg011.txt" />
+  <lines>
+    <line lang1="- Nous voilà au terme de notre voyage." someNumber="None" image="f.jpg" lang2="- Вот мы у цели нашего путешествия.">
+      <audioTime in="0" out="3298" />
+    </line>
+    <line lang1="- Dans quel hôtel descendrons-nous?" someNumber="None" image="f.jpg" lang2="- В какой гостинице задержимся?">
+      <audioTime in="3298" out="5755" />
+    </line>
+    <line lang1="- Je ne le sais pas encore." someNumber="None" image="f.jpg" lang2="- Я ещё этого не знаю.">
+      <audioTime in="5755" out="8088" />
+    </line>
+    <line lang1="Allons prendre des informations au bureau de renseignements." someNumber="None" image="f.jpg" lang2="Пойдёмте узнать в справочном бюро.">
+      <audioTime in="8088" out="11941" />
+    </line>
+    <line lang1="- Très bien, allons-y." someNumber="None" image="f.jpg" lang2="- Хорошо, пойдёмте туда.">
+      <audioTime in="11941" out="13948" />
+    </line>
+    <line lang1="Tiens, ce n'est pas loin, nous y sommes déjà." someNumber="None" image="f.jpg" lang2="Смотрите, это недалеко, мы уже на месте.">
+      <audioTime in="13948" out="17086" />
+    </line>
+    <line lang1="- Pardon, monsieur, pouvez-vous nous indiquer un hôtel pas trop cher et assez confortable?" someNumber="None" image="f.jpg" lang2="- Извините, пожалуйста, можете ли вы нам указать гостиницу не слишком дорогую и довольно удобную?">
+      <audioTime in="17086" out="23686" />
+    </line>
+    <line lang1="- Très volontiers." someNumber="None" image="f.jpg" lang2="- Охотно.">
+      <audioTime in="23686" out="24859" />
+    </line>
+    <line lang1="Voici la liste des hôtels classés par catégories et par prix." someNumber="None" image="f.jpg" lang2="Вот список гостиниц, распределенных по категориям и ценам.">
+      <audioTime in="24859" out="29420" />
+    </line>
+    <line lang1="- Merci bien. Mais à quel hôtel nous conseillez-vous de descendre?" someNumber="None" image="f.jpg" lang2="- Спасибо. Но в какой гостинице вы советуете нам задержаться?">
+      <audioTime in="29420" out="33980" />
+    </line>
+    <line lang1="- A l'Hôtel du Palais Royal." someNumber="None" image="f.jpg" lang2="- В гостинице Пале-Руаяль.">
+      <audioTime in="33980" out="36063" />
+    </line>
+    <line lang1="Les chambres y sont agréables et les prix sont relativement bas." someNumber="None" image="f.jpg" lang2="Там приятные комнаты и цены относительно низкие.">
+      <audioTime in="36063" out="40042" />
+    </line>
+    <line lang1="- Merci, c'est justement ce qu'il nous faut." someNumber="None" image="f.jpg" lang2="- Спасибо, это именно то, что нам надо.">
+      <audioTime in="40042" out="43401" />
+    </line>
+  </lines>
+</lesson>

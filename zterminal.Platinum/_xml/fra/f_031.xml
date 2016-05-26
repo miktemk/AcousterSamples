@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="f_031.wav" dic="p031" dlgName="В саду." dlgFile="exr\fg031.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Où est Lucie, Jean?" someNumber="780" image="dg\031_001.gif" lang2="- Где Люси, Жан?">
+      <audioTime in="0" out="1294" />
+    </line>
+    <line lang1="- Elle est dans le jardin, Jeanne." someNumber="780" image="dg\031_001.gif" lang2="- Она в саду, Жанна.">
+      <audioTime in="1294" out="3022" />
+    </line>
+    <line lang1="- Que fait-elle?" someNumber="None" image="dg\031_002.gif" lang2="- Что она делает?">
+      <audioTime in="3022" out="3882" />
+    </line>
+    <line lang1="- Elle est sous l'arbre." someNumber="None" image="dg\031_002.gif" lang2="- Она сидит под деревом.">
+      <audioTime in="3882" out="5134" />
+    </line>
+    <line lang1="- Et Pierre, est-il dans le jardin?" someNumber="810" image="dg\031_003.gif" lang2="- Пьер тоже в саду?">
+      <audioTime in="5134" out="6770" />
+    </line>
+    <line lang1="- Oui, il grimpe sur un arbre." someNumber="810" image="dg\031_003.gif" lang2="- Да, он взбирается на дерево.">
+      <audioTime in="6770" out="9296" />
+    </line>
+    <line lang1="- Quoi? Qui grimpe sur un arbre?" someNumber="None" image="dg\031_004.gif" lang2="- Что? Кто взбирается на дерево?">
+      <audioTime in="9296" out="12245" />
+    </line>
+    <line lang1="- C'est Pierre." someNumber="None" image="dg\031_004.gif" lang2="- Пьер.">
+      <audioTime in="12245" out="13629" />
+    </line>
+    <line lang1="- Et le chien?" someNumber="50" image="dg\031_005.gif" lang2="- А собака?">
+      <audioTime in="13629" out="14430" />
+    </line>
+    <line lang1="Il court aussi dans le jardin. Il court dans l'herbe. Il court après le chat." someNumber="None" image="dg\031_006.gif" lang2="Она тоже бегает в саду. Она бегает по траве. Она бегает за кошкой.">
+      <audioTime in="14430" out="18194" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="FR_001.wav" dlgName="Семья" dlgFile="exr\frg001.txt" />
+  <lines>
+    <line lang1="- Voici un homme." someNumber="None" image="f.jpg" lang2="- Вот мужчина.">
+      <audioTime in="0" out="2819" />
+    </line>
+    <line lang1="- C'est monsieur Jacques Vernet." someNumber="None" image="f.jpg" lang2="- Это господин Жак Верне.">
+      <audioTime in="2819" out="6061" />
+    </line>
+    <line lang1="- Monsieur Jacques Vernet est un homme." someNumber="None" image="f.jpg" lang2="- Господин Жак Верне - это мужчина.">
+      <audioTime in="6061" out="10098" />
+    </line>
+    <line lang1="- Voici une femme." someNumber="None" image="f.jpg" lang2="- Вот женщина.">
+      <audioTime in="10098" out="12961" />
+    </line>
+    <line lang1="- C'est madame Jeanne Vernet." someNumber="None" image="f.jpg" lang2="- Это госпожа Жанна Верне.">
+      <audioTime in="12961" out="16179" />
+    </line>
+    <line lang1="- Madame Jeanne Vernet est une femme." someNumber="None" image="f.jpg" lang2="- Госпожа Жанна Верне - это женщина.">
+      <audioTime in="16179" out="20604" />
+    </line>
+    <line lang1="- Voici un garçon." someNumber="None" image="f.jpg" lang2="- Вот мальчик.">
+      <audioTime in="20604" out="23416" />
+    </line>
+    <line lang1="- C'est Pierre." someNumber="None" image="f.jpg" lang2="- Это Пьер.">
+      <audioTime in="23416" out="25316" />
+    </line>
+    <line lang1="- Pierre est un garçon." someNumber="None" image="f.jpg" lang2="- Пьер - это мальчик.">
+      <audioTime in="25316" out="28357" />
+    </line>
+    <line lang1="- Voici une fille." someNumber="None" image="f.jpg" lang2="- Вот девушка.">
+      <audioTime in="28357" out="31194" />
+    </line>
+    <line lang1="- C'est Françoise." someNumber="None" image="f.jpg" lang2="- Это Франсуаза.">
+      <audioTime in="31194" out="33799" />
+    </line>
+    <line lang1="- Françoise est une fille." someNumber="None" image="f.jpg" lang2="- Франсуаза - это девушка.">
+      <audioTime in="33799" out="40809" />
+    </line>
+    <line lang1="- C'est une famille." someNumber="None" image="f.jpg" lang2="- Это семья.">
+      <audioTime in="36827" out="39240" />
+    </line>
+    <line lang1="- Qui est cet homme?" someNumber="None" image="f.jpg" lang2="- Кто этот мужчина?">
+      <audioTime in="40236" out="43656" />
+    </line>
+    <line lang1="- C'est monsieur Jacques Vernet." someNumber="None" image="f.jpg" lang2="- Это господин Жак Верне.">
+      <audioTime in="43656" out="46763" />
+    </line>
+    <line lang1="- Et qui est cette dame?" someNumber="None" image="f.jpg" lang2="- А кто эта женщина?">
+      <audioTime in="46763" out="49611" />
+    </line>
+    <line lang1="- C'est madame Jeanne Vernet." someNumber="None" image="f.jpg" lang2="- Это госпожа Жанна Верне.">
+      <audioTime in="49611" out="52704" />
+    </line>
+    <line lang1="- Et ce jeune homme?" someNumber="None" image="f.jpg" lang2="- А этот молодой человек?">
+      <audioTime in="52704" out="54958" />
+    </line>
+    <line lang1="- C'est Jean." someNumber="None" image="f.jpg" lang2="- Это Жан.">
+      <audioTime in="54958" out="56493" />
+    </line>
+    <line lang1="- Qui est Jean?" someNumber="None" image="f.jpg" lang2="- Кто такой Жан?">
+      <audioTime in="56493" out="58523" />
+    </line>
+    <line lang1="- Jean est mon ami." someNumber="None" image="f.jpg" lang2="- Жан - это мой друг.">
+      <audioTime in="58523" out="61084" />
+    </line>
+    <line lang1="- Et qui est cette jeune fille, là-bas?" someNumber="None" image="f.jpg" lang2="- А кто эта молодая девушка?">
+      <audioTime in="61084" out="64110" />
+    </line>
+    <line lang1="- Cette jeune fille, c'est Françoise." someNumber="None" image="f.jpg" lang2="- Эта молодая девушка - это Франсуаза.">
+      <audioTime in="64110" out="68081" />
+    </line>
+    <line lang1="- C'est une famille." someNumber="None" image="f.jpg" lang2="- Это семья.">
+      <audioTime in="68081" out="70833" />
+    </line>
+  </lines>
+</lesson>

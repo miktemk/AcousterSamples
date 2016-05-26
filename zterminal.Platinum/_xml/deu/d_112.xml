@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_112.wav" dic="p112" dlgName="Красное яблоко слаще." dlgFile="exr\dg111.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Ist der rote Apfel süßer als der grüne?" someNumber="270" image="dg\112_001.gif" lang2="- Красное яблоко слаще, чем зелёное?">
+      <audioTime in="546" out="3500" />
+    </line>
+    <line lang1="- Nein, der rote Apfel #ist so süß wie der grüne." someNumber="310" image="dg\112_001.gif" lang2="- Нет, красное яблоко такое же сладкое, как и зелёное.">
+      <audioTime in="3610" out="7547" />
+    </line>
+    <line lang1="- #Ist der Mann kleiner als die Frau?" someNumber="220" image="dg\112_002.gif" lang2="- Мужчина ниже ростом, чем женщина?">
+      <audioTime in="7438" out="9626" />
+    </line>
+    <line lang1="- Nein, der Mann #ist so groß wie die Frau." someNumber="None" image="dg\112_002.gif" lang2="- Нет, мужчина такого же роста, как и женщина.">
+      <audioTime in="9735" out="12469" />
+    </line>
+    <line lang1="- #Ist der Plattenspieler links teuerer als der Plattenspieler rechts?" someNumber="None" image="dg\112_003.gif" lang2="- Проигрыватель слева стоит дороже, чем проигрыватель справа?">
+      <audioTime in="12798" out="16517" />
+    </line>
+    <line lang1="- Nein, der Plattenspieler links #ist so teuer wie der Plattenspieler rechts." someNumber="None" image="dg\112_003.gif" lang2="- Нет, проигрыватель слева такой же дорогой, как и проигрыватель справа.">
+      <audioTime in="16517" out="20988" />
+    </line>
+    <line lang1="- #Ist der rote Bleistift schlechter #gespitzt als der grüne?" someNumber="None" image="dg\112_004.gif" lang2="- Красный карандаш заточен хуже, чем зелёный?">
+      <audioTime in="21330" out="24940" />
+    </line>
+    <line lang1="- Nein, der rote Bleistift #ist so #schlecht gespitzt wie der grüne." someNumber="None" image="dg\112_004.gif" lang2="- Нет, красный карандаш заточен так же плохо, как и зелёный.">
+      <audioTime in="25050" out="29316" />
+    </line>
+    <line lang1="- #Ist die weiße Tasche neuer als die schwarze?" someNumber="270" image="dg\112_005.gif" lang2="- Белая сумка новее, чем чёрная?">
+      <audioTime in="29643" out="33035" />
+    </line>
+    <line lang1="- Nein, die weiße Tasche #ist nicht so neu wie die schwarze." someNumber="None" image="dg\112_005.gif" lang2="- Нет, белая сумка не такая новая, как чёрная.">
+      <audioTime in="33363" out="37410" />
+    </line>
+    <line lang1="- #Ist der Polizist größer als die Polizistin?" someNumber="None" image="dg\112_006.gif" lang2="- Мужчина-полицейский выше, чем женщина-полицейский?">
+      <audioTime in="37520" out="40255" />
+    </line>
+    <line lang1="- Nein, der Polizist #ist so groß wie die Polizistin." someNumber="None" image="dg\112_006.gif" lang2="- Нет, мужчина-полицейский такого же роста, как и женщина-полицейский.">
+      <audioTime in="40255" out="43822" />
+    </line>
+    <line lang1="- #Ist die Frau links anziehender als die Frau rechts?" someNumber="None" image="dg\112_007.gif" lang2="- Женщина слева более привлекательна, чем женщина справа?">
+      <audioTime in="43974" out="47583" />
+    </line>
+    <line lang1="- Nein, die Frau links #ist so anziehend wie die Frau rechts." someNumber="None" image="dg\112_007.gif" lang2="- Нет, женщина слева так же привлекательна, как женщина справа.">
+      <audioTime in="47583" out="52099" />
+    </line>
+    <line lang1="- #Ist der Junge älter als das Mädchen?" someNumber="None" image="dg\112_008.gif" lang2="- Мальчик старше, чем девочка?">
+      <audioTime in="52616" out="55132" />
+    </line>
+    <line lang1="- Nein, der Junge #ist so alt wie das Mädchen." someNumber="140" image="dg\112_008.gif" lang2="- Нет, мальчик такого же возраста, как и девочка.">
+      <audioTime in="55132" out="58427" />
+    </line>
+    <line lang1="- #Ist der braune Koffer leichter als der blaue?" someNumber="None" image="dg\112_009.gif" lang2="- Коричневый чемодан легче, чем синий?">
+      <audioTime in="58523" out="61585" />
+    </line>
+    <line lang1="- Nein, der braune Koffer #ist so schwer wie der blaue." someNumber="270" image="dg\112_009.gif" lang2="- Нет, коричневый чемодан такой же тяжёлый, как и синий.">
+      <audioTime in="61585" out="64972" />
+    </line>
+    <line lang1="- #Ist das weiße Messer schärfer als das schwarze?" someNumber="None" image="dg\112_010.gif" lang2="- Белый нож острее, чем чёрный?">
+      <audioTime in="64972" out="68042" />
+    </line>
+    <line lang1="- Nein, das weiße Messer #ist so scharf wie das schwarze." someNumber="310" image="dg\112_010.gif" lang2="- Нет, белый нож такой же острый, как и чёрный.">
+      <audioTime in="68148" out="71758" />
+    </line>
+  </lines>
+</lesson>

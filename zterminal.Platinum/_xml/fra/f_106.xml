@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_106.wav" dic="p106" dlgName="Почему?... Потому что..." dlgFile="exr\fg105.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Pourquoi cette dame montre-t-elle cette valise?" someNumber="470" image="dg\106_001.gif" lang2="- Почему эта дама указывает на этот чемодан?">
+      <audioTime in="0" out="2275" />
+    </line>
+    <line lang1="- Parce qu'elle veut qu'il la porte." someNumber="None" image="dg\106_001.gif" lang2="- Потому что она хочет, чтобы он его нес.">
+      <audioTime in="2275" out="3808" />
+    </line>
+    <line lang1="- Pourquoi lui donne-t-il sa photo?" someNumber="None" image="dg\106_002.gif" lang2="- Почему он ей даёт свою фотографию?">
+      <audioTime in="3808" out="5305" />
+    </line>
+    <line lang1="- Parce qu'il veut qu'elle la garde." someNumber="None" image="dg\106_002.gif" lang2="- Потому что он хочет, чтобы она её сохранила.">
+      <audioTime in="5305" out="7103" />
+    </line>
+    <line lang1="- Pourquoi leur disent-elles &quot;au revoir&quot;?" someNumber="None" image="dg\106_003.gif" lang2="- Почему они им говорят &quot;до свидания&quot;?">
+      <audioTime in="7103" out="9180" />
+    </line>
+    <line lang1="- Parce qu'elles ne veulent pas qu'ils s'ennuient d'elles." someNumber="None" image="dg\106_003.gif" lang2="- Потому что они не хотят, чтобы они по ним скучали.">
+      <audioTime in="9180" out="11078" />
+    </line>
+    <line lang1="- Pourquoi lui prend-elle le couteau?" someNumber="50" image="dg\106_004.gif" lang2="- Почему она у него берет нож?">
+      <audioTime in="11078" out="12740" />
+    </line>
+    <line lang1="- Parce qu'elle ne veut pas qu'il se blesse." someNumber="None" image="dg\106_004.gif" lang2="- Потому что она не хочет, чтобы он порезался.">
+      <audioTime in="12740" out="14519" />
+    </line>
+    <line lang1="- Pourquoi le policier parle-t-il à cet homme et à cette femme?" someNumber="None" image="dg\106_005.gif" lang2="- Почему полицейский разговаривает с этим мужчиной и с этой женщиной?">
+      <audioTime in="14519" out="17478" />
+    </line>
+    <line lang1="- Parce qu'il veut qu'ils se déplacent." someNumber="None" image="dg\106_005.gif" lang2="- Потому что он хочет, чтобы они отъехали.">
+      <audioTime in="17478" out="19212" />
+    </line>
+    <line lang1="- Pourquoi cette dame dit-elle à cette fille de prendre garde?" someNumber="None" image="dg\106_006.gif" lang2="- Почему эта женщина говорит этой девушке быть осторожной?">
+      <audioTime in="19212" out="22424" />
+    </line>
+    <line lang1="- Parce qu'elle ne veut pas, qu'elle la perde." someNumber="None" image="dg\106_006.gif" lang2="- Потому что она не хочет, чтобы она его потеряла.">
+      <audioTime in="22424" out="24149" />
+    </line>
+    <line lang1="- Pourquoi met-il ce disque?" someNumber="200" image="dg\106_007.gif" lang2="- Зачем он ставит эту пластинку?">
+      <audioTime in="24149" out="25495" />
+    </line>
+    <line lang1="- Parce qu'il veut qu'on l'écoute." someNumber="None" image="dg\106_007.gif" lang2="- Потому что он хочет, чтобы её послушали.">
+      <audioTime in="25495" out="26897" />
+    </line>
+    <line lang1="- Pourquoi parle-t-elle à ce petit garçon?" someNumber="None" image="dg\106_008.gif" lang2="- Зачем она разговаривает с этим маленьким мальчиком?">
+      <audioTime in="26897" out="29226" />
+    </line>
+    <line lang1="- Parce qu'elle ne veut pas qu'il se blesse." someNumber="None" image="dg\106_008.gif" lang2="- Потому что она не хочет, чтобы он поранился.">
+      <audioTime in="29226" out="30886" />
+    </line>
+    <line lang1="- Pourquoi ce vendeur parle-t-il à cet homme?" someNumber="210" image="dg\106_009.gif" lang2="- Почему этот продавец разговаривает с этим мужчиной?">
+      <audioTime in="30886" out="33081" />
+    </line>
+    <line lang1="- Parce qu'il veut, qu'il le décrive." someNumber="None" image="dg\106_009.gif" lang2="- Потому что он хочет, чтобы он его описал.">
+      <audioTime in="33081" out="34786" />
+    </line>
+    <line lang1="- Pourquoi cet homme montre-t-il sa voiture à sa femme?" someNumber="None" image="dg\106_010.gif" lang2="- Зачем этот мужчина показывает свою машину жене?">
+      <audioTime in="34786" out="37396" />
+    </line>
+    <line lang1="- Parce qu'il ne veut pas qu'elle la conduise." someNumber="None" image="dg\106_010.gif" lang2="- Потому что он не хочет, чтобы она на ней ездила.">
+      <audioTime in="37396" out="39205" />
+    </line>
+  </lines>
+</lesson>

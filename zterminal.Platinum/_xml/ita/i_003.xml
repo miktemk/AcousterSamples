@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="i_003.wav" dic="p003" dlgName="B гардеробе." dlgFile="exr\ig003.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Il mio cappotto e l'ombrello, per favore." someNumber="None" image="dg\003_001.gif" lang2="- Моё пальто и мой зонтик, пожалуйста.">
+      <audioTime in="71" out="2680" />
+    </line>
+    <line lang1="Ecco il mio scontrino." someNumber="None" image="dg\003_002.gif" lang2="Вот мой номерок.">
+      <audioTime in="2680" out="4503" />
+    </line>
+    <line lang1="- Grazie, signore." someNumber="None" image="dg\003_003.gif" lang2="- Спасибо, сеньор.">
+      <audioTime in="4537" out="5967" />
+    </line>
+    <line lang1="Numero cinque." someNumber="None" image="dg\003_003.gif" lang2="Номер пять.">
+      <audioTime in="6325" out="7790" />
+    </line>
+    <line lang1="Ecco il Suo ombrello e il Suo cappotto." someNumber="None" image="dg\003_004.gif" lang2="Вот Ваш зонтик и Ваше пальто.">
+      <audioTime in="8004" out="10828" />
+    </line>
+    <line lang1="- No, questo non è il mio ombrello." someNumber="None" image="dg\003_005.gif" lang2="- Нет, это не мой зонтик.">
+      <audioTime in="11042" out="13508" />
+    </line>
+    <line lang1="- Mi scusi, signore." someNumber="None" image="dg\003_005.gif" lang2="- Простите, сеньор.">
+      <audioTime in="13650" out="15080" />
+    </line>
+    <line lang1="È questo il Suo ombrello?" someNumber="None" image="dg\003_006.gif" lang2="Это Ваш зонтик?">
+      <audioTime in="15222" out="17189" />
+    </line>
+    <line lang1="- No, non è il mio!" someNumber="None" image="dg\003_006.gif" lang2="- Нет, не мой!">
+      <audioTime in="17545" out="19440" />
+    </line>
+    <line lang1="- E questo?" someNumber="None" image="dg\003_007.gif" lang2="- А это Ваш?">
+      <audioTime in="19440" out="20569" />
+    </line>
+    <line lang1="- Sì, questo è il mio." someNumber="None" image="dg\003_007.gif" lang2="- Да, это мой.">
+      <audioTime in="20690" out="22334" />
+    </line>
+    <line lang1="Grazie mille." someNumber="None" image="dg\003_007.gif" lang2="Большое спасибо.">
+      <audioTime in="22334" out="23734" />
+    </line>
+  </lines>
+</lesson>

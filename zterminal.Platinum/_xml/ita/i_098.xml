@@ -1,0 +1,113 @@
+<lesson>
+  <header wav="i_098.wav" dic="p098" dlgName="Это Ваши?.." dlgFile="exr\ig097.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Sono sue queste chiavi?" someNumber="None" image="dg\098_001.gif" lang2="- Это Ваши ключи?">
+      <audioTime in="90" out="1727" />
+    </line>
+    <line lang1="- Sì, sono mie." someNumber="None" image="dg\098_001.gif" lang2="- Да, мои.">
+      <audioTime in="1742" out="3060" />
+    </line>
+    <line lang1="Mi appartengono." someNumber="None" image="dg\098_001.gif" lang2="Они принадлежат мне.">
+      <audioTime in="3015" out="4393" />
+    </line>
+    <line lang1="- È di Antonio questa lettera?" someNumber="500" image="dg\098_002.gif" lang2="- Это письмо Антонио?">
+      <audioTime in="4485" out="6454" />
+    </line>
+    <line lang1="- Sì, è sua." someNumber="None" image="dg\098_002.gif" lang2="- Да, его.">
+      <audioTime in="6423" out="7909" />
+    </line>
+    <line lang1="Gli appartiene." someNumber="None" image="dg\098_002.gif" lang2="Оно принадлежит ему.">
+      <audioTime in="7863" out="8939" />
+    </line>
+    <line lang1="- È mio questo vestito?" someNumber="None" image="dg\098_003.gif" lang2="- Это моя одежда?">
+      <audioTime in="9059" out="11060" />
+    </line>
+    <line lang1="- Sì, è tuo." someNumber="None" image="dg\098_003.gif" lang2="- Да, твоя.">
+      <audioTime in="11076" out="12908" />
+    </line>
+    <line lang1="Ti appartiene." someNumber="None" image="dg\098_003.gif" lang2="Она принадлежит тебе.">
+      <audioTime in="12817" out="14242" />
+    </line>
+    <line lang1="- È di Gianna questo passaporto?" someNumber="90" image="dg\098_004.gif" lang2="- Этот паспорт Джанны?">
+      <audioTime in="14332" out="16635" />
+    </line>
+    <line lang1="- Sì, è suo." someNumber="None" image="dg\098_004.gif" lang2="- Да, её.">
+      <audioTime in="16706" out="17782" />
+    </line>
+    <line lang1="Le appartiene." someNumber="None" image="dg\098_004.gif" lang2="Он принадлежит ей.">
+      <audioTime in="17782" out="18957" />
+    </line>
+    <line lang1="- Sono loro questi biglietti?" someNumber="None" image="dg\098_005.gif" lang2="- Это их билеты?">
+      <audioTime in="19207" out="21217" />
+    </line>
+    <line lang1="- Sì, sono loro." someNumber="None" image="dg\098_005.gif" lang2="- Да, их.">
+      <audioTime in="21368" out="22614" />
+    </line>
+    <line lang1="Appartengono a loro." someNumber="None" image="dg\098_005.gif" lang2="Они принадлежат им.">
+      <audioTime in="22645" out="24094" />
+    </line>
+    <line lang1="- È Suo quest'orologio?" someNumber="None" image="dg\098_006.gif" lang2="- Это Ваши часы?">
+      <audioTime in="24165" out="25981" />
+    </line>
+    <line lang1="- Sì, è mio." someNumber="None" image="dg\098_006.gif" lang2="- Да, мои.">
+      <audioTime in="26010" out="27753" />
+    </line>
+    <line lang1="Mi appartiene." someNumber="None" image="dg\098_006.gif" lang2="Они принадлежат мне.">
+      <audioTime in="27723" out="28960" />
+    </line>
+    <line lang1="- Sono suoi questi fiori?" someNumber="None" image="dg\098_007.gif" lang2="- Это её цветы?">
+      <audioTime in="29074" out="30848" />
+    </line>
+    <line lang1="- Sì, sono suoi." someNumber="None" image="dg\098_007.gif" lang2="- Да, её.">
+      <audioTime in="31057" out="32534" />
+    </line>
+    <line lang1="Le appartengono." someNumber="None" image="dg\098_007.gif" lang2="Они принадлежат ей.">
+      <audioTime in="32534" out="33979" />
+    </line>
+    <line lang1="- È mia questa barca?" someNumber="None" image="dg\098_008.gif" lang2="- Это моя лодка?">
+      <audioTime in="34148" out="35702" />
+    </line>
+    <line lang1="- Sì, è tua." someNumber="None" image="dg\098_008.gif" lang2="- Да, твоя.">
+      <audioTime in="35943" out="37389" />
+    </line>
+    <line lang1="Ti appartiene." someNumber="None" image="dg\098_008.gif" lang2="Она принадлежит тебе.">
+      <audioTime in="37419" out="38561" />
+    </line>
+    <line lang1="- È di Nicola questo dizionario fraseologico?" someNumber="None" image="dg\098_009.gif" lang2="- Этот фразеологический словарь Николы?">
+      <audioTime in="38651" out="41595" />
+    </line>
+    <line lang1="- Sì, è suo." someNumber="None" image="dg\098_009.gif" lang2="- Да, его.">
+      <audioTime in="41596" out="42946" />
+    </line>
+    <line lang1="Gli appartiene." someNumber="None" image="dg\098_009.gif" lang2="Он принадлежит ему.">
+      <audioTime in="42924" out="44141" />
+    </line>
+    <line lang1="- Sono di Lucia e Claudio questi martelli?" someNumber="None" image="dg\098_010.gif" lang2="- Эти молотки Лучии и Клаудио?">
+      <audioTime in="44230" out="47107" />
+    </line>
+    <line lang1="- Sì, sono loro." someNumber="None" image="dg\098_010.gif" lang2="- Да, их.">
+      <audioTime in="47130" out="48746" />
+    </line>
+    <line lang1="Appartengono a loro." someNumber="None" image="dg\098_010.gif" lang2="Они принадлежат им.">
+      <audioTime in="48701" out="50384" />
+    </line>
+    <line lang1="- È nostra questa macchina?" someNumber="None" image="dg\098_011.gif" lang2="- Это наш автомобиль?">
+      <audioTime in="50384" out="52288" />
+    </line>
+    <line lang1="- Sì, è nostra." someNumber="None" image="dg\098_011.gif" lang2="- Да, наш.">
+      <audioTime in="52314" out="53979" />
+    </line>
+    <line lang1="Ci appartiene." someNumber="None" image="dg\098_011.gif" lang2="Он принадлежит нам.">
+      <audioTime in="53981" out="55449" />
+    </line>
+    <line lang1="- Sono dei bambini queste penne?" someNumber="None" image="dg\098_012.gif" lang2="- Эти ручки детей?">
+      <audioTime in="55491" out="57729" />
+    </line>
+    <line lang1="- Sì, sono loro." someNumber="None" image="dg\098_012.gif" lang2="- Да, их.">
+      <audioTime in="57731" out="59348" />
+    </line>
+    <line lang1="Appartengono a loro." someNumber="None" image="dg\098_012.gif" lang2="Они принадлежат им.">
+      <audioTime in="59391" out="61011" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,68 @@
+<avatar>
+	<logic startnode="NodeC">
+		<node id="NodeC">
+			<edge command="L">
+				<branch func="node_visit" value="3" output="L" destination="NodeC"/>
+				<branch func="prob" value="1" output="LG" destination="NodeCNG"/>
+			</edge>
+			<edge command="R">
+				<branch func="node_visit" value="3" output="R" destination="NodeC"/>
+				<branch func="prob" value="1" output="RG" destination="NodeCNG"/>
+			</edge>
+		</node>
+		<node id="NodeCNG">
+			<edge command="L">
+				<branch func="node_visit" value="4" output="LNG" destination="NodeCNG"/>
+				<branch func="prob" value="1" output="T" destination="NodeT"/>
+			</edge>
+			<edge command="R">
+				<branch func="node_visit" value="4" output="RNG" destination="NodeCNG"/>
+				<branch func="prob" value="1" output="T" destination="NodeT"/>
+			</edge>
+		</node>
+		<node id="NodeT">
+		</node>
+	</logic>
+	<visuals>
+		<image type="node" id="L1" delaySeconds="0.1" isSolo="true" rootKey="L" />
+		<image type="node" id="L2" delaySeconds="0.85" />
+		<image type="node" id="C1" delaySeconds="0.0" isSolo="false" rootKey="C" />
+		<image type="node" id="R1" delaySeconds="0.1" isSolo="true" rootKey="R" />
+		<image type="node" id="R2" delaySeconds="0.85" />
+		<image type="linkto" rootKey="C" />
+		<image type="node" id="GL1" delaySeconds="0.1" isSolo="true" rootKey="LG" />
+		<image type="node" id="GL2" delaySeconds="0.85" />
+		<image type="node" id="C2" delaySeconds="0.0" isSolo="false" rootKey="C2" />
+		<image type="node" id="GR1" delaySeconds="0.1" isSolo="true" rootKey="RG" />
+		<image type="node" id="GR2" delaySeconds="0.85" />
+		<image type="linkto" rootKey="C2" />
+		<image type="node" id="NGL1" delaySeconds="0.85" isSolo="true" rootKey="LNG" />
+		<image type="linkto"  rootKey="C2" />
+		<image type="node" id="NGR1" delaySeconds="0.85" isSolo="true" rootKey="RNG" />
+		<image type="linkto" rootKey="C2" />
+		<image type="node" id="T1" delaySeconds="0.1" isSolo="true" rootKey="T" />
+		<image type="node" id="T2" delaySeconds="0.1" />
+		<image type="node" id="T3" delaySeconds="0.1" />
+		<image type="node" id="T4" delaySeconds="0" />
+	</visuals>
+	<schedule>
+		<pictures class="java.util.Vector">
+			<schedulePicture id="C1" ttsLine="stage 1 center" />
+			<schedulePicture id="L1" ttsLine="stage 1 left 45" />
+			<schedulePicture id="L2" ttsLine="stage 1 left 90" />
+			<schedulePicture id="R1" ttsLine="stage 1 right 45" />
+			<schedulePicture id="R2" ttsLine="stage 1 right 90" />
+			<schedulePicture id="GL1" ttsLine="glasses fly off left 1" />
+			<schedulePicture id="GL2" ttsLine="glasses fly off left 2" />
+			<schedulePicture id="GR1" ttsLine="glasses fly off right 1" />
+			<schedulePicture id="GR2" ttsLine="glasses fly off right 2" />
+			<schedulePicture id="C2" ttsLine="no glasses center" />
+			<schedulePicture id="NGL1" ttsLine="no glasses left" />
+			<schedulePicture id="NGR1" ttsLine="no glasses right" />
+			<schedulePicture id="T1" ttsLine="toppled frame 1" />
+			<schedulePicture id="T2" ttsLine="toppled frame 2" />
+			<schedulePicture id="T3" ttsLine="toppled frame 3" />
+			<schedulePicture id="T4" ttsLine="toppled frame 4" />
+		</pictures>
+	</schedule>
+</avatar>

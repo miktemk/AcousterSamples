@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="d_036.wav" dic="p036" dlgName="Куда?.. Где?.." dlgFile="exr\dg035.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wohin #geht der Mensch?" someNumber="None" image="dg\036_001.gif" lang2="- Куда идёт человек?">
+      <audioTime in="64" out="1682" />
+    </line>
+    <line lang1="- Er #geht in den Laden." someNumber="810" image="dg\036_001.gif" lang2="- Он идёт в магазин.">
+      <audioTime in="1747" out="3430" />
+    </line>
+    <line lang1="- Wohin #geht die Frau?" someNumber="None" image="dg\036_002.gif" lang2="- Куда идёт женщина?">
+      <audioTime in="3560" out="5113" />
+    </line>
+    <line lang1="- Sie #kommt aus dem Laden." someNumber="790" image="dg\036_002.gif" lang2="- Она идёт из магазина.">
+      <audioTime in="5113" out="6860" />
+    </line>
+    <line lang1="- Wo #sitzt der Junge?" someNumber="None" image="dg\036_003.gif" lang2="- Где сидит мальчик?">
+      <audioTime in="6925" out="8607" />
+    </line>
+    <line lang1="- Er #sitzt bei seiner Mutter." someNumber="790" image="dg\036_003.gif" lang2="- Он сидит около своей матери.">
+      <audioTime in="8607" out="10614" />
+    </line>
+    <line lang1="- Wo #gehen der Mann und die Frau?" someNumber="None" image="dg\036_004.gif" lang2="- Где гуляют мужчина и женщина?">
+      <audioTime in="11003" out="13074" />
+    </line>
+    <line lang1="- Sie #gehen die Straße entlang." someNumber="800" image="dg\036_004.gif" lang2="- Они прогуливаются вдоль по улице.">
+      <audioTime in="13203" out="15209" />
+    </line>
+    <line lang1="- Wo #laufen die Katzen?" someNumber="None" image="dg\036_006.gif" lang2="- Где кошки бегают?">
+      <audioTime in="15403" out="17410" />
+    </line>
+    <line lang1="- Sie #laufen die Mauer entlang." someNumber="None" image="dg\036_006.gif" lang2="- Они бегают вдоль стены.">
+      <audioTime in="17410" out="19546" />
+    </line>
+    <line lang1="- Wo #springen die Kinder?" someNumber="None" image="dg\036_005.gif" lang2="- Где прыгают дети?">
+      <audioTime in="19676" out="21358" />
+    </line>
+    <line lang1="- Sie #springen vom Baum." someNumber="790" image="dg\036_005.gif" lang2="- Они прыгают с дерева.">
+      <audioTime in="21617" out="23364" />
+    </line>
+    <line lang1="- Wo #geht der Mann?" someNumber="None" image="dg\036_007.gif" lang2="- Где идёт человек?">
+      <audioTime in="23494" out="24917" />
+    </line>
+    <line lang1="- Er #geht zwischen zwei Polizisten." someNumber="810" image="dg\036_007.gif" lang2="- Он идёт между двумя полицейскими.">
+      <audioTime in="24917" out="27442" />
+    </line>
+    <line lang1="- Wo #sitzt das Mädchen?" someNumber="None" image="dg\036_008.gif" lang2="- Где сидит девочка?">
+      <audioTime in="27572" out="29513" />
+    </line>
+    <line lang1="- Es #sitzt neben dem Baum." someNumber="810" image="dg\036_008.gif" lang2="- Она сидит рядом с деревом.">
+      <audioTime in="29513" out="31390" />
+    </line>
+    <line lang1="- Wo #fliegt das Flugzeug?" someNumber="None" image="dg\036_009.gif" lang2="- Где летит самолёт?">
+      <audioTime in="31649" out="33850" />
+    </line>
+    <line lang1="- Es #fliegt unter der Brücke." someNumber="810" image="dg\036_009.gif" lang2="- Он летит под мостом.">
+      <audioTime in="33850" out="35791" />
+    </line>
+    <line lang1="- Wo #sitzen sie?" someNumber="None" image="dg\036_011.gif" lang2="- Где они сидят?">
+      <audioTime in="35985" out="37280" />
+    </line>
+    <line lang1="- Sie #sitzen im Gras." someNumber="None" image="dg\036_011.gif" lang2="- Они сидят в траве.">
+      <audioTime in="37409" out="39092" />
+    </line>
+    <line lang1="- Wo #lesen sie?" someNumber="480" image="dg\036_012.gif" lang2="- Где они читают?">
+      <audioTime in="39351" out="40775" />
+    </line>
+    <line lang1="- Sie #lesen im Wohnzimmer." someNumber="None" image="dg\036_012.gif" lang2="- Они читают в гостиной.">
+      <audioTime in="40775" out="42523" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="d_066.wav" dic="p066" dlgName="Который час?" dlgFile="exr\dg065.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wann #sollen Sie nach Hause #kommen?" someNumber="680" image="dg\066_001.gif" lang2="- Когда должны вы придти домой?">
+      <audioTime in="964" out="3429" />
+    </line>
+    <line lang1="- Ich #soll um eins nach Hause #kommen." someNumber="450" image="dg\066_001.gif" lang2="- Я должен придти домой в час.">
+      <audioTime in="3537" out="6003" />
+    </line>
+    <line lang1="- Wann #soll sie in die Bibliothek #gehen?" someNumber="510" image="dg\066_002.gif" lang2="- Когда должна она пойти в библиотеку?">
+      <audioTime in="6003" out="8682" />
+    </line>
+    <line lang1="- Sie #soll um Viertel nach eins in die Bibliothek #gehen." someNumber="440" image="dg\066_002.gif" lang2="- Она должна пойти в библиотеку в четверть второго.">
+      <audioTime in="8897" out="11763" />
+    </line>
+    <line lang1="- Wann #sollt ihr, du und Kurt, zum Zahnarzt #gehen?" someNumber="790" image="dg\066_003.gif" lang2="- Когда должны вы, ты и Курт, пойти к дантисту?">
+      <audioTime in="12113" out="15650" />
+    </line>
+    <line lang1="- Wir #sollen um Viertel vor vier zum Zahnarzt #gehen." someNumber="None" image="dg\066_003.gif" lang2="- Мы должны пойти к дантисту без четверти четыре.">
+      <audioTime in="16078" out="19080" />
+    </line>
+    <line lang1="- Wann #sollen Sie diesen Brief #tippen?" someNumber="None" image="dg\066_004.gif" lang2="- Когда должны вы напечатать это письмо?">
+      <audioTime in="19402" out="21868" />
+    </line>
+    <line lang1="- Ich #soll diesen Brief um zwei Uhr #tippen." someNumber="370" image="dg\066_004.gif" lang2="- Я должен напечатать это письмо в два часа.">
+      <audioTime in="22082" out="24976" />
+    </line>
+    <line lang1="- Wann #sollen Monika und Kurt den Chef #sehen?" someNumber="None" image="dg\066_005.gif" lang2="- Когда должны Моника и Курт увидеть хозяина?">
+      <audioTime in="25190" out="28728" />
+    </line>
+    <line lang1="- Sie #sollen den Chef um halb zwei #sehen." someNumber="70" image="dg\066_005.gif" lang2="- Они должны увидеть шефа в полвторого.">
+      <audioTime in="28729" out="31212" />
+    </line>
+    <line lang1="- Wann #soll Georg seine Arznei #einnehmen?" someNumber="None" image="dg\066_006.gif" lang2="- Когда должен Георг принимать своё лекарство?">
+      <audioTime in="32158" out="35267" />
+    </line>
+    <line lang1="- Er #soll seine Arznei um Viertel nach drei #einnehmen." someNumber="340" image="dg\066_006.gif" lang2="- Он должен принимать своё лекарство в четверть четвёртого.">
+      <audioTime in="35374" out="38697" />
+    </line>
+    <line lang1="- Wann #soll Alice nach London #fahren?" someNumber="None" image="dg\066_007.gif" lang2="- Когда должна Алис поехать в Лондон?">
+      <audioTime in="38912" out="41055" />
+    </line>
+    <line lang1="- Sie #soll um halb drei nach London #fahren." someNumber="410" image="dg\066_007.gif" lang2="- Она должна поехать в Лондон в половине третьего.">
+      <audioTime in="41270" out="43949" />
+    </line>
+    <line lang1="- Wann #soll ich den Bus #nehmen?" someNumber="None" image="dg\066_008.gif" lang2="- Когда должен я сесть в автобус?">
+      <audioTime in="44164" out="46094" />
+    </line>
+    <line lang1="- Sie #sollen um halb vier den Bus #nehmen." someNumber="510" image="dg\066_008.gif" lang2="- Вы должны сесть в автобус в половине четвёртого.">
+      <audioTime in="46094" out="48441" />
+    </line>
+    <line lang1="- Wann #sollen Sie dorthin #fahren?" someNumber="None" image="dg\066_009.gif" lang2="- Когда должны вы поехать туда?">
+      <audioTime in="48880" out="51239" />
+    </line>
+    <line lang1="- Ich #soll um drei Uhr dorthin #fahren." someNumber="None" image="dg\066_009.gif" lang2="- Я должен поехать туда в три часа.">
+      <audioTime in="51347" out="54133" />
+    </line>
+    <line lang1="- Wann #sollen sie nach Hause #kommen?" someNumber="None" image="dg\066_010.gif" lang2="- Когда должны они прийти домой?">
+      <audioTime in="54347" out="56598" />
+    </line>
+    <line lang1="- Sie #sollen um Viertel nach zwei nach Hause #kommen." someNumber="450" image="dg\066_010.gif" lang2="- Они должны прийти домой в четверть третьего.">
+      <audioTime in="56598" out="59386" />
+    </line>
+    <line lang1="- Wann #sollen Sie Martin #treffen?" someNumber="None" image="dg\066_011.gif" lang2="- Когда должны вы встречать Мартина?">
+      <audioTime in="59815" out="62173" />
+    </line>
+    <line lang1="- Ich #soll Martin um Viertel vor zwei #treffen." someNumber="700" image="dg\066_011.gif" lang2="- Я должен встретить Мартина в без четверти два.">
+      <audioTime in="62173" out="65067" />
+    </line>
+    <line lang1="- Wann #soll er dich #anrufen?" someNumber="350" image="dg\066_012.gif" lang2="- Когда он должен позвонить тебе?">
+      <audioTime in="65174" out="67640" />
+    </line>
+    <line lang1="- Er #soll mich um Viertel vor drei #anrufen." someNumber="440" image="dg\066_012.gif" lang2="- Он должен позвонить мне в без четверти три.">
+      <audioTime in="67641" out="70801" />
+    </line>
+  </lines>
+</lesson>

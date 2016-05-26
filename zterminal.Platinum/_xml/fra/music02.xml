@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="music02.wav" dic="p144" dlgName="Падает снег (песня)" dlgFile="exr\fg144.txt" author="Alexander" />
+  <lines>
+    <line lang1="Tombe la neige..." someNumber="None" image="f.jpg" lang2="Падает снег...">
+      <audioTime in="0" out="4399" />
+    </line>
+    <line lang1="Tu ne viendras pas ce soir," someNumber="None" image="f.jpg" lang2="Ты не придешь этим вечером,">
+      <audioTime in="4399" out="8871" />
+    </line>
+    <line lang1="Tombe la neige..." someNumber="None" image="f.jpg" lang2="Падает снег...">
+      <audioTime in="8871" out="13270" />
+    </line>
+    <line lang1="Et mon cœur s'habille de noir." someNumber="None" image="f.jpg" lang2="И моё сердце одевается в чёрное.">
+      <audioTime in="13270" out="16438" />
+    </line>
+    <line lang1="Ce soyeux cortège" someNumber="None" image="f.jpg" lang2="Эта шёлковая вереница">
+      <audioTime in="16438" out="21593" />
+    </line>
+    <line lang1="Tout en larmes blanches." someNumber="None" image="f.jpg" lang2="Вся в белых слезах.">
+      <audioTime in="21593" out="25792" />
+    </line>
+    <line lang1="L'oiseau sur la branche" someNumber="None" image="f.jpg" lang2="Птица на ветке">
+      <audioTime in="25792" out="30013" />
+    </line>
+    <line lang1="Pleure de sortilège." someNumber="None" image="f.jpg" lang2="Плачет от колдовства.">
+      <audioTime in="30013" out="34205" />
+    </line>
+    <line lang1="Tu ne viendras pas ce soir" someNumber="None" image="f.jpg" lang2="Ты не придешь этим вечером">
+      <audioTime in="34205" out="38879" />
+    </line>
+    <line lang1="Me crie mon désespoir," someNumber="None" image="f.jpg" lang2="Мне кричит моё отчаяние,">
+      <audioTime in="38879" out="43344" />
+    </line>
+    <line lang1="Mais tombe la neige..." someNumber="None" image="f.jpg" lang2="Но падает снег...">
+      <audioTime in="43344" out="47787" />
+    </line>
+    <line lang1="Impassible manège." someNumber="None" image="f.jpg" lang2="Безучастный маневр.">
+      <audioTime in="47787" out="52831" />
+    </line>
+    <line lang1="La la-la-la..." someNumber="None" image="f.jpg" lang2="Ла ла-ла-ла...">
+      <audioTime in="52831" out="72335" />
+    </line>
+    <line lang1="Tombe la neige..." someNumber="None" image="f.jpg" lang2="Падает снег...">
+      <audioTime in="72335" out="75555" />
+    </line>
+    <line lang1="Tu ne viendras pas ce soir." someNumber="None" image="f.jpg" lang2="Ты не придешь этим вечером.">
+      <audioTime in="75555" out="78945" />
+    </line>
+    <line lang1="Tombe la neige..." someNumber="None" image="f.jpg" lang2="Падает снег...">
+      <audioTime in="78945" out="83555" />
+    </line>
+    <line lang1="Tout est blanc de désespoir." someNumber="None" image="f.jpg" lang2="Всё бело от отчаяния.">
+      <audioTime in="83555" out="86945" />
+    </line>
+    <line lang1="Triste certitude," someNumber="None" image="f.jpg" lang2="Печальная уверенность,">
+      <audioTime in="86945" out="92601" />
+    </line>
+    <line lang1="Le froid et l'absence" someNumber="None" image="f.jpg" lang2="Холод и отсутствие">
+      <audioTime in="92601" out="97372" />
+    </line>
+    <line lang1="Cet odieux silence" someNumber="None" image="f.jpg" lang2="Эта отвратительная тишина">
+      <audioTime in="97372" out="101719" />
+    </line>
+    <line lang1="Blanche solitude." someNumber="None" image="f.jpg" lang2="Белое одиночество.">
+      <audioTime in="101719" out="106086" />
+    </line>
+    <line lang1="Tu ne viendras pas ce soir" someNumber="None" image="f.jpg" lang2="Ты не придешь этим вечером">
+      <audioTime in="106086" out="110983" />
+    </line>
+    <line lang1="Me crie mon désespoir," someNumber="None" image="f.jpg" lang2="Мне кричит моё отчаяние,">
+      <audioTime in="110983" out="115790" />
+    </line>
+    <line lang1="Mais tombe la neige..." someNumber="None" image="f.jpg" lang2="Но падает снег...">
+      <audioTime in="115790" out="120248" />
+    </line>
+    <line lang1="Impassible manège." someNumber="None" image="f.jpg" lang2="Безучастный маневр.">
+      <audioTime in="120248" out="124876" />
+    </line>
+    <line lang1="Mais tombe la neige..." someNumber="None" image="f.jpg" lang2="Но падает снег...">
+      <audioTime in="124876" out="128984" />
+    </line>
+    <line lang1="Impassible manège." someNumber="None" image="f.jpg" lang2="Безучастный маневр.">
+      <audioTime in="128984" out="134273" />
+    </line>
+    <line lang1="La la-la-la..." someNumber="None" image="f.jpg" lang2="Ла ла-ла-ла...">
+      <audioTime in="134273" out="188422" />
+    </line>
+  </lines>
+</lesson>

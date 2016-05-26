@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_060.wav" dic="p060" dlgName="Есть у?..." dlgFile="exr\dg059.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Hast du Butter?" someNumber="None" image="dg\060_001.gif" lang2="- У тебя есть масло?">
+      <audioTime in="191" out="2009" />
+    </line>
+    <line lang1="- Ich #habe keine Butter, aber ich #habe etwas Käse." someNumber="820" image="dg\060_001.gif" lang2="- У меня нет масла, но у меня есть немного сыра.">
+      <audioTime in="1913" out="5165" />
+    </line>
+    <line lang1="- #Habt ihr, du und Monika, Bohnen?" someNumber="None" image="dg\060_002.gif" lang2="- У вас, у тебя и у Моники, есть бобы?">
+      <audioTime in="5452" out="8608" />
+    </line>
+    <line lang1="- Wir #haben keine Bohnen, aber wir #haben ein paar Kartoffeln." someNumber="None" image="dg\060_002.gif" lang2="- У нас нет бобов, но у нас есть немного картофеля.">
+      <audioTime in="8992" out="12531" />
+    </line>
+    <line lang1="- #Haben Monika und Peter Wein?" someNumber="820" image="dg\060_003.gif" lang2="- Есть у Моники и Петера вино?">
+      <audioTime in="12818" out="15114" />
+    </line>
+    <line lang1="- Sie #haben keinen Wein, aber sie #haben Bier." someNumber="850" image="dg\060_003.gif" lang2="- У них нет вина, но у них есть пиво.">
+      <audioTime in="15400" out="18749" />
+    </line>
+    <line lang1="- #Haben Sie Honig?" someNumber="330" image="dg\060_004.gif" lang2="- У вас есть мёд?">
+      <audioTime in="18940" out="20471" />
+    </line>
+    <line lang1="- Ich #habe keinen Honig, aber ich #habe etwas Konfitüre." someNumber="390" image="dg\060_004.gif" lang2="- У меня нет мёда, но у меня есть немного джема.">
+      <audioTime in="20471" out="24584" />
+    </line>
+    <line lang1="- #Habt ihr, du und Peter, Brot?" someNumber="None" image="dg\060_005.gif" lang2="- У вас, у тебя и у Петера, есть хлеб?">
+      <audioTime in="24966" out="27836" />
+    </line>
+    <line lang1="- Wir #haben kein Brot, aber wir #haben etwas Kuchen." someNumber="960" image="dg\060_005.gif" lang2="- У нас нет хлеба, но у нас есть немного пирожных.">
+      <audioTime in="28123" out="31185" />
+    </line>
+    <line lang1="- #Haben Peter und Monika Weintrauben?" someNumber="None" image="dg\060_006.gif" lang2="- Есть у Петера и Моники виноград?">
+      <audioTime in="31376" out="33958" />
+    </line>
+    <line lang1="- Sie #haben keine Weintrauben, aber sie #haben einige Bananen." someNumber="550" image="dg\060_006.gif" lang2="- У них нет винограда, но у них есть немного бананов.">
+      <audioTime in="34245" out="38359" />
+    </line>
+    <line lang1="- #Hast du etwas Hackfleisch?" someNumber="380" image="dg\060_007.gif" lang2="- У тебя есть немного фарша?">
+      <audioTime in="38455" out="40464" />
+    </line>
+    <line lang1="- Ich #habe kein Hackfleisch, aber ich #habe etwas Beefsteak." someNumber="550" image="dg\060_007.gif" lang2="- У меня нет фарша, но у меня есть немного бифштекса.">
+      <audioTime in="40464" out="44863" />
+    </line>
+    <line lang1="- #Haben die Kinder Butter?" someNumber="510" image="dg\060_008.gif" lang2="- Есть у детей масло?">
+      <audioTime in="44959" out="46872" />
+    </line>
+    <line lang1="- Nein, Sie #haben keine Butter, aber sie #haben ein paar Eier." someNumber="960" image="dg\060_008.gif" lang2="- Нет, у них нет масла, но у них есть несколько яиц.">
+      <audioTime in="47159" out="51212" />
+    </line>
+    <line lang1="- #Hast du Salat?" someNumber="None" image="dg\060_009.gif" lang2="- У тебя есть салат?">
+      <audioTime in="51212" out="52612" />
+    </line>
+    <line lang1="- Ich #habe keinen Salat, aber ich #habe etwas Kohl." someNumber="380" image="dg\060_009.gif" lang2="- У меня нет салата, но у меня есть немного капусты.">
+      <audioTime in="52899" out="56438" />
+    </line>
+    <line lang1="- #Haben Sie und Monika Bohnen?" someNumber="190" image="dg\060_010.gif" lang2="- Есть у вас и у Моники бобы?">
+      <audioTime in="56534" out="59500" />
+    </line>
+    <line lang1="- Wir #haben keine Bohnen, aber wir #haben ein paar Erbsen." someNumber="190" image="dg\060_010.gif" lang2="- У нас нет бобов, но у нас есть несколько горошин.">
+      <audioTime in="59308" out="63039" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="FR_050.wav" dlgName="В аптеке" dlgFile="exr\frg050.txt" />
+  <lines>
+    <line lang1="- Bonjour, monsieur." someNumber="None" image="f.jpg" lang2="- Здравствуйте.">
+      <audioTime in="0" out="1924" />
+    </line>
+    <line lang1="Voici une ordonnance rédigée par le docteur Grégoire." someNumber="None" image="f.jpg" lang2="Вот рецепт, который выписал доктор Грегуар.">
+      <audioTime in="1924" out="6273" />
+    </line>
+    <line lang1="Dans combien de temps sera-t-elle préparée?" someNumber="None" image="f.jpg" lang2="Когда готово будет лекарство?">
+      <audioTime in="6273" out="9710" />
+    </line>
+    <line lang1="- Dans un instant." someNumber="None" image="f.jpg" lang2="- Подождите минутку.">
+      <audioTime in="9710" out="11153" />
+    </line>
+    <line lang1="- Alors, en attendant, donnez-moi un paquet de coton et quelque chose contre les maux de tête." someNumber="None" image="f.jpg" lang2="- В таком случае, пока что дайте мне пакет ваты и что-нибудь от головной боли.">
+      <audioTime in="11153" out="18112" />
+    </line>
+    <line lang1="- Voilà, mademoiselle." someNumber="None" image="f.jpg" lang2="- Пожалуйста.">
+      <audioTime in="18112" out="19550" />
+    </line>
+    <line lang1="- Au revoir, monsieur, merci." someNumber="None" image="f.jpg" lang2="- До свидания, спасибо.">
+      <audioTime in="19550" out="22172" />
+    </line>
+    <line lang1="- Mais vous oubliez de prendre votre médicament, il est déjà prêt." someNumber="None" image="f.jpg" lang2="- Но вы забыли взять ваше лекарство, оно уже готово.">
+      <audioTime in="22172" out="26781" />
+    </line>
+    <line lang1="- En effet, que je suis distraite!" someNumber="None" image="f.jpg" lang2="- Действительно! Какая я рассеянная!">
+      <audioTime in="26781" out="29849" />
+    </line>
+    <line lang1="- Voyons si c'est bien ça." someNumber="None" image="f.jpg" lang2="- Сейчас проверю, то ли это.">
+      <audioTime in="29849" out="31581" />
+    </line>
+    <line lang1="&quot;Une cuillerée dans un verre d'eau avant chaque repas&quot;." someNumber="None" image="f.jpg" lang2="&quot;Одна ложечка на стакан воды перед едой&quot;.">
+      <audioTime in="31581" out="35494" />
+    </line>
+    <line lang1="Signé: docteur Grégoire." someNumber="None" image="f.jpg" lang2="Подписано: доктор Грегуар.">
+      <audioTime in="35494" out="37976" />
+    </line>
+    <line lang1="Voilà, mademoiselle." someNumber="None" image="f.jpg" lang2="Вот, пожалуйста, мадемуазель.">
+      <audioTime in="37976" out="39710" />
+    </line>
+    <line lang1="- Merci, monsieur." someNumber="None" image="f.jpg" lang2="- Спасибо, месье.">
+      <audioTime in="39710" out="41174" />
+    </line>
+  </lines>
+</lesson>

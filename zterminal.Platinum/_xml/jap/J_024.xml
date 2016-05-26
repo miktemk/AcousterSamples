@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="j_024.wav" dlgName="В котором часу ?" dic="p024" />
+  <lines>
+    <line lang1="―ゆみ*ちゃん*は*朝*何時*に*おきます*か。" someNumber="67" image="024_001.jpg" lang2="- Юми, в котором часу ты встаёшь по утрам?">
+      <audioTime in="0" out="4193" />
+    </line>
+    <line lang1="―７時*に*おきます。" someNumber="04" image="024_002.jpg" lang2="- Встаю в 7 часов.">
+      <audioTime in="4193" out="7046" />
+    </line>
+    <line lang1="―日よう日*に*も*７時*に*おきます*か。" someNumber="39" image="024_003.jpg" lang2="- И в воскресенье встаёшь в 7 часов?">
+      <audioTime in="7046" out="10894" />
+    </line>
+    <line lang1="―いいえ、７時*に*おきません。" someNumber="71" image="024_004.jpg" lang2="- Нет. В 7 часов не встаю.">
+      <audioTime in="10894" out="14064" />
+    </line>
+    <line lang1="９時*に*おきます。" someNumber="None" image="024_005.jpg" lang2="Встаю в 9 часов.">
+      <audioTime in="14064" out="16347" />
+    </line>
+    <line lang1="―よる*何時*に*ねます*か。" someNumber="None" image="024_006.jpg" lang2="- А в котором часу ложишься вечером?">
+      <audioTime in="16347" out="18898" />
+    </line>
+    <line lang1="―ふつう*１１時*半*に*ねます。" someNumber="None" image="024_007.jpg" lang2="- Обычно ложусь в половине двенадцатого.">
+      <audioTime in="18898" out="22426" />
+    </line>
+    <line lang1="しかし、きのう*１２時*半*に*ねました。" someNumber="69" image="024_008.jpg" lang2="Но вчера легла в половине первого.">
+      <audioTime in="22426" out="26501" />
+    </line>
+    <line lang1="きのう*おもしろい*えいが*が*ありました。" someNumber="74" image="024_009.jpg" lang2="Вчера был интересный фильм.">
+      <audioTime in="26501" out="30830" />
+    </line>
+    <line lang1="ただし*くん*は*何時*に*ねました*か。" someNumber="None" image="024_010.jpg" lang2="Тадаси, а ты в котором часу лег?">
+      <audioTime in="30830" out="34160" />
+    </line>
+    <line lang1="―１２時*に*ねました。" someNumber="69" image="024_011.jpg" lang2="- (Я) лег в 12 часов.">
+      <audioTime in="34160" out="36989" />
+    </line>
+    <line lang1="私*は*昨日*１１時*に*かえりました。" someNumber="None" image="024_012.jpg" lang2="Я вчера вернулся в 11 часов.">
+      <audioTime in="36989" out="41326" />
+    </line>
+    <line lang1="昨日*スミス*さん*の*たんじょう日*の*パーティー*でした。" someNumber="None" image="024_013.jpg" lang2="Вчера был день рождения Смита.">
+      <audioTime in="41326" out="45776" />
+    </line>
+    <line lang1="―おねえ*ちゃん*は*かえりました*か。　" someNumber="15" image="024_014.jpg" lang2="- Старшая сестренка вернулась?">
+      <audioTime in="45776" out="51584" />
+    </line>
+    <line lang1="―はい、もう*かえりました。" someNumber="113" image="024_015.jpg" lang2="- Да, уже вернулась.">
+      <audioTime in="51584" out="54805" />
+    </line>
+    <line lang1="―お父さん*も*かえりました*か。" someNumber="None" image="024_016.jpg" lang2="- Папа тоже вернулся?">
+      <audioTime in="54805" out="57292" />
+    </line>
+    <line lang1="―いいえ、まだ*かいしゃ*に*います。" someNumber="113" image="024_017.jpg" lang2="- Нет, (он) пока на фирме.">
+      <audioTime in="57446" out="59996" />
+    </line>
+    <line lang1="―何時*に*かえります*か。" someNumber="None" image="024_018.jpg" lang2="- В котором часу (он) возвращается?">
+      <audioTime in="59996" out="62245" />
+    </line>
+    <line lang1="―８時*にかえります。" someNumber="04" image="024_019.jpg" lang2="- (Он) вернётся в 8 часов.">
+      <audioTime in="62245" out="64732" />
+    </line>
+    <line lang1="―はやし*さん*は*何時*に*きます*か。" someNumber="None" image="024_020.jpg" lang2="- А когда должен придти господин Хаяси?">
+      <audioTime in="64732" out="67346" />
+    </line>
+    <line lang1="―はやし*さん*は*８時*に*来ます。" someNumber="None" image="024_021.jpg" lang2="- Господин Хаяси придёт в 8 часов.">
+      <audioTime in="67346" out="70261" />
+    </line>
+    <line lang1="―ごちそう*は*できました*か。" someNumber="None" image="024_022.jpg" lang2="- Угощение уже готово?">
+      <audioTime in="70261" out="72369" />
+    </line>
+    <line lang1="―まだ*です。" someNumber="113" image="024_023.jpg" lang2="- Пока нет.">
+      <audioTime in="72369" out="73591" />
+    </line>
+    <line lang1="ーええ？もう*８時１０分*前です*よ。" someNumber="128" image="024_023.jpg" lang2="- Что? Уже без 10 минут 8.">
+      <audioTime in="73591" out="77041" />
+    </line>
+  </lines>
+</lesson>

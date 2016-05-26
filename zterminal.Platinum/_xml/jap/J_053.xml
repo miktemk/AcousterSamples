@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_053.wav" dlgName="Рассматриваем фотографию" dic="p053" />
+  <lines>
+    <line lang1="ー石川*さん*の*かぞく*は*４人*かぞく*です*ね。" someNumber="15" image="053_001.jpg" lang2="- Исикава-сан, Ваша семья состоит из 4-х человек, не так ли?">
+      <audioTime in="0" out="4335" />
+    </line>
+    <line lang1="ーちがいます。つま*と*むすこ*と*私*です。" someNumber="None" image="053_002.jpg" lang2="- Ошибаетесь. (Только) я, жена и сын.">
+      <audioTime in="4335" out="8100" />
+    </line>
+    <line lang1="むすめ*は*去年*けっこん*して、" someNumber="None" image="053_003.jpg" lang2="Дочь вышла замуж в прошлом году">
+      <audioTime in="8100" out="10603" />
+    </line>
+    <line lang1="夫*の*両親*と*いっしょ*に*すんでいます。" someNumber="76" image="053_003.jpg" lang2="и живет с родителями мужа.">
+      <audioTime in="10603" out="13326" />
+    </line>
+    <line lang1="ーおまごさん*も*います*か。" someNumber="15" image="053_005.jpg" lang2="- И внуки есть?">
+      <audioTime in="13042" out="15954" />
+    </line>
+    <line lang1="ーはい。二月*に*まご*が*生まれました。" someNumber="None" image="053_005.jpg" lang2="- Да. В феврале родилась внучка.">
+      <audioTime in="15954" out="18994" />
+    </line>
+    <line lang1="女の赤*ちゃん*です。" someNumber="None" image="053_005.jpg" lang2="Девочка (младенец женского пола).">
+      <audioTime in="18994" out="20772" />
+    </line>
+    <line lang1="ちょっと*見て*下さい。" someNumber="None" image="053_008.jpg" lang2="- Вот посмотрите.">
+      <audioTime in="20772" out="22518" />
+    </line>
+    <line lang1="これ*は*むすめ*の*けっこんしき*の*しゃしん*です。" someNumber="174" image="053_008.jpg" lang2="Это - свадебная фотография дочери.">
+      <audioTime in="22518" out="25632" />
+    </line>
+    <line lang1="―きれい*な*しゃしん*です*ね。" someNumber="134" image="053_008.jpg" lang2="- Какая красивая фотография!">
+      <audioTime in="25632" out="28816" />
+    </line>
+    <line lang1="花よめ*も*花むこ*も*すてき*です*ね。" someNumber="None" image="053_008.jpg" lang2="И невеста, и жених прекрасны, не так ли!">
+      <audioTime in="28816" out="31828" />
+    </line>
+    <line lang1="およめ*さん*の*となり*に*立っている*方*は*おくさん*です*か。" someNumber="76" image="053_012.jpg" lang2="Та, что стоит рядом с невестой, Ваша супруга?">
+      <audioTime in="31828" out="36889" />
+    </line>
+    <line lang1="ーちがいます。つま*は*私*の*右*に*立っています。" someNumber="None" image="053_013.jpg" lang2="- Ошибаетесь. Жена стоит справа от меня.">
+      <audioTime in="36889" out="41449" />
+    </line>
+    <line lang1="娘*の*となり*に*立っている*の*は*私*の*いもうと*です。" someNumber="143" image="053_014.jpg" lang2="Та, что стоит рядом с дочерью, - моя младшая сестра.">
+      <audioTime in="41449" out="45928" />
+    </line>
+    <line lang1="むすめ*の*おば*と*おじ*は*なこうど*でした。" someNumber="None" image="053_015.jpg" lang2="Тетя и дядя дочери были сватьями.">
+      <audioTime in="45928" out="50291" />
+    </line>
+    <line lang1="ー妹さん*は*何*を*しています*か。" someNumber="None" image="053_016.jpg" lang2="- Чем занимается Ваша младшая сестра?">
+      <audioTime in="50291" out="54215" />
+    </line>
+    <line lang1="ー化学*の*先生*です。" someNumber="None" image="053_017.jpg" lang2="Она учительница химии.">
+      <audioTime in="54215" out="55897" />
+    </line>
+    <line lang1="大阪*に*住んでいます。" someNumber="04" image="053_018.jpg" lang2="Живет в Осака.">
+      <audioTime in="55897" out="58071" />
+    </line>
+    <line lang1="ーおくさん*の*となり*に*立っている*男の方*は*どなた*です*か。" someNumber="143" image="053_019.jpg" lang2="- Кто тот мужчина, что стоит рядом с Вашей супругой?">
+      <audioTime in="58071" out="63157" />
+    </line>
+    <line lang1="ーおとうと*です。" someNumber="None" image="053_019.jpg" lang2="- Мой младший брат.">
+      <audioTime in="63157" out="64341" />
+    </line>
+    <line lang1="ー弟さん*も*います*か。" someNumber="None" image="053_021.jpg" lang2="- У Вас есть и младший брат?">
+      <audioTime in="64341" out="66939" />
+    </line>
+    <line lang1="石川*さん*は*何人*兄弟*です*か。" someNumber="None" image="053_022.jpg" lang2="Исикава-сан, сколько вас, братьев и сестер?">
+      <audioTime in="66939" out="70280" />
+    </line>
+    <line lang1="ーぼく*を*入れて*四人*です。" someNumber="75" image="053_023.jpg" lang2="- Четыре человека, включая меня.">
+      <audioTime in="70280" out="72480" />
+    </line>
+    <line lang1="あね*も*います。" someNumber="None" image="053_024.jpg" lang2="Есть еше старшая сестра.">
+      <audioTime in="72480" out="74066" />
+    </line>
+    <line lang1="ーお姉さん*は*一番*左*に*立っている*方*です*か。" someNumber="None" image="053_025.jpg" lang2="- Ваша старшая сестра - та, что стоит скраю слева?">
+      <audioTime in="74066" out="78797" />
+    </line>
+    <line lang1="ーちがいます。姉*は*しゃしん*を*とっています。" someNumber="None" image="053_026.jpg" lang2="- Нет. Старшая сестра фотографирует.">
+      <audioTime in="78797" out="82361" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="i_055.wav" dic="p055" dlgName="Семья." dlgFile="exr\ig055.txt" author="Alexander" />
+  <lines>
+    <line lang1="- I Righetti abitano in via Roma venticinque." someNumber="None" image="dg\055_001.gif" lang2="- Семья Ригетти живет в доме 25 на улице Рима.">
+      <audioTime in="69" out="3115" />
+    </line>
+    <line lang1="- Di mattina il signor Righetti va al lavoro," someNumber="None" image="dg\055_002.gif" lang2="- Утром господин Ригетти идёт на работу,">
+      <audioTime in="2976" out="6093" />
+    </line>
+    <line lang1="mentre i bambini vanno a scuola." someNumber="None" image="dg\055_002.gif" lang2="а дети идут в школу.">
+      <audioTime in="6184" out="8356" />
+    </line>
+    <line lang1="- Ogni giorno il padre li porta a scuola." someNumber="None" image="dg\055_002.gif" lang2="- Их отец отвозит их в школу каждый день.">
+      <audioTime in="8398" out="11423" />
+    </line>
+    <line lang1="- Ogni giorno la signora Righetti rimane in casa." someNumber="730" image="dg\055_003.gif" lang2="- Госпожа Ригетти каждый день остаётся дома.">
+      <audioTime in="11423" out="14885" />
+    </line>
+    <line lang1="Lei fa i lavori domestici." someNumber="None" image="dg\055_003.gif" lang2="Она занимается домашними делами.">
+      <audioTime in="14908" out="16848" />
+    </line>
+    <line lang1="- Lei pranza sempre a mezzogiorno." someNumber="None" image="dg\055_004.gif" lang2="- Она всегда обедает в полдень.">
+      <audioTime in="16869" out="19663" />
+    </line>
+    <line lang1="- Di giorno di solito si incontra con i suoi amici." someNumber="None" image="dg\055_004.gif" lang2="- Днём она обычно видится с друзьями.">
+      <audioTime in="19684" out="22916" />
+    </line>
+    <line lang1="Spesso loro bevono il tè insieme." someNumber="None" image="dg\055_004.gif" lang2="Они часто пьют чай вместе.">
+      <audioTime in="22916" out="25548" />
+    </line>
+    <line lang1="- Di sera i bambini tornano a casa dalla scuola." someNumber="None" image="dg\055_005.gif" lang2="- Вечером дети приходят домой из школы.">
+      <audioTime in="25523" out="28524" />
+    </line>
+    <line lang1="Ritornano presto." someNumber="None" image="dg\055_005.gif" lang2="Они приходят домой рано.">
+      <audioTime in="28566" out="30048" />
+    </line>
+    <line lang1="- Il signor Righetti ritorna a casa dal lavoro tardi." someNumber="None" image="dg\055_006.gif" lang2="- Господин Ригетти приходит домой с работы.">
+      <audioTime in="30072" out="33325" />
+    </line>
+    <line lang1="Torna a casa tardi." someNumber="None" image="dg\055_006.gif" lang2="Он приезжает домой поздно.">
+      <audioTime in="33440" out="34872" />
+    </line>
+    <line lang1="- Di sera i bambini di solito fanno i compiti." someNumber="None" image="dg\055_007.gif" lang2="- Вечером дети всегда делают домашние задания.">
+      <audioTime in="35009" out="37940" />
+    </line>
+    <line lang1="Poi vanno a letto." someNumber="None" image="dg\055_007.gif" lang2="Потом они ложатся спать.">
+      <audioTime in="37871" out="39509" />
+    </line>
+    <line lang1="- Il signor Righetti di solito legge il giornale," someNumber="None" image="dg\055_007.gif" lang2="- Господин Ригетти обычно читает газету,">
+      <audioTime in="39554" out="42441" />
+    </line>
+    <line lang1="ma a volte lui e sua moglie guardano il televisore." someNumber="None" image="dg\055_007.gif" lang2="но иногда они с женой смотрят телевизор.">
+      <audioTime in="42577" out="46020" />
+    </line>
+  </lines>
+</lesson>

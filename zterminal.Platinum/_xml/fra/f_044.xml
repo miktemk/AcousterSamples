@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="f_044.wav" dic="p044" dlgName="Есть ли здесь?.." dlgFile="exr\fg043.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Y a-t-il du pain ici?" someNumber="70" image="dg\044_001.gif" lang2="- Есть хлеб здесь?">
+      <audioTime in="0" out="1228" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a un peu sur la table." someNumber="None" image="dg\044_001.gif" lang2="- Да, он есть. (Есть) немного на столе.">
+      <audioTime in="1228" out="3473" />
+    </line>
+    <line lang1="- Y a-t-il des marteaux ici?" someNumber="None" image="dg\044_002.gif" lang2="- Здесь есть молотки?">
+      <audioTime in="3473" out="4797" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a derrière l'armoire." someNumber="None" image="dg\044_002.gif" lang2="- Да, они есть. Позади ящика.">
+      <audioTime in="4797" out="7006" />
+    </line>
+    <line lang1="- Y a-t-il du lait ici?" someNumber="210" image="dg\044_003.gif" lang2="- Здесь есть молоко?">
+      <audioTime in="7006" out="8164" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a un peu devant la porte." someNumber="None" image="dg\044_003.gif" lang2="- Да, оно есть. Немного перед дверью.">
+      <audioTime in="8164" out="10694" />
+    </line>
+    <line lang1="- Y a-t-il du savon ici?" someNumber="None" image="dg\044_004.gif" lang2="- Здесь есть мыло?">
+      <audioTime in="10694" out="12007" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a sur l'armoire." someNumber="None" image="dg\044_004.gif" lang2="- Да, оно есть. Оно на шкафу.">
+      <audioTime in="12007" out="13987" />
+    </line>
+    <line lang1="- Y a-t-il des journaux ici?" someNumber="None" image="dg\044_005.gif" lang2="- Здесь есть газеты?">
+      <audioTime in="13987" out="15236" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a derrière le vase." someNumber="None" image="dg\044_005.gif" lang2="- Да, они есть. Они позади вазы.">
+      <audioTime in="15236" out="17520" />
+    </line>
+    <line lang1="- Y a-t-il de l'eau ici?" someNumber="None" image="dg\044_006.gif" lang2="- Здесь есть вода?">
+      <audioTime in="17520" out="18578" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a dans ces verres." someNumber="470" image="dg\044_006.gif" lang2="- Да, она есть. Она в этих стаканах.">
+      <audioTime in="18578" out="20678" />
+    </line>
+    <line lang1="- Y a-t-il du thé ici?" someNumber="None" image="dg\044_007.gif" lang2="- Здесь есть чай?">
+      <audioTime in="20678" out="21834" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a un peu dans ces tasses." someNumber="None" image="dg\044_007.gif" lang2="- Да, он есть. Немного в этих чашках.">
+      <audioTime in="21834" out="24237" />
+    </line>
+    <line lang1="- Y a-t-il des tasses ici?" someNumber="210" image="dg\044_008.gif" lang2="- Здесь есть чашки?">
+      <audioTime in="24237" out="25463" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a devant cette théière." someNumber="None" image="dg\044_008.gif" lang2="- Да, они есть. Они перед этим чайником.">
+      <audioTime in="25463" out="27668" />
+    </line>
+    <line lang1="- Y a-t-il du chocolat ici?" someNumber="None" image="dg\044_009.gif" lang2="- Здесь есть шоколад?">
+      <audioTime in="27668" out="29032" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a derrière ce livre." someNumber="210" image="dg\044_009.gif" lang2="- Да, он есть. Есть он позади этой книги.">
+      <audioTime in="29032" out="31253" />
+    </line>
+    <line lang1="- Y a-t-il des théières ici?" someNumber="None" image="dg\044_010.gif" lang2="- Здесь есть чайники (для заварки)?">
+      <audioTime in="31253" out="32575" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a dans ce buffet." someNumber="None" image="dg\044_010.gif" lang2="- Да, они есть. Есть они в этом буфете.">
+      <audioTime in="32575" out="34812" />
+    </line>
+    <line lang1="- Y a-t-il des voitures ici?" someNumber="None" image="dg\044_011.gif" lang2="- Здесь есть машины?">
+      <audioTime in="34812" out="36123" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a devant la maison." someNumber="810" image="dg\044_011.gif" lang2="- Да, они есть. Есть они перед домом.">
+      <audioTime in="36123" out="38371" />
+    </line>
+    <line lang1="- Y a-t-il du café ici?" someNumber="None" image="dg\044_012.gif" lang2="- Здесь есть кофе?">
+      <audioTime in="38371" out="39648" />
+    </line>
+    <line lang1="- Oui, il y en a. Il y en a un peu sur la table." someNumber="200" image="dg\044_012.gif" lang2="- Да, оно есть. Есть оно немного на столе.">
+      <audioTime in="39648" out="41994" />
+    </line>
+  </lines>
+</lesson>

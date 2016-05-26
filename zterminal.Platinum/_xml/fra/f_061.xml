@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_061.wav" dic="p061" dlgName="Больной и доктор." dlgFile="exr\fg061.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Où est Pierre?" someNumber="70" image="dg\061_001.gif" lang2="- Где Пьер?">
+      <audioTime in="0" out="995" />
+    </line>
+    <line lang1="- Il est au lit." someNumber="70" image="dg\061_001.gif" lang2="- Он в кровати.">
+      <audioTime in="995" out="2375" />
+    </line>
+    <line lang1="- Qu'est-ce qui lui est arrivé?" someNumber="None" image="dg\061_002.gif" lang2="- Что с ним случилось?">
+      <audioTime in="2375" out="3783" />
+    </line>
+    <line lang1="- Il se sent mal." someNumber="None" image="dg\061_002.gif" lang2="- Он себя чувствует плохо.">
+      <audioTime in="3783" out="4878" />
+    </line>
+    <line lang1="- Il a l'air malade." someNumber="610" image="dg\061_003.gif" lang2="- Он выглядит больным.">
+      <audioTime in="4878" out="6272" />
+    </line>
+    <line lang1="- Nous allons appeler le médecin." someNumber="610" image="dg\061_003.gif" lang2="- Мы вызовем врача.">
+      <audioTime in="6272" out="8761" />
+    </line>
+    <line lang1="- Oui, bien sûr." someNumber="610" image="dg\061_003.gif" lang2="- Да, конечно.">
+      <audioTime in="8761" out="9993" />
+    </line>
+    <line lang1="Peux-tu te rappeler le numéro de téléphone du médecin?" someNumber="None" image="dg\061_004.gif" lang2="Можешь ли ты вспомнить номер телефона доктора?">
+      <audioTime in="9993" out="13055" />
+    </line>
+    <line lang1="- Oui, c'est - 00754." someNumber="None" image="dg\061_004.gif" lang2="- Да, это - 00754.">
+      <audioTime in="13055" out="16428" />
+    </line>
+    <line lang1="- Ouvre ta bouche, Pierre. Tire la langue. Dis &quot;A&quot;." someNumber="None" image="dg\061_005.gif" lang2="- Открой рот, Пьер. Покажи мне свой язык. Скажи &quot;А&quot;.">
+      <audioTime in="16428" out="19738" />
+    </line>
+    <line lang1="- Qu'est-ce qui lui est arrivé?" someNumber="None" image="dg\061_006.gif" lang2="- Что с ним случилось?">
+      <audioTime in="19738" out="21054" />
+    </line>
+    <line lang1="- Il a pris froid, monsieur Souchet," someNumber="None" image="dg\061_006.gif" lang2="- Он простудился, господин Суше,">
+      <audioTime in="21054" out="22548" />
+    </line>
+    <line lang1="il vaut mieux garder le lit pendant une semaine." someNumber="780" image="dg\061_006.gif" lang2="лучше оставаться в постели в течение недели.">
+      <audioTime in="22548" out="24747" />
+    </line>
+    <line lang1="- C'est une bonne nouvelle pour Pierre." someNumber="None" image="dg\061_007.gif" lang2="- Это хорошая новость для Пьера.">
+      <audioTime in="24747" out="26375" />
+    </line>
+    <line lang1="- Une bonne nouvelle?" someNumber="None" image="dg\061_007.gif" lang2="- Хорошая новость?">
+      <audioTime in="26375" out="27505" />
+    </line>
+    <line lang1="- Parce que l'école ne lui plaît pas." someNumber="460" image="dg\061_007.gif" lang2="- Потому что школа ему не нравится.">
+      <audioTime in="27505" out="28946" />
+    </line>
+  </lines>
+</lesson>

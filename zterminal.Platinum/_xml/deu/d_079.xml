@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_079.wav" dic="p079" dlgName="Нам нужно... У нас нет..." dlgFile="exr\dg079.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Was #machst du, Petra?" someNumber="800" image="dg\079_001.gif" lang2="- Что ты делаешь, Петра?">
+      <audioTime in="666" out="2441" />
+    </line>
+    <line lang1="- Ich #mache eine Liste für das Geschäft, Ralf." someNumber="800" image="dg\079_001.gif" lang2="- Я делаю список для магазина, Ральф.">
+      <audioTime in="2589" out="5252" />
+    </line>
+    <line lang1="- Was #brauchen wir?" someNumber="180" image="dg\079_001.gif" lang2="- Что нам нужно?">
+      <audioTime in="5548" out="7101" />
+    </line>
+    <line lang1="- In dieser Woche #brauchen wir Vieles." someNumber="180" image="dg\079_001.gif" lang2="- На этой неделе нам нужно многое.">
+      <audioTime in="7101" out="10135" />
+    </line>
+    <line lang1="- Wir #müssen ins Lebensmittelgeschäft #gehen." someNumber="None" image="dg\079_002.gif" lang2="Мы должны пойти в продовольственный магазин.">
+      <audioTime in="10652" out="13020" />
+    </line>
+    <line lang1="Wir #haben nicht genug Tee oder Kaffee." someNumber="380" image="dg\079_003.gif" lang2="У нас нет достаточно чая или кофе.">
+      <audioTime in="13316" out="15535" />
+    </line>
+    <line lang1="Wir #haben keinen Zucker und keine Konfitüre." someNumber="380" image="dg\079_003.gif" lang2="У нас нет сахара и джема.">
+      <audioTime in="15757" out="19678" />
+    </line>
+    <line lang1="- Wie #steht es mit Gemüse?" someNumber="360" image="dg\079_004.gif" lang2="- Что насчёт овощей?">
+      <audioTime in="20122" out="21823" />
+    </line>
+    <line lang1="- Ich #muss ins Gemüsegeschäft #gehen." someNumber="360" image="dg\079_004.gif" lang2="- Я должна зайти в овощной магазин.">
+      <audioTime in="22045" out="23969" />
+    </line>
+    <line lang1="Wir #haben nicht genug Tomaten." someNumber="190" image="dg\079_004.gif" lang2="У нас нет достаточного количества помидоров.">
+      <audioTime in="24117" out="25892" />
+    </line>
+    <line lang1="Aber wir #haben viel Kartoffeln." someNumber="190" image="dg\079_004.gif" lang2="Но у нас много картофеля.">
+      <audioTime in="26188" out="28185" />
+    </line>
+    <line lang1="Ich #muss auch zum Fleischer #gehen." someNumber="680" image="dg\079_005.gif" lang2="Я должна также зайти к мяснику.">
+      <audioTime in="28482" out="30552" />
+    </line>
+    <line lang1="Wir #brauchen Fleisch." someNumber="None" image="dg\079_005.gif" lang2="Нам нужно мясо.">
+      <audioTime in="30552" out="32032" />
+    </line>
+    <line lang1="Wir #haben überhaupt kein Fleisch." someNumber="None" image="dg\079_005.gif" lang2="У нас вообще нет мяса.">
+      <audioTime in="32107" out="34770" />
+    </line>
+    <line lang1="- #Haben wir Bier oder Wein?" someNumber="None" image="dg\079_006.gif" lang2="- У нас есть пиво или вино?">
+      <audioTime in="35435" out="37507" />
+    </line>
+    <line lang1="- Nein, wir #haben kein Bier und keinen Wein." someNumber="680" image="dg\079_006.gif" lang2="- Нет, у нас нет ни пива, ни вина.">
+      <audioTime in="37507" out="41058" />
+    </line>
+    <line lang1="Aber ich #will das nicht #kaufen." someNumber="680" image="dg\079_006.gif" lang2="Но я не собираюсь покупать ничего из этого.">
+      <audioTime in="41205" out="43129" />
+    </line>
+    <line lang1="- Ich #hoffe, dass du etwas Geld #hast." someNumber="980" image="dg\079_006.gif" lang2="- Я надеюсь, что у тебя есть немного денег?">
+      <audioTime in="43277" out="45127" />
+    </line>
+    <line lang1="- Ich #habe nicht viel." someNumber="550" image="dg\079_006.gif" lang2="- У меня не много.">
+      <audioTime in="45127" out="46842" />
+    </line>
+    <line lang1="- Ich #habe auch kein Geld." someNumber="330" image="dg\079_006.gif" lang2="- У меня тоже нет денег.">
+      <audioTime in="46842" out="48242" />
+    </line>
+  </lines>
+</lesson>

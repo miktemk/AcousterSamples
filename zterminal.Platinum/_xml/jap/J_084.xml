@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="j_084.wav" dlgName="Я начал читать" dic="p084" />
+  <lines>
+    <line lang1="ー渡辺*さん、子供さん*は*もう*歩けます*か。" someNumber="94" image="084_001.jpg" lang2="- Ватанабэ-сан, Ваш ребёнок уже умеет ходить?">
+      <audioTime in="0" out="5109" />
+    </line>
+    <line lang1="ーはい、１才*の*とき、歩ける*よう*に*なりました。" someNumber="110" image="084_002.jpg" lang2="- Да. (Он) начал ходить с годовалого возраста.">
+      <audioTime in="5109" out="9197" />
+    </line>
+    <line lang1="ー横山*くん、毎日*トレーニング*です*か。" someNumber="None" image="084_003.jpg" lang2="- Екояма-кун, (у Вас) каждый день тренировка?">
+      <audioTime in="9197" out="14530" />
+    </line>
+    <line lang1="ーそう*です。" someNumber="None" image="084_003.jpg" lang2="- Да.">
+      <audioTime in="14530" out="15706" />
+    </line>
+    <line lang1="実*は、子供*の*とき*に*体*が*弱かった*から、" someNumber="120" image="084_005.jpg" lang2="Честно говоря, в детстве (я) был слаб здоровьем">
+      <audioTime in="15531" out="18990" />
+    </line>
+    <line lang1="毎日*トレーニング*する*よう*に*なりました。" someNumber="110" image="084_006.jpg" lang2="и начал тренироваться каждый день.">
+      <audioTime in="18990" out="21699" />
+    </line>
+    <line lang1="―キム*さん*は*外国語*の*中*で*は*何*が*一番*上手*です*か。" someNumber="None" image="084_007.jpg" lang2="- Ким-сан, каким из иностранных языков Вы лучше всего владеете?">
+      <audioTime in="21699" out="28262" />
+    </line>
+    <line lang1="―英語*が*一番*上手*です。" someNumber="None" image="084_008.jpg" lang2="- Лучше всего владею английским.">
+      <audioTime in="28262" out="30724" />
+    </line>
+    <line lang1="日本語*は*まだ*下手*です。" someNumber="None" image="084_008.jpg" lang2="Японским владею пока плохо.">
+      <audioTime in="30724" out="32910" />
+    </line>
+    <line lang1="ー漢字*が*読めます*か。" someNumber="94" image="084_010.jpg" lang2="- Иероглифы читать умеете?">
+      <audioTime in="32910" out="35840" />
+    </line>
+    <line lang1="―少し*です。" someNumber="None" image="084_010.jpg" lang2="- Немного.">
+      <audioTime in="35840" out="37618" />
+    </line>
+    <line lang1="日本*に*来た*とき、漢字*が*ぜんぜん*読めませんでした*が、" someNumber="153" image="084_012.jpg" lang2="Когда я приехал в Японию, совершенно не умел читать иероглифы,">
+      <audioTime in="37633" out="41565" />
+    </line>
+    <line lang1="今*は*１００字*ぐらい*読める*よう*に*なりました。" someNumber="None" image="084_012.jpg" lang2="но сейчас начал читать около 100 знаков.">
+      <audioTime in="41565" out="44668" />
+    </line>
+    <line lang1="―山本*さん*は*英語*が*お上手*です*ね。" someNumber="None" image="084_014.jpg" lang2="- Ямамото-сан, как хорошо Вы владеете английским языком!">
+      <audioTime in="44668" out="50204" />
+    </line>
+    <line lang1="―ありがとう*ございます。" someNumber="None" image="084_014.jpg" lang2="- Большое спасибо!">
+      <audioTime in="50204" out="51540" />
+    </line>
+    <line lang1="―英語*を*勉強する*きっかけ*は*何*でした*か。" someNumber="None" image="084_014.jpg" lang2="- Что послужило поводом для изучения английского языка?">
+      <audioTime in="51540" out="54982" />
+    </line>
+    <line lang1="―実*は、中学校*の*ころ*英語*が*きらいだったん*です*が、" someNumber="None" image="084_017.jpg" lang2="- Честно говоря, в средней школе я терпеть не мог английский,">
+      <audioTime in="54982" out="59428" />
+    </line>
+    <line lang1="ぐうぜん*ペンフレンド*と*知り合った*こと*です。" someNumber="113" image="084_018.jpg" lang2="но неожиданно познакомился с товарищем по переписке.">
+      <audioTime in="59428" out="62375" />
+    </line>
+    <line lang1="それ*から*英語*で*手紙*を*書く*よう*になって、" someNumber="None" image="084_019.jpg" lang2="После этого начал писать письма на английском языке">
+      <audioTime in="62375" out="66032" />
+    </line>
+    <line lang1="だんだん、うまく*書ける*よう*に*なりました。" someNumber="None" image="084_019.jpg" lang2="и постепенно начал писать более умело.">
+      <audioTime in="66032" out="68646" />
+    </line>
+    <line lang1="―山本*さん*の*仕事*は*ツアー・ガイド*です*ね。" someNumber="166" image="084_021.jpg" lang2="- Ямамото-сан, Вы по профессии гид, не так ли?">
+      <audioTime in="68497" out="73254" />
+    </line>
+    <line lang1="―はい、そう*です。" someNumber="None" image="084_022.jpg" lang2="- Да, это так.">
+      <audioTime in="73254" out="74417" />
+    </line>
+    <line lang1="専門*学校*を*卒業して*から*観光*会社*に*ツアー・ガイド*として*つとめる*よう*に*なりました。" someNumber="127" image="084_022.jpg" lang2="Окончив спецшколу, я поступил на работу в турагенство в качестве гида.">
+      <audioTime in="74417" out="81264" />
+    </line>
+  </lines>
+</lesson>

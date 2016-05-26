@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="d_011.wav" dic="p011" dlgName="Чье это?" dlgFile="exr\dg011.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wessen Hemd #ist das?" someNumber="200" image="dg\011_001.gif" lang2="- Чья это рубашка?">
+      <audioTime in="66" out="1500" />
+    </line>
+    <line lang1="#Ist das dein Hemd, Kurt?" someNumber="340" image="dg\011_002.gif" lang2="Это твоя рубашка, Курт?">
+      <audioTime in="2100" out="3634" />
+    </line>
+    <line lang1="- Nein, Herr Schulze." someNumber="340" image="dg\011_002.gif" lang2="- Нет, господин Шульце.">
+      <audioTime in="4069" out="5169" />
+    </line>
+    <line lang1="Das #ist nicht mein Hemd." someNumber="340" image="dg\011_002.gif" lang2="Это не моя рубашка.">
+      <audioTime in="5203" out="6603" />
+    </line>
+    <line lang1="Das #ist mein Hemd." someNumber="None" image="dg\011_003.gif" lang2="Эта моя рубашка.">
+      <audioTime in="6903" out="8270" />
+    </line>
+    <line lang1="Mein Hemd #ist blau." someNumber="None" image="dg\011_003.gif" lang2="Моя рубашка синяя.">
+      <audioTime in="8404" out="9838" />
+    </line>
+    <line lang1="- #Ist das Karls Hemd?" someNumber="200" image="dg\011_004.gif" lang2="- Это рубашка Карла?">
+      <audioTime in="10138" out="11405" />
+    </line>
+    <line lang1="- Das #ist wohl sein Hemd." someNumber="200" image="dg\011_004.gif" lang2="- Возможно, это его рубашка.">
+      <audioTime in="11772" out="13040" />
+    </line>
+    <line lang1="Karls Hemd #ist weiß." someNumber="200" image="dg\011_004.gif" lang2="Рубашка Карла белая.">
+      <audioTime in="13340" out="14641" />
+    </line>
+    <line lang1="- Karl!" someNumber="None" image="dg\011_005.gif" lang2="- Карл!">
+      <audioTime in="15041" out="15775" />
+    </line>
+    <line lang1="- Ja, Herr Schulze?" someNumber="None" image="dg\011_005.gif" lang2="- Да, господин Шульце?">
+      <audioTime in="15775" out="16903" />
+    </line>
+    <line lang1="- #Ist das dein Hemd?" someNumber="370" image="dg\011_006.gif" lang2="- Это твоя рубашка?">
+      <audioTime in="17075" out="18209" />
+    </line>
+    <line lang1="- Ja, Herr Schulze." someNumber="370" image="dg\011_006.gif" lang2="- Да, господин Шульце.">
+      <audioTime in="18342" out="19443" />
+    </line>
+    <line lang1="- Hier #ist es." someNumber="None" image="dg\011_007.gif" lang2="- Вот она.">
+      <audioTime in="19610" out="20410" />
+    </line>
+    <line lang1="- Danke schön, Herr Schulze." someNumber="None" image="dg\011_007.gif" lang2="- Спасибо, господин Шульце.">
+      <audioTime in="20610" out="22078" />
+    </line>
+  </lines>
+</lesson>

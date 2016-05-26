@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="f_138.wav" dic="p138" dlgName="Что,.. если?.." dlgFile="exr\fg138.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Que feras-tu si tu gagnes beaucoup d'argent?" someNumber="70" image="dg\138_001.gif" lang2="- Что ты будешь делать, если бы выиграешь много денег?">
+      <audioTime in="0" out="2160" />
+    </line>
+    <line lang1="- Je descendrai aux meilleurs hôtels." someNumber="70" image="dg\138_001.gif" lang2="- Я буду останавливаться в лучших отелях.">
+      <audioTime in="2160" out="4093" />
+    </line>
+    <line lang1="Si je gagne beaucoup d'argent, je descendrai aux meilleurs hôtels." someNumber="None" image="dg\138_001.gif" lang2="Если я выиграю много денег, я буду останавливаться в лучших отелях.">
+      <audioTime in="4093" out="7612" />
+    </line>
+    <line lang1="- Que fera-t-il s'il rate l'autobus?" someNumber="None" image="dg\138_002.gif" lang2="- Что он сделает, если он опоздает на автобус?">
+      <audioTime in="7612" out="9906" />
+    </line>
+    <line lang1="- Il prendra un taxi." someNumber="None" image="dg\138_002.gif" lang2="- Он возьмет такси.">
+      <audioTime in="9906" out="11239" />
+    </line>
+    <line lang1="S'il rate l'autobus, il prendra un taxi." someNumber="60" image="dg\138_002.gif" lang2="Если он опоздает на автобус, он возьмет такси.">
+      <audioTime in="11239" out="13774" />
+    </line>
+    <line lang1="- Que fera-t-il s'il ne vend pas sa vieille voiture?" someNumber="None" image="dg\138_003.gif" lang2="- Что он сделает, если он не продаст свой старый автомобиль?">
+      <audioTime in="13774" out="16427" />
+    </line>
+    <line lang1="- Il n'achètera pas de nouvelle voiture." someNumber="None" image="dg\138_003.gif" lang2="- Он не купит новый автомобиль.">
+      <audioTime in="16427" out="18800" />
+    </line>
+    <line lang1="S'il ne vend pas sa vieille voiture, il n'achètera pas de nouvelle voiture." someNumber="None" image="dg\138_003.gif" lang2="Если он не продаст свой старый автомобиль, он не купит новый автомобиль.">
+      <audioTime in="18800" out="22385" />
+    </line>
+    <line lang1="- Que ferez-vous si on vous donne plus d'argent?" someNumber="800" image="dg\138_004.gif" lang2="- Что вы будете делать, если вам дадут больше денег?">
+      <audioTime in="22385" out="24491" />
+    </line>
+    <line lang1="- Je travaillerai moins." someNumber="800" image="dg\138_004.gif" lang2="- Я буду работать меньше.">
+      <audioTime in="24491" out="25767" />
+    </line>
+    <line lang1="Si on me propose plus d'argent, je travaillerai moins." someNumber="None" image="dg\138_004.gif" lang2="Если они мне предложат больше денег, я буду работать меньше.">
+      <audioTime in="25767" out="28193" />
+    </line>
+    <line lang1="- Que fera-t-il si elle ne tape pas cette lettre?" someNumber="None" image="dg\138_005.gif" lang2="- Что он будет делать, если она не напечатает это письмо?">
+      <audioTime in="28193" out="31261" />
+    </line>
+    <line lang1="- Je la taperai moi-même." someNumber="None" image="dg\138_005.gif" lang2="- Я напечатаю его сам.">
+      <audioTime in="31261" out="32672" />
+    </line>
+    <line lang1="Si elle ne tape pas cette lettre, il la tapera lui-même." someNumber="470" image="dg\138_005.gif" lang2="Если она не напечатает это письмо, он напечатает его сам.">
+      <audioTime in="32672" out="35900" />
+    </line>
+    <line lang1="- Que feront les enfants s'ils viennent tôt?" someNumber="None" image="dg\138_006.gif" lang2="- Что будут делать дети, если они придут рано?">
+      <audioTime in="35900" out="38231" />
+    </line>
+    <line lang1="- Ils joueront dans le jardin." someNumber="None" image="dg\138_006.gif" lang2="- Они будут играть в саду.">
+      <audioTime in="38231" out="39706" />
+    </line>
+    <line lang1="Si les enfants viennent tôt à la maison, ils joueront dans le jardin." someNumber="None" image="dg\138_006.gif" lang2="Если дети придут домой рано, они будут играть в саду.">
+      <audioTime in="39706" out="42794" />
+    </line>
+    <line lang1="- Que ferez-vous si vous tombez malade demain?" someNumber="200" image="dg\138_007.gif" lang2="- Что вы будете делать, если вы заболеете завтра?">
+      <audioTime in="42794" out="45200" />
+    </line>
+    <line lang1="- Je n'irai pas au travail." someNumber="200" image="dg\138_007.gif" lang2="- Я не пойду на работу.">
+      <audioTime in="45200" out="46566" />
+    </line>
+    <line lang1="Si je tombe malade demain, je n'irai pas au travail." someNumber="None" image="dg\138_007.gif" lang2="Если я заболею завтра, я не пойду на работу.">
+      <audioTime in="46566" out="50032" />
+    </line>
+    <line lang1="- Que ferez-vous si vous allez à la soirée?" someNumber="None" image="dg\138_008.gif" lang2="- Что вы будете делать, если вы пойдёте на вечеринку?">
+      <audioTime in="50032" out="52368" />
+    </line>
+    <line lang1="- Je m'amuserai." someNumber="None" image="dg\138_008.gif" lang2="- Я буду развлекаться.">
+      <audioTime in="52368" out="53387" />
+    </line>
+    <line lang1="Si je vais à la soirée, je m'amuserai." someNumber="None" image="dg\138_008.gif" lang2="Если я пойду на вечеринку, я буду развлекаться.">
+      <audioTime in="53387" out="55142" />
+    </line>
+    <line lang1="- Que feras-tu s'il te le demande?" someNumber="None" image="dg\138_009.gif" lang2="- Что ты будешь делать, если он тебя об этом спросит?">
+      <audioTime in="55142" out="57346" />
+    </line>
+    <line lang1="- Je dirai la vérité." someNumber="None" image="dg\138_009.gif" lang2="- Я скажу правду.">
+      <audioTime in="57346" out="58540" />
+    </line>
+    <line lang1="S'il me le demande, je dirai la vérité." someNumber="None" image="dg\138_009.gif" lang2="Если он меня об этом спросит, я скажу правду.">
+      <audioTime in="58540" out="60763" />
+    </line>
+    <line lang1="- Que feras-tu s'il pleut demain?" someNumber="None" image="dg\138_010.gif" lang2="- Что ты будешь делать, если завтра пойдёт дождь?">
+      <audioTime in="60763" out="62324" />
+    </line>
+    <line lang1="- Je resterai chez moi." someNumber="None" image="dg\138_010.gif" lang2="- Я останусь у себя (дома).">
+      <audioTime in="62324" out="63856" />
+    </line>
+    <line lang1="S'il pleut demain, je resterai chez moi." someNumber="810" image="dg\138_010.gif" lang2="Если завтра пойдёт дождь, я останусь у себя (дома).">
+      <audioTime in="63856" out="65604" />
+    </line>
+  </lines>
+</lesson>

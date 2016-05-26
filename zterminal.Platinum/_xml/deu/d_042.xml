@@ -1,0 +1,113 @@
+<lesson>
+  <header wav="d_042.wav" dic="p042" dlgName="Здесь есть?.." dlgFile="exr\dg041.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Gibt es einen Pass hier?" someNumber="360" image="dg\042_001.gif" lang2="- Есть здесь паспорт?">
+      <audioTime in="0" out="1999" />
+    </line>
+    <line lang1="- Ja, es #gibt einen." someNumber="900" image="dg\042_001.gif" lang2="- Да, есть один.">
+      <audioTime in="2110" out="3776" />
+    </line>
+    <line lang1="Dort #ist einer auf dem Tisch." someNumber="900" image="dg\042_001.gif" lang2="Там есть один на столе.">
+      <audioTime in="3776" out="5988" />
+    </line>
+    <line lang1="- #Gibt es etwas Milch hier?" someNumber="380" image="dg\042_002.gif" lang2="- Есть здесь немного молока?">
+      <audioTime in="5988" out="8155" />
+    </line>
+    <line lang1="- Ja, es #gibt sie." someNumber="750" image="dg\042_002.gif" lang2="- Да, есть.">
+      <audioTime in="8155" out="10187" />
+    </line>
+    <line lang1="Dort #ist etwas auf dem Tisch." someNumber="750" image="dg\042_002.gif" lang2="Там есть немного на столе.">
+      <audioTime in="10187" out="12129" />
+    </line>
+    <line lang1="- #Gibt es einen Löffel hier?" someNumber="40" image="dg\042_003.gif" lang2="- Есть здесь ложка?">
+      <audioTime in="12439" out="14660" />
+    </line>
+    <line lang1="- Ja, es #gibt einen." someNumber="None" image="dg\042_003.gif" lang2="- Да, есть одна.">
+      <audioTime in="14660" out="16105" />
+    </line>
+    <line lang1="Dort #ist einer auf dem Teller ." someNumber="None" image="dg\042_003.gif" lang2="Там есть одна на тарелке.">
+      <audioTime in="16105" out="18318" />
+    </line>
+    <line lang1="- #Gibt es eine Krawatte hier?" someNumber="90" image="dg\042_004.gif" lang2="- Есть здесь галстук?">
+      <audioTime in="18548" out="20657" />
+    </line>
+    <line lang1="- Ja, es #gibt eine." someNumber="810" image="dg\042_004.gif" lang2="- Да, есть один.">
+      <audioTime in="20769" out="22434" />
+    </line>
+    <line lang1="Dort auf dem Stuhl #ist eine." someNumber="810" image="dg\042_004.gif" lang2="Там есть один на стуле.">
+      <audioTime in="22434" out="24466" />
+    </line>
+    <line lang1="- #Gibt es etwas Brot hier?" someNumber="None" image="dg\042_005.gif" lang2="- Есть здесь немного хлеба?">
+      <audioTime in="24656" out="26544" />
+    </line>
+    <line lang1="- Ja, es #gibt es." someNumber="None" image="dg\042_005.gif" lang2="- Да, есть.">
+      <audioTime in="26544" out="28169" />
+    </line>
+    <line lang1="Es #gibt etwas auf dem Tisch." someNumber="None" image="dg\042_005.gif" lang2="Есть немного на столе.">
+      <audioTime in="28210" out="30209" />
+    </line>
+    <line lang1="- #Gibt es einen Hammer hier?" someNumber="200" image="dg\042_006.gif" lang2="- Есть здесь молоток?">
+      <audioTime in="30209" out="32097" />
+    </line>
+    <line lang1="- Ja, es #gibt einen." someNumber="None" image="dg\042_006.gif" lang2="- Да, есть один.">
+      <audioTime in="32319" out="33985" />
+    </line>
+    <line lang1="Es #gibt einen auf dem Schrank." someNumber="None" image="dg\042_006.gif" lang2="Есть один на шкафу.">
+      <audioTime in="33985" out="35791" />
+    </line>
+    <line lang1="- #Gibt es etwas Tee hier?" someNumber="None" image="dg\042_007.gif" lang2="- Есть здесь немного чая?">
+      <audioTime in="35791" out="37643" />
+    </line>
+    <line lang1="- Ja es #gibt ihn." someNumber="None" image="dg\042_007.gif" lang2="- Да, есть.">
+      <audioTime in="37872" out="39205" />
+    </line>
+    <line lang1="Dort auf dem Tisch #ist ein bisschen." someNumber="None" image="dg\042_007.gif" lang2="Там есть немного на столе.">
+      <audioTime in="39205" out="41282" />
+    </line>
+    <line lang1="- #Gibt es eine Vase hier?" someNumber="None" image="dg\042_008.gif" lang2="- Есть здесь ваза?">
+      <audioTime in="41426" out="43537" />
+    </line>
+    <line lang1="- Ja, es #gibt eine." someNumber="None" image="dg\042_008.gif" lang2="- Да, есть одна.">
+      <audioTime in="43537" out="45162" />
+    </line>
+    <line lang1="Es #ist eine auf dem Radio." someNumber="None" image="dg\042_008.gif" lang2="Есть одна на радио.">
+      <audioTime in="45162" out="47285" />
+    </line>
+    <line lang1="- #Gibt es einen Anzug hier?" someNumber="None" image="dg\042_009.gif" lang2="- Есть здесь костюм?">
+      <audioTime in="47535" out="49645" />
+    </line>
+    <line lang1="- Ja, es #gibt einen." someNumber="None" image="dg\042_009.gif" lang2="- Да, есть один.">
+      <audioTime in="49645" out="51587" />
+    </line>
+    <line lang1="Es #gibt einen im Kleiderschrank." someNumber="None" image="dg\042_009.gif" lang2="Есть один в гардеробе.">
+      <audioTime in="51587" out="53619" />
+    </line>
+    <line lang1="- #Gibt es etwas Tabak hier?" someNumber="None" image="dg\042_010.gif" lang2="- Есть здесь немного табака?">
+      <audioTime in="53619" out="55921" />
+    </line>
+    <line lang1="- Ja, es #gibt ihn." someNumber="None" image="dg\042_010.gif" lang2="- Да, есть.">
+      <audioTime in="55921" out="57818" />
+    </line>
+    <line lang1="Dort in der Tabakdose #ist ein bisschen." someNumber="None" image="dg\042_010.gif" lang2="Там есть немного в табакерке.">
+      <audioTime in="57818" out="60618" />
+    </line>
+    <line lang1="- #Gibt es etwas Schokolade hier?" someNumber="None" image="dg\042_011.gif" lang2="- Есть здесь немного шоколада?">
+      <audioTime in="60863" out="63195" />
+    </line>
+    <line lang1="- Ja, es #gibt sie." someNumber="None" image="dg\042_011.gif" lang2="- Да, есть.">
+      <audioTime in="63195" out="65137" />
+    </line>
+    <line lang1="Dort auf dem Tisch #ist ein bisschen." someNumber="None" image="dg\042_011.gif" lang2="Там есть немного на столе.">
+      <audioTime in="65137" out="67620" />
+    </line>
+    <line lang1="- #Gibt es etwas Käse hier?" someNumber="None" image="dg\042_012.gif" lang2="- Есть здесь немного сыра?">
+      <audioTime in="67621" out="69878" />
+    </line>
+    <line lang1="- Ja, es #gibt ihn." someNumber="360" image="dg\042_012.gif" lang2="- Да, есть.">
+      <audioTime in="69878" out="71368" />
+    </line>
+    <line lang1="Dort auf dem Teller #ist ein bisschen." someNumber="360" image="dg\042_012.gif" lang2="Там есть немного на тарелке.">
+      <audioTime in="71368" out="73716" />
+    </line>
+  </lines>
+</lesson>

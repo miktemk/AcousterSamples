@@ -1,0 +1,80 @@
+<lesson>
+  <header wav="d_028.wav" dic="p028" dlgName="Где они?" dlgFile="exr\dg027.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Liegen auf dem Toilettentisch Bücher?" someNumber="None" image="dg\028_001.gif" lang2="- Лежат на туалетном столике книги?">
+      <audioTime in="274" out="3297" />
+    </line>
+    <line lang1="- Nein, dort #liegen keine Bücher." someNumber="380" image="dg\028_001.gif" lang2="- Нет, там нет книг.">
+      <audioTime in="3663" out="6045" />
+    </line>
+    <line lang1="Dort #sind einige Zigaretten." someNumber="380" image="dg\028_001.gif" lang2="Там несколько сигарет.">
+      <audioTime in="6136" out="8150" />
+    </line>
+    <line lang1="- Wo #sind sie?" someNumber="None" image="dg\028_001.gif" lang2="- Где они?">
+      <audioTime in="8151" out="9279" />
+    </line>
+    <line lang1="- Sie #sind neben jener Schachtel." someNumber="810" image="dg\028_001.gif" lang2="- Они около той коробки.">
+      <audioTime in="9524" out="11539" />
+    </line>
+    <line lang1="- #Liegen auf dem Fußboden Krawatten?" someNumber="190" image="dg\028_002.gif" lang2="- Лежат на полу галстуки?">
+      <audioTime in="12089" out="14471" />
+    </line>
+    <line lang1="- Nein, dort #liegen keine Krawatten." someNumber="750" image="dg\028_002.gif" lang2="- Нет, там нет галстуков.">
+      <audioTime in="14471" out="17218" />
+    </line>
+    <line lang1="Dort #sind einige Schuhe." someNumber="750" image="dg\028_002.gif" lang2="Там несколько туфель.">
+      <audioTime in="17218" out="19142" />
+    </line>
+    <line lang1="- Wo #sind sie?" someNumber="None" image="dg\028_002.gif" lang2="- Где они?">
+      <audioTime in="19142" out="20271" />
+    </line>
+    <line lang1="- Sie #sind neben dem Bett." someNumber="None" image="dg\028_002.gif" lang2="- Они около постели.">
+      <audioTime in="20333" out="22347" />
+    </line>
+    <line lang1="- #Stehen Gläser auf der Anrichte?" someNumber="None" image="dg\028_003.gif" lang2="- Есть на серванте стаканы?">
+      <audioTime in="22622" out="25186" />
+    </line>
+    <line lang1="- Nein, auf der Anrichte #stehen keine Gläser." someNumber="810" image="dg\028_003.gif" lang2="- Нет, на серванте нет стаканов.">
+      <audioTime in="25278" out="29491" />
+    </line>
+    <line lang1="Dort #sind einige Flaschen." someNumber="810" image="dg\028_003.gif" lang2="Там несколько бутылок.">
+      <audioTime in="29674" out="31415" />
+    </line>
+    <line lang1="- Wo #sind sie?" someNumber="None" image="dg\028_003.gif" lang2="- Где они?">
+      <audioTime in="31506" out="33063" />
+    </line>
+    <line lang1="- Sie #sind neben jenen Büchsen." someNumber="None" image="dg\028_003.gif" lang2="- Они около тех консервных банок.">
+      <audioTime in="33063" out="35262" />
+    </line>
+    <line lang1="- #Liegen Zeitungen auf dem Regal?" someNumber="None" image="dg\028_004.gif" lang2="- Лежат на полке газеты?">
+      <audioTime in="36085" out="38375" />
+    </line>
+    <line lang1="- Nein auf dem Regal #sind keine Zeitungen." someNumber="None" image="dg\028_004.gif" lang2="- Нет, на полке нет газет.">
+      <audioTime in="38283" out="41581" />
+    </line>
+    <line lang1="Dort #sind einige Fahrkarten." someNumber="None" image="dg\028_004.gif" lang2="Там несколько билетов.">
+      <audioTime in="41581" out="43962" />
+    </line>
+    <line lang1="- Wo #sind sie?" someNumber="None" image="dg\028_004.gif" lang2="- Где они?">
+      <audioTime in="43962" out="45091" />
+    </line>
+    <line lang1="- Sie #sind in jener Aktentasche." someNumber="None" image="dg\028_004.gif" lang2="- Они в том портфеле.">
+      <audioTime in="45245" out="47901" />
+    </line>
+    <line lang1="- #Stehen auf dem Radio Tassen?" someNumber="None" image="dg\028_006.gif" lang2="- Стоят на радио чашки?">
+      <audioTime in="48084" out="50464" />
+    </line>
+    <line lang1="- Nein, auf dem Radio #stehen keine Tassen." someNumber="None" image="dg\028_006.gif" lang2="- Нет, на радио нет чашек.">
+      <audioTime in="50556" out="53762" />
+    </line>
+    <line lang1="Dort #sind einige Gläser." someNumber="None" image="dg\028_006.gif" lang2="Там несколько стаканов.">
+      <audioTime in="53762" out="55960" />
+    </line>
+    <line lang1="- Wo #sind sie?" someNumber="None" image="dg\028_006.gif" lang2="- Где они?">
+      <audioTime in="56235" out="57792" />
+    </line>
+    <line lang1="- Sie #sind neben jenen Flaschen." someNumber="None" image="dg\028_006.gif" lang2="- Они рядом с теми бутылями.">
+      <audioTime in="57975" out="60357" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,125 @@
+<lesson>
+  <header wav="d_014.wav" dic="p014" dlgName="Какого цвета?.. Он не...  " dlgFile="exr\dg013.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Welche Farbe #hat Herrn Müllers Regenschirm?" someNumber="400" image="dg\014_001.gif" lang2="- Какого цвета зонтик господина Мюллера?">
+      <audioTime in="219" out="3062" />
+    </line>
+    <line lang1="#Ist er braun?" someNumber="400" image="dg\014_001.gif" lang2="Он коричневый?">
+      <audioTime in="3171" out="4484" />
+    </line>
+    <line lang1="- Er #ist nicht braun." someNumber="550" image="dg\014_001.gif" lang2="- Он не коричневый.">
+      <audioTime in="4922" out="6124" />
+    </line>
+    <line lang1="Er #ist schwarz." someNumber="550" image="dg\014_001.gif" lang2="Он чёрный.">
+      <audioTime in="6124" out="7253" />
+    </line>
+    <line lang1="- Welche Farbe #hat Herrn Richters Mantel?" someNumber="None" image="dg\014_002.gif" lang2="- Какого цвета пальто господина Рихтера?">
+      <audioTime in="7656" out="10391" />
+    </line>
+    <line lang1="#Ist er weiß?" someNumber="None" image="dg\014_002.gif" lang2="Оно белое?">
+      <audioTime in="10391" out="11655" />
+    </line>
+    <line lang1="- Er #ist nicht weiß." someNumber="950" image="dg\014_002.gif" lang2="- Оно не белое.">
+      <audioTime in="11812" out="13170" />
+    </line>
+    <line lang1="Er #ist grau." someNumber="950" image="dg\014_002.gif" lang2="Оно серое.">
+      <audioTime in="13170" out="14299" />
+    </line>
+    <line lang1="- Welche Farbe #hat die Krawatte des Jungen?" someNumber="200" image="dg\014_003.gif" lang2="- Какого цвета галстук мальчика?">
+      <audioTime in="14984" out="17391" />
+    </line>
+    <line lang1="#Ist sie gelb?" someNumber="200" image="dg\014_003.gif" lang2="Он жёлтый?">
+      <audioTime in="17391" out="18812" />
+    </line>
+    <line lang1="- Sie #ist nicht gelb." someNumber="None" image="dg\014_003.gif" lang2="- Он не жёлтый.">
+      <audioTime in="18812" out="20032" />
+    </line>
+    <line lang1="Sie #ist orange." someNumber="None" image="dg\014_003.gif" lang2="Он оранжевый.">
+      <audioTime in="20032" out="21161" />
+    </line>
+    <line lang1="- Welche Farbe #hat Peters Wagen?" someNumber="400" image="dg\014_004.gif" lang2="- Какого цвета машина Петера?">
+      <audioTime in="21438" out="23625" />
+    </line>
+    <line lang1="#Ist er rot?" someNumber="400" image="dg\014_004.gif" lang2="Она красная?">
+      <audioTime in="23625" out="24754" />
+    </line>
+    <line lang1="- Er #ist nicht rot." someNumber="None" image="dg\014_004.gif" lang2="- Она не красная.">
+      <audioTime in="25047" out="26205" />
+    </line>
+    <line lang1="Er #ist blau." someNumber="None" image="dg\014_004.gif" lang2="Она голубая.">
+      <audioTime in="26205" out="27334" />
+    </line>
+    <line lang1="- Welche Farbe #hat Frau Müllers Bluse?" someNumber="210" image="dg\014_005.gif" lang2="- Какого цвета блузка госпожи Мюллер?">
+      <audioTime in="27782" out="30297" />
+    </line>
+    <line lang1="#Ist sie orange?" someNumber="None" image="dg\014_005.gif" lang2="Она оранжевая?">
+      <audioTime in="30516" out="31829" />
+    </line>
+    <line lang1="- Sie #ist nicht orange." someNumber="220" image="dg\014_005.gif" lang2="- Она не оранжевая.">
+      <audioTime in="32047" out="33360" />
+    </line>
+    <line lang1="Sie #ist gelb." someNumber="220" image="dg\014_005.gif" lang2="Она жёлтая.">
+      <audioTime in="33360" out="34579" />
+    </line>
+    <line lang1="- Welche Farbe #hat Kurts Hemd?" someNumber="510" image="dg\014_006.gif" lang2="- Какого цвета рубашка Курта?">
+      <audioTime in="35000" out="37188" />
+    </line>
+    <line lang1="#Ist es blau?" someNumber="510" image="dg\014_006.gif" lang2="Она голубая?">
+      <audioTime in="37188" out="38317" />
+    </line>
+    <line lang1="- Es #ist nicht blau." someNumber="None" image="dg\014_006.gif" lang2="- Она не голубая.">
+      <audioTime in="38610" out="40251" />
+    </line>
+    <line lang1="Es #ist weiß." someNumber="None" image="dg\014_006.gif" lang2="Она белая.">
+      <audioTime in="40251" out="41380" />
+    </line>
+    <line lang1="- Welche Farbe #hat Herrn Kleins Hut?" someNumber="None" image="dg\014_007.gif" lang2="- Какого цвета шляпа господина Клайна?">
+      <audioTime in="41891" out="44298" />
+    </line>
+    <line lang1="#Ist er grün und rot?" someNumber="None" image="dg\014_007.gif" lang2="Она зелёная и красная?">
+      <audioTime in="44406" out="46157" />
+    </line>
+    <line lang1="- Er #ist nicht grün und rot." someNumber="None" image="dg\014_007.gif" lang2="- Она не зелёная и не красная.">
+      <audioTime in="46376" out="48453" />
+    </line>
+    <line lang1="Er #ist grau und schwarz." someNumber="None" image="dg\014_007.gif" lang2="Она серая и чёрная.">
+      <audioTime in="48453" out="50531" />
+    </line>
+    <line lang1="- Welche Farbe #hat Frau Brauns Tasche?" someNumber="510" image="dg\014_008.gif" lang2="- Какого цвета футляр у этой женщины?">
+      <audioTime in="50750" out="53485" />
+    </line>
+    <line lang1="#Ist sie grau?" someNumber="510" image="dg\014_008.gif" lang2="Он серый?">
+      <audioTime in="53485" out="54794" />
+    </line>
+    <line lang1="- Sie #ist nicht grau." someNumber="None" image="dg\014_008.gif" lang2="- Он не серый.">
+      <audioTime in="55016" out="56103" />
+    </line>
+    <line lang1="Sie #ist braun." someNumber="None" image="dg\014_008.gif" lang2="Он коричневый.">
+      <audioTime in="56104" out="57413" />
+    </line>
+    <line lang1="- Welche Farbe #hat Frau Brauns Hund?" someNumber="None" image="dg\014_009.gif" lang2="- Какого цвета собака госпожи Браун?">
+      <audioTime in="57750" out="60595" />
+    </line>
+    <line lang1="#Ist er grau und schwarz?" someNumber="None" image="dg\014_009.gif" lang2="Она серая и чёрная?">
+      <audioTime in="60595" out="62672" />
+    </line>
+    <line lang1="- Er #ist nicht grau und schwarz." someNumber="None" image="dg\014_009.gif" lang2="- Она не серая и не чёрная.">
+      <audioTime in="62672" out="64433" />
+    </line>
+    <line lang1="Er #ist braun und weiß." someNumber="None" image="dg\014_009.gif" lang2="Она коричневая и белая.">
+      <audioTime in="64433" out="66059" />
+    </line>
+    <line lang1="- Welche Farbe #hat Frau Kleins Teppich?" someNumber="None" image="dg\014_010.gif" lang2="- Какого цвета ковер госпожи Клайн?">
+      <audioTime in="66283" out="68907" />
+    </line>
+    <line lang1="#Ist er grün?" someNumber="None" image="dg\014_010.gif" lang2="Он зелёный?">
+      <audioTime in="68907" out="70036" />
+    </line>
+    <line lang1="- Er #ist nicht grün." someNumber="330" image="dg\014_010.gif" lang2="- Он не зелёный.">
+      <audioTime in="70111" out="71423" />
+    </line>
+    <line lang1="Er #ist rot." someNumber="330" image="dg\014_010.gif" lang2="Он красный.">
+      <audioTime in="71423" out="72552" />
+    </line>
+  </lines>
+</lesson>

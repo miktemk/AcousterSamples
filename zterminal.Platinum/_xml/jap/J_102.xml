@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="j_102.wav" dlgName="Уже должно стать прохладнее" dic="p102" />
+  <lines>
+    <line lang1="―今年*の*夏*は*めずらしく*暑かった*です*ね。" someNumber="112" image="102_001.jpg" lang2="- Лето в этом году было на редкость жарким, не правда ли!">
+      <audioTime in="0" out="4556" />
+    </line>
+    <line lang1="―そう*です*ね。" someNumber="None" image="102_001.jpg" lang2="- В самом деле!">
+      <audioTime in="4556" out="5911" />
+    </line>
+    <line lang1="でも、もう*９月*な*ので、そろそろ*すずしく*なる*はず*です。" someNumber="106" image="102_003.jpg" lang2="Однако уже сентябрь, поэтому уже вот-вот должно стать прохладнее.">
+      <audioTime in="5911" out="10263" />
+    </line>
+    <line lang1="―すみません、田中*さん*は*留守*です*か。" someNumber="None" image="102_004.jpg" lang2="- Простите, Танака-сан отсутствует (в своей комнате)?">
+      <audioTime in="10263" out="14426" />
+    </line>
+    <line lang1="―ええ。部屋*の*鍵*は*管理室*に*ある*から、留守*の*はず*です。" someNumber="None" image="102_005.jpg" lang2="- Да. Ключи находятся в комнате дежурного, поэтому он, должно быть, отсутствует.">
+      <audioTime in="14426" out="19315" />
+    </line>
+    <line lang1="ー小山*さん、明日*の*晩、映画*を*見*に*行きません*か。" someNumber="None" image="102_006.jpg" lang2="- Кояма-сан, пойдём смотреть фильм завтра вечером!">
+      <audioTime in="19315" out="25720" />
+    </line>
+    <line lang1="ーごめんなさい。私、明日*は*残業*に*なり*そう*な*ん*です。" someNumber="106" image="102_007.jpg" lang2="- Прошу прощения! Я завтра, очевидно, задержусь на работе.">
+      <audioTime in="25720" out="30957" />
+    </line>
+    <line lang1="ーよく*残業*を*しなければなりません*か。" someNumber="None" image="102_008.jpg" lang2="- Часто приходится задерживаться на работе?">
+      <audioTime in="30957" out="34470" />
+    </line>
+    <line lang1="ーそう*で*も*ない*けど、明日*は*課長*が*出張*から*帰る*予定*な*ので、" someNumber="106" image="102_009.jpg" lang2="- Нет, но на завтра намечено, что начальник отдела должен вернуться из командировки">
+      <audioTime in="34470" out="39990" />
+    </line>
+    <line lang1="打ち合わせ*が*あり*そう*なん*です。" someNumber="None" image="102_009.jpg" lang2="и (у нас), по-видимому, будет совещание.">
+      <audioTime in="39990" out="42220" />
+    </line>
+    <line lang1="です*から、明日*は*早く*帰れない*と*思います。" someNumber="None" image="102_009.jpg" lang2="Поэтому завтра, думаю, не смогу вернуться домой рано.">
+      <audioTime in="42220" out="46017" />
+    </line>
+    <line lang1="ー残念*です*ね。" someNumber="None" image="102_012.jpg" lang2="- Как жаль!">
+      <audioTime in="46017" out="47809" />
+    </line>
+    <line lang1="ー吉田*さん、今日*は*どんな*具合*です*か。" someNumber="None" image="102_013.jpg" lang2="- Есида-сан! Как (Ваше) самочувствие сегодня?">
+      <audioTime in="47809" out="52951" />
+    </line>
+    <line lang1="元気*そう*です*ね。もう*ずいぶん*治りました*か。" someNumber="None" image="102_013.jpg" lang2="У Вас здоровый вид! (Вы) уже окончательно поправились?">
+      <audioTime in="52951" out="57229" />
+    </line>
+    <line lang1="ーだいぶ*良く*なりました。" someNumber="None" image="102_013.jpg" lang2="- Мне значительно лучше.">
+      <audioTime in="57229" out="59717" />
+    </line>
+    <line lang1="熱*が*なかったら、あさって*退院*できる*らしい*です。" someNumber="None" image="102_013.jpg" lang2="Если не будет температуры, послезавтра, очевидно, выпишусь.">
+      <audioTime in="59717" out="63815" />
+    </line>
+    <line lang1="あ、誰*か*来た*よう*です。ドア*を*ノックする*音*が*します。" someNumber="None" image="102_013.jpg" lang2="Ой! Похоже, кто-то пришёл. Стучат в дверь.">
+      <audioTime in="63815" out="68940" />
+    </line>
+    <line lang1="かんごふさん*かもしれません。" someNumber="106" image="102_018.jpg" lang2="Наверное, это медсестра.">
+      <audioTime in="68940" out="71523" />
+    </line>
+    <line lang1="確*か、注射*を*し*に*来る*予定*でした。" someNumber="None" image="102_019.jpg" lang2="По правде говоря, (она) должна была сделать (мне) укол.">
+      <audioTime in="71484" out="74527" />
+    </line>
+    <line lang1="ーじゃ、失礼*します。" someNumber="None" image="102_020.jpg" lang2="- Ну раз так, до свиданья!">
+      <audioTime in="74527" out="77034" />
+    </line>
+  </lines>
+</lesson>

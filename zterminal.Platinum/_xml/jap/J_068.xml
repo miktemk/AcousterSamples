@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="j_068.wav" dlgName="Карта Токио" dic="p068" />
+  <lines>
+    <line lang1="ーこれ*は*東京*の*地図*です。" someNumber="None" image="068_001.jpg" lang2="- Это - карта Токио.">
+      <audioTime in="0" out="3512" />
+    </line>
+    <line lang1="ここ*は*あさくさ*です。" someNumber="167" image="068_002.jpg" lang2="Здесь Асакуса.">
+      <audioTime in="3512" out="5383" />
+    </line>
+    <line lang1="あさくさ*に*父*の*はたらいている*工場*が*あります。" someNumber="65" image="068_003.jpg" lang2="В Асакуса находится завод, на котором работает мой отец.">
+      <audioTime in="5383" out="9956" />
+    </line>
+    <line lang1="父*は*もう*１５年間*その*工場*で*働いています。" someNumber="76" image="068_004.jpg" lang2="Отец уже 15 лет работает на этом заводе.">
+      <audioTime in="9956" out="14764" />
+    </line>
+    <line lang1="ここ*は*しんじゅく*です。" someNumber="None" image="068_005.jpg" lang2="Здесь Синдзюку.">
+      <audioTime in="14764" out="17617" />
+    </line>
+    <line lang1="しんじゅく*に*母*の*つとめていた*銀行*が*あります。" someNumber="143" image="068_006.jpg" lang2="В Синдзюку находится банк, в котором работала моя мама.">
+      <audioTime in="17617" out="22236" />
+    </line>
+    <line lang1="母*は*もう*その*銀行*に*つとめていません。" someNumber="113" image="068_007.jpg" lang2="Мама уже не работает в этом банке.">
+      <audioTime in="22236" out="26464" />
+    </line>
+    <line lang1="ー高山*先生*が*住んでいる*ところ*は*どこ*です*か。" someNumber="65" image="068_008.jpg" lang2="- А где то место, где живет Такаяма-сэнсэй?">
+      <audioTime in="26464" out="32223" />
+    </line>
+    <line lang1="ー上野*公園*の*近く*です。" someNumber="None" image="068_009.jpg" lang2="- Недалеко от парка Уэно.">
+      <audioTime in="32223" out="34806" />
+    </line>
+    <line lang1="ーそれ*は*動物園*が*ある*公園*です*ね。" someNumber="None" image="068_010.jpg" lang2="- Это парк, в котором есть зоопарк, не так ли?">
+      <audioTime in="34846" out="38637" />
+    </line>
+    <line lang1="ーそう*です。" someNumber="None" image="068_010.jpg" lang2="- Да.">
+      <audioTime in="38637" out="39749" />
+    </line>
+    <line lang1="ーあなた*の*そつ業した*高校*は*どこ*に*あります*か。" someNumber="None" image="068_012.jpg" lang2="- А где находится школа старшей ступени, которую Вы окончили?">
+      <audioTime in="39749" out="44195" />
+    </line>
+    <line lang1="ーぼく*の*そつ業した*高校*は*ここ*です。" someNumber="None" image="068_013.jpg" lang2="- Школа старшей ступени, которую я окончил, находится здесь.">
+      <audioTime in="44195" out="47205" />
+    </line>
+    <line lang1="しぶや*です。" someNumber="None" image="068_014.jpg" lang2="В Сибуя.">
+      <audioTime in="47205" out="48788" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="068_014.jpg" lang2="- Вот как!">
+      <audioTime in="48788" out="50264" />
+    </line>
+    <line lang1="林君*が*今*通っている*大学*は*どこ*です*か。" someNumber="None" image="068_016.jpg" lang2="Хаяси-кун, а где находится университет, который Вы сейчас посещаете?">
+      <audioTime in="50264" out="54932" />
+    </line>
+    <line lang1="ーここ*です。" someNumber="None" image="068_017.jpg" lang2="- Здесь.">
+      <audioTime in="54932" out="56124" />
+    </line>
+    <line lang1="めいじ*大学*と*いう*大学*です。" someNumber="152" image="068_017.jpg" lang2="(Это) университет, который называется - университет Мэйдзи.">
+      <audioTime in="56124" out="58802" />
+    </line>
+    <line lang1="大学*の*近く*に*本屋*が*たくさん*ある*通り*が*あります。" someNumber="None" image="068_019.jpg" lang2="Недалеко от университета есть улица, на которой много книжных магазинов.">
+      <audioTime in="58802" out="63966" />
+    </line>
+    <line lang1="―ところ*で、ロシア語*の*じしょ*は*どこ*で*売っています*か。" someNumber="None" image="068_020.jpg" lang2="- Кстати, где продаются словари русского языка?">
+      <audioTime in="63966" out="68966" />
+    </line>
+    <line lang1="ー大学*の*そば*に*ある*本屋*で*売っています。" someNumber="None" image="068_020.jpg" lang2="- В книжном магазине, который находится рядом с университетом.">
+      <audioTime in="68966" out="73524" />
+    </line>
+    <line lang1="露日*じてん、教科書、など*も*あります。" someNumber="175" image="068_020.jpg" lang2="(Там есть) также русско-японские словари, учебники и другие книги.">
+      <audioTime in="73524" out="79169" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_012.wav" dic="p012" dlgName="Чей это?.. Это мой..." dlgFile="exr\fg011.txt" author="Alexander" />
+  <lines>
+    <line lang1="- A qui est ce sac? Est-ce le sac de madame Dupont?" someNumber="500" image="dg\012_001.gif" lang2="- Чья это сумка? Это сумка г-жи Дюпон?">
+      <audioTime in="0" out="3313" />
+    </line>
+    <line lang1="- Non, ce n'est pas le sac de madame Dupont. C'est le sac de Stella." someNumber="None" image="dg\012_001.gif" lang2="- Это сумка не г-жи Дюпон. Это сумка Стеллы.">
+      <audioTime in="3313" out="7189" />
+    </line>
+    <line lang1="- A qui est cette voiture? Est-ce la voiture de monsieur Vincent?" someNumber="None" image="dg\012_002.gif" lang2="- Чья это машина? Это машина господина Венсана?">
+      <audioTime in="7189" out="10499" />
+    </line>
+    <line lang1="- Non, ce n'est pas la voiture de monsieur Vincent. C'est la voiture de Paul." someNumber="None" image="dg\012_002.gif" lang2="- Это машина не господина Венсана. Это машина Поля.">
+      <audioTime in="10499" out="14258" />
+    </line>
+    <line lang1="- A qui est ce manteau? Est-ce le manteau de Stella?" someNumber="470" image="dg\012_003.gif" lang2="- Чьё это пальто? Это пальто Стеллы?">
+      <audioTime in="14258" out="17255" />
+    </line>
+    <line lang1="- Non, ce n'est pas le manteau de Stella. C'est le manteau de madame Dupont." someNumber="None" image="dg\012_003.gif" lang2="- Это пальто не Стеллы. Это пальто г-жи Дюпон.">
+      <audioTime in="17255" out="20738" />
+    </line>
+    <line lang1="- A qui est ce parapluie? Est-ce le parapluie de Paul?" someNumber="None" image="dg\012_004.gif" lang2="- Чей это зонтик? Это зонтик Поля?">
+      <audioTime in="20738" out="23767" />
+    </line>
+    <line lang1="- Non, ce n'est pas le parapluie de Paul. C'est le parapluie de monsieur Vincent." someNumber="810" image="dg\012_004.gif" lang2="- Это не зонтик Поля. Это зонтик г-на Венсана.">
+      <audioTime in="23767" out="27237" />
+    </line>
+    <line lang1="- A qui est ce stylo? Est-ce le stylo de ton père?" someNumber="None" image="dg\012_005.gif" lang2="- Чья это ручка? Это ручка твоего отца?">
+      <audioTime in="27237" out="30018" />
+    </line>
+    <line lang1="- Ce n'est pas le stylo de mon père. C'est le stylo de mon fils." someNumber="None" image="dg\012_005.gif" lang2="- Это ручка не моего отца. Это ручка моего сына.">
+      <audioTime in="30018" out="32840" />
+    </line>
+    <line lang1="- A qui est cette robe? Est-ce la robe de votre mère?" someNumber="None" image="dg\012_006.gif" lang2="- Чьё это платье? Это платье вашей матери?">
+      <audioTime in="32840" out="35511" />
+    </line>
+    <line lang1="- Ce n'est pas la robe de ma mère. C'est la robe de ma fille." someNumber="50" image="dg\012_006.gif" lang2="- Это платье не моей матери. Это платье моей дочери.">
+      <audioTime in="35511" out="38317" />
+    </line>
+    <line lang1="- A qui est ce costume? Est-ce le costume de votre fils?" someNumber="None" image="dg\012_007.gif" lang2="- Чей это костюм? Это костюм вашего сына?">
+      <audioTime in="38317" out="41552" />
+    </line>
+    <line lang1="- Ce n'est pas le costume de mon fils. C'est le costume de mon père." someNumber="None" image="dg\012_007.gif" lang2="- Это костюм не моего сына. Это костюм моего отца.">
+      <audioTime in="41552" out="44485" />
+    </line>
+    <line lang1="- A qui est cette jupe? Est-ce la jupe de votre fille?" someNumber="None" image="dg\012_008.gif" lang2="- Чья это юбка? Это юбка вашей дочери?">
+      <audioTime in="44485" out="47430" />
+    </line>
+    <line lang1="- Ce n'est pas la jupe de ma fille. C'est la jupe de ma mère." someNumber="50" image="dg\012_008.gif" lang2="- Это юбка не моей дочери. Это юбка моей матери.">
+      <audioTime in="47430" out="50018" />
+    </line>
+    <line lang1="- A qui est cette blouse? Est-ce la blouse de votre mère?" someNumber="None" image="dg\012_009.gif" lang2="- Чья это блузка? Это блузка вашей матери?">
+      <audioTime in="50018" out="52901" />
+    </line>
+    <line lang1="- Ce n'est pas la blouse de ma mère. C'est la blouse de ma sœur." someNumber="None" image="dg\012_009.gif" lang2="- Это блузка не моей матери. Это блузка моей сестры.">
+      <audioTime in="52901" out="55804" />
+    </line>
+    <line lang1="- A qui est cette cravate? Est-ce la cravate de votre père?" someNumber="None" image="dg\012_010.gif" lang2="- Чей это галстук? Это галстук вашего отца?">
+      <audioTime in="55804" out="59048" />
+    </line>
+    <line lang1="- Ce n'est pas la cravate de mon père. C'est la cravate de mon frère." someNumber="None" image="dg\012_010.gif" lang2="- Это галстук не моего отца. Это галстук моего брата.">
+      <audioTime in="59048" out="62104" />
+    </line>
+  </lines>
+</lesson>

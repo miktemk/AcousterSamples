@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="d_051.wav" dic="p051" dlgName="Я приехал из Греции." dlgFile="exr\dg051.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Woher #kommen Sie?" someNumber="790" image="dg\051_001.gif" lang2="- Откуда вы приехали?">
+      <audioTime in="263" out="1651" />
+    </line>
+    <line lang1="- Ich #komme aus Griechenland." someNumber="790" image="dg\051_001.gif" lang2="- Я приехал из Греции.">
+      <audioTime in="2113" out="3963" />
+    </line>
+    <line lang1="- Welches Klima #hat Ihr Land?" someNumber="None" image="dg\051_001.gif" lang2="- Какой климат в вашей стране.">
+      <audioTime in="4227" out="6077" />
+    </line>
+    <line lang1="- Es #ist sehr angenehm." someNumber="None" image="dg\051_001.gif" lang2="- Он очень приятный.">
+      <audioTime in="6540" out="8257" />
+    </line>
+    <line lang1="- Wie #ist das Wetter im Frühling?" someNumber="None" image="dg\051_002.gif" lang2="- Какая погода весной?">
+      <audioTime in="8653" out="10701" />
+    </line>
+    <line lang1="- Im März #ist es oft windig." someNumber="None" image="dg\051_002.gif" lang2="- В марте часто ветрено.">
+      <audioTime in="10833" out="13542" />
+    </line>
+    <line lang1="Es #ist immer warm im April und im Mai, aber manchmal #regnet es." someNumber="720" image="dg\051_002.gif" lang2="Всегда тепло в апреле и мае, но иногда идут дожди.">
+      <audioTime in="13740" out="17769" />
+    </line>
+    <line lang1="- Wie #ist das Wetter im Sommer?" someNumber="160" image="dg\051_003.gif" lang2="- Какая погода летом?">
+      <audioTime in="18165" out="19817" />
+    </line>
+    <line lang1="- Im Juni, Juli und August #ist es immer heiß." someNumber="140" image="dg\051_003.gif" lang2="- Всегда жарко в июне, июле и августе.">
+      <audioTime in="19949" out="23714" />
+    </line>
+    <line lang1="Die Sonne #scheint jeden Tag." someNumber="140" image="dg\051_003.gif" lang2="Солнце светит каждый день.">
+      <audioTime in="24044" out="26290" />
+    </line>
+    <line lang1="- #Ist es kalt oder warm im Herbst?" someNumber="None" image="dg\051_003.gif" lang2="- Холодно или тепло осенью?">
+      <audioTime in="26621" out="28471" />
+    </line>
+    <line lang1="- Es #ist immer warm im September und Oktober." someNumber="None" image="dg\051_003.gif" lang2="- Всегда тепло в сентябре и октябре.">
+      <audioTime in="28735" out="31377" />
+    </line>
+    <line lang1="Oft #ist es kalt im November und manchmal #regnet es." someNumber="None" image="dg\051_004.gif" lang2="Часто холодно в ноябре и иногда идут дожди.">
+      <audioTime in="31641" out="35208" />
+    </line>
+    <line lang1="- #Ist es im Winter immer kalt?" someNumber="None" image="dg\051_005.gif" lang2="- Зимой всегда холодно?">
+      <audioTime in="35538" out="37520" />
+    </line>
+    <line lang1="- Es #ist oft kalt im Dezember, Januar und Februar." someNumber="360" image="dg\051_005.gif" lang2="- Часто холодно в декабре, январе и феврале.">
+      <audioTime in="37785" out="41087" />
+    </line>
+    <line lang1="Manchmal #schneit es." someNumber="360" image="dg\051_005.gif" lang2="Иногда идёт снег.">
+      <audioTime in="41154" out="42673" />
+    </line>
+  </lines>
+</lesson>

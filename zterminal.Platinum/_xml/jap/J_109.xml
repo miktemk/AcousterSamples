@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="j_109.wav" dlgName="Он починил мои часы" dic="p109" />
+  <lines>
+    <line lang1="ー私*は*中島*さん*に*ロシア語*を*教えて*あげました。" someNumber="103" image="109_001.jpg" lang2="- Я обучала японскому языку Накадзима-сана.">
+      <audioTime in="0" out="5723" />
+    </line>
+    <line lang1="ーイリナ*さん*は*私*に*ロシア語*を*教えて*くれました。" someNumber="103" image="109_001.jpg" lang2="- Ирина-сан обучала меня русскому языку.">
+      <audioTime in="5723" out="12066" />
+    </line>
+    <line lang1="ー兄*は*高山*さん*に*お金*を*貸して*あげました。" someNumber="None" image="109_003.jpg" lang2="- Мой брат ссудил деньги Такаяма-сану.">
+      <audioTime in="12066" out="19008" />
+    </line>
+    <line lang1="ー渡辺*さん*の*お兄さん*は*私*に*お金*を*貸して*くれました。" someNumber="None" image="109_003.jpg" lang2="- Старший брат Ватанабэ-сана ссудил мне деньги.">
+      <audioTime in="19008" out="24687" />
+    </line>
+    <line lang1="ー私*は*橋元*さん*の*時計*を*直して*あげました。" someNumber="None" image="109_005.jpg" lang2="- Я починил часы Хасимото-сана.">
+      <audioTime in="24687" out="31046" />
+    </line>
+    <line lang1="ー村上*さん*は*私*の*時計*を*直して*くれました。" someNumber="None" image="109_005.jpg" lang2="- Мураками-сан починил мои часы.">
+      <audioTime in="31046" out="36978" />
+    </line>
+    <line lang1="ー春子*さん*は*中村*さん*の*荷物*を*片付けて*あげました。" someNumber="None" image="109_007.jpg" lang2="- Харуко-сан прибрала вещи Накамура-сана.">
+      <audioTime in="36978" out="43636" />
+    </line>
+    <line lang1="ー春子*さん*は*私*の*荷物*を*片付けて*くれました。" someNumber="None" image="109_007.jpg" lang2="- Харуко-сан прибрала мои вещи.">
+      <audioTime in="43636" out="49156" />
+    </line>
+    <line lang1="ー小松*さん*は*キーム*さん*を*駅*で*迎えました。" someNumber="None" image="109_009.jpg" lang2="- Комацу-сан встретила на станции Ким-сана.">
+      <audioTime in="49156" out="56018" />
+    </line>
+    <line lang1="ー小松*さん*は*私*を*駅*で*迎えて*くれました。" someNumber="None" image="109_009.jpg" lang2="- Комацу-сан встретила меня на станции.">
+      <audioTime in="56018" out="61349" />
+    </line>
+    <line lang1="ー私*は*両親*を*失った*まご*を*育てました。" someNumber="None" image="109_011.jpg" lang2="- Я воспитала внука, потерявшего родителей.">
+      <audioTime in="61349" out="69096" />
+    </line>
+    <line lang1="ー両親*が*亡くなった*後、祖母*が*私*を*育てて*くれました。" someNumber="None" image="109_012.jpg" lang2="- После кончины родителей меня воспитала бабушка.">
+      <audioTime in="69096" out="75313" />
+    </line>
+    <line lang1="ー私*は*レセプション*で*中沢*社長*に*あいさつしました。" someNumber="None" image="109_013.jpg" lang2="- Во время приема я сказала приветствие в адрес директора Накадзава.">
+      <audioTime in="75313" out="83439" />
+    </line>
+    <line lang1="ー小松*さん*は*私*に*レセプション*で*あいさつして*くれました。" someNumber="None" image="109_013.jpg" lang2="- Во время приема Кояма-сан сказала приветствие в мой адрес.">
+      <audioTime in="83439" out="88359" />
+    </line>
+    <line lang1="ー上田*さん*は*小山*さん*の*ため*に*新幹線*の*切符*を*予約して*あげました。" someNumber="None" image="109_015.jpg" lang2="- Уэда-сан заказал билет на синкансен для Кояма-сан.">
+      <audioTime in="88359" out="96638" />
+    </line>
+    <line lang1="ー上田*さん*は*私*の*ため*に*新幹線*の*切符*を*予約して*くれました。" someNumber="None" image="109_016.jpg" lang2="- Уэда-сан заказал для меня билет на синкансен.">
+      <audioTime in="96638" out="104038" />
+    </line>
+    <line lang1="ー先生*は*私*に*新しい*単語*を*教えて*下さいました。" someNumber="None" image="109_017.jpg" lang2="- Учитель соизволил обучить меня новым словам.">
+      <audioTime in="104038" out="110017" />
+    </line>
+    <line lang1="―私*は*生徒*に*新しい*単語*を*教えて*あげました。" someNumber="None" image="109_017.jpg" lang2="- Я научил студента новым словам.">
+      <audioTime in="110017" out="115398" />
+    </line>
+    <line lang1="ー私*は*昨日*谷川*教授*に*本*を*贈って*さしあげました。" someNumber="None" image="109_019.jpg" lang2="- Я вчера преподнес книгу профессору Танигава.">
+      <audioTime in="115398" out="121613" />
+    </line>
+    <line lang1="―昨日*林*君*は*私*に*本*を*贈って*くれました。" someNumber="None" image="109_019.jpg" lang2="- Вчера Хаяси-кун прислал мне книгу.">
+      <audioTime in="121613" out="127512" />
+    </line>
+    <line lang1="ー私*は*猫*を*助けて*やりました。" someNumber="None" image="109_021.jpg" lang2="- Я спасла кошку.">
+      <audioTime in="127512" out="133776" />
+    </line>
+    <line lang1="―私*の*ねこ*を*助けて*くれて、ありがとう。" someNumber="None" image="109_022.jpg" lang2="- Спасибо за то, что Вы спасли мою кошку.">
+      <audioTime in="133776" out="138206" />
+    </line>
+    <line lang1="ー息子*に*宿題*を*教えて*やって*から、夕食*の*用意*を*始めました。" someNumber="None" image="109_023.jpg" lang2="- После того, как я помогла сыну с домашним заданием, начала приготовления к ужину.">
+      <audioTime in="138206" out="145907" />
+    </line>
+    <line lang1="ーこの*雑誌*を、息子さん*に*紹介して*あげて*下さい。" someNumber="None" image="109_024.jpg" lang2="- Ознакомьте, пожалуйста Вашего сына с этими журналами!">
+      <audioTime in="145907" out="153102" />
+    </line>
+  </lines>
+</lesson>

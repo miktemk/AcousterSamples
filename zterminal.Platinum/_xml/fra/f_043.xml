@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="f_043.wav" dic="p043" dlgName="Ты можешь приготовить чай?" dlgFile="exr\fg043.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Peux-tu préparer du thé, Alain?" someNumber="70" image="dg\043_001.gif" lang2="- Ты можешь приготовить чай, Ален?">
+      <audioTime in="0" out="1503" />
+    </line>
+    <line lang1="- Bien sûr, Marie." someNumber="70" image="dg\043_001.gif" lang2="- Конечно, Мари.">
+      <audioTime in="1503" out="2656" />
+    </line>
+    <line lang1="Y a-t-il de l'eau dans cette théière?" someNumber="80" image="dg\043_002.gif" lang2="В этом чайнике есть вода?">
+      <audioTime in="2656" out="4231" />
+    </line>
+    <line lang1="- Oui, il y en a." someNumber="80" image="dg\043_002.gif" lang2="- Да, она есть.">
+      <audioTime in="4231" out="5543" />
+    </line>
+    <line lang1="- Où est le thé, chérie?" someNumber="None" image="dg\043_003.gif" lang2="- Где чай, дорогая?">
+      <audioTime in="5543" out="6770" />
+    </line>
+    <line lang1="- Le voilà derrière la théière." someNumber="None" image="dg\043_003.gif" lang2="- Он вот там позади чайника для заварки.">
+      <audioTime in="6770" out="8761" />
+    </line>
+    <line lang1="- Peux-tu le trouver?" someNumber="None" image="dg\043_004.gif" lang2="- Ты можешь найти его?">
+      <audioTime in="8761" out="10055" />
+    </line>
+    <line lang1="- Je peux trouver la théière, mais pas le thé." someNumber="None" image="dg\043_004.gif" lang2="- Я могу найти чайник, а не чай.">
+      <audioTime in="10055" out="12245" />
+    </line>
+    <line lang1="- Le voilà! Devant toi." someNumber="810" image="dg\043_005.gif" lang2="- Вон он! Перед тобой!">
+      <audioTime in="12245" out="14037" />
+    </line>
+    <line lang1="- Ah! Oui, je le vois." someNumber="810" image="dg\043_005.gif" lang2="- О да, я вижу его.">
+      <audioTime in="14037" out="15044" />
+    </line>
+    <line lang1="Où sont les tasses?" someNumber="210" image="dg\043_006.gif" lang2="Где чашки?">
+      <audioTime in="15044" out="16029" />
+    </line>
+    <line lang1="- Il y a quelques tasses dans le buffet." someNumber="210" image="dg\043_006.gif" lang2="- В буфете есть несколько чашек.">
+      <audioTime in="16029" out="18454" />
+    </line>
+    <line lang1="- Vas les chercher!" someNumber="None" image="dg\043_007.gif" lang2="- Принеси их!">
+      <audioTime in="18454" out="19215" />
+    </line>
+    <line lang1="- Les voilà." someNumber="None" image="dg\043_007.gif" lang2="- Вот они.">
+      <audioTime in="19215" out="19926" />
+    </line>
+    <line lang1="- Vite, Alain! L'eau bout déjà." someNumber="780" image="dg\043_008.gif" lang2="- Быстрей, Ален! Вода уже кипит.">
+      <audioTime in="19926" out="21618" />
+    </line>
+  </lines>
+</lesson>

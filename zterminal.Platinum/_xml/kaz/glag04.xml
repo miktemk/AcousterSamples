@@ -1,0 +1,41 @@
+<lesson>
+   <header wav="glag04.mp3" dic="dic" dlgName="glag04.mp3" dlgFile="glag04.xml" author="acouster"/>
+   <lines class="java.util.Vector">
+      <line lang1="мен жазсам" lang2="если я напишу," image="default.jpg" someNumber="None">
+         <audioTime in="561" out="3290"/>
+      </line>
+      <line lang1="сен барсаң" lang2="если ты придёшь" image="default.jpg" someNumber="None">
+         <audioTime in="3290" out="6109"/>
+      </line>
+      <line lang1="Сен келсең, мен де келемiн." lang2="Если ты придёшь, я тоже приду." image="default.jpg" someNumber="None">
+         <audioTime in="6109" out="9615"/>
+      </line>
+      <line lang1="Мен хат жазсам, ол жауап қайтарады." lang2="Если я письмо напишу, он ответ вернёт (даст)." image="default.jpg" someNumber="None">
+         <audioTime in="9615" out="14406"/>
+      </line>
+      <line lang1="Емделсеңiз, тез жазыласыз." lang2="Если будете лечиться, быстро выздоровите." image="default.jpg" someNumber="None">
+         <audioTime in="14406" out="18500"/>
+      </line>
+      <line lang1="Жаңбыр жауса, қолшатырды ал." lang2="Если дождь пойдёт, зонт возьми." image="default.jpg" someNumber="None">
+         <audioTime in="18500" out="22992"/>
+      </line>
+      <line lang1="Ертең қар жауса, күн аязды болады." lang2="Если завтра снег пойдёт, день морозным будет." image="default.jpg" someNumber="None">
+         <audioTime in="22992" out="27802"/>
+      </line>
+      <line lang1="Досың көп болса, жолың да ашылады." lang2="Друзей много ~ шире дорога (Если у тебя много друзей, твоя дорога открывается. Каз. пословица)." image="default.jpg" someNumber="None">
+         <audioTime in="27802" out="32792"/>
+      </line>
+      <line lang1="Жазсамшы." lang2="Надо было написать." image="default.jpg" someNumber="None">
+         <audioTime in="32792" out="34834"/>
+      </line>
+      <line lang1="Барсаңшы." lang2="Иди же." image="default.jpg" someNumber="None">
+         <audioTime in="34834" out="37254"/>
+      </line>
+      <line lang1="Сен бармасаң, мен де бармаймын." lang2="Если ты не пойдёшь, то и я не пойду." image="default.jpg" someNumber="None">
+         <audioTime in="37254" out="41348"/>
+      </line>
+      <line lang1="Сiз шақырмасаңыз, бiз бармаймыз." lang2="Если вы не пригласите, мы не придём." image="default.jpg" someNumber="None">
+         <audioTime in="41348" out="45609"/>
+      </line>
+   </lines>
+</lesson>

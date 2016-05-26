@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_028.wav" dic="p028" dlgName="Где они?" dlgFile="exr\ig027.txt" author="Alexander" />
+  <lines>
+    <line lang1="- C'è qualche libro sul comodino?" someNumber="570" image="dg\028_001.gif" lang2="- На туалетном столике есть какие-либо книги?">
+      <audioTime in="265" out="2389" />
+    </line>
+    <line lang1="- No, lì non ci sono libri." someNumber="None" image="dg\028_001.gif" lang2="- Нет, никаких книг нет.">
+      <audioTime in="2590" out="4634" />
+    </line>
+    <line lang1="C'è qualche sigaretta." someNumber="None" image="dg\028_001.gif" lang2="Есть несколько сигарет.">
+      <audioTime in="4738" out="6588" />
+    </line>
+    <line lang1="- Dove sono?" someNumber="None" image="dg\028_001.gif" lang2="- Где они?">
+      <audioTime in="6588" out="7853" />
+    </line>
+    <line lang1="- Sono vicino a quella scatola." someNumber="510" image="dg\028_001.gif" lang2="- Они около той коробки.">
+      <audioTime in="7917" out="9709" />
+    </line>
+    <line lang1="- C'è qualche cravatta sul pavimento?" someNumber="None" image="dg\028_002.gif" lang2="- На полу есть какие-либо галстуки?">
+      <audioTime in="9885" out="12503" />
+    </line>
+    <line lang1="- No, lì non ci sono cravatte." someNumber="None" image="dg\028_002.gif" lang2="- Нет, никаких галстуков нет.">
+      <audioTime in="12503" out="14716" />
+    </line>
+    <line lang1="Ci sono alcune scarpe." someNumber="None" image="dg\028_002.gif" lang2="Есть несколько туфель.">
+      <audioTime in="14716" out="16613" />
+    </line>
+    <line lang1="- Dove sono?" someNumber="None" image="dg\028_002.gif" lang2="- Где они?">
+      <audioTime in="16613" out="17967" />
+    </line>
+    <line lang1="- Sono vicino al letto." someNumber="None" image="dg\028_002.gif" lang2="- Они около постели.">
+      <audioTime in="17967" out="19638" />
+    </line>
+    <line lang1="- C'è qualche bicchiere sulla credenza?" someNumber="None" image="dg\028_003.gif" lang2="- Есть какие-либо стаканы на серванте?">
+      <audioTime in="19755" out="21927" />
+    </line>
+    <line lang1="- No, lì non ci sono." someNumber="None" image="dg\028_003.gif" lang2="- Нет, никаких стаканов нет.">
+      <audioTime in="21968" out="23705" />
+    </line>
+    <line lang1="C'è qualche bottiglia." someNumber="None" image="dg\028_003.gif" lang2="Есть несколько бутылок.">
+      <audioTime in="23659" out="25168" />
+    </line>
+    <line lang1="- Dove sono?" someNumber="None" image="dg\028_003.gif" lang2="- Где они?">
+      <audioTime in="25354" out="26528" />
+    </line>
+    <line lang1="- Sono vicino a queste scatole di conserva." someNumber="None" image="dg\028_003.gif" lang2="- Они около тех консервных банок.">
+      <audioTime in="26737" out="29247" />
+    </line>
+    <line lang1="- C'è qualche giornale sullo scaffale?" someNumber="None" image="dg\028_004.gif" lang2="- На полке есть какие-либо газеты?">
+      <audioTime in="29621" out="31897" />
+    </line>
+    <line lang1="- No, lì non ci sono giornali." someNumber="None" image="dg\028_004.gif" lang2="- Нет, никаких газет нет.">
+      <audioTime in="31931" out="34023" />
+    </line>
+    <line lang1="C'è qualche biglietto." someNumber="90" image="dg\028_004.gif" lang2="Есть несколько билетов.">
+      <audioTime in="34058" out="35478" />
+    </line>
+    <line lang1="- Dove sono?" someNumber="None" image="dg\028_004.gif" lang2="- Где они?">
+      <audioTime in="35688" out="36862" />
+    </line>
+    <line lang1="- Sono in questa cartella." someNumber="None" image="dg\028_004.gif" lang2="- Они в том портфеле.">
+      <audioTime in="36917" out="38660" />
+    </line>
+    <line lang1="- C'è qualche forchetta sul tavolo?" someNumber="None" image="dg\028_005.gif" lang2="- На столе есть какие-либо вилки?">
+      <audioTime in="39044" out="41205" />
+    </line>
+    <line lang1="- No, lì non ci sono forchette." someNumber="None" image="dg\028_005.gif" lang2="- Нет, никаких вилок нет.">
+      <audioTime in="41332" out="43490" />
+    </line>
+    <line lang1="C'è qualche coltello." someNumber="None" image="dg\028_005.gif" lang2="Есть несколько ножей.">
+      <audioTime in="43639" out="45239" />
+    </line>
+    <line lang1="- Dove sono?" someNumber="None" image="dg\028_005.gif" lang2="- Где они?">
+      <audioTime in="45499" out="46429" />
+    </line>
+    <line lang1="- Sono in questo cassetto." someNumber="None" image="dg\028_005.gif" lang2="- Они в том ящике.">
+      <audioTime in="46467" out="48067" />
+    </line>
+    <line lang1="- C'è qualche tazza sulla radio?" someNumber="None" image="dg\028_006.gif" lang2="- На радио есть какие-либо чашки?">
+      <audioTime in="48500" out="50321" />
+    </line>
+    <line lang1="- No, lì non ci sono tazze." someNumber="None" image="dg\028_006.gif" lang2="- Нет, никаких чашек нет.">
+      <audioTime in="50486" out="52459" />
+    </line>
+    <line lang1="C'è qualche bicchiere." someNumber="None" image="dg\028_006.gif" lang2="Есть несколько стаканов.">
+      <audioTime in="52644" out="54095" />
+    </line>
+    <line lang1="- Dove sono?" someNumber="None" image="dg\028_006.gif" lang2="- Где они?">
+      <audioTime in="54340" out="55436" />
+    </line>
+    <line lang1="- Sono vicino a queste bottiglie." someNumber="None" image="dg\028_006.gif" lang2="- Они рядом с теми бутылками.">
+      <audioTime in="55547" out="57445" />
+    </line>
+  </lines>
+</lesson>

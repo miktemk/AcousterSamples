@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_091.wav" dic="p091" dlgName="Новые соседи." dlgFile="exr\fg091.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Monsieur Vernaud a-t-il vendu sa maison?" someNumber="710" image="dg\091_001.gif" lang2="- Г-н Верно уже продал свой дом?">
+      <audioTime in="0" out="2986" />
+    </line>
+    <line lang1="- Oui. Il l'a vendue la semaine passée." someNumber="710" image="dg\091_001.gif" lang2="- Да. Он его продал на прошлой неделе.">
+      <audioTime in="2986" out="5213" />
+    </line>
+    <line lang1="- A-t-il déjà déménagé?" someNumber="None" image="dg\091_001.gif" lang2="- Он уже переехал?">
+      <audioTime in="5213" out="7198" />
+    </line>
+    <line lang1="- Pas encore." someNumber="None" image="dg\091_001.gif" lang2="- Нет ещё.">
+      <audioTime in="7198" out="8064" />
+    </line>
+    <line lang1="Il est encore ici. Il va déménager demain." someNumber="780" image="dg\091_001.gif" lang2="Он ещё здесь. Он собирается переехать завтра.">
+      <audioTime in="8064" out="10222" />
+    </line>
+    <line lang1="- Quand? Demain matin?" someNumber="None" image="dg\091_001.gif" lang2="- Когда? Завтра утром?">
+      <audioTime in="10222" out="12315" />
+    </line>
+    <line lang1="- Non, le lendemain." someNumber="None" image="dg\091_001.gif" lang2="- Нет, на следующий день.">
+      <audioTime in="12315" out="13808" />
+    </line>
+    <line lang1="Je m'ennuyerai de lui. Il était toujours un bon voisin." someNumber="None" image="dg\091_001.gif" lang2="Я буду по нему скучать. Он всегда был хорошим соседом.">
+      <audioTime in="13808" out="16720" />
+    </line>
+    <line lang1="- C'est un homme très bon. Nous nous ennuyerons de lui." someNumber="810" image="dg\091_001.gif" lang2="- Он очень хороший человек. Мы по нему будем скучать.">
+      <audioTime in="16720" out="19064" />
+    </line>
+    <line lang1="- Quand viendront les nouveaux voisins dans leur maison?" someNumber="None" image="dg\091_001.gif" lang2="- Когда приедут новые соседи в свой дом?">
+      <audioTime in="19064" out="20960" />
+    </line>
+    <line lang1="- Je crois qu'ils viendront après-demain." someNumber="None" image="dg\091_001.gif" lang2="- Я думаю, что они приедут послезавтра.">
+      <audioTime in="20960" out="22356" />
+    </line>
+    <line lang1="- Verrez-vous aujourd'hui monsieur Vernaud, m-me Blanche?" someNumber="None" image="dg\091_001.gif" lang2="- Увидите ли вы сегодня г-на Верно, г-жа Бланш?">
+      <audioTime in="22356" out="24870" />
+    </line>
+    <line lang1="- Oui." someNumber="None" image="dg\091_001.gif" lang2="- Да.">
+      <audioTime in="24870" out="25550" />
+    </line>
+    <line lang1="- Saluez-le de ma part." someNumber="None" image="dg\091_001.gif" lang2="- Передайте ему привет от меня.">
+      <audioTime in="25550" out="26601" />
+    </line>
+    <line lang1="- Pauvre monsieur Vernaud! Il ne voulait pas quitter sa maison." someNumber="None" image="dg\091_001.gif" lang2="- Бедный г-н Верно! Он не хотел покидать свой дом.">
+      <audioTime in="26601" out="29775" />
+    </line>
+    <line lang1="- Oui, il ne voulait pas, mais sa femme, elle, voulait bien." someNumber="None" image="dg\091_001.gif" lang2="- Да, он не хотел, но его жена очень (этого) хотела.">
+      <audioTime in="29775" out="33020" />
+    </line>
+  </lines>
+</lesson>

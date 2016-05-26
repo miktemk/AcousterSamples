@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="FR_068.wav" dlgName="Конец каникул" dlgFile="exr\frg068.txt" />
+  <lines>
+    <line lang1="- C'est maintenant la fin des vacances." someNumber="None" image="f.jpg" lang2="- Это уже конец будет каникул.">
+      <audioTime in="0" out="2674" />
+    </line>
+    <line lang1="Il va falloir se mettre au travail." someNumber="None" image="f.jpg" lang2="Надо взяться за работу.">
+      <audioTime in="2674" out="5731" />
+    </line>
+    <line lang1="- Oui, le temps passe vite." someNumber="None" image="f.jpg" lang2="- Да, время бежит быстро.">
+      <audioTime in="5731" out="8263" />
+    </line>
+    <line lang1="Il n'y a pas longtemps on était si libre." someNumber="None" image="f.jpg" lang2="Ещё недавно мы были совершенно свободны.">
+      <audioTime in="8263" out="12044" />
+    </line>
+    <line lang1="- Mais pensez donc, bientôt va commencer la saison des sports!" someNumber="None" image="f.jpg" lang2="- Но подумай только, вскоре начнется спортивный сезон!">
+      <audioTime in="12044" out="16270" />
+    </line>
+    <line lang1="- Aimez-vous tant les spectacles sportifs?" someNumber="None" image="f.jpg" lang2="- Ты так любишь спортивные состязания?">
+      <audioTime in="16270" out="19393" />
+    </line>
+    <line lang1="- Oui, chaque dimanche je vais au stade, où j'assiste à un match de football," someNumber="None" image="f.jpg" lang2="- Да, каждое воскресенье я хожу на стадион, на футбольный матч">
+      <audioTime in="19393" out="25437" />
+    </line>
+    <line lang1="ou à des compétitions de basket-ball, ou de volley-ball." someNumber="None" image="f.jpg" lang2="или на соревнования по баскетболу или волейболу.">
+      <audioTime in="25437" out="28676" />
+    </line>
+    <line lang1="- Et la boxe?" someNumber="None" image="f.jpg" lang2="- А бокс?">
+      <audioTime in="28676" out="30089" />
+    </line>
+    <line lang1="- Je n'aime pas la boxe." someNumber="None" image="f.jpg" lang2="- Я не люблю бокса.">
+      <audioTime in="30089" out="31678" />
+    </line>
+    <line lang1="C'est un sport brutal et peu élégant." someNumber="None" image="f.jpg" lang2="Это грубый спорт и не очень элегантный.">
+      <audioTime in="31678" out="35065" />
+    </line>
+    <line lang1="- Quels sont d'après vous les sports que devrait pratiquer la jeunesse?" someNumber="None" image="f.jpg" lang2="- Каким видом спорта должна заниматься, по-вашему, молодежь?">
+      <audioTime in="35065" out="40113" />
+    </line>
+    <line lang1="- En général tous les sports qui font place à l'harmonie et à la beauté du geste," someNumber="None" image="f.jpg" lang2="- Вообще всеми видами спорта, которые вырабатывают гармонию и красоту движений,">
+      <audioTime in="40113" out="45542" />
+    </line>
+    <line lang1="comme par exemple la gymnastique, le tennis, la natation," someNumber="None" image="f.jpg" lang2="как например: гимнастика, теннис, плавание, лёгкая атлетика,">
+      <audioTime in="45542" out="50566" />
+    </line>
+    <line lang1="et les sports athlétiques comme l'aviron, le cyclisme..." someNumber="None" image="f.jpg" lang2="как гребля и велосипедный спорт...">
+      <audioTime in="50566" out="54208" />
+    </line>
+    <line lang1="- Le rugby..." someNumber="None" image="f.jpg" lang2="- Регби...">
+      <audioTime in="54208" out="55383" />
+    </line>
+    <line lang1="- Non, pas le rugby." someNumber="None" image="f.jpg" lang2="- Регби нет.">
+      <audioTime in="55383" out="57326" />
+    </line>
+    <line lang1="C'est un sport très violent." someNumber="None" image="f.jpg" lang2="Это очень жестокий спорт.">
+      <audioTime in="57326" out="59153" />
+    </line>
+  </lines>
+</lesson>

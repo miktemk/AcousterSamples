@@ -1,0 +1,4 @@
+<menu>
+   <menuItem name="sample.xml" description="16 pictures" xmlUrl="xml/sample.xml" pictureUrl=""/>
+   <menuItem name="sample2.xml" description="16 pictures" xmlUrl="xml/sample2.xml" pictureUrl=""/>
+</menu>

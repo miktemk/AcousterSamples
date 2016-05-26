@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="i_056.wav" dic="p056" dlgName="Что они обычно делают?.." dlgFile="exr\ig055.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Che cosa fa lei di solito la mattina?" someNumber="None" image="dg\056_001.gif" lang2="- Что она часто делает утром?">
+      <audioTime in="0" out="3855" />
+    </line>
+    <line lang1="- Lei la mattina di solito spolvera la credenza." someNumber="None" image="dg\056_001.gif" lang2="- Утром она часто вытирает пыль с комода.">
+      <audioTime in="3708" out="7511" />
+    </line>
+    <line lang1="- Che cosa fa lei sempre la mattina?" someNumber="None" image="dg\056_002.gif" lang2="- Что она всегда делает утром?">
+      <audioTime in="7643" out="10592" />
+    </line>
+    <line lang1="- Lei la mattina rifà sempre il suo letto." someNumber="None" image="dg\056_002.gif" lang2="- Утром она всегда заправляет постель.">
+      <audioTime in="10636" out="13922" />
+    </line>
+    <line lang1="- Che cosa fa lui sempre la mattina?" someNumber="None" image="dg\056_003.gif" lang2="- Что он всегда делает утром?">
+      <audioTime in="14022" out="16925" />
+    </line>
+    <line lang1="- Lui la mattina si fa sempre la barba." someNumber="None" image="dg\056_003.gif" lang2="- Утром он всегда бреется.">
+      <audioTime in="16988" out="20200" />
+    </line>
+    <line lang1="- Che cosa fanno loro a volte di sera?" someNumber="None" image="dg\056_004.gif" lang2="- Что они иногда делают вечером?">
+      <audioTime in="20583" out="23575" />
+    </line>
+    <line lang1="- Di sera a volte sentono la radio." someNumber="None" image="dg\056_004.gif" lang2="- Вечером они иногда слушают радио.">
+      <audioTime in="23522" out="26698" />
+    </line>
+    <line lang1="- Cosa fa lui ogni giorno?" someNumber="None" image="dg\056_005.gif" lang2="- Что он делает каждый день?">
+      <audioTime in="26861" out="29099" />
+    </line>
+    <line lang1="- Lui ogni giorno pulisce la lavagna." someNumber="None" image="dg\056_005.gif" lang2="- Он вытирает доску каждый день.">
+      <audioTime in="29099" out="32048" />
+    </line>
+    <line lang1="- Che cosa fanno di solito loro sempre di notte?" someNumber="None" image="dg\056_006.gif" lang2="- Что они всегда делают ночью?">
+      <audioTime in="32048" out="35805" />
+    </line>
+    <line lang1="- Di notte loro sempre dormono." someNumber="380" image="dg\056_006.gif" lang2="- Ночью они всегда спят.">
+      <audioTime in="35689" out="38440" />
+    </line>
+    <line lang1="- Cosa fa di solito lei?" someNumber="None" image="dg\056_007.gif" lang2="- Что она обычно делает каждый день?">
+      <audioTime in="38720" out="40895" />
+    </line>
+    <line lang1="- Lei di solito lava i piatti." someNumber="None" image="dg\056_007.gif" lang2="- Она обычно моет тарелки.">
+      <audioTime in="40829" out="43748" />
+    </line>
+    <line lang1="- Che cosa fanno loro di giorno?" someNumber="None" image="dg\056_008.gif" lang2="- Что они обычно делают днём?">
+      <audioTime in="43794" out="46364" />
+    </line>
+    <line lang1="- Loro di solito di giorno battono a macchina delle lettere." someNumber="None" image="dg\056_008.gif" lang2="- Днём они обычно печатают письма.">
+      <audioTime in="46364" out="50976" />
+    </line>
+    <line lang1="- Cosa fa il gatto di solito?" someNumber="None" image="dg\056_009.gif" lang2="- Что кошка обычно делает каждый день?">
+      <audioTime in="51306" out="53546" />
+    </line>
+    <line lang1="- Di solito beve il latte." someNumber="None" image="dg\056_009.gif" lang2="- Она обычно лакает молоко каждый день.">
+      <audioTime in="53546" out="55918" />
+    </line>
+    <line lang1="- Cosa fanno loro a volte di sera?" someNumber="None" image="dg\056_010.gif" lang2="- Что они иногда делают вечером?">
+      <audioTime in="55918" out="58818" />
+    </line>
+    <line lang1="- Di sera loro ogni tanto guardano la TV." someNumber="None" image="dg\056_010.gif" lang2="- Вечером они иногда смотрят телевизор.">
+      <audioTime in="58818" out="62507" />
+    </line>
+    <line lang1="- Che cosa fa lei sempre a mezzogiorno?" someNumber="None" image="dg\056_011.gif" lang2="- Что она всегда делает в полдень?">
+      <audioTime in="62639" out="66000" />
+    </line>
+    <line lang1="- Lei a mezzogiorno sempre pranza." someNumber="None" image="dg\056_011.gif" lang2="- Она всегда обедает в полдень.">
+      <audioTime in="65933" out="69426" />
+    </line>
+    <line lang1="- Che cosa fa lui spesso di sera?" someNumber="None" image="dg\056_012.gif" lang2="- Что он часто делает вечером?">
+      <audioTime in="69491" out="72214" />
+    </line>
+    <line lang1="- Di sera lui spesso legge il giornale." someNumber="None" image="dg\056_012.gif" lang2="- Вечером он часто читает свою газету.">
+      <audioTime in="72152" out="75554" />
+    </line>
+  </lines>
+</lesson>

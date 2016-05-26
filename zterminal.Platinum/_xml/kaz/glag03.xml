@@ -1,0 +1,71 @@
+<lesson>
+   <header wav="glag03.mp3" dic="dic" dlgName="glag03.mp3" dlgFile="glag03.xml" author="acouster"/>
+   <lines class="java.util.Vector">
+      <line lang1="Мен жаздым." lang2="Я писал." image="default.jpg" someNumber="None">
+         <audioTime in="551" out="2822"/>
+      </line>
+      <line lang1="Мен мектеп бiтiрдiм." lang2="Я школу закончил." image="default.jpg" someNumber="None">
+         <audioTime in="2822" out="6358"/>
+      </line>
+      <line lang1="Біз Алматыда тудық." lang2="Мы в Алматы родились." image="default.jpg" someNumber="None">
+         <audioTime in="6358" out="9525"/>
+      </line>
+      <line lang1="Біз биледiк." lang2="Мы танцевали." image="default.jpg" someNumber="None">
+         <audioTime in="9525" out="12673"/>
+      </line>
+      <line lang1="Сен диванда отырдың." lang2="Ты на диване сидел." image="default.jpg" someNumber="None">
+         <audioTime in="12673" out="15203"/>
+      </line>
+      <line lang1="Сендер жаптыңдар." lang2="Вы закрыли." image="default.jpg" someNumber="None">
+         <audioTime in="15203" out="18509"/>
+      </line>
+      <line lang1="Сіздер сөйледіңіздер." lang2="Вы разговаривали." image="default.jpg" someNumber="None">
+         <audioTime in="18509" out="21647"/>
+      </line>
+      <line lang1="Ол музыка тыңдады." lang2="Он музыку слушал." image="default.jpg" someNumber="None">
+         <audioTime in="21647" out="25133"/>
+      </line>
+      <line lang1="оқыды" lang2="он учился," image="default.jpg" someNumber="None">
+         <audioTime in="25133" out="27553"/>
+      </line>
+      <line lang1="ренжiдiңiз" lang2="вы обижались," image="default.jpg" someNumber="None">
+         <audioTime in="27553" out="30691"/>
+      </line>
+      <line lang1="құйды" lang2="он налил" image="default.jpg" someNumber="None">
+         <audioTime in="30691" out="33380"/>
+      </line>
+      <line lang1="Мен соқтым." lang2="Я бил." image="default.jpg" someNumber="None">
+         <audioTime in="33380" out="35611"/>
+      </line>
+      <line lang1="Сен тiктiң." lang2="Ты шил." image="default.jpg" someNumber="None">
+         <audioTime in="35611" out="38579"/>
+      </line>
+      <line lang1="Ол тапты." lang2="Он нашёл." image="default.jpg" someNumber="None">
+         <audioTime in="38579" out="41129"/>
+      </line>
+      <line lang1="Мен жазбадым." lang2="Я не писал." image="default.jpg" someNumber="None">
+         <audioTime in="41129" out="44266"/>
+      </line>
+      <line lang1="Мен мектеп бiтiрмедiм." lang2="Я школу не закончил." image="default.jpg" someNumber="None">
+         <audioTime in="44266" out="48420"/>
+      </line>
+      <line lang1="Біз Алматыда тумадық." lang2="Мы в Алматы не родились." image="default.jpg" someNumber="None">
+         <audioTime in="48420" out="52444"/>
+      </line>
+      <line lang1="Біз билемедiк." lang2="Мы не танцевали." image="default.jpg" someNumber="None">
+         <audioTime in="52444" out="55721"/>
+      </line>
+      <line lang1="Сен диванда отырмадың." lang2="Ты на диване не сидел." image="default.jpg" someNumber="None">
+         <audioTime in="55721" out="58828"/>
+      </line>
+      <line lang1="Сендер жаппадыңдар." lang2="Вы не закрыли." image="default.jpg" someNumber="None">
+         <audioTime in="58828" out="62752"/>
+      </line>
+      <line lang1="Сіздер сөйлемедіңіздер." lang2="Вы не разговаривали." image="default.jpg" someNumber="None">
+         <audioTime in="62752" out="66159"/>
+      </line>
+      <line lang1="Ол музыка тыңдамады." lang2="Он музыку не слушал." image="default.jpg" someNumber="None">
+         <audioTime in="66159" out="70133"/>
+      </line>
+   </lines>
+</lesson>

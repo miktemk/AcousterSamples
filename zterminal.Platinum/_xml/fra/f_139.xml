@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_139.wav" dic="p139" dlgName="Инженер телефонной линии." dlgFile="exr\fg138.txt" author="Alexander" />
+  <lines>
+    <line lang1="- C'est toi, Jean?" someNumber="460" image="dg\139_001.gif" lang2="- Это ты, Жан?">
+      <audioTime in="0" out="1443" />
+    </line>
+    <line lang1="- Oui, c'est moi." someNumber="460" image="dg\139_001.gif" lang2="- Да, это я.">
+      <audioTime in="1443" out="2655" />
+    </line>
+    <line lang1="- Dis à Marie que nous serons en retard au dîner." someNumber="None" image="dg\139_001.gif" lang2="- Скажи Мари, что мы опоздаем на обед вечером.">
+      <audioTime in="2655" out="5444" />
+    </line>
+    <line lang1="- Pardon, je ne comprends pas." someNumber="610" image="dg\139_001.gif" lang2="- Извини, я не понимаю.">
+      <audioTime in="5444" out="7693" />
+    </line>
+    <line lang1="- Marie ne t'a rien dit? Elle nous a invités, Diane et moi, au dîner." someNumber="None" image="dg\139_001.gif" lang2="- Мари тебе ничего не сказала? Она нас пригласила, Диан и меня, на обед.">
+      <audioTime in="7693" out="11572" />
+    </line>
+    <line lang1="J'ai dit que je serais chez vous à 6 heures," someNumber="None" image="dg\139_001.gif" lang2="Я сказал, что буду у вас в 6 часов,">
+      <audioTime in="11572" out="13763" />
+    </line>
+    <line lang1="mais mon chef veut que je travaille encore un peu." someNumber="780" image="dg\139_001.gif" lang2="но мой шеф хочет, чтобы я ещё немного поработал.">
+      <audioTime in="13763" out="16020" />
+    </line>
+    <line lang1="Je suis obligé de rester au bureau. Je ne sais pas quand je vais finir." someNumber="None" image="dg\139_001.gif" lang2="Я вынужден (мне придётся) остаться в офисе. Я не знаю, когда я закончу.">
+      <audioTime in="16020" out="19844" />
+    </line>
+    <line lang1="- Oh, à propos! Ma femme veut savoir, si Marie a besoin d'aide." someNumber="None" image="dg\139_001.gif" lang2="О, кстати, моя жена хочет знать, нужна ли Мари помощь.">
+      <audioTime in="19844" out="23789" />
+    </line>
+    <line lang1="- Je ne comprends pas de quoi vous parlez." someNumber="None" image="dg\139_001.gif" lang2="- Я не понимаю, о чем вы говорите.">
+      <audioTime in="23789" out="26731" />
+    </line>
+    <line lang1="- Vous êtes Jean Arnoux, n'est-ce pas?" someNumber="None" image="dg\139_001.gif" lang2="- Вы Жан Арну, не так ли?">
+      <audioTime in="26731" out="28611" />
+    </line>
+    <line lang1="- Oui, je suis Jean Arnoux." someNumber="90" image="dg\139_001.gif" lang2="- Да, я Жан Арну.">
+      <audioTime in="28611" out="30365" />
+    </line>
+    <line lang1="- Vous êtes Jean Arnoux ingénieur, n'est-ce pas?" someNumber="90" image="dg\139_001.gif" lang2="- Вы Жан Арну, инженер, не так ли?">
+      <audioTime in="30365" out="32509" />
+    </line>
+    <line lang1="- Justement." someNumber="None" image="dg\139_001.gif" lang2="- Именно.">
+      <audioTime in="32509" out="33064" />
+    </line>
+    <line lang1="- Vous travaillez dans une société, n'est-ce pas?" someNumber="60" image="dg\139_001.gif" lang2="- Вы работаете на фирме, не так ли?">
+      <audioTime in="33064" out="35551" />
+    </line>
+    <line lang1="- Non. Je suis Jean Arnoux, l'ingénieur de ligne de téléphone et je répare votre ligne." someNumber="None" image="dg\139_001.gif" lang2="- Нет. Я - Жан Арну, инженер телефонной линии, и я ремонтирую вашу линию.">
+      <audioTime in="35551" out="40202" />
+    </line>
+  </lines>
+</lesson>

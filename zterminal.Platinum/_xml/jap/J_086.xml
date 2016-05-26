@@ -1,0 +1,92 @@
+<lesson>
+  <header wav="j_086.wav" dlgName="Я переехал" dic="p086" />
+  <lines>
+    <line lang1="―石川*さん*は*新しい*マンション*に*ひっこしました*か。" someNumber="None" image="086_001.jpg" lang2="- Исикава-сан, Вы переехали в новый многоквартирный дом?">
+      <audioTime in="0" out="4920" />
+    </line>
+    <line lang1="―ええ。おととい*無事*に*引っ越しました。" someNumber="172" image="086_001.jpg" lang2="- Да. Позавчера благополучно переехал.">
+      <audioTime in="4920" out="7850" />
+    </line>
+    <line lang1="でも*大変*疲れました。" someNumber="None" image="086_001.jpg" lang2="Очень устал.">
+      <audioTime in="7850" out="10053" />
+    </line>
+    <line lang1="―部屋*は*広い*です*か。" someNumber="None" image="086_004.jpg" lang2="- Комнаты просторные?">
+      <audioTime in="10053" out="12369" />
+    </line>
+    <line lang1="―２ＬＤＫ*です。" someNumber="166" image="086_005.jpg" lang2="- 2 LDK.">
+      <audioTime in="12369" out="14287" />
+    </line>
+    <line lang1="つまり*寝室*が*２つ*と*ダイニング*と*台所*です*ね。" someNumber="120" image="086_005.jpg" lang2="Другими словами, 2 спальни и столовая, совмещенная с кухней.">
+      <audioTime in="14287" out="19935" />
+    </line>
+    <line lang1="―部屋*は*全部*洋室*です*か。" someNumber="None" image="086_007.jpg" lang2="- Все комнаты в европейском стиле?">
+      <audioTime in="19935" out="23403" />
+    </line>
+    <line lang1="和室*が*ありません*か。" someNumber="None" image="086_008.jpg" lang2="Комнат в японском стиле нет?">
+      <audioTime in="23396" out="25393" />
+    </line>
+    <line lang1="―ありません。" someNumber="None" image="086_008.jpg" lang2="- Нет.">
+      <audioTime in="25393" out="26397" />
+    </line>
+    <line lang1="ところ*で、引っ越した*とき*の*ビデオ*が*あります*から、" someNumber="None" image="086_010.jpg" lang2="Кстати, у меня есть видео, снятое при переезде,">
+      <audioTime in="26397" out="30087" />
+    </line>
+    <line lang1="よろしければ、昼休み*に*一緒に*見ません*か。" someNumber="23" image="086_010.jpg" lang2="если хотите, может посмотрим вместе во время обеденного перерыва.">
+      <audioTime in="30087" out="32953" />
+    </line>
+    <line lang1="―はい。よろこんで。" someNumber="None" image="086_010.jpg" lang2="- Хорошо. С удовольствием.">
+      <audioTime in="32953" out="35048" />
+    </line>
+    <line lang1="―部屋*は*この*建物*の*４階*に*あります。" someNumber="None" image="086_013.jpg" lang2="- Квартира находится на четвёртом этаже этого здания.">
+      <audioTime in="35048" out="40214" />
+    </line>
+    <line lang1="これ*は*僕*が*エレベーター*に*乗る*ところです。" someNumber="153" image="086_014.jpg" lang2="Это я в тот момент, когда сажусь в лифт.">
+      <audioTime in="40214" out="44042" />
+    </line>
+    <line lang1="これ*は*僕*の*部屋*の*入り口*で、中*に*入る*ところ*です。" someNumber="None" image="086_015.jpg" lang2="Это - у входа в квартиру, в тот момент, когда я вхожу.">
+      <audioTime in="44042" out="49327" />
+    </line>
+    <line lang1="ここ*は*引っ越した*ばかり*です*から、まだ*片づけてない*です。" someNumber="123" image="086_016.jpg" lang2="Тут пока не убрано, так как мы только что переехали.">
+      <audioTime in="49327" out="54185" />
+    </line>
+    <line lang1="―広い*です*ね。" someNumber="None" image="086_017.jpg" lang2="- Как просторно!">
+      <audioTime in="54185" out="56041" />
+    </line>
+    <line lang1="―これ*は*僕たち*ふうふ*の*寝室*です。" someNumber="52" image="086_017.jpg" lang2="- Это наша супружеская спальня.">
+      <audioTime in="56041" out="59571" />
+    </line>
+    <line lang1="新しい*ベッド、洋服ダンス*と*かがみ*です。" someNumber="None" image="086_017.jpg" lang2="Новые кровати, гардероб и зеркало.">
+      <audioTime in="59571" out="63562" />
+    </line>
+    <line lang1="妻*が*片づけている*ところ*です。" someNumber="None" image="086_020.jpg" lang2="Это - жена в тот момент, когда она прибирает.">
+      <audioTime in="63562" out="66325" />
+    </line>
+    <line lang1="―家具*も*新しい*です*か。高い*でしょう*ね。" someNumber="105" image="086_021.jpg" lang2="- И мебель новая? Наверное, это дорого!">
+      <audioTime in="66325" out="71183" />
+    </line>
+    <line lang1="―けっこう*高い*です*よ。" someNumber="None" image="086_021.jpg" lang2="- Конечно, дорого!">
+      <audioTime in="71183" out="72769" />
+    </line>
+    <line lang1="だ*から*ローン*で*月々*支払う*こと*に*なります。" someNumber="110" image="086_021.jpg" lang2="Поэтому придётся выплачивать ежемесячно ссуду.">
+      <audioTime in="72769" out="76412" />
+    </line>
+    <line lang1="―ああ、そう*です*か。" someNumber="None" image="086_021.jpg" lang2="- Ах вот как!">
+      <audioTime in="76412" out="78636" />
+    </line>
+    <line lang1="―これ*は*子供*の*部屋*です。" someNumber="None" image="086_025.jpg" lang2="- Это детская.">
+      <audioTime in="78636" out="81029" />
+    </line>
+    <line lang1="長女*が*本*を*読んでいる*ところ*です。" someNumber="16" image="086_025.jpg" lang2="Старшая дочь в момент, когда она читает книгу.">
+      <audioTime in="81029" out="83985" />
+    </line>
+    <line lang1="次女*が*人形*と*遊んでいる*ところ*です。" someNumber="None" image="086_027.jpg" lang2="Младшая дочь в тот момент, когда она играет с куклой.">
+      <audioTime in="83985" out="87531" />
+    </line>
+    <line lang1="―ずいぶん*大きくなりました*ね、子供*さん*は。" someNumber="140" image="086_028.jpg" lang2="- Как выросли ваши дети!">
+      <audioTime in="87314" out="90983" />
+    </line>
+    <line lang1="―ええ。長女*は*もう*小学校*２年生*に*なりました。" someNumber="None" image="086_029.jpg" lang2="- Да! Старшая дочь уже стала ученицей второго класса начальной школы.">
+      <audioTime in="90983" out="95272" />
+    </line>
+  </lines>
+</lesson>

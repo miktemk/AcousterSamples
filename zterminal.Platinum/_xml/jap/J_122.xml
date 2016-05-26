@@ -1,0 +1,92 @@
+<lesson>
+  <header wav="j_122.wav" dlgName="В гостинице" dic="p122" />
+  <lines>
+    <line lang1="ーいらっしゃいませ。今日は。" someNumber="109" image="122_001.jpg" lang2="- Заходите пожалуйста! Добрый день!">
+      <audioTime in="0" out="3909" />
+    </line>
+    <line lang1="ー今日は。先週、部屋*を*予約した*ん*です*が。" someNumber="None" image="122_002.jpg" lang2="- Добрый день! На прошлой неделе я заказывал комнату...">
+      <audioTime in="3909" out="8151" />
+    </line>
+    <line lang1="ーどちら*様*です*か。" someNumber="54" image="122_003.jpg" lang2="- Как Вас зовут?">
+      <audioTime in="8151" out="10404" />
+    </line>
+    <line lang1="ー小田*雄一*と*申します。" someNumber="109" image="122_004.jpg" lang2="- Меня зовут Ода Юити.">
+      <audioTime in="10404" out="12576" />
+    </line>
+    <line lang1="ー今、調べます*ので、少々*お待ち*くださいませ。" someNumber="109" image="122_005.jpg" lang2="- Я сейчас проверю, пожалуйста, подождите немного.">
+      <audioTime in="12576" out="17260" />
+    </line>
+    <line lang1="お待たせ*しました。" someNumber="None" image="122_005.jpg" lang2="Извините, что заставила Вас ждать.">
+      <audioTime in="17260" out="20018" />
+    </line>
+    <line lang1="二人*部屋*で、三泊*です*ね。" someNumber="34" image="122_007.jpg" lang2="Комната на двоих на 3 дня, не так ли?">
+      <audioTime in="20011" out="23274" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="122_007.jpg" lang2="- Да.">
+      <audioTime in="23274" out="23898" />
+    </line>
+    <line lang1="ーこの*用紙*に*お名前、住所、滞在*期間*を*お書き*込み*下さい。" someNumber="04" image="122_009.jpg" lang2="Пожалуйста, впишите в этот бланк Ваше имя, адрес, время пребывания.">
+      <audioTime in="23898" out="30665" />
+    </line>
+    <line lang1="ーこれ*で*いい*です*か。" someNumber="07" image="122_009.jpg" lang2="- Так хорошо?">
+      <audioTime in="30665" out="33658" />
+    </line>
+    <line lang1="ーけっこう*で*ございます。" someNumber="None" image="122_009.jpg" lang2="- Прекрасно.">
+      <audioTime in="33658" out="36254" />
+    </line>
+    <line lang1="お部屋*は*山向き*と" someNumber="None" image="122_012.jpg" lang2="У нас есть комнаты с видом на горы">
+      <audioTime in="36254" out="38820" />
+    </line>
+    <line lang1="海向き*が*ございます*が、どちら*が*よろしい*でしょう*か。" someNumber="None" image="122_013.jpg" lang2="и с видом на море, в которой Вам угодно (поселиться)?">
+      <audioTime in="38820" out="42983" />
+    </line>
+    <line lang1="ー景色*の*いい*方*は、海向き*でしょう。" someNumber="28" image="122_014.jpg" lang2="- Пожалуй, пейзаж лучше с видом на море.">
+      <audioTime in="42983" out="46891" />
+    </line>
+    <line lang1="海側*の*部屋*は*空いています*か。" someNumber="None" image="122_014.jpg" lang2="Есть ли свободная комната с видом на море?">
+      <audioTime in="46891" out="49099" />
+    </line>
+    <line lang1="ーはい。三階*で*ございます。明かるくて、静か*な*お部屋*です。" someNumber="None" image="122_016.jpg" lang2="- Да. Есть на третьем этаже. Светлая и тихая комната.">
+      <audioTime in="49099" out="54967" />
+    </line>
+    <line lang1="ーでは、そこ*に*しましょう。" someNumber="None" image="122_017.jpg" lang2="- Ладно, остановимся на этой.">
+      <audioTime in="54967" out="57170" />
+    </line>
+    <line lang1="ーかしこまりました。" someNumber="None" image="122_018.jpg" lang2="- Слушаюсь.">
+      <audioTime in="57170" out="58474" />
+    </line>
+    <line lang1="荷物*を*係り*に*お預け*ください。" someNumber="None" image="122_019.jpg" lang2="Сдайте, пожалуйста, Ваш багаж нашему служащему.">
+      <audioTime in="58474" out="61312" />
+    </line>
+    <line lang1="エレベーター*は*右側*で*ございます。" someNumber="109" image="122_020.jpg" lang2="Лифт расположен справа.">
+      <audioTime in="61312" out="65048" />
+    </line>
+    <line lang1="この*旅館*で*は*観光客*が*ご利用*に*なれる*色々*な*サービス*が*ございます。" someNumber="None" image="122_021.jpg" lang2="В нашей гостинице имеются различные услуги, которыми могут воспользоваться туристы.">
+      <audioTime in="65048" out="71872" />
+    </line>
+    <line lang1="市内*見物*を*なさりたい*方*の*ため*に*ガイド*が*おります。" someNumber="109" image="122_022.jpg" lang2="Имеется гид для тех, кто хотел бы осмотреть город.">
+      <audioTime in="71872" out="77092" />
+    </line>
+    <line lang1="それ*から、受付*に*旅行*案内書*が*ございます。" someNumber="None" image="122_023.jpg" lang2="Кроме того, в регистрационной есть путеводитель для путешественников.">
+      <audioTime in="77092" out="81349" />
+    </line>
+    <line lang1="―では、旅行*案内書*を*いただけます*か。" someNumber="109" image="122_024.jpg" lang2="- Ладно, можно ли получить путеводитель?">
+      <audioTime in="81349" out="85252" />
+    </line>
+    <line lang1="―かしこまりました。" someNumber="None" image="122_025.jpg" lang2="- Слушаюсь.">
+      <audioTime in="85252" out="86666" />
+    </line>
+    <line lang1="博物館*など*の*チケット*を*予約する*必要*が*ありましたら・・・" someNumber="None" image="122_025.jpg" lang2="Если нужно будет заказать билеты в музей и так далее...">
+      <audioTime in="86569" out="91143" />
+    </line>
+    <line lang1="ーまだ*いい*です。どうも。" someNumber="None" image="122_025.jpg" lang2="- Пока не нужно.">
+      <audioTime in="91143" out="93518" />
+    </line>
+    <line lang1="ーお客様、鍵*を*お忘れ*に*なりました。" someNumber="109" image="122_028.jpg" lang2="- Господин, Вы забыли Ваш ключ!">
+      <audioTime in="93518" out="96638" />
+    </line>
+    <line lang1="ーはい、はい。" someNumber="None" image="122_028.jpg" lang2="- Ах, да.">
+      <audioTime in="96638" out="97816" />
+    </line>
+  </lines>
+</lesson>

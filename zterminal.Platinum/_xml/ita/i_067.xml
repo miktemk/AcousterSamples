@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="i_067.wav" dic="p067" dlgName="Встреча подруг." dlgFile="exr\ig067.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Salve, signora Forti." someNumber="None" image="dg\067_001.gif" lang2="- Здравствуйте, госпожа Форти.">
+      <audioTime in="219" out="1970" />
+    </line>
+    <line lang1="È stata dal macellaio?" someNumber="None" image="dg\067_001.gif" lang2="Вы были у мясника?">
+      <audioTime in="1951" out="3721" />
+    </line>
+    <line lang1="- Sì, ci sono andata." someNumber="None" image="dg\067_001.gif" lang2="- Да, была.">
+      <audioTime in="3721" out="5308" />
+    </line>
+    <line lang1="Anche Lei è stata dal macellaio?" someNumber="None" image="dg\067_001.gif" lang2="Вы тоже были у мясника?">
+      <audioTime in="5472" out="7543" />
+    </line>
+    <line lang1="- No, non ci sono andata." someNumber="None" image="dg\067_001.gif" lang2="- Нет, я не была.">
+      <audioTime in="7543" out="9214" />
+    </line>
+    <line lang1="Sono andata dal fruttivendolo." someNumber="None" image="dg\067_001.gif" lang2="Я была у зеленщика.">
+      <audioTime in="9368" out="11265" />
+    </line>
+    <line lang1="Come sta Pietro oggi?" someNumber="None" image="dg\067_001.gif" lang2="Как Пьетро сегодня?">
+      <audioTime in="11328" out="12861" />
+    </line>
+    <line lang1="- Si sente molto bene, grazie." someNumber="None" image="dg\067_001.gif" lang2="- У него всё в порядке, спасибо.">
+      <audioTime in="13090" out="15014" />
+    </line>
+    <line lang1="- È stato assente da scuola la settimana scorsa?" someNumber="None" image="dg\067_001.gif" lang2="- Он не ходил в школу на прошлой неделе?">
+      <audioTime in="15214" out="18170" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\067_001.gif" lang2="- Да.">
+      <audioTime in="18080" out="18847" />
+    </line>
+    <line lang1="È stato assente lunedì, martedì, mercoledì e giovedì." someNumber="None" image="dg\067_001.gif" lang2="Его не было в понедельник, вторник, среду и четверг.">
+      <audioTime in="18891" out="22568" />
+    </line>
+    <line lang1="Come state voi altri?" someNumber="None" image="dg\067_001.gif" lang2="А как у вас у всех дела?">
+      <audioTime in="22657" out="24244" />
+    </line>
+    <line lang1="- Molto bene, grazie." someNumber="None" image="dg\067_001.gif" lang2="- Очень хорошо, спасибо.">
+      <audioTime in="24409" out="25887" />
+    </line>
+    <line lang1="Abbiamo intenzione di passare tre giorni fuori città." someNumber="380" image="dg\067_001.gif" lang2="Мы собираемся провести три дня за городом.">
+      <audioTime in="26051" out="29006" />
+    </line>
+    <line lang1="Abbiamo intenzione di passare il finesettimana da mia madre." someNumber="None" image="dg\067_001.gif" lang2="Мы собираемся провести выходные у моей матери.">
+      <audioTime in="29171" out="32235" />
+    </line>
+    <line lang1="- Venerdì, sabato e domenica fuori città!" someNumber="None" image="dg\067_001.gif" lang2="- Пятницу, субботу и воскресенье за городом!">
+      <audioTime in="32183" out="34898" />
+    </line>
+    <line lang1="Beati voi!" someNumber="None" image="dg\067_001.gif" lang2="Как вам повезло!">
+      <audioTime in="35034" out="36117" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="f_052.wav" dic="p052" dlgName="Откуда они приехали?" dlgFile="exr\fg051.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Etes-vous venu du Brésil?" someNumber="None" image="dg\052_001.gif" lang2="- Вы приехали из Бразилии?">
+      <audioTime in="0" out="1280" />
+    </line>
+    <line lang1="- Non, je ne suis pas venu du Brésil. Je suis venu des Etats-Unis." someNumber="70" image="dg\052_001.gif" lang2="- Нет. Я не приехал из Бразилии. Я приехал из Соединённых Штатов.">
+      <audioTime in="1280" out="4633" />
+    </line>
+    <line lang1="- Est-il venu des Etats-Unis?" someNumber="None" image="dg\052_002.gif" lang2="- Он приехал из Соединённых Штатов?">
+      <audioTime in="4633" out="5977" />
+    </line>
+    <line lang1="- Non, il n'est pas venu des Etats-Unis. Il est venu du Brésil." someNumber="None" image="dg\052_002.gif" lang2="- Нет, он приехал не из Соединённых Штатов. Он приехал из Бразилии.">
+      <audioTime in="5977" out="9186" />
+    </line>
+    <line lang1="- Est-elle venue d'Angleterre?" someNumber="None" image="dg\052_003.gif" lang2="- Она приехала из Англии?">
+      <audioTime in="9186" out="10472" />
+    </line>
+    <line lang1="- Non, elle n'est pas venue d'Angleterre. Elle est venue des Pays-Bas." someNumber="None" image="dg\052_003.gif" lang2="- Она приехала не из Англии. Она приехала из Голландии.">
+      <audioTime in="10472" out="13181" />
+    </line>
+    <line lang1="- Vous êtes venus des Pays-Bas?" someNumber="210" image="dg\052_004.gif" lang2="- Вы приехали из Голландии.">
+      <audioTime in="13181" out="14425" />
+    </line>
+    <line lang1="- Non, nous ne sommes pas venus des Pays Bas. Nous sommes venus d'Angleterre." someNumber="None" image="dg\052_004.gif" lang2="- Нет, мы приехали не из Голландии. Мы приехали из Англии.">
+      <audioTime in="14425" out="18074" />
+    </line>
+    <line lang1="- Sont-ils venus d'Allemagne?" someNumber="None" image="dg\052_005.gif" lang2="- Они приехали из Германии?">
+      <audioTime in="18074" out="19248" />
+    </line>
+    <line lang1="- Non, ils ne sont pas venus d'Allemagne. Ils sont venus de France." someNumber="None" image="dg\052_005.gif" lang2="- Нет, они приехали не из Германии. Они приехали из Франции.">
+      <audioTime in="19248" out="22186" />
+    </line>
+    <line lang1="- Suis-je venu de France?" someNumber="920" image="dg\052_006.gif" lang2="- Я приехал из Франции?">
+      <audioTime in="22186" out="23181" />
+    </line>
+    <line lang1="- Non, tu n'es pas venu de France. Tu es venu d'Allemagne." someNumber="None" image="dg\052_006.gif" lang2="- Ты приехал не из Франции. Ты приехал из Германии.">
+      <audioTime in="23181" out="25928" />
+    </line>
+    <line lang1="- Est-il venu d'Italie?" someNumber="None" image="dg\052_007.gif" lang2="- Он приехал из Италии?">
+      <audioTime in="25928" out="27001" />
+    </line>
+    <line lang1="- Non, il n'est pas venu d'Italie. Il est venu de Grèce." someNumber="810" image="dg\052_007.gif" lang2="- Нет, он приехал не из Италии. Он приехал из Греции.">
+      <audioTime in="27001" out="29957" />
+    </line>
+    <line lang1="- Nous sommes venus de Grèce?" someNumber="None" image="dg\052_008.gif" lang2="- Мы приехали из Греции?">
+      <audioTime in="29957" out="30989" />
+    </line>
+    <line lang1="- Non, vous n'êtes pas venus de Grèce. Vous êtes venus d'Italie." someNumber="None" image="dg\052_008.gif" lang2="- Нет, вы приехали не из Греции. Вы приехали из Италии.">
+      <audioTime in="30989" out="33965" />
+    </line>
+    <line lang1="- Vous êtes venus de Russie?" someNumber="None" image="dg\052_009.gif" lang2="- Вы приехали из России?">
+      <audioTime in="33965" out="35041" />
+    </line>
+    <line lang1="- Non, nous ne sommes pas venus de Russie. Nous sommes venus de Norvège." someNumber="530" image="dg\052_009.gif" lang2="- Нет, мы приехали не из России. Мы приехали из Норвегии.">
+      <audioTime in="35041" out="38268" />
+    </line>
+    <line lang1="- Sont-ils venus de Norvège?" someNumber="None" image="dg\052_010.gif" lang2="- Они приехали из Норвегии?">
+      <audioTime in="38268" out="39413" />
+    </line>
+    <line lang1="- Non, ils ne sont pas venus de Norvège. Ils sont venus de Russie." someNumber="None" image="dg\052_010.gif" lang2="- Нет, они приехали не из Норвегии. Они приехали из России.">
+      <audioTime in="39413" out="42410" />
+    </line>
+    <line lang1="- Est-elle venue de Suède?" someNumber="None" image="dg\052_011.gif" lang2="- Она приехала из Швеции?">
+      <audioTime in="42410" out="43570" />
+    </line>
+    <line lang1="- Non, elle n'est pas venue de Suède. Elle est venue d'Espagne." someNumber="None" image="dg\052_011.gif" lang2="- Нет, она приехала не из Швеции. Она приехала из Испании.">
+      <audioTime in="43570" out="46362" />
+    </line>
+    <line lang1="- Etes-vous venu d'Espagne?" someNumber="None" image="dg\052_012.gif" lang2="- Вы приехали из Испании?">
+      <audioTime in="46362" out="47515" />
+    </line>
+    <line lang1="- Non, je ne suis pas venu d'Espagne. Je suis venu de Suède." someNumber="None" image="dg\052_012.gif" lang2="- Нет, я приехал не из Испании. Я приехал из Швеции.">
+      <audioTime in="47515" out="50560" />
+    </line>
+  </lines>
+</lesson>

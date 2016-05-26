@@ -1,0 +1,62 @@
+<lesson>
+  <header wav="i_071.wav" dic="p071" dlgName="Обсуждение звонка." dlgFile="exr\ig071.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Cosa pensi di Giorgio, Laura?" someNumber="None" image="dg\071_001.gif" lang2="- Что из себя представляет Джорджио, Лаура?">
+      <audioTime in="21" out="1951" />
+    </line>
+    <line lang1="- È semplicemente orribile!" someNumber="None" image="dg\071_001.gif" lang2="- Он просто ужасен!">
+      <audioTime in="1861" out="3813" />
+    </line>
+    <line lang1="Mi ha chiamato quattro volte ieri e tre volte l'altro ieri." someNumber="None" image="dg\071_001.gif" lang2="Он звонил мне вчера четыре раза и три раза позавчера.">
+      <audioTime in="3910" out="7188" />
+    </line>
+    <line lang1="Ha chiamato in ufficio ieri mattina e ieri sera." someNumber="None" image="dg\071_001.gif" lang2="Он звонил в контору вчера утром и вчера вечером.">
+      <audioTime in="7181" out="9874" />
+    </line>
+    <line lang1="Il mio capo gli ha risposto al telefono." someNumber="None" image="dg\071_002.gif" lang2="Мой шеф снимал трубку.">
+      <audioTime in="10090" out="12416" />
+    </line>
+    <line lang1="- Che cosa gli ha detto il tuo capo?" someNumber="None" image="dg\071_002.gif" lang2="- Что твой шеф сказал ему?">
+      <audioTime in="12722" out="14800" />
+    </line>
+    <line lang1="Ha detto: &quot;La signora Galli sta stampando una lettera." someNumber="None" image="dg\071_003.gif" lang2="- Он сказал: &quot;Госпожа Галли печатает письмо.">
+      <audioTime in="15207" out="18581" />
+    </line>
+    <line lang1="Non può parlare con Lei adesso&quot;." someNumber="None" image="dg\071_003.gif" lang2="Она не может сейчас с Вами разговаривать&quot;.">
+      <audioTime in="18540" out="20833" />
+    </line>
+    <line lang1="- Poi, ieri sono tornata a casa alle sei di sera." someNumber="None" image="dg\071_004.gif" lang2="- Потом я пришла домой вчера вечером в шесть часов.">
+      <audioTime in="20931" out="24216" />
+    </line>
+    <line lang1="Lui ha telefonato ancora." someNumber="None" image="dg\071_004.gif" lang2="Он опять позвонил.">
+      <audioTime in="24216" out="26237" />
+    </line>
+    <line lang1="Però io non ho risposto alla telefonata!" someNumber="None" image="dg\071_005.gif" lang2="Но я не сняла трубку!">
+      <audioTime in="26162" out="29029" />
+    </line>
+    <line lang1="- Ha chiamato ancora ieri sera?" someNumber="None" image="dg\071_005.gif" lang2="- А ещё раз он позвонил вчера вечером?">
+      <audioTime in="29203" out="31199" />
+    </line>
+    <line lang1="- Si, ha telefonato." someNumber="None" image="dg\071_005.gif" lang2="- Да, позвонил.">
+      <audioTime in="31199" out="32894" />
+    </line>
+    <line lang1="Ha telefonato alle nove." someNumber="None" image="dg\071_005.gif" lang2="Он позвонил в девять часов.">
+      <audioTime in="32944" out="34765" />
+    </line>
+    <line lang1="- Cosa gli hai detto?" someNumber="None" image="dg\071_006.gif" lang2="- И что ты ему сказала?">
+      <audioTime in="34864" out="36286" />
+    </line>
+    <line lang1="- Gli ho detto: &quot;Sono la madre di Laura." someNumber="None" image="dg\071_006.gif" lang2="- Я сказала: &quot;Это мама Лауры.">
+      <audioTime in="36389" out="38986" />
+    </line>
+    <line lang1="Per favore, non telefoni più a mia figlia!&quot;" someNumber="None" image="dg\071_006.gif" lang2="Пожалуйста, не звоните больше моей дочери!&quot;">
+      <audioTime in="38964" out="41449" />
+    </line>
+    <line lang1="- Ha chiamato ancora?" someNumber="None" image="dg\071_007.gif" lang2="- Он ещё раз звонил?">
+      <audioTime in="41517" out="43107" />
+    </line>
+    <line lang1="- No, non ha chiamato più!" someNumber="None" image="dg\071_007.gif" lang2="- Нет, больше не звонил!">
+      <audioTime in="43107" out="44719" />
+    </line>
+  </lines>
+</lesson>

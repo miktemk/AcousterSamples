@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_006.wav" dic="p006" dlgName="Это... машина?" dlgFile="exr\fg005.txt" author="Alexander" />
+  <lines>
+    <line lang1="- C'est une &quot;Volvo&quot;. Est-ce une voiture suédoise ou une voiture française?" someNumber="60" image="dg\006_001.gif" lang2="- Это Вольво. Это шведская машина или французская машина?">
+      <audioTime in="0" out="4319" />
+    </line>
+    <line lang1="- Ce n'est pas une voiture française. C'est une voiture suédoise." someNumber="None" image="dg\006_001.gif" lang2="- Это не французская машина. Это шведская машина.">
+      <audioTime in="4319" out="7796" />
+    </line>
+    <line lang1="- C'est une Citroën. Est-ce une voiture française ou une voiture suédoise?" someNumber="None" image="dg\006_002.gif" lang2="- Это Ситроен. Это французская машина или шведская машина?">
+      <audioTime in="7796" out="12061" />
+    </line>
+    <line lang1="- Ce n'est pas une voiture suédoise. C'est une voiture française." someNumber="None" image="dg\006_002.gif" lang2="- Это не шведская машина. Это французская машина.">
+      <audioTime in="12061" out="15630" />
+    </line>
+    <line lang1="- C'est une Volkswagen. Est-ce une voiture allemande ou une voiture hollandaise?" someNumber="None" image="dg\006_003.gif" lang2="- Это Фольксваген. Это немецкая машина или голландская машина?">
+      <audioTime in="15630" out="19800" />
+    </line>
+    <line lang1="- Ce n'est pas une voiture hollandaise. C'est une voiture allemande." someNumber="None" image="dg\006_003.gif" lang2="- Это не голландская машина. Это немецкая машина.">
+      <audioTime in="19800" out="23086" />
+    </line>
+    <line lang1="- C'est une Daf. Est-ce une voiture hollandaise ou une voiture allemande?" someNumber="810" image="dg\006_004.gif" lang2="- Это Даф. Это голландская машина или немецкая машина?">
+      <audioTime in="23086" out="27029" />
+    </line>
+    <line lang1="- Ce n'est pas une voiture allemande. C'est une voiture hollandaise." someNumber="None" image="dg\006_004.gif" lang2="- Это не немецкая машина. Это голландская машина.">
+      <audioTime in="27029" out="30112" />
+    </line>
+    <line lang1="- C'est une Moskvitch. Est-ce une voiture russe ou une voiture anglaise?" someNumber="None" image="dg\006_005.gif" lang2="- Это Москвич. Это русская машина или английская машина?">
+      <audioTime in="30112" out="34119" />
+    </line>
+    <line lang1="- Ce n'est pas une voiture anglaise. C'est une voiture russe." someNumber="None" image="dg\006_005.gif" lang2="- Это не английская машина. Это русская машина.">
+      <audioTime in="34119" out="36983" />
+    </line>
+    <line lang1="- C'est une Morris. Est-ce une voiture anglaise ou une voiture russe?" someNumber="190" image="dg\006_006.gif" lang2="- Это Морис. Это английская машина или русская машина?">
+      <audioTime in="36983" out="40351" />
+    </line>
+    <line lang1="- Ce n'est pas une voiture russe. C'est une voiture anglaise." someNumber="None" image="dg\006_006.gif" lang2="- Это не русская машина. Это английская машина.">
+      <audioTime in="40351" out="43384" />
+    </line>
+    <line lang1="- C'est une Buick. Est-ce une voiture américaine ou une voiture italienne?" someNumber="None" image="dg\006_007.gif" lang2="- Это Бюик. Это американская машина или итальянская машина?">
+      <audioTime in="43384" out="47681" />
+    </line>
+    <line lang1="- Ce n'est pas une voiture italienne. C'est une voiture américaine." someNumber="None" image="dg\006_007.gif" lang2="- Это не итальянская машина. Это американская машина.">
+      <audioTime in="47681" out="51015" />
+    </line>
+    <line lang1="- C'est une Fiat. Est-ce une voiture italienne ou une voiture américaine?" someNumber="None" image="dg\006_008.gif" lang2="- Это Фиат. Это итальянская машина или американская машина?">
+      <audioTime in="51015" out="54864" />
+    </line>
+    <line lang1="- Ce n'est pas une voiture américaine. C'est une voiture italienne." someNumber="None" image="dg\006_008.gif" lang2="- Это не американская машина. Это итальянская машина.">
+      <audioTime in="54864" out="58378" />
+    </line>
+  </lines>
+</lesson>

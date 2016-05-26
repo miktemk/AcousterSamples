@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="FR_034.wav" dlgName="В кино. Антракт" dlgFile="exr\frg034.txt" />
+  <lines>
+    <line lang1="- Regarde autour de toi!" someNumber="None" image="f.jpg" lang2="- Посмотри вокруг!">
+      <audioTime in="0" out="2345" />
+    </line>
+    <line lang1="La salle est remplie jusqu'aux bords." someNumber="None" image="f.jpg" lang2="Зал заполнен до отказа.">
+      <audioTime in="2345" out="5274" />
+    </line>
+    <line lang1="Il n'y a pas une place de vide." someNumber="None" image="f.jpg" lang2="Нет ни одного свободного места.">
+      <audioTime in="5274" out="7779" />
+    </line>
+    <line lang1="- Où sont assis nos amis?" someNumber="None" image="f.jpg" lang2="- Где сидят наши друзья?">
+      <audioTime in="7779" out="10105" />
+    </line>
+    <line lang1="- Je ne les vois nulle part." someNumber="None" image="f.jpg" lang2="- Я их нигде не вижу.">
+      <audioTime in="10105" out="12234" />
+    </line>
+    <line lang1="- Il serait difficile de les reconnaître au milieu d'un si grand nombre de personnes." someNumber="None" image="f.jpg" lang2="- Было бы трудно узнать их среди такого большого количества людей.">
+      <audioTime in="12234" out="18128" />
+    </line>
+    <line lang1="- Difficile? Dis plutôt impossible." someNumber="None" image="f.jpg" lang2="- Трудно? Скажи лучше - невозможно.">
+      <audioTime in="18128" out="21830" />
+    </line>
+    <line lang1="- Veux-tu changer de place avec moi?" someNumber="None" image="f.jpg" lang2="- Хочешь поменяться со мной местами?">
+      <audioTime in="21830" out="25077" />
+    </line>
+    <line lang1="Cette dame devant moi a un chapeau si haut et si large" someNumber="None" image="f.jpg" lang2="У этой дамы передо мной такая высокая и широкая шляпа,">
+      <audioTime in="25077" out="29016" />
+    </line>
+    <line lang1="qu'elle m'empêche de voir l'écran." someNumber="None" image="f.jpg" lang2="что она мне мешает смотреть на экран.">
+      <audioTime in="29016" out="31734" />
+    </line>
+    <line lang1="- Je ferai tout pour que tu sois contente." someNumber="None" image="f.jpg" lang2="- Сделаю всё, чтобы ты была довольна.">
+      <audioTime in="31734" out="34877" />
+    </line>
+    <line lang1="- Alors, mets-toi à ma place." someNumber="None" image="f.jpg" lang2="- Тогда, садись на моё место.">
+      <audioTime in="34877" out="37778" />
+    </line>
+    <line lang1="Le film va bientôt commencer." someNumber="None" image="f.jpg" lang2="Фильм скоро начнется.">
+      <audioTime in="37778" out="40859" />
+    </line>
+    <line lang1="On éteint déjà les lumières." someNumber="None" image="f.jpg" lang2="Уже гасят свет.">
+      <audioTime in="40859" out="43097" />
+    </line>
+    <line lang1="Tiens, en te levant tu as laissé tomber ton programme." someNumber="None" image="f.jpg" lang2="Смотри! Вставая, ты уронил программу.">
+      <audioTime in="43097" out="47527" />
+    </line>
+    <line lang1="- Ça ne fait rien, je le ramasserai tout à l'heure." someNumber="None" image="f.jpg" lang2="- Это ничего, я её подниму позже.">
+      <audioTime in="47527" out="50589" />
+    </line>
+    <line lang1="Mais tu sais, moi non plus je ne vois pas grand chose et puis j'ai sommeil." someNumber="None" image="f.jpg" lang2="Но знаешь, что я тоже не очень хорошо вижу, и к тому же мне хочется спать.">
+      <audioTime in="50589" out="56511" />
+    </line>
+    <line lang1="Je crois que je vais m'endormir." someNumber="None" image="f.jpg" lang2="Мне кажется, что я усну.">
+      <audioTime in="56511" out="59072" />
+    </line>
+  </lines>
+</lesson>

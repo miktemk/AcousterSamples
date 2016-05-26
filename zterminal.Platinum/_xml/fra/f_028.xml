@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="f_028.wav" dic="p028" dlgName="Где они?" dlgFile="exr\fg027.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Y a-t-il quelques livres sur la coiffeuse?" someNumber="None" image="dg\028_001.gif" lang2="- На туалетном столике есть несколько книг?">
+      <audioTime in="0" out="1805" />
+    </line>
+    <line lang1="- Non, il n'y a pas de livres. Il y a quelques cigarettes." someNumber="750" image="dg\028_001.gif" lang2="- Нет, там нет книг. Есть несколько сигарет.">
+      <audioTime in="1805" out="4246" />
+    </line>
+    <line lang1="- Où sont-elles?" someNumber="None" image="dg\028_001.gif" lang2="- Где они?">
+      <audioTime in="4246" out="4915" />
+    </line>
+    <line lang1="- Elles sont près de cette boîte-là." someNumber="None" image="dg\028_001.gif" lang2="- Они около той коробки.">
+      <audioTime in="4915" out="6164" />
+    </line>
+    <line lang1="- Y a-t-il quelques cravates sur le plancher?" someNumber="None" image="dg\028_002.gif" lang2="- На полу есть несколько галстуков?">
+      <audioTime in="6164" out="8175" />
+    </line>
+    <line lang1="- Non, il n'y a pas de cravates. Il y a quelques souliers." someNumber="None" image="dg\028_002.gif" lang2="- Нет, там нет галстуков. Есть несколько туфель.">
+      <audioTime in="8175" out="10672" />
+    </line>
+    <line lang1="- Où sont-ils?" someNumber="None" image="dg\028_002.gif" lang2="- Где они?">
+      <audioTime in="10672" out="11336" />
+    </line>
+    <line lang1="- Ils sont près du lit." someNumber="810" image="dg\028_002.gif" lang2="- Они около постели.">
+      <audioTime in="11336" out="12206" />
+    </line>
+    <line lang1="- Y a-t-il quelques verres sur le buffet?" someNumber="None" image="dg\028_003.gif" lang2="- Есть несколько стаканов на серванте?">
+      <audioTime in="12206" out="13925" />
+    </line>
+    <line lang1="- Non, il n'y a pas de verres. Il y a quelques bouteilles." someNumber="None" image="dg\028_003.gif" lang2="- Нет, там нет стаканов. Есть несколько бутылок.">
+      <audioTime in="13925" out="16285" />
+    </line>
+    <line lang1="- Où sont-elles?" someNumber="None" image="dg\028_003.gif" lang2="- Где они?">
+      <audioTime in="16285" out="16993" />
+    </line>
+    <line lang1="- Elles sont près de ces boîtes de conserves." someNumber="None" image="dg\028_003.gif" lang2="- Они около этих консервных банок.">
+      <audioTime in="16993" out="18659" />
+    </line>
+    <line lang1="- Y a-t-il quelques journaux sur le rayon?" someNumber="None" image="dg\028_004.gif" lang2="- На полке есть несколько газет?">
+      <audioTime in="18659" out="20578" />
+    </line>
+    <line lang1="- Non, il n'y a pas de journaux. Il y a quelques billets." someNumber="None" image="dg\028_004.gif" lang2="- Нет, там нет газет. Есть несколько билетов.">
+      <audioTime in="20578" out="22815" />
+    </line>
+    <line lang1="- Où sont-ils?" someNumber="None" image="dg\028_004.gif" lang2="- Где они?">
+      <audioTime in="22815" out="23499" />
+    </line>
+    <line lang1="- Ils sont dans cette serviette." someNumber="470" image="dg\028_004.gif" lang2="- Они в этом портфеле.">
+      <audioTime in="23499" out="24912" />
+    </line>
+    <line lang1="- Y a-t-il quelques fourchettes sur la table?" someNumber="None" image="dg\028_006.gif" lang2="- На столе есть несколько вилок?">
+      <audioTime in="24912" out="27042" />
+    </line>
+    <line lang1="- Non, il n'y a pas de fourchettes. Il y a quelques couteaux." someNumber="None" image="dg\028_006.gif" lang2="- Нет, там нет вилок. Есть несколько ножей.">
+      <audioTime in="27042" out="30409" />
+    </line>
+    <line lang1="- Où sont-ils?" someNumber="None" image="dg\028_006.gif" lang2="- Где они?">
+      <audioTime in="30409" out="31036" />
+    </line>
+    <line lang1="- Ils sont dans ce tiroir." someNumber="610" image="dg\028_006.gif" lang2="- Они в этом ящике.">
+      <audioTime in="31036" out="32369" />
+    </line>
+    <line lang1="- Y a-t-il quelques tasses sur la radio?" someNumber="None" image="dg\028_007.gif" lang2="- На радио есть несколько чашек?">
+      <audioTime in="32369" out="34263" />
+    </line>
+    <line lang1="- Non, il n'y a pas de tasses. Il y a quelques verres." someNumber="None" image="dg\028_007.gif" lang2="- Нет, там нет чашек. Есть несколько стаканов.">
+      <audioTime in="34263" out="36433" />
+    </line>
+    <line lang1="- Où sont-ils?" someNumber="None" image="dg\028_007.gif" lang2="- Где они?">
+      <audioTime in="36433" out="37072" />
+    </line>
+    <line lang1="- Ils sont près de ces bouteilles." someNumber="470" image="dg\028_007.gif" lang2="- Они рядом с этими бутылками.">
+      <audioTime in="37072" out="38244" />
+    </line>
+  </lines>
+</lesson>

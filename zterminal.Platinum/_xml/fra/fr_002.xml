@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="FR_002.wav" dlgName="Здравствуйте" dlgFile="exr\frg002.txt" />
+  <lines>
+    <line lang1="- Bonjour Pierre!" someNumber="None" image="f.jpg" lang2="- Здравствуй, Пьер!">
+      <audioTime in="0" out="2390" />
+    </line>
+    <line lang1="Tu es tout seul?" someNumber="None" image="f.jpg" lang2="Ты один?">
+      <audioTime in="2390" out="4460" />
+    </line>
+    <line lang1="- Oui, je suis tout seul pour le moment." someNumber="None" image="f.jpg" lang2="- Да, пока что я один.">
+      <audioTime in="4460" out="8122" />
+    </line>
+    <line lang1="- Et où sont les autres? Où est monsieur Vernet?" someNumber="None" image="f.jpg" lang2="- А где другие? Где господин Верне?">
+      <audioTime in="8122" out="13021" />
+    </line>
+    <line lang1="- Oh, il est absent." someNumber="None" image="f.jpg" lang2="- Ох, нет его.">
+      <audioTime in="13021" out="15258" />
+    </line>
+    <line lang1="- Et Suzanne, où est-ce qu'elle est?" someNumber="None" image="f.jpg" lang2="- А где Сюзанна?">
+      <audioTime in="15258" out="18529" />
+    </line>
+    <line lang1="- Suzanne? Elle est à la maison. Mais tiens, la voici." someNumber="None" image="f.jpg" lang2="- Сюзанна? Она дома. А вот и она.">
+      <audioTime in="18529" out="23976" />
+    </line>
+    <line lang1="- Bonjour, Jacques." someNumber="None" image="f.jpg" lang2="- Здравствуй, Жак.">
+      <audioTime in="23976" out="25902" />
+    </line>
+    <line lang1="Bonjour, Pierre." someNumber="None" image="f.jpg" lang2="Здравствуй, Пьер.">
+      <audioTime in="25902" out="27427" />
+    </line>
+    <line lang1="- Bonjour, Suzanne." someNumber="None" image="f.jpg" lang2="- Здравствуй, Сюзанна.">
+      <audioTime in="27427" out="29642" />
+    </line>
+    <line lang1="- Vous êtes enfin tous les deux ensemble." someNumber="None" image="f.jpg" lang2="- Наконец-то вы вместе.">
+      <audioTime in="29642" out="33181" />
+    </line>
+    <line lang1="Quelle chance! Allons faire une partie de croquet." someNumber="None" image="f.jpg" lang2="Вот повезло! Идемте поиграть в крокет.">
+      <audioTime in="33181" out="37285" />
+    </line>
+    <line lang1="Pardon monsieur!" someNumber="None" image="f.jpg" lang2="Извините, господин!">
+      <audioTime in="37285" out="39704" />
+    </line>
+    <line lang1="- Qu'y a-t-il pour votre service, mademoiselle?" someNumber="None" image="f.jpg" lang2="- Чем вам могу служить, мадмуазель?">
+      <audioTime in="39704" out="43276" />
+    </line>
+    <line lang1="- Etes-vous monsieur Paul Vernet?" someNumber="None" image="f.jpg" lang2="- Это вы - господин Поль Верне?">
+      <audioTime in="43276" out="46526" />
+    </line>
+    <line lang1="- Oui, mademoiselle, je suis Paul Vernet." someNumber="None" image="f.jpg" lang2="- Да, мадмуазель, это я, Поль Верне.">
+      <audioTime in="46526" out="49648" />
+    </line>
+    <line lang1="- Vous êtes l'ami de Pierre?" someNumber="None" image="f.jpg" lang2="- Это вы - друг Пьера?">
+      <audioTime in="49648" out="52181" />
+    </line>
+    <line lang1="- Oui, mademoiselle, je suis l'ami de Pierre." someNumber="None" image="f.jpg" lang2="- Да, мадмуазель, это я друг Пьера.">
+      <audioTime in="52181" out="55451" />
+    </line>
+    <line lang1="- Alors vous êtes l'homme que je cherche." someNumber="None" image="f.jpg" lang2="- Тогда вы - человек, которого я ищу.">
+      <audioTime in="55451" out="58610" />
+    </line>
+    <line lang1="- Est-ce que vous êtes mademoiselle Françoise Dubois, la sœur de Pierre?" someNumber="None" image="f.jpg" lang2="- Это вы мадмуазель Франсуаза Дюбуа, сестра Пьера?">
+      <audioTime in="58610" out="63476" />
+    </line>
+    <line lang1="- Oui, je suis Françoise Dubois." someNumber="None" image="f.jpg" lang2="- Да, я - Франсуаза Дюбуа.">
+      <audioTime in="63476" out="67203" />
+    </line>
+    <line lang1="- Je suis charmé de faire votre connaissance, mademoiselle." someNumber="None" image="f.jpg" lang2="- Мне очень приятно познакомиться с вами мадмуазель.">
+      <audioTime in="67203" out="71094" />
+    </line>
+  </lines>
+</lesson>

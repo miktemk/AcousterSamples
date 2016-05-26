@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="d_091.wav" dic="p091" dlgName="Новые соседи." dlgFile="exr\dg091.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Hat Herr Richter sein Haus schon #verkauft?" someNumber="580" image="dg\091_001.gif" lang2="- Господин Рихтер уже продал свой дом?">
+      <audioTime in="747" out="3438" />
+    </line>
+    <line lang1="- Ja, das #stimmt." someNumber="580" image="dg\091_001.gif" lang2="- Да, это верно.">
+      <audioTime in="4036" out="4783" />
+    </line>
+    <line lang1="Er #hat es vorige Woche #verkauft." someNumber="580" image="dg\091_001.gif" lang2="Он продал его на прошлой неделе.">
+      <audioTime in="5158" out="6876" />
+    </line>
+    <line lang1="- #Ist er nicht schon in sein neues Haus #umgezogen?" someNumber="490" image="dg\091_001.gif" lang2="- Он уже переехал в свой новый дом?">
+      <audioTime in="7698" out="10390" />
+    </line>
+    <line lang1="- Nein, noch nicht." someNumber="490" image="dg\091_001.gif" lang2="- Нет, ещё нет.">
+      <audioTime in="10689" out="11960" />
+    </line>
+    <line lang1="Er #ist noch hier." someNumber="680" image="dg\091_001.gif" lang2="Он ещё здесь.">
+      <audioTime in="12483" out="13380" />
+    </line>
+    <line lang1="Er #will morgen #umziehen." someNumber="680" image="dg\091_001.gif" lang2="Он собирается переехать завтра.">
+      <audioTime in="13679" out="15024" />
+    </line>
+    <line lang1="- Wann?" someNumber="400" image="dg\091_001.gif" lang2="- Когда?">
+      <audioTime in="15473" out="15921" />
+    </line>
+    <line lang1="Morgen früh?" someNumber="400" image="dg\091_001.gif" lang2="Завтра утром?">
+      <audioTime in="16221" out="16968" />
+    </line>
+    <line lang1="- Nein, morgen Mittag." someNumber="400" image="dg\091_001.gif" lang2="- Нет, завтра днём.">
+      <audioTime in="17491" out="19285" />
+    </line>
+    <line lang1="Ich #werde mich nach ihm #sehnen." someNumber="290" image="dg\091_001.gif" lang2="Я буду по нему скучать.">
+      <audioTime in="19733" out="21453" />
+    </line>
+    <line lang1="Er #war immer ein guter Nachbar." someNumber="290" image="dg\091_001.gif" lang2="Он всегда был хорошим соседом.">
+      <audioTime in="22051" out="24144" />
+    </line>
+    <line lang1="Er #ist ein guter Mensch." someNumber="290" image="dg\091_001.gif" lang2="Он хороший человек.">
+      <audioTime in="24742" out="25863" />
+    </line>
+    <line lang1="- Wir #werden uns alle nach ihm #sehnen." someNumber="290" image="dg\091_001.gif" lang2="- Мы все по нему будем скучать.">
+      <audioTime in="26462" out="28330" />
+    </line>
+    <line lang1="Wann #werden die neuen Leute in sein Haus #einziehen?" someNumber="270" image="dg\091_001.gif" lang2="Когда новые люди переедут в его дом?">
+      <audioTime in="29153" out="32068" />
+    </line>
+    <line lang1="- Ich #glaube vielleicht #übermorgen." someNumber="720" image="dg\091_001.gif" lang2="- Я думаю, что они, возможно, переедут послезавтра.">
+      <audioTime in="32441" out="34011" />
+    </line>
+    <line lang1="- #Werden Sie heute Herrn Richter #sehen, Frau Braun?" someNumber="600" image="dg\091_001.gif" lang2="- Вы сегодня увидите господина Рихтера, госпожа Браун?">
+      <audioTime in="34610" out="37450" />
+    </line>
+    <line lang1="- Ja, ich #werde ihn #sehen." someNumber="600" image="dg\091_001.gif" lang2="- Да, я увижу его.">
+      <audioTime in="37749" out="39019" />
+    </line>
+    <line lang1="- #Grüßen Sie ihn, bitte." someNumber="630" image="dg\091_001.gif" lang2="- Пожалуйста, передайте ему привет.">
+      <audioTime in="39393" out="40738" />
+    </line>
+    <line lang1="- Der arme Herr Richter!" someNumber="570" image="dg\091_001.gif" lang2="- Бедный господин Рихтер!">
+      <audioTime in="41187" out="42383" />
+    </line>
+    <line lang1="Er #wollte nicht aus diesem Haus fort." someNumber="570" image="dg\091_001.gif" lang2="Он не хотел уезжать из этого дома.">
+      <audioTime in="42832" out="44701" />
+    </line>
+    <line lang1="- Nein, er #wollte das nicht." someNumber="950" image="dg\091_001.gif" lang2="- Да, он не хотел этого.">
+      <audioTime in="45149" out="47167" />
+    </line>
+    <line lang1="Das #wollte seine Frau." someNumber="950" image="dg\091_001.gif" lang2="Этого хотела его жена.">
+      <audioTime in="47616" out="49036" />
+    </line>
+  </lines>
+</lesson>

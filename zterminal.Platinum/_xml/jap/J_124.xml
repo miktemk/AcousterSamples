@@ -1,0 +1,80 @@
+<lesson>
+  <header wav="j_124.wav" dlgName="В парикмахерской" dic="p124" />
+  <lines>
+    <line lang1="ーいらっしゃいませ。どうぞ、お掛け*くださいませ。" someNumber="109" image="124_001.jpg" lang2="- Добро пожаловать! Пожалуйста, присаживайтесь.">
+      <audioTime in="0" out="5015" />
+    </line>
+    <line lang1="どういう*風*に*いたしましょう*か。" someNumber="109" image="124_001.jpg" lang2="В каком стиле Вам сделать?">
+      <audioTime in="5015" out="8943" />
+    </line>
+    <line lang1="ー散髪して*もらいたい*ん*です*が、でも*あまり*短く*刈らないで*下さい。" someNumber="103" image="124_003.jpg" lang2="- Сделайте мне стрижку, но не очень коротко.">
+      <audioTime in="8943" out="14654" />
+    </line>
+    <line lang1="ーかしこまりました。" someNumber="None" image="124_004.jpg" lang2="- Слушаюсь.">
+      <audioTime in="14654" out="16069" />
+    </line>
+    <line lang1="これ*で*いい*でしょう*か。" someNumber="None" image="124_004.jpg" lang2="Так хорошо?">
+      <audioTime in="15929" out="18853" />
+    </line>
+    <line lang1="ー結構*です。" someNumber="None" image="124_006.jpg" lang2="- Отлично.">
+      <audioTime in="18853" out="19934" />
+    </line>
+    <line lang1="ーお顔*を*お剃り*しましょう*か。" someNumber="109" image="124_007.jpg" lang2="- Пожелаете побрить лицо?">
+      <audioTime in="19934" out="22505" />
+    </line>
+    <line lang1="ーええ、髭も*剃って*下さい。" someNumber="None" image="124_007.jpg" lang2="- Да, и побрейте!">
+      <audioTime in="22505" out="24480" />
+    </line>
+    <line lang1="ーいらっしゃいませ。お客様、どう*いたしましょう*か。" someNumber="None" image="124_009.jpg" lang2="- Добро пожаловать! Госпожа, как прикажете?">
+      <audioTime in="24480" out="30159" />
+    </line>
+    <line lang1="―カット*お願い*します。" someNumber="None" image="124_010.jpg" lang2="- Сделайте стрижку.">
+      <audioTime in="30159" out="32317" />
+    </line>
+    <line lang1="それ*から*髪*の*毛*を*染めて*もらいたい*ん*です。" someNumber="103" image="124_011.jpg" lang2="И ещё я хотела бы покрасить волосы.">
+      <audioTime in="32317" out="35721" />
+    </line>
+    <line lang1="―カラー*です*ね。はい。かしこまりました。" someNumber="None" image="124_012.jpg" lang2="- Окраска? Слушаюсь.">
+      <audioTime in="35721" out="38950" />
+    </line>
+    <line lang1="どうぞ*こちら*へ。" someNumber="None" image="124_012.jpg" lang2="Пожалуйста, сюда.">
+      <audioTime in="38950" out="40602" />
+    </line>
+    <line lang1="お待たせ*いたしました。" someNumber="None" image="124_014.jpg" lang2="Простите, что заставил Вас ждать.">
+      <audioTime in="40602" out="43564" />
+    </line>
+    <line lang1="どんな*色*に*いたしましょう*か。" someNumber="None" image="124_015.jpg" lang2="Какой цвет пожелаете?">
+      <audioTime in="43564" out="46160" />
+    </line>
+    <line lang1="ー栗色。ただし、あまり*濃く*しない*よう*に*して*ください。" someNumber="155" image="124_015.jpg" lang2="- Каштановый. Но сделайте так, чтобы был не очень темным.">
+      <audioTime in="46160" out="52351" />
+    </line>
+    <line lang1="ー分かりました。この*色*で*いかが*です*か。" someNumber="None" image="124_017.jpg" lang2="- Понятно. Как Вам этот цвет?">
+      <audioTime in="52351" out="55776" />
+    </line>
+    <line lang1="ーけっこう*です。" someNumber="None" image="124_017.jpg" lang2="- Отлично.">
+      <audioTime in="55776" out="58753" />
+    </line>
+    <line lang1="それ*から、私*は*髪*が*ちょっと*薄い*ので、セットローション*を*使って*セット*を*して*下さい。" someNumber="None" image="124_019.jpg" lang2="Затем, так как мои волосы немного тонкие, употребите для прически лосьон.">
+      <audioTime in="58753" out="64583" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="124_019.jpg" lang2="- Понятно.">
+      <audioTime in="64583" out="65365" />
+    </line>
+    <line lang1="いかが*でしょう*か。" someNumber="None" image="124_021.jpg" lang2="Вам нравится?">
+      <audioTime in="65365" out="67662" />
+    </line>
+    <line lang1="―うわあ、すてき。ありがとう。" someNumber="128" image="124_022.jpg" lang2="- Ой! Как красиво! Спасибо.">
+      <audioTime in="67662" out="70814" />
+    </line>
+    <line lang1="―お疲れ*様でした。" someNumber="None" image="124_023.jpg" lang2="- Простите за то, что утомили Вас.">
+      <audioTime in="70814" out="72846" />
+    </line>
+    <line lang1="お客様、この*割引*カード*を*どうぞ。" someNumber="None" image="124_024.jpg" lang2="Госпожа, пожалуйста, возьмите эту льготную карточку.">
+      <audioTime in="72846" out="76250" />
+    </line>
+    <line lang1="これ*から*２ヶ月間、特別*サービス*を*うけられます。" someNumber="94" image="124_024.jpg" lang2="Вы сможете пользоваться специальными услугами в течение 2-х месяцев.">
+      <audioTime in="76250" out="80333" />
+    </line>
+  </lines>
+</lesson>

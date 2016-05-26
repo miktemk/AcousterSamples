@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="d_025.wav" dic="p025" dlgName="На кухне." dlgFile="exr\dg025.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Frau Müllers Küche #ist klein." someNumber="200" image="dg\025_001.gif" lang2="- Кухня госпожи Мюллер маленькая.">
+      <audioTime in="1097" out="3160" />
+    </line>
+    <line lang1="- In der Küche #gibt es einen Kühlschrank." someNumber="360" image="dg\025_002.gif" lang2="- На кухне есть холодильник.">
+      <audioTime in="3511" out="5968" />
+    </line>
+    <line lang1="- Der Kühlschrank #ist weiß." someNumber="360" image="dg\025_002.gif" lang2="- Холодильник белый.">
+      <audioTime in="6144" out="7681" />
+    </line>
+    <line lang1="Er #steht rechts." someNumber="360" image="dg\025_002.gif" lang2="Он справа.">
+      <audioTime in="7681" out="9035" />
+    </line>
+    <line lang1="- In der Küche #gibt es auch einen elektrischen Herd." someNumber="810" image="dg\025_003.gif" lang2="- На кухне есть электрическая плита.">
+      <audioTime in="9567" out="12552" />
+    </line>
+    <line lang1="- Der Herd #ist blau." someNumber="810" image="dg\025_003.gif" lang2="- Плита синяя.">
+      <audioTime in="12903" out="14088" />
+    </line>
+    <line lang1="Er #steht links." someNumber="810" image="dg\025_003.gif" lang2="Она слева.">
+      <audioTime in="14088" out="15623" />
+    </line>
+    <line lang1="- In der Mitte des Zimmers #gibt es einen Tisch." someNumber="70" image="dg\025_004.gif" lang2="- В середине комнаты есть стол.">
+      <audioTime in="16107" out="18960" />
+    </line>
+    <line lang1="- Auf dem Tisch #steht eine Flasche." someNumber="510" image="dg\025_005.gif" lang2="- На столе бутылка.">
+      <audioTime in="19311" out="21549" />
+    </line>
+    <line lang1="- Die Flasche #ist leer." someNumber="510" image="dg\025_005.gif" lang2="- Бутылка пустая.">
+      <audioTime in="21813" out="23129" />
+    </line>
+    <line lang1="- Auf dem Tisch #steht auch eine Tasse." someNumber="150" image="dg\025_006.gif" lang2="- На столе также есть чашка.">
+      <audioTime in="23656" out="26202" />
+    </line>
+    <line lang1="- Die Tasse #ist sauber." someNumber="150" image="dg\025_006.gif" lang2="- Чашка чистая.">
+      <audioTime in="26333" out="28396" />
+    </line>
+  </lines>
+</lesson>

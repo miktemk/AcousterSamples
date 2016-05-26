@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="i_007.wav" dic="p007" dlgName="Кто Вы по национальности?" dlgFile="exr\ig007.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Io sono un nuovo studente." someNumber="730" image="dg\007_001.gif" lang2="- Я новый студент.">
+      <audioTime in="483" out="2417" />
+    </line>
+    <line lang1="Mi chiamo Roberto." someNumber="None" image="dg\007_001.gif" lang2="Меня зовут Роберто.">
+      <audioTime in="2618" out="4028" />
+    </line>
+    <line lang1="- Buon giorno." someNumber="None" image="dg\007_001.gif" lang2="- Здравствуйте.">
+      <audioTime in="4132" out="5261" />
+    </line>
+    <line lang1="Io mi chiamo Alis." someNumber="None" image="dg\007_001.gif" lang2="Меня зовут Алис.">
+      <audioTime in="5327" out="6491" />
+    </line>
+    <line lang1="- Lei è francese?" someNumber="None" image="dg\007_002.gif" lang2="- Вы француженка?">
+      <audioTime in="6687" out="8097" />
+    </line>
+    <line lang1="- Si." someNumber="None" image="dg\007_002.gif" lang2="- Да.">
+      <audioTime in="8419" out="8943" />
+    </line>
+    <line lang1="Anche Lei è francese?" someNumber="None" image="dg\007_003.gif" lang2="Вы тоже француз?">
+      <audioTime in="9427" out="11038" />
+    </line>
+    <line lang1="- No." someNumber="None" image="dg\007_003.gif" lang2="- Нет.">
+      <audioTime in="11486" out="12197" />
+    </line>
+    <line lang1="- Di che nazionalità è, Lei?" someNumber="None" image="dg\007_004.gif" lang2="- Кто Вы по национальности?">
+      <audioTime in="12528" out="14341" />
+    </line>
+    <line lang1="- Sono italiano." someNumber="None" image="dg\007_004.gif" lang2="- Я итальянец.">
+      <audioTime in="14744" out="15993" />
+    </line>
+    <line lang1="Lei è un'insegnante?" someNumber="None" image="dg\007_005.gif" lang2="Вы учительница?">
+      <audioTime in="16194" out="17967" />
+    </line>
+    <line lang1="- No." someNumber="None" image="dg\007_005.gif" lang2="- Нет.">
+      <audioTime in="18168" out="18974" />
+    </line>
+    <line lang1="- Che lavoro fa?" someNumber="None" image="dg\007_006.gif" lang2="- Кем Вы работаете?">
+      <audioTime in="19337" out="20666" />
+    </line>
+    <line lang1="- Faccio la dattilografa." someNumber="None" image="dg\007_006.gif" lang2="- Я машинистка.">
+      <audioTime in="20666" out="23060" />
+    </line>
+    <line lang1="Qual è la Sua professione?" someNumber="None" image="dg\007_007.gif" lang2="А какая у Вас профессия?">
+      <audioTime in="23060" out="24955" />
+    </line>
+    <line lang1="- Sono ingegnere." someNumber="None" image="dg\007_007.gif" lang2="- Я инженер.">
+      <audioTime in="24956" out="26536" />
+    </line>
+  </lines>
+</lesson>

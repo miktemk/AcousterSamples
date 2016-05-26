@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="f_025.wav" dic="p025" dlgName="На кухне." dlgFile="exr\fg025.txt" author="Alexander" />
+  <lines>
+    <line lang1="- La cuisine de Mme Arnoix est petite." someNumber="None" image="dg\025_001.gif" lang2="- Кухня г-жи Арнуа маленькая.">
+      <audioTime in="0" out="2067" />
+    </line>
+    <line lang1="- Dans la cuisine il y a un frigidaire." someNumber="810" image="dg\025_002.gif" lang2="- На кухне есть холодильник.">
+      <audioTime in="2067" out="4081" />
+    </line>
+    <line lang1="- Le frigidaire est blanc. Il est à droite." someNumber="810" image="dg\025_002.gif" lang2="- Холодильник белый. Он справа.">
+      <audioTime in="4081" out="8055" />
+    </line>
+    <line lang1="- Dans la cuisine il y a une cuisinière électrique." someNumber="None" image="dg\025_003.gif" lang2="- На кухне есть электрическая плита.">
+      <audioTime in="8055" out="10752" />
+    </line>
+    <line lang1="- La cuisinière est bleue. Elle est à gauche." someNumber="None" image="dg\025_003.gif" lang2="- Плита синяя. Она слева.">
+      <audioTime in="10752" out="14613" />
+    </line>
+    <line lang1="- Au milieu de la chambre il y a une table." someNumber="None" image="dg\025_004.gif" lang2="- Посередине стоит стол.">
+      <audioTime in="14613" out="16526" />
+    </line>
+    <line lang1="- Sur la table il y a une bouteille." someNumber="750" image="dg\025_005.gif" lang2="- На столе бутылка.">
+      <audioTime in="16526" out="18717" />
+    </line>
+    <line lang1="- La bouteille est vide." someNumber="750" image="dg\025_005.gif" lang2="- Бутылка пустая.">
+      <audioTime in="18717" out="20382" />
+    </line>
+    <line lang1="- Sur la table il y a aussi une tasse." someNumber="None" image="dg\025_006.gif" lang2="- На столе также есть чашка.">
+      <audioTime in="20382" out="22600" />
+    </line>
+    <line lang1="- La tasse est propre." someNumber="None" image="dg\025_006.gif" lang2="- Чашка чистая.">
+      <audioTime in="22600" out="24981" />
+    </line>
+  </lines>
+</lesson>

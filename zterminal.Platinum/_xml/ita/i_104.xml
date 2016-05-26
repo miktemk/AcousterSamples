@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_104.wav" dic="p104" dlgName="Смог он?.. Да, смог..." dlgFile="exr\ig103.txt" author="Alexander" />
+  <lines>
+    <line lang1="- È riuscito a rispondere a tutte le domande?" someNumber="None" image="dg\104_001.gif" lang2="- Смог он ответить на все вопросы?">
+      <audioTime in="77" out="2505" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\104_001.gif" lang2="- Да, смог.">
+      <audioTime in="2505" out="3228" />
+    </line>
+    <line lang1="Erano abbastanza facili." someNumber="None" image="dg\104_001.gif" lang2="Они были достаточно лёгкими для ответа.">
+      <audioTime in="3228" out="4989" />
+    </line>
+    <line lang1="- È riuscito a rispondere a tutte le domande?" someNumber="None" image="dg\104_002.gif" lang2="- Смог он ответить на все вопросы?">
+      <audioTime in="5102" out="7530" />
+    </line>
+    <line lang1="- No, non ci è riuscito." someNumber="820" image="dg\104_002.gif" lang2="- Нет, не смог.">
+      <audioTime in="7530" out="9473" />
+    </line>
+    <line lang1="Erano troppo difficili." someNumber="None" image="dg\104_002.gif" lang2="Они были слишком трудными для ответа.">
+      <audioTime in="9586" out="11364" />
+    </line>
+    <line lang1="- Riuscivano a sentire la radio?" someNumber="None" image="dg\104_002.gif" lang2="- Могли ли они услышать радио?">
+      <audioTime in="11442" out="13529" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\104_002.gif" lang2="- Да, могли.">
+      <audioTime in="13529" out="14070" />
+    </line>
+    <line lang1="Il volume era piuttosto alto." someNumber="120" image="dg\104_002.gif" lang2="Оно было достаточно громким для слушания.">
+      <audioTime in="14148" out="16312" />
+    </line>
+    <line lang1="- Riuscivano a sentire la radio?" someNumber="None" image="dg\104_002.gif" lang2="- Могли ли они услышать радио?">
+      <audioTime in="16468" out="18477" />
+    </line>
+    <line lang1="- No, non ci riuscivano." someNumber="None" image="dg\104_002.gif" lang2="- Нет, не могли.">
+      <audioTime in="18477" out="20238" />
+    </line>
+    <line lang1="Il volume era troppo basso." someNumber="None" image="dg\104_002.gif" lang2="Оно было слишком тихим для слушания.">
+      <audioTime in="20238" out="22315" />
+    </line>
+    <line lang1="- È riuscita a mangiare l'arancia?" someNumber="None" image="dg\104_003.gif" lang2="- Могла ли она съесть апельсин?">
+      <audioTime in="22343" out="24431" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\104_003.gif" lang2="- Да, могла.">
+      <audioTime in="24431" out="25126" />
+    </line>
+    <line lang1="Era abbastanza dolce." someNumber="None" image="dg\104_003.gif" lang2="Он был достаточно сладким для еды.">
+      <audioTime in="25126" out="26905" />
+    </line>
+    <line lang1="- È riuscita a mangiare l'arancia?" someNumber="None" image="dg\104_004.gif" lang2="- Могла ли она съесть апельсин?">
+      <audioTime in="26905" out="29024" />
+    </line>
+    <line lang1="- No, non ci è riuscita." someNumber="None" image="dg\104_004.gif" lang2="- Нет, не могла.">
+      <audioTime in="29024" out="30695" />
+    </line>
+    <line lang1="Era troppo acerba." someNumber="None" image="dg\104_004.gif" lang2="Он был слишком кислым для еды.">
+      <audioTime in="30695" out="32230" />
+    </line>
+    <line lang1="- Poteva comprare la macchina?" someNumber="None" image="dg\104_005.gif" lang2="- Мог ли он купить автомашину?">
+      <audioTime in="32230" out="34172" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\104_005.gif" lang2="- Да, мог.">
+      <audioTime in="34172" out="34805" />
+    </line>
+    <line lang1="Era piuttosto a buon mercato." someNumber="None" image="dg\104_005.gif" lang2="Она была достаточно дешёвая для покупки.">
+      <audioTime in="34791" out="36879" />
+    </line>
+    <line lang1="- Poteva comprare la macchina?" someNumber="None" image="dg\104_006.gif" lang2="- Мог ли он купить автомашину?">
+      <audioTime in="37004" out="38799" />
+    </line>
+    <line lang1="- No, non poteva." someNumber="None" image="dg\104_006.gif" lang2="- Нет, не мог.">
+      <audioTime in="38799" out="40199" />
+    </line>
+    <line lang1="Era troppa cara." someNumber="None" image="dg\104_006.gif" lang2="Она была слишком дорогая для покупки.">
+      <audioTime in="40228" out="41655" />
+    </line>
+    <line lang1="- Poteva scavalcare il muro?" someNumber="None" image="dg\104_007.gif" lang2="- Мог ли он перелезть через стену?">
+      <audioTime in="41655" out="43574" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\104_007.gif" lang2="- Да, мог.">
+      <audioTime in="43615" out="44105" />
+    </line>
+    <line lang1="Era un muro piuttosto basso." someNumber="None" image="dg\104_007.gif" lang2="Она была достаточно низкая для того, чтобы перелезть.">
+      <audioTime in="44105" out="46145" />
+    </line>
+    <line lang1="- Poteva scavalcare il muro?" someNumber="None" image="dg\104_008.gif" lang2="- Мог ли он перелезть через стену?">
+      <audioTime in="46267" out="48063" />
+    </line>
+    <line lang1="- No, non poteva." someNumber="None" image="dg\104_008.gif" lang2="- Нет, не мог.">
+      <audioTime in="48092" out="49503" />
+    </line>
+    <line lang1="Il muro era troppo alto." someNumber="None" image="dg\104_008.gif" lang2="Она была слишком высокая для того, чтобы перелезть.">
+      <audioTime in="49503" out="51284" />
+    </line>
+  </lines>
+</lesson>

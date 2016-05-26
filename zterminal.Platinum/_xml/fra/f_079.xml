@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_079.wav" dic="p079" dlgName="Нам нужно... У нас нет..." dlgFile="exr\fg079.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Que fais-tu, Nicole?" someNumber="70" image="dg\079_001.gif" lang2="- Что ты делаешь, Николь?">
+      <audioTime in="0" out="1712" />
+    </line>
+    <line lang1="- J'écris la liste pour aller au magasin, Réné." someNumber="70" image="dg\079_001.gif" lang2="- Я пишу список, чтобы пойти в магазин, Рене.">
+      <audioTime in="1712" out="4052" />
+    </line>
+    <line lang1="- De quoi avons-nous besoin?" someNumber="None" image="dg\079_001.gif" lang2="- Что нам нужно?">
+      <audioTime in="4052" out="6252" />
+    </line>
+    <line lang1="- Nous avons besoin de beaucoup de choses cette semaine." someNumber="None" image="dg\079_001.gif" lang2="- Нам нужно много вещей на этой неделе.">
+      <audioTime in="6252" out="8802" />
+    </line>
+    <line lang1="Nous devons aller à l'épicerie." someNumber="None" image="dg\079_002.gif" lang2="Мы должны пойти в бакалею.">
+      <audioTime in="8802" out="10684" />
+    </line>
+    <line lang1="Nous n'avons pas assez de thé et de café, nous n'avons pas non plus de sucre ni de confiture." someNumber="810" image="dg\079_003.gif" lang2="У нас нет достаточно чая и кофе, и у нас нет сахара и джема.">
+      <audioTime in="10684" out="15822" />
+    </line>
+    <line lang1="- Et pour les légumes?" someNumber="None" image="dg\079_004.gif" lang2="- А как насчёт овощей?">
+      <audioTime in="15822" out="17950" />
+    </line>
+    <line lang1="- Je doit aller au magasin." someNumber="None" image="dg\079_004.gif" lang2="- Я должна зайти в магазин.">
+      <audioTime in="17950" out="19409" />
+    </line>
+    <line lang1="Nous n'avons pas assez de tomates, mais nous avons beaucoup de pommes de terre." someNumber="None" image="dg\079_004.gif" lang2="У нас недостаточно помидоров, но у нас много картофеля.">
+      <audioTime in="19409" out="22996" />
+    </line>
+    <line lang1="Je dois aller chez le boucher. Nous avons besoin de viande." someNumber="90" image="dg\079_005.gif" lang2="Я должна также пойти к мяснику. Нам нужно мясо.">
+      <audioTime in="22996" out="26196" />
+    </line>
+    <line lang1="Nous n'en avons pas." someNumber="None" image="dg\079_005.gif" lang2="У нас его нет.">
+      <audioTime in="26196" out="27614" />
+    </line>
+    <line lang1="- Avons-nous de la bière ou du vin?" someNumber="None" image="dg\079_006.gif" lang2="- У нас есть пиво или вино?">
+      <audioTime in="27614" out="29651" />
+    </line>
+    <line lang1="- Non, nous n'en avons pas. Je n'ai pas envie d'en acheter." someNumber="None" image="dg\079_006.gif" lang2="- Нет, у нас этого нет. И я не собираюсь ничего из этого покупать!">
+      <audioTime in="29651" out="33129" />
+    </line>
+    <line lang1="- J'espère que tu as un peu d'argent." someNumber="780" image="dg\079_006.gif" lang2="- Я надеюсь, что у тебя есть немного денег.">
+      <audioTime in="33129" out="34934" />
+    </line>
+    <line lang1="- Pas beaucoup." someNumber="None" image="dg\079_006.gif" lang2="- Немного.">
+      <audioTime in="34934" out="35733" />
+    </line>
+    <line lang1="- Moi non plus, je n'en ai pas." someNumber="None" image="dg\079_006.gif" lang2="- У меня (ведь) тоже их нет!">
+      <audioTime in="35733" out="37150" />
+    </line>
+  </lines>
+</lesson>

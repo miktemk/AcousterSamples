@@ -1,0 +1,2 @@
+SRC_ROOT = C:\WS\_archeologicals\jap\Dialogs\dg
+DEST_ROOT = ../../zterminal.Platinum.jap/assets/xml

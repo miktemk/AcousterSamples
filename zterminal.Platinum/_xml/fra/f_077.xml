@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="f_077.wav" dic="p077" dlgName="Зубная боль." dlgFile="exr\fg077.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Bonjour, monsieur Courbet." someNumber="700" image="dg\077_001.gif" lang2="- Здравствуйте, господин Курбе.">
+      <audioTime in="0" out="1443" />
+    </line>
+    <line lang1="- Bonjour. Je voudrais consulter le dentiste." someNumber="700" image="dg\077_001.gif" lang2="- Здравствуйте. Я хочу проконсультироваться (полечиться) у зубного врача.">
+      <audioTime in="1443" out="4052" />
+    </line>
+    <line lang1="- Votre rencontre... est-elle fixée?" someNumber="None" image="dg\077_001.gif" lang2="- Ваша встреча... назначена?">
+      <audioTime in="4052" out="5973" />
+    </line>
+    <line lang1="- Non." someNumber="None" image="dg\077_001.gif" lang2="- Нет.">
+      <audioTime in="5973" out="6555" />
+    </line>
+    <line lang1="- Vous avez besoin du dentiste?" someNumber="70" image="dg\077_001.gif" lang2="- Вам нужен зубной врач?">
+      <audioTime in="6555" out="7795" />
+    </line>
+    <line lang1="- Absolument. J'ai besoin d'une consultation." someNumber="70" image="dg\077_001.gif" lang2="- Да, очень. Мне необходима консультация.">
+      <audioTime in="7795" out="9606" />
+    </line>
+    <line lang1="Je souffre tellement. J'ai un mal de dent horrible." someNumber="None" image="dg\077_001.gif" lang2="Я страдаю так сильно. У меня ужасная зубная боль.">
+      <audioTime in="9606" out="12072" />
+    </line>
+    <line lang1="- Pouvez-vous venir lundi le 25 avril à 10 heures du matin?" someNumber="None" image="dg\077_001.gif" lang2="- Можете ли вы прийти в понедельник 25 апреля в 10 утра?">
+      <audioTime in="12072" out="15815" />
+    </line>
+    <line lang1="- J'ai besoin d'une consultation maintenant." someNumber="780" image="dg\077_001.gif" lang2="- Мне необходима консультация сейчас.">
+      <audioTime in="15815" out="18007" />
+    </line>
+    <line lang1="- Mais en ce moment le dentiste est occupé. Au moins pouvez-vous venir à 2 heures de l'après-midi?" someNumber="None" image="dg\077_001.gif" lang2="- Но в данный момент дантист очень занят. Можете ли вы прийти хотя бы в 2 часа пополудни?">
+      <audioTime in="18007" out="22757" />
+    </line>
+    <line lang1="- C'est trop tard. Puis-je consulter le dentiste maintenant?" someNumber="None" image="dg\077_001.gif" lang2="- Это слишком поздно. Нельзя ли проконсультироваться с зубным врачом сейчас?">
+      <audioTime in="22757" out="25957" />
+    </line>
+    <line lang1="- Je regrette, mais il me semble que ce n'est pas possible. Pouvez-vous attendre jusqu'à midi?" someNumber="None" image="dg\077_001.gif" lang2="- Я сожалею, но мне кажется, что это невозможно. Можете ли вы подождать до полудня?">
+      <audioTime in="25957" out="30551" />
+    </line>
+    <line lang1="- Moi, je peux attendre, mais pas ma dent." someNumber="460" image="dg\077_001.gif" lang2="- Я-то могу подождать, но мой зуб - нет.">
+      <audioTime in="30551" out="32512" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="d_101.wav" dic="p101" dlgName="Что ещё он говорит?" dlgFile="exr\dg101.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #1Lies mir, bitte, Karls Postkarte #2vor, Inge!" someNumber="630" image="dg\101_001.gif" lang2="- Прочти мне открытку Карла, пожалуйста, Инга!">
+      <audioTime in="505" out="4466" />
+    </line>
+    <line lang1="- &quot;Ich #bin eben in Schottland #angekommen," someNumber="580" image="dg\101_001.gif" lang2="- &quot;Я только что приехал в Шотландию,">
+      <audioTime in="4972" out="7331" />
+    </line>
+    <line lang1="und #bin in &quot;Youth Hostel&quot; #abgestiegen.&quot;" someNumber="580" image="dg\101_001.gif" lang2="и я остановился в &quot;Ют Хостел&quot;.">
+      <audioTime in="7331" out="9994" />
+    </line>
+    <line lang1="- Ja?" someNumber="980" image="dg\101_001.gif" lang2="- Да?">
+      <audioTime in="10112" out="10869" />
+    </line>
+    <line lang1="- Er #schreibt, dass er eben in Schottland #angekommen #ist." someNumber="980" image="dg\101_001.gif" lang2="- Он пишет, что он только что прибыл в Шотландию.">
+      <audioTime in="10869" out="14072" />
+    </line>
+    <line lang1="Er #schreibt, dass er im &quot;Youth Hostel&quot; #abgestiegen #ist." someNumber="None" image="dg\101_001.gif" lang2="Он пишет, что остановился в &quot;Ют Хостел&quot;.">
+      <audioTime in="14493" out="17695" />
+    </line>
+    <line lang1="#Wissen Sie, dass er Mitglied im Internationalen Jugendherbergswerk #ist." someNumber="None" image="dg\101_001.gif" lang2="Вы знаете, что он член Интернациональной Ассоциации Турбаз для молодежи.">
+      <audioTime in="18369" out="23173" />
+    </line>
+    <line lang1="- Was?" someNumber="None" image="dg\101_001.gif" lang2="- Что?">
+      <audioTime in="23173" out="24301" />
+    </line>
+    <line lang1="- Internationales Jugendherbergswerk." someNumber="None" image="dg\101_001.gif" lang2="- Интернациональная Ассоциация Турбаз для молодежи.">
+      <audioTime in="24521" out="28144" />
+    </line>
+    <line lang1="- Was #schreibt er noch?" someNumber="960" image="dg\101_001.gif" lang2="- Что ещё он пишет?">
+      <audioTime in="28482" out="29661" />
+    </line>
+    <line lang1="- &quot;Ich #schreibe bald einen Brief." someNumber="960" image="dg\101_001.gif" lang2="- &quot;Я скоро напишу письмо.">
+      <audioTime in="30166" out="32105" />
+    </line>
+    <line lang1="Ich #hoffe, ihr #seid alle in Ordnung.&quot;" someNumber="960" image="dg\101_001.gif" lang2="Я надеюсь, у вас всё в порядке.&quot;">
+      <audioTime in="32105" out="34296" />
+    </line>
+    <line lang1="- Was?" someNumber="630" image="dg\101_001.gif" lang2="- Что?">
+      <audioTime in="34549" out="35054" />
+    </line>
+    <line lang1="#Sprich laut, Inge." someNumber="630" image="dg\101_001.gif" lang2="Говори громко, Инга.">
+      <audioTime in="35054" out="36656" />
+    </line>
+    <line lang1="Ich #habe Angst, dass ich dich nicht ganz gut #höre." someNumber="None" image="dg\101_001.gif" lang2="Я боюсь, что я не очень хорошо слышу тебя.">
+      <audioTime in="36739" out="39857" />
+    </line>
+    <line lang1="- Er #schreibt, dass er bald einen Brief #schreibt." someNumber="None" image="dg\101_001.gif" lang2="- Он говорит, что скоро он письмо напишет.">
+      <audioTime in="40194" out="43059" />
+    </line>
+    <line lang1="Er #hofft, dass bei uns alles in Ordnung #ist." someNumber="None" image="dg\101_001.gif" lang2="Он надеется, что у нас всё в порядке.">
+      <audioTime in="43397" out="46683" />
+    </line>
+    <line lang1="&quot;Ich #liebe dich, Karl.&quot;" someNumber="None" image="dg\101_001.gif" lang2="&quot;Я люблю тебя, Карл.&quot;">
+      <audioTime in="46767" out="48705" />
+    </line>
+    <line lang1="- #Ist das alles?" someNumber="None" image="dg\101_001.gif" lang2="- Это всё?">
+      <audioTime in="49211" out="50306" />
+    </line>
+    <line lang1="Er #schreibt nicht viel, #stimmt das?" someNumber="None" image="dg\101_001.gif" lang2="Он пишет немного, не так ли?">
+      <audioTime in="50306" out="52413" />
+    </line>
+    <line lang1="- Er #kann nicht sehr viel auf einer Postkarte #schreiben, Mutter." someNumber="900" image="dg\101_001.gif" lang2="- Он не может очень много написать на одной открытке, мама.">
+      <audioTime in="52413" out="55531" />
+    </line>
+  </lines>
+</lesson>

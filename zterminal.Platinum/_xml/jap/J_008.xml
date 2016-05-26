@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="j_008.wav" dlgName="В школе" dic="p008" />
+  <lines>
+    <line lang1="ーちず*は*どこ*です*か。" someNumber="54" image="008_001.jpg" lang2="- Где карта?">
+      <audioTime in="0" out="2676" />
+    </line>
+    <line lang1="ーあそこ*です。" someNumber="53" image="008_002.jpg" lang2="- Вон там.">
+      <audioTime in="2676" out="5654" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="008_003.jpg" lang2="- Так.">
+      <audioTime in="5654" out="6738" />
+    </line>
+    <line lang1="とうきょう*は*どこ*です*か。" someNumber="167" image="008_004.jpg" lang2="Где находится Токио?">
+      <audioTime in="6738" out="9776" />
+    </line>
+    <line lang1="ーここ*です。" someNumber="None" image="008_005.jpg" lang2="- Здесь.">
+      <audioTime in="9776" out="12218" />
+    </line>
+    <line lang1="ーでは、きょうと*は*どこ*です*か。" someNumber="54" image="008_006.jpg" lang2="- Ну а где находится Киото?">
+      <audioTime in="12218" out="15833" />
+    </line>
+    <line lang1="ーきょうと*は*ここ*です。" someNumber="53" image="008_007.jpg" lang2="- Киото находится здесь.">
+      <audioTime in="15833" out="18886" />
+    </line>
+    <line lang1="ーおおさか*は*どこ*です*か。" someNumber="None" image="008_008.jpg" lang2="- Где находится Осака?">
+      <audioTime in="18886" out="21925" />
+    </line>
+    <line lang1="ーおおさか*は*ここ*です。" someNumber="None" image="008_009.jpg" lang2="- Осака находится вот здесь.">
+      <audioTime in="21925" out="25393" />
+    </line>
+    <line lang1="ー日本*の*ひがし*は*なん*です*か。" someNumber="None" image="008_010.jpg" lang2="- Что находится на востоке Японии?">
+      <audioTime in="25393" out="29631" />
+    </line>
+    <line lang1="ーたいへいよう*です。" someNumber="167" image="008_011.jpg" lang2="- Тихий океан.">
+      <audioTime in="29631" out="32590" />
+    </line>
+    <line lang1="ー日本*の*にし*は*なん*です*か。" someNumber="None" image="008_012.jpg" lang2="- Что находится на западе Японии?">
+      <audioTime in="32590" out="36373" />
+    </line>
+    <line lang1="ーにほんかい*です。" someNumber="167" image="008_013.jpg" lang2="- Японское море.">
+      <audioTime in="36373" out="38782" />
+    </line>
+    <line lang1="―日本*の*おおきい*しま*の*なまえ*は*なん*です*か。" someNumber="None" image="008_014.jpg" lang2="- Как называются крупнейшие японские острова?">
+      <audioTime in="38782" out="44241" />
+    </line>
+    <line lang1="ーほっかいどう、" someNumber="None" image="008_015.jpg" lang2="- Хоккайдо,">
+      <audioTime in="44241" out="46976" />
+    </line>
+    <line lang1="ほんしゅう、" someNumber="None" image="008_016.jpg" lang2="Хонсю,">
+      <audioTime in="46976" out="48894" />
+    </line>
+    <line lang1="しこく、" someNumber="None" image="008_017.jpg" lang2="Сикоку,">
+      <audioTime in="48894" out="50434" />
+    </line>
+    <line lang1="きゅうしゅう*です。" someNumber="None" image="008_018.jpg" lang2="Кюсю.">
+      <audioTime in="50434" out="52039" />
+    </line>
+    <line lang1="ーここ*は*きょうしつ*です。" someNumber="None" image="008_019.jpg" lang2="- Здесь - классная комната.">
+      <audioTime in="52039" out="55756" />
+    </line>
+    <line lang1="一年生*の*きょうしつ*です。" someNumber="None" image="008_020.jpg" lang2="Классная комната первоклассников.">
+      <audioTime in="55756" out="58830" />
+    </line>
+    <line lang1="そこ*も*きょうしつ*です。" someNumber="53" image="008_021.jpg" lang2="Там тоже классные комнаты.">
+      <audioTime in="58830" out="62582" />
+    </line>
+    <line lang1="二年生*と*三年生*の*きょうしつ*です。" someNumber="None" image="008_022.jpg" lang2="Классные комнаты второклассников и третьеклассников.">
+      <audioTime in="62582" out="67752" />
+    </line>
+    <line lang1="ーあの*へや*も*きょうしつ*です*か。" someNumber="None" image="008_023.jpg" lang2="- Вон та комната - тоже классная?">
+      <audioTime in="67752" out="72578" />
+    </line>
+    <line lang1="ーあそこ*は*きょうしつ*ではありません、としょしつ*です。" someNumber="174" image="008_024.jpg" lang2="- Там не классная комната, а библиотека.">
+      <audioTime in="72578" out="78156" />
+    </line>
+    <line lang1="―しょくどう*は*どこ*です*か。" someNumber="None" image="008_025.jpg" lang2="- А где столовая?">
+      <audioTime in="78156" out="82041" />
+    </line>
+    <line lang1="ーしょくどう*は*ここ*です。" someNumber="None" image="008_026.jpg" lang2="- Столовая вот здесь.">
+      <audioTime in="82041" out="84853" />
+    </line>
+    <line lang1="ートイレ*は*どこ*です*か。" someNumber="166" image="008_027.jpg" lang2="- А где туалет?">
+      <audioTime in="84853" out="88398" />
+    </line>
+    <line lang1="ートイレ*は*あそこ*です。" someNumber="None" image="008_028.jpg" lang2="- Туалет - вон там.">
+      <audioTime in="88398" out="91193" />
+    </line>
+    <line lang1="ロッカー*の*先*です。" someNumber="None" image="008_029.jpg" lang2="Дальше ящиков для обуви.">
+      <audioTime in="91193" out="93775" />
+    </line>
+    <line lang1="ーここ*は*なん*です*か。" someNumber="None" image="008_030.jpg" lang2="- Что находится тут?">
+      <audioTime in="93775" out="97572" />
+    </line>
+    <line lang1="ーがっこう*の*にわ*です。" someNumber="03" image="008_031.jpg" lang2="- Школьный сад.">
+      <audioTime in="97572" out="100839" />
+    </line>
+    <line lang1="ーひろい*です*ね。" someNumber="None" image="008_031.jpg" lang2="- Какой просторный!">
+      <audioTime in="100839" out="102158" />
+    </line>
+  </lines>
+</lesson>

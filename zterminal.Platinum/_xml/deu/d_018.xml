@@ -1,0 +1,125 @@
+<lesson>
+  <header wav="d_018.wav" dic="p018" dlgName="Кто они по профессии?" dlgFile="exr\dg017.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Was #sind sie von Beruf?" someNumber="90" image="dg\018_001.gif" lang2="- Кто они по профессии?">
+      <audioTime in="0" out="1871" />
+    </line>
+    <line lang1="#Sind sie Mechaniker?" someNumber="90" image="dg\018_001.gif" lang2="Они механики?">
+      <audioTime in="2104" out="3859" />
+    </line>
+    <line lang1="- Sie #sind keine Mechaniker." someNumber="None" image="dg\018_001.gif" lang2="- Они не механики.">
+      <audioTime in="3976" out="5964" />
+    </line>
+    <line lang1="Sie #sind Schriftführer." someNumber="None" image="dg\018_001.gif" lang2="Они клерки.">
+      <audioTime in="6081" out="7952" />
+    </line>
+    <line lang1="- Was #sind sie von Beruf?" someNumber="None" image="dg\018_002.gif" lang2="- Кто они по профессии?">
+      <audioTime in="8186" out="10057" />
+    </line>
+    <line lang1="#Sind sie Schreibkräfte?" someNumber="None" image="dg\018_002.gif" lang2="Они машинистки?">
+      <audioTime in="10057" out="11929" />
+    </line>
+    <line lang1="- Sie #sind keine Schreibkräfte." someNumber="210" image="dg\018_002.gif" lang2="- Они не машинистки.">
+      <audioTime in="12163" out="14033" />
+    </line>
+    <line lang1="Sie #sind Kinderfrauen." someNumber="210" image="dg\018_002.gif" lang2="Они няни.">
+      <audioTime in="14033" out="15614" />
+    </line>
+    <line lang1="- Was #sind sie von Beruf?" someNumber="None" image="dg\018_003.gif" lang2="- Кто они по профессии?">
+      <audioTime in="15905" out="17659" />
+    </line>
+    <line lang1="#Sind sie Briefträger?" someNumber="None" image="dg\018_003.gif" lang2="Они почтальоны?">
+      <audioTime in="17776" out="19414" />
+    </line>
+    <line lang1="- Sie #sind keine Briefträger." someNumber="380" image="dg\018_003.gif" lang2="- Они не почтальоны.">
+      <audioTime in="19764" out="22104" />
+    </line>
+    <line lang1="Sie #sind Milchhändler." someNumber="380" image="dg\018_003.gif" lang2="Они продавцы молока.">
+      <audioTime in="22104" out="23729" />
+    </line>
+    <line lang1="- Was #sind sie von Beruf?" someNumber="400" image="dg\018_004.gif" lang2="- Кто они по профессии?">
+      <audioTime in="23741" out="25495" />
+    </line>
+    <line lang1="#Sind sie Polizistinnen?" someNumber="400" image="dg\018_004.gif" lang2="Они полицейские?">
+      <audioTime in="25963" out="27951" />
+    </line>
+    <line lang1="- Sie #sind keine Polizistinnen." someNumber="210" image="dg\018_004.gif" lang2="- Они не полицейские.">
+      <audioTime in="28185" out="30290" />
+    </line>
+    <line lang1="Sie #sind Stewardessen." someNumber="210" image="dg\018_004.gif" lang2="Они стюардессы.">
+      <audioTime in="30407" out="32278" />
+    </line>
+    <line lang1="- Was #sind sie?" someNumber="None" image="dg\018_005.gif" lang2="- Кто они?">
+      <audioTime in="32278" out="33136" />
+    </line>
+    <line lang1="#Sind sie Zollbeamte?" someNumber="None" image="dg\018_005.gif" lang2="Они таможенники?">
+      <audioTime in="33136" out="34491" />
+    </line>
+    <line lang1="- Sie #sind keine Zollbeamten." someNumber="None" image="dg\018_005.gif" lang2="- Они не таможенники.">
+      <audioTime in="34734" out="36372" />
+    </line>
+    <line lang1="Sie #sind Ingenieure." someNumber="None" image="dg\018_005.gif" lang2="Они инженеры.">
+      <audioTime in="36488" out="38009" />
+    </line>
+    <line lang1="- Was #sind sie von Beruf?" someNumber="330" image="dg\018_006.gif" lang2="- Кто они по профессии?">
+      <audioTime in="38242" out="39763" />
+    </line>
+    <line lang1="#Sind sie Friseure?" someNumber="330" image="dg\018_006.gif" lang2="Они парикмахеры?">
+      <audioTime in="39880" out="41401" />
+    </line>
+    <line lang1="- Sie #sind keine Friseure." someNumber="None" image="dg\018_006.gif" lang2="- Они не парикмахеры.">
+      <audioTime in="41517" out="43140" />
+    </line>
+    <line lang1="Sie #sind Taxifahrer." someNumber="None" image="dg\018_006.gif" lang2="Они водители такси.">
+      <audioTime in="43140" out="44630" />
+    </line>
+    <line lang1="- Was #sind sie von Beruf?" someNumber="400" image="dg\018_007.gif" lang2="- Кто они по профессии?">
+      <audioTime in="45026" out="46663" />
+    </line>
+    <line lang1="#Sind sie Ingenieure?" someNumber="400" image="dg\018_007.gif" lang2="Они инженеры?">
+      <audioTime in="46663" out="47928" />
+    </line>
+    <line lang1="- Sie #sind keine Ingenieure." someNumber="None" image="dg\018_007.gif" lang2="- Они не инженеры.">
+      <audioTime in="48301" out="50523" />
+    </line>
+    <line lang1="Sie #sind Lehrer." someNumber="None" image="dg\018_007.gif" lang2="Они учителя.">
+      <audioTime in="50523" out="51651" />
+    </line>
+    <line lang1="- Was #sind sie von Beruf?" someNumber="510" image="dg\018_008.gif" lang2="- Кто они по профессии?">
+      <audioTime in="52510" out="54500" />
+    </line>
+    <line lang1="#Sind sie Polizistinnen?" someNumber="510" image="dg\018_008.gif" lang2="Они полицейские?">
+      <audioTime in="54733" out="56838" />
+    </line>
+    <line lang1="- Sie #sind keine Polizistinnen." someNumber="190" image="dg\018_008.gif" lang2="- Они не полицейские.">
+      <audioTime in="57072" out="59411" />
+    </line>
+    <line lang1="Sie #sind Hausfrauen." someNumber="190" image="dg\018_008.gif" lang2="Они домашние хозяйки.">
+      <audioTime in="59411" out="61488" />
+    </line>
+    <line lang1="- Was #sind sie von Beruf?" someNumber="None" image="dg\018_009.gif" lang2="- Кто они по профессии?">
+      <audioTime in="61985" out="63505" />
+    </line>
+    <line lang1="#Sind sie Milchhändler?" someNumber="None" image="dg\018_009.gif" lang2="Они продавцы молока?">
+      <audioTime in="63505" out="64859" />
+    </line>
+    <line lang1="- Sie #sind keine Milchhändler." someNumber="380" image="dg\018_009.gif" lang2="- Они не продавцы молока.">
+      <audioTime in="65142" out="67039" />
+    </line>
+    <line lang1="Sie #sind Friseure." someNumber="380" image="dg\018_009.gif" lang2="Они парикмахеры.">
+      <audioTime in="67040" out="68620" />
+    </line>
+    <line lang1="- Was #sind sie von Beruf?" someNumber="None" image="dg\018_010.gif" lang2="- Кто они по профессии?">
+      <audioTime in="69002" out="70756" />
+    </line>
+    <line lang1="#Sind sie Krankenschwestern?" someNumber="None" image="dg\018_010.gif" lang2="Они медсёстры?">
+      <audioTime in="70872" out="72860" />
+    </line>
+    <line lang1="- Sie #sind keine Krankenschwestern." someNumber="190" image="dg\018_010.gif" lang2="- Они не медсёстры.">
+      <audioTime in="73328" out="75667" />
+    </line>
+    <line lang1="Sie #sind Schreibkräfte." someNumber="190" image="dg\018_010.gif" lang2="Они машинистки.">
+      <audioTime in="75667" out="77293" />
+    </line>
+  </lines>
+</lesson>

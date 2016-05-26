@@ -1,0 +1,26 @@
+<lesson>
+  <header wav="f_033.wav" dic="p033" dlgName="Сегодня хорошая погода." dlgFile="exr\fg033.txt" author="Alexander" />
+  <lines>
+    <line lang1="Il fait beau aujourd'hui. Il y a quelques nuages dans le ciel, mais le soleil brille." someNumber="None" image="dg\033_001.gif" lang2="Сегодня хорошая погода. На небе есть несколько облачков, но солнце сияет.">
+      <audioTime in="0" out="4434" />
+    </line>
+    <line lang1="Monsieur Dubois est avec sa famille. Ils se promènent à pied sur le pont." someNumber="None" image="dg\033_002.gif" lang2="Г-н Дюбуа со своей семьёй. Они прогуливаются пешком по мосту.">
+      <audioTime in="4434" out="8584" />
+    </line>
+    <line lang1="Sur la rivière il y a quelques bateaux. Monsieur Dubois et sa femme les regardent." someNumber="750" image="dg\033_003.gif" lang2="На реке есть несколько лодок. Г-н Дюбуа и его жена смотрят на них.">
+      <audioTime in="8584" out="13018" />
+    </line>
+    <line lang1="Lucie regarde un grand bateau." someNumber="None" image="dg\033_004.gif" lang2="Люси смотрит на большой корабль.">
+      <audioTime in="13018" out="14888" />
+    </line>
+    <line lang1="Le bateau passe sous le pont." someNumber="610" image="dg\033_005.gif" lang2="Корабль проходит под мостом.">
+      <audioTime in="14888" out="16473" />
+    </line>
+    <line lang1="Pierre regarde un aéroplane." someNumber="60" image="dg\033_006.gif" lang2="Пьер смотрит на аэроплан.">
+      <audioTime in="16473" out="18485" />
+    </line>
+    <line lang1="L'aéroplane passe au-dessus de la rivière." someNumber="None" image="dg\033_007.gif" lang2="Аэроплан пролетает над рекой.">
+      <audioTime in="18485" out="20782" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="d_109.wav" dic="p109" dlgName="Хочешь кофе?" dlgFile="exr\dg109.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Soll ich etwas Kaffee #machen, Jutta?" someNumber="680" image="dg\109_001.gif" lang2="- Я сделаю немного кофе, Ютта?">
+      <audioTime in="738" out="2889" />
+    </line>
+    <line lang1="- Das #ist eine gute Idee, Renate." someNumber="680" image="dg\109_001.gif" lang2="- Это прекрасная идея, Рената.">
+      <audioTime in="3091" out="5442" />
+    </line>
+    <line lang1="- Er #ist fertig." someNumber="None" image="dg\109_001.gif" lang2="- Он готов.">
+      <audioTime in="5644" out="6988" />
+    </line>
+    <line lang1="#Möchtest du etwas Milch?" someNumber="None" image="dg\109_002.gif" lang2="Хочешь немного молока?">
+      <audioTime in="7122" out="8534" />
+    </line>
+    <line lang1="- Nur ein klein wenig, bitte." someNumber="None" image="dg\109_002.gif" lang2="- Только совсем немного, пожалуйста.">
+      <audioTime in="9071" out="10684" />
+    </line>
+    <line lang1="- Und etwas Zucker?" someNumber="420" image="dg\109_003.gif" lang2="- А немного сахара?">
+      <audioTime in="11289" out="12968" />
+    </line>
+    <line lang1="Zwei volle Teelöffel?" someNumber="420" image="dg\109_003.gif" lang2="Две полные чайные ложки?">
+      <audioTime in="12968" out="14715" />
+    </line>
+    <line lang1="- Nein, etwas weniger als das." someNumber="None" image="dg\109_003.gif" lang2="- Нет, поменьше чем это.">
+      <audioTime in="15052" out="17470" />
+    </line>
+    <line lang1="Anderthalb Teelöffel, bitte." someNumber="None" image="dg\109_003.gif" lang2="Полторы чайной ложки, пожалуйста.">
+      <audioTime in="17538" out="19420" />
+    </line>
+    <line lang1="Mir #ist es genug." someNumber="None" image="dg\109_003.gif" lang2="Это достаточно для меня.">
+      <audioTime in="19420" out="20549" />
+    </line>
+    <line lang1="- Es #hat gut #geschmeckt." someNumber="360" image="dg\109_004.gif" lang2="- Было очень вкусно.">
+      <audioTime in="21368" out="22712" />
+    </line>
+    <line lang1="- #Möchtest du noch etwas?" someNumber="None" image="dg\109_004.gif" lang2="- Хочешь ещё немного?">
+      <audioTime in="22779" out="24257" />
+    </line>
+    <line lang1="- Ja, bitte." someNumber="None" image="dg\109_004.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="24257" out="25386" />
+    </line>
+    <line lang1="- Ich #möchte auch eine Zigarette." someNumber="640" image="dg\109_005.gif" lang2="- Я бы хотела сигарету тоже.">
+      <audioTime in="25467" out="27617" />
+    </line>
+    <line lang1="#Darf ich eine #nehmen?" someNumber="640" image="dg\109_005.gif" lang2="Можно взять одну?">
+      <audioTime in="27617" out="28882" />
+    </line>
+    <line lang1="- Aber gewiss." someNumber="None" image="dg\109_005.gif" lang2="- Ну, конечно.">
+      <audioTime in="29835" out="31044" />
+    </line>
+    <line lang1="Ich #glaube, es #gibt einige in jener Schachtel." someNumber="None" image="dg\109_005.gif" lang2="Я думаю, в той коробке есть несколько штук.">
+      <audioTime in="31044" out="33732" />
+    </line>
+    <line lang1="- Ich #glaube, sie #ist leer." someNumber="None" image="dg\109_006.gif" lang2="- Я боюсь, она пустая.">
+      <audioTime in="34136" out="36286" />
+    </line>
+    <line lang1="- Wie schade." someNumber="None" image="dg\109_006.gif" lang2="- Какая жалость.">
+      <audioTime in="36286" out="37414" />
+    </line>
+    <line lang1="- Das #macht nichts." someNumber="None" image="dg\109_006.gif" lang2="- Ничего.">
+      <audioTime in="37415" out="38318" />
+    </line>
+    <line lang1="- Dann #nimm etwas Gebäck." someNumber="630" image="dg\109_007.gif" lang2="- Тогда возьми немного печенья.">
+      <audioTime in="38318" out="39718" />
+    </line>
+    <line lang1="#Iss mehr und rauche weniger." someNumber="630" image="dg\109_007.gif" lang2="Ешь больше и кури меньше.">
+      <audioTime in="39982" out="41930" />
+    </line>
+    <line lang1="- Das #ist ein guter Rat." someNumber="290" image="dg\109_007.gif" lang2="- Это хороший совет.">
+      <audioTime in="42131" out="44215" />
+    </line>
+  </lines>
+</lesson>

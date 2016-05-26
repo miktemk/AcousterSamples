@@ -1,0 +1,86 @@
+<lesson>
+  <header wav="J_044.wav" dlgName="Вы умеете плавать?" dic="p044" />
+  <lines>
+    <line lang1="ー明子*さん、おんがく*が*好き*です*か。" someNumber="02" image="044_001.jpg" lang2="- Акико, Вы любите музыку?">
+      <audioTime in="0" out="3592" />
+    </line>
+    <line lang1="ー大好き*です。" someNumber="None" image="044_001.jpg" lang2="- Очень люблю.">
+      <audioTime in="3592" out="5606" />
+    </line>
+    <line lang1="よく*コンサート*に*行きます。" someNumber="None" image="044_003.jpg" lang2="Часто хожу на концерты.">
+      <audioTime in="5606" out="10133" />
+    </line>
+    <line lang1="ピアノ*を*ひく*こと*が*好き*です。" someNumber="107" image="044_004.jpg" lang2="Люблю играть на пианино.">
+      <audioTime in="10133" out="13187" />
+    </line>
+    <line lang1="チン*さん*は。" someNumber="None" image="044_005.jpg" lang2="А Вы, Тин-сан?">
+      <audioTime in="13187" out="15328" />
+    </line>
+    <line lang1="ーおんがく*を*聞く*こと*が*好き*です。" someNumber="142" image="044_006.jpg" lang2="- Люблю слушать музыку.">
+      <audioTime in="15328" out="18037" />
+    </line>
+    <line lang1="好き*な*テープ*を*よく*聞きます。" someNumber="None" image="044_007.jpg" lang2="Часто слушаю любимые записи.">
+      <audioTime in="18037" out="20823" />
+    </line>
+    <line lang1="ギター*が*大好き*です*が、ひく*こと*が*できません。" someNumber="94" image="044_008.jpg" lang2="Очень люблю гитару, но играть не умею.">
+      <audioTime in="20823" out="25382" />
+    </line>
+    <line lang1="ースポーツ*が*好き*です*か。" someNumber="None" image="044_009.jpg" lang2="- А спорт любите?">
+      <audioTime in="25382" out="28693" />
+    </line>
+    <line lang1="ー大好き*です。" someNumber="None" image="044_009.jpg" lang2="- Очень люблю.">
+      <audioTime in="28693" out="29888" />
+    </line>
+    <line lang1="見る*こと*も*する*こと*も*好き*です。" someNumber="None" image="044_011.jpg" lang2="Люблю и смотреть, и заниматься.">
+      <audioTime in="29888" out="32361" />
+    </line>
+    <line lang1="テニス、" someNumber="94" image="044_012.jpg" lang2="Умею играть в теннис,">
+      <audioTime in="32058" out="34230" />
+    </line>
+    <line lang1="サッカー、" someNumber="166" image="044_013.jpg" lang2="футбол,">
+      <audioTime in="34230" out="35328" />
+    </line>
+    <line lang1="バスケットボール*など*が*出来ます。" someNumber="None" image="044_014.jpg" lang2="баскетбол и другие игры.">
+      <audioTime in="35328" out="37674" />
+    </line>
+    <line lang1="とく*に*やきゅう*が*好き*です。" someNumber="None" image="044_015.jpg" lang2="Особенно люблю бейсбол.">
+      <audioTime in="37674" out="40651" />
+    </line>
+    <line lang1="ー私*は*見る*こと*が*好き*です*が、スポーツ*が*出来ません。" someNumber="None" image="044_016.jpg" lang2="- Я люблю смотреть, но играть не умею.">
+      <audioTime in="40651" out="46314" />
+    </line>
+    <line lang1="チン*さん*は*泳ぐ*こと*も*出来ます*か。" someNumber="None" image="044_017.jpg" lang2="Тин-сан, Вы умеете плавать?">
+      <audioTime in="46314" out="49866" />
+    </line>
+    <line lang1="ー出来ます。" someNumber="None" image="044_017.jpg" lang2="- Умею.">
+      <audioTime in="49866" out="50757" />
+    </line>
+    <line lang1="ぼく*は*１分*１０秒*で*１００*メートル*泳ぐ*こと*が*出来ます。" someNumber="34" image="044_019.jpg" lang2="Я могу проплыть стометровку за 1 минуту и 10 секунд.">
+      <audioTime in="50757" out="55868" />
+    </line>
+    <line lang1="プール*で*およぐ*の*は*とても*楽しい*です。" someNumber="142" image="044_019.jpg" lang2="Плавать в бассейне очень приятно.">
+      <audioTime in="55868" out="58892" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="044_021.jpg" lang2="- Вот как!">
+      <audioTime in="58892" out="60631" />
+    </line>
+    <line lang1="チン*さん*は*日本語*の*本*を*読む*こと*が*できます*か。" someNumber="None" image="044_022.jpg" lang2="Тин-сан, а книги на японском языке Вы читать умеете?">
+      <audioTime in="60631" out="64778" />
+    </line>
+    <line lang1="―まだ*教科書*だけ*です。" someNumber="None" image="044_023.jpg" lang2="- Пока только учебники.">
+      <audioTime in="64778" out="66923" />
+    </line>
+    <line lang1="明子*さん*は*読む*こと*が*好き*です*か。" someNumber="None" image="044_024.jpg" lang2="Акико, а Вы читать любите?">
+      <audioTime in="66923" out="70581" />
+    </line>
+    <line lang1="―はい。電車*で*いつも*まんが*を*読みます。" someNumber="None" image="044_025.jpg" lang2="- Да. Я всегда читаю комиксы в электричке.">
+      <audioTime in="70581" out="75430" />
+    </line>
+    <line lang1="―日本人*は*電車*で*よく*本*を*読みます*か。" someNumber="None" image="044_026.jpg" lang2="- Японцы часто читают в электричке?">
+      <audioTime in="75430" out="79869" />
+    </line>
+    <line lang1="―はい、日本人*は*電車*で*読む*こと*が*大好き*です。" someNumber="None" image="044_027.jpg" lang2="- Да. Японцы очень любят читать в электричке.">
+      <audioTime in="79869" out="84520" />
+    </line>
+  </lines>
+</lesson>

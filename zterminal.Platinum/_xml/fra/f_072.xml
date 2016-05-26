@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_072.wav" dic="p072" dlgName="Что Вы делали?.." dlgFile="exr\fg071.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Qu'avez-vous fait hier soir?" someNumber="930" image="dg\072_001.gif" lang2="- Что вы (с)делали вчера вечером?">
+      <audioTime in="0" out="1034" />
+    </line>
+    <line lang1="- Hier, j'ai aéré ma chambre." someNumber="None" image="dg\072_001.gif" lang2="- Вчера я проветрил комнату.">
+      <audioTime in="1034" out="2675" />
+    </line>
+    <line lang1="- Qu'a-t-elle fait la nuit passée?" someNumber="None" image="dg\072_002.gif" lang2="- Что она (с)делала прошлой ночью?">
+      <audioTime in="2675" out="3948" />
+    </line>
+    <line lang1="- Elle a écouté la radio." someNumber="50" image="dg\072_002.gif" lang2="- Она слушала радио.">
+      <audioTime in="3948" out="5141" />
+    </line>
+    <line lang1="- Qu'a-t-il fait ce matin?" someNumber="None" image="dg\072_003.gif" lang2="- Что он (с)делал этим утром?">
+      <audioTime in="5141" out="6229" />
+    </line>
+    <line lang1="- Il s'est rasé." someNumber="None" image="dg\072_003.gif" lang2="- Он побрился.">
+      <audioTime in="6229" out="7049" />
+    </line>
+    <line lang1="- Qu'a-t-elle fait la nuit avant-dernière?" someNumber="780" image="dg\072_004.gif" lang2="- Что она (с)делала позапрошлой ночью?">
+      <audioTime in="7049" out="8554" />
+    </line>
+    <line lang1="- Elle a téléphoné à son mari." someNumber="None" image="dg\072_004.gif" lang2="- Она позвонила своему мужу.">
+      <audioTime in="8554" out="9948" />
+    </line>
+    <line lang1="- Qu'avez-vous fait la nuit passée?" someNumber="None" image="dg\072_005.gif" lang2="- Что вы (с)делали прошлой ночью?">
+      <audioTime in="9948" out="11281" />
+    </line>
+    <line lang1="- J'ai appelé le médecin." someNumber="530" image="dg\072_005.gif" lang2="- Я вызвал доктора.">
+      <audioTime in="11281" out="12465" />
+    </line>
+    <line lang1="- Qu'a-t-elle fait avant hier?" someNumber="None" image="dg\072_006.gif" lang2="- Что она (с)делала позавчера?">
+      <audioTime in="12465" out="13479" />
+    </line>
+    <line lang1="- Elle a vidé son panier." someNumber="None" image="dg\072_006.gif" lang2="- Она разгрузила (букв.) свою корзину.">
+      <audioTime in="13479" out="14713" />
+    </line>
+    <line lang1="- Qu'ai-je fait hier matin?" someNumber="None" image="dg\072_007.gif" lang2="- Что я (с)делал вчера утром?">
+      <audioTime in="14713" out="15826" />
+    </line>
+    <line lang1="- Vous avez cuit des œufs." someNumber="70" image="dg\072_007.gif" lang2="- Вы сварили яйца.">
+      <audioTime in="15826" out="16975" />
+    </line>
+    <line lang1="- Qu'avez-vous fait hier, Réné et vous?" someNumber="None" image="dg\072_008.gif" lang2="- Что (с)делали вы и Рене вчера?">
+      <audioTime in="16975" out="18665" />
+    </line>
+    <line lang1="- Nous avons ciré nos souliers." someNumber="None" image="dg\072_008.gif" lang2="- Мы почистили наши туфли.">
+      <audioTime in="18665" out="20072" />
+    </line>
+    <line lang1="- Qu'est-ce que les enfants ont fait hier?" someNumber="210" image="dg\072_009.gif" lang2="- Что (с)делали дети вчера днём?">
+      <audioTime in="20072" out="21521" />
+    </line>
+    <line lang1="- Ils ont joué dans le jardin." someNumber="None" image="dg\072_009.gif" lang2="- Они играли в саду.">
+      <audioTime in="21521" out="22703" />
+    </line>
+    <line lang1="- Qu'a-t-il fait aujourd'hui?" someNumber="None" image="dg\072_010.gif" lang2="- Что он (с)делал сегодня?">
+      <audioTime in="22703" out="23708" />
+    </line>
+    <line lang1="- Il est resté au lit." someNumber="None" image="dg\072_010.gif" lang2="- Он оставался в постели.">
+      <audioTime in="23708" out="24620" />
+    </line>
+  </lines>
+</lesson>

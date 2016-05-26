@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="f_071.wav" dic="p071" dlgName="Обсуждение звонка." dlgFile="exr\fg071.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Comment trouves-tu Gérard, Pauline?" someNumber="None" image="dg\071_001.gif" lang2="- Как ты находишь Жерара, Полин?">
+      <audioTime in="0" out="1792" />
+    </line>
+    <line lang1="- Il est horrible!" someNumber="None" image="dg\071_001.gif" lang2="- Он ужасен!">
+      <audioTime in="1792" out="3769" />
+    </line>
+    <line lang1="Hier il m'a téléphoné quatre fois et trois fois avant hier." someNumber="None" image="dg\071_001.gif" lang2="Вчера он позвонил мне четыре раза, и три раза позавчера.">
+      <audioTime in="3769" out="8266" />
+    </line>
+    <line lang1="- Il a téléphoné au bureau hier matin et hier soir." someNumber="None" image="dg\071_002.gif" lang2="- Он позвонил в офис вчера утром и вчера вечером.">
+      <audioTime in="8266" out="11489" />
+    </line>
+    <line lang1="Mon chef lui a répondu." someNumber="460" image="dg\071_003.gif" lang2="Мой начальник ответил ему (по телефону).">
+      <audioTime in="11489" out="12981" />
+    </line>
+    <line lang1="- Qu'est-ce que ton chef lui a dit?" someNumber="None" image="dg\071_003.gif" lang2="- Что твой начальник ему сказал?">
+      <audioTime in="12981" out="14734" />
+    </line>
+    <line lang1="- Il a dit: &quot;Mademoiselle Blanche tape les lettres. Elle ne peut pas vous parler maintenant.&quot;" someNumber="None" image="dg\071_003.gif" lang2="- Он сказал: &quot;М-ль Бланш печатает письма. Она не может разговаривать с вами сейчас!&quot;">
+      <audioTime in="14734" out="20301" />
+    </line>
+    <line lang1="- Hier soir je suis rentrée à la maison à six heures." someNumber="None" image="dg\071_004.gif" lang2="- Вчера я вернулась домой в шесть часов вечера.">
+      <audioTime in="20301" out="22886" />
+    </line>
+    <line lang1="Il a téléphoné de nouveau. Mais je n'ai pas répondu." someNumber="530" image="dg\071_004.gif" lang2="Он позвонил снова. Но я не ответила (на звонок).">
+      <audioTime in="22886" out="25563" />
+    </line>
+    <line lang1="- A-t-il téléphoné de nouveau la nuit passée?" someNumber="None" image="dg\071_005.gif" lang2="- Позвонил ли он снова вчера вечером?">
+      <audioTime in="25563" out="27677" />
+    </line>
+    <line lang1="- Oui, il a téléphoné. Il a téléphoné à neuf heures." someNumber="None" image="dg\071_005.gif" lang2="- Да, он позвонил. Он позвонил в девять часов.">
+      <audioTime in="27677" out="31152" />
+    </line>
+    <line lang1="- Que lui as-tu dit?" someNumber="None" image="dg\071_005.gif" lang2="- Что ты ему сказала?">
+      <audioTime in="31152" out="32372" />
+    </line>
+    <line lang1="- J'ai dit: &quot;C'est la mère de Pauline. S'il vous plaît, ne téléphonez plus à ma fille!&quot;" someNumber="780" image="dg\071_006.gif" lang2="- Я сказала: &quot;Это мать Полин. Пожалуйста, не звоните больше моей дочери!&quot;">
+      <audioTime in="32372" out="36712" />
+    </line>
+    <line lang1="- A-t-il téléphoné de nouveau?" someNumber="None" image="dg\071_007.gif" lang2="- Позвонил ли он снова?">
+      <audioTime in="36712" out="38131" />
+    </line>
+    <line lang1="- Non, il n'a pas téléphoné!" someNumber="None" image="dg\071_007.gif" lang2="- Нет, не позвонил!">
+      <audioTime in="38131" out="40298" />
+    </line>
+  </lines>
+</lesson>

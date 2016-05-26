@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="FR_053.wav" dlgName="В парфюмерии" dlgFile="exr\frg053.txt" />
+  <lines>
+    <line lang1="- Quelles crèmes avez-vous pour les peaux sèches?" someNumber="None" image="f.jpg" lang2="- Какие у вас кремы для сухой кожи?">
+      <audioTime in="0" out="3007" />
+    </line>
+    <line lang1="- Nous avons plusieurs sortes de crèmes." someNumber="None" image="f.jpg" lang2="- У нас несколько сортов крема.">
+      <audioTime in="3007" out="5808" />
+    </line>
+    <line lang1="Voici une marque que je vous recommande surtout." someNumber="None" image="f.jpg" lang2="Вот крем, который я вам особенно рекомендую.">
+      <audioTime in="5808" out="8980" />
+    </line>
+    <line lang1="- Est-elle vraiment de bonne qualité?" someNumber="None" image="f.jpg" lang2="- Он действительно хорошего качества?">
+      <audioTime in="8980" out="11618" />
+    </line>
+    <line lang1="- Oh! oui, elle rajeunit la peau et rend mille services comme le dit l'étiquette," someNumber="None" image="f.jpg" lang2="- О, да! Как гласит этикетка, он омолаживает кожу и тысячу раз окажет услугу">
+      <audioTime in="11618" out="16810" />
+    </line>
+    <line lang1="en cas de plaies et de blessures légères." someNumber="None" image="f.jpg" lang2="в случае раны или лёгких повреждений кожи.">
+      <audioTime in="16810" out="19739" />
+    </line>
+    <line lang1="- Et comment l'emploie-t-on?" someNumber="None" image="f.jpg" lang2="- А как его употребляют?">
+      <audioTime in="19739" out="21366" />
+    </line>
+    <line lang1="- On nettoie la peau, on applique cette crème à l'aide des doigts" someNumber="None" image="f.jpg" lang2="- Надо очистить кожу, пальцами наложить крем">
+      <audioTime in="21366" out="25005" />
+    </line>
+    <line lang1="et on la laisse sans essuyer le plus longtemps possible." someNumber="None" image="f.jpg" lang2="и оставить его как можно дольше.">
+      <audioTime in="25005" out="28053" />
+    </line>
+    <line lang1="- Et ça coûte combien?" someNumber="None" image="f.jpg" lang2="- А сколько это стоит?">
+      <audioTime in="28053" out="29901" />
+    </line>
+    <line lang1="- Deux francs." someNumber="None" image="f.jpg" lang2="- Два франка.">
+      <audioTime in="29901" out="30853" />
+    </line>
+    <line lang1="- Voilà, monsieur. Avez-vous de bons parfums?" someNumber="None" image="f.jpg" lang2="- Пожалуйста. Есть у вас хорошие духи?">
+      <audioTime in="30853" out="34215" />
+    </line>
+    <line lang1="- Nous avons tout ce qu'il y a de meilleur:" someNumber="None" image="f.jpg" lang2="- У нас самые лучшие духи:">
+      <audioTime in="34215" out="36329" />
+    </line>
+    <line lang1="Bocages, Chypre. Conquête, Tropiques, Marrakech," someNumber="None" image="f.jpg" lang2="Бокаж, Шипр, Конкет, Тропик, Маракеш,">
+      <audioTime in="36329" out="41408" />
+    </line>
+    <line lang1="Peut-être, Tendres Nuits, La Vallée Bleue, etc... etc..." someNumber="None" image="f.jpg" lang2="Пететр, Тандре Нюи, Ла-Вале Бле и т.д. и т.д. ...">
+      <audioTime in="41408" out="47337" />
+    </line>
+    <line lang1="- Aidez-moi à faire mon choix." someNumber="None" image="f.jpg" lang2="- Помогите мне выбрать.">
+      <audioTime in="47337" out="49738" />
+    </line>
+    <line lang1="- Je ne connais pas votre goût," someNumber="None" image="f.jpg" lang2="- Я не знаю вашего вкуса,">
+      <audioTime in="49738" out="51566" />
+    </line>
+    <line lang1="le parfum est la plus personnelle des parures." someNumber="None" image="f.jpg" lang2="духи - это наиболее индивидуальное украшение.">
+      <audioTime in="51566" out="54507" />
+    </line>
+    <line lang1="Ainsi par exemple, l'un convient à une brune aimant plaire," someNumber="None" image="f.jpg" lang2="Так, например, одни подходят брюнетке, любящей нравиться,">
+      <audioTime in="54507" out="60711" />
+    </line>
+    <line lang1="à une blonde romantique, ou à une jeune mariée." someNumber="None" image="f.jpg" lang2="романтической блондинке, или молодой замужней женщине.">
+      <audioTime in="60711" out="64072" />
+    </line>
+    <line lang1="- Je prends celui-ci, j'aime plaire." someNumber="None" image="f.jpg" lang2="- Я беру эти, я люблю нравиться.">
+      <audioTime in="64072" out="68111" />
+    </line>
+    <line lang1="- Et moi je vous trouve romantique," someNumber="None" image="f.jpg" lang2="- А мне кажется, что вы романтического склада,">
+      <audioTime in="68111" out="70876" />
+    </line>
+    <line lang1="et je vous conseille de prendre celui-là." someNumber="None" image="f.jpg" lang2="и советую вам взять те.">
+      <audioTime in="70876" out="73672" />
+    </line>
+  </lines>
+</lesson>

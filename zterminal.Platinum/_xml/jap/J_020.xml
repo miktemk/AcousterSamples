@@ -1,0 +1,161 @@
+<lesson>
+  <header wav="J_020.wav" dlgName="Какое число?" dic="p020" />
+  <lines>
+    <line lang1="―やまもと*さん、月*の*はじめ*の*日*は*一日*です*ね。" someNumber="40" image="020_001.jpg" lang2="- Ямамото-сан, начальный день месяца называется''цуйтати'', не так ли.">
+      <audioTime in="0" out="7115" />
+    </line>
+    <line lang1="つぎ*は*なん日*です*か。" someNumber="None" image="020_002.jpg" lang2="А как (называются) следующие (дни)?">
+      <audioTime in="7115" out="11088" />
+    </line>
+    <line lang1="ー二日、" someNumber="None" image="020_003.jpg" lang2="- Второе число,">
+      <audioTime in="11088" out="13274" />
+    </line>
+    <line lang1="三日、" someNumber="None" image="020_004.jpg" lang2="третье число,">
+      <audioTime in="13274" out="14689" />
+    </line>
+    <line lang1="四日、" someNumber="None" image="020_005.jpg" lang2="четвёртое число,">
+      <audioTime in="14689" out="16369" />
+    </line>
+    <line lang1="五日、" someNumber="None" image="020_006.jpg" lang2="пятое число,">
+      <audioTime in="16369" out="18036" />
+    </line>
+    <line lang1="六日、" someNumber="None" image="020_007.jpg" lang2="шестое число,">
+      <audioTime in="18036" out="19404" />
+    </line>
+    <line lang1="七日、" someNumber="None" image="020_008.jpg" lang2="седьмое число,">
+      <audioTime in="19404" out="21008" />
+    </line>
+    <line lang1="八日、" someNumber="None" image="020_009.jpg" lang2="восьмое число,">
+      <audioTime in="21008" out="22849" />
+    </line>
+    <line lang1="九日、" someNumber="None" image="020_010.jpg" lang2="девятое число,">
+      <audioTime in="22849" out="24627" />
+    </line>
+    <line lang1="十日。" someNumber="None" image="020_011.jpg" lang2="десятое число.">
+      <audioTime in="24627" out="26308" />
+    </line>
+    <line lang1="あと*は*かんたん*です。" someNumber="None" image="020_012.jpg" lang2="Дальше - просто.">
+      <audioTime in="26308" out="29365" />
+    </line>
+    <line lang1="十一日、" someNumber="None" image="020_013.jpg" lang2="Одиннадцатое число,">
+      <audioTime in="29365" out="31964" />
+    </line>
+    <line lang1="十二日、" someNumber="None" image="020_014.jpg" lang2="двенадцатое число,">
+      <audioTime in="31964" out="33996" />
+    </line>
+    <line lang1="十三日、" someNumber="None" image="020_015.jpg" lang2="тринадцатое число,">
+      <audioTime in="33996" out="35987" />
+    </line>
+    <line lang1="十四日、" someNumber="None" image="020_016.jpg" lang2="четырнадцатое число,">
+      <audioTime in="35987" out="38160" />
+    </line>
+    <line lang1="十五日、" someNumber="None" image="020_017.jpg" lang2="пятнадцатое число,">
+      <audioTime in="38160" out="40142" />
+    </line>
+    <line lang1="十六日、" someNumber="None" image="020_018.jpg" lang2="шестнадцатое число,">
+      <audioTime in="40142" out="42314" />
+    </line>
+    <line lang1="十七日、" someNumber="None" image="020_019.jpg" lang2="семнадцатое число,">
+      <audioTime in="42314" out="44469" />
+    </line>
+    <line lang1="十八日、" someNumber="None" image="020_020.jpg" lang2="восемнадцатое число,">
+      <audioTime in="44469" out="46578" />
+    </line>
+    <line lang1="十九日、" someNumber="None" image="020_021.jpg" lang2="девятнадцатое число,">
+      <audioTime in="46578" out="48718" />
+    </line>
+    <line lang1="二十日、" someNumber="None" image="020_022.jpg" lang2="двадцатое число,">
+      <audioTime in="48718" out="50511" />
+    </line>
+    <line lang1="二十一日、" someNumber="None" image="020_023.jpg" lang2="двадцать первое число,">
+      <audioTime in="50511" out="52748" />
+    </line>
+    <line lang1="二十二日、" someNumber="None" image="020_024.jpg" lang2="двадцать второе число,">
+      <audioTime in="52748" out="54907" />
+    </line>
+    <line lang1="二十三日、" someNumber="None" image="020_025.jpg" lang2="двадцать третье число,">
+      <audioTime in="54907" out="57128" />
+    </line>
+    <line lang1="二十四日、" someNumber="None" image="020_026.jpg" lang2="двадцать четвёртое число,">
+      <audioTime in="57128" out="59553" />
+    </line>
+    <line lang1="二十五日、" someNumber="None" image="020_027.jpg" lang2="двадцать пятое число,">
+      <audioTime in="59553" out="61805" />
+    </line>
+    <line lang1="二十六日、" someNumber="None" image="020_028.jpg" lang2="двадцать шестое число,">
+      <audioTime in="61805" out="64232" />
+    </line>
+    <line lang1="二十七日、" someNumber="None" image="020_029.jpg" lang2="двадцать седьмое число,">
+      <audioTime in="64232" out="66961" />
+    </line>
+    <line lang1="二十八日、" someNumber="None" image="020_030.jpg" lang2="двадцать восьмое число,">
+      <audioTime in="66961" out="69322" />
+    </line>
+    <line lang1="二十九日、" someNumber="None" image="020_031.jpg" lang2="двадцать девятое число,">
+      <audioTime in="69322" out="71810" />
+    </line>
+    <line lang1="三十日、" someNumber="None" image="020_032.jpg" lang2="тридцатое число,">
+      <audioTime in="71810" out="73649" />
+    </line>
+    <line lang1="三十一日。" someNumber="None" image="020_033.jpg" lang2="тридцать первое число.">
+      <audioTime in="73649" out="76326" />
+    </line>
+    <line lang1="ーありがとう*ございました。" someNumber="None" image="020_034.jpg" lang2="- Большое спасибо.">
+      <audioTime in="76326" out="80095" />
+    </line>
+    <line lang1="ーきのう*は*何日*でした*か。" someNumber="73" image="020_035.jpg" lang2="- Какое число было вчера?">
+      <audioTime in="80095" out="84620" />
+    </line>
+    <line lang1="ー七月*十六日*でした。" someNumber="None" image="020_036.jpg" lang2="- 16 июля.">
+      <audioTime in="84620" out="88845" />
+    </line>
+    <line lang1="ーおととい*は*何日*でした*か。" someNumber="None" image="020_037.jpg" lang2="- Какое число было позавчера?">
+      <audioTime in="88845" out="92755" />
+    </line>
+    <line lang1="ー十五日*でした。" someNumber="None" image="020_038.jpg" lang2="- Пятнадцатое.">
+      <audioTime in="92755" out="95811" />
+    </line>
+    <line lang1="ーあさって*は*何日*です*か。" someNumber="None" image="020_039.jpg" lang2="- Какое число послезавтра.">
+      <audioTime in="95811" out="99551" />
+    </line>
+    <line lang1="ーあさって*は*十九日*です。" someNumber="None" image="020_040.jpg" lang2="- Послезавтра - девятнадцатое число.">
+      <audioTime in="99551" out="103190" />
+    </line>
+    <line lang1="ーよく*できました*ね。" someNumber="None" image="020_041.jpg" lang2="- У Вас хорошо получается!">
+      <audioTime in="103190" out="105931" />
+    </line>
+    <line lang1="ーおたんじょう日*は*いつ*です*か。" someNumber="None" image="020_042.jpg" lang2="- Когда Ваш день рождения?">
+      <audioTime in="105931" out="110743" />
+    </line>
+    <line lang1="ー四月*二十一日*です。" someNumber="None" image="020_043.jpg" lang2="- 21 апреля.">
+      <audioTime in="110743" out="114920" />
+    </line>
+    <line lang1="ー今、何才*です*か。" someNumber="38" image="020_044.jpg" lang2="- Сколько Вам сейчас лет?">
+      <audioTime in="114920" out="118103" />
+    </line>
+    <line lang1="ー十八*才*です。" someNumber="None" image="020_045.jpg" lang2="- 18 лет.">
+      <audioTime in="118103" out="121338" />
+    </line>
+    <line lang1="ーわたし*は*もう*はたち*です。" someNumber="None" image="020_045.jpg" lang2="- А мне уже двадцать.">
+      <audioTime in="121338" out="125090" />
+    </line>
+    <line lang1="スミス*さん*の*たんじょうび*は*いつ*です*か。" someNumber="None" image="020_047.jpg" lang2="Когда день рождения Смита?">
+      <audioTime in="125090" out="129456" />
+    </line>
+    <line lang1="ー七月*十八日*です。" someNumber="None" image="020_048.jpg" lang2="- 18 июля.">
+      <audioTime in="129456" out="133357" />
+    </line>
+    <line lang1="ーきょう*は*何日*です*か。" someNumber="40" image="020_049.jpg" lang2="- Какое сегодня число?">
+      <audioTime in="133357" out="137109" />
+    </line>
+    <line lang1="ー七月*十七日*です。" someNumber="None" image="020_050.jpg" lang2="- 17 июля.">
+      <audioTime in="137109" out="141085" />
+    </line>
+    <line lang1="―スミス*さん*の*たんじょうび*は*あした*です*ね。" someNumber="None" image="020_051.jpg" lang2="- Значит день рождения Смита завтра, правда?">
+      <audioTime in="141085" out="145816" />
+    </line>
+    <line lang1="ーそう*です。" someNumber="None" image="020_051.jpg" lang2="- Да, это так.">
+      <audioTime in="145816" out="150593" />
+    </line>
+  </lines>
+</lesson>

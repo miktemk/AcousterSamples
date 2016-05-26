@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="d_017.wav" dic="p017" dlgName="Знакомьтесь." dlgFile="exr\dg017.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Herr Müller, #1treten Sie #2ein, ich #1stelle Ihnen unsere Angestellten #2vor." someNumber="490" image="dg\017_001.gif" lang2="- Входите и знакомьтесь с нашими служащими, господин Мюллер.">
+      <audioTime in="0" out="4658" />
+    </line>
+    <line lang1="- Danke schön, Herr Braun." someNumber="490" image="dg\017_001.gif" lang2="- Спасибо, господин Браун.">
+      <audioTime in="4713" out="6120" />
+    </line>
+    <line lang1="- Das #ist Fräulein Gertrud und das #ist Fräulein Alice." someNumber="820" image="dg\017_002.gif" lang2="- Это - фрейлейн Гертруд, а это - фрейлейн Алис.">
+      <audioTime in="6446" out="10834" />
+    </line>
+    <line lang1="- Guten Tag!" someNumber="820" image="dg\017_002.gif" lang2="- Здравствуйте.">
+      <audioTime in="10834" out="11963" />
+    </line>
+    <line lang1="- Jene Mädchen #sind sehr nett." someNumber="370" image="dg\017_003.gif" lang2="- Те девушки очень хорошенькие.">
+      <audioTime in="12350" out="14950" />
+    </line>
+    <line lang1="Was #machen Sie?" someNumber="370" image="dg\017_003.gif" lang2="Чем они занимаются?">
+      <audioTime in="15113" out="16196" />
+    </line>
+    <line lang1="- Sie #sind Schreibkräfte." someNumber="370" image="dg\017_003.gif" lang2="- Они машинистки.">
+      <audioTime in="16196" out="17776" />
+    </line>
+    <line lang1="- Das #ist Herr Richter und das #ist Herr Wolf." someNumber="850" image="dg\017_004.gif" lang2="- Это - господин Рихтер, а это - господин Вольф.">
+      <audioTime in="17983" out="20908" />
+    </line>
+    <line lang1="- Guten Tag!" someNumber="850" image="dg\017_004.gif" lang2="- Здравствуйте.">
+      <audioTime in="20909" out="22037" />
+    </line>
+    <line lang1="- #Sind sie nicht sehr beschäftigt?" someNumber="510" image="dg\017_005.gif" lang2="- Они не очень-то заняты?">
+      <audioTime in="22588" out="25404" />
+    </line>
+    <line lang1="Was #machen sie?" someNumber="510" image="dg\017_005.gif" lang2="Какая их работа?">
+      <audioTime in="25404" out="26533" />
+    </line>
+    <line lang1="- Sie #sind Schriftführer, sie #sind sehr faul." someNumber="510" image="dg\017_005.gif" lang2="- Они клерки, они очень ленивы.">
+      <audioTime in="26813" out="30550" />
+    </line>
+    <line lang1="- Wer #ist dieser junge Mann?" someNumber="None" image="dg\017_006.gif" lang2="- Кто этот молодой мужчина?">
+      <audioTime in="30713" out="32501" />
+    </line>
+    <line lang1="- Das #ist Werner." someNumber="None" image="dg\017_006.gif" lang2="- Это Вернер.">
+      <audioTime in="32501" out="33630" />
+    </line>
+    <line lang1="Er #ist unser Angestellter." someNumber="None" image="dg\017_006.gif" lang2="Он наш служащий.">
+      <audioTime in="33630" out="35345" />
+    </line>
+  </lines>
+</lesson>

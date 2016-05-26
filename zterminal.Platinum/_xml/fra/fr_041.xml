@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="FR_041.wav" dlgName="В магазине" dlgFile="exr\frg041.txt" />
+  <lines>
+    <line lang1="- Qu'est-ce que vous désirez, madame?" someNumber="None" image="f.jpg" lang2="- Что вам угодно, госпожа?">
+      <audioTime in="0" out="2939" />
+    </line>
+    <line lang1="- Qu'est-ce que vous avez comme bas de femme?" someNumber="None" image="f.jpg" lang2="- Какие у вас есть дамские чулки?">
+      <audioTime in="2939" out="6499" />
+    </line>
+    <line lang1="- Nous avons un très grand choix." someNumber="None" image="f.jpg" lang2="- У нас очень большой выбор.">
+      <audioTime in="6499" out="9043" />
+    </line>
+    <line lang1="Il y a des bas de coton, des bas de soie, des bas de laine, de nylon, ets..." someNumber="None" image="f.jpg" lang2="Есть хлопчатобумажные, шёлковые, шерстяные, нейлоновые и т.д.">
+      <audioTime in="9043" out="17666" />
+    </line>
+    <line lang1="- Et avez-vous des chaussettes d'hommes en mousse de nylon?" someNumber="None" image="f.jpg" lang2="- Есть ли у вас нейлоновые мужские носки?">
+      <audioTime in="17666" out="21820" />
+    </line>
+    <line lang1="- Parfaitement." someNumber="None" image="f.jpg" lang2="- Конечно.">
+      <audioTime in="21820" out="22909" />
+    </line>
+    <line lang1="- Sont-elles résistantes à la marche?" someNumber="None" image="f.jpg" lang2="- Прочные ли они?">
+      <audioTime in="22909" out="26470" />
+    </line>
+    <line lang1="- Tous les articles en tissu plastique sont très résistants." someNumber="None" image="f.jpg" lang2="- Все изделия из искусственных материалов очень прочны.">
+      <audioTime in="26470" out="30922" />
+    </line>
+    <line lang1="- A propos, avez-vous des imperméables en caoutchouc?" someNumber="None" image="f.jpg" lang2="- Кстати, есть ли у вас непромокаемые плащи?">
+      <audioTime in="30922" out="35760" />
+    </line>
+    <line lang1="- Voici un modèle très joli." someNumber="None" image="f.jpg" lang2="- Вот очень красивая модель.">
+      <audioTime in="35760" out="38231" />
+    </line>
+    <line lang1="- En effet, il est ravissant." someNumber="None" image="f.jpg" lang2="- Действительно, он замечательный.">
+      <audioTime in="38231" out="40666" />
+    </line>
+    <line lang1="Je prends cet imperméable." someNumber="None" image="f.jpg" lang2="Я беру этот плащ.">
+      <audioTime in="40666" out="43055" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="i_039.wav" dic="p039" dlgName="Ваза." dlgFile="exr\ig039.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Che cosa hai intenzione di fare con questo vaso, Clara?" someNumber="None" image="dg\039_001.gif" lang2="- Что ты собираешься делать с этой вазой, Клара?">
+      <audioTime in="38" out="2995" />
+    </line>
+    <line lang1="- Ho intenzione di metterlo sulla radio, Mario." someNumber="None" image="dg\039_002.gif" lang2="- Я собираюсь поставить её на радиоприемник, Марио.">
+      <audioTime in="3033" out="5875" />
+    </line>
+    <line lang1="- Non lo fare." someNumber="300" image="dg\039_003.gif" lang2="- Не делай этого.">
+      <audioTime in="5875" out="6959" />
+    </line>
+    <line lang1="Dallo a me." someNumber="None" image="dg\039_003.gif" lang2="Дай её мне.">
+      <audioTime in="6950" out="7911" />
+    </line>
+    <line lang1="- Che cosa hai intenzione di fare?" someNumber="None" image="dg\039_004.gif" lang2="- Что ты собираешься делать с ней?">
+      <audioTime in="7962" out="9869" />
+    </line>
+    <line lang1="- Ho intenzione di metterlo qui, davanti alla finestra." someNumber="None" image="dg\039_004.gif" lang2="- Я собираюсь поставить её сюда, перед окном.">
+      <audioTime in="9830" out="13287" />
+    </line>
+    <line lang1="- Stai attento!" someNumber="None" image="dg\039_005.gif" lang2="- Будь осторожен!">
+      <audioTime in="13287" out="14669" />
+    </line>
+    <line lang1="Non lasciarlo cadere!" someNumber="None" image="dg\039_005.gif" lang2="Не урони её!">
+      <audioTime in="14669" out="16435" />
+    </line>
+    <line lang1="- Non metterlo lì, Mario." someNumber="None" image="dg\039_006.gif" lang2="- Не ставь её туда, Марио.">
+      <audioTime in="16435" out="18240" />
+    </line>
+    <line lang1="Mettilo qui sulla mensola." someNumber="None" image="dg\039_006.gif" lang2="Поставь её сюда, на полку.">
+      <audioTime in="18240" out="20276" />
+    </line>
+    <line lang1="- Ecco fatto!" someNumber="None" image="dg\039_007.gif" lang2="- Вот так!">
+      <audioTime in="20314" out="21620" />
+    </line>
+    <line lang1="È un vaso magnifico." someNumber="None" image="dg\039_007.gif" lang2="Прелестная ваза.">
+      <audioTime in="21658" out="23309" />
+    </line>
+    <line lang1="- Anche questi fiori sono magnifici." someNumber="None" image="dg\039_007.gif" lang2="- Эти цветы тоже прелестны.">
+      <audioTime in="23386" out="25460" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_037.wav" dlgName="В Москве холоднее" dic="p037" />
+  <lines>
+    <line lang1="―キム*さん、かんこく*の*きこう*は*日本*の*きこう*と*ちがいます*か。" someNumber="08" image="037_001.jpg" lang2="- Ким-сан, отличается ли климат Кореи от климата Японии?">
+      <audioTime in="0" out="5487" />
+    </line>
+    <line lang1="―いいえ。日本*と*ほとんど*同じ*です。" someNumber="08" image="037_002.jpg" lang2="- Нет, (он) почти такой же, как в Японии.">
+      <audioTime in="5487" out="10100" />
+    </line>
+    <line lang1="なつ*は*日本*の*方*が*むしあつい*です。" someNumber="28" image="037_003.jpg" lang2="Лето влажнее в Японии.">
+      <audioTime in="10100" out="13677" />
+    </line>
+    <line lang1="冬*は*ほとんど*日本*と*同じ*です。" someNumber="None" image="037_004.jpg" lang2="А зима почти такая же, как в Японии.">
+      <audioTime in="13677" out="17443" />
+    </line>
+    <line lang1="ロバノフ*さん*の*国*の*冬*は*日本*の*冬*と*ちがいます*か。" someNumber="None" image="037_005.jpg" lang2="Лобанов-сан, а в Вашей стране зима отличается от японской?">
+      <audioTime in="17443" out="22973" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="037_006.jpg" lang2="- Да.">
+      <audioTime in="22973" out="23867" />
+    </line>
+    <line lang1="日本*より*モスクワ*の*方*が*さむい*です。" someNumber="28" image="037_007.jpg" lang2="В Москве холоднее, чем в Японии.">
+      <audioTime in="23867" out="27918" />
+    </line>
+    <line lang1="ー何*度*ぐらい*です*か。" someNumber="43" image="037_008.jpg" lang2="- Сколько примерно бывает градусов?">
+      <audioTime in="27918" out="31057" />
+    </line>
+    <line lang1="ーモスクワ*の*気温*は*冬*に*３０*度*まで*さがります。" someNumber="11" image="037_009.jpg" lang2="- Зимой температура воздуха в Москве опускается примерно до 30 градусов.">
+      <audioTime in="31057" out="35613" />
+    </line>
+    <line lang1="雪*も*たくさん*ふります。" someNumber="None" image="037_010.jpg" lang2="И снега много выпадает.">
+      <audioTime in="35613" out="38276" />
+    </line>
+    <line lang1="ーれいか*３０*度*です*か?" someNumber="None" image="037_011.jpg" lang2="- 30 градусов ниже нуля?">
+      <audioTime in="38276" out="41302" />
+    </line>
+    <line lang1="ーそう*です。もっと*さむい*冬*も*あります。" someNumber="None" image="037_012.jpg" lang2="- Да. Бывают и более холодные зимы.">
+      <audioTime in="41302" out="44752" />
+    </line>
+    <line lang1="年*によって*です。" someNumber="127" image="037_012.jpg" lang2="В зависимости от года.">
+      <audioTime in="44752" out="46878" />
+    </line>
+    <line lang1="―どこ*でも*同じ*ぐらい*さむい*です*か。" someNumber="None" image="037_014.jpg" lang2="- (И) везде одинаково холодно?">
+      <audioTime in="46878" out="50820" />
+    </line>
+    <line lang1="―いいえ。ロシア*は*広い*です*から*ね。" someNumber="None" image="037_015.jpg" lang2="- Нет. Россия большая, не так ли.">
+      <audioTime in="50820" out="54224" />
+    </line>
+    <line lang1="気温*は*ばしょ*によって*ちがいます。" someNumber="None" image="037_016.jpg" lang2="Температура воздуха в разных местах различная.">
+      <audioTime in="54224" out="56884" />
+    </line>
+    <line lang1="南*の*きこう*は*北*の*きこう*と*ひじょう*に*ちがいます。" someNumber="None" image="037_017.jpg" lang2="Климат Юга очень отличается от климата Севера.">
+      <audioTime in="56884" out="60903" />
+    </line>
+    <line lang1="西*は*東*と*は*そんな*に*ちがいません。" someNumber="53" image="037_018.jpg" lang2="А Запад и Восток не отличаются так сильно.">
+      <audioTime in="60903" out="65272" />
+    </line>
+    <line lang1="たとえば、南*の*コーカサス*の*方*が" someNumber="None" image="037_019.jpg" lang2="Например, на Кавказе, который находится на Юге,">
+      <audioTime in="65272" out="68898" />
+    </line>
+    <line lang1="北*より*ずっと*温かい*です。" someNumber="None" image="037_020.jpg" lang2="гораздо теплее, чем на Севере.">
+      <audioTime in="68898" out="71053" />
+    </line>
+    <line lang1="ーロシア*で*いちばん*さむい*の*は*どこ*です*か。" someNumber="28" image="037_021.jpg" lang2="- Где в России холоднее всего?">
+      <audioTime in="71053" out="75690" />
+    </line>
+    <line lang1="ーヤクティア*が*いちばん*さむい*です。" someNumber="None" image="037_022.jpg" lang2="- Холоднее всего в Якутии.">
+      <audioTime in="75690" out="78581" />
+    </line>
+    <line lang1="冬*に*気温*は*れい下*５０*度*まで*下がります。" someNumber="None" image="037_023.jpg" lang2="Зимой температура опускается до минус 50 градусов.">
+      <audioTime in="78581" out="82619" />
+    </line>
+    <line lang1="ーれい下*５０*度*です*か。" someNumber="None" image="037_023.jpg" lang2="- Минус пятьдесят!">
+      <audioTime in="82619" out="85432" />
+    </line>
+    <line lang1="たいへん。" someNumber="134" image="037_025.jpg" lang2="Какой ужас!">
+      <audioTime in="85432" out="86863" />
+    </line>
+    <line lang1="―ロシア*の*冬*は*ながくて、たいへん*さむい*です。" someNumber="23" image="037_026.jpg" lang2="- В России зима долгая и очень холодная.">
+      <audioTime in="86863" out="90678" />
+    </line>
+  </lines>
+</lesson>

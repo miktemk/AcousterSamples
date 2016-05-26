@@ -1,0 +1,125 @@
+<lesson>
+  <header wav="i_018.wav" dic="p018" dlgName="Кто они по профессии?" dlgFile="exr\ig017.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Che lavoro fanno?" someNumber="770" image="dg\018_001.gif" lang2="- Какова их работа?">
+      <audioTime in="187" out="1682" />
+    </line>
+    <line lang1="Sono meccanici?" someNumber="None" image="dg\018_001.gif" lang2="Они механики?">
+      <audioTime in="1624" out="3005" />
+    </line>
+    <line lang1="- Non sono meccanici." someNumber="None" image="dg\018_001.gif" lang2="- Они не механики.">
+      <audioTime in="3208" out="4874" />
+    </line>
+    <line lang1="Sono notai." someNumber="None" image="dg\018_001.gif" lang2="Они клерки.">
+      <audioTime in="4874" out="6003" />
+    </line>
+    <line lang1="- Che lavoro fanno?" someNumber="None" image="dg\018_002.gif" lang2="- Какова их работа?">
+      <audioTime in="6174" out="7352" />
+    </line>
+    <line lang1="Sono dattilografe?" someNumber="None" image="dg\018_002.gif" lang2="Они машинистки?">
+      <audioTime in="7393" out="8692" />
+    </line>
+    <line lang1="- Non sono dattilografe." someNumber="None" image="dg\018_002.gif" lang2="- Они не машинистки.">
+      <audioTime in="9018" out="10602" />
+    </line>
+    <line lang1="Sono domestiche." someNumber="None" image="dg\018_002.gif" lang2="Они домашние хозяйки.">
+      <audioTime in="10642" out="11942" />
+    </line>
+    <line lang1="- Che lavoro fanno?" someNumber="None" image="dg\018_003.gif" lang2="- Какова их работа?">
+      <audioTime in="12145" out="13436" />
+    </line>
+    <line lang1="Sono postini?" someNumber="None" image="dg\018_003.gif" lang2="Они почтальоны?">
+      <audioTime in="13490" out="14582" />
+    </line>
+    <line lang1="- Non sono postini." someNumber="None" image="dg\018_003.gif" lang2="- Они не почтальоны.">
+      <audioTime in="14867" out="16451" />
+    </line>
+    <line lang1="Sono lattai." someNumber="None" image="dg\018_003.gif" lang2="Они продавцы молока.">
+      <audioTime in="16451" out="17832" />
+    </line>
+    <line lang1="- Che lavoro fanno?" someNumber="None" image="dg\018_004.gif" lang2="- Какова их работа?">
+      <audioTime in="18337" out="19660" />
+    </line>
+    <line lang1="Sono poliziotte?" someNumber="None" image="dg\018_004.gif" lang2="Они полицейские?">
+      <audioTime in="19904" out="21528" />
+    </line>
+    <line lang1="- Non sono poliziotte." someNumber="None" image="dg\018_004.gif" lang2="- Они не полицейские.">
+      <audioTime in="21771" out="23599" />
+    </line>
+    <line lang1="Sono hostess." someNumber="None" image="dg\018_004.gif" lang2="Они стюардессы.">
+      <audioTime in="23681" out="24859" />
+    </line>
+    <line lang1="- Che lavoro fanno?" someNumber="None" image="dg\018_005.gif" lang2="- Какова их работа?">
+      <audioTime in="25103" out="26565" />
+    </line>
+    <line lang1="Sono doganieri?" someNumber="None" image="dg\018_005.gif" lang2="Они служащие таможни?">
+      <audioTime in="26704" out="27966" />
+    </line>
+    <line lang1="- Non sono doganieri." someNumber="None" image="dg\018_005.gif" lang2="- Они не служащие таможни.">
+      <audioTime in="28141" out="29584" />
+    </line>
+    <line lang1="Sono ingegneri." someNumber="None" image="dg\018_005.gif" lang2="Они инженеры.">
+      <audioTime in="29584" out="30983" />
+    </line>
+    <line lang1="- Che lavoro fanno?" someNumber="None" image="dg\018_006.gif" lang2="- Какова их работа?">
+      <audioTime in="31154" out="32512" />
+    </line>
+    <line lang1="Sono barbieri?" someNumber="None" image="dg\018_006.gif" lang2="Они парикмахеры?">
+      <audioTime in="32512" out="33780" />
+    </line>
+    <line lang1="- Non sono barbieri." someNumber="None" image="dg\018_006.gif" lang2="- Они не парикмахеры.">
+      <audioTime in="34042" out="35485" />
+    </line>
+    <line lang1="Sono tassisti." someNumber="None" image="dg\018_006.gif" lang2="Они водители такси.">
+      <audioTime in="35485" out="36883" />
+    </line>
+    <line lang1="- Che lavoro fanno?" someNumber="None" image="dg\018_007.gif" lang2="- Какова их работа?">
+      <audioTime in="37015" out="38370" />
+    </line>
+    <line lang1="Sono ingegneri?" someNumber="None" image="dg\018_007.gif" lang2="Они инженеры?">
+      <audioTime in="38500" out="40074" />
+    </line>
+    <line lang1="- Non sono ingegneri." someNumber="None" image="dg\018_007.gif" lang2="- Они не инженеры.">
+      <audioTime in="39987" out="41517" />
+    </line>
+    <line lang1="Sono insegnanti." someNumber="None" image="dg\018_007.gif" lang2="Они учителя.">
+      <audioTime in="41561" out="43003" />
+    </line>
+    <line lang1="- Che lavoro fanno?" someNumber="None" image="dg\018_008.gif" lang2="- Какова их работа?">
+      <audioTime in="43221" out="44708" />
+    </line>
+    <line lang1="Sono poliziotte?" someNumber="None" image="dg\018_008.gif" lang2="Они полицейские?">
+      <audioTime in="44882" out="46500" />
+    </line>
+    <line lang1="- Non sono poliziotte." someNumber="None" image="dg\018_008.gif" lang2="- Они не полицейские.">
+      <audioTime in="46625" out="48268" />
+    </line>
+    <line lang1="Sono domestiche." someNumber="None" image="dg\018_008.gif" lang2="Они домашние хозяйки.">
+      <audioTime in="48304" out="49768" />
+    </line>
+    <line lang1="- Che lavoro fanno?" someNumber="None" image="dg\018_009.gif" lang2="- Какова их работа?">
+      <audioTime in="50053" out="51374" />
+    </line>
+    <line lang1="Sono lattai?" someNumber="None" image="dg\018_009.gif" lang2="Они продавцы молока?">
+      <audioTime in="51527" out="52730" />
+    </line>
+    <line lang1="- Non sono lattai." someNumber="None" image="dg\018_009.gif" lang2="- Они не продавцы молока.">
+      <audioTime in="52980" out="54444" />
+    </line>
+    <line lang1="Sono parrucchieri." someNumber="None" image="dg\018_009.gif" lang2="Они парикмахеры.">
+      <audioTime in="54480" out="55837" />
+    </line>
+    <line lang1="- Che lavoro fanno?" someNumber="None" image="dg\018_010.gif" lang2="- Какова их работа?">
+      <audioTime in="56051" out="57444" />
+    </line>
+    <line lang1="Sono infermiere?" someNumber="None" image="dg\018_010.gif" lang2="Они медсёстры?">
+      <audioTime in="57470" out="58835" />
+    </line>
+    <line lang1="- Non sono infermiere." someNumber="None" image="dg\018_010.gif" lang2="- Они не медсёстры.">
+      <audioTime in="58962" out="60549" />
+    </line>
+    <line lang1="Sono dattilografe." someNumber="None" image="dg\018_010.gif" lang2="Они машинистки.">
+      <audioTime in="60549" out="61978" />
+    </line>
+  </lines>
+</lesson>

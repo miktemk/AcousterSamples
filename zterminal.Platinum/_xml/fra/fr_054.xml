@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="FR_054.wav" dlgName="Подарки" dlgFile="exr\frg054.txt" />
+  <lines>
+    <line lang1="- Jean, j'ai quelque chose à te demander." someNumber="None" image="f.jpg" lang2="- Жан, у меня к тебе просьба.">
+      <audioTime in="0" out="3442" />
+    </line>
+    <line lang1="- De l'argent comme toujours." someNumber="None" image="f.jpg" lang2="- Относительно денег, как всегда.">
+      <audioTime in="3442" out="5667" />
+    </line>
+    <line lang1="- Oui, je voudrais acheter des cadeaux pour nos amis." someNumber="None" image="f.jpg" lang2="- Да, я хотела бы купить подарки для наших друзей.">
+      <audioTime in="5667" out="9507" />
+    </line>
+    <line lang1="- Voici quarante francs." someNumber="None" image="f.jpg" lang2="- Вот сорок франков.">
+      <audioTime in="9507" out="11482" />
+    </line>
+    <line lang1="- Merci, Jean, mais si tu pouvais ajouter encore 10 francs, cela me ferait 50F" someNumber="None" image="f.jpg" lang2="- Спасибо, Жан, но если бы ты мог добавить ещё 10 франков, то было бы 50,">
+      <audioTime in="11482" out="18588" />
+    </line>
+    <line lang1="et avec cette somme je crois que je pourrais me tirer d'affaires." someNumber="None" image="f.jpg" lang2="и с этой суммой я могла бы избавиться от хлопот.">
+      <audioTime in="18588" out="23023" />
+    </line>
+    <line lang1="- Je veux bien, mais je ne te donnerai rien de plus." someNumber="None" image="f.jpg" lang2="- Ладно, но больше не дам тебе ни гроша.">
+      <audioTime in="23023" out="26309" />
+    </line>
+    <line lang1="- Ah! Jean, tu es le meilleur de maris." someNumber="None" image="f.jpg" lang2="- Жан, ты самый лучший муж.">
+      <audioTime in="26309" out="29691" />
+    </line>
+    <line lang1="Il faut que je t'embrasse, tu es si gentil." someNumber="None" image="f.jpg" lang2="Я должна тебя поцеловать, ты такой милый.">
+      <audioTime in="29691" out="33064" />
+    </line>
+    <line lang1="- Voyons, ne m'oblige pas à ajouter encore 10 F." someNumber="None" image="f.jpg" lang2="- Пожалуйста, не заставляй меня добавлять ещё 10 франков.">
+      <audioTime in="33064" out="36958" />
+    </line>
+    <line lang1="- Je n'oserais même pas." someNumber="None" image="f.jpg" lang2="- Я бы даже не осмелилась.">
+      <audioTime in="36958" out="38650" />
+    </line>
+    <line lang1="Mais où est Sophie?" someNumber="None" image="f.jpg" lang2="Но, где Софи?">
+      <audioTime in="38650" out="40580" />
+    </line>
+    <line lang1="Il faut qu'elle vienne avec moi en ville." someNumber="None" image="f.jpg" lang2="Она должна пойти со мной в город.">
+      <audioTime in="40580" out="43195" />
+    </line>
+    <line lang1="- Il me semble qu'elle est dans sa chambre." someNumber="None" image="f.jpg" lang2="- Мне кажется, что она в своей комнате.">
+      <audioTime in="43195" out="45610" />
+    </line>
+    <line lang1="- J'ai peur qu'elle oublie de descendre." someNumber="None" image="f.jpg" lang2="- Я боюсь, что она забудет сойти вниз.">
+      <audioTime in="45610" out="48520" />
+    </line>
+    <line lang1="Il faut que je lui téléphone pour lui dire que je l'attends en bas." someNumber="None" image="f.jpg" lang2="Я должна ей позвонить, чтоб сказать, что я её жду внизу.">
+      <audioTime in="48520" out="53882" />
+    </line>
+  </lines>
+</lesson>

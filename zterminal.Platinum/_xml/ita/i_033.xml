@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="i_033.wav" dic="p033" dlgName="Сегодня хорошая погода." dlgFile="exr\ig033.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Oggi è una bella giornata." someNumber="None" image="dg\033_001.gif" lang2="- Сегодня хорошая погода.">
+      <audioTime in="80" out="2502" />
+    </line>
+    <line lang1="- Ci sono alcune nuvole in cielo, però splende il sole." someNumber="None" image="dg\033_001.gif" lang2="- На небе есть облака, но солнце сияет.">
+      <audioTime in="2376" out="6606" />
+    </line>
+    <line lang1="- Il signor Rossi sta con la sua famiglia." someNumber="None" image="dg\033_001.gif" lang2="- Господин Росси проводит время с семьёй.">
+      <audioTime in="6601" out="9869" />
+    </line>
+    <line lang1="- Fanno una passeggiata sul ponte." someNumber="None" image="dg\033_001.gif" lang2="- Они идут по мосту.">
+      <audioTime in="9884" out="12196" />
+    </line>
+    <line lang1="- Ci sono alcune barche nel fiume." someNumber="None" image="dg\033_001.gif" lang2="- На реке есть несколько лодок.">
+      <audioTime in="12116" out="14502" />
+    </line>
+    <line lang1="- Il signor Rossi e sua moglie le guardano." someNumber="None" image="dg\033_001.gif" lang2="- Господин Росси и его жена смотрят на них.">
+      <audioTime in="14462" out="17523" />
+    </line>
+    <line lang1="- Lucia guarda una grande nave." someNumber="None" image="dg\033_001.gif" lang2="- Лучия смотрит на большой корабль.">
+      <audioTime in="17437" out="20061" />
+    </line>
+    <line lang1="- La nave passa sotto il ponte." someNumber="None" image="dg\033_001.gif" lang2="- Корабль проплывает под мостом.">
+      <audioTime in="20061" out="22358" />
+    </line>
+    <line lang1="- Pietro guarda un aereo." someNumber="None" image="dg\033_001.gif" lang2="- Пьетро смотрит на самолёт.">
+      <audioTime in="22317" out="24452" />
+    </line>
+    <line lang1="- L'aereo vola sopra il fiume." someNumber="None" image="dg\033_001.gif" lang2="- Самолёт летит над рекой.">
+      <audioTime in="24412" out="26708" />
+    </line>
+  </lines>
+</lesson>

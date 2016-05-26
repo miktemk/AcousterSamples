@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="d_003.wav" dic="p003" dlgName="B гардеробе." dlgFile="exr\dg003.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Meinen Mantel und meinen Regenschirm, bitte!" someNumber="340" image="dg\003_001.gif" lang2="- Моё пальто и мой зонтик пожалуйста.">
+      <audioTime in="1062" out="3442" />
+    </line>
+    <line lang1="Hier #ist meine Garderobenmarke." someNumber="720" image="dg\003_002.gif" lang2="Вот мой жетон.">
+      <audioTime in="3992" out="6409" />
+    </line>
+    <line lang1="- Danke schön, mein Herr." someNumber="420" image="dg\003_003.gif" lang2="- Спасибо, господин.">
+      <audioTime in="6995" out="8643" />
+    </line>
+    <line lang1="Nummer fünf." someNumber="420" image="dg\003_003.gif" lang2="Номер пять.">
+      <audioTime in="9339" out="10145" />
+    </line>
+    <line lang1="Hier #sind Ihr Regenschirm und Ihr Mantel." someNumber="110" image="dg\003_004.gif" lang2="Вот Ваш зонтик и Ваше пальто.">
+      <audioTime in="10511" out="12525" />
+    </line>
+    <line lang1="- Das #ist nicht mein Regenschirm." someNumber="None" image="dg\003_005.gif" lang2="- Это не мой зонтик.">
+      <audioTime in="12965" out="14430" />
+    </line>
+    <line lang1="- Entschuldigung, mein Herr." someNumber="None" image="dg\003_005.gif" lang2="- Извините, господин.">
+      <audioTime in="14759" out="16005" />
+    </line>
+    <line lang1="#Ist das hier Ihr Regenschirm?" someNumber="None" image="dg\003_006.gif" lang2="Это Ваш зонтик?">
+      <audioTime in="16444" out="18129" />
+    </line>
+    <line lang1="- Nein, das #ist er nicht." someNumber="None" image="dg\003_006.gif" lang2="- Нет, не мой!">
+      <audioTime in="18348" out="19851" />
+    </line>
+    <line lang1="- Und das?" someNumber="None" image="dg\003_007.gif" lang2="- А это?">
+      <audioTime in="20583" out="21315" />
+    </line>
+    <line lang1="- Ja, das #ist er." someNumber="None" image="dg\003_007.gif" lang2="- Да, это он.">
+      <audioTime in="21572" out="22964" />
+    </line>
+    <line lang1="Danke schön." someNumber="None" image="dg\003_007.gif" lang2="Спасибо.">
+      <audioTime in="23147" out="24062" />
+    </line>
+  </lines>
+</lesson>

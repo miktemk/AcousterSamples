@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="f_101.wav" dic="p101" dlgName="Что ещё он говорит?" dlgFile="exr\fg101.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Marie, lis-moi, s'il te plaît la carte postale que Philippe a envoyée." someNumber="50" image="dg\101_001.gif" lang2="- Мари, прочти мне пожалуйста открытку, которую Филипп прислал.">
+      <audioTime in="0" out="4107" />
+    </line>
+    <line lang1="- &quot;Je viens d'arriver en Ecosse, je suis descendu à l'hôtel.&quot;" someNumber="None" image="dg\101_001.gif" lang2="- &quot;Я только что приехал в Шотландию, я остановился в гостинице&quot;.">
+      <audioTime in="4107" out="7574" />
+    </line>
+    <line lang1="- Et alors?" someNumber="None" image="dg\101_001.gif" lang2="- Так что там?">
+      <audioTime in="7574" out="8960" />
+    </line>
+    <line lang1="- Il dit qu'il vient d'arriver en Ecosse" someNumber="None" image="dg\101_001.gif" lang2="- Он говорит (пишет), что он только что прибыл в Шотландию,">
+      <audioTime in="8960" out="10820" />
+    </line>
+    <line lang1="et qu'il est descendu à l'hôtel &quot;Normandie&quot;. Connaissez-vous cet hôtel?" someNumber="470" image="dg\101_001.gif" lang2="и что он остановился в гостинице &quot;Нормандия&quot;. Вы знаете эту гостиницу?">
+      <audioTime in="10820" out="15211" />
+    </line>
+    <line lang1="- Quel hôtel?" someNumber="None" image="dg\101_001.gif" lang2="- Какую гостиницу?">
+      <audioTime in="15211" out="16596" />
+    </line>
+    <line lang1="- L'hôtel &quot;Normandie&quot;." someNumber="None" image="dg\101_001.gif" lang2="- Гостиницу &quot;Нормандия&quot;.">
+      <audioTime in="16596" out="17846" />
+    </line>
+    <line lang1="- Que dit-il encore?" someNumber="None" image="dg\101_001.gif" lang2="- Что ещё он говорит?">
+      <audioTime in="17846" out="19613" />
+    </line>
+    <line lang1="- &quot;J'écrirai bientôt une lettre. J'espère que vous allez bien.&quot;" someNumber="None" image="dg\101_001.gif" lang2="- &quot;Я скоро напишу письмо. Я надеюсь, вы все в порядке.&quot;">
+      <audioTime in="19613" out="22914" />
+    </line>
+    <line lang1="- Quoi? Parle plus fort." someNumber="780" image="dg\101_001.gif" lang2="- Что? Говори громче.">
+      <audioTime in="22914" out="24069" />
+    </line>
+    <line lang1="Je ne t'entends pas." someNumber="None" image="dg\101_001.gif" lang2="Я тебя не слышу.">
+      <audioTime in="24069" out="24982" />
+    </line>
+    <line lang1="- Il dit qu'il nous écrira une lettre." someNumber="None" image="dg\101_001.gif" lang2="- Он говорит, что он нам напишет письмо.">
+      <audioTime in="24982" out="26705" />
+    </line>
+    <line lang1="Il espère que tout va bien pour nous et qu'il nous aime." someNumber="None" image="dg\101_001.gif" lang2="Он надеется, что у нас всё в порядке, (и пишет, что) он нас любит.">
+      <audioTime in="26705" out="29379" />
+    </line>
+    <line lang1="- C'est tout? Il n'écrit pas beaucoup, n'est-ce pas?" someNumber="None" image="dg\101_001.gif" lang2="- Это всё? Он написал не много, не так ли?">
+      <audioTime in="29379" out="32205" />
+    </line>
+    <line lang1="- On ne peut pas écrire beaucoup de choses sur une carte postale." someNumber="None" image="dg\101_001.gif" lang2="- Невозможно написать много на открытке.">
+      <audioTime in="32205" out="35033" />
+    </line>
+  </lines>
+</lesson>

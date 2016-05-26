@@ -1,0 +1,86 @@
+<lesson>
+  <header wav="j_011.wav" dlgName="Что есть в холодильнике?" dic="p011" />
+  <lines>
+    <line lang1="ーれいぞうこ*の*中*に*ビール*が*あります*か。" someNumber="04" image="011_001.jpg" lang2="- Пиво в холодильнике есть?">
+      <audioTime in="0" out="4964" />
+    </line>
+    <line lang1="ーいいえ、ありません。" someNumber="None" image="011_002.jpg" lang2="- Нет.">
+      <audioTime in="4964" out="8871" />
+    </line>
+    <line lang1="ーなに*が*あります*か。" someNumber="02" image="011_003.jpg" lang2="- А что есть?">
+      <audioTime in="8871" out="11538" />
+    </line>
+    <line lang1="ージュース*が*あります。" someNumber="None" image="011_004.jpg" lang2="- Есть сок.">
+      <audioTime in="11538" out="13835" />
+    </line>
+    <line lang1="そして*くだもの*も*あります。" someNumber="120" image="011_005.jpg" lang2="Кроме того, есть фрукты.">
+      <audioTime in="13835" out="17513" />
+    </line>
+    <line lang1="りんご*や*バナナ*や*みかん*や*なし*が*あります。" someNumber="None" image="011_005.jpg" lang2="Есть яблоки, бананы, мандарины и груши.">
+      <audioTime in="17513" out="24132" />
+    </line>
+    <line lang1="ーつめたい*おちゃ*が*あります*か。" someNumber="15" image="011_007.jpg" lang2="- А холодный чай есть?">
+      <audioTime in="24132" out="28315" />
+    </line>
+    <line lang1="ーいいえ、ありません。" someNumber="None" image="011_008.jpg" lang2="- Нет.">
+      <audioTime in="28315" out="32360" />
+    </line>
+    <line lang1="なに*が*いい*です*か。" someNumber="None" image="011_008.jpg" lang2="Что лучше? (Чего тебе дать?)">
+      <audioTime in="32360" out="35394" />
+    </line>
+    <line lang1="ーじゃ、ジュース*を*ください。" someNumber="133" image="011_010.jpg" lang2="- Ладно, дай сок.">
+      <audioTime in="35394" out="38428" />
+    </line>
+    <line lang1="―はい 。" someNumber="None" image="011_010.jpg" lang2="- Да. (Понятно.)">
+      <audioTime in="38428" out="40450" />
+    </line>
+    <line lang1="―つくえ*の*上*に*こづつみ*が*あります。中*に*なに*が*あります*か。" someNumber="04" image="011_012.jpg" lang2="- На столе - сверток. Что в нем?">
+      <audioTime in="40450" out="48770" />
+    </line>
+    <line lang1="ー本*が*あります。てがみ*も*あります。" someNumber="None" image="011_013.jpg" lang2="- Книги. Есть также письмо.">
+      <audioTime in="48770" out="54976" />
+    </line>
+    <line lang1="ーてがみ*を*ください。" someNumber="133" image="011_014.jpg" lang2="- Дай письмо.">
+      <audioTime in="54976" out="57733" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="011_015.jpg" lang2="- Вот!">
+      <audioTime in="57733" out="59848" />
+    </line>
+    <line lang1="ーあっ、つくえ*の*下*に*かばん*が*あります*ね。" someNumber="128" image="011_016.jpg" lang2="- Ой! А под столом - портфель, правда!">
+      <audioTime in="59848" out="65824" />
+    </line>
+    <line lang1="だれ*の*かばん*です*か。" someNumber="54" image="011_016.jpg" lang2="Чей это портфель?">
+      <audioTime in="65824" out="68857" />
+    </line>
+    <line lang1="ーわかりません。" someNumber="None" image="011_016.jpg" lang2="- Не знаю.">
+      <audioTime in="68857" out="71799" />
+    </line>
+    <line lang1="ーかばん*の*中*に*なに*が*あります*か。" someNumber="None" image="011_016.jpg" lang2="- Что есть в портфеле?">
+      <audioTime in="71799" out="75937" />
+    </line>
+    <line lang1="ーぺソ*と*えんぴつ*が*あります。" someNumber="08" image="011_020.jpg" lang2="- Ручка и карандаш.">
+      <audioTime in="75937" out="80349" />
+    </line>
+    <line lang1="かぎ*も*あります。" someNumber="122" image="011_021.jpg" lang2="Есть также ключи.">
+      <audioTime in="80349" out="82740" />
+    </line>
+    <line lang1="さいふ*も*あります。" someNumber="None" image="011_022.jpg" lang2="И кошелек есть.">
+      <audioTime in="82740" out="85268" />
+    </line>
+    <line lang1="さいふ*の*中*に*おかね*が*あります。" someNumber="04" image="011_023.jpg" lang2="В кошельке есть деньги.">
+      <audioTime in="85268" out="89589" />
+    </line>
+    <line lang1="ーほか*に*何*が*あります*か。" someNumber="None" image="011_023.jpg" lang2="- А что ещё?">
+      <audioTime in="89589" out="93220" />
+    </line>
+    <line lang1="―ああ、よかった。めいし*が*あります。" someNumber="None" image="011_025.jpg" lang2="- Вот удача! Есть визитная карточка.">
+      <audioTime in="93220" out="99012" />
+    </line>
+    <line lang1="はやし*さん*の*めいし*です*よ。" someNumber="124" image="011_026.jpg" lang2="Это визитная карточка Хаяси-сана.">
+      <audioTime in="99012" out="102827" />
+    </line>
+    <line lang1="ーこの*かばん*は*はやし*さん*の*かばん*です*ね。" someNumber="None" image="011_027.jpg" lang2="- Очевидно, это портфель Хаяси-сана.">
+      <audioTime in="102827" out="108021" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="i_141.wav" dic="p141" dlgName="В купе." dlgFile="exr\ig140.txt" author="Alexander" />
+  <lines>
+    <line lang1="- La settimana scorsa mia figlia Elena" someNumber="1040" image="dg\141_001.gif" lang2="- На прошлой неделе мою четырехлетнюю дочку Елену">
+      <audioTime in="99" out="2505" />
+    </line>
+    <line lang1="di quattro anni è stata invitata a una festa per bambini." someNumber="None" image="dg\141_001.gif" lang2="пригласили на детский праздник.">
+      <audioTime in="2527" out="5891" />
+    </line>
+    <line lang1="- Io ho deciso portarla con il treno." someNumber="None" image="dg\141_001.gif" lang2="- Я решила отвезти её туда на поезде.">
+      <audioTime in="5891" out="9188" />
+    </line>
+    <line lang1="- Elena era molto agitata" someNumber="840" image="dg\141_001.gif" lang2="- Елена была очень возбуждена,">
+      <audioTime in="9188" out="11355" />
+    </line>
+    <line lang1="perché non aveva mai viaggiato in treno." someNumber="None" image="dg\141_001.gif" lang2="потому что до этого она никогда не ездила на поезде.">
+      <audioTime in="11355" out="13884" />
+    </line>
+    <line lang1="- Lei si è seduta vicino al finestrino" someNumber="None" image="dg\141_001.gif" lang2="- Она села у окна">
+      <audioTime in="13884" out="17090" />
+    </line>
+    <line lang1="e faceva domande su tutto quello che vedeva." someNumber="None" image="dg\141_001.gif" lang2="и задавала вопросы обо всём, что видела.">
+      <audioTime in="17090" out="20431" />
+    </line>
+    <line lang1="- Improvvisamente una donna di mezza età è entrata nel nostro scompartimento" someNumber="380" image="dg\141_001.gif" lang2="- Вдруг, пожилая дама вошла в наше купе">
+      <audioTime in="20431" out="25804" />
+    </line>
+    <line lang1="e si è seduta di fronte ad Elena." someNumber="None" image="dg\141_001.gif" lang2="и села напротив Елены.">
+      <audioTime in="25795" out="28125" />
+    </line>
+    <line lang1="- &quot;Ciao piccola&quot;, ha detto." someNumber="None" image="dg\141_001.gif" lang2="- &quot;Здравствуй, малышка&quot;, - сказала она.">
+      <audioTime in="28015" out="29993" />
+    </line>
+    <line lang1="- Elena non ha risposto, però l'ha guardata con curiosità." someNumber="None" image="dg\141_001.gif" lang2="- Елена ничего не ответила, но посмотрела на неё с любопытством.">
+      <audioTime in="30023" out="34507" />
+    </line>
+    <line lang1="- La donna indossava un paltò blu" someNumber="780" image="dg\141_001.gif" lang2="- На даме было синее пальто">
+      <audioTime in="34552" out="36751" />
+    </line>
+    <line lang1="e un cappello grande ridicolo." someNumber="None" image="dg\141_001.gif" lang2="и большая смешная шляпа.">
+      <audioTime in="36695" out="39061" />
+    </line>
+    <line lang1="- Appena il treno è partito dalla stazione," someNumber="None" image="dg\141_001.gif" lang2="- После того как поезд отъехал от станции,">
+      <audioTime in="39061" out="41772" />
+    </line>
+    <line lang1="la donna ha aperto la sua borsetta" someNumber="None" image="dg\141_001.gif" lang2="дама открыла сумочку">
+      <audioTime in="41784" out="44082" />
+    </line>
+    <line lang1="e ha tirato fuori una scatoletta di cipria." someNumber="None" image="dg\141_001.gif" lang2="и достала оттуда пудреницу.">
+      <audioTime in="44016" out="46647" />
+    </line>
+    <line lang1="- Poi ha cominciato a truccarsi il viso." someNumber="None" image="dg\141_001.gif" lang2="- Затем она стала краситься.">
+      <audioTime in="46793" out="49403" />
+    </line>
+    <line lang1="- &quot;Perché lo fa?&quot; ha domandato Elena." someNumber="None" image="dg\141_001.gif" lang2="- &quot;Зачем Вы это делаете?&quot; - спросила Елена.">
+      <audioTime in="49504" out="52014" />
+    </line>
+    <line lang1="- &quot;Per diventare più bella&quot;, ha risposto la donna." someNumber="None" image="dg\141_001.gif" lang2="- &quot;Чтобы быть красивее&quot;, - ответила дама.">
+      <audioTime in="52014" out="54881" />
+    </line>
+    <line lang1="- Lei ha messo via la sua scatoletta di cipria e ha fatto un sorriso affabile." someNumber="None" image="dg\141_001.gif" lang2="- Она убрала пудреницу и доброжелательно улыбнулась.">
+      <audioTime in="54815" out="59645" />
+    </line>
+    <line lang1="- &quot;Però Lei è rimasta brutta&quot;, ha detto Elena." someNumber="None" image="dg\141_001.gif" lang2="- &quot;Но Вы по-прежнему некрасивая&quot;, - сказала Елена.">
+      <audioTime in="59801" out="62658" />
+    </line>
+    <line lang1="- Elena era allegra, ma io ero molto imbarazzata." someNumber="None" image="dg\141_001.gif" lang2="- Елене было весело, но я была очень смущена.">
+      <audioTime in="62713" out="66373" />
+    </line>
+  </lines>
+</lesson>

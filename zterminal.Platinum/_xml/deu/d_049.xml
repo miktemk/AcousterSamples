@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="d_049.wav" dic="p049" dlgName="В мясном магазине." dlgFile="exr\dg049.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Möchten Sie heute Fleisch, Frau Braun?" someNumber="None" image="dg\049_001.gif" lang2="- Вы хотите мясо сегодня, госпожа Браун?">
+      <audioTime in="232" out="2975" />
+    </line>
+    <line lang1="- Ja, bitte." someNumber="None" image="dg\049_001.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="3092" out="4026" />
+    </line>
+    <line lang1="- #Möchten Sie Rindfleisch oder Hammelfleisch?" someNumber="90" image="dg\049_002.gif" lang2="- Вы хотите говядину или баранину?">
+      <audioTime in="4200" out="7409" />
+    </line>
+    <line lang1="- Rindfleisch, bitte." someNumber="90" image="dg\049_002.gif" lang2="- Говядину, пожалуйста.">
+      <audioTime in="7584" out="8867" />
+    </line>
+    <line lang1="- Dieses Hammelfleisch #ist sehr gut." someNumber="None" image="dg\049_003.gif" lang2="- Эта баранина очень хороша.">
+      <audioTime in="8926" out="11027" />
+    </line>
+    <line lang1="- Ich #mag Hammelfleisch, aber mein Mann #mag es nicht." someNumber="None" image="dg\049_003.gif" lang2="- Я люблю баранину, но моему мужу она не нравится.">
+      <audioTime in="11143" out="14760" />
+    </line>
+    <line lang1="- Wie #finden Sie dieses Stück Fleisch?" someNumber="290" image="dg\049_004.gif" lang2="- Что насчёт этого куска мяса?">
+      <audioTime in="15168" out="17386" />
+    </line>
+    <line lang1="Das #ist ein gutes Stück." someNumber="290" image="dg\049_004.gif" lang2="Это хороший кусок.">
+      <audioTime in="17677" out="19252" />
+    </line>
+    <line lang1="- #Geben Sie mir jenes Stück dort, bitte." someNumber="630" image="dg\049_004.gif" lang2="- Дайте мне тот кусок, пожалуйста.">
+      <audioTime in="19428" out="21878" />
+    </line>
+    <line lang1="- Und ein Pfund Hackfleisch, bitte." someNumber="None" image="dg\049_005.gif" lang2="- И фунт фарша, пожалуйста.">
+      <audioTime in="22053" out="24037" />
+    </line>
+    <line lang1="- #Möchten Sie junge Hähnchen?" someNumber="640" image="dg\049_006.gif" lang2="- Желаете цыплят?">
+      <audioTime in="24445" out="26371" />
+    </line>
+    <line lang1="Sie #sind sehr gut." someNumber="640" image="dg\049_006.gif" lang2="Они очень хорошие.">
+      <audioTime in="26720" out="28179" />
+    </line>
+    <line lang1="- Nein, danke schön." someNumber="640" image="dg\049_006.gif" lang2="- Нет, спасибо.">
+      <audioTime in="28354" out="29638" />
+    </line>
+    <line lang1="Mein Mann #mag Fleisch, aber junge Hähnchen #mag er nicht." someNumber="950" image="dg\049_007.gif" lang2="Мой муж любит мясо, но не любит цыплят.">
+      <audioTime in="29696" out="33256" />
+    </line>
+    <line lang1="- Offen gestanden, Frau Braun, ich #mag junge Hähnchen auch nicht." someNumber="280" image="dg\049_007.gif" lang2="- Откровенно говоря, госпожа Браун, я тоже не люблю цыплят!">
+      <audioTime in="33664" out="37748" />
+    </line>
+  </lines>
+</lesson>

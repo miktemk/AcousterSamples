@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="i_133.wav" dic="p133" dlgName="Не хочу сниматься..." dlgFile="exr\ig131.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Signora Grandi, Lei ha appena girato un nuovo film?" someNumber="None" image="dg\133_001.gif" lang2="- Вы только что снялись в новом фильме, госпожа Гранди?">
+      <audioTime in="0" out="3313" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\133_001.gif" lang2="- Да, снялась.">
+      <audioTime in="3313" out="4216" />
+    </line>
+    <line lang1="- Ha già intenzione di farne un altro?" someNumber="None" image="dg\133_001.gif" lang2="- Собираетесь ли Вы сниматься ещё в каком-нибудь фильме?">
+      <audioTime in="4216" out="6654" />
+    </line>
+    <line lang1="- No." someNumber="None" image="dg\133_001.gif" lang2="- Нет, не собираюсь.">
+      <audioTime in="6654" out="7783" />
+    </line>
+    <line lang1="Ho intenzione di ritirarmi." someNumber="None" image="dg\133_001.gif" lang2="Я собираюсь удалиться от дел.">
+      <audioTime in="7783" out="10041" />
+    </line>
+    <line lang1="Mi sento molto stanca." someNumber="None" image="dg\133_001.gif" lang2="Я чувствую себя очень усталой.">
+      <audioTime in="10041" out="12118" />
+    </line>
+    <line lang1="Non voglio fare nessun altro film per un bel pezzo." someNumber="None" image="dg\133_001.gif" lang2="Я ещё долгое время не хочу сниматься ни в каком другом фильме.">
+      <audioTime in="12251" out="15411" />
+    </line>
+    <line lang1="- Compriamo una rivista, Gianna, su!" someNumber="None" image="dg\133_002.gif" lang2="- Давай купим газету, Джанна!">
+      <audioTime in="15411" out="18075" />
+    </line>
+    <line lang1="- Senti!" someNumber="930" image="dg\133_002.gif" lang2="- Послушай-ка это!">
+      <audioTime in="18075" out="19294" />
+    </line>
+    <line lang1="&quot;Maria Grandi: novità sensazonali dal nostro cronista Pino Scatto." someNumber="None" image="dg\133_002.gif" lang2="&quot;Мария Гранди: сенсационная новость от нашего репортёра Пино Скатто.">
+      <audioTime in="19649" out="24427" />
+    </line>
+    <line lang1="La signora Maria Grandi è arrivata oggi all'aeroporto di Roma." someNumber="None" image="dg\133_002.gif" lang2="Госпожа Мария Гранди прибыла сегодня в Римский аэропорт.">
+      <audioTime in="24735" out="28587" />
+    </line>
+    <line lang1="Indossava un vestito azzurro e una pelliccia di visone." someNumber="None" image="dg\133_002.gif" lang2="Она была одета в голубое платье и норковую шубку.">
+      <audioTime in="28972" out="32518" />
+    </line>
+    <line lang1="Mi ha raccontato di avere appena girato un nuovo film." someNumber="None" image="dg\133_002.gif" lang2="Она рассказала мне, что только что снялась в новом фильме.">
+      <audioTime in="32980" out="36062" />
+    </line>
+    <line lang1="Ha detto di aver l'intenzione di non fare più film." someNumber="None" image="dg\133_002.gif" lang2="Она сказала, что не собирается сниматься ни в каком другом фильме.">
+      <audioTime in="36293" out="39452" />
+    </line>
+    <line lang1="Ha detto di aver l'intenzione di ritirarsi." someNumber="None" image="dg\133_002.gif" lang2="Она сказала, что собирается удалиться от дел.">
+      <audioTime in="39684" out="42535" />
+    </line>
+    <line lang1="Ha raccontato ai cronisti che si sente troppo stanca" someNumber="None" image="dg\133_002.gif" lang2="Она рассказала репортёрам, что чувствует себя очень усталой">
+      <audioTime in="43074" out="46233" />
+    </line>
+    <line lang1="e per un bel pezzo non vuole fare nuovi film&quot;." someNumber="None" image="dg\133_002.gif" lang2="и не хочет сниматься в новых фильмах долгое время&quot;.">
+      <audioTime in="46311" out="49008" />
+    </line>
+    <line lang1="- Te lo immagini, Katia!" someNumber="None" image="dg\133_002.gif" lang2="- Ну, представь себе, Катя!">
+      <audioTime in="49316" out="51089" />
+    </line>
+  </lines>
+</lesson>

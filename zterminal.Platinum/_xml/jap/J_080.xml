@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="j_080.wav" dlgName="Мы слушали и записывали" dic="p080" />
+  <lines>
+    <line lang1="ー太郎、英語*の*授業*は*どう*でした*か。" someNumber="None" image="080_001.jpg" lang2="- Таро, как прошёл урок английского?">
+      <audioTime in="0" out="3689" />
+    </line>
+    <line lang1="ー面白かった*です。" someNumber="None" image="080_001.jpg" lang2="- Было интересно.">
+      <audioTime in="3689" out="5388" />
+    </line>
+    <line lang1="テープ*を*聞きながら*プリント*の*空いている*ところ*に*言葉*を*入れました。" someNumber="78" image="080_003.jpg" lang2="Мы вставляли слова в пропущенные места текста, прослушивая запись.">
+      <audioTime in="5388" out="10418" />
+    </line>
+    <line lang1="ーそれ*は*聞き取り*れん習*です*ね。" someNumber="163" image="080_004.jpg" lang2="- Это упражнение на распознавание на слух, не правда ли?">
+      <audioTime in="10622" out="13991" />
+    </line>
+    <line lang1="ーそう*です。" someNumber="None" image="080_004.jpg" lang2="- Да.">
+      <audioTime in="13991" out="14944" />
+    </line>
+    <line lang1="それ*から*自分*で*教科書*を*読んで、テープ*に*ろく音*しました。" someNumber="None" image="080_006.jpg" lang2="Потом мы читали учебник, записывая себя на магнитофонную ленту.">
+      <audioTime in="14944" out="19992" />
+    </line>
+    <line lang1="ー読み方*の*れん習*です*ね。" someNumber="None" image="080_007.jpg" lang2="- Это упражнение на чтение, не так ли?">
+      <audioTime in="19812" out="22664" />
+    </line>
+    <line lang1="ーそう*です。それ*に*正しい*発音*の*れん習*です。" someNumber="120" image="080_007.jpg" lang2="- Да. Кроме того, это упражнение на произношение.">
+      <audioTime in="22664" out="26718" />
+    </line>
+    <line lang1="あと*で*自分*の*発音*を*正しい*発音*と*比べながら*れん習*を*続けました。" someNumber="None" image="080_009.jpg" lang2="Потом мы продолжали упражнение, сравнивая своё произношение с правильным.">
+      <audioTime in="26718" out="33222" />
+    </line>
+    <line lang1="ー英語*が*ずいぶん*上手*に*なりました*ね。" someNumber="113" image="080_010.jpg" lang2="- Вы здорово преуспели в английском, не правда ли?">
+      <audioTime in="33222" out="36942" />
+    </line>
+    <line lang1="ーそう*で*も*ありません。" someNumber="None" image="080_010.jpg" lang2="- Это не так.">
+      <audioTime in="36942" out="38533" />
+    </line>
+    <line lang1="聞き取り*と*会話*は*まあまあ*できます*が、読む*の*は*まだまだ*です。" someNumber="114" image="080_010.jpg" lang2="Распознавание на слух и беседа более или менее, но со чтением пока неважно.">
+      <audioTime in="38533" out="44293" />
+    </line>
+    <line lang1="昨日*ネルソン*さん*と*話しながら*町*を*歩きました。" someNumber="None" image="080_013.jpg" lang2="Вчера мы гуляли по городу с Нельсоном, беседуя.">
+      <audioTime in="44293" out="48306" />
+    </line>
+    <line lang1="大部*分わかりました。" someNumber="None" image="080_013.jpg" lang2="(Я) понял большую часть (разговора).">
+      <audioTime in="48306" out="50795" />
+    </line>
+    <line lang1="ネルソン*さん*は*イギリス人*な*ので、発音*が*分かり*やすい*です。" someNumber="163" image="080_013.jpg" lang2="Нельсон англичанин, поэтому его произношение легко понять.">
+      <audioTime in="50795" out="56411" />
+    </line>
+    <line lang1="アメリカ人*の*発音*は*分かり*にくい*です。" someNumber="None" image="080_016.jpg" lang2="Произношение американцев трудно для понимания.">
+      <audioTime in="56411" out="59594" />
+    </line>
+    <line lang1="ーどの*ぐらい*ことば*を*知っています*か。" someNumber="43" image="080_017.jpg" lang2="- Сколько слов Вы примерно знаете?">
+      <audioTime in="59594" out="63254" />
+    </line>
+    <line lang1="―５百*ぐらい*だ*と*思います。" someNumber="None" image="080_018.jpg" lang2="- Думаю, что около 500.">
+      <audioTime in="63254" out="65552" />
+    </line>
+    <line lang1="覚え*やすい*言葉*と*覚え*にくい*言葉*が*あります。" someNumber="None" image="080_018.jpg" lang2="Есть слова, лёгкие для запоминания и трудные для запоминания.">
+      <audioTime in="65552" out="69549" />
+    </line>
+    <line lang1="毎日*ふく習*しなくて*は・・・" someNumber="156" image="080_020.jpg" lang2="Если каждый день не повторять...">
+      <audioTime in="69549" out="72558" />
+    </line>
+    <line lang1="ーがんばって*ね。" someNumber="None" image="080_021.jpg" lang2="- Старайся!">
+      <audioTime in="72558" out="74287" />
+    </line>
+    <line lang1="テープを聞きながら寝るのがいいと聞いたんですが。" someNumber="None" image="080_022.jpg" lang2="Я слышала, что полезно засыпать, слушая магнитофонную запись.">
+      <audioTime in="74172" out="78098" />
+    </line>
+    <line lang1="ーうそですよ。" someNumber="None" image="080_022.jpg" lang2="- Это неправда!">
+      <audioTime in="78098" out="79536" />
+    </line>
+  </lines>
+</lesson>

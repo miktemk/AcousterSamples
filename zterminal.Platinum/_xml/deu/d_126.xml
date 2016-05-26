@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_126.wav" dic="p126" dlgName="Я должен... А как ты?" dlgFile="exr\dg125.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ich #muss jetzt #gehen." someNumber="720" image="dg\126_001.gif" lang2="- Я сейчас должен уходить.">
+      <audioTime in="255" out="1536" />
+    </line>
+    <line lang1="Und du?" someNumber="720" image="dg\126_001.gif" lang2="А ты?">
+      <audioTime in="1536" out="2665" />
+    </line>
+    <line lang1="- Ich #muss auch #gehen." someNumber="None" image="dg\126_001.gif" lang2="- Мне тоже придётся уйти.">
+      <audioTime in="2665" out="3794" />
+    </line>
+    <line lang1="- Ich #brauche morgen früh nicht #aufzustehen." someNumber="None" image="dg\126_002.gif" lang2="- Мне не нужно завтра рано вставать.">
+      <audioTime in="3924" out="6229" />
+    </line>
+    <line lang1="Und du?" someNumber="None" image="dg\126_002.gif" lang2="А тебе?">
+      <audioTime in="6229" out="7222" />
+    </line>
+    <line lang1="- Ich #muss morgen früh auch nicht #aufstehen." someNumber="490" image="dg\126_002.gif" lang2="- Мне тоже завтра не надо вставать рано.">
+      <audioTime in="7082" out="9386" />
+    </line>
+    <line lang1="- Peter #muss das Geld #wechseln." someNumber="None" image="dg\126_003.gif" lang2="- Петер должен разменять деньги.">
+      <audioTime in="9642" out="11519" />
+    </line>
+    <line lang1="Und Monika?" someNumber="None" image="dg\126_003.gif" lang2="А Моника?">
+      <audioTime in="11519" out="12648" />
+    </line>
+    <line lang1="- Sie #muss auch das Geld #wechseln." someNumber="160" image="dg\126_003.gif" lang2="- Ей тоже придётся разменять деньги.">
+      <audioTime in="12799" out="14676" />
+    </line>
+    <line lang1="- #Braucht Monika morgen nicht nach London zu #fahren?" someNumber="None" image="dg\126_004.gif" lang2="- Монике не придётся ехать завтра в Лондон?">
+      <audioTime in="14933" out="17834" />
+    </line>
+    <line lang1="Und Jurgen?" someNumber="None" image="dg\126_004.gif" lang2="А Юргену?">
+      <audioTime in="18090" out="19199" />
+    </line>
+    <line lang1="- Er #braucht morgen auch nicht nach London zu #fahren." someNumber="750" image="dg\126_004.gif" lang2="- Ему тоже не нужно завтра ехать в Лондон.">
+      <audioTime in="19455" out="22100" />
+    </line>
+    <line lang1="- Ich #muss mit dem Flugzeug #fliegen." someNumber="None" image="dg\126_005.gif" lang2="- Я должен лететь самолётом.">
+      <audioTime in="22356" out="24062" />
+    </line>
+    <line lang1="Und du?" someNumber="None" image="dg\126_005.gif" lang2="А ты?">
+      <audioTime in="24062" out="24965" />
+    </line>
+    <line lang1="- Ich #muss auch mit dem Flugzeug #fliegen." someNumber="None" image="dg\126_005.gif" lang2="- Мне тоже придётся лететь самолётом.">
+      <audioTime in="24965" out="26817" />
+    </line>
+    <line lang1="- Ich #brauche sie morgen nicht vom Bahnhof #abzuholen." someNumber="None" image="dg\126_006.gif" lang2="- Мне не придётся встречать её на вокзале завтра.">
+      <audioTime in="27475" out="30292" />
+    </line>
+    <line lang1="Und Sie?" someNumber="None" image="dg\126_006.gif" lang2="А Вам?">
+      <audioTime in="30292" out="31195" />
+    </line>
+    <line lang1="- Ich #brauche sie morgen auch nicht vom Bahnhof #abzuholen." someNumber="None" image="dg\126_006.gif" lang2="- Мне тоже не нужно встречать её на станции завтра.">
+      <audioTime in="31195" out="34219" />
+    </line>
+    <line lang1="- Peter #braucht dort nicht so früh zu #sein." someNumber="None" image="dg\126_007.gif" lang2="- Петеру не придётся быть там рано.">
+      <audioTime in="34558" out="36776" />
+    </line>
+    <line lang1="Und Alice?" someNumber="None" image="dg\126_007.gif" lang2="А Алисе?">
+      <audioTime in="36776" out="37905" />
+    </line>
+    <line lang1="- Sie #braucht dort auch nicht früh zu #sein." someNumber="None" image="dg\126_007.gif" lang2="- Ей тоже не придётся быть там рано.">
+      <audioTime in="37971" out="40275" />
+    </line>
+    <line lang1="- Willi #soll sofort #entscheiden." someNumber="None" image="dg\126_008.gif" lang2="- Вилли должен решать немедленно.">
+      <audioTime in="40702" out="42357" />
+    </line>
+    <line lang1="Und Jürgen?" someNumber="None" image="dg\126_008.gif" lang2="А Юрген?">
+      <audioTime in="42358" out="43261" />
+    </line>
+    <line lang1="- Er #soll auch sofort #entscheiden." someNumber="None" image="dg\126_008.gif" lang2="- Ему тоже придётся решать немедленно.">
+      <audioTime in="43176" out="44968" />
+    </line>
+    <line lang1="- Ich #brauche kein Taxi zu #nehmen." someNumber="None" image="dg\126_009.gif" lang2="- Мне не придётся брать такси.">
+      <audioTime in="45480" out="47699" />
+    </line>
+    <line lang1="Und du?" someNumber="None" image="dg\126_009.gif" lang2="А тебе?">
+      <audioTime in="47699" out="48827" />
+    </line>
+    <line lang1="- Ich #brauche auch kein Taxi zu #nehmen." someNumber="700" image="dg\126_009.gif" lang2="- Мне тоже не нужно брать такси.">
+      <audioTime in="48637" out="50770" />
+    </line>
+    <line lang1="- Ich #muss diesen Bus #erreichen." someNumber="330" image="dg\126_010.gif" lang2="- Я должен успеть на этот автобус.">
+      <audioTime in="50770" out="52667" />
+    </line>
+    <line lang1="Und du?" someNumber="330" image="dg\126_010.gif" lang2="А ты?">
+      <audioTime in="52667" out="53796" />
+    </line>
+    <line lang1="- Ich #muss diesen Bus auch #erreichen." someNumber="None" image="dg\126_010.gif" lang2="- Мне тоже надо успеть на этот автобус.">
+      <audioTime in="54013" out="56572" />
+    </line>
+  </lines>
+</lesson>

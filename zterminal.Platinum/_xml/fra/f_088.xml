@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="f_088.wav" dic="p088" dlgName="Купили ли Вы?.." dlgFile="exr\fg087.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Avez-vous acheté une nouvelle voiture, l'année passée?" someNumber="60" image="dg\088_001.gif" lang2="- Купили ли вы новую автомашину в прошлом году?">
+      <audioTime in="0" out="1957" />
+    </line>
+    <line lang1="- Oui, j'en ai acheté une." someNumber="None" image="dg\088_001.gif" lang2="- Да, я купил (одну).">
+      <audioTime in="1957" out="3501" />
+    </line>
+    <line lang1="- Et Réné, lui aussi?" someNumber="None" image="dg\088_001.gif" lang2="- А Рене, он тоже?">
+      <audioTime in="3501" out="4855" />
+    </line>
+    <line lang1="- Non, il n'en a pas encore acheté." someNumber="780" image="dg\088_001.gif" lang2="- Он пока ещё её не купил.">
+      <audioTime in="4855" out="6872" />
+    </line>
+    <line lang1="- Avez-vous trouvé votre stylo, hier?" someNumber="None" image="dg\088_002.gif" lang2="- Нашли ли вы свою ручку вчера?">
+      <audioTime in="6872" out="8507" />
+    </line>
+    <line lang1="- Oui, je l'ai trouvé." someNumber="None" image="dg\088_002.gif" lang2="- Да, я её нашёл.">
+      <audioTime in="8507" out="9571" />
+    </line>
+    <line lang1="- Et Marie?" someNumber="None" image="dg\088_002.gif" lang2="- А Мари?">
+      <audioTime in="9571" out="10189" />
+    </line>
+    <line lang1="- Elle ne l'a pas encore trouvé." someNumber="None" image="dg\088_002.gif" lang2="- Она пока ещё её не нашла.">
+      <audioTime in="10189" out="11553" />
+    </line>
+    <line lang1="- Avez-vous acheté une télé neuve l'année passée?" someNumber="None" image="dg\088_003.gif" lang2="- Купили ли вы новый телевизор в прошлом году?">
+      <audioTime in="11553" out="13760" />
+    </line>
+    <line lang1="- Oui, j'en ai acheté une." someNumber="None" image="dg\088_003.gif" lang2="- Да, я купил (один).">
+      <audioTime in="13760" out="14945" />
+    </line>
+    <line lang1="- Et Réné et Marie?" someNumber="None" image="dg\088_003.gif" lang2="- А Рене и Мари?">
+      <audioTime in="14945" out="15975" />
+    </line>
+    <line lang1="- Non, ils n'en ont pas encore acheté." someNumber="None" image="dg\088_003.gif" lang2="- Они пока ещё его не купили.">
+      <audioTime in="15975" out="17470" />
+    </line>
+    <line lang1="- Avez-vous pris votre petit déjeuner à 8 heures?" someNumber="None" image="dg\088_004.gif" lang2="- Позавтракали ли вы в 8 часов?">
+      <audioTime in="17470" out="19684" />
+    </line>
+    <line lang1="- Oui, je l'ai pris à 8 heures." someNumber="None" image="dg\088_004.gif" lang2="- Да, я позавтракал в 8 часов.">
+      <audioTime in="19684" out="21121" />
+    </line>
+    <line lang1="- Et votre mère?" someNumber="None" image="dg\088_004.gif" lang2="- А ваша мать?">
+      <audioTime in="21121" out="21987" />
+    </line>
+    <line lang1="- Elle ne l'a pas encore pris." someNumber="None" image="dg\088_004.gif" lang2="- Она пока ещё не завтракала.">
+      <audioTime in="21987" out="23269" />
+    </line>
+    <line lang1="- Etes-vous sorti tôt de votre bureau?" someNumber="780" image="dg\088_005.gif" lang2="- Вы вышли рано из офиса?">
+      <audioTime in="23269" out="25061" />
+    </line>
+    <line lang1="- Oui, j'en suis sorti tôt." someNumber="None" image="dg\088_005.gif" lang2="- Да, я оттуда вышел рано.">
+      <audioTime in="25061" out="26356" />
+    </line>
+    <line lang1="- Et votre chef?" someNumber="None" image="dg\088_005.gif" lang2="- А ваш шеф?">
+      <audioTime in="26356" out="27220" />
+    </line>
+    <line lang1="- Il n'en est pas sorti." someNumber="530" image="dg\088_005.gif" lang2="- Он оттуда не выходил.">
+      <audioTime in="27220" out="28204" />
+    </line>
+    <line lang1="- Avez-vous écouté les actualités hier soir?" someNumber="None" image="dg\088_006.gif" lang2="- Слушали ли вы известия вчера вечером?">
+      <audioTime in="28204" out="30535" />
+    </line>
+    <line lang1="- Oui, hier soir je les ai écoutées." someNumber="None" image="dg\088_006.gif" lang2="- Да, вчера вечером я их слушал.">
+      <audioTime in="30535" out="32677" />
+    </line>
+    <line lang1="- Et Philippe?" someNumber="None" image="dg\088_006.gif" lang2="- А Филипп?">
+      <audioTime in="32677" out="33324" />
+    </line>
+    <line lang1="- Il ne les a pas encore écoutées." someNumber="730" image="dg\088_006.gif" lang2="- Он их пока ещё не слушал.">
+      <audioTime in="33324" out="34773" />
+    </line>
+    <line lang1="- Avez-vous fait votre lit le matin?" someNumber="None" image="dg\088_007.gif" lang2="- Убрали ли вы свою постель утром?">
+      <audioTime in="34773" out="36520" />
+    </line>
+    <line lang1="- Oui, je l'ai fait." someNumber="None" image="dg\088_007.gif" lang2="- Да, я её убрала.">
+      <audioTime in="36520" out="37582" />
+    </line>
+    <line lang1="- Et Suzanne et Jeanne?" someNumber="None" image="dg\088_007.gif" lang2="- А Сюзанна и Жанна?">
+      <audioTime in="37582" out="38722" />
+    </line>
+    <line lang1="- Elles ne l'ont pas encore fait." someNumber="None" image="dg\088_007.gif" lang2="- Они пока ещё их не убрали.">
+      <audioTime in="38722" out="39924" />
+    </line>
+    <line lang1="- Avez-vous rencontré Catherine hier?" someNumber="680" image="dg\088_008.gif" lang2="- Встретили ли вы Катрин вчера?">
+      <audioTime in="39924" out="41565" />
+    </line>
+    <line lang1="- Oui, je l'ai rencontrée." someNumber="None" image="dg\088_008.gif" lang2="- Да, я её встретил.">
+      <audioTime in="41565" out="43083" />
+    </line>
+    <line lang1="- Et votre femme?" someNumber="None" image="dg\088_008.gif" lang2="- А ваша жена?">
+      <audioTime in="43083" out="43907" />
+    </line>
+    <line lang1="- Elle ne l'a pas encore rencontrée." someNumber="None" image="dg\088_008.gif" lang2="- Она её пока ещё не встретила.">
+      <audioTime in="43907" out="45209" />
+    </line>
+  </lines>
+</lesson>

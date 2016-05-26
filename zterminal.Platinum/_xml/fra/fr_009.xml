@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="FR_009.wav" dlgName="На вокзале" dlgFile="exr\frg009.txt" />
+  <lines>
+    <line lang1="- Que de monde devant les guichets, et nous n'avons pas encore nos billets!" someNumber="None" image="f.jpg" lang2="- Сколько людей перед окошками, а у нас нет ещё билетов.">
+      <audioTime in="0" out="5395" />
+    </line>
+    <line lang1="- Il faut se dépêcher." someNumber="None" image="f.jpg" lang2="- Надо торопиться.">
+      <audioTime in="5395" out="7221" />
+    </line>
+    <line lang1="- Pierre, va acheter quatre billets de seconde pour Paris." someNumber="None" image="f.jpg" lang2="- Пьер, пойди купи четыре билета второго класса до Парижа.">
+      <audioTime in="7221" out="11760" />
+    </line>
+    <line lang1="Moi, je vais enregistrer nos valises dans la salle des bagages." someNumber="None" image="f.jpg" lang2="Я пойду сдам наши чемоданы в багажное бюро.">
+      <audioTime in="11760" out="16643" />
+    </line>
+    <line lang1="Et toi, Françoise, tu attendras maman dans la salle d'attente." someNumber="None" image="f.jpg" lang2="А ты Франсуаза, подождешь маму в зале ожидания.">
+      <audioTime in="16643" out="21783" />
+    </line>
+    <line lang1="Alors, à tout à l'heure!" someNumber="None" image="f.jpg" lang2="Тогда, пока!">
+      <audioTime in="21783" out="23946" />
+    </line>
+    <line lang1="- Voulez-vous, monsieur, enregistrer ces deux valises?" someNumber="None" image="f.jpg" lang2="- Можете ли вы зарегистрировать эти два чемодана?">
+      <audioTime in="23946" out="27452" />
+    </line>
+    <line lang1="- Tout de suite. Voici votre bulletin." someNumber="None" image="f.jpg" lang2="- Сейчас. Вот ваша квитанция.">
+      <audioTime in="27452" out="31307" />
+    </line>
+    <line lang1="- Merci. Tiens, tu es déjà là, Pierre? Et les billets?" someNumber="None" image="f.jpg" lang2="- Спасибо. Ты уже здесь Пьер? А билеты?">
+      <audioTime in="31307" out="36046" />
+    </line>
+    <line lang1="- Les voici!" someNumber="None" image="f.jpg" lang2="- Вот они!">
+      <audioTime in="36046" out="37537" />
+    </line>
+    <line lang1="- Bon, nous avons maintenant tout ce qu'il nous faut. En avant!" someNumber="None" image="f.jpg" lang2="- Хорошо, теперь у нас есть всё что надо. Пошли!">
+      <audioTime in="37537" out="42209" />
+    </line>
+    <line lang1="- Sur quel quai part notre train?" someNumber="None" image="f.jpg" lang2="- С какого перрона отправляется наш поезд?">
+      <audioTime in="42209" out="45065" />
+    </line>
+    <line lang1="- Sur le quai numéro 4, voie 7." someNumber="None" image="f.jpg" lang2="- С 4 перрона, путь 7.">
+      <audioTime in="45065" out="48594" />
+    </line>
+    <line lang1="- Nous avons encore beaucoup de temps." someNumber="None" image="f.jpg" lang2="- У нас ещё много времени.">
+      <audioTime in="48594" out="51665" />
+    </line>
+    <line lang1="Le train sera en gare dans 10 minutes seulement." someNumber="None" image="f.jpg" lang2="Поезд будет на вокзале через десять минут.">
+      <audioTime in="51665" out="55999" />
+    </line>
+  </lines>
+</lesson>

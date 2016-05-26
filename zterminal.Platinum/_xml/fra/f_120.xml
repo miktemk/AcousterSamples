@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="f_120.wav" dic="p120" dlgName="Я сделал это после того,.." dlgFile="exr\fg119.txt" author="Alexander" />
+  <lines>
+    <line lang1="- As-tu lu ce livre?" someNumber="470" image="dg\120_001.gif" lang2="- Читал ли ты эту книгу?">
+      <audioTime in="0" out="1393" />
+    </line>
+    <line lang1="- Oui, mais j'ai d'abord vu le film." someNumber="470" image="dg\120_001.gif" lang2="- Да, но сначала я посмотрел фильм.">
+      <audioTime in="1393" out="3714" />
+    </line>
+    <line lang1="J'ai lu ce livre après avoir vu le film." someNumber="None" image="dg\120_001.gif" lang2="Я прочитал эту книгу после того, как я посмотрел фильм.">
+      <audioTime in="3714" out="6156" />
+    </line>
+    <line lang1="- Avez-vous consulté le médecin?" someNumber="810" image="dg\120_002.gif" lang2="- Ходили ли вы к врачу?">
+      <audioTime in="6156" out="8163" />
+    </line>
+    <line lang1="- Oui, mais j'ai d'abord fixé l'heure de ma visite." someNumber="810" image="dg\120_002.gif" lang2="- Да, но я сначала назначил время своего визита.">
+      <audioTime in="8163" out="10910" />
+    </line>
+    <line lang1="J'ai consulté le médecin après avoir fixé l'heure de ma visite." someNumber="None" image="dg\120_002.gif" lang2="Я пошёл к врачу после того, как я назначил время своего визита.">
+      <audioTime in="10910" out="14386" />
+    </line>
+    <line lang1="- Le chef a-t-il quitté le bureau?" someNumber="None" image="dg\120_003.gif" lang2="- Ушёл ли начальник из офиса?">
+      <audioTime in="14386" out="16427" />
+    </line>
+    <line lang1="- Oui, mais il a d'abord terminé son travail." someNumber="None" image="dg\120_003.gif" lang2="- Да, но он сначала закончил свою работу.">
+      <audioTime in="16427" out="19264" />
+    </line>
+    <line lang1="Il a quitté le bureau après avoir terminé son travail." someNumber="680" image="dg\120_003.gif" lang2="Он ушёл из офиса после того, как закончил свою работу.">
+      <audioTime in="19264" out="22222" />
+    </line>
+    <line lang1="- Votre femme est-elle allée chez ses amis?" someNumber="None" image="dg\120_008.gif" lang2="- Пошла ли ваша жена к своим друзьям?">
+      <audioTime in="22222" out="25138" />
+    </line>
+    <line lang1="- Oui, mais elle a d'abord fait le ménage." someNumber="None" image="dg\120_008.gif" lang2="- Да, но она сначала закончила дела по хозяйству.">
+      <audioTime in="25138" out="27234" />
+    </line>
+    <line lang1="Elle est allée chez ses amis après avoir fait le ménage." someNumber="None" image="dg\120_008.gif" lang2="Она пошла к своим друзьям после того, как закончила дела по хозяйству.">
+      <audioTime in="27234" out="29999" />
+    </line>
+    <line lang1="- Votre professeur vous a-t-il rendu votre cahier?" someNumber="210" image="dg\120_009.gif" lang2="- Отдал ли вам ваш преподаватель вашу тетрадь?">
+      <audioTime in="29999" out="33053" />
+    </line>
+    <line lang1="- Oui, mais il l'a d'abord corrigé." someNumber="210" image="dg\120_009.gif" lang2="- Да, но он её сначала исправил.">
+      <audioTime in="33053" out="34903" />
+    </line>
+    <line lang1="Il m'a rendu le cahier après l'avoir corrigé." someNumber="None" image="dg\120_009.gif" lang2="Он отдал мне тетрадь после того, как он её проверил.">
+      <audioTime in="34903" out="37329" />
+    </line>
+    <line lang1="- Votre sœur est-elle allée en vacances?" someNumber="None" image="dg\120_010.gif" lang2="- Поехала ли ваша сестра на каникулы?">
+      <audioTime in="37329" out="39425" />
+    </line>
+    <line lang1="- Oui, mais elle a d'abord passé ses examens." someNumber="None" image="dg\120_010.gif" lang2="- Да, но она сначала сдала свои экзамены.">
+      <audioTime in="39425" out="41797" />
+    </line>
+    <line lang1="Elle est allée en vacances après avoir passé ses examens." someNumber="780" image="dg\120_010.gif" lang2="Она поехала на каникулы после того, как сдала свои экзамены.">
+      <audioTime in="41797" out="44805" />
+    </line>
+    <line lang1="- Avez-vous acheté une voiture neuve?" someNumber="None" image="dg\120_011.gif" lang2="- Купили ли вы новую машину?">
+      <audioTime in="44805" out="46693" />
+    </line>
+    <line lang1="- Oui, mais j'ai d'abord vendu la vieille voiture." someNumber="None" image="dg\120_011.gif" lang2="- Да, но я сначала продал старую машину.">
+      <audioTime in="46693" out="49275" />
+    </line>
+    <line lang1="J'ai acheté une voiture neuve après avoir vendu la vieille voiture." someNumber="None" image="dg\120_011.gif" lang2="Я купил новую машину после того, как продал старую машину.">
+      <audioTime in="49275" out="52512" />
+    </line>
+    <line lang1="- Votre mère a-t-elle balayé le plancher?" someNumber="None" image="dg\120_012.gif" lang2="- Подмела ли ваша мать пол?">
+      <audioTime in="52512" out="54986" />
+    </line>
+    <line lang1="- Oui, mais elle a d'abord essuyé la poussière de l'étagère." someNumber="None" image="dg\120_012.gif" lang2="- Да, но она сначала вытерла пыль с полки.">
+      <audioTime in="54986" out="58152" />
+    </line>
+    <line lang1="Elle a balayé le plancher après avoir essuyé la poussière de l'étagère." someNumber="50" image="dg\120_012.gif" lang2="Она подмела пол после того, как вытерла пыль с полки.">
+      <audioTime in="58152" out="61634" />
+    </line>
+    <line lang1="- As-tu bu le lait?" someNumber="None" image="dg\120_013.gif" lang2="- Выпил ли ты молоко?">
+      <audioTime in="61634" out="62643" />
+    </line>
+    <line lang1="- Oui, mais je l'ai d'abord fait bouillir." someNumber="None" image="dg\120_013.gif" lang2="- Да, но я его сначала вскипятил.">
+      <audioTime in="62643" out="64765" />
+    </line>
+    <line lang1="J'ai bu le lait après avoir fait bouillir." someNumber="None" image="dg\120_013.gif" lang2="Я выпил молоко после того, как я (его) вскипятил.">
+      <audioTime in="64765" out="67101" />
+    </line>
+    <line lang1="- Les enfants se sont-ils couchés?" someNumber="60" image="dg\120_014.gif" lang2="- Легли ли дети спать?">
+      <audioTime in="67101" out="68696" />
+    </line>
+    <line lang1="- Oui, mais ils ont d'abord pris un bain." someNumber="60" image="dg\120_014.gif" lang2="- Да, но они сначала приняли ванну.">
+      <audioTime in="68696" out="70697" />
+    </line>
+    <line lang1="Les enfants se sont couchées après avoir pris un bain." someNumber="None" image="dg\120_014.gif" lang2="Дети легли спать после того, как приняли ванну.">
+      <audioTime in="70697" out="72988" />
+    </line>
+  </lines>
+</lesson>

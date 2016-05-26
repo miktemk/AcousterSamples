@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="i_127.wav" dic="p127" dlgName="Он четвёртый или пятый." dlgFile="exr\ig127.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Conosci questa donna, Gianna?" someNumber="None" image="dg\127_001.gif" lang2="- Можешь ты узнать ту женщину, Джанна?">
+      <audioTime in="130" out="2218" />
+    </line>
+    <line lang1="- Mi pare di sì, Katia." someNumber="None" image="dg\127_001.gif" lang2="- Думаю, я могу, Катя.">
+      <audioTime in="2226" out="3855" />
+    </line>
+    <line lang1="Dovrebbe essere Maria Grandi, l'attrice." someNumber="None" image="dg\127_001.gif" lang2="Это, должно быть, Мария Гранди, актриса.">
+      <audioTime in="3833" out="6335" />
+    </line>
+    <line lang1="- Mi sembrava anche a me." someNumber="None" image="dg\127_001.gif" lang2="- Я тоже так подумала.">
+      <audioTime in="6392" out="8089" />
+    </line>
+    <line lang1="Ma chi è quello vicino a lei?" someNumber="None" image="dg\127_001.gif" lang2="А кто это рядом с ней?">
+      <audioTime in="8089" out="9895" />
+    </line>
+    <line lang1="- Mi pare che sia Antonio Lupo." someNumber="None" image="dg\127_001.gif" lang2="- Это, должно быть, Антонио Лупо.">
+      <audioTime in="9895" out="11836" />
+    </line>
+    <line lang1="- Antonio Lupo, l'attore?" someNumber="None" image="dg\127_001.gif" lang2="- Актёр Антонио Лупо?">
+      <audioTime in="11872" out="13633" />
+    </line>
+    <line lang1="Non può essere!" someNumber="None" image="dg\127_001.gif" lang2="Не может быть!">
+      <audioTime in="13633" out="15078" />
+    </line>
+    <line lang1="Fammi guardare meglio." someNumber="None" image="dg\127_001.gif" lang2="Дай мне ещё раз взглянуть.">
+      <audioTime in="15078" out="16568" />
+    </line>
+    <line lang1="Penso che tu abbia ragione!" someNumber="None" image="dg\127_001.gif" lang2="Я думаю, ты права!">
+      <audioTime in="16634" out="18526" />
+    </line>
+    <line lang1="Lui è il suo terzo marito?" someNumber="None" image="dg\127_001.gif" lang2="Он ведь её третий муж?">
+      <audioTime in="18526" out="20287" />
+    </line>
+    <line lang1="- No, deve essere il quarto o il quinto." someNumber="240" image="dg\127_001.gif" lang2="- Нет, он, должно быть, её четвёртый или пятый.">
+      <audioTime in="20287" out="23267" />
+    </line>
+    <line lang1="- Vero che la Grandi porta male i suoi anni!" someNumber="None" image="dg\127_001.gif" lang2="- Разве Гранди не выглядит старой!">
+      <audioTime in="23353" out="26093" />
+    </line>
+    <line lang1="- Sì, è vero!" someNumber="None" image="dg\127_001.gif" lang2="- Да, это правда!">
+      <audioTime in="26093" out="27528" />
+    </line>
+    <line lang1="Ho letto che ha ventinove anni," someNumber="None" image="dg\127_001.gif" lang2="Я читала, что ей двадцать девять,">
+      <audioTime in="27612" out="29438" />
+    </line>
+    <line lang1="ma a occhio e croce non ne ha meno di quaranta." someNumber="None" image="dg\127_001.gif" lang2="но ей, должно быть, не меньше сорока.">
+      <audioTime in="29484" out="32329" />
+    </line>
+    <line lang1="- Sono sicura che è così." someNumber="380" image="dg\127_001.gif" lang2="- Я уверена, что так.">
+      <audioTime in="32329" out="34091" />
+    </line>
+    <line lang1="- Era già un'attrice famosa quando io ancora andavo a scuola." someNumber="None" image="dg\127_001.gif" lang2="- Она была известной актрисой, когда я была ещё школьницей.">
+      <audioTime in="34051" out="37652" />
+    </line>
+    <line lang1="- Era molto tempo fa, no?" someNumber="None" image="dg\127_001.gif" lang2="- Давненько это было, не так ли?">
+      <audioTime in="37652" out="39374" />
+    </line>
+    <line lang1="- Mica cosi' tanto tempo fa!" someNumber="None" image="dg\127_001.gif" lang2="- Не так уж и давно!">
+      <audioTime in="39413" out="41213" />
+    </line>
+    <line lang1="Anch'io non ho più di ventinove anni." someNumber="None" image="dg\127_001.gif" lang2="Мне и самой-то не больше двадцати девяти.">
+      <audioTime in="41213" out="43327" />
+    </line>
+  </lines>
+</lesson>

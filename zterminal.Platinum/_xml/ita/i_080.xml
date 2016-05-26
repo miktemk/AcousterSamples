@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_080.wav" dic="p080" dlgName="У Вас есть?.." dlgFile="exr\ig079.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Di cosa ha bisogno Lei?" someNumber="None" image="dg\080_001.gif" lang2="- Что Вам нужно?">
+      <audioTime in="10" out="1547" />
+    </line>
+    <line lang1="- Mi serve il formaggio." someNumber="None" image="dg\080_001.gif" lang2="- Мне нужно много сыра.">
+      <audioTime in="1602" out="3150" />
+    </line>
+    <line lang1="Ne ho poco." someNumber="350" image="dg\080_001.gif" lang2="У меня мало.">
+      <audioTime in="3273" out="4640" />
+    </line>
+    <line lang1="- Di cosa ha bisogno?" someNumber="None" image="dg\080_002.gif" lang2="- Что ему нужно?">
+      <audioTime in="4651" out="6328" />
+    </line>
+    <line lang1="- Gli servono molte buste." someNumber="None" image="dg\080_002.gif" lang2="- Ему нужно много конвертов.">
+      <audioTime in="6300" out="8043" />
+    </line>
+    <line lang1="Ne ha poche." someNumber="None" image="dg\080_002.gif" lang2="У него мало.">
+      <audioTime in="8032" out="9140" />
+    </line>
+    <line lang1="- Di cosa hanno bisogno?" someNumber="None" image="dg\080_003.gif" lang2="- Что им нужно?">
+      <audioTime in="9253" out="10940" />
+    </line>
+    <line lang1="- Gli serve il pane." someNumber="None" image="dg\080_003.gif" lang2="- Им нужно много хлеба.">
+      <audioTime in="10940" out="12374" />
+    </line>
+    <line lang1="Ne hanno poco." someNumber="None" image="dg\080_003.gif" lang2="У них мало.">
+      <audioTime in="12374" out="13611" />
+    </line>
+    <line lang1="- Di cosa ha bisogno?" someNumber="None" image="dg\080_004.gif" lang2="- Что ей нужно?">
+      <audioTime in="13640" out="15102" />
+    </line>
+    <line lang1="- Le servono molte uova." someNumber="None" image="dg\080_004.gif" lang2="- Ей нужно много яиц.">
+      <audioTime in="15131" out="16718" />
+    </line>
+    <line lang1="Ne ha poche." someNumber="None" image="dg\080_004.gif" lang2="У неё мало.">
+      <audioTime in="16693" out="17774" />
+    </line>
+    <line lang1="- Di cosa ha bisogno?" someNumber="None" image="dg\080_005.gif" lang2="- Что ему нужно?">
+      <audioTime in="17742" out="19153" />
+    </line>
+    <line lang1="- Gli serve molto tabacco." someNumber="None" image="dg\080_005.gif" lang2="- Ему нужно много табака.">
+      <audioTime in="19216" out="20752" />
+    </line>
+    <line lang1="Ne ha poco." someNumber="None" image="dg\080_005.gif" lang2="У него мало.">
+      <audioTime in="20752" out="21835" />
+    </line>
+    <line lang1="- Di cosa ho bisogno?" someNumber="None" image="dg\080_011.gif" lang2="- Что мне нужно?">
+      <audioTime in="21849" out="23479" />
+    </line>
+    <line lang1="- Le servono molte riviste." someNumber="None" image="dg\080_011.gif" lang2="- Вам нужно много журналов.">
+      <audioTime in="23447" out="25063" />
+    </line>
+    <line lang1="Ne ha poche." someNumber="None" image="dg\080_011.gif" lang2="У вас мало.">
+      <audioTime in="25063" out="26102" />
+    </line>
+    <line lang1="- Di cosa ha bisogno Lei?" someNumber="None" image="dg\080_007.gif" lang2="- Что Вам нужно?">
+      <audioTime in="26048" out="27647" />
+    </line>
+    <line lang1="- Mi serve molto manzo." someNumber="None" image="dg\080_007.gif" lang2="- Мне нужно много говядины.">
+      <audioTime in="27647" out="29138" />
+    </line>
+    <line lang1="Ne ho poco." someNumber="None" image="dg\080_007.gif" lang2="У меня мало.">
+      <audioTime in="29152" out="30061" />
+    </line>
+    <line lang1="- Di cosa ha bisogno?" someNumber="None" image="dg\080_008.gif" lang2="- Что ей нужно?">
+      <audioTime in="30142" out="31641" />
+    </line>
+    <line lang1="- Le serve molto burro." someNumber="None" image="dg\080_008.gif" lang2="- Ей нужно много масла.">
+      <audioTime in="31641" out="32994" />
+    </line>
+    <line lang1="Ne ha poco." someNumber="None" image="dg\080_008.gif" lang2="У неё мало.">
+      <audioTime in="33038" out="33987" />
+    </line>
+    <line lang1="- Di cosa ha bisogno?" someNumber="None" image="dg\080_009.gif" lang2="- Что им нужно?">
+      <audioTime in="33998" out="35317" />
+    </line>
+    <line lang1="- Gli servono molte banane." someNumber="None" image="dg\080_009.gif" lang2="- Им нужно много бананов.">
+      <audioTime in="35325" out="36859" />
+    </line>
+    <line lang1="Ne ha poche." someNumber="None" image="dg\080_009.gif" lang2="У них мало.">
+      <audioTime in="36978" out="38111" />
+    </line>
+    <line lang1="- Di cosa ho bisogno?" someNumber="None" image="dg\080_010.gif" lang2="- Что мне нужно?">
+      <audioTime in="38184" out="39481" />
+    </line>
+    <line lang1="- Le servono molte medicine." someNumber="None" image="dg\080_010.gif" lang2="- Вам нужно много лекарств.">
+      <audioTime in="39500" out="41108" />
+    </line>
+    <line lang1="Ne ha poche." someNumber="None" image="dg\080_010.gif" lang2="У вас мало.">
+      <audioTime in="41072" out="41893" />
+    </line>
+  </lines>
+</lesson>

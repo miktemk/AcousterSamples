@@ -1,0 +1,107 @@
+<lesson>
+  <header wav="J_002.wav" dlgName="Представление" dic="p002" />
+  <lines>
+    <line lang1="ーみな*さん、おはよう*ございます。" someNumber="52" image="002_001.jpg" lang2="- Доброе утро, господа!">
+      <audioTime in="0" out="3416" />
+    </line>
+    <line lang1="ーおはよう*ございます。" someNumber="128" image="002_002.jpg" lang2="- Доброе утро!">
+      <audioTime in="3416" out="5634" />
+    </line>
+    <line lang1="ーはじめまして。" someNumber="None" image="002_003.jpg" lang2="- Разрешите представиться.">
+      <audioTime in="5634" out="8578" />
+    </line>
+    <line lang1="わたし*は*やまだ*です。" someNumber="140" image="002_003.jpg" lang2="Я Ямада.">
+      <audioTime in="8578" out="10654" />
+    </line>
+    <line lang1="わたし*は*せんせい*です。" someNumber="01" image="002_003.jpg" lang2="Я преподаватель.">
+      <audioTime in="10654" out="13386" />
+    </line>
+    <line lang1="わたし*は*にほんじん*です。" someNumber="142" image="002_003.jpg" lang2="Я японка.">
+      <audioTime in="13386" out="16474" />
+    </line>
+    <line lang1="どうぞ*よろしく。" someNumber="None" image="002_003.jpg" lang2="Прошу любить и жаловать.">
+      <audioTime in="16474" out="19459" />
+    </line>
+    <line lang1="あなた*は*どなた*です*か。" someNumber="54" image="002_003.jpg" lang2="А кто Вы? (Представьтесь, пожалуйста )">
+      <audioTime in="19459" out="22389" />
+    </line>
+    <line lang1="ーはじめまして。" someNumber="None" image="002_009.jpg" lang2="- Разрешите представиться.">
+      <audioTime in="22389" out="25097" />
+    </line>
+    <line lang1="わたし*は*スミス*です。" someNumber="166" image="002_009.jpg" lang2="Я Смит.">
+      <audioTime in="25097" out="27722" />
+    </line>
+    <line lang1="わたし*は*アメリカじん*です。" someNumber="166" image="002_009.jpg" lang2="Я американец.">
+      <audioTime in="27722" out="31225" />
+    </line>
+    <line lang1="どうぞ*よろしく。" someNumber="None" image="002_012.jpg" lang2="Прошу любить и жаловать.">
+      <audioTime in="31225" out="33737" />
+    </line>
+    <line lang1="ーはじめまして。" someNumber="None" image="002_013.jpg" lang2="- Разрешите представиться.">
+      <audioTime in="33737" out="36806" />
+    </line>
+    <line lang1="わたし*は*ジューラン*です。" someNumber="None" image="002_013.jpg" lang2="Я Дюран.">
+      <audioTime in="36806" out="39286" />
+    </line>
+    <line lang1="わたし*は*フランス人*です。" someNumber="166" image="002_013.jpg" lang2="Я француженка.">
+      <audioTime in="39286" out="42432" />
+    </line>
+    <line lang1="どうぞ*よろしく。" someNumber="None" image="002_013.jpg" lang2="Прошу любить и жаловать.">
+      <audioTime in="42432" out="45301" />
+    </line>
+    <line lang1="ーはじめまして。" someNumber="None" image="002_017.jpg" lang2="- Разрешите представиться.">
+      <audioTime in="45301" out="48138" />
+    </line>
+    <line lang1="わたし*は*ロバノフ*です。" someNumber="None" image="002_017.jpg" lang2="Я Лобанов.">
+      <audioTime in="48138" out="50604" />
+    </line>
+    <line lang1="わたし*は*ロシア人*です。" someNumber="None" image="002_017.jpg" lang2="Я русский.">
+      <audioTime in="50604" out="53542" />
+    </line>
+    <line lang1="よろしく*おねがい*します。" someNumber="None" image="002_020.jpg" lang2="К Вашим услугам!">
+      <audioTime in="53542" out="56358" />
+    </line>
+    <line lang1="ーすみません、あのかた*は*どなた*です*か。" someNumber="54" image="002_021.jpg" lang2="- Простите, кто тот господин?">
+      <audioTime in="56358" out="62669" />
+    </line>
+    <line lang1="ーあのかた*は*ロバノフ*さん*です。" someNumber="52" image="002_022.jpg" lang2="- Тот господин - господин Лобанов.">
+      <audioTime in="62669" out="66766" />
+    </line>
+    <line lang1="ーロバノフ*さん*は*ロシア人*です*か。" someNumber="172" image="002_022.jpg" lang2="- Господин Лобанов - русский?">
+      <audioTime in="66766" out="70842" />
+    </line>
+    <line lang1="ーそう*です。" someNumber="None" image="002_022.jpg" lang2="- Да.">
+      <audioTime in="70842" out="73294" />
+    </line>
+    <line lang1="ーロバノフ*さん*は*いちねんせい*です*か。" someNumber="None" image="002_022.jpg" lang2="- Господин Лобанов - первокурсник?">
+      <audioTime in="73294" out="77234" />
+    </line>
+    <line lang1="ーそう*です。" someNumber="None" image="002_022.jpg" lang2="- Да.">
+      <audioTime in="77234" out="80086" />
+    </line>
+    <line lang1="ーあの方*は*どなた*です*か。" someNumber="52" image="002_027.jpg" lang2="- А кто тот господин?">
+      <audioTime in="80086" out="83316" />
+    </line>
+    <line lang1="ーあの方*は*チン*さん*です。" someNumber="None" image="002_028.jpg" lang2="- Тот господин - господин Тин.">
+      <audioTime in="83316" out="87274" />
+    </line>
+    <line lang1="ーチン*さん*は*かんこくじん*です*か。" someNumber="None" image="002_029.jpg" lang2="- Господин Тин - кореец?">
+      <audioTime in="87274" out="91688" />
+    </line>
+    <line lang1="―いいえ、チン*さん*は*かんこく人*ではありません。" someNumber="None" image="002_030.jpg" lang2="- Нет, господин Тин не кореец.">
+      <audioTime in="91688" out="97565" />
+    </line>
+    <line lang1="ちゅうごく人*です。" someNumber="142" image="002_031.jpg" lang2="(Он) китаец.">
+      <audioTime in="97565" out="100748" />
+    </line>
+    <line lang1="ーチン*さん*も*いちねんせい*です*か。" someNumber="122" image="002_032.jpg" lang2="- Господин Тин тоже первокурсник?">
+      <audioTime in="100748" out="103925" />
+    </line>
+    <line lang1="ーはい、チン*さん*も*いちねんせい*です。" someNumber="None" image="002_033.jpg" lang2="- Да, господин Тин тоже первокурсник.">
+      <audioTime in="103925" out="108893" />
+    </line>
+    <line lang1="わたしたち*は*みんな*一ねんせい*です。" someNumber="52" image="002_034.jpg" lang2="Мы все первокурсники.">
+      <audioTime in="108893" out="114004" />
+    </line>
+  </lines>
+</lesson>

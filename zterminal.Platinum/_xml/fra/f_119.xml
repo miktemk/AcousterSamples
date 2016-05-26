@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="f_119.wav" dic="p119" dlgName="Правдивая история." dlgFile="exr\fg119.txt" author="Alexander" />
+  <lines>
+    <line lang1="Aimes-tu les histoires? Je veux te raconter une vraie histoire." someNumber="940" image="dg\119_001.gif" lang2="Ты любишь рассказы? Я хочу рассказать тебе подлинную историю.">
+      <audioTime in="0" out="4234" />
+    </line>
+    <line lang1="Cela s'est passée avec mon ami il y a un an." someNumber="None" image="dg\119_001.gif" lang2="Это случилось с моим другом год назад.">
+      <audioTime in="4234" out="6464" />
+    </line>
+    <line lang1="Pendant que mon ami Georges lisait au lit, deux voleurs sont entrés dans sa maison." someNumber="None" image="dg\119_002.gif" lang2="Пока мой друг Жорж читал в постели, два вора забрались к нему в дом.">
+      <audioTime in="6464" out="10570" />
+    </line>
+    <line lang1="D'abord dans la cuisine et puis dans le salon." someNumber="810" image="dg\119_002.gif" lang2="Сначала - на кухню, а потом - в гостиную.">
+      <audioTime in="10570" out="12767" />
+    </line>
+    <line lang1="Il faisait noir et ils branchèrent une petite lanterne." someNumber="None" image="dg\119_003.gif" lang2="Было очень темно, и они включили маленький фонарик.">
+      <audioTime in="12767" out="16130" />
+    </line>
+    <line lang1="Tout à coup ils entendirent une voix." someNumber="None" image="dg\119_003.gif" lang2="Вдруг они услышали голос.">
+      <audioTime in="16130" out="17695" />
+    </line>
+    <line lang1="&quot;Qu'est-ce qui se passe ici?&quot;, a dit la voix." someNumber="50" image="dg\119_003.gif" lang2="&quot;Что происходит здесь?&quot; - спросил голос.">
+      <audioTime in="17695" out="20340" />
+    </line>
+    <line lang1="Les voleurs laissèrent tomber la petite lanterne et s'enfuirent le plus vite possible." someNumber="None" image="dg\119_004.gif" lang2="Воры уронили маленький фонарик и убежали как можно быстрее.">
+      <audioTime in="20340" out="24580" />
+    </line>
+    <line lang1="Quand Georges entendit le bruit il descendit vite l'escalier." someNumber="780" image="dg\119_005.gif" lang2="Когда Жорж услышал шум, он быстро спустился по лестнице.">
+      <audioTime in="24580" out="27295" />
+    </line>
+    <line lang1="Il brancha la lumière mais ne vit rien." someNumber="None" image="dg\119_006.gif" lang2="Он включил свет, но ничего не увидел.">
+      <audioTime in="27295" out="29453" />
+    </line>
+    <line lang1="Les voleurs s'enfuirent." someNumber="210" image="dg\119_006.gif" lang2="Воры убежали.">
+      <audioTime in="29453" out="30701" />
+    </line>
+    <line lang1="Mais le perroquet de Georges, Henri, lui, était là." someNumber="None" image="dg\119_007.gif" lang2="Но попугай Жоржа, Анри, (он) был там.">
+      <audioTime in="30701" out="33968" />
+    </line>
+    <line lang1="&quot;Qu'est-ce qui se passe, Georges?&quot;, a-t-il dit." someNumber="None" image="dg\119_007.gif" lang2="&quot;Что случилось, Жорж?&quot; - спросил он.">
+      <audioTime in="33968" out="36079" />
+    </line>
+    <line lang1="&quot;Rien, Henri&quot;, dit-il et sourit." someNumber="None" image="dg\119_007.gif" lang2="&quot;Ничего, Анри&quot;, - сказал Жорж и улыбнулся.">
+      <audioTime in="36079" out="38443" />
+    </line>
+    <line lang1="&quot;Va te coucher.&quot;" someNumber="None" image="dg\119_007.gif" lang2="&quot;Иди спать&quot;.">
+      <audioTime in="38443" out="39333" />
+    </line>
+  </lines>
+</lesson>

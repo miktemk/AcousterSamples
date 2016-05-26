@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="d_041.wav" dic="p041" dlgName="Что в сумке?" dlgFile="exr\dg041.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Ist diese Tasche schwer, Alice?" someNumber="220" image="dg\041_001.gif" lang2="- Эта сумка тяжёлая, Алис?">
+      <audioTime in="0" out="2480" />
+    </line>
+    <line lang1="- Nicht sehr." someNumber="220" image="dg\041_001.gif" lang2="- Не очень.">
+      <audioTime in="2480" out="3609" />
+    </line>
+    <line lang1="- Hier!" someNumber="810" image="dg\041_001.gif" lang2="- Вот!">
+      <audioTime in="3742" out="4464" />
+    </line>
+    <line lang1="#Stelle sie auf den Stuhl." someNumber="810" image="dg\041_001.gif" lang2="Положи её на стул.">
+      <audioTime in="4553" out="6177" />
+    </line>
+    <line lang1="Was #ist drin?" someNumber="810" image="dg\041_001.gif" lang2="Что в ней?">
+      <audioTime in="6177" out="7306" />
+    </line>
+    <line lang1="- Ein Stück Käse. ." someNumber="40" image="dg\041_002.gif" lang2="- Кусок сыра.">
+      <audioTime in="7529" out="8927" />
+    </line>
+    <line lang1="Ein Laib Brot." someNumber="None" image="dg\041_003.gif" lang2="Буханка хлеба.">
+      <audioTime in="9198" out="10640" />
+    </line>
+    <line lang1="Ein Stück Seife." someNumber="60" image="dg\041_004.gif" lang2="Кусок мыла.">
+      <audioTime in="10776" out="12445" />
+    </line>
+    <line lang1="Eine Tafel Schokolade." someNumber="80" image="dg\041_005.gif" lang2="Плитка шоколада.">
+      <audioTime in="12580" out="14563" />
+    </line>
+    <line lang1="Eine Flasche Milch." someNumber="60" image="dg\041_006.gif" lang2="Бутылка молока.">
+      <audioTime in="14789" out="16187" />
+    </line>
+    <line lang1="Ein Pfund Zucker." someNumber="70" image="dg\041_007.gif" lang2="Фунт сахара.">
+      <audioTime in="16277" out="17900" />
+    </line>
+    <line lang1="Ein halb Pfund Kaffee." someNumber="None" image="dg\041_008.gif" lang2="Полфунта кофе.">
+      <audioTime in="18216" out="20065" />
+    </line>
+    <line lang1="Ein viertel Pfund Tee." someNumber="440" image="dg\041_009.gif" lang2="Четверть фунта чая.">
+      <audioTime in="20380" out="22183" />
+    </line>
+    <line lang1="Und eine Schachtel Tabak." someNumber="90" image="dg\041_010.gif" lang2="И коробка табака.">
+      <audioTime in="22454" out="24754" />
+    </line>
+    <line lang1="- #Ist diese Schachtel Tabak für mich?" someNumber="370" image="dg\041_010.gif" lang2="- Эта коробка табака для меня?">
+      <audioTime in="25070" out="27504" />
+    </line>
+    <line lang1="- Die #ist gewiss nicht für mich!" someNumber="800" image="dg\041_010.gif" lang2="- Она определённо не для меня!">
+      <audioTime in="27955" out="29939" />
+    </line>
+  </lines>
+</lesson>

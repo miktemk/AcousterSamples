@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="FR_063.wav" dlgName="Примерка платья" dlgFile="exr\frg063.txt" />
+  <lines>
+    <line lang1="- Bonjour, madame." someNumber="None" image="f.jpg" lang2="- Здравствуйте.">
+      <audioTime in="0" out="1973" />
+    </line>
+    <line lang1="Je viens pour l'essayage." someNumber="None" image="f.jpg" lang2="Я пришла на примерку.">
+      <audioTime in="1973" out="4409" />
+    </line>
+    <line lang1="- Bonjour, mademoiselle." someNumber="None" image="f.jpg" lang2="- Здравствуйте, мадемуазель.">
+      <audioTime in="4409" out="6002" />
+    </line>
+    <line lang1="Votre robe est prête. La voici." someNumber="None" image="f.jpg" lang2="Ваше платье готово. Вот оно.">
+      <audioTime in="6002" out="9602" />
+    </line>
+    <line lang1="Passez tout d'abord le corsage." someNumber="None" image="f.jpg" lang2="Сначала наденьте кофточку.">
+      <audioTime in="9602" out="12331" />
+    </line>
+    <line lang1="Qui, comme ça, et ensuite la jupe. C'est fait?" someNumber="None" image="f.jpg" lang2="Да, вот так, а потом юбку. Уже?">
+      <audioTime in="12331" out="17413" />
+    </line>
+    <line lang1="- Oui, madame." someNumber="None" image="f.jpg" lang2="- Да, мадам.">
+      <audioTime in="17413" out="19250" />
+    </line>
+    <line lang1="- Alors comment trouvez-vous le corsage?" someNumber="None" image="f.jpg" lang2="- Как вам нравится кофточка?">
+      <audioTime in="19250" out="22647" />
+    </line>
+    <line lang1="- Il est un peu trop étroit, il gêne mes mouvements." someNumber="None" image="f.jpg" lang2="- Она немного тесна: она ограничивает свободу движений.">
+      <audioTime in="22647" out="27704" />
+    </line>
+    <line lang1="- Ce n'est rien." someNumber="None" image="f.jpg" lang2="- Это ничего.">
+      <audioTime in="27704" out="28904" />
+    </line>
+    <line lang1="Nous élargirons un peu les emmanchures et tout ira bien." someNumber="None" image="f.jpg" lang2="Мы расширим немного пройму, и всё будет в порядке.">
+      <audioTime in="28904" out="33315" />
+    </line>
+    <line lang1="Et la jupe?" someNumber="None" image="f.jpg" lang2="А юбка?">
+      <audioTime in="33315" out="34741" />
+    </line>
+    <line lang1="- Il me semble qu'elle est un peu trop collante." someNumber="None" image="f.jpg" lang2="- Мне кажется, что она слишком плотно облегает.">
+      <audioTime in="34741" out="37837" />
+    </line>
+    <line lang1="- Oui, vous avez raison." someNumber="None" image="f.jpg" lang2="- Да, вы правы.">
+      <audioTime in="37837" out="40050" />
+    </line>
+    <line lang1="Il faut l'élargir encore d'un centimètre aux hanches." someNumber="None" image="f.jpg" lang2="Надо расширить ещё на один сантиметр в бедрах.">
+      <audioTime in="40050" out="44155" />
+    </line>
+    <line lang1="Et maintenant je vais arrondir le bas de la robe." someNumber="None" image="f.jpg" lang2="А теперь я подровняю низ платья.">
+      <audioTime in="44155" out="48207" />
+    </line>
+    <line lang1="Tenez-vous droite! Merci." someNumber="None" image="f.jpg" lang2="Стойте прямо! Спасибо.">
+      <audioTime in="48207" out="51024" />
+    </line>
+    <line lang1="- C'est tout?" someNumber="None" image="f.jpg" lang2="- Это всё?">
+      <audioTime in="51024" out="52342" />
+    </line>
+    <line lang1="- Encore une minute." someNumber="None" image="f.jpg" lang2="- Ещё минуточку.">
+      <audioTime in="52342" out="54197" />
+    </line>
+    <line lang1="Juste le temps de passer la manche." someNumber="None" image="f.jpg" lang2="Как раз столько, сколько надо, чтоб надеть рукав.">
+      <audioTime in="54197" out="57184" />
+    </line>
+    <line lang1="La voilà. Elle tombe bien." someNumber="None" image="f.jpg" lang2="Вот. Он лежит хорошо.">
+      <audioTime in="57184" out="60318" />
+    </line>
+    <line lang1="C'est parfait, merci." someNumber="None" image="f.jpg" lang2="Спасибо.">
+      <audioTime in="60318" out="62842" />
+    </line>
+    <line lang1="- Et la longueur de la manche?" someNumber="None" image="f.jpg" lang2="- А длина рукава?">
+      <audioTime in="62842" out="65430" />
+    </line>
+    <line lang1="- Nous la réglerons au deuxième essayage." someNumber="None" image="f.jpg" lang2="- Мы его подгоним на второй примерке.">
+      <audioTime in="65430" out="68431" />
+    </line>
+    <line lang1="Et maintenant retirez doucement la robe pour ne pas faire tomber les épingles." someNumber="None" image="f.jpg" lang2="А теперь, пожалуйста, снимите осторожно платье, чтоб не выпали булавки.">
+      <audioTime in="68431" out="74177" />
+    </line>
+    <line lang1="- Et quand ferons-nous le deuxième essayage?" someNumber="None" image="f.jpg" lang2="- А когда мы сделаем следующую примерку?">
+      <audioTime in="74177" out="77994" />
+    </line>
+    <line lang1="- Demain, si vous avez le temps." someNumber="None" image="f.jpg" lang2="- Завтра, если у вас есть время.">
+      <audioTime in="77994" out="80043" />
+    </line>
+    <line lang1="- Très bien." someNumber="None" image="f.jpg" lang2="- Очень хорошо.">
+      <audioTime in="80043" out="81319" />
+    </line>
+    <line lang1="Alors au revoir, madame, et à demain." someNumber="None" image="f.jpg" lang2="До свидания, мадам, и до завтра.">
+      <audioTime in="81319" out="85213" />
+    </line>
+    <line lang1="Je suppose, qu'il n'y aura plus de corrections à faire." someNumber="None" image="f.jpg" lang2="Надеюсь, что не будет уже поправок.">
+      <audioTime in="85213" out="88802" />
+    </line>
+    <line lang1="- Je ne crois pas." someNumber="None" image="f.jpg" lang2="- Не думаю.">
+      <audioTime in="88802" out="90251" />
+    </line>
+    <line lang1="Au revoir, mademoiselle." someNumber="None" image="f.jpg" lang2="До свидания, мадемуазель.">
+      <audioTime in="90251" out="92449" />
+    </line>
+  </lines>
+</lesson>

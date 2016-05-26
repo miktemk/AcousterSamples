@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="d_033.wav" dic="p033" dlgName="Сегодня хорошая погода." dlgFile="exr\dg033.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Heute #ist der Tag schön." someNumber="None" image="dg\033_001.gif" lang2="- Сегодня хороший день.">
+      <audioTime in="86" out="2643" />
+    </line>
+    <line lang1="- Am Himmel #gibt es einige Wolken, aber die Sonne #scheint." someNumber="None" image="dg\033_001.gif" lang2="- На небе несколько облачков, но солнце сияет.">
+      <audioTime in="3120" out="7367" />
+    </line>
+    <line lang1="- Herr Müller #ist zusammen mit seiner Familie." someNumber="None" image="dg\033_002.gif" lang2="- Господин Мюллер со своей семьёй.">
+      <audioTime in="7670" out="10530" />
+    </line>
+    <line lang1="- Sie #gehen über eine Brücke." someNumber="None" image="dg\033_002.gif" lang2="- Они прогуливаются по мосту.">
+      <audioTime in="10790" out="12350" />
+    </line>
+    <line lang1="- Im Fluss #gibt es einige Boote." someNumber="None" image="dg\033_003.gif" lang2="- На реке есть несколько лодок.">
+      <audioTime in="12350" out="14820" />
+    </line>
+    <line lang1="- Herr Müller und seine Frau #1schauen sie #2an." someNumber="None" image="dg\033_003.gif" lang2="- Господин Мюллер и его жена смотрят на них.">
+      <audioTime in="15124" out="17203" />
+    </line>
+    <line lang1="- Inge #1schaut das große Schiff #2an." someNumber="None" image="dg\033_004.gif" lang2="- Инга смотрит на большой корабль.">
+      <audioTime in="17767" out="20020" />
+    </line>
+    <line lang1="- Das Schiff #schwimmt unter der Brücke." someNumber="None" image="dg\033_005.gif" lang2="- Корабль проплывает под мостом.">
+      <audioTime in="20366" out="23140" />
+    </line>
+    <line lang1="- Hans #1schaut ein Flugzeug #2an." someNumber="None" image="dg\033_006.gif" lang2="- Ганс смотрит на самолёт.">
+      <audioTime in="23487" out="25393" />
+    </line>
+    <line lang1="- Das Flugzeug #fliegt über dem Fluss." someNumber="None" image="dg\033_007.gif" lang2="- Самолёт пролетает над рекой.">
+      <audioTime in="25784" out="28513" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="FR_005.wav" dlgName="Вы говорите по-французски?" dlgFile="exr\frg005.txt" />
+  <lines>
+    <line lang1="- Parlez-vous français?" someNumber="None" image="f.jpg" lang2="- Говорите ли вы по-французски?">
+      <audioTime in="0" out="2492" />
+    </line>
+    <line lang1="- Oui. Le français est ma langue maternelle." someNumber="None" image="f.jpg" lang2="- Да, французский это мой родной язык.">
+      <audioTime in="2492" out="7393" />
+    </line>
+    <line lang1="- Vous êtes donc Français?" someNumber="None" image="f.jpg" lang2="- Значит, вы - француз?">
+      <audioTime in="7393" out="10507" />
+    </line>
+    <line lang1="- Oui, et vous-même, n'êtes-vous pas Français?" someNumber="None" image="f.jpg" lang2="- Да, а вы, вы не француз?">
+      <audioTime in="10507" out="15312" />
+    </line>
+    <line lang1="- Non, je ne suis pas Français, je suis Polonais." someNumber="None" image="f.jpg" lang2="- Нет, я не француз, я - поляк.">
+      <audioTime in="15312" out="20317" />
+    </line>
+    <line lang1="- Mais votre français est correct et vous parlez sans accent." someNumber="None" image="f.jpg" lang2="- Но ваш французский правильный и у вас правильное произношение.">
+      <audioTime in="20317" out="26421" />
+    </line>
+    <line lang1="Quelles langues étrangères comprenez-vous encore?" someNumber="None" image="f.jpg" lang2="Какие иностранные языки вы ещё знаете?">
+      <audioTime in="26421" out="30805" />
+    </line>
+    <line lang1="- Je comprends le russe, l'anglais et un peu l'allemand." someNumber="None" image="f.jpg" lang2="- Я понимаю по-русски, по-английски и немного по-немецки.">
+      <audioTime in="30805" out="36282" />
+    </line>
+    <line lang1="- Vous êtes donc polyglotte." someNumber="None" image="f.jpg" lang2="- В таком случае вы полиглот.">
+      <audioTime in="36282" out="39323" />
+    </line>
+    <line lang1="Et votre ami, quelles langues étrangères parle-t-il?" someNumber="None" image="f.jpg" lang2="А на каких иностранных языках говорит ваш друг?">
+      <audioTime in="39323" out="43721" />
+    </line>
+    <line lang1="- Il ne parle que le français." someNumber="None" image="f.jpg" lang2="- Он говорит только по-французски.">
+      <audioTime in="43721" out="46820" />
+    </line>
+    <line lang1="- Ne parlez pas si vite, s'il vous plaît." someNumber="None" image="f.jpg" lang2="- Пожалуйста, не говорите так быстро.">
+      <audioTime in="46820" out="50819" />
+    </line>
+    <line lang1="Parlez un peu plus lentement." someNumber="None" image="f.jpg" lang2="Говорите немного медленнее.">
+      <audioTime in="50819" out="53741" />
+    </line>
+    <line lang1="- Vous ne comprenez pas le français?" someNumber="None" image="f.jpg" lang2="- Вы (не) понимаете по-французски?">
+      <audioTime in="53741" out="57054" />
+    </line>
+    <line lang1="- Si, je comprends assez bien le français," someNumber="None" image="f.jpg" lang2="- Да, я понимаю довольно хорошо по-французски,">
+      <audioTime in="57054" out="61098" />
+    </line>
+    <line lang1="mais quand on parle trop vite, je comprends mal." someNumber="None" image="f.jpg" lang2="но когда говорят слишком быстро, я плохо понимаю.">
+      <audioTime in="61098" out="66095" />
+    </line>
+    <line lang1="- Et, quelles langues parlez-vous bien?" someNumber="None" image="f.jpg" lang2="- А на каких языках вы говорите хорошо?">
+      <audioTime in="66095" out="69357" />
+    </line>
+    <line lang1="- Le polonais, l'anglais et le russe." someNumber="None" image="f.jpg" lang2="- На польском, английском и русском.">
+      <audioTime in="69357" out="74075" />
+    </line>
+    <line lang1="- Je regrette beaucoup, mais je ne parle ni polonais, ni anglais, ni russe." someNumber="None" image="f.jpg" lang2="- Весьма сожалею, но я не говорю ни по-польски, ни по-английски, ни по-русски.">
+      <audioTime in="74075" out="81196" />
+    </line>
+    <line lang1="- Alors, parlons français." someNumber="None" image="f.jpg" lang2="- Тогда давайте говорить по-французски.">
+      <audioTime in="81196" out="83608" />
+    </line>
+    <line lang1="- Dans quelle école apprenez-vous le français?" someNumber="None" image="f.jpg" lang2="- В какой школе вы изучали французский?">
+      <audioTime in="83608" out="88265" />
+    </line>
+    <line lang1="- A une école pour les étrangers." someNumber="None" image="f.jpg" lang2="- В школе для иностранцев.">
+      <audioTime in="88265" out="91626" />
+    </line>
+    <line lang1="- Est-ce qu'il y a beaucoup d'étudiants à cette école?" someNumber="None" image="f.jpg" lang2="- Много ли учащихся в этой школе?">
+      <audioTime in="91626" out="95183" />
+    </line>
+    <line lang1="- Oh oui! C'est une vraie tour de Babel." someNumber="None" image="f.jpg" lang2="- О, да! Это настоящее вавилонское столпотворение.">
+      <audioTime in="95183" out="99648" />
+    </line>
+    <line lang1="- Depuis combien de temps étudiez-vous le français?" someNumber="None" image="f.jpg" lang2="- Сколько времени вы изучаете французский язык?">
+      <audioTime in="99648" out="104282" />
+    </line>
+    <line lang1="- Depuis six mois." someNumber="None" image="f.jpg" lang2="- Шесть месяцев.">
+      <audioTime in="104282" out="106547" />
+    </line>
+    <line lang1="- Alors, mes félicitations." someNumber="None" image="f.jpg" lang2="- В таком случае, поздравляю.">
+      <audioTime in="106547" out="109749" />
+    </line>
+    <line lang1="Vous parlez déjà très bien." someNumber="None" image="f.jpg" lang2="Вы уже говорите очень хорошо.">
+      <audioTime in="109749" out="112745" />
+    </line>
+  </lines>
+</lesson>

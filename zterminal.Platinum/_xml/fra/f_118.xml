@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_118.wav" dic="p118" dlgName="Что ты делала, когда?.." dlgFile="exr\fg117.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Que faisais-tu quand c'est arrivé? Je prenais un bain." someNumber="60" image="dg\118_001.gif" lang2="- Что ты делала, когда он приехал? Я принимал ванну.">
+      <audioTime in="0" out="3655" />
+    </line>
+    <line lang1="- Quand c'est arrivé, je prenais un bain." someNumber="None" image="dg\118_001.gif" lang2="- Когда он приехал, я принимала ванну.">
+      <audioTime in="3655" out="5817" />
+    </line>
+    <line lang1="- Que faisait Marie quand on a téléphoné? Elle lavait la vaisselle." someNumber="None" image="dg\118_002.gif" lang2="- Что делала Мари, когда позвонили по телефону? Она мыла посуду.">
+      <audioTime in="5817" out="9430" />
+    </line>
+    <line lang1="- Quand on a téléphoné, elle lavait la vaisselle." someNumber="510" image="dg\118_002.gif" lang2="- Когда позвонили по телефону, она мыла посуду.">
+      <audioTime in="9430" out="12191" />
+    </line>
+    <line lang1="- Que faisait votre mère quand le facteur est venu? Elle rangeait la vaisselle." someNumber="None" image="dg\118_003.gif" lang2="- Что делала ваша мать, когда пришёл почтальон? Она убирала посуду.">
+      <audioTime in="12191" out="16630" />
+    </line>
+    <line lang1="- Quand le facteur est venu elle rangeait la vaisselle." someNumber="None" image="dg\118_003.gif" lang2="- Когда пришёл почтальон, она убирала посуду.">
+      <audioTime in="16630" out="19468" />
+    </line>
+    <line lang1="- Que faisiez-vous quand c'est arrivé? Je téléphonais à ma sœur." someNumber="None" image="dg\118_004.gif" lang2="- Что вы делали, когда это случилось? Я звонил своей сестре.">
+      <audioTime in="19468" out="22914" />
+    </line>
+    <line lang1="- Quand c'est arrivé, je téléphonais à ma sœur." someNumber="None" image="dg\118_004.gif" lang2="- Когда это случилось, я звонил своей сестре.">
+      <audioTime in="22914" out="25600" />
+    </line>
+    <line lang1="- Que faisaient les enfants quand le lait est monté? Ils lisaient." someNumber="None" image="dg\118_005.gif" lang2="- Что делали дети, когда сбежало молоко? Они читали.">
+      <audioTime in="25600" out="29162" />
+    </line>
+    <line lang1="- Quand le lait est monté, ils lisaient." someNumber="None" image="dg\118_005.gif" lang2="- Когда сбежало молоко, они читали.">
+      <audioTime in="29162" out="31364" />
+    </line>
+    <line lang1="- Que faisiez-vous quand l'enfant a cassé la tasse? Je faisais du thé." someNumber="70" image="dg\118_006.gif" lang2="- Что вы делали, когда ребёнок разбил чашку? Я заваривал чай.">
+      <audioTime in="31364" out="35177" />
+    </line>
+    <line lang1="- Je faisais du thé quand l'enfant a cassé la tasse." someNumber="None" image="dg\118_006.gif" lang2="- Я заваривала чай, когда ребёнок разбил чашку.">
+      <audioTime in="35177" out="37692" />
+    </line>
+    <line lang1="- Que faisiez-vous quand votre mère est entrée dans la chambre? J'écoutais la radio." someNumber="None" image="dg\118_007.gif" lang2="- Что вы делали, когда ваша мать вошла в комнату? Я слушал радио.">
+      <audioTime in="37692" out="42363" />
+    </line>
+    <line lang1="- Quand ma mère est entrée dans la chambre, j'écoutais la radio." someNumber="200" image="dg\118_007.gif" lang2="- Когда моя мать вошла в комнату, я слушала радио.">
+      <audioTime in="42363" out="45557" />
+    </line>
+    <line lang1="- Que faisait votre père quand il a entendu cette nouvelle? Il travaillait au jardin." someNumber="None" image="dg\118_008.gif" lang2="- Что делал ваш отец, когда он услышал эту новость? Он работал в саду.">
+      <audioTime in="45557" out="50020" />
+    </line>
+    <line lang1="- Quand il a entendu cette nouvelle, il travaillait au jardin." someNumber="None" image="dg\118_008.gif" lang2="- Когда он услышал эту новость, он работал в саду.">
+      <audioTime in="50020" out="53156" />
+    </line>
+    <line lang1="- Que faisait votre sœur quand Georges a frappé à la porte? Elle nettoyait les chaussures." someNumber="210" image="dg\118_009.gif" lang2="- Что делала ваша сестра, когда Жорж постучал в дверь? Она чистила туфли.">
+      <audioTime in="53156" out="57873" />
+    </line>
+    <line lang1="- Quand Georges a frappé à la porte, ma sœur nettoyait les chaussures." someNumber="None" image="dg\118_009.gif" lang2="- Когда Жорж постучал в дверь, моя сестра чистила туфли.">
+      <audioTime in="57873" out="61623" />
+    </line>
+    <line lang1="- Que faisait votre fils quand ses amis sont arrivés? Il faisait ses devoirs." someNumber="None" image="dg\118_010.gif" lang2="- Что делал ваш сын, когда приехали его друзья? Он выполнял своё домашнее задание.">
+      <audioTime in="61623" out="65797" />
+    </line>
+    <line lang1="- Quand ses amis sont arrivés, il faisait ses devoirs." someNumber="None" image="dg\118_010.gif" lang2="- Когда приехали его друзья, он выполнял своё домашнее задание.">
+      <audioTime in="65797" out="68865" />
+    </line>
+  </lines>
+</lesson>

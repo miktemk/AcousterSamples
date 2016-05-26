@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="i_069.wav" dic="p069" dlgName="Кольцевые гонки." dlgFile="exr\ig069.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Vicino alla nostra città ogni anno organizzano corse automobiliche." someNumber="None" image="dg\069_001.gif" lang2="- Каждый год недалеко от нашего города проводятся автомобильные гонки.">
+      <audioTime in="75" out="5494" />
+    </line>
+    <line lang1="- Nel millenovecentosessantotto c'è stata una corsa molto importante." someNumber="None" image="dg\069_001.gif" lang2="- В 1968 году там были очень большие гонки.">
+      <audioTime in="5463" out="10867" />
+    </line>
+    <line lang1="- C'erano centinaia di persone." someNumber="None" image="dg\069_001.gif" lang2="- Там были сотни людей.">
+      <audioTime in="10823" out="13096" />
+    </line>
+    <line lang1="- Mia moglie ed io assistevamo alle corse." someNumber="None" image="dg\069_002.gif" lang2="- Мы с женой были на этих гонках.">
+      <audioTime in="13096" out="16106" />
+    </line>
+    <line lang1="- C'erano anche i nostri amici Giulio e Francesca." someNumber="None" image="dg\069_002.gif" lang2="- Наши друзья Джулио и Франческа тоже были там.">
+      <audioTime in="16076" out="19493" />
+    </line>
+    <line lang1="- Potete vederci tra la folla." someNumber="None" image="dg\069_002.gif" lang2="- Вы можете видеть нас в толпе.">
+      <audioTime in="19568" out="21525" />
+    </line>
+    <line lang1="Stiamo a sinistra." someNumber="None" image="dg\069_003.gif" lang2="Мы стоим слева.">
+      <audioTime in="21525" out="23211" />
+    </line>
+    <line lang1="- Alla corsa partecipavano venti automobili." someNumber="220" image="dg\069_003.gif" lang2="- В гонках было двадцать машин.">
+      <audioTime in="23181" out="26207" />
+    </line>
+    <line lang1="- C'erano automobili inglesi, francesi, tedesche, italiane," someNumber="130" image="dg\069_003.gif" lang2="- Там были английские, французские, немецкие, итальянские,">
+      <audioTime in="26192" out="30000" />
+    </line>
+    <line lang1="americane e giapponesi." someNumber="None" image="dg\069_004.gif" lang2="американские и японские машины.">
+      <audioTime in="30015" out="31882" />
+    </line>
+    <line lang1="- L'arrivo è stato interessantissimo." someNumber="None" image="dg\069_004.gif" lang2="- Это был захватывающий финиш.">
+      <audioTime in="31987" out="34470" />
+    </line>
+    <line lang1="Il vincitore è stato Giorgio Grande." someNumber="None" image="dg\069_004.gif" lang2="Победил Джорджио Гранде.">
+      <audioTime in="34470" out="37240" />
+    </line>
+    <line lang1="- Era nella macchina numero quindici." someNumber="None" image="dg\069_004.gif" lang2="- Он был в машине под номером пятнадцать.">
+      <audioTime in="37331" out="39739" />
+    </line>
+    <line lang1="Subito dietro di lui c'erano cinque altre macchine." someNumber="None" image="dg\069_004.gif" lang2="Сразу за ним было пять машин.">
+      <audioTime in="39769" out="43156" />
+    </line>
+    <line lang1="- Lungo la strada di casa mia moglie mi ha detto:" someNumber="None" image="dg\069_005.gif" lang2="- По дороге домой моя жена сказала мне:">
+      <audioTime in="43126" out="46061" />
+    </line>
+    <line lang1="- &quot;Non guidare cosi velocemente!" someNumber="None" image="dg\069_005.gif" lang2="- &quot;Не надо так быстро ехать!">
+      <audioTime in="45911" out="48063" />
+    </line>
+    <line lang1="Tu non sei Giorgio Grande!&quot;" someNumber="None" image="dg\069_005.gif" lang2="Ты же не Джорджио Гранде!&quot;">
+      <audioTime in="48018" out="49975" />
+    </line>
+  </lines>
+</lesson>

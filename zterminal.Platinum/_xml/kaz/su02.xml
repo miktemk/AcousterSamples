@@ -1,0 +1,180 @@
+<lesson>
+   <header wav="su02.mp3" dic="dic" dlgName="su02.mp3" dlgFile="su02.xml" author="acouster"/>
+   <lines class="java.util.Vector">
+      <line lang1="әжем" lang2="моя бабушка," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="балам" lang2="мой ребёнок," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="айнам" lang2="моё зеркало" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөрем" lang2="моя полка," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="бөлмем" lang2="моя комната," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қалам" lang2="мой город" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="досым" lang2="мой друг," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қағазым" lang2="моя бумага," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сағатым" lang2="мои часы" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстелім" lang2="мой стол," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөздiгiм" lang2="мой словарь," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="пәтерiм" lang2="моя квартира" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="шайым" lang2="мой чай," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="тауым" lang2="моя гора," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үйiм" lang2="мой дом" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қаламыз" lang2="наш город," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="баламыз" lang2="наш ребёнок," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="айнамыз" lang2="наше зеркало" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөреміз" lang2="наша полка," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="бөлмеміз" lang2="наша комната," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="әжеміз" lang2="наша бабушка" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="досымыз" lang2="наш друг," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қағазымыз" lang2="наша бумага," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сағатымыз" lang2="наши часы" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстеліміз" lang2="наш стол," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөздiгiмiз" lang2="наш словарь," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="пәтерiмiз" lang2="наша квартира" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кiтап" lang2="книга	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кiтабым" lang2="моя книга	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кiтабымыз" lang2="наша книга" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="көйлек" lang2="платье	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="көйлегiм" lang2="моё платье	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="көйлегiмiз" lang2="наше платье" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="жастық" lang2="подушка	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="жастығым" lang2="моя подушка	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="жастығымыз" lang2="наша подушка" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="әжең" lang2="твоя бабушка," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="балаң" lang2="твой ребёнок," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="айнаң" lang2="твоё зеркало" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөрең" lang2="твоя полка," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="бөлмең" lang2="твоя комната," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қалаң" lang2="твой город" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="досың" lang2="твой друг," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қағазың" lang2="твоя бумага," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сағатың" lang2="твои часы" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстелің" lang2="твой стол," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөздiгiң" lang2="твой словарь," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="пәтерiң" lang2="твоя квартира" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қалаңыз" lang2="Ваш город," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="балаңыз" lang2="Ваш ребёнок," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="айнаңыз" lang2="Ваше зеркало" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөреңіз" lang2="Ваша полка," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="бөлмеңіз" lang2="Ваша комната," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="әжеңіз" lang2="Ваша бабушка" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="досыңыз" lang2="Ваш друг," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қағазыңыз" lang2="Ваша бумага," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сағатыңыз" lang2="Ваши часы" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстеліңіз" lang2="Ваш стол," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөздiгiңiз" lang2="Ваш словарь," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="пәтерiңiз" lang2="Ваша квартира" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="менiң  жүлдем" lang2="мой приз	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сенiң  жүлдең" lang2="твой приз" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="бiздiң  жүлдемiз" lang2="наш приз  	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сiздiң  жүлдеңiз" lang2="Ваш приз" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="менiң  шанам" lang2="мои санки	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сенiң  шанаң" lang2="твои санки" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="бiздiң  шанамыз" lang2="наши санки  	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сiздiң  шанаңыз" lang2="Ваши санки" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="менiң  дәптерiм" lang2="моя тетрадь	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сенiң  дәптерiң" lang2="твоя тетрадь" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="бiздiң  дәптерiмiз" lang2="наша тетрадь  	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сiздiң  дәптерiңiз" lang2="Ваша тетрадь" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="менiң  хатым" lang2="моё письмо	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сенiң  хатың" lang2="твоё письмо" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="бiздiң  хатымыз" lang2="наше письмо  	" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сiздiң  хатыңыз" lang2="Ваше письмо" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қаласы" lang2="его город," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="баласы" lang2="её ребёнок," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="айнасы" lang2="его зеркало" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөресі" lang2="её полка," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="бөлмесі" lang2="его комната," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="әжесі" lang2="их бабушка" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="досы" lang2="его друг," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қағазы" lang2="её бумага," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сағаты" lang2="их часы" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстелі" lang2="их стол," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөздiгi" lang2="его словарь," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="пәтерi" lang2="её квартира" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="оның үйi" lang2="его дом," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="оның шаңғысы" lang2="её лыжи," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="оның қолшатыры" lang2="его зонт" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="оның жастығы" lang2="её подушка," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="оның мектебi" lang2="его школа," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="оның тауы" lang2="его гора" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="Алматы қаласы" lang2="город Алматы," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="Абай көшесі" lang2="улица Абая," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="Арал теңiзі" lang2="Аральское море" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="Арарат тауы" lang2="гора Арарат," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="Балқаш көлi" lang2="озеро Балхаш," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="Медеу мұзайдыны" lang2="каток Медеу" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөйлесуiмiз" lang2="наш разговор," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="оқуым" lang2="мои занятия" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="таңдауы" lang2="его выбор," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кездесуiңiз" lang2="ваша встреча" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="*************." lang2="*****************." image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қаладан" lang2="из города," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қалада" lang2="в городе," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қалаға" lang2="к городу" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қолдан" lang2="от руки," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қолда" lang2="в руке," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қолға" lang2="к руке" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қабырғадан" lang2="от стены," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қабырғада" lang2="на стене," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қабырғаға" lang2="к стене" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="шайдан" lang2="от чая," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="шайда" lang2="в чаю," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="шайға" lang2="к чаю" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстелден" lang2="от стола," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстелде" lang2="на столе," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстелге" lang2="к столу" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөреден" lang2="от полки," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөреде" lang2="на полке," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сөреге" lang2="к полке" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үйден" lang2="от дома," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үйде" lang2="в доме," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үйге" lang2="к дому" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қалаларымыздан" lang2="из наших городов," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қалаларымызда" lang2="в наших городах," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қалаларымызға" lang2="в наши города" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қабырғалардан" lang2="от стен," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қабырғаларда" lang2="на стенах," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қабырғаларға" lang2="к стенам" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстеліңізден" lang2="от Вашего стола," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстеліңізде" lang2="на Вашем столе," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстеліңізге" lang2="к Вашему столу" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сыныптан" lang2="из класса," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сыныпта" lang2="в классе," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="сыныпқа" lang2="к классу" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ұшақтан" lang2="из самолёта," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ұшақта" lang2="в самолёте," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ұшаққа" lang2="к самолёту" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ағаштан" lang2="от дерева," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ағашта" lang2="на дереве," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ағашқа" lang2="к дереву" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="клубтан" lang2="из клуба," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="клубта" lang2="в клубе," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="клубқа" lang2="к клубу" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кезектен" lang2="из очереди," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кезекте" lang2="в очереди," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кезекке" lang2="к очереди" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="жүректен" lang2="от сердца," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="жүректе" lang2="в сердце," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="жүрекке" lang2="к сердцу" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кереуеттен" lang2="от кровати," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кереуетте" lang2="в кровати," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кереуетке" lang2="к кровати" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ұшақтардан" lang2="из самолётов," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ұшақтарда" lang2="в самолётах," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ұшақтарға" lang2="к самолётам" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кезектерден" lang2="из очередей," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кезектерде" lang2="в очередях," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кезектерге" lang2="к очередям" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қаламнан" lang2="от ручки," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="кілемнен" lang2="от ковра," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="диваннан" lang2="от дивана," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="өзеннен" lang2="от реки" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ұшағымнан" lang2="из моего самолёта," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="қаламнан" lang2="из моего города" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үстелiмнен" lang2="от моего стола" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="жастығыңнан" lang2="от твоей (вашей) подушки," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="атаңнан" lang2="от твоего (вашего) дедушки," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="үйiңнен" lang2="от твоего (вашего) дома" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ағашынан" lang2="от его дерева," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ағашында" lang2="на его дереве," image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+      <line lang1="ағашына" lang2="к его дереву" image="default.jpg" someNumber="None"><audioTime in="0" out="0"/></line>
+   </lines>
+</lesson>

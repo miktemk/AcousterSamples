@@ -1,0 +1,92 @@
+<lesson>
+  <header wav="j_092.wav" dlgName="Дом друга был обворован ворами" dic="p092" />
+  <lines>
+    <line lang1="ー先生*は*学生*を*呼んだ。" someNumber="None" image="092_001.jpg" lang2="- Учитель вызвал ученика.">
+      <audioTime in="0" out="2802" />
+    </line>
+    <line lang1="学生*は*先生*に*呼ばれた。" someNumber="95" image="092_001.jpg" lang2="Ученик был вызван учителем.">
+      <audioTime in="2802" out="6100" />
+    </line>
+    <line lang1="ーせんぱい*は*学生*を*ほめた。" someNumber="None" image="092_003.jpg" lang2="- Старший товарищ похвалил студента.">
+      <audioTime in="6100" out="9739" />
+    </line>
+    <line lang1="学生*は*せんぱい*に*ほめられた。" someNumber="04" image="092_003.jpg" lang2="Студент удостоился похвалы старшего товарища.">
+      <audioTime in="9739" out="14012" />
+    </line>
+    <line lang1="ー山田*さん*は*佐藤*さん*を*招待した。" someNumber="None" image="092_005.jpg" lang2="- Ямада-сан пригласил Сато-сана.">
+      <audioTime in="14012" out="18694" />
+    </line>
+    <line lang1="佐藤*さん*は*山田*さん*に*招待された。" someNumber="None" image="092_005.jpg" lang2="Сато-сан был приглашен Ямада-саном.">
+      <audioTime in="18694" out="22778" />
+    </line>
+    <line lang1="ーどろぼう*が*友人*の*家*に*入った。" someNumber="None" image="092_007.jpg" lang2="- В дом моего друга вошел вор.">
+      <audioTime in="22778" out="26688" />
+    </line>
+    <line lang1="友人*は*どろぼう*に*家*に*入られた。" someNumber="None" image="092_007.jpg" lang2="Дом друга был обворован вором.">
+      <audioTime in="26688" out="31007" />
+    </line>
+    <line lang1="ー子供*は*犬*を*いじめた。" someNumber="None" image="092_009.jpg" lang2="- Дети мучали собаку.">
+      <audioTime in="31007" out="35126" />
+    </line>
+    <line lang1="犬*は*子供*に*いじめられた。" someNumber="None" image="092_009.jpg" lang2="Собака была измучена детьми.">
+      <audioTime in="35126" out="38250" />
+    </line>
+    <line lang1="ー誰*か*が*山本*さん*を*殺した。" someNumber="None" image="092_011.jpg" lang2="- Кто-то убил Ямамото-сана.">
+      <audioTime in="38250" out="42017" />
+    </line>
+    <line lang1="山本*さん*は*誰か*に*殺された。" someNumber="None" image="092_011.jpg" lang2="Ямамото-сан был кем-то убит.">
+      <audioTime in="42017" out="46478" />
+    </line>
+    <line lang1="ー犬*は*子供*の*足*を*かんだ。" someNumber="None" image="092_013.jpg" lang2="- Собака укусила ребёнка за ногу.">
+      <audioTime in="46478" out="50891" />
+    </line>
+    <line lang1="子供*は*犬*に*足*を*かまれた。" someNumber="None" image="092_013.jpg" lang2="Ребёнок был укушен собакой за ногу.">
+      <audioTime in="50891" out="54754" />
+    </line>
+    <line lang1="ーどろぼう*は*姉*の*指輪*を*ぬすんだ。" someNumber="None" image="092_015.jpg" lang2="- Вор украл кольцо у старшей сестры.">
+      <audioTime in="54754" out="59390" />
+    </line>
+    <line lang1="姉*は*どろぼう*に*指輪*を*ぬすまれた。" someNumber="None" image="092_015.jpg" lang2="Кольцо старшей сестры было украдено ворами.">
+      <audioTime in="59390" out="63836" />
+    </line>
+    <line lang1="ー母*は*私*の*恋人*から*の*手紙*を*見た。" someNumber="None" image="092_017.jpg" lang2="- Мама увидела моё письмо от возлюбленного.">
+      <audioTime in="63836" out="68347" />
+    </line>
+    <line lang1="私*は*母*に*恋人*から*の*手紙*を*見られた。" someNumber="None" image="092_017.jpg" lang2="Моё письмо от возлюбленного было прочитано мамой.">
+      <audioTime in="68347" out="72903" />
+    </line>
+    <line lang1="ー雨*が*降った。" someNumber="None" image="092_019.jpg" lang2="- Шёл дождь.">
+      <audioTime in="72903" out="75486" />
+    </line>
+    <line lang1="私*は*雨*に*降られた。" someNumber="None" image="092_020.jpg" lang2="Я промок под дождем.">
+      <audioTime in="75486" out="78424" />
+    </line>
+    <line lang1="ー去年、父*が*死んだ。" someNumber="None" image="092_021.jpg" lang2="- В прошлом году умер мой отец.">
+      <audioTime in="78424" out="82190" />
+    </line>
+    <line lang1="去年、私*は*父*に*死なれた。" someNumber="None" image="092_022.jpg" lang2="В прошлом году я пострадал оттого, что умер отец.">
+      <audioTime in="82190" out="85978" />
+    </line>
+    <line lang1="ー夜、子供*が*泣きました。" someNumber="None" image="092_023.jpg" lang2="- Ночью плакал ребёнок.">
+      <audioTime in="85978" out="89539" />
+    </line>
+    <line lang1="夜、私たち*は*子供*に*泣かれました。" someNumber="None" image="092_023.jpg" lang2="Ночью мы были обеспокоены плачем ребёнка.">
+      <audioTime in="89539" out="94256" />
+    </line>
+    <line lang1="ー１９９８年*に*フランス*で*サッカー*の*大会*が*開かれました。" someNumber="None" image="092_025.jpg" lang2="- В 1998 году во Франции открылся чемпионат по футболу.">
+      <audioTime in="94256" out="101644" />
+    </line>
+    <line lang1="ー日・露協会*の*かいぎ*は*いつも*この*ホール*で*行われています。" someNumber="None" image="092_026.jpg" lang2="- Заседания Японско-русского общества дружбы всегда проводятся в этом зале.">
+      <audioTime in="101644" out="107671" />
+    </line>
+    <line lang1="ーこの*きゅうでん*は*エルミタージュ*と*呼ばれています。" someNumber="None" image="092_027.jpg" lang2="- Этот дворец называется Эрмитажем.">
+      <audioTime in="107671" out="113869" />
+    </line>
+    <line lang1="ー日本人*は*働き*ばち*と*言われています。" someNumber="None" image="092_028.jpg" lang2="- Японцев называют рабочими пчелками.">
+      <audioTime in="113869" out="118488" />
+    </line>
+    <line lang1="ー太郎*は*なまけもの*と*思われています。" someNumber="None" image="092_029.jpg" lang2="- Таро считается лентяем.">
+      <audioTime in="118488" out="122760" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="i_131.wav" dic="p131" dlgName="Отпуск." dlgFile="exr\ig131.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Dove hai intenzione di passare le tue vacanze quest' anno, Enrico?" someNumber="None" image="dg\131_001.gif" lang2="- Где ты собираешься провести отпуск в этом году, Энрико?">
+      <audioTime in="0" out="3326" />
+    </line>
+    <line lang1="- Forse andremo all'estero." someNumber="None" image="dg\131_001.gif" lang2="- Может быть, мы поедем заграницу.">
+      <audioTime in="3326" out="5313" />
+    </line>
+    <line lang1="Non sono sicuro di questo." someNumber="None" image="dg\131_001.gif" lang2="Я не знаю точно.">
+      <audioTime in="5313" out="7480" />
+    </line>
+    <line lang1="Mia moglie vuole andare in Egitto." someNumber="None" image="dg\131_001.gif" lang2="Моя жена хочет поехать в Египет.">
+      <audioTime in="7480" out="9783" />
+    </line>
+    <line lang1="Anche io vorrei andarci." someNumber="940" image="dg\131_001.gif" lang2="Мне бы тоже хотелось поехать туда.">
+      <audioTime in="9783" out="11951" />
+    </line>
+    <line lang1="Non abbiamo ancora deciso." someNumber="None" image="dg\131_001.gif" lang2="Мы никак не можем решить.">
+      <audioTime in="11951" out="13846" />
+    </line>
+    <line lang1="- Andrete con la nave o con l'aereo?" someNumber="None" image="dg\131_001.gif" lang2="- Вы поедете на пароходе или самолётом?">
+      <audioTime in="13847" out="15969" />
+    </line>
+    <line lang1="- Magari andremo per mare." someNumber="None" image="dg\131_001.gif" lang2="- Мы можем поехать морем.">
+      <audioTime in="15969" out="17866" />
+    </line>
+    <line lang1="- È più economico, vero?" someNumber="None" image="dg\131_001.gif" lang2="- Это дешевле, не так ли?">
+      <audioTime in="17866" out="19898" />
+    </line>
+    <line lang1="- Forse è più economico," someNumber="None" image="dg\131_001.gif" lang2="- Может быть, и дешевле,">
+      <audioTime in="20171" out="21787" />
+    </line>
+    <line lang1="ma porta via molto tempo." someNumber="None" image="dg\131_001.gif" lang2="но на это уходит много времени.">
+      <audioTime in="21812" out="23468" />
+    </line>
+    <line lang1="- Sono sicuro che vi divertirete." someNumber="1050" image="dg\131_001.gif" lang2="- Я уверен, вы получите удовольствие.">
+      <audioTime in="23510" out="25677" />
+    </line>
+    <line lang1="- Non esserne tanto sicuro." someNumber="None" image="dg\131_001.gif" lang2="- Не будь так уверен.">
+      <audioTime in="25677" out="27618" />
+    </line>
+    <line lang1="Forse, non andremo da nessuna parte." someNumber="None" image="dg\131_001.gif" lang2="Мы, может, вообще никуда не поедем.">
+      <audioTime in="27618" out="30327" />
+    </line>
+    <line lang1="Mia moglie si preoccupa sempre troppo." someNumber="None" image="dg\131_001.gif" lang2="Моя жена вечно слишком беспокоится.">
+      <audioTime in="30328" out="32541" />
+    </line>
+    <line lang1="Chi baderà al cane?" someNumber="None" image="dg\131_001.gif" lang2="Кто будет смотреть за собакой?">
+      <audioTime in="32549" out="34100" />
+    </line>
+    <line lang1="Chi baderà alla casa?" someNumber="None" image="dg\131_001.gif" lang2="Кто будет смотреть за домом?">
+      <audioTime in="34231" out="35741" />
+    </line>
+    <line lang1="Chi baderà al giardino?" someNumber="None" image="dg\131_001.gif" lang2="Кто будет смотреть за садом?">
+      <audioTime in="35735" out="37230" />
+    </line>
+    <line lang1="Ogni anno si ripropone lo stesso problema." someNumber="None" image="dg\131_001.gif" lang2="Эта проблема у нас возникает каждый год.">
+      <audioTime in="37191" out="39900" />
+    </line>
+    <line lang1="Alla fine, resteremo a casa" someNumber="960" image="dg\131_001.gif" lang2="В конце концов, мы остаемся дома">
+      <audioTime in="39901" out="42068" />
+    </line>
+    <line lang1="e baderemo noi stessi a tutto." someNumber="None" image="dg\131_001.gif" lang2="и смотрим за всем сами.">
+      <audioTime in="42178" out="44174" />
+    </line>
+  </lines>
+</lesson>

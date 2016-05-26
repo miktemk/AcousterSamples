@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_083.wav" dlgName="Сырой рыбы есть не могу" dic="p083" />
+  <lines>
+    <line lang1="―今日*は*とても*楽しかった*です。" someNumber="None" image="083_001.jpg" lang2="- Сегодня было очень приятно!">
+      <audioTime in="0" out="3606" />
+    </line>
+    <line lang1="いつか*また*テニス*を*しましょう。" someNumber="083" image="083_001.jpg" lang2="Когда-нибудь снова сыграем в теннис.">
+      <audioTime in="3606" out="6537" />
+    </line>
+    <line lang1="―じゃ、あす*の*朝、８時*に*来られます*か。" someNumber="None" image="083_003.jpg" lang2="- Тогда не сможете ли придти завтра утром в 8 часов?">
+      <audioTime in="6537" out="10114" />
+    </line>
+    <line lang1="―８時*は*ちょっと…" someNumber="None" image="083_004.jpg" lang2="- В 8 часов немного сложно...">
+      <audioTime in="10114" out="12507" />
+    </line>
+    <line lang1="目覚まし*時計*が*こわれた*ので、起きられない*と*思います。" someNumber="164" image="083_005.jpg" lang2="Так как (мой) будильник сломался, наверное, я не смогу проснуться.">
+      <audioTime in="12507" out="17003" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="083_006.jpg" lang2="- Вот как!">
+      <audioTime in="17003" out="18465" />
+    </line>
+    <line lang1="これ*から*一緒*に*お*昼*を*食べません*か。" someNumber="None" image="083_006.jpg" lang2="Может быть, пообедаем сейчас вместе!">
+      <audioTime in="18465" out="21395" />
+    </line>
+    <line lang1="―いい*です*よ。" someNumber="None" image="083_008.jpg" lang2="- С удовольствием!">
+      <audioTime in="21395" out="22588" />
+    </line>
+    <line lang1="―日本*料理*は*いかが*です*か。" someNumber="None" image="083_009.jpg" lang2="- Как (Вам) японская кухня?">
+      <audioTime in="22588" out="25054" />
+    </line>
+    <line lang1="ーいい*です*ね。でも*生魚*が*食べられません。" someNumber="94" image="083_010.jpg" lang2="- А люблю её. Но сырой рыбы есть не могу.">
+      <audioTime in="25054" out="29361" />
+    </line>
+    <line lang1="ーそれ*じゃ*すし屋*は*だめ*です*ね。" someNumber="None" image="083_011.jpg" lang2="- Значит, ресторан суси не подойдет...">
+      <audioTime in="29361" out="31985" />
+    </line>
+    <line lang1="―すみません。ほか*の*店*が*ありません*か。" someNumber="None" image="083_012.jpg" lang2="- Извините! Нет ли других ресторанов?">
+      <audioTime in="31985" out="36004" />
+    </line>
+    <line lang1="―この*ごろ*日本*で*は*世界*の*すべて*の*料理*が*食べられます*よ。" someNumber="94" image="083_013.jpg" lang2="- В настоящее время в Японии можно отведать блюда всех стран мира.">
+      <audioTime in="36004" out="41083" />
+    </line>
+    <line lang1="ちゅうか*料理、インド*料理、かんこく*料理、イタリア*料理*など*の*店*が*あります。" someNumber="None" image="083_014.jpg" lang2="Есть рестораны китайской, индийской, корейской, итальянской кухни и так далее.">
+      <audioTime in="41083" out="47747" />
+    </line>
+    <line lang1="ここ*は*どう*です*か。" someNumber="None" image="083_015.jpg" lang2="Как насчёт этого ресторана?">
+      <audioTime in="47747" out="49969" />
+    </line>
+    <line lang1="―ケース*の*中*に*色々*な*料理*が*並んでいます*ね。" someNumber="None" image="083_016.jpg" lang2="- Смотрите, в витрине разложены различные блюда.">
+      <audioTime in="49969" out="54637" />
+    </line>
+    <line lang1="これ*は*なん*の*ため*です*か。" someNumber="None" image="083_017.jpg" lang2="Для чего это?">
+      <audioTime in="54637" out="57995" />
+    </line>
+    <line lang1="ーどんな*料理*か*簡単*に*見られる*よう*に*並べました。" someNumber="155" image="083_017.jpg" lang2="- Их разложили, чтобы можно было легко увидеть, какие есть блюда.">
+      <audioTime in="57995" out="62391" />
+    </line>
+    <line lang1="値段*も*分かります。" someNumber="None" image="083_019.jpg" lang2="И цена видна.">
+      <audioTime in="62391" out="64343" />
+    </line>
+    <line lang1="ーここ*は*安い*です*ね。" someNumber="None" image="083_019.jpg" lang2="- Как тут дёшево!">
+      <audioTime in="64343" out="67242" />
+    </line>
+    <line lang1="ーここ*は*大学*の*近所*な*ので、" someNumber="154" image="083_021.jpg" lang2="- Этот ресторан находится по соседству с университетом,">
+      <audioTime in="67242" out="70457" />
+    </line>
+    <line lang1="学生*の*間*で*人気*が*あります。" someNumber="None" image="083_022.jpg" lang2="поэтому популярен среди студентов.">
+      <audioTime in="70457" out="72977" />
+    </line>
+    <line lang1="待たないで*おいしい*料理*が*５百*円*で*食べられます。" someNumber="94" image="083_022.jpg" lang2="Можно отведать вкусных блюд за 500 иен и без задержки.">
+      <audioTime in="72977" out="77077" />
+    </line>
+    <line lang1="入りましょう*か。" someNumber="None" image="083_024.jpg" lang2="Может, зайдем?">
+      <audioTime in="77077" out="78901" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="083_024.jpg" lang2="- Хорошо!">
+      <audioTime in="78652" out="79465" />
+    </line>
+    <line lang1="―お先*に*どうぞ。" someNumber="128" image="083_024.jpg" lang2="- Пожалуйста, проходите вперед!">
+      <audioTime in="79465" out="82328" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_133.wav" dic="p133" dlgName="Не хочу сниматься..." dlgFile="exr\fg131.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Vous venez de faire votre nouveau film, madame Sagan?" someNumber="350" image="dg\133_001.gif" lang2="- Вы только что сделали новый фильм, г-жа Саган?">
+      <audioTime in="0" out="3185" />
+    </line>
+    <line lang1="- Oui." someNumber="350" image="dg\133_001.gif" lang2="- Да.">
+      <audioTime in="3185" out="3955" />
+    </line>
+    <line lang1="- Ne voulez vous pas en faire un autre?" someNumber="None" image="dg\133_001.gif" lang2="- Вы не хотите делать другой?">
+      <audioTime in="3955" out="6222" />
+    </line>
+    <line lang1="- Non." someNumber="None" image="dg\133_001.gif" lang2="- Нет.">
+      <audioTime in="6222" out="7159" />
+    </line>
+    <line lang1="Je vais prendre ma retraite. Je me sens si fatiguée." someNumber="None" image="dg\133_001.gif" lang2="Я собираюсь уходить на пенсию. Я чувствую себя такой усталой.">
+      <audioTime in="7159" out="10582" />
+    </line>
+    <line lang1="Je ne veut pas faire de films pendant un bout de temps." someNumber="810" image="dg\133_001.gif" lang2="Я не хочу делать фильмов в течение некоторого времени.">
+      <audioTime in="10582" out="12965" />
+    </line>
+    <line lang1="- Achetons un journal, Nicole." someNumber="None" image="dg\133_002.gif" lang2="- Купим газету, Николь.">
+      <audioTime in="12965" out="14685" />
+    </line>
+    <line lang1="- Ecoute!" someNumber="None" image="dg\133_002.gif" lang2="- Слушай!">
+      <audioTime in="14685" out="15641" />
+    </line>
+    <line lang1="&quot;Madame Sagan: les nouvelles sensationnelles de notre reporter Alain Dubois." someNumber="None" image="dg\133_002.gif" lang2="&quot;Г-жа Саган: сенсационные новости нашего репортёра Алена Дюбуа.">
+      <audioTime in="15641" out="20230" />
+    </line>
+    <line lang1="Madame Sagan est venue aujourd'hui à l'aéroport parisien." someNumber="780" image="dg\133_002.gif" lang2="Г-жа Саган прибыла сегодня в парижский аэропорт.">
+      <audioTime in="20230" out="23303" />
+    </line>
+    <line lang1="Elle était vêtue d'une robe bleue et d'un manteau de vison." someNumber="None" image="dg\133_002.gif" lang2="Она была одета в голубое платье и норковое пальто.">
+      <audioTime in="23303" out="26625" />
+    </line>
+    <line lang1="Elle nous a annoncé qu'elle allait faire un nouveau film." someNumber="None" image="dg\133_002.gif" lang2="Она нам сообщила, что она сделает новый фильм.">
+      <audioTime in="26625" out="29778" />
+    </line>
+    <line lang1="...Elle a dit qu'elle ne ferait plus de films." someNumber="210" image="dg\133_002.gif" lang2="...Она сказала, что не будет больше делать фильмов.">
+      <audioTime in="29778" out="31733" />
+    </line>
+    <line lang1="Elle a dit qu'elle prendrait sa retraite." someNumber="None" image="dg\133_002.gif" lang2="Она сказала, она собирается на пенсию.">
+      <audioTime in="31733" out="33594" />
+    </line>
+    <line lang1="Elle a dit qu'elle se sentait très fatiguée et ne voulait pas faire un autre film.&quot;" someNumber="None" image="dg\133_002.gif" lang2="Она сказала, что чувствует себя очень усталой и не хочет делать другой фильм&quot;.">
+      <audioTime in="33594" out="37555" />
+    </line>
+    <line lang1="- Peux-tu imaginer des choses pareilles, Catherine?" someNumber="360" image="dg\133_002.gif" lang2="- Ты можешь представить себе такое, Катрин!">
+      <audioTime in="37555" out="39923" />
+    </line>
+  </lines>
+</lesson>

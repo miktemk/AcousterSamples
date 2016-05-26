@@ -1,0 +1,125 @@
+<lesson>
+  <header wav="d_012.wav" dic="p012" dlgName="Чей это?.. Это мой..." dlgFile="exr\dg011.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wessen Handtasche #ist das?" someNumber="200" image="dg\012_001.gif" lang2="- Чья это сумка?">
+      <audioTime in="278" out="2088" />
+    </line>
+    <line lang1="#Ist das Fräulein Duponts Handtasche?" someNumber="200" image="dg\012_001.gif" lang2="Это сумка фрейлейн Дюпон?">
+      <audioTime in="2367" out="5012" />
+    </line>
+    <line lang1="- Das #ist nicht Fräulein Duponts Handtasche." someNumber="950" image="dg\012_001.gif" lang2="- Это не сумка фрейлейн Дюпон.">
+      <audioTime in="5291" out="7797" />
+    </line>
+    <line lang1="Das #ist Stellas Handtasche." someNumber="950" image="dg\012_001.gif" lang2="Это сумка Стеллы.">
+      <audioTime in="7797" out="9746" />
+    </line>
+    <line lang1="- Wessen Wagen #ist das?" someNumber="200" image="dg\012_002.gif" lang2="- Чья это машина?">
+      <audioTime in="10165" out="11975" />
+    </line>
+    <line lang1="#Ist das Herrn Brauns Wagen?" someNumber="200" image="dg\012_002.gif" lang2="Это машина господина Брауна?">
+      <audioTime in="12114" out="14481" />
+    </line>
+    <line lang1="- Das #ist nicht Herrn Brauns Wagen." someNumber="None" image="dg\012_002.gif" lang2="- Это машина не господина Брауна.">
+      <audioTime in="14342" out="16570" />
+    </line>
+    <line lang1="Das #ist Pols Wagen." someNumber="None" image="dg\012_002.gif" lang2="Это машина Пола.">
+      <audioTime in="16710" out="18937" />
+    </line>
+    <line lang1="- Wessen Mantel #ist das?" someNumber="None" image="dg\012_003.gif" lang2="- Чьё это пальто?">
+      <audioTime in="19076" out="20420" />
+    </line>
+    <line lang1="#Ist das Stellas Mantel?" someNumber="None" image="dg\012_003.gif" lang2="Это пальто Стеллы?">
+      <audioTime in="20420" out="22091" />
+    </line>
+    <line lang1="- Das #ist nicht Stellas Mantel." someNumber="210" image="dg\012_003.gif" lang2="- Это не пальто Стеллы.">
+      <audioTime in="22418" out="24060" />
+    </line>
+    <line lang1="Das #ist Fräulein Duponts Mantel." someNumber="210" image="dg\012_003.gif" lang2="Это пальто фрейлейн Дюпон.">
+      <audioTime in="24060" out="26317" />
+    </line>
+    <line lang1="- Wessen Regenschirm #ist das?" someNumber="None" image="dg\012_004.gif" lang2="- Чей это зонтик?">
+      <audioTime in="26317" out="28485" />
+    </line>
+    <line lang1="#Ist das Pols Regenschirm?" someNumber="None" image="dg\012_004.gif" lang2="Это зонтик Пола?">
+      <audioTime in="28406" out="30634" />
+    </line>
+    <line lang1="- Das #ist nicht Pols Regenschirm." someNumber="900" image="dg\012_004.gif" lang2="- Это не зонтик Пола.">
+      <audioTime in="30913" out="33419" />
+    </line>
+    <line lang1="Das #ist Herrn Müllers Regenschirm." someNumber="900" image="dg\012_004.gif" lang2="Это зонтик господина Мюллера.">
+      <audioTime in="33558" out="35786" />
+    </line>
+    <line lang1="- Wessen Kugelschreiber #ist das?" someNumber="200" image="dg\012_005.gif" lang2="- Чья это ручка?">
+      <audioTime in="35786" out="37818" />
+    </line>
+    <line lang1="#Ist das der Kugelschreiber deines Vaters?" someNumber="200" image="dg\012_005.gif" lang2="Это ручка твоего отца?">
+      <audioTime in="37818" out="40257" />
+    </line>
+    <line lang1="- Das #ist nicht der Kugelschreiber meines Vaters." someNumber="60" image="dg\012_005.gif" lang2="- Это не ручка моего отца.">
+      <audioTime in="40520" out="43027" />
+    </line>
+    <line lang1="Das #ist der Kugelschreiber meines Sohns." someNumber="60" image="dg\012_005.gif" lang2="Это ручка моего сына.">
+      <audioTime in="43167" out="45812" />
+    </line>
+    <line lang1="- Wessen Kleid #ist das?" someNumber="160" image="dg\012_006.gif" lang2="- Чьё это платье?">
+      <audioTime in="46091" out="47622" />
+    </line>
+    <line lang1="#Ist das Kleid Ihrer Mutter?" someNumber="160" image="dg\012_006.gif" lang2="Это платье вашей матери?">
+      <audioTime in="47622" out="49571" />
+    </line>
+    <line lang1="- Das #ist nicht das Kleid meiner Mutter." someNumber="340" image="dg\012_006.gif" lang2="- Это не платье моей матери.">
+      <audioTime in="49711" out="52034" />
+    </line>
+    <line lang1="Das #ist das Kleid meiner Tochter." someNumber="340" image="dg\012_006.gif" lang2="Это платье моей дочери.">
+      <audioTime in="52034" out="54561" />
+    </line>
+    <line lang1="- Wessen Anzug #ist das?" someNumber="None" image="dg\012_007.gif" lang2="- Чей это костюм?">
+      <audioTime in="55002" out="56673" />
+    </line>
+    <line lang1="#Ist das der Anzug Ihres Sohnes?" someNumber="None" image="dg\012_007.gif" lang2="Это костюм вашего сына?">
+      <audioTime in="56673" out="59041" />
+    </line>
+    <line lang1="- Das #ist nicht der Anzug meines Sohnes." someNumber="140" image="dg\012_007.gif" lang2="- Это не костюм моего сына.">
+      <audioTime in="59459" out="61825" />
+    </line>
+    <line lang1="Das #ist der Anzug meines Vaters." someNumber="140" image="dg\012_007.gif" lang2="Это костюм моего отца.">
+      <audioTime in="61965" out="64053" />
+    </line>
+    <line lang1="- Wessen Rock #ist das?" someNumber="None" image="dg\012_008.gif" lang2="- Чья это юбка?">
+      <audioTime in="64611" out="66142" />
+    </line>
+    <line lang1="#Ist das der Rock Ihrer Tochter?" someNumber="None" image="dg\012_008.gif" lang2="Это юбка вашей дочери?">
+      <audioTime in="66282" out="68231" />
+    </line>
+    <line lang1="- Das #ist nicht der Rock meiner Tochter." someNumber="150" image="dg\012_008.gif" lang2="- Это не юбка моей дочери.">
+      <audioTime in="68231" out="70738" />
+    </line>
+    <line lang1="Das #ist der Rock meiner Mutter." someNumber="150" image="dg\012_008.gif" lang2="Это юбка моей матери.">
+      <audioTime in="70738" out="72966" />
+    </line>
+    <line lang1="- Wessen Bluse #ist das?" someNumber="None" image="dg\012_009.gif" lang2="- Чья это блузка?">
+      <audioTime in="73104" out="75054" />
+    </line>
+    <line lang1="#Ist das die Bluse Ihrer Mutter?" someNumber="None" image="dg\012_009.gif" lang2="Это блузка вашей матери?">
+      <audioTime in="74776" out="77561" />
+    </line>
+    <line lang1="- Das #ist nicht die Bluse meiner Mutter." someNumber="370" image="dg\012_009.gif" lang2="- Это не блузка моей матери.">
+      <audioTime in="77700" out="80345" />
+    </line>
+    <line lang1="Das #ist die Bluse meiner Schwester." someNumber="370" image="dg\012_009.gif" lang2="Это блузка моей сестры.">
+      <audioTime in="80206" out="82852" />
+    </line>
+    <line lang1="- Wessen Krawatte #ist das?" someNumber="200" image="dg\012_010.gif" lang2="- Чей это галстук?">
+      <audioTime in="82852" out="84941" />
+    </line>
+    <line lang1="#Ist das die Krawatte Ihres Vaters?" someNumber="200" image="dg\012_010.gif" lang2="Это галстук вашего отца?">
+      <audioTime in="84941" out="87447" />
+    </line>
+    <line lang1="- Das #ist nicht die Krawatte meines Vaters." someNumber="None" image="dg\012_010.gif" lang2="- Это не галстук моего отца.">
+      <audioTime in="87447" out="90233" />
+    </line>
+    <line lang1="Das #ist die Krawatte meines Bruders." someNumber="None" image="dg\012_010.gif" lang2="Это галстук моего брата.">
+      <audioTime in="90233" out="92580" />
+    </line>
+  </lines>
+</lesson>

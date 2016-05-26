@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="d_035.wav" dic="p035" dlgName="Наша деревня." dlgFile="exr\dg035.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Das #ist das Photo unseres Dorfes." someNumber="None" image="dg\035_001.gif" lang2="- Это фотография нашей деревни.">
+      <audioTime in="97" out="2738" />
+    </line>
+    <line lang1="- Unser Dorf #liegt im Tal." someNumber="None" image="dg\035_001.gif" lang2="- Наша деревня лежит в долине.">
+      <audioTime in="3032" out="5086" />
+    </line>
+    <line lang1="- Es #liegt zwischen zwei Hügeln." someNumber="None" image="dg\035_001.gif" lang2="- Она лежит между двумя холмами.">
+      <audioTime in="5282" out="7434" />
+    </line>
+    <line lang1="- Das Dorf #liegt an einem Fluss." someNumber="None" image="dg\035_001.gif" lang2="- Деревня находится у реки.">
+      <audioTime in="7776" out="10026" />
+    </line>
+    <line lang1="- Hier #ist ein anderes Photo unseres Dorfes." someNumber="None" image="dg\035_002.gif" lang2="- Вот другая фотография нашей деревни.">
+      <audioTime in="10466" out="12960" />
+    </line>
+    <line lang1="- Meine Frau und ich #wandern den Fluss entlang." someNumber="None" image="dg\035_002.gif" lang2="- Моя жена и я гуляем вдоль берега реки.">
+      <audioTime in="13156" out="16090" />
+    </line>
+    <line lang1="- Wir #sind links." someNumber="None" image="dg\035_002.gif" lang2="- Мы на левой стороне.">
+      <audioTime in="16579" out="17655" />
+    </line>
+    <line lang1="- Und im Fluss #ist ein Junge." someNumber="None" image="dg\035_002.gif" lang2="- А в реке мальчик.">
+      <audioTime in="17704" out="19465" />
+    </line>
+    <line lang1="- Er #schwimmt über den Fluss." someNumber="None" image="dg\035_002.gif" lang2="- Он плывёт через реку.">
+      <audioTime in="19759" out="21324" />
+    </line>
+    <line lang1="- Hier #ist ein anderes Photo." someNumber="None" image="dg\035_003.gif" lang2="- Вот другая фотография.">
+      <audioTime in="21666" out="23427" />
+    </line>
+    <line lang1="- Das #ist das Schulgebäude." someNumber="None" image="dg\035_003.gif" lang2="- Это школьное здание.">
+      <audioTime in="23672" out="25627" />
+    </line>
+    <line lang1="- Es #liegt neben dem Park." someNumber="None" image="dg\035_003.gif" lang2="- Оно находится рядом с парком.">
+      <audioTime in="25823" out="27731" />
+    </line>
+    <line lang1="- Der Park #ist rechts." someNumber="None" image="dg\035_003.gif" lang2="- Парк на правой стороне.">
+      <audioTime in="28122" out="29442" />
+    </line>
+    <line lang1="- Einige Kinder #kommen aus dem Gebäude." someNumber="None" image="dg\035_003.gif" lang2="- Несколько детей выходят из здания.">
+      <audioTime in="29639" out="32377" />
+    </line>
+  </lines>
+</lesson>

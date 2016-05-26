@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="FR_031.wav" dlgName="Культурная жизнь" dlgFile="exr\frg031.txt" />
+  <lines>
+    <line lang1="- Tiens! André. D'où viens-tu?" someNumber="None" image="f.jpg" lang2="- Вот Андре. Откуда ты взялся?">
+      <audioTime in="0" out="3195" />
+    </line>
+    <line lang1="Tu étais introuvable ces jours-ci." someNumber="None" image="f.jpg" lang2="Тебя невозможно было найти в последние дни.">
+      <audioTime in="3195" out="5714" />
+    </line>
+    <line lang1="- Je reviens de Paris." someNumber="None" image="f.jpg" lang2="- Я возвращаюсь из Парижа.">
+      <audioTime in="5714" out="7570" />
+    </line>
+    <line lang1="- Etais-tu au Festival d'Art Dramatique?" someNumber="None" image="f.jpg" lang2="- Ты был на фестивале драматического искусства?">
+      <audioTime in="7570" out="10521" />
+    </line>
+    <line lang1="- Oui, évidemment. Je suis allé à Paris pour cela." someNumber="None" image="f.jpg" lang2="- Да, конечно. Я из-за этого и поехал в Париж.">
+      <audioTime in="10521" out="14375" />
+    </line>
+    <line lang1="- Quelles sont tes impressions?" someNumber="None" image="f.jpg" lang2="- Какие у тебя впечатления?">
+      <audioTime in="14375" out="16194" />
+    </line>
+    <line lang1="- Ah, je suis enchanté, conquis même par le jeu des comédiens de Théâtre National Populaire." someNumber="None" image="f.jpg" lang2="- Ах, я восхищен, даже покорен игрой артистов Государственного народного театра.">
+      <audioTime in="16194" out="23792" />
+    </line>
+    <line lang1="Et quels merveilleux décors naturels que sont les chefs-d'œuvre de l'architecture et les paysages français!" someNumber="None" image="f.jpg" lang2="А какие чудесные натуральные декорации представляют шедевры архитектуры и французские пейзажи!">
+      <audioTime in="23792" out="30438" />
+    </line>
+    <line lang1="- Pardonne-moi mon ignorance, mais qu'as-tu vu là-bas?" someNumber="None" image="f.jpg" lang2="- Извини мне моё невежество, но, что ты там видел?">
+      <audioTime in="30438" out="34065" />
+    </line>
+    <line lang1="- J'ai assisté à la représentation de la pièce &quot;Un meurtre dans la cathédrale&quot;." someNumber="None" image="f.jpg" lang2="- Я присутствовал на представлении пьесы &quot;Преступление в соборе&quot;.">
+      <audioTime in="34065" out="39776" />
+    </line>
+    <line lang1="Mais toi, as-tu vu cette pièce?" someNumber="None" image="f.jpg" lang2="А ты видел эту пьесу?">
+      <audioTime in="39776" out="42814" />
+    </line>
+    <line lang1="- Hélas, je n'ai pas pu la voir." someNumber="None" image="f.jpg" lang2="- К сожалению, я не мог её посмотреть.">
+      <audioTime in="42814" out="45132" />
+    </line>
+    <line lang1="- Dommage!" someNumber="None" image="f.jpg" lang2="- Жаль!">
+      <audioTime in="45132" out="46150" />
+    </line>
+    <line lang1="- Mais je n'ai pas perdu mon temps." someNumber="None" image="f.jpg" lang2="- Но я не терял времени.">
+      <audioTime in="46150" out="48561" />
+    </line>
+    <line lang1="J'ai visité toutes les expositions d'art ouvertes actuellement." someNumber="None" image="f.jpg" lang2="Я посетил все открытые сейчас выставки современного искусства.">
+      <audioTime in="48561" out="52642" />
+    </line>
+    <line lang1="- La peinture te passionne-t-elle toujours?" someNumber="None" image="f.jpg" lang2="- Живопись тебя всё ещё увлекает?">
+      <audioTime in="52642" out="55335" />
+    </line>
+    <line lang1="- Plus que jamais!" someNumber="None" image="f.jpg" lang2="- Больше, чем когда-либо.">
+      <audioTime in="55335" out="56639" />
+    </line>
+    <line lang1="- Tant mieux, car Paris est la ville rêvée pour les amateurs d'arts plastiques." someNumber="None" image="f.jpg" lang2="- Тем лучше, ведь Париж - это город, о котором мечтают любители искусства.">
+      <audioTime in="56639" out="61676" />
+    </line>
+    <line lang1="- Tu as raison, la France est un pays aux traditions artistiques très riches." someNumber="None" image="f.jpg" lang2="- Ты прав, Франция - это страна с богатыми традициями искусства.">
+      <audioTime in="61676" out="67596" />
+    </line>
+    <line lang1="- De tout temps ce fut une terre privilégiée pour les artistes." someNumber="None" image="f.jpg" lang2="- С давних пор эта страна покровительствовала художникам.">
+      <audioTime in="67596" out="71502" />
+    </line>
+    <line lang1="Ils y trouvent une ambiance favorable à l'épanouissement de leurs talents." someNumber="None" image="f.jpg" lang2="Они там находят благоприятную почву для развития своих талантов.">
+      <audioTime in="71502" out="76454" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_128.wav" dic="p128" dlgName="Он, должно быть..." dlgFile="exr\fg127.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Est-il médecin ou dentiste?" someNumber="90" image="dg\128_001.gif" lang2="- Он врач или дантист?">
+      <audioTime in="0" out="1370" />
+    </line>
+    <line lang1="- Il n'est pas médecin. Il est dentiste." someNumber="None" image="dg\128_001.gif" lang2="- Он не врач. Он дантист.">
+      <audioTime in="1370" out="3323" />
+    </line>
+    <line lang1="- Est-elle Danoise ou Norvégienne?" someNumber="None" image="dg\128_002.gif" lang2="- Она датчанка или норвежка?">
+      <audioTime in="3323" out="5052" />
+    </line>
+    <line lang1="- Elle n'est pas Danoise. Elle est Norvégienne." someNumber="None" image="dg\128_002.gif" lang2="- Она не датчанка. Она норвежка.">
+      <audioTime in="5052" out="7154" />
+    </line>
+    <line lang1="- Ecoutent-ils la radio ou regardent-ils la télévision?" someNumber="810" image="dg\128_003.gif" lang2="- Они слушают радио или смотрят телевизор?">
+      <audioTime in="7154" out="9909" />
+    </line>
+    <line lang1="- Ils ne peuvent pas écouter la radio. Ils regardent la télévision." someNumber="None" image="dg\128_003.gif" lang2="- Они не могут слушать радио. Они смотрят телевизор.">
+      <audioTime in="9909" out="12971" />
+    </line>
+    <line lang1="- Quel jour sommes-nous aujourd'hui: le premier ou le deux?" someNumber="None" image="dg\128_004.gif" lang2="- Какое сегодня число: первое или второе?">
+      <audioTime in="12971" out="15384" />
+    </line>
+    <line lang1="- Nous sommes le deux. Pas le premier." someNumber="None" image="dg\128_004.gif" lang2="- Сегодня второе. Не первое.">
+      <audioTime in="15384" out="17313" />
+    </line>
+    <line lang1="- Sont-ils Autrichiens ou Allemands?" someNumber="None" image="dg\128_005.gif" lang2="- Они австрийцы или немцы?">
+      <audioTime in="17313" out="18780" />
+    </line>
+    <line lang1="- Ils ne sont pas Autrichiens. Ils sont Allemands." someNumber="None" image="dg\128_005.gif" lang2="- Они не австрийцы. Они немцы.">
+      <audioTime in="18780" out="21149" />
+    </line>
+    <line lang1="- A-t-elle 32 ou 30 ans?" someNumber="None" image="dg\128_006.gif" lang2="- Ей 32 или 30 лет?">
+      <audioTime in="21149" out="22803" />
+    </line>
+    <line lang1="- Elle ne doit pas avoir 32 ans. Elle a 30 ans." someNumber="None" image="dg\128_006.gif" lang2="- Ей не должно быть 32 года. Ей 30 лет.">
+      <audioTime in="22803" out="25408" />
+    </line>
+    <line lang1="- Est-ce cher ou bon marché?" someNumber="350" image="dg\128_007.gif" lang2="- Это дорого или дёшево?">
+      <audioTime in="25408" out="27080" />
+    </line>
+    <line lang1="- Ça ne peut pas être bon marché. C'est cher." someNumber="None" image="dg\128_007.gif" lang2="- Это не может быть дёшево. Это дорого.">
+      <audioTime in="27080" out="29420" />
+    </line>
+    <line lang1="- Se rase-t-il ou prend-t-il son bain?" someNumber="None" image="dg\128_008.gif" lang2="- Он бреется или принимает ванну?">
+      <audioTime in="29420" out="31352" />
+    </line>
+    <line lang1="- Il ne se rase pas. Il prend son bain." someNumber="610" image="dg\128_008.gif" lang2="- Он не бреется. Он принимает ванну.">
+      <audioTime in="31352" out="33556" />
+    </line>
+    <line lang1="- Est-il le plus âgé ou le plus jeune de notre famille?" someNumber="None" image="dg\128_009.gif" lang2="- Он самый старший или самый молодой в нашей семье?">
+      <audioTime in="33556" out="36037" />
+    </line>
+    <line lang1="- Il ne peut pas être le plus âgé. Il est le plus jeune." someNumber="370" image="dg\128_009.gif" lang2="- Он не может быть самым старшим. Он самый молодой.">
+      <audioTime in="36037" out="39005" />
+    </line>
+    <line lang1="- Sont-ils mécaniciens ou ingénieurs?" someNumber="None" image="dg\128_010.gif" lang2="- Они механики или инженеры?">
+      <audioTime in="39005" out="40713" />
+    </line>
+    <line lang1="- Ils ne sont pas mécaniciens. Ils sont ingénieurs." someNumber="None" image="dg\128_010.gif" lang2="- Они не механики. Они инженеры.">
+      <audioTime in="40713" out="43400" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="j_115.wav" dlgName="В театре Кабуки" dic="p115" />
+  <lines>
+    <line lang1="―留学生*は、日本*の*伝統的*な*芸術*も*勉強*できます。" someNumber="None" image="115_001.jpg" lang2="- Студенты-иностранцы имеют возможность изучать также японское традиционное искусство.">
+      <audioTime in="0" out="4983" />
+    </line>
+    <line lang1="今日*は*歌舞伎*の*見学*です。" someNumber="None" image="115_002.jpg" lang2="Сегодня - посещение Кабуки.">
+      <audioTime in="4983" out="8166" />
+    </line>
+    <line lang1="ーすみません、舞台*の*ビデオ*を*撮らせて*いただけません*か。" someNumber="96" image="115_003.jpg" lang2="- Извините, не позволите ли мне снимать происходящее на сцене на видео?">
+      <audioTime in="8166" out="13292" />
+    </line>
+    <line lang1="ーあの、歌舞伎座*で*は*ビデオ*撮影*は*できません。" someNumber="174" image="115_004.jpg" lang2="- Видите ли, в театре Кабуки съемка запрещена.">
+      <audioTime in="13292" out="19571" />
+    </line>
+    <line lang1="ちょっと*あちら*を*ごらん*下さい。" someNumber="109" image="115_005.jpg" lang2="Посмотрите пожалуйста туда!">
+      <audioTime in="19571" out="25597" />
+    </line>
+    <line lang1="「撮影*禁止」と*言う*サイン*が*あります*ね。" someNumber="160" image="115_005.jpg" lang2="Там знак &quot;Съемка запрещена!&quot;, на так ли?">
+      <audioTime in="25597" out="29129" />
+    </line>
+    <line lang1="ーそう*です*か。録音させて*いただけません*か。" someNumber="96" image="115_007.jpg" lang2="- Вот как! А магнитофонную запись не позволите сделать?">
+      <audioTime in="29129" out="33228" />
+    </line>
+    <line lang1="ー録音*も*ちょっと。禁止されています。" someNumber="None" image="115_008.jpg" lang2="- И запись, к сожалению, запрещена.">
+      <audioTime in="33228" out="37517" />
+    </line>
+    <line lang1="玄関*の*そば*の*売店*で*ビデオ*や*カセットテープ*を*売っています*し、" someNumber="148" image="115_009.jpg" lang2="В киоске у входа продают видео, аудиокассеты,">
+      <audioTime in="37517" out="43227" />
+    </line>
+    <line lang1="役者*の*写真*も*売っています。" someNumber="None" image="115_010.jpg" lang2="а также фотографии актёров.">
+      <audioTime in="43227" out="45729" />
+    </line>
+    <line lang1="ー分かりました。イヤホーン*は*どこ*で*借りられます*か。" someNumber="None" image="115_011.jpg" lang2="- Понятно. Где можно взять напрокат наушники?">
+      <audioTime in="45729" out="50431" />
+    </line>
+    <line lang1="ーお客様*は*国際*センター*の*方*です*ね。" someNumber="15" image="115_011.jpg" lang2="- Вы из Международного центра, не так ли?">
+      <audioTime in="50431" out="54878" />
+    </line>
+    <line lang1="あと*で、みな*さん*を*連れて*来て*下さった*先生*が*配って*下さいます。" someNumber="109" image="115_013.jpg" lang2="Вскоре их раздаст учитель, который сопровождает Вас всех.">
+      <audioTime in="54878" out="59973" />
+    </line>
+    <line lang1="少々*お待ち*ください。" someNumber="109" image="115_013.jpg" lang2="Подождите немного.">
+      <audioTime in="59973" out="62177" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="115_015.jpg" lang2="- Ясно.">
+      <audioTime in="62177" out="63117" />
+    </line>
+    <line lang1="ーあれ、キーム*さん、お弁当*です*か。" someNumber="None" image="115_016.jpg" lang2="- Ой! Ким-сан, это у Вас коробочка с завтраком?">
+      <audioTime in="63117" out="68589" />
+    </line>
+    <line lang1="どこ*で*食べる*つもり*です*か。" someNumber="93" image="115_017.jpg" lang2="И где Вы собираетесь есть?">
+      <audioTime in="68589" out="70920" />
+    </line>
+    <line lang1="ー座席*で*も*いい*です*よ。" someNumber="None" image="115_018.jpg" lang2="- Говорят, что можно на своём месте в зрительном зале.">
+      <audioTime in="70920" out="73456" />
+    </line>
+    <line lang1="ーめずらしい。タバコ*も*いい*です*か。" someNumber="090" image="115_019.jpg" lang2="- Как странно. И курить можно?">
+      <audioTime in="73456" out="76829" />
+    </line>
+    <line lang1="ーいいえ。ほら、あちこち*に「禁煙」と*書いて*あります。" someNumber="160" image="115_020.jpg" lang2="- Нет. Вон, смотрите везде написано: &quot; Курить запрещено!&quot;">
+      <audioTime in="76829" out="81988" />
+    </line>
+  </lines>
+</lesson>

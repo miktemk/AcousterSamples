@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="J_036.wav" dlgName="Город мечты" dic="p036" />
+  <lines>
+    <line lang1="ーりっぱ*な*家*です*ね。" someNumber="None" image="036_001.jpg" lang2="- Какой прекрасный дом!">
+      <audioTime in="0" out="3340" />
+    </line>
+    <line lang1="家*の*前*の*花*は*とても*きれい*です。" someNumber="24" image="036_002.jpg" lang2="Цветы перед домом очень красивы!">
+      <audioTime in="3340" out="6160" />
+    </line>
+    <line lang1="―うしろ*に*も*きれい*な*花*が*あります。" someNumber="None" image="036_003.jpg" lang2="- И позади есть красивые цветы.">
+      <audioTime in="6160" out="10335" />
+    </line>
+    <line lang1="―とおり*は*しずか*です*か。" someNumber="None" image="036_004.jpg" lang2="- А улица тихая?">
+      <audioTime in="10335" out="12516" />
+    </line>
+    <line lang1="―さいきん*とおり*は*にぎやか*に*なりました。" someNumber="None" image="036_005.jpg" lang2="- В последнее время улица стала шумной.">
+      <audioTime in="12516" out="15747" />
+    </line>
+    <line lang1="きょ年*は*にぎやか*ではありませんでした。" someNumber="27" image="036_006.jpg" lang2="В прошлом году (она) не была шумной.">
+      <audioTime in="15747" out="19041" />
+    </line>
+    <line lang1="ーほんとう*に、しずか*ではありません。" someNumber="25" image="036_007.jpg" lang2="- В самом деле, не тихо.">
+      <audioTime in="19041" out="21766" />
+    </line>
+    <line lang1="ー私*は*海*の*そば*の*小さ*な*町*に*すみたい*です。" someNumber="081" image="036_008.jpg" lang2="- Я хотела бы жить в маленьком городке на берегу моря.">
+      <audioTime in="21766" out="26928" />
+    </line>
+    <line lang1="まど*から*毎朝*おだやか*な*海*を*見たい*です。" someNumber="None" image="036_009.jpg" lang2="Хочу каждое утро видеть из окна спокойное море.">
+      <audioTime in="26928" out="31095" />
+    </line>
+    <line lang1="よる*は*きれい*な*ゆうやけ*を*ながめたい*です。" someNumber="None" image="036_010.jpg" lang2="По вечерам хочу любоваться прекрасным закатом.">
+      <audioTime in="31095" out="35084" />
+    </line>
+    <line lang1="この*絵*を*見て*ください。" someNumber="083" image="036_011.jpg" lang2="Посмотрите на эту картину.">
+      <audioTime in="35084" out="37761" />
+    </line>
+    <line lang1="これ*は*私*の*ゆめ*の*町*です。" someNumber="None" image="036_011.jpg" lang2="Это город моей мечты.">
+      <audioTime in="37761" out="40595" />
+    </line>
+    <line lang1="ーきれい*な*町*です*ね。" someNumber="None" image="036_013.jpg" lang2="- Какой красивый город!">
+      <audioTime in="40595" out="43050" />
+    </line>
+    <line lang1="海*は*おだやか*で*町*は*小さい*です。" someNumber="24" image="036_013.jpg" lang2="Спокойное море и маленький городок.">
+      <audioTime in="43050" out="46675" />
+    </line>
+    <line lang1="とても*じょうず*に*かきました*ね。" someNumber="None" image="036_015.jpg" lang2="(Вы) очень хорошо нарисовали.">
+      <audioTime in="46675" out="49843" />
+    </line>
+    <line lang1="ーこれ*は*私*の*絵*ではありません。" someNumber="None" image="036_016.jpg" lang2="- Это не моя картина.">
+      <audioTime in="49843" out="53215" />
+    </line>
+    <line lang1="これ*は*ゆうめい*な*がか*の*絵*です。" someNumber="None" image="036_016.jpg" lang2="Это картина известного художника.">
+      <audioTime in="53215" out="57247" />
+    </line>
+    <line lang1="ーしつれい*しました。" someNumber="None" image="036_018.jpg" lang2="- Простите, пожалуйста!">
+      <audioTime in="57247" out="58715" />
+    </line>
+    <line lang1="だれ*です*か。" someNumber="None" image="036_018.jpg" lang2="Кто это?">
+      <audioTime in="58715" out="60160" />
+    </line>
+    <line lang1="ーオランダ*の*画家*です。" someNumber="None" image="036_020.jpg" lang2="- Голландский художник.">
+      <audioTime in="60160" out="62885" />
+    </line>
+    <line lang1="１８せいき*に*うまれました。" someNumber="04" image="036_020.jpg" lang2="(Он) родился в 18 веке.">
+      <audioTime in="62885" out="66130" />
+    </line>
+    <line lang1="でも１８せいき*に*は*ゆうめい*ではなかった*です。" someNumber="27" image="036_020.jpg" lang2="Но в 18 веке не был знаменит.">
+      <audioTime in="66130" out="69913" />
+    </line>
+    <line lang1="１９せいき*に*ゆうめい*に*なりました。" someNumber="None" image="036_020.jpg" lang2="(Он) получил известность в 19 веке.">
+      <audioTime in="69913" out="74081" />
+    </line>
+    <line lang1="今*も*ゆうめい*です。" someNumber="None" image="036_020.jpg" lang2="Знаменит и сейчас.">
+      <audioTime in="74081" out="76884" />
+    </line>
+    <line lang1="―絵*の*名前*は*何*です*か。" someNumber="163" image="036_025.jpg" lang2="- Как называется картина?">
+      <audioTime in="76884" out="79434" />
+    </line>
+    <line lang1="―「ゆめ*の*町」*です。" someNumber="None" image="036_025.jpg" lang2="- &quot;Город мечты&quot;.">
+      <audioTime in="79434" out="82021" />
+    </line>
+  </lines>
+</lesson>

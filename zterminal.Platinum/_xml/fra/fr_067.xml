@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="FR_067.wav" dlgName="На берегу моря" dlgFile="exr\frg067.txt" />
+  <lines>
+    <line lang1="- Quelle jolie mer... et comme l'air est doux!" someNumber="None" image="f.jpg" lang2="- Какое прекрасное море... и какой чудесный воздух!">
+      <audioTime in="0" out="4144" />
+    </line>
+    <line lang1="- Et que de monde!" someNumber="None" image="f.jpg" lang2="- И сколько людей!">
+      <audioTime in="4144" out="6033" />
+    </line>
+    <line lang1="- On va prendre tout d'abord un bain de soleil et après un bain dans la mer." someNumber="None" image="f.jpg" lang2="- Сначала полежим на солнце, а потом выкупаемся в море.">
+      <audioTime in="6033" out="12014" />
+    </line>
+    <line lang1="Nous ne resterons qu'un quart d'heure dans l'eau." someNumber="None" image="f.jpg" lang2="Побудем в воде только четверть часа.">
+      <audioTime in="12014" out="15838" />
+    </line>
+    <line lang1="Ce sera assez pour le premier jour." someNumber="None" image="f.jpg" lang2="Этого будет вполне достаточно на первый раз.">
+      <audioTime in="15838" out="18723" />
+    </line>
+    <line lang1="Après on s'habillera et on ira dîner au restaurant." someNumber="None" image="f.jpg" lang2="Потом оденемся и пойдём пообедать в ресторан.">
+      <audioTime in="18723" out="24422" />
+    </line>
+    <line lang1="- Et qu'est-ce qu'on peut faire pour ne pas s'ennuyer ici?" someNumber="None" image="f.jpg" lang2="- А что здесь можно делать, чтоб не скучать?">
+      <audioTime in="24422" out="28172" />
+    </line>
+    <line lang1="- Si tu veux, nous pouvons jouer au ballon ou faire une promenade sur l'eau." someNumber="None" image="f.jpg" lang2="- Если хочешь, мы можем играть в мяч или погулять по берегу.">
+      <audioTime in="28172" out="33301" />
+    </line>
+    <line lang1="Mais en attendant reposons-nous et regardons la mer et les bateaux qui reviennent de la pêche." someNumber="None" image="f.jpg" lang2="А пока что отдохнем и посмотрим на море и на судна, которые возвращаются с рыбной ловли.">
+      <audioTime in="33301" out="40717" />
+    </line>
+    <line lang1="- A propos, sais-tu bien nager?" someNumber="None" image="f.jpg" lang2="- Кстати, умеешь ли ты хорошо плавать?">
+      <audioTime in="40717" out="43477" />
+    </line>
+    <line lang1="- Assez bien, et toi?" someNumber="None" image="f.jpg" lang2="- Довольно хорошо, а ты?">
+      <audioTime in="43477" out="45479" />
+    </line>
+    <line lang1="- Non, je ne sais pas nager." someNumber="None" image="f.jpg" lang2="- Нет, я не умею плавать.">
+      <audioTime in="45479" out="48063" />
+    </line>
+    <line lang1="Je crains toujours d'être emportée par l'eau." someNumber="None" image="f.jpg" lang2="Я всегда боюсь, чтоб меня не унесла вода.">
+      <audioTime in="48063" out="50982" />
+    </line>
+    <line lang1="- Alors, je t'apprendrai à faire la planche et à bien nager sur le dos." someNumber="None" image="f.jpg" lang2="- Тогда я тебя научу держаться на воде и хорошо плавать на спине.">
+      <audioTime in="50982" out="56657" />
+    </line>
+  </lines>
+</lesson>

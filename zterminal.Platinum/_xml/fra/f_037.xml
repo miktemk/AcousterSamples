@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="f_037.wav" dic="p037" dlgName="Что ты делаешь?" dlgFile="exr\fg037.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Tu travailles dur Georges? Que fais-tu?" someNumber="610" image="dg\037_001.gif" lang2="- Ты усердно работаешь, Жорж? Что ты делаешь?">
+      <audioTime in="0" out="2154" />
+    </line>
+    <line lang1="- Je fais une bibliothèque." someNumber="None" image="dg\037_001.gif" lang2="- Я делаю книжный шкаф.">
+      <audioTime in="2154" out="3667" />
+    </line>
+    <line lang1="Donne-moi un marteau, s'il te plaît." someNumber="None" image="dg\037_002.gif" lang2="Дай мне молоток пожалуйста.">
+      <audioTime in="3667" out="5181" />
+    </line>
+    <line lang1="- Lequel? Celui-ci?" someNumber="470" image="dg\037_002.gif" lang2="- Какой молоток? Этот?">
+      <audioTime in="5181" out="7050" />
+    </line>
+    <line lang1="- Non pas celui-ci. - Celui-là, le grand." someNumber="None" image="dg\037_003.gif" lang2="- Нет не этот. Тот, большой.">
+      <audioTime in="7050" out="9205" />
+    </line>
+    <line lang1="- Le voilà. Merci, Lucien." someNumber="None" image="dg\037_004.gif" lang2="- Вот он. - Спасибо, Люсьен.">
+      <audioTime in="9205" out="11503" />
+    </line>
+    <line lang1="- Que vas-tu faire, Georges?" someNumber="700" image="dg\037_005.gif" lang2="- Что ты собираешься делать, Жорж?">
+      <audioTime in="11503" out="12873" />
+    </line>
+    <line lang1="- Je vais la peindre." someNumber="None" image="dg\037_005.gif" lang2="- Я собираюсь покрасить его.">
+      <audioTime in="12873" out="14030" />
+    </line>
+    <line lang1="- En quelle couleur?" someNumber="None" image="dg\037_006.gif" lang2="- Каким цветом?">
+      <audioTime in="14030" out="15187" />
+    </line>
+    <line lang1="- Je vais la peindre en rose. - En rose?" someNumber="None" image="dg\037_006.gif" lang2="- Я собираюсь покрасить его в розовый цвет. - Розовый?">
+      <audioTime in="15187" out="17698" />
+    </line>
+    <line lang1="- Cette bibliothèque n'est pas pour moi. C'est pour ma fille Suzanne." someNumber="None" image="dg\037_007.gif" lang2="- Этот книжный шкаф не для меня. Это для моей дочери, Сюзан.">
+      <audioTime in="17698" out="20708" />
+    </line>
+    <line lang1="Le rose - c'est sa couleur préférée." someNumber="None" image="dg\037_007.gif" lang2="Розовый - это её любимый цвет.">
+      <audioTime in="20708" out="22648" />
+    </line>
+  </lines>
+</lesson>

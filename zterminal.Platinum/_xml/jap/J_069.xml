@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="j_069.wav" dlgName="Что он сказал?" dic="p069" />
+  <lines>
+    <line lang1="ー明子*さん、今日*ロバノフ*さん*に*会いました。" someNumber="04" image="069_001.jpg" lang2="- Акико-сан, сегодня (я) встретился с Лобановым.">
+      <audioTime in="0" out="5204" />
+    </line>
+    <line lang1="―どこ*で？" someNumber="None" image="069_001.jpg" lang2="- Где?">
+      <audioTime in="5204" out="6699" />
+    </line>
+    <line lang1="―図書館*から*の*帰り道*に*会いました。" someNumber="163" image="069_003.jpg" lang2="- На обратном пути из библиотеки.">
+      <audioTime in="6699" out="9787" />
+    </line>
+    <line lang1="ロバノフ*さん*は「今度*の*日曜日*ジューラン*さん*と*エジプトてん*に*行く*ん*です*が、" someNumber="None" image="069_004.jpg" lang2="Лобанов-сан сказал: &quot;В это воскресенье мы с Дюран-сан идем на египетскую выставку,">
+      <audioTime in="10254" out="16851" />
+    </line>
+    <line lang1="一緒*に*行きません*か。」と*言いました。" someNumber="160" image="069_005.jpg" lang2="а Вы с нами не пойдёте?&quot;">
+      <audioTime in="16851" out="20540" />
+    </line>
+    <line lang1="ーそれ*で?" someNumber="None" image="069_006.jpg" lang2="- Ну и?">
+      <audioTime in="20210" out="21609" />
+    </line>
+    <line lang1="ーぼく*は「いい*です*よ。友達*を*さそって*も*いい*です*か。」と*聞きました。" someNumber="090" image="069_007.jpg" lang2="- Я сказал: &quot;Хорошо! Можно пригласить подругу?&quot;">
+      <audioTime in="21609" out="27352" />
+    </line>
+    <line lang1="ロバノフ*さん*は「ぜひ*さそって*ください。」と*言いました。" someNumber="083" image="069_008.jpg" lang2="- Лобанов-сан сказал: &quot;Пригласите обязательно!&quot;">
+      <audioTime in="27352" out="32066" />
+    </line>
+    <line lang1="―場所*は*上野*の*東京*都美術館*です*か。" someNumber="174" image="069_009.jpg" lang2="- А место (проведения выставки) - Токийская картинная галерея в Уэно?">
+      <audioTime in="32066" out="36369" />
+    </line>
+    <line lang1="―はい。ロバノフ*さん*は「金*の*マスク、" someNumber="None" image="069_010.jpg" lang2="- Да. Лобанов-сан сказал: &quot;(Там) выставлены золотые маски,">
+      <audioTime in="36239" out="40749" />
+    </line>
+    <line lang1="王*の*ミイラ*など*１５０点*が*てんじして*あります。」と*言いました。" someNumber="34" image="069_011.jpg" lang2="мумии царей и так далее, всего 150 экспонатов&quot;.">
+      <audioTime in="40749" out="46222" />
+    </line>
+    <line lang1="―ロバノフ*さん*は*良く*知っています*ね。" someNumber="None" image="069_012.jpg" lang2="- Как хорошо Лобанов-сан всё знает, не правда ли!">
+      <audioTime in="46222" out="49831" />
+    </line>
+    <line lang1="―古代*文化*に*きょうみ*を*持っています*から。" someNumber="154" image="069_013.jpg" lang2="- Потому что он интересуется древней культурой.">
+      <audioTime in="49831" out="52667" />
+    </line>
+    <line lang1="ーいい*です*ね。どこ*で*会う*やくそく*を*しました*か。" someNumber="None" image="069_014.jpg" lang2="- Здорово! Где договорились встретиться?">
+      <audioTime in="52667" out="57021" />
+    </line>
+    <line lang1="―まだ*決めていません。" someNumber="None" image="069_014.jpg" lang2="- Пока не решили.">
+      <audioTime in="57021" out="58768" />
+    </line>
+    <line lang1="ロバノフ*さん*は「これ*は*私*の*めいし*です。" someNumber="None" image="069_016.jpg" lang2="Лобанов-сан сказал: &quot;Это моя визитная карточка.">
+      <audioTime in="58768" out="63057" />
+    </line>
+    <line lang1="土曜日*の*朝*電話して*下さい」と*言いました。" someNumber="None" image="069_016.jpg" lang2="Позвоните в субботу утром.&quot;">
+      <audioTime in="63057" out="66334" />
+    </line>
+    <line lang1="―ちょっと*名刺*を*見せて*下さい。" someNumber="None" image="069_018.jpg" lang2="- Покажите-ка визитную карточку!">
+      <audioTime in="66008" out="69143" />
+    </line>
+    <line lang1="ーはい、これ*です。" someNumber="None" image="069_019.jpg" lang2="- Вот.">
+      <audioTime in="69094" out="70778" />
+    </line>
+    <line lang1="ところ*で、明子*さん、" someNumber="None" image="069_020.jpg" lang2="Кстати, Акико-сан,">
+      <audioTime in="70687" out="73540" />
+    </line>
+    <line lang1="ロシア語*で「今日*は」は*何*と*言う*か*知っています8か。" someNumber="160" image="069_021.jpg" lang2="(Вы) знаете, как сказать по-русски &quot;Добрый день&quot;?">
+      <audioTime in="73540" out="78303" />
+    </line>
+    <line lang1="日曜日*に*ちゃんと*あいさつ*を*したい*ん*です。" someNumber="None" image="069_022.jpg" lang2="Хочу в воскресенье правильно поприветствовать (его).">
+      <audioTime in="78303" out="81501" />
+    </line>
+    <line lang1="ーそう*です*か。「ドビリイジェン」と*言います。" someNumber="None" image="069_022.jpg" lang2="- Вот как! (По-русски) говорят: &quot;Добрый день&quot;.">
+      <audioTime in="81501" out="86724" />
+    </line>
+    <line lang1="今日*習いました。" someNumber="None" image="069_022.jpg" lang2="(Я) выучила сегодня.">
+      <audioTime in="86724" out="89258" />
+    </line>
+  </lines>
+</lesson>

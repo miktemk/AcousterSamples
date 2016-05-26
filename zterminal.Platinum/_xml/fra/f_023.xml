@@ -1,0 +1,29 @@
+<lesson>
+  <header wav="f_023.wav" dic="p023" dlgName="Дай мне несколько бокалов." dlgFile="exr\fg023.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Jeanne, donne-moi quelques verres." someNumber="360" image="dg\023_001.gif" lang2="- Жанна, Дай мне несколько бокалов.">
+      <audioTime in="0" out="2149" />
+    </line>
+    <line lang1="- Quels verres?" someNumber="None" image="dg\023_002.gif" lang2="- Какие бокалы?">
+      <audioTime in="2149" out="2750" />
+    </line>
+    <line lang1="Ces verres-ci?" someNumber="470" image="dg\023_003.gif" lang2="Эти бокалы?">
+      <audioTime in="2750" out="3323" />
+    </line>
+    <line lang1="- Non, pas ces verres-ci. Ces verres-là, qui sont sur le rayon." someNumber="None" image="dg\023_004.gif" lang2="- Нет, не эти. Вот те на полке.">
+      <audioTime in="3323" out="6535" />
+    </line>
+    <line lang1="- Ceux-ci?" someNumber="None" image="dg\023_005.gif" lang2="- Эти?">
+      <audioTime in="6535" out="7168" />
+    </line>
+    <line lang1="- Oui." someNumber="None" image="dg\023_005.gif" lang2="- Да.">
+      <audioTime in="7168" out="7964" />
+    </line>
+    <line lang1="- Les voilà." someNumber="None" image="dg\023_006.gif" lang2="- Вот они.">
+      <audioTime in="7964" out="8412" />
+    </line>
+    <line lang1="- Merci bien." someNumber="None" image="dg\023_006.gif" lang2="- Спасибо.">
+      <audioTime in="8412" out="9777" />
+    </line>
+  </lines>
+</lesson>

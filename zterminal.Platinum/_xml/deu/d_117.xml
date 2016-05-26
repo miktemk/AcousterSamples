@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="d_117.wav" dic="p117" dlgName="Петер нашёл монеты." dlgFile="exr\dg117.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wann #ist mein Mann heute früh ins Speisezimmer #gegangen," someNumber="580" image="dg\117_001.gif" lang2="- Когда мой муж пошёл в столовую сегодня утром,">
+      <audioTime in="0" out="3607" />
+    </line>
+    <line lang1="er #hat einige Münzen auf den Fußboden #fallenlassen." someNumber="580" image="dg\117_001.gif" lang2="он уронил несколько монет на пол.">
+      <audioTime in="3859" out="6707" />
+    </line>
+    <line lang1="- Überall #waren Münzen." someNumber="960" image="dg\117_002.gif" lang2="- Повсюду были монеты.">
+      <audioTime in="6960" out="8479" />
+    </line>
+    <line lang1="- Wir #haben nach ihnen #gesucht, aber #konnten nicht alles #finden." someNumber="960" image="dg\117_002.gif" lang2="- Мы искали их, но не все смогли найти.">
+      <audioTime in="8858" out="12339" />
+    </line>
+    <line lang1="- Als wir #frühstückten, #hat unser kleiner Peter auf dem Boden zwei kleine Münzen #gefunden." someNumber="970" image="dg\117_003.gif" lang2="- Когда мы завтракали, наш маленький Петер нашёл две маленькие монеты на полу.">
+      <audioTime in="12718" out="17970" />
+    </line>
+    <line lang1="- Er #hat sie alle beide in den Mund #gesteckt." someNumber="380" image="dg\117_004.gif" lang2="- Он положил их обе себе в рот.">
+      <audioTime in="18160" out="20565" />
+    </line>
+    <line lang1="- Wir beide #wollten das Geld #herausnehmen, aber es #war zu spät." someNumber="None" image="dg\117_005.gif" lang2="- Мы оба старались достать монеты, но было слишком поздно.">
+      <audioTime in="20881" out="24741" />
+    </line>
+    <line lang1="- Peter #hatte sie schon #verschluckt." someNumber="None" image="dg\117_006.gif" lang2="- Петер уже проглотил их!">
+      <audioTime in="25120" out="27019" />
+    </line>
+    <line lang1="- Heute früh, als ich die Hausarbeit #machte, #1rief mich mein Mann vom Office #2an." someNumber="None" image="dg\117_007.gif" lang2="- Рано утром, когда я делала домашнюю работу, мой муж позвонил мне из офиса.">
+      <audioTime in="27146" out="32730" />
+    </line>
+    <line lang1="- &quot;Wie #geht es Peter?&quot; #fragte er." someNumber="360" image="dg\117_008.gif" lang2="- &quot;Как Петер?&quot; - спросил он.">
+      <audioTime in="32904" out="34739" />
+    </line>
+    <line lang1="- &quot;Ich #weiß nicht&quot; #antwortete ich." someNumber="360" image="dg\117_008.gif" lang2="- &quot;Я не знаю&quot;, - ответила я.">
+      <audioTime in="34865" out="36827" />
+    </line>
+    <line lang1="- &quot;Peter #war heute früh dreimal in der Toilette, aber es #gibt noch keine Veränderung.&quot;" someNumber="960" image="dg\117_009.gif" lang2="- &quot;Петер был сегодня утром в туалете 3 раза, но пока нет никакого изменения.&quot;">
+      <audioTime in="36953" out="41826" />
+    </line>
+  </lines>
+</lesson>

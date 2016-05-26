@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="j_030.wav" dlgName="Людно и шумно" dic="p030" />
+  <lines>
+    <line lang1="ーいい*へや*です*ね。" someNumber="None" image="030_001.jpg" lang2="- Какая хорошая комната!">
+      <audioTime in="0" out="2784" />
+    </line>
+    <line lang1="ひろくて*明い*です。" someNumber="23" image="030_001.jpg" lang2="Просторная и светлая.">
+      <audioTime in="2784" out="4532" />
+    </line>
+    <line lang1="まど*から*きれい*な*にわ*が*見えます。" someNumber="24" image="030_003.jpg" lang2="Из окна виден красивый сад.">
+      <audioTime in="4532" out="7729" />
+    </line>
+    <line lang1="へや*の*かぐ*も*なかなか*すてき*です。" someNumber="24" image="030_004.jpg" lang2="И мебель в комнате красивая.">
+      <audioTime in="7729" out="10973" />
+    </line>
+    <line lang1="ここ*は*町*の*まんなか*です*が、しずか*です*ね。" someNumber="None" image="030_005.jpg" lang2="Тут центр города, но как тихо!">
+      <audioTime in="10973" out="15419" />
+    </line>
+    <line lang1="ーひる*は*しずか*です*が、よる*は*うるさくて*にぎやか*です。" someNumber="148" image="030_006.jpg" lang2="- Днём тихо, но вечером людно и шумно.">
+      <audioTime in="15419" out="20997" />
+    </line>
+    <line lang1="となり*に*ディスコ*が*あります*ね。" someNumber="None" image="030_006.jpg" lang2="Ведь рядом дискотека.">
+      <audioTime in="20997" out="24133" />
+    </line>
+    <line lang1="よる*は*わかもの*が*おおぜい*あつまります。" someNumber="None" image="030_008.jpg" lang2="Вечером собирается много молодых людей.">
+      <audioTime in="24133" out="27904" />
+    </line>
+    <line lang1="おんがく*が*きこえます。" someNumber="None" image="030_008.jpg" lang2="Слышится музыка.">
+      <audioTime in="27904" out="30412" />
+    </line>
+    <line lang1="―ゆかこ*さん*は*おんがく*が*好き*です*ね。" someNumber="02" image="030_010.jpg" lang2="- Юкако, Вы ведь любите музыку?">
+      <audioTime in="30412" out="34274" />
+    </line>
+    <line lang1="ークラシック*おんがく*が*大好き*です*が、ロック*は*きらい*です。" someNumber="120" image="030_011.jpg" lang2="- Классическую музыку - очень люблю, а рок - ненавижу.">
+      <audioTime in="34274" out="40142" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="030_012.jpg" lang2="- Вот как!">
+      <audioTime in="40142" out="42267" />
+    </line>
+    <line lang1="ー私*は*しずか*な*ところ*が*すき*です。" someNumber="24" image="030_013.jpg" lang2="- Я люблю тихие места.">
+      <audioTime in="42267" out="46355" />
+    </line>
+    <line lang1="すき*な*所*は*いなか*です。" someNumber="24" image="030_013.jpg" lang2="(Мое) любимое место - деревня.">
+      <audioTime in="46355" out="49284" />
+    </line>
+    <line lang1="―大とかい*が*きらい*です*か。" someNumber="None" image="030_015.jpg" lang2="- (Вы) ненавидите большие города?">
+      <audioTime in="49284" out="52084" />
+    </line>
+    <line lang1="―きらい*です。大とかい*は*にぎやか*で、うるさい*です。" someNumber="None" image="030_015.jpg" lang2="– Ненавижу. Большие города многолюдны и шумны.">
+      <audioTime in="52084" out="57109" />
+    </line>
+    <line lang1="―でも*べんり*です。" someNumber="None" image="030_017.jpg" lang2="- Зато удобны.">
+      <audioTime in="57109" out="58789" />
+    </line>
+    <line lang1="大学*も*コンサートホール*など*も*あります。" someNumber="None" image="030_018.jpg" lang2="Есть и университеты, и концертные залы, и прочее.">
+      <audioTime in="58740" out="62041" />
+    </line>
+    <line lang1="みせ*は*大きくて、" someNumber="None" image="030_019.jpg" lang2="Магазины - большие,">
+      <audioTime in="62041" out="63981" />
+    </line>
+    <line lang1="ちかてつ*は*はやくて、べんり*です。" someNumber="None" image="030_020.jpg" lang2="метро - быстрое и удобное.">
+      <audioTime in="63981" out="66390" />
+    </line>
+    <line lang1="やっぱり*ぼく*は*いそがしい*生かつ*が*好き*です。" someNumber="None" image="030_021.jpg" lang2="Я всё-таки предпочитаю быстрый темп жизни.">
+      <audioTime in="66390" out="70379" />
+    </line>
+  </lines>
+</lesson>

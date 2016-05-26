@@ -1,0 +1,98 @@
+<lesson>
+  <header wav="FR_006.wav" dlgName="Спектакли" dlgFile="exr\frg006.txt" />
+  <lines>
+    <line lang1="- Que faites-vous ce matin?" someNumber="None" image="f.jpg" lang2="- Что вы делаете сегодня утром?">
+      <audioTime in="0" out="2458" />
+    </line>
+    <line lang1="- Je reste à la maison." someNumber="None" image="f.jpg" lang2="- Я буду дома.">
+      <audioTime in="2458" out="5041" />
+    </line>
+    <line lang1="J'ai beaucoup de travail." someNumber="None" image="f.jpg" lang2="У меня много работы.">
+      <audioTime in="5041" out="7307" />
+    </line>
+    <line lang1="- Et cet après-midi?" someNumber="None" image="f.jpg" lang2="- А сегодня после обеда?">
+      <audioTime in="7307" out="9699" />
+    </line>
+    <line lang1="- Cet après-midi j'ai un rendez-vous." someNumber="None" image="f.jpg" lang2="- Сегодня после обеда у меня свидание.">
+      <audioTime in="9699" out="13279" />
+    </line>
+    <line lang1="- Et ce soir?" someNumber="None" image="f.jpg" lang2="- А сегодня вечером?">
+      <audioTime in="13279" out="15331" />
+    </line>
+    <line lang1="- Ce soir j'ai une visite." someNumber="None" image="f.jpg" lang2="- Сегодня вечером у меня гости.">
+      <audioTime in="15331" out="18371" />
+    </line>
+    <line lang1="- Vous n'êtes donc jamais libre." someNumber="None" image="f.jpg" lang2="- В таком случае, вы никогда не бываете свободны.">
+      <audioTime in="18371" out="21412" />
+    </line>
+    <line lang1="Vous êtes toujours occupée." someNumber="None" image="f.jpg" lang2="Вы всегда заняты.">
+      <audioTime in="21412" out="23825" />
+    </line>
+    <line lang1="- Oui, cette semaine je suis très occupée." someNumber="None" image="f.jpg" lang2="- Да, на этой неделе я очень занята.">
+      <audioTime in="23825" out="28255" />
+    </line>
+    <line lang1="- Alors, à un de ces jours." someNumber="None" image="f.jpg" lang2="- Тогда, до скорой встречи!">
+      <audioTime in="28255" out="30778" />
+    </line>
+    <line lang1="- Au revoir, mon ami!" someNumber="None" image="f.jpg" lang2="- До свидания, мой друг!">
+      <audioTime in="30778" out="33015" />
+    </line>
+    <line lang1="- Est-ce que vous êtes libre ce soir?" someNumber="None" image="f.jpg" lang2="- Вы свободны сегодня вечером?">
+      <audioTime in="33015" out="36625" />
+    </line>
+    <line lang1="- Oui, ce soir je n'ai rien à faire." someNumber="None" image="f.jpg" lang2="- Да сегодня вечером мне нечего делать.">
+      <audioTime in="36625" out="40097" />
+    </line>
+    <line lang1="- Alors, voulez-vous aller au cinéma?" someNumber="None" image="f.jpg" lang2="- Тогда, хотите ли вы пойти в кино?">
+      <audioTime in="40097" out="43096" />
+    </line>
+    <line lang1="- Ma foi, non! Je préfère aller au théâtre." someNumber="None" image="f.jpg" lang2="- Откровенно говоря, нет! Я предпочитаю пойти в театр.">
+      <audioTime in="43096" out="47222" />
+    </line>
+    <line lang1="A propos, qu'est-ce qu'on joue maintenant dans les théâtres parisiens?" someNumber="None" image="f.jpg" lang2="Между прочим, что играют теперь в парижских театрах?">
+      <audioTime in="47222" out="52121" />
+    </line>
+    <line lang1="- Voici le guide-programme des spectacles du mercredi vingt-sept mai au mardi 2 juin." someNumber="None" image="f.jpg" lang2="- Вот путеводитель-программа спектаклей от среды двадцать седьмого мая до вторника 2 июня.">
+      <audioTime in="52121" out="59355" />
+    </line>
+    <line lang1="Eh bien, à la Comédie Française on donne &quot;Un homme comme les autres&quot;, de Salacrou," someNumber="None" image="f.jpg" lang2="Итак, в Комеди Франсез идёт &quot;Человек как другие&quot; Салякру,">
+      <audioTime in="59355" out="66288" />
+    </line>
+    <line lang1="et à l'Opéra &quot;Rigoletto&quot; de Verdi." someNumber="None" image="f.jpg" lang2="в опере - &quot;Риголетто&quot; Верди.">
+      <audioTime in="66288" out="69898" />
+    </line>
+    <line lang1="- Je connais les pièces de Salacrou et je n'aime pas la musique d'opéra." someNumber="None" image="f.jpg" lang2="- Я знаком с пьесами Салякру и не люблю оперной музыки.">
+      <audioTime in="69898" out="75358" />
+    </line>
+    <line lang1="- Attendez, ce n'est pas tout." someNumber="None" image="f.jpg" lang2="- Подождите, это не всё.">
+      <audioTime in="75358" out="77596" />
+    </line>
+    <line lang1="A l'Atelier, on joue &quot;l'Oeuf&quot;, une comédie de Félicien Marceau," someNumber="None" image="f.jpg" lang2="В &quot;Ателье&quot; играют &quot;Яйцо&quot;, комедию Фелисьен Марсо,">
+      <audioTime in="77596" out="83294" />
+    </line>
+    <line lang1="et au Petit Théâtre de Paris &quot;La vie parisienne&quot;." someNumber="None" image="f.jpg" lang2="а в парижском Малом театре &quot;Парижскую жизнь&quot;.">
+      <audioTime in="83294" out="87548" />
+    </line>
+    <line lang1="- Alors, allons voir &quot;La vie parisienne&quot;." someNumber="None" image="f.jpg" lang2="- Тогда пойдёмте смотреть &quot;Парижскую жизнь&quot;.">
+      <audioTime in="87548" out="90563" />
+    </line>
+    <line lang1="- D'accord. La séance commence à 20 heures précises." someNumber="None" image="f.jpg" lang2="- Хорошо. Спектакль начинается ровно в двадцать часов.">
+      <audioTime in="90563" out="95472" />
+    </line>
+    <line lang1="- Eh bien, à tout a l'heure." someNumber="None" image="f.jpg" lang2="- До скорой встречи.">
+      <audioTime in="95472" out="97086" />
+    </line>
+    <line lang1="- A tout à l'heure." someNumber="None" image="f.jpg" lang2="- До скорой встречи.">
+      <audioTime in="97086" out="98687" />
+    </line>
+    <line lang1="Et n'oubliez pas qu'en France on donne toujours un pourboire aux ouvreuses de théâtre et de cinéma." someNumber="None" image="f.jpg" lang2="И не забывайте, что во Франции даются всегда чаевые билетершам в театре и кино.">
+      <audioTime in="98687" out="105678" />
+    </line>
+    <line lang1="- Je sais bien. On donne aussi un pourboire aux chauffeurs de taxi," someNumber="None" image="f.jpg" lang2="- Я знаю. Даются также чаевые шоферам такси,">
+      <audioTime in="105678" out="110566" />
+    </line>
+    <line lang1="aux garçons de café et aux serveuses de restaurant." someNumber="None" image="f.jpg" lang2="официантам в кафе и в ресторанах.">
+      <audioTime in="110566" out="114782" />
+    </line>
+  </lines>
+</lesson>

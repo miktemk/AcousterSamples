@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="f_015.wav" dic="p015" dlgName="Таможня." dlgFile="exr\fg015.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Etes-vous Suédoises?" someNumber="610" image="dg\015_001.gif" lang2="- Вы шведки?">
+      <audioTime in="0" out="1294" />
+    </line>
+    <line lang1="- Non, nous sommes Danoises." someNumber="610" image="dg\015_001.gif" lang2="- Нет. Мы датчанки.">
+      <audioTime in="1294" out="3799" />
+    </line>
+    <line lang1="- Et vos amis, sont-ils aussi Danois?" someNumber="None" image="dg\015_002.gif" lang2="- Ваши друзья также датчане?">
+      <audioTime in="3799" out="5774" />
+    </line>
+    <line lang1="- Non, ils sont Norvégiens." someNumber="None" image="dg\015_002.gif" lang2="- Нет. Они норвежцы.">
+      <audioTime in="5774" out="8172" />
+    </line>
+    <line lang1="- Vos passeports, s'il vous plaît." someNumber="210" image="dg\015_003.gif" lang2="- Ваши паспорта, пожалуйста.">
+      <audioTime in="8172" out="9956" />
+    </line>
+    <line lang1="- Les voilà." someNumber="210" image="dg\015_003.gif" lang2="- Вот они.">
+      <audioTime in="9956" out="11398" />
+    </line>
+    <line lang1="- Est-ce que ce sont vos valises?" someNumber="None" image="dg\015_004.gif" lang2="- Это ваши чемоданы?">
+      <audioTime in="11398" out="13141" />
+    </line>
+    <line lang1="- Non. Nos valises sont brunes. Les voilà." someNumber="490" image="dg\015_005.gif" lang2="- Нет. Наши чемоданы коричневые. Вот они.">
+      <audioTime in="13141" out="16427" />
+    </line>
+    <line lang1="- Etes-vous touristes?" someNumber="None" image="dg\015_006.gif" lang2="- Вы туристы?">
+      <audioTime in="16427" out="17622" />
+    </line>
+    <line lang1="- Oui." someNumber="None" image="dg\015_006.gif" lang2="- Да.">
+      <audioTime in="17622" out="18617" />
+    </line>
+    <line lang1="- Et vos amis, sont-ils aussi touristes?" someNumber="210" image="dg\015_007.gif" lang2="- Ваши друзья также туристы?">
+      <audioTime in="18617" out="20808" />
+    </line>
+    <line lang1="- Oui." someNumber="None" image="dg\015_007.gif" lang2="- Да.">
+      <audioTime in="20808" out="21595" />
+    </line>
+    <line lang1="- Très bien. Merci beaucoup." someNumber="None" image="dg\015_008.gif" lang2="- Очень хорошо. Большое спасибо.">
+      <audioTime in="21595" out="22600" />
+    </line>
+  </lines>
+</lesson>

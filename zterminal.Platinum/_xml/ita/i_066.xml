@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="i_066.wav" dic="p066" dlgName="Который час?" dlgFile="exr\ig065.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Lei quando deve venire a casa?" someNumber="None" image="dg\066_001.gif" lang2="- Когда Вы должны прийти домой?">
+      <audioTime in="191" out="2575" />
+    </line>
+    <line lang1="- Devo venire a casa all'una." someNumber="None" image="dg\066_001.gif" lang2="- Я должен прийти домой в час.">
+      <audioTime in="2575" out="4813" />
+    </line>
+    <line lang1="- Quando deve andare in biblioteca lei?" someNumber="None" image="dg\066_002.gif" lang2="- Когда она должна пойти в библиотеку?">
+      <audioTime in="4864" out="7153" />
+    </line>
+    <line lang1="- Lei deve andare in biblioteca all'una e un quarto." someNumber="None" image="dg\066_002.gif" lang2="- Она должна пойти в библиотеку в четверть второго.">
+      <audioTime in="7153" out="10396" />
+    </line>
+    <line lang1="- Quando Lei e Pietro dovete andare dal dentista?" someNumber="None" image="dg\066_003.gif" lang2="- Когда Вы и Пьетро должны увидеть дантиста?">
+      <audioTime in="10396" out="13538" />
+    </line>
+    <line lang1="- Dobbiamo andare dal dentista alle quattro meno un quarto." someNumber="None" image="dg\066_003.gif" lang2="- Мы должны увидеть дантиста без четверти четыре.">
+      <audioTime in="13638" out="17072" />
+    </line>
+    <line lang1="- Lei quando deve stampare questa lettera?" someNumber="None" image="dg\066_004.gif" lang2="- Когда Вы должны напечатать это письмо?">
+      <audioTime in="17072" out="19647" />
+    </line>
+    <line lang1="- Devo stampare questa lettera alle due." someNumber="None" image="dg\066_004.gif" lang2="- Я должен напечатать это письмо в два часа.">
+      <audioTime in="19597" out="22132" />
+    </line>
+    <line lang1="- Quando devono andare dal padrone di casa Maria e Pietro?" someNumber="None" image="dg\066_005.gif" lang2="- Когда Пьетро и Мария должны увидеть хозяина?">
+      <audioTime in="22222" out="25274" />
+    </line>
+    <line lang1="- Devono andare dal padrone di casa all'una e mezza." someNumber="None" image="dg\066_005.gif" lang2="- Они должны увидеть хозяина в половине второго.">
+      <audioTime in="25274" out="28325" />
+    </line>
+    <line lang1="- Quando deve prendere la medicina Giorgio?" someNumber="None" image="dg\066_006.gif" lang2="- Когда Джорджио должен принимать своё лекарство?">
+      <audioTime in="28331" out="30901" />
+    </line>
+    <line lang1="- Deve prendere la medicina alle tre e un quarto." someNumber="None" image="dg\066_006.gif" lang2="- Он должен принимать своё лекарство в четверть четвёртого.">
+      <audioTime in="30805" out="33998" />
+    </line>
+    <line lang1="- Quando deve partire per Londra Elena?" someNumber="None" image="dg\066_007.gif" lang2="- Когда Елена должна поехать в Лондон?">
+      <audioTime in="34193" out="36814" />
+    </line>
+    <line lang1="- Deve partire per Londra alle due e mezza." someNumber="None" image="dg\066_007.gif" lang2="- Она должна поехать в Лондон в половине третьего.">
+      <audioTime in="36764" out="39591" />
+    </line>
+    <line lang1="- A che ora devo prendere l'autobus?" someNumber="None" image="dg\066_008.gif" lang2="- Когда я должен сесть на автобус?">
+      <audioTime in="39670" out="41869" />
+    </line>
+    <line lang1="- Deve prendere l'autobus alle tre e mezza." someNumber="None" image="dg\066_008.gif" lang2="- Вы должны сесть на автобус в половине четвёртого.">
+      <audioTime in="41809" out="44500" />
+    </line>
+    <line lang1="- A che ora deve stare là?" someNumber="None" image="dg\066_009.gif" lang2="- Когда Вы должны приехать туда?">
+      <audioTime in="44730" out="46637" />
+    </line>
+    <line lang1="- Devo stare lì alle tre." someNumber="None" image="dg\066_009.gif" lang2="- Я должен приехать туда в три часа.">
+      <audioTime in="46733" out="48449" />
+    </line>
+    <line lang1="- Quando devono ritornare a casa?" someNumber="None" image="dg\066_010.gif" lang2="- Когда они должны прийти домой?">
+      <audioTime in="48596" out="50513" />
+    </line>
+    <line lang1="- Devono ritornare a casa alle due e un quarto." someNumber="None" image="dg\066_010.gif" lang2="- Они должны прийти домой в четверть третьего.">
+      <audioTime in="50639" out="53695" />
+    </line>
+    <line lang1="- Lei quando deve incontrare Pietro?" someNumber="None" image="dg\066_011.gif" lang2="- Когда Вы должны встретить Пьетро?">
+      <audioTime in="53650" out="55794" />
+    </line>
+    <line lang1="- Devo incontrare Pietro alle due meno un quarto." someNumber="None" image="dg\066_011.gif" lang2="- Я должен встретить Пьетро без четверти два.">
+      <audioTime in="55974" out="59037" />
+    </line>
+    <line lang1="- Quando deve chiamarLa?" someNumber="None" image="dg\066_012.gif" lang2="- Когда он должен позвонить Вам?">
+      <audioTime in="59037" out="60707" />
+    </line>
+    <line lang1="- Mi deve chiamare alle tre meno un quarto." someNumber="None" image="dg\066_012.gif" lang2="- Он должен позвонить мне без четверти три.">
+      <audioTime in="60707" out="63281" />
+    </line>
+  </lines>
+</lesson>

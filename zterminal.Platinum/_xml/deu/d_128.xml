@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_128.wav" dic="p128" dlgName="Он, должно быть..." dlgFile="exr\dg127.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Ist er Arzt oder Zahnarzt?" someNumber="None" image="dg\128_001.gif" lang2="- Он врач или дантист?">
+      <audioTime in="101" out="2340" />
+    </line>
+    <line lang1="- Er #kann kein Arzt #sein." someNumber="None" image="dg\128_001.gif" lang2="- Он не может быть доктором.">
+      <audioTime in="2442" out="4171" />
+    </line>
+    <line lang1="Er #muss Zahnarzt #sein." someNumber="None" image="dg\128_001.gif" lang2="Он, должно быть, дантист.">
+      <audioTime in="4171" out="5932" />
+    </line>
+    <line lang1="- #Ist sie Dänin oder Norwegerin?" someNumber="330" image="dg\128_002.gif" lang2="- Она датчанка или норвежка?">
+      <audioTime in="6003" out="8140" />
+    </line>
+    <line lang1="- Sie #kann keine Dänin #sein." someNumber="None" image="dg\128_002.gif" lang2="- Она не может быть датчанкой.">
+      <audioTime in="8445" out="10073" />
+    </line>
+    <line lang1="Sie #muss Norwegerin #sein." someNumber="None" image="dg\128_002.gif" lang2="Она, должно быть, норвежка.">
+      <audioTime in="10073" out="11608" />
+    </line>
+    <line lang1="- #1Sehen sie #2fern oder hören sie Radio?" someNumber="None" image="dg\128_003.gif" lang2="- Они слушают радио или смотрят телевизор?">
+      <audioTime in="12108" out="14550" />
+    </line>
+    <line lang1="- Sie #können nicht Radio #hören." someNumber="None" image="dg\128_003.gif" lang2="- Они не могут слушать радио.">
+      <audioTime in="14753" out="16381" />
+    </line>
+    <line lang1="Sie #müssen #fernsehen." someNumber="None" image="dg\128_003.gif" lang2="Они, должно быть, смотрят телевизор.">
+      <audioTime in="16381" out="17510" />
+    </line>
+    <line lang1="- #Ist heute der erste oder der zweite?" someNumber="None" image="dg\128_004.gif" lang2="- Сегодня первое или второе?">
+      <audioTime in="18315" out="20654" />
+    </line>
+    <line lang1="- Heute #kann nicht der erste #sein." someNumber="430" image="dg\128_004.gif" lang2="- Сегодня не может быть первое.">
+      <audioTime in="20858" out="22893" />
+    </line>
+    <line lang1="Heute #muss der 2. #sein." someNumber="430" image="dg\128_004.gif" lang2="Должно быть, сегодня второе.">
+      <audioTime in="22893" out="24519" />
+    </line>
+    <line lang1="- #Sind sie Österreicher oder Deutsche?" someNumber="None" image="dg\128_005.gif" lang2="- Они австрийцы или немцы?">
+      <audioTime in="25030" out="27371" />
+    </line>
+    <line lang1="- Sie #können keine Österreicher #sein." someNumber="None" image="dg\128_005.gif" lang2="- Они не могут быть австрийцами.">
+      <audioTime in="27472" out="29507" />
+    </line>
+    <line lang1="Sie #müssen Deutsche #sein." someNumber="None" image="dg\128_005.gif" lang2="Они, должно быть, немцы.">
+      <audioTime in="29507" out="30861" />
+    </line>
+    <line lang1="- #Ist sie 32 oder 30 Jahre alt?" someNumber="410" image="dg\128_006.gif" lang2="- Ей 32 или 30?">
+      <audioTime in="31441" out="33984" />
+    </line>
+    <line lang1="- Sie #kann nicht 32 #sein." someNumber="None" image="dg\128_006.gif" lang2="- Ей не может быть 32.">
+      <audioTime in="34493" out="36324" />
+    </line>
+    <line lang1="Sie #muss, 30 #sein." someNumber="None" image="dg\128_006.gif" lang2="Ей, должно быть, 30.">
+      <audioTime in="36324" out="37904" />
+    </line>
+    <line lang1="- #Ist das teuer oder billig?" someNumber="220" image="dg\128_007.gif" lang2="- Это дорого или дёшево?">
+      <audioTime in="38766" out="40597" />
+    </line>
+    <line lang1="- Das #kann nicht billig #sein." someNumber="None" image="dg\128_007.gif" lang2="- Это не может быть дешёвым.">
+      <audioTime in="40903" out="43345" />
+    </line>
+    <line lang1="Das #muss teuer #sein." someNumber="None" image="dg\128_007.gif" lang2="Это должно быть дорогим.">
+      <audioTime in="43345" out="45106" />
+    </line>
+    <line lang1="- #Rasiert er sich, oder #nimmt er ein Bad?" someNumber="350" image="dg\128_008.gif" lang2="- Он бреется или принимает ванну?">
+      <audioTime in="45481" out="48127" />
+    </line>
+    <line lang1="- Es kann nicht sein, dass er sich rasiert." someNumber="None" image="dg\128_008.gif" lang2="- Не может быть, чтобы он брился.">
+      <audioTime in="48228" out="50671" />
+    </line>
+    <line lang1="Er #wird wohl ein Bad #nehmen." someNumber="None" image="dg\128_008.gif" lang2="Он, должно быть, принимает ванну.">
+      <audioTime in="50671" out="52341" />
+    </line>
+    <line lang1="- #Ist er der älteste oder der jüngste in unserer Familie?" someNumber="310" image="dg\128_009.gif" lang2="- Он самый старый или самый молодой в нашей семье?">
+      <audioTime in="53011" out="56368" />
+    </line>
+    <line lang1="- Er #kann nicht der älteste #sein." someNumber="None" image="dg\128_009.gif" lang2="- Он не может быть самым старым.">
+      <audioTime in="56674" out="58946" />
+    </line>
+    <line lang1="Er #muss der jüngste #sein." someNumber="None" image="dg\128_009.gif" lang2="Он, должно быть, самый молодой.">
+      <audioTime in="58946" out="60843" />
+    </line>
+    <line lang1="- #Ist er Mechaniker oder Ingenieur?" someNumber="None" image="dg\128_010.gif" lang2="- Он механик или инженер?">
+      <audioTime in="61354" out="63695" />
+    </line>
+    <line lang1="- Er #kann kein Mechaniker #sein." someNumber="380" image="dg\128_010.gif" lang2="- Он не может быть механиком.">
+      <audioTime in="64101" out="65627" />
+    </line>
+    <line lang1="Er #muss Ingenieur #sein." someNumber="380" image="dg\128_010.gif" lang2="Он, должно быть, инженер.">
+      <audioTime in="65627" out="67344" />
+    </line>
+  </lines>
+</lesson>

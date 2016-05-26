@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="j_063.wav" dlgName="Я приехал, чтоб изучать язык." dic="p063" />
+  <lines>
+    <line lang1="―ジェイムス*さん*の*日本*に*来た*目的*は*なん*です*か。" someNumber="None" image="063_001.jpg" lang2="- Джеймс-сан, с какой целью Вы приехали в Японию?">
+      <audioTime in="0" out="5030" />
+    </line>
+    <line lang1="―日本語*を*学ぶ*ため*に、日本*に*来ました。" someNumber="155" image="063_002.jpg" lang2="- (Я) приехал в Японию, чтоб изучать японский язык.">
+      <audioTime in="5030" out="8872" />
+    </line>
+    <line lang1="―そう*です*か。今*どこ*に*住んでいます*か。" someNumber="None" image="063_003.jpg" lang2="- Вот как! Где Вы сейчас живете?">
+      <audioTime in="8872" out="13273" />
+    </line>
+    <line lang1="―日本人*の*しゅうかん*を*知る*ため*に、" someNumber="155" image="063_004.jpg" lang2="- Чтоб ознакомиться с японскими обычаями,">
+      <audioTime in="13440" out="15945" />
+    </line>
+    <line lang1="日本人*の*家*に*ホームステイ*しています。" someNumber="None" image="063_004.jpg" lang2="я поселился в японской семье.">
+      <audioTime in="15945" out="19082" />
+    </line>
+    <line lang1="―そう*です*か。えらい*です*ね。" someNumber="None" image="063_006.jpg" lang2="- Вот как! Какой (Вы) молодец!">
+      <audioTime in="19082" out="23118" />
+    </line>
+    <line lang1="それ*は*日本語*の*勉強*に*も*役*に*立ちます*ね。" someNumber="None" image="063_007.jpg" lang2="Это пойдёт на пользу также при изучении японского языка, правда!">
+      <audioTime in="23118" out="27722" />
+    </line>
+    <line lang1="―そう*です*ね。" someNumber="None" image="063_008.jpg" lang2="- Да, это так.">
+      <audioTime in="27722" out="28937" />
+    </line>
+    <line lang1="―ところ*で、日本語*は*なん*の*ため*に*学んでいます*か。" someNumber="120" image="063_009.jpg" lang2="- Кстати, для чего (Вы) изучаете японский язык?">
+      <audioTime in="28937" out="33464" />
+    </line>
+    <line lang1="―日本*の*会社*に*入る*ため*に*勉強しています。" someNumber="None" image="063_010.jpg" lang2="- (Я) занимаюсь, чтоб поступить (на работу) в японскую фирму.">
+      <audioTime in="33464" out="37419" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="063_011.jpg" lang2="- Вот как!">
+      <audioTime in="37419" out="39384" />
+    </line>
+    <line lang1="国*に*日本*の*会社*が*たくさん*あります*か。" someNumber="None" image="063_011.jpg" lang2="В (Вашей) стране много японских фирм?">
+      <audioTime in="39326" out="43337" />
+    </line>
+    <line lang1="―たくさん*あります。" someNumber="None" image="063_013.jpg" lang2="- Много.">
+      <audioTime in="43337" out="44751" />
+    </line>
+    <line lang1="―すみません、どこ*の*国*の*方*です*か。" someNumber="15" image="063_014.jpg" lang2="- Простите, из какой Вы страны?">
+      <audioTime in="44901" out="48307" />
+    </line>
+    <line lang1="―オーストラリア*です。" someNumber="166" image="063_015.jpg" lang2="- Из Австралии.">
+      <audioTime in="48307" out="49942" />
+    </line>
+    <line lang1="―ああ、そう*です*か。" someNumber="None" image="063_016.jpg" lang2="- Ах вот как!">
+      <audioTime in="49942" out="52272" />
+    </line>
+    <line lang1="ところ*で、その*ぼんさい*は*買いました*か。" someNumber="None" image="063_017.jpg" lang2="Кстати, (Вы) купили этот бонсай?">
+      <audioTime in="52272" out="57357" />
+    </line>
+    <line lang1="―はい。国*の*友達*に*あげる*ため*に*買いました。" someNumber="155" image="063_017.jpg" lang2="- Да. Купил, чтоб подарить другу с родины.">
+      <audioTime in="57357" out="61724" />
+    </line>
+    <line lang1="―すみません、電車*の*じこ*の*ため、遅く*なりました。" someNumber="154" image="063_019.jpg" lang2="- Простите, (я) опоздала из-за аварии на электричке.">
+      <audioTime in="61724" out="68730" />
+    </line>
+    <line lang1="―大変*でした*ね。" someNumber="None" image="063_019.jpg" lang2="- Наверное, было ужасно!">
+      <audioTime in="68730" out="71028" />
+    </line>
+    <line lang1="―私*は*ダイエット*の*ため、甘い物*を*食べません。" someNumber="154" image="063_021.jpg" lang2="- Я не ем сладостей из-за диеты.">
+      <audioTime in="71028" out="77339" />
+    </line>
+    <line lang1="―私*は*ダイエット*は*しません*が、" someNumber="None" image="063_022.jpg" lang2="- Я не придерживаюсь диеты,">
+      <audioTime in="77339" out="80791" />
+    </line>
+    <line lang1="けんこう*の*ため*に、ジョギング*を*始めました。" someNumber="166" image="063_022.jpg" lang2="но начал бегать для здоровья.">
+      <audioTime in="80791" out="84086" />
+    </line>
+  </lines>
+</lesson>

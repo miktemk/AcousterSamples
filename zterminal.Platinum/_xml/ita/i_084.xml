@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_084.wav" dic="p084" dlgName="У Вас было?.." dlgFile="exr\ig083.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Lei ha mangiato la verdura?" someNumber="None" image="dg\084_001.gif" lang2="- Съели Вы овощи?">
+      <audioTime in="0" out="1959" />
+    </line>
+    <line lang1="- Io non ho mangiato la verdura." someNumber="None" image="dg\084_001.gif" lang2="- Я не съела овощи.">
+      <audioTime in="1914" out="3900" />
+    </line>
+    <line lang1="Ho mangiato un po' di frutta." someNumber="None" image="dg\084_001.gif" lang2="Я съела немного фруктов.">
+      <audioTime in="3918" out="5955" />
+    </line>
+    <line lang1="- Lui ha mangiato le fave?" someNumber="None" image="dg\084_002.gif" lang2="- Съел он бобы?">
+      <audioTime in="5877" out="7836" />
+    </line>
+    <line lang1="- Lui non ha mangiato le fave." someNumber="None" image="dg\084_002.gif" lang2="- Он не съел бобы.">
+      <audioTime in="7758" out="9672" />
+    </line>
+    <line lang1="Ha mangiato piselli." someNumber="None" image="dg\084_002.gif" lang2="Он съел горох.">
+      <audioTime in="9560" out="11285" />
+    </line>
+    <line lang1="- Loro hanno preso il caffè?" someNumber="None" image="dg\084_003.gif" lang2="- Они выпили кофе?">
+      <audioTime in="11285" out="13277" />
+    </line>
+    <line lang1="- Loro non hanno preso il caffè." someNumber="None" image="dg\084_003.gif" lang2="- Они не выпили кофе.">
+      <audioTime in="13322" out="15124" />
+    </line>
+    <line lang1="Hanno preso il tè." someNumber="None" image="dg\084_003.gif" lang2="Они выпили чай.">
+      <audioTime in="15169" out="16479" />
+    </line>
+    <line lang1="- Lei ha mangiato le mele?" someNumber="None" image="dg\084_004.gif" lang2="- Съели Вы яблоки?">
+      <audioTime in="16435" out="18259" />
+    </line>
+    <line lang1="- Io non ho mangiato le mele." someNumber="None" image="dg\084_004.gif" lang2="- Я не съел яблоки.">
+      <audioTime in="18180" out="19747" />
+    </line>
+    <line lang1="Ho mangiato le pesche." someNumber="None" image="dg\084_004.gif" lang2="Я съел персики.">
+      <audioTime in="19702" out="21283" />
+    </line>
+    <line lang1="- Io ho mangiato il cavolo?" someNumber="None" image="dg\084_005.gif" lang2="- Съел я капусту?">
+      <audioTime in="21237" out="23117" />
+    </line>
+    <line lang1="- Lei non ha mangiato il cavolo." someNumber="None" image="dg\084_005.gif" lang2="- Вы не съели капусту.">
+      <audioTime in="23039" out="25077" />
+    </line>
+    <line lang1="Lei ha mangiato l'insalata." someNumber="None" image="dg\084_005.gif" lang2="Вы съели салат.">
+      <audioTime in="25077" out="27036" />
+    </line>
+    <line lang1="- Lei ha bevuto la birra?" someNumber="None" image="dg\084_006.gif" lang2="- Вы выпили пиво?">
+      <audioTime in="27036" out="28994" />
+    </line>
+    <line lang1="- Io non ho bevuto la birra." someNumber="None" image="dg\084_006.gif" lang2="- Я не выпил пиво.">
+      <audioTime in="28994" out="30719" />
+    </line>
+    <line lang1="Ho bevuto il vino." someNumber="None" image="dg\084_006.gif" lang2="Я выпил вино.">
+      <audioTime in="30674" out="31983" />
+    </line>
+    <line lang1="- Lui ha mangiato l'agnello?" someNumber="None" image="dg\084_007.gif" lang2="- Он съел баранины?">
+      <audioTime in="32073" out="33808" />
+    </line>
+    <line lang1="- Lui non ha mangiato l'agnello." someNumber="None" image="dg\084_007.gif" lang2="- Он не съел баранины.">
+      <audioTime in="33990" out="35702" />
+    </line>
+    <line lang1="Ha mangiato il vitello." someNumber="None" image="dg\084_007.gif" lang2="Он съел говядину.">
+      <audioTime in="35697" out="36984" />
+    </line>
+    <line lang1="- Loro hanno preso il tè?" someNumber="None" image="dg\084_008.gif" lang2="- Они выпили чай?">
+      <audioTime in="37231" out="38657" />
+    </line>
+    <line lang1="- Loro non hanno preso il tè." someNumber="None" image="dg\084_008.gif" lang2="- Они не выпили чай.">
+      <audioTime in="38790" out="40626" />
+    </line>
+    <line lang1="Hanno preso il latte." someNumber="None" image="dg\084_008.gif" lang2="Они выпили молоко.">
+      <audioTime in="40626" out="42116" />
+    </line>
+    <line lang1="- Lei ha mangiato la carne?" someNumber="None" image="dg\084_009.gif" lang2="- Она съела мясо?">
+      <audioTime in="42160" out="44041" />
+    </line>
+    <line lang1="- Lei non ha mangiato la carne." someNumber="None" image="dg\084_009.gif" lang2="- Она не съела мясо.">
+      <audioTime in="44041" out="45753" />
+    </line>
+    <line lang1="Ha mangiato la verdura." someNumber="None" image="dg\084_009.gif" lang2="Она съела овощи.">
+      <audioTime in="45798" out="47044" />
+    </line>
+    <line lang1="- Lei ha mangiato il pollo?" someNumber="None" image="dg\084_010.gif" lang2="- Вы съели цыплят?">
+      <audioTime in="47411" out="49134" />
+    </line>
+    <line lang1="- Il non ho mangiato il pollo." someNumber="None" image="dg\084_010.gif" lang2="- Я не съел цыплят.">
+      <audioTime in="49134" out="50847" />
+    </line>
+    <line lang1="Ho mangiato una bistecca." someNumber="None" image="dg\084_010.gif" lang2="Я съел бифштекс.">
+      <audioTime in="50847" out="52146" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="i_031.wav" dic="p031" dlgName="В саду." dlgFile="exr\ig031.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Paolo, dov'è Lucia?" someNumber="None" image="dg\031_001.gif" lang2="- Где Лучия, Паоло?">
+      <audioTime in="96" out="1624" />
+    </line>
+    <line lang1="- In giardino, Gianna." someNumber="None" image="dg\031_001.gif" lang2="- Она в саду, Джанна.">
+      <audioTime in="1695" out="3295" />
+    </line>
+    <line lang1="- Cosa fa?" someNumber="None" image="dg\031_001.gif" lang2="- Что она делает?">
+      <audioTime in="3346" out="4351" />
+    </line>
+    <line lang1="- Sta seduta sotto l'albero." someNumber="910" image="dg\031_001.gif" lang2="- Она сидит под деревом.">
+      <audioTime in="4447" out="6271" />
+    </line>
+    <line lang1="- Anche, Pietro, è in giardino?" someNumber="590" image="dg\031_001.gif" lang2="- Пьетро тоже в саду?">
+      <audioTime in="6335" out="8063" />
+    </line>
+    <line lang1="- Sì. Lui sta salendo sull'albero." someNumber="900" image="dg\031_001.gif" lang2="- Да. Он лезет на дерево.">
+      <audioTime in="8031" out="10559" />
+    </line>
+    <line lang1="- Scusa, non ho capito." someNumber="None" image="dg\031_001.gif" lang2="- Прости, я не поняла.">
+      <audioTime in="10577" out="12094" />
+    </line>
+    <line lang1="Chi sta salendo sull'albero?" someNumber="None" image="dg\031_001.gif" lang2="Кто лезет на дерево?">
+      <audioTime in="12094" out="14014" />
+    </line>
+    <line lang1="- Pietro." someNumber="None" image="dg\031_001.gif" lang2="- Пьетро.">
+      <audioTime in="14014" out="14974" />
+    </line>
+    <line lang1="- E il cane?" someNumber="None" image="dg\031_001.gif" lang2="- А что собака?">
+      <audioTime in="14974" out="16102" />
+    </line>
+    <line lang1="- Anche il cane è in giardino." someNumber="None" image="dg\031_001.gif" lang2="- Собака тоже в саду.">
+      <audioTime in="16222" out="18097" />
+    </line>
+    <line lang1="Corre per l'erba." someNumber="None" image="dg\031_001.gif" lang2="Она бегает по траве.">
+      <audioTime in="18097" out="19581" />
+    </line>
+    <line lang1="Corre dietro al gatto." someNumber="None" image="dg\031_001.gif" lang2="Она бежит за кошкой.">
+      <audioTime in="19678" out="21213" />
+    </line>
+  </lines>
+</lesson>

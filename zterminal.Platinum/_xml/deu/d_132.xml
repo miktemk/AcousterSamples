@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_132.wav" dic="p132" dlgName="Ты думаешь? Я не уверен." dlgFile="exr\dg131.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ich #glaube, er #ist in seinem Zimmer." someNumber="960" image="dg\132_001.gif" lang2="- Я думаю, он у себя в комнате.">
+      <audioTime in="307" out="2460" />
+    </line>
+    <line lang1="- Ich #bin nicht sicher." someNumber="810" image="dg\132_001.gif" lang2="- Я не уверен.">
+      <audioTime in="2665" out="3895" />
+    </line>
+    <line lang1="Er #ist vielleicht in seinem Zimmer." someNumber="810" image="dg\132_001.gif" lang2="Может быть, он в своей комнате.">
+      <audioTime in="3895" out="5746" />
+    </line>
+    <line lang1="- #Glaubst du, sie #haben #gelesen?" someNumber="None" image="dg\132_002.gif" lang2="- Ты думаешь они читали?">
+      <audioTime in="6253" out="9021" />
+    </line>
+    <line lang1="- Ich #bin nicht sicher." someNumber="None" image="dg\132_002.gif" lang2="- Я не уверен.">
+      <audioTime in="9021" out="10194" />
+    </line>
+    <line lang1="Sie #haben vielleicht #gelesen." someNumber="None" image="dg\132_002.gif" lang2="Может быть, они читали.">
+      <audioTime in="10148" out="11788" />
+    </line>
+    <line lang1="- #Glaubst du, sie #waren im Garten?" someNumber="None" image="dg\132_003.gif" lang2="- Ты думаешь они были в саду?">
+      <audioTime in="12096" out="14864" />
+    </line>
+    <line lang1="- Ich #bin nicht sicher." someNumber="None" image="dg\132_003.gif" lang2="- Я не уверен.">
+      <audioTime in="14761" out="15962" />
+    </line>
+    <line lang1="Vielleicht #waren sie im Garten." someNumber="None" image="dg\132_003.gif" lang2="Может быть, они были в саду.">
+      <audioTime in="15962" out="17948" />
+    </line>
+    <line lang1="- #Glaubst du, dass dieses Brot frisch #ist?" someNumber="None" image="dg\132_004.gif" lang2="- Ты думаешь этот хлеб свежий?">
+      <audioTime in="18451" out="20911" />
+    </line>
+    <line lang1="- Ich #bin nicht sicher." someNumber="None" image="dg\132_004.gif" lang2="- Я не уверен.">
+      <audioTime in="21219" out="22859" />
+    </line>
+    <line lang1="Vielleicht #ist es frisch." someNumber="None" image="dg\132_004.gif" lang2="Может быть, он свежий.">
+      <audioTime in="22859" out="24259" />
+    </line>
+    <line lang1="- #Glaubst du, sie #war Dänin?" someNumber="None" image="dg\132_005.gif" lang2="- Ты думаешь, она была датчанкой?">
+      <audioTime in="24909" out="27370" />
+    </line>
+    <line lang1="- Ich #bin nicht sicher." someNumber="None" image="dg\132_005.gif" lang2="- Я не уверен.">
+      <audioTime in="27575" out="28784" />
+    </line>
+    <line lang1="Sie #ist vielleicht Dänin." someNumber="None" image="dg\132_005.gif" lang2="Может быть, она была датчанкой.">
+      <audioTime in="28784" out="29913" />
+    </line>
+    <line lang1="- #Glaubst du, er #hat den Wagen #repariert?" someNumber="None" image="dg\132_006.gif" lang2="- Ты думаешь он чинил автомобиль?">
+      <audioTime in="30753" out="34341" />
+    </line>
+    <line lang1="- Ich #bin nicht #sicher." someNumber="None" image="dg\132_006.gif" lang2="- Я не уверен.">
+      <audioTime in="34341" out="35673" />
+    </line>
+    <line lang1="Vielleicht #hat er den Wagen #repariert." someNumber="None" image="dg\132_006.gif" lang2="Может быть, он починил автомобиль.">
+      <audioTime in="35673" out="37750" />
+    </line>
+    <line lang1="- #Glaubst du, sie spielen im Garten?" someNumber="None" image="dg\132_007.gif" lang2="- Ты полагаешь, они играют в саду?">
+      <audioTime in="38236" out="41311" />
+    </line>
+    <line lang1="- Ich #bin nicht sicher." someNumber="None" image="dg\132_007.gif" lang2="- Я не уверен.">
+      <audioTime in="41824" out="43328" />
+    </line>
+    <line lang1="Vielleicht #spielen sie im Garten." someNumber="None" image="dg\132_007.gif" lang2="Может быть, они играют в саду.">
+      <audioTime in="43328" out="45405" />
+    </line>
+    <line lang1="- #Glaubst du, sie #werden dir eine Arbeit #vorschlagen?" someNumber="None" image="dg\132_008.gif" lang2="- Ты думаешь, они предложат тебе работу?">
+      <audioTime in="45924" out="49512" />
+    </line>
+    <line lang1="- Ich #bin nicht #sicher." someNumber="680" image="dg\132_008.gif" lang2="- Я не уверен.">
+      <audioTime in="49819" out="51151" />
+    </line>
+    <line lang1="Sie #können mir vielleicht eine Arbeit #vorschlagen." someNumber="680" image="dg\132_008.gif" lang2="Возможно, они могут предложить мне работу.">
+      <audioTime in="51152" out="53500" />
+    </line>
+    <line lang1="- #Glaubst du, sie #ist erst 29 Jahre alt?" someNumber="None" image="dg\132_009.gif" lang2="- Ты полагаешь, ей только 29 лет?">
+      <audioTime in="54432" out="57815" />
+    </line>
+    <line lang1="- Ich #bin nicht sicher." someNumber="None" image="dg\132_009.gif" lang2="- Я не уверен.">
+      <audioTime in="58020" out="59352" />
+    </line>
+    <line lang1="Vielleicht #ist sie erst 29 Jahre alt." someNumber="None" image="dg\132_009.gif" lang2="Может быть, ей только 29 лет.">
+      <audioTime in="59353" out="61520" />
+    </line>
+    <line lang1="- #Glaubst du, dass meine Antwort richtig #war?" someNumber="980" image="dg\132_010.gif" lang2="- Ты думаешь, что мой ответ был правильный?">
+      <audioTime in="62017" out="64888" />
+    </line>
+    <line lang1="- Ich #bin nicht sicher." someNumber="570" image="dg\132_010.gif" lang2="- Я не уверен.">
+      <audioTime in="65093" out="66106" />
+    </line>
+    <line lang1="Vielleicht #war sie richtig." someNumber="570" image="dg\132_010.gif" lang2="Может быть, он был правильным.">
+      <audioTime in="66106" out="67822" />
+    </line>
+  </lines>
+</lesson>

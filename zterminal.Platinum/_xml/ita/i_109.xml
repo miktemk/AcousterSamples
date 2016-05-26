@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="i_109.wav" dic="p109" dlgName="Хочешь кофе?" dlgFile="exr\ig109.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ci facciamo un caffè, Gianna?" someNumber="None" image="dg\109_001.gif" lang2="- Мне приготовить кофе, Джанна?">
+      <audioTime in="60" out="2325" />
+    </line>
+    <line lang1="- È una bell'idea, Lisa." someNumber="None" image="dg\109_001.gif" lang2="- Это хорошая мысль, Лиза.">
+      <audioTime in="2386" out="4223" />
+    </line>
+    <line lang1="- È pronto." someNumber="None" image="dg\109_001.gif" lang2="- Всё готово.">
+      <audioTime in="4284" out="5569" />
+    </line>
+    <line lang1="Lo prendi con il latte?" someNumber="None" image="dg\109_002.gif" lang2="Тебе с молоком?">
+      <audioTime in="5569" out="7405" />
+    </line>
+    <line lang1="- Un po', grazie." someNumber="None" image="dg\109_002.gif" lang2="- Немножко, пожалуйста.">
+      <audioTime in="7405" out="8940" />
+    </line>
+    <line lang1="- Quanto zucchero?" someNumber="None" image="dg\109_003.gif" lang2="- А как насчёт сахара?">
+      <audioTime in="8997" out="10465" />
+    </line>
+    <line lang1="Due cucchiaini?" someNumber="None" image="dg\109_003.gif" lang2="Две чайные ложки?">
+      <audioTime in="10465" out="11873" />
+    </line>
+    <line lang1="- No, di meno." someNumber="None" image="dg\109_003.gif" lang2="- Нет, поменьше.">
+      <audioTime in="11873" out="13219" />
+    </line>
+    <line lang1="Uno e mezzo, per favore." someNumber="None" image="dg\109_003.gif" lang2="Полторы чайных ложек, пожалуйста.">
+      <audioTime in="13219" out="15160" />
+    </line>
+    <line lang1="Per me è sufficiente." someNumber="None" image="dg\109_003.gif" lang2="Для меня это достаточно.">
+      <audioTime in="15193" out="17258" />
+    </line>
+    <line lang1="- Era proprio buono." someNumber="None" image="dg\109_004.gif" lang2="- Это было очень вкусно.">
+      <audioTime in="17274" out="18788" />
+    </line>
+    <line lang1="- Ne vuoi ancora un po'?" someNumber="None" image="dg\109_004.gif" lang2="- Ты хочешь ещё что-нибудь?">
+      <audioTime in="18788" out="20505" />
+    </line>
+    <line lang1="- Sì, grazie." someNumber="None" image="dg\109_005.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="20505" out="21994" />
+    </line>
+    <line lang1="- Vorrei anche una sigaretta." someNumber="None" image="dg\109_005.gif" lang2="- Мне бы хотелось ещё сигарету.">
+      <audioTime in="22032" out="23868" />
+    </line>
+    <line lang1="Posso prenderne una?" someNumber="None" image="dg\109_005.gif" lang2="Можно мне одну?">
+      <audioTime in="23930" out="25643" />
+    </line>
+    <line lang1="- Certo." someNumber="None" image="dg\109_005.gif" lang2="- Ну конечно.">
+      <audioTime in="25643" out="26772" />
+    </line>
+    <line lang1="Nel pacchetto, mi pare, ce ne sono un po'." someNumber="350" image="dg\109_005.gif" lang2="Я думаю, в коробке есть несколько.">
+      <audioTime in="26806" out="29315" />
+    </line>
+    <line lang1="- Purtroppo, è vuoto." someNumber="None" image="dg\109_006.gif" lang2="- Боюсь, что она пуста.">
+      <audioTime in="29316" out="30941" />
+    </line>
+    <line lang1="- Che peccato!" someNumber="660" image="dg\109_006.gif" lang2="- Какая досада!">
+      <audioTime in="30941" out="32431" />
+    </line>
+    <line lang1="- Non fa niente." someNumber="None" image="dg\109_007.gif" lang2="- Ничего страшного.">
+      <audioTime in="32431" out="33966" />
+    </line>
+    <line lang1="- Prendi anche questi biscotti." someNumber="None" image="dg\109_007.gif" lang2="- Съешь вместо этого печенье.">
+      <audioTime in="33966" out="36314" />
+    </line>
+    <line lang1="Mangia di più e fuma di meno." someNumber="380" image="dg\109_007.gif" lang2="Больше ешь и меньше кури.">
+      <audioTime in="36314" out="38752" />
+    </line>
+    <line lang1="- È un bel consiglio!" someNumber="None" image="dg\109_007.gif" lang2="- Это очень хороший совет!">
+      <audioTime in="38843" out="40559" />
+    </line>
+  </lines>
+</lesson>

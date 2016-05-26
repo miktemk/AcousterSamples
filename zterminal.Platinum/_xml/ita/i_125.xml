@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_125.wav" dic="p125" dlgName="Выпьем чаю." dlgFile="exr\ig125.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Non puoi fare un salto a casa a bere il tè, Pietro?" someNumber="None" image="dg\125_001.gif" lang2="- Ты не можешь зайти в дом и выпить чаю, Пьетро?">
+      <audioTime in="114" out="2958" />
+    </line>
+    <line lang1="- Non adesso, cara, devo primo innaffiare il giardino." someNumber="None" image="dg\125_001.gif" lang2="- Пока нет, дорогая, я должен сначала полить сад.">
+      <audioTime in="2913" out="6470" />
+    </line>
+    <line lang1="- Lo devi innaffiare proprio adesso?" someNumber="300" image="dg\125_001.gif" lang2="- Ты должен поливать его сейчас?">
+      <audioTime in="6412" out="8477" />
+    </line>
+    <line lang1="- Purtroppo, sì." someNumber="None" image="dg\125_001.gif" lang2="- Боюсь, что да.">
+      <audioTime in="8420" out="9739" />
+    </line>
+    <line lang1="Guarda!" someNumber="None" image="dg\125_002.gif" lang2="Посмотри на него!">
+      <audioTime in="9695" out="10702" />
+    </line>
+    <line lang1="È tutto secco." someNumber="None" image="dg\125_002.gif" lang2="Он ужасно сухой.">
+      <audioTime in="10681" out="11919" />
+    </line>
+    <line lang1="- Che peccato!" someNumber="None" image="dg\125_002.gif" lang2="- Какая досада!">
+      <audioTime in="11932" out="13365" />
+    </line>
+    <line lang1="- Anche l'estate scorsa era molto secco." someNumber="None" image="dg\125_003.gif" lang2="- Прошлым летом он тоже был очень сухой.">
+      <audioTime in="13365" out="15833" />
+    </line>
+    <line lang1="Non ti ricordi?" someNumber="None" image="dg\125_003.gif" lang2="Разве ты не помнишь?">
+      <audioTime in="15788" out="16962" />
+    </line>
+    <line lang1="Mi toccava innaffiarlo ogni giorno." someNumber="None" image="dg\125_003.gif" lang2="Мне приходилось поливать его каждый день.">
+      <audioTime in="16991" out="19262" />
+    </line>
+    <line lang1="- Be', allora berrò il tè da sola." someNumber="None" image="dg\125_003.gif" lang2="- Ну что же, я буду пить чай одна.">
+      <audioTime in="19286" out="22028" />
+    </line>
+    <line lang1="- Come hai fatto presto!" someNumber="None" image="dg\125_004.gif" lang2="- Что-то ты быстро!">
+      <audioTime in="22028" out="23692" />
+    </line>
+    <line lang1="Hai già finito?" someNumber="None" image="dg\125_004.gif" lang2="Ты уже закончил?">
+      <audioTime in="23634" out="25125" />
+    </line>
+    <line lang1="- Sì, cara." someNumber="None" image="dg\125_004.gif" lang2="- Да, дорогая.">
+      <audioTime in="25183" out="26388" />
+    </line>
+    <line lang1="Guarda la finestra." someNumber="None" image="dg\125_004.gif" lang2="Выгляни в окно.">
+      <audioTime in="26342" out="27788" />
+    </line>
+    <line lang1="- Grazie a Dio!" someNumber="None" image="dg\125_005.gif" lang2="- Боже праведный!">
+      <audioTime in="27742" out="28962" />
+    </line>
+    <line lang1="Piove." someNumber="None" image="dg\125_005.gif" lang2="Идёт дождь.">
+      <audioTime in="29141" out="29833" />
+    </line>
+    <line lang1="Vuol dire che non serve innaffiare il giardino." someNumber="None" image="dg\125_005.gif" lang2="Значит, тебе не надо поливать сад.">
+      <audioTime in="29968" out="32583" />
+    </line>
+    <line lang1="- È stata una piacevole sorpresa." someNumber="None" image="dg\125_005.gif" lang2="- Это был приятный сюрприз.">
+      <audioTime in="32698" out="34889" />
+    </line>
+    <line lang1="Vuol dire che, invece di innaffiare, posso bere il tè." someNumber="None" image="dg\125_005.gif" lang2="Значит, вместо этого, я могу попить чаю.">
+      <audioTime in="34865" out="38090" />
+    </line>
+  </lines>
+</lesson>

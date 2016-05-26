@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="FR_016.wav" dlgName="В молочном магазине" dlgFile="exr\frg016.txt" />
+  <lines>
+    <line lang1="- Bonjour madame." someNumber="None" image="f.jpg" lang2="- Здравствуйте, госпожа.">
+      <audioTime in="0" out="2139" />
+    </line>
+    <line lang1="- Bonjour, mademoiselle." someNumber="None" image="f.jpg" lang2="- Здравствуйте, мадмуазель.">
+      <audioTime in="2139" out="4132" />
+    </line>
+    <line lang1="Qu'y a-t-il pour votre service?" someNumber="None" image="f.jpg" lang2="Чем могу служить?">
+      <audioTime in="4132" out="6462" />
+    </line>
+    <line lang1="- Je désire un litre de lait." someNumber="None" image="f.jpg" lang2="- Я хочу один литр молока.">
+      <audioTime in="6462" out="9104" />
+    </line>
+    <line lang1="- Voilà, mademoiselle. C'est tout ce qu'il vous faut?" someNumber="None" image="f.jpg" lang2="- Пожалуйста. Это всё, что вам надо?">
+      <audioTime in="9104" out="12957" />
+    </line>
+    <line lang1="- Avez-vous des œufs frais?" someNumber="None" image="f.jpg" lang2="- Есть у вас свежие яички?">
+      <audioTime in="12957" out="15481" />
+    </line>
+    <line lang1="- Oui, mademoiselle, nous avons des œufs absolument frais." someNumber="None" image="f.jpg" lang2="- Да, у нас есть безусловно свежие яйца.">
+      <audioTime in="15481" out="19541" />
+    </line>
+    <line lang1="- Alors donnez-m'en une douzaine." someNumber="None" image="f.jpg" lang2="- Тогда дайте мне дюжину.">
+      <audioTime in="19541" out="22679" />
+    </line>
+    <line lang1="Et quels fromages avez-vous?" someNumber="None" image="f.jpg" lang2="А какой у вас сыр?">
+      <audioTime in="22679" out="25263" />
+    </line>
+    <line lang1="- Nous avons du camembert de Normandie, des petites-suisses et du gruyère." someNumber="None" image="f.jpg" lang2="- Мы имеем нормандский камамбер, швейцарский сыр и гриер.">
+      <audioTime in="25263" out="30932" />
+    </line>
+    <line lang1="- Bon! Donnez-moi du camembert." someNumber="None" image="f.jpg" lang2="- Хорошо, дайте мне камамбер.">
+      <audioTime in="30932" out="33752" />
+    </line>
+    <line lang1="- Ce sera tout pour aujourd'hui?" someNumber="None" image="f.jpg" lang2="- Это всё на сегодня?">
+      <audioTime in="33752" out="35908" />
+    </line>
+    <line lang1="- Oui, madame, merci." someNumber="None" image="f.jpg" lang2="- Да, спасибо.">
+      <audioTime in="35908" out="38230" />
+    </line>
+  </lines>
+</lesson>

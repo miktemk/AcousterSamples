@@ -1,0 +1,26 @@
+<lesson>
+  <header wav="f_001.wav" dic="p001" dlgName="Извините!" dlgFile="exr\fg001.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Excusez-moi!" someNumber="None" image="dg\001_001.gif" lang2="- Извините!">
+      <audioTime in="0" out="799" />
+    </line>
+    <line lang1="- Comment?" someNumber="None" image="dg\001_002.gif" lang2="- Как?">
+      <audioTime in="799" out="1417" />
+    </line>
+    <line lang1="- Est-ce votre sac?" someNumber="930" image="dg\001_003.gif" lang2="- Это ваша сумочка?">
+      <audioTime in="1417" out="2330" />
+    </line>
+    <line lang1="- Pardon?" someNumber="None" image="dg\001_004.gif" lang2="- Простите?">
+      <audioTime in="2330" out="2948" />
+    </line>
+    <line lang1="- Est-ce votre sac?" someNumber="None" image="dg\001_005.gif" lang2="- Это ваша сумочка?">
+      <audioTime in="2948" out="4008" />
+    </line>
+    <line lang1="- Oui." someNumber="None" image="dg\001_006.gif" lang2="- Да.">
+      <audioTime in="4008" out="4558" />
+    </line>
+    <line lang1="Merci beaucoup." someNumber="780" image="dg\001_007.gif" lang2="Большое спасибо.">
+      <audioTime in="4558" out="5349" />
+    </line>
+  </lines>
+</lesson>

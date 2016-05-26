@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="f_047.wav" dic="p047" dlgName="Угощение." dlgFile="exr\fg047.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Aimez-vous le café, mademoiselle Bernard?" someNumber="None" image="dg\047_001.gif" lang2="- Вы любите кофе, мадмуазель Бернар?">
+      <audioTime in="0" out="1792" />
+    </line>
+    <line lang1="- Oui. Je l'aime beaucoup." someNumber="None" image="dg\047_001.gif" lang2="- Да. Я его очень люблю.">
+      <audioTime in="1792" out="3873" />
+    </line>
+    <line lang1="- Voulez-vous prendre une tasse de café?" someNumber="90" image="dg\047_002.gif" lang2="- Хотите чашечку кофе?">
+      <audioTime in="3873" out="5734" />
+    </line>
+    <line lang1="- Ah, oui, s'il vous plaît." someNumber="90" image="dg\047_002.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="5734" out="6819" />
+    </line>
+    <line lang1="- Voulez-vous du sucre?" someNumber="None" image="dg\047_003.gif" lang2="- Хотите сахару?">
+      <audioTime in="6819" out="7815" />
+    </line>
+    <line lang1="- Oui, s'il vous plaît." someNumber="None" image="dg\047_003.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="7815" out="9358" />
+    </line>
+    <line lang1="- Voulez-vous du lait?" someNumber="70" image="dg\047_004.gif" lang2="- Хотите молока?">
+      <audioTime in="9358" out="10652" />
+    </line>
+    <line lang1="- Non, merci. Je n'aime pas le café au lait. J'aime le café noir." someNumber="70" image="dg\047_004.gif" lang2="- Нет, спасибо. Я не люблю кофе с молоком. Я люблю чёрный кофе.">
+      <audioTime in="10652" out="15201" />
+    </line>
+    <line lang1="- Aimez-vous le biscuit?" someNumber="None" image="dg\047_005.gif" lang2="- Вы любите печенье?">
+      <audioTime in="15201" out="16546" />
+    </line>
+    <line lang1="- Oui, j'aime bien." someNumber="None" image="dg\047_005.gif" lang2="- Да, очень люблю.">
+      <audioTime in="16546" out="18590" />
+    </line>
+    <line lang1="- Voulez-vous en prendre un?" someNumber="870" image="dg\047_006.gif" lang2="- Хотите одно?">
+      <audioTime in="18590" out="19981" />
+    </line>
+    <line lang1="- Ah, oui, s'il vous plaît." someNumber="870" image="dg\047_006.gif" lang2="- О, да. Пожалуйста.">
+      <audioTime in="19981" out="21211" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="FR_026.wav" dlgName="В Ремс" dlgFile="exr\frg026.txt" />
+  <lines>
+    <line lang1="- Montons vite, notre autocar part dans deux minutes." someNumber="None" image="f.jpg" lang2="- Садитесь быстрее, наш экскурсионный автобус отправляется через две минуты.">
+      <audioTime in="0" out="4206" />
+    </line>
+    <line lang1="- Enfin, nous voici installés à nos places." someNumber="None" image="f.jpg" lang2="- Наконец, мы устроились на наших местах.">
+      <audioTime in="4206" out="7339" />
+    </line>
+    <line lang1="Arrange nos effets dans le filet." someNumber="None" image="f.jpg" lang2="Положи наши вещи на багажную сетку.">
+      <audioTime in="7339" out="9857" />
+    </line>
+    <line lang1="- Tiens, nous partons déjà." someNumber="None" image="f.jpg" lang2="- Смотри, мы уже отъезжаем.">
+      <audioTime in="9857" out="12529" />
+    </line>
+    <line lang1="- En effet. Nous sommes arrivés juste à temps." someNumber="None" image="f.jpg" lang2="- Действительно, мы пришли как раз вовремя.">
+      <audioTime in="12529" out="15638" />
+    </line>
+    <line lang1="- Heureusement pour nous, le moteur ne fait pas beaucoup de bruit et nous pourrons parler à notre aise." someNumber="None" image="f.jpg" lang2="- К нашему счастью мотор не так шумит, и мы сможем поговорить свободно.">
+      <audioTime in="15638" out="21757" />
+    </line>
+    <line lang1="- Dans combien de temps serons nous à Reims?" someNumber="None" image="f.jpg" lang2="- Когда мы будем в Ремс?">
+      <audioTime in="21757" out="24623" />
+    </line>
+    <line lang1="- Dans deux heures." someNumber="None" image="f.jpg" lang2="- Через два часа.">
+      <audioTime in="24623" out="26003" />
+    </line>
+    <line lang1="- Alors nous roulons à une bonne allure." someNumber="None" image="f.jpg" lang2="- Значит мы едем с хорошей скоростью.">
+      <audioTime in="26003" out="28747" />
+    </line>
+    <line lang1="- En effet. Nous arriverons bientôt à Château-Thierry." someNumber="None" image="f.jpg" lang2="- Действительно. Мы скоро будем в Шато-Тьери.">
+      <audioTime in="28747" out="32610" />
+    </line>
+    <line lang1="- Est-ce que nous nous y arrêterons longtemps?" someNumber="None" image="f.jpg" lang2="- А долго ли мы там задержимся?">
+      <audioTime in="32610" out="35016" />
+    </line>
+    <line lang1="- Oh non, juste le temps de nous reposer un peu et de faire un casse-croûte." someNumber="None" image="f.jpg" lang2="- О, нет, лишь столько времени, чтобы успеть немного отдохнуть и закусить.">
+      <audioTime in="35016" out="40994" />
+    </line>
+  </lines>
+</lesson>

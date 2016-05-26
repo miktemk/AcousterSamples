@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="FR_003.wav" dlgName="Фотография" dlgFile="exr\frg003.txt" />
+  <lines>
+    <line lang1="- Voici la photo de mon fiancé." someNumber="None" image="f.jpg" lang2="- Вот фотография моего жениха.">
+      <audioTime in="0" out="4007" />
+    </line>
+    <line lang1="- Quel est son nom?" someNumber="None" image="f.jpg" lang2="- Как его зовут?">
+      <audioTime in="4007" out="6517" />
+    </line>
+    <line lang1="- Son nom est Paul." someNumber="None" image="f.jpg" lang2="- Его зовут Поль.">
+      <audioTime in="6517" out="9617" />
+    </line>
+    <line lang1="- Est-ce qu'il est grand?" someNumber="None" image="f.jpg" lang2="- Высокий ли он?">
+      <audioTime in="9617" out="12089" />
+    </line>
+    <line lang1="- Oui, il est grand et fort." someNumber="None" image="f.jpg" lang2="- Да, он высокий и сильный.">
+      <audioTime in="12089" out="16888" />
+    </line>
+    <line lang1="- Et quelle est la couleur de ses yeux et de ses cheveux?" someNumber="None" image="f.jpg" lang2="- А какого цвета у него глаза и волосы?">
+      <audioTime in="16888" out="22084" />
+    </line>
+    <line lang1="- Ses yeux sont noirs et ses cheveux sont bruns." someNumber="None" image="f.jpg" lang2="- У него глаза чёрные, а волосы каштановые.">
+      <audioTime in="22084" out="28176" />
+    </line>
+    <line lang1="- C'est un joli garçon." someNumber="None" image="f.jpg" lang2="- Это красивый мальчик.">
+      <audioTime in="28176" out="30888" />
+    </line>
+    <line lang1="- Et voici maintenant la photo de la fiancée de mon frère." someNumber="None" image="f.jpg" lang2="- А вот фотография невесты моего брата.">
+      <audioTime in="30888" out="38005" />
+    </line>
+    <line lang1="- Est-ce qu'elle est jolie?" someNumber="None" image="f.jpg" lang2="- Красивая ли она?">
+      <audioTime in="38005" out="40337" />
+    </line>
+    <line lang1="- Elle n'est pas jolie, mais elle est intelligente." someNumber="None" image="f.jpg" lang2="- Она не красивая, но умная.">
+      <audioTime in="40337" out="45267" />
+    </line>
+    <line lang1="- Où sont vos enfants, madame?" someNumber="None" image="f.jpg" lang2="- Где ваши дети госпожа?">
+      <audioTime in="45267" out="48825" />
+    </line>
+    <line lang1="- Pierre est à l'école et Françoise est à la maison." someNumber="None" image="f.jpg" lang2="- Пьер в школе, а Франсуаза дома.">
+      <audioTime in="48825" out="54361" />
+    </line>
+    <line lang1="- Est-ce que vous êtes contente de vos enfants?" someNumber="None" image="f.jpg" lang2="- Довольны ли вы вашими детьми?">
+      <audioTime in="54361" out="58465" />
+    </line>
+    <line lang1="- Je suis très contente de mon fils: il est gai et gentil," someNumber="None" image="f.jpg" lang2="- Я очень довольна моим сыном: он веселый и славный,">
+      <audioTime in="58465" out="65190" />
+    </line>
+    <line lang1="mais je ne suis pas très contente de ma fille: elle est un peu paresseuse." someNumber="None" image="f.jpg" lang2="но я не очень довольна дочерью, она немного ленива.">
+      <audioTime in="65190" out="72587" />
+    </line>
+    <line lang1="Voici la photo de mes enfants avec leur père." someNumber="None" image="f.jpg" lang2="Вот фотография моих детей с их отцом.">
+      <audioTime in="72587" out="78064" />
+    </line>
+    <line lang1="- Françoise est belle, n'est-ce pas?" someNumber="None" image="f.jpg" lang2="- Франсуаза красивая, не правда ли?">
+      <audioTime in="78064" out="81187" />
+    </line>
+    <line lang1="- Oui, elle est blonde et grande." someNumber="None" image="f.jpg" lang2="- Да, она блондинка высокого роста.">
+      <audioTime in="81187" out="85053" />
+    </line>
+    <line lang1="Ses yeux sont bleus et ses sourcils sont épais et noirs." someNumber="None" image="f.jpg" lang2="У неё голубые глаза и чёрные густые брови.">
+      <audioTime in="85053" out="91623" />
+    </line>
+    <line lang1="- Et Pierre?" someNumber="None" image="f.jpg" lang2="- А Пьер?">
+      <audioTime in="91623" out="93099" />
+    </line>
+    <line lang1="- Et Pierre n'est ni beau ni laid." someNumber="None" image="f.jpg" lang2="- Пьер ни красивый и не уродливый.">
+      <audioTime in="93099" out="96430" />
+    </line>
+    <line lang1="Son front est haut, son nez est pointu, sa bouche est grande, son menton est carré." someNumber="None" image="f.jpg" lang2="У него высокий лоб, острый нос, большой рот, квадратный подбородок.">
+      <audioTime in="96430" out="104358" />
+    </line>
+    <line lang1="C'est un joli garçon quand même." someNumber="None" image="f.jpg" lang2="Но всё-таки это красивый мальчик.">
+      <audioTime in="104358" out="107318" />
+    </line>
+  </lines>
+</lesson>

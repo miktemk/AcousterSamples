@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="J_016.wav" dlgName="Сколько стоит?" dic="p016" />
+  <lines>
+    <line lang1="ーすみません、ぶんぼうぐ*の*うりば*は*どこ*です*か。" someNumber="54" image="016_001.jpg" lang2="- Простите, где прилавок канцелярских товаров?">
+      <audioTime in="0" out="6293" />
+    </line>
+    <line lang1="ー三*かい*です。エスカレーター*の*よこ*です。" someNumber="34" image="016_002.jpg" lang2="- На третьем этаже. Рядом с эскалатором.">
+      <audioTime in="6293" out="12906" />
+    </line>
+    <line lang1="ーありがとう。" someNumber="None" image="016_002.jpg" lang2="- Спасибо.">
+      <audioTime in="12906" out="14572" />
+    </line>
+    <line lang1="―この*ボールペン*は*一*本*いくら*です*か。" someNumber="37" image="016_004.jpg" lang2="- Сколько стоит эта шариковая ручка?">
+      <audioTime in="14572" out="20346" />
+    </line>
+    <line lang1="ー二百*えん*です。" someNumber="33" image="016_005.jpg" lang2="- 200 иен.">
+      <audioTime in="20346" out="23797" />
+    </line>
+    <line lang1="ー二*本*ください。" someNumber="None" image="016_005.jpg" lang2="- Дайте, пожалуйста, две.">
+      <audioTime in="23797" out="26664" />
+    </line>
+    <line lang1="それ*から*あの*かみ*を*ください。一*まい*いくら*です*か。" someNumber="05" image="016_007.jpg" lang2="Затем дайте вон ту бумагу. Сколько стоит один лист?">
+      <audioTime in="26664" out="33051" />
+    </line>
+    <line lang1="―十*まい*三百*円*です。" someNumber="34" image="016_008.jpg" lang2="- За 10 листов 300 иен.">
+      <audioTime in="33051" out="37339" />
+    </line>
+    <line lang1="ーじゃ、二十*まい*ください。" someNumber="None" image="016_008.jpg" lang2="- Тогда дайте 20 листов.">
+      <audioTime in="37339" out="40568" />
+    </line>
+    <line lang1="あと*は*この*あつい*ノート*を*二*さつ*ください。" someNumber="None" image="016_010.jpg" lang2="Затем дайте две вон те толстые тетради.">
+      <audioTime in="40568" out="45503" />
+    </line>
+    <line lang1="ぜんぶ*で*いくら*です*か。" someNumber="None" image="016_011.jpg" lang2="- Сколько за всё?">
+      <audioTime in="45503" out="48496" />
+    </line>
+    <line lang1="ーぜんぶ*で*千*五百*円*です。" someNumber="07" image="016_012.jpg" lang2="- За всё 1500 иен.">
+      <audioTime in="48496" out="52851" />
+    </line>
+    <line lang1="はい、五百*円*の*おつり*です。" someNumber="None" image="016_013.jpg" lang2="Вот 500 иен сдачи.">
+      <audioTime in="52851" out="56905" />
+    </line>
+    <line lang1="ありがとう*ございました。" someNumber="None" image="016_013.jpg" lang2="Большое спасибо.">
+      <audioTime in="56905" out="60343" />
+    </line>
+    <line lang1="ーきっさてん*は*なん*かい*に*あります*か。" someNumber="None" image="016_015.jpg" lang2="- На каком этаже находится кафе?">
+      <audioTime in="60343" out="65597" />
+    </line>
+    <line lang1="ー六*かい*です。" someNumber="34" image="016_016.jpg" lang2="- На шестом этаже.">
+      <audioTime in="65597" out="68906" />
+    </line>
+    <line lang1="ーいらっしゃいませ。何*に*なさいます*か。" someNumber="None" image="016_017.jpg" lang2="- Добро пожаловать! Что будете заказывать?">
+      <audioTime in="68906" out="75168" />
+    </line>
+    <line lang1="ーサンドイッチ*は*いくら*です*か。" someNumber="None" image="016_018.jpg" lang2="- Сколько стоит сандвич?">
+      <audioTime in="75168" out="79061" />
+    </line>
+    <line lang1="ー四百*円*です。" someNumber="None" image="016_019.jpg" lang2="- 400 иен.">
+      <audioTime in="79249" out="81926" />
+    </line>
+    <line lang1="ーじゃ、サンドイッチ*と*コーヒー*を*ください。" someNumber="133" image="016_020.jpg" lang2="- Так, дайте сандвич и кофе.">
+      <audioTime in="81926" out="85980" />
+    </line>
+    <line lang1="ーぜんぶ*で*六百*五十*円*です。" someNumber="None" image="016_021.jpg" lang2="- За всё 650 иен.">
+      <audioTime in="85980" out="91136" />
+    </line>
+    <line lang1="五十*円*の*おつり*です。" someNumber="None" image="016_022.jpg" lang2="(Вот) 50 иен сдачи.">
+      <audioTime in="91136" out="94241" />
+    </line>
+    <line lang1="ありがとう*ございました。" someNumber="None" image="016_022.jpg" lang2="Большое спасибо.">
+      <audioTime in="94241" out="97371" />
+    </line>
+  </lines>
+</lesson>

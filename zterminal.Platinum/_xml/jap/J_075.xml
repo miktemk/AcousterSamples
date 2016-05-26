@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_075.wav" dlgName="Хочу стать врачом" dic="p075" />
+  <lines>
+    <line lang1="ーこれ*から、君たち*が*将来*なりたい*こと*に*ついて*話しましょう。" someNumber="081" image="075_001.jpg" lang2="- Сейчас поговорим о том, кем вы хотите стать в будущем.">
+      <audioTime in="0" out="6214" />
+    </line>
+    <line lang1="太郎*君、将来*なん*に*なりたい*です*か。" someNumber="04" image="075_002.jpg" lang2="Таро, кем ты хочешь стать в будущем?">
+      <audioTime in="6214" out="10716" />
+    </line>
+    <line lang1="ー医者*に*なりたい*です。" someNumber="None" image="075_003.jpg" lang2="- Хочу стать врачом.">
+      <audioTime in="10716" out="13111" />
+    </line>
+    <line lang1="医科*大学*に*入りたい*です。" someNumber="None" image="075_003.jpg" lang2="Хочу поступить в медицинский институт.">
+      <audioTime in="13111" out="16043" />
+    </line>
+    <line lang1="いい*大学*に*入りたい*と*思っています。" someNumber="081" image="075_005.jpg" lang2="Хотелось бы поступить в хороший институт.">
+      <audioTime in="16043" out="19479" />
+    </line>
+    <line lang1="ー私*は*歌手*に*なりたい*と*思っています。" someNumber="None" image="075_006.jpg" lang2="- Мне хотелось бы стать певицей.">
+      <audioTime in="19479" out="23593" />
+    </line>
+    <line lang1="歌*を*歌う*の*が*大好き*です。" someNumber="None" image="075_007.jpg" lang2="Очень люблю петь песни.">
+      <audioTime in="23593" out="26816" />
+    </line>
+    <line lang1="私*の*弟*は*すもう*を*やりたい*と*言っています。" someNumber="081" image="075_008.jpg" lang2="Мой младший брат говорит, что хочет заниматься сумо.">
+      <audioTime in="26816" out="31736" />
+    </line>
+    <line lang1="力士*に*なりたい*と*言っています。" someNumber="165" image="075_009.jpg" lang2="Говорит, что хочет стать борцом сумо.">
+      <audioTime in="31736" out="35143" />
+    </line>
+    <line lang1="体*が*大きくて、強く*なりたい*と*言っています。" someNumber="None" image="075_009.jpg" lang2="Он говорит, что хочет стать сильным и здоровенным.">
+      <audioTime in="35143" out="39084" />
+    </line>
+    <line lang1="ー林*君、君*は*どう*です*か。" someNumber="None" image="075_011.jpg" lang2="- Хаяси, а ты?">
+      <audioTime in="39084" out="43594" />
+    </line>
+    <line lang1="ーぼく*は*新聞*記者*に*なりたい*と*思っています。" someNumber="None" image="075_012.jpg" lang2="- Я хочу стать корреспондентом газеты.">
+      <audioTime in="43594" out="47787" />
+    </line>
+    <line lang1="兄*は*大学*を*卒業して*新聞*記者*に*なりました。" someNumber="None" image="075_013.jpg" lang2="Мой старший брат, окончив университет, стал корреспондентом.">
+      <audioTime in="47787" out="52595" />
+    </line>
+    <line lang1="兄*は*毎日*忙しい*けど、面白い*と*言っています。" someNumber="None" image="075_014.jpg" lang2="Брат говорит, что каждый день проходит хотя и хлопотно, но интересно.">
+      <audioTime in="52595" out="57630" />
+    </line>
+    <line lang1="兄*は*来月*アメリカ*へ*行きます。" someNumber="None" image="075_015.jpg" lang2="Брат едет в Америку в следующем месяце.">
+      <audioTime in="57630" out="61667" />
+    </line>
+    <line lang1="ぼく*も*新聞*記者*になって、外国*へ*行きたい*です。" someNumber="None" image="075_016.jpg" lang2="И я хочу, став корреспондентом, поехать за границу.">
+      <audioTime in="61667" out="66177" />
+    </line>
+    <line lang1="旅行*も*したい*です。" someNumber="None" image="075_017.jpg" lang2="Хочу также путешествовать.">
+      <audioTime in="66177" out="68033" />
+    </line>
+    <line lang1="―うち*の*むすこ*も*旅行*したがっています。" someNumber="None" image="075_018.jpg" lang2="- Мой сын тоже хочет путешествовать.">
+      <audioTime in="68033" out="73142" />
+    </line>
+    <line lang1="遠く*の*国々*を*見たがっています。" someNumber="None" image="075_019.jpg" lang2="Хочет увидеть далекие страны.">
+      <audioTime in="73142" out="76221" />
+    </line>
+    <line lang1="宝物*を*さがしたがっています。" someNumber="None" image="075_020.jpg" lang2="Хочет искать сокровища.">
+      <audioTime in="76221" out="79608" />
+    </line>
+    <line lang1="では、もう*時間*に*なりました。" someNumber="None" image="075_021.jpg" lang2="Ну ладно, уже время (окончания урока).">
+      <audioTime in="79608" out="83027" />
+    </line>
+    <line lang1="宿題*は*作文*です。" someNumber="None" image="075_021.jpg" lang2="Домашним заданием будет сочинение.">
+      <audioTime in="83027" out="85721" />
+    </line>
+    <line lang1="医者*に*なりたい、" someNumber="None" image="075_023.jpg" lang2="О том, что вы хотите стать врачом,">
+      <audioTime in="85721" out="88033" />
+    </line>
+    <line lang1="新聞*に*記事*を*書きたい、" someNumber="None" image="075_024.jpg" lang2="писать заметки в газетах,">
+      <audioTime in="88033" out="89798" />
+    </line>
+    <line lang1="遠く*の*国々*を*見たい*など、" someNumber="None" image="075_025.jpg" lang2="увидеть далекие страны,">
+      <audioTime in="89798" out="92285" />
+    </line>
+    <line lang1="つまり*将来*したい*こと*に*ついて*作文*を*書きなさい。" someNumber="083" image="075_026.jpg" lang2="одним словом, напишите сочинение о том, кем хотите стать в будущем.">
+      <audioTime in="92285" out="96257" />
+    </line>
+  </lines>
+</lesson>

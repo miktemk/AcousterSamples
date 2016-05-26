@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="d_115.wav" dic="p115" dlgName="Дома никого нет." dlgFile="exr\dg115.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Ist jemand zu Hause?" someNumber="550" image="dg\115_001.gif" lang2="- Есть кто-нибудь дома?">
+      <audioTime in="385" out="2080" />
+    </line>
+    <line lang1="- Ich #klopfe noch einmal, Helga." someNumber="550" image="dg\115_001.gif" lang2="- Я постучу снова, Хельга.">
+      <audioTime in="2388" out="4160" />
+    </line>
+    <line lang1="Alles #ist sehr still." someNumber="None" image="dg\115_001.gif" lang2="Всё очень тихо.">
+      <audioTime in="4314" out="5856" />
+    </line>
+    <line lang1="Ich #bin sicher, dort #ist niemand." someNumber="None" image="dg\115_001.gif" lang2="Я уверен, там никого нет.">
+      <audioTime in="5856" out="7782" />
+    </line>
+    <line lang1="- Aber das #ist unmöglich." someNumber="None" image="dg\115_002.gif" lang2="- Но это невозможно.">
+      <audioTime in="8013" out="9708" />
+    </line>
+    <line lang1="Susanne und Peter #haben uns zum Frühstück #eingeladen." someNumber="810" image="dg\115_002.gif" lang2="Сюзан и Петер пригласили нас на завтрак.">
+      <audioTime in="9862" out="13021" />
+    </line>
+    <line lang1="#1Sieh mal durchs Fenster #2hinein." someNumber="810" image="dg\115_002.gif" lang2="Посмотри через окно.">
+      <audioTime in="13175" out="14793" />
+    </line>
+    <line lang1="#Kannst du etwas #sehen?" someNumber="None" image="dg\115_003.gif" lang2="Ты можешь что-нибудь увидеть?">
+      <audioTime in="15333" out="17028" />
+    </line>
+    <line lang1="- Gar nichts." someNumber="None" image="dg\115_003.gif" lang2="- Совсем ничего.">
+      <audioTime in="17336" out="18954" />
+    </line>
+    <line lang1="- #Probieren wir es mal durch die Hintertür." someNumber="360" image="dg\115_003.gif" lang2="- Давай попробуем через заднюю дверь.">
+      <audioTime in="18954" out="21420" />
+    </line>
+    <line lang1="- #Sieh mal!" someNumber="360" image="dg\115_004.gif" lang2="- Смотри-ка!">
+      <audioTime in="21420" out="22549" />
+    </line>
+    <line lang1="Alle #sind im Garten." someNumber="360" image="dg\115_004.gif" lang2="Все в саду.">
+      <audioTime in="22652" out="24810" />
+    </line>
+    <line lang1="- Hallo, Helga!" someNumber="None" image="dg\115_004.gif" lang2="- Привет, Хельга.">
+      <audioTime in="25195" out="25966" />
+    </line>
+    <line lang1="Hallo Martin!" someNumber="None" image="dg\115_004.gif" lang2="Привет, Мартин.">
+      <audioTime in="25966" out="27095" />
+    </line>
+    <line lang1="- Alle #wollen im Garten #frühstücken." someNumber="None" image="dg\115_004.gif" lang2="- Все хотят обедать в саду.">
+      <audioTime in="27095" out="29036" />
+    </line>
+    <line lang1="Hier draußen #ist es angenehm und warm." someNumber="None" image="dg\115_004.gif" lang2="Здесь на воздухе приятно и тепло.">
+      <audioTime in="29202" out="31668" />
+    </line>
+    <line lang1="- #Kommt mal her und #trinkt etwas." someNumber="630" image="dg\115_005.gif" lang2="- Идите-ка сюда и выпейте что-нибудь.">
+      <audioTime in="32053" out="34287" />
+    </line>
+    <line lang1="- Schönen Dank, Susanne." someNumber="630" image="dg\115_005.gif" lang2="- Спасибо, Сюзан.">
+      <audioTime in="34365" out="35982" />
+    </line>
+    <line lang1="#Darf ich ein Glas Bier #nehmen, bitte?" someNumber="None" image="dg\115_005.gif" lang2="Могу я взять стакан пива, пожалуйста?">
+      <audioTime in="36060" out="38987" />
+    </line>
+    <line lang1="- Bier?" someNumber="None" image="dg\115_005.gif" lang2="- Пива?">
+      <audioTime in="38987" out="40116" />
+    </line>
+    <line lang1="Es #ist gar nichts #geblieben." someNumber="680" image="dg\115_006.gif" lang2="Совсем не осталось.">
+      <audioTime in="40374" out="42146" />
+    </line>
+    <line lang1="Du #kannst etwas Limonade #trinken." someNumber="680" image="dg\115_006.gif" lang2="Ты можешь выпить немного лимонада.">
+      <audioTime in="42146" out="44304" />
+    </line>
+    <line lang1="- Limonade?" someNumber="None" image="dg\115_006.gif" lang2="- Лимонада?">
+      <audioTime in="44305" out="45704" />
+    </line>
+    <line lang1="- #Schenk ihr keinen Glauben, Martin." someNumber="None" image="dg\115_007.gif" lang2="- Не верь ей, Мартин.">
+      <audioTime in="45845" out="48465" />
+    </line>
+    <line lang1="Sie #scherzt nur." someNumber="None" image="dg\115_007.gif" lang2="Она только шутит.">
+      <audioTime in="48542" out="49929" />
+    </line>
+    <line lang1="#Nimm etwas Bier!" someNumber="630" image="dg\115_007.gif" lang2="Возьми немного пива!">
+      <audioTime in="49929" out="51058" />
+    </line>
+  </lines>
+</lesson>

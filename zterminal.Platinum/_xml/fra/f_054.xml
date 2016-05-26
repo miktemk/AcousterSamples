@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="f_054.wav" dic="p054" dlgName="Откуда Вы родом?" dlgFile="exr\fg053.txt" author="Alexander" />
+  <lines>
+    <line lang1="- D'où êtes-vous venu? Etes-vous Australien?" someNumber="930" image="dg\054_001.gif" lang2="- Откуда вы приехали? Вы австралиец?">
+      <audioTime in="0" out="2537" />
+    </line>
+    <line lang1="- Oui, je suis venu d'Australie." someNumber="None" image="dg\054_001.gif" lang2="- Да, я приехал из Австралии.">
+      <audioTime in="2537" out="4230" />
+    </line>
+    <line lang1="- D'où est-il venu? Est-il Autrichien," someNumber="None" image="dg\054_002.gif" lang2="- Откуда он приехал? Он австриец?">
+      <audioTime in="4230" out="6561" />
+    </line>
+    <line lang1="- Oui, il est venu d'Autriche." someNumber="190" image="dg\054_002.gif" lang2="- Да, он приехал из Австрии.">
+      <audioTime in="6561" out="7993" />
+    </line>
+    <line lang1="- D'où est-il venu? Est-il Canadien?" someNumber="None" image="dg\054_003.gif" lang2="- Откуда он приехал? Он канадец?">
+      <audioTime in="7993" out="10205" />
+    </line>
+    <line lang1="- Oui, il est venu du Canada." someNumber="None" image="dg\054_003.gif" lang2="- Да, он приехал из Канады.">
+      <audioTime in="10205" out="11682" />
+    </line>
+    <line lang1="- D'où êtes-vous venus? Etes-vous Chinois?" someNumber="None" image="dg\054_004.gif" lang2="- Откуда вы приехали? Вы китайцы?">
+      <audioTime in="11682" out="14130" />
+    </line>
+    <line lang1="- Oui, nous sommes venus de Chine." someNumber="810" image="dg\054_004.gif" lang2="- Да, мы приехали из Китая.">
+      <audioTime in="14130" out="15688" />
+    </line>
+    <line lang1="- D'où sont-ils venus? Sont-ils Danois?" someNumber="None" image="dg\054_005.gif" lang2="- Откуда они приехали? Они датчане?">
+      <audioTime in="15688" out="18031" />
+    </line>
+    <line lang1="- Oui, ils sont venus du Danemark." someNumber="None" image="dg\054_005.gif" lang2="- Да, они приехали из Дании.">
+      <audioTime in="18031" out="19661" />
+    </line>
+    <line lang1="- D'où suis-je venu? Suis-je Finnois?" someNumber="530" image="dg\054_006.gif" lang2="- Откуда я приехал? Я финн?">
+      <audioTime in="19661" out="22247" />
+    </line>
+    <line lang1="- Oui, je suis venu de Finlande." someNumber="None" image="dg\054_006.gif" lang2="- Да, я приехал из Финляндии.">
+      <audioTime in="22247" out="23903" />
+    </line>
+    <line lang1="- D'où est-elle venue? Est-elle Indienne?" someNumber="None" image="dg\054_007.gif" lang2="- Откуда она приехала? Она индианка?">
+      <audioTime in="23903" out="26298" />
+    </line>
+    <line lang1="- Oui, elle est venue de l'Inde." someNumber="None" image="dg\054_007.gif" lang2="- Да, она приехала из Индии.">
+      <audioTime in="26298" out="27728" />
+    </line>
+    <line lang1="- D'où sommes-nous venus? Sommes-nous Japonais?" someNumber="200" image="dg\054_008.gif" lang2="- Откуда мы приехали? Мы японцы?">
+      <audioTime in="27728" out="30117" />
+    </line>
+    <line lang1="- Oui, vous êtes venus du Japon." someNumber="None" image="dg\054_008.gif" lang2="- Да, вы приехали из Японии.">
+      <audioTime in="30117" out="31594" />
+    </line>
+    <line lang1="- D'où êtes-vous venus? Etes-vous Nigériens?" someNumber="None" image="dg\054_009.gif" lang2="- Откуда вы приехали? Вы нигерийцы?">
+      <audioTime in="31594" out="34148" />
+    </line>
+    <line lang1="- Oui, nous sommes venus du Niger." someNumber="None" image="dg\054_009.gif" lang2="- Да, мы приехали из Нигерии.">
+      <audioTime in="34148" out="35752" />
+    </line>
+    <line lang1="- D'où sont-ils venus? Sont-ils Polonais?" someNumber="210" image="dg\054_010.gif" lang2="- Откуда они приехали? Они поляки?">
+      <audioTime in="35752" out="38112" />
+    </line>
+    <line lang1="- Oui, ils sont venus de Pologne." someNumber="None" image="dg\054_010.gif" lang2="- Да, они приехали из Польши.">
+      <audioTime in="38112" out="39572" />
+    </line>
+    <line lang1="- D'où est-elle venue? Est-elle Turque?" someNumber="None" image="dg\054_011.gif" lang2="- Откуда она приехала? Она турчанка?">
+      <audioTime in="39572" out="41746" />
+    </line>
+    <line lang1="- Oui, elle est venue de Turquie." someNumber="680" image="dg\054_011.gif" lang2="- Да, она приехала из Турции.">
+      <audioTime in="41746" out="43063" />
+    </line>
+    <line lang1="- D'où êtes-vous venu? Etes-vous Yougoslave?" someNumber="None" image="dg\054_012.gif" lang2="- Откуда вы приехали? Вы югослав?">
+      <audioTime in="43063" out="45934" />
+    </line>
+    <line lang1="- Oui, je suis venu de Yougoslavie." someNumber="None" image="dg\054_012.gif" lang2="- Да, я приехал из Югославии.">
+      <audioTime in="45934" out="47720" />
+    </line>
+  </lines>
+</lesson>

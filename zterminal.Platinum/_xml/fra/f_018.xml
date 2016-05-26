@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_018.wav" dic="p018" dlgName="Кто они по профессии?" dlgFile="exr\fg017.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Quelle est leur profession? Sont-ils mécaniciens?" someNumber="480" image="dg\018_001.gif" lang2="- Какая у них профессия? Они механики?">
+      <audioTime in="0" out="2859" />
+    </line>
+    <line lang1="- Ils ne sont pas mécaniciens. Ils sont notaires." someNumber="None" image="dg\018_001.gif" lang2="- Они не механики. Они нотариусы.">
+      <audioTime in="2859" out="5167" />
+    </line>
+    <line lang1="- Quelle est leur profession? Sont-elles dactylos?" someNumber="None" image="dg\018_002.gif" lang2="- Какая у них профессия? Они машинистки?">
+      <audioTime in="5167" out="7660" />
+    </line>
+    <line lang1="- Elles ne sont pas dactylos. Elles sont ménagères." someNumber="None" image="dg\018_002.gif" lang2="- Они не машинистки. Они домохозяйки.">
+      <audioTime in="7660" out="10098" />
+    </line>
+    <line lang1="- Quelle est leur profession? Sont-ils facteurs?" someNumber="None" image="dg\018_003.gif" lang2="- Какая у них профессия? Они почтальоны?">
+      <audioTime in="10098" out="12611" />
+    </line>
+    <line lang1="- Ils ne sont pas facteurs. Ils sont laitiers." someNumber="None" image="dg\018_003.gif" lang2="- Они не почтальоны. Они продавцы молока.">
+      <audioTime in="12611" out="14714" />
+    </line>
+    <line lang1="- Quelle est leur profession? Sont-elles policières?" someNumber="90" image="dg\018_004.gif" lang2="- Какая у них профессия? Они полицейские?">
+      <audioTime in="14714" out="17256" />
+    </line>
+    <line lang1="- Elles ne sont pas policières. Elles sont hôtesses de l'air." someNumber="None" image="dg\018_004.gif" lang2="- Они не полицейские. Они стюардессы.">
+      <audioTime in="17256" out="19778" />
+    </line>
+    <line lang1="- Quelle est leur profession? Sont-ils douaniers?" someNumber="None" image="dg\018_005.gif" lang2="- Какая у них профессия? Они таможенники?">
+      <audioTime in="19778" out="22108" />
+    </line>
+    <line lang1="- Ils ne sont pas douaniers. Ils sont ingénieurs." someNumber="None" image="dg\018_005.gif" lang2="- Они не таможенники. Они инженеры.">
+      <audioTime in="22108" out="24347" />
+    </line>
+    <line lang1="- Quelle est leur profession? Sont-ils coiffeurs?" someNumber="None" image="dg\018_006.gif" lang2="- Какая у них профессия? Они парикмахеры?">
+      <audioTime in="24347" out="26523" />
+    </line>
+    <line lang1="- Ils ne sont pas coiffeurs. Ils sont chauffeurs de taxi." someNumber="190" image="dg\018_006.gif" lang2="- Они не парикмахеры. Они водители такси.">
+      <audioTime in="26523" out="28862" />
+    </line>
+    <line lang1="- Quelle est leur profession? Sont-ils ingénieurs?" someNumber="None" image="dg\018_007.gif" lang2="- Какая у них профессия? Они инженеры?">
+      <audioTime in="28862" out="31163" />
+    </line>
+    <line lang1="- Ils ne sont pas ingénieurs. Ils sont professeurs." someNumber="None" image="dg\018_007.gif" lang2="- Они не инженеры. Они учителя.">
+      <audioTime in="31163" out="33514" />
+    </line>
+    <line lang1="- Quelle est leur profession? Sont-elles policières?" someNumber="None" image="dg\018_008.gif" lang2="- Какая у них профессия? Они полицейские?">
+      <audioTime in="33514" out="36173" />
+    </line>
+    <line lang1="- Elles ne sont pas policières. Elles sont ménagères." someNumber="None" image="dg\018_008.gif" lang2="- Они не полицейские. Они домохозяйки.">
+      <audioTime in="36173" out="38639" />
+    </line>
+    <line lang1="-Quelle est leur profession? Sont-ils crémiers." someNumber="None" image="dg\018_009.gif" lang2="- Какая у них профессия? Они продавцы молока?">
+      <audioTime in="38639" out="40956" />
+    </line>
+    <line lang1="- Ils ne sont pas crémiers. Ils sont coiffeurs." someNumber="610" image="dg\018_009.gif" lang2="- Они не продавцы молока. Они парикмахеры.">
+      <audioTime in="40956" out="43378" />
+    </line>
+    <line lang1="- Quelle est leur profession? Sont-elles infirmières?" someNumber="None" image="dg\018_010.gif" lang2="- Какая у них профессия? Они медсёстры?">
+      <audioTime in="43378" out="45822" />
+    </line>
+    <line lang1="- Elles ne sont pas infirmières. Elles sont dactylos." someNumber="None" image="dg\018_010.gif" lang2="- Они не медсёстры. Они машинистки.">
+      <audioTime in="45822" out="48286" />
+    </line>
+  </lines>
+</lesson>

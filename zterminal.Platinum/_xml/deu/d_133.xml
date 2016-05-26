@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="d_133.wav" dic="p133" dlgName="Не хочу сниматься..." dlgFile="exr\dg131.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Haben Sie eben einen neuen Film #gedreht, Fräulein Marsch?" someNumber="290" image="dg\133_001.gif" lang2="- Вы только что сняли новый фильм, фрейлейн Марш?">
+      <audioTime in="158" out="3321" />
+    </line>
+    <line lang1="- Ja, das #stimmt." someNumber="290" image="dg\133_001.gif" lang2="- Да, это так.">
+      <audioTime in="3479" out="4744" />
+    </line>
+    <line lang1="- #Wollen Sie einen anderen #drehen?" someNumber="None" image="dg\133_001.gif" lang2="- Вы собираетесь снять другой?">
+      <audioTime in="4981" out="6641" />
+    </line>
+    <line lang1="- Nein, das #stimmt nicht." someNumber="None" image="dg\133_001.gif" lang2="- Нет, неверно.">
+      <audioTime in="6721" out="8144" />
+    </line>
+    <line lang1="Ich #will mich #erholen." someNumber="680" image="dg\133_001.gif" lang2="Я хочу отдохнуть.">
+      <audioTime in="8460" out="10121" />
+    </line>
+    <line lang1="Ich #fühle mich sehr müde." someNumber="680" image="dg\133_001.gif" lang2="Я чувствую себя очень усталой.">
+      <audioTime in="10121" out="11927" />
+    </line>
+    <line lang1="Längere Zeit #werde ich keinen neuen Film #drehen." someNumber="600" image="dg\133_001.gif" lang2="Долгое время я не буду снимать новый фильм .">
+      <audioTime in="12493" out="15814" />
+    </line>
+    <line lang1="- #Lass uns die Zeitung #kaufen, Nessi." someNumber="630" image="dg\133_002.gif" lang2="- Давай купим газету, Несси.">
+      <audioTime in="15893" out="17949" />
+    </line>
+    <line lang1="- #1Hör mal #2zu!" someNumber="630" image="dg\133_002.gif" lang2="- Послушай-ка!">
+      <audioTime in="18265" out="19214" />
+    </line>
+    <line lang1="&quot;Karen Marsch: Sensationelle Nachrichten unseres Reporters:" someNumber="200" image="dg\133_002.gif" lang2="&quot;Карен Марш: сенсационные новости нашего репортёра:">
+      <audioTime in="19767" out="24037" />
+    </line>
+    <line lang1="Fräulein Karen Marsch #ist heute in Londoner Flughafen #angekommen." someNumber="None" image="dg\133_002.gif" lang2="Фрейлейн Карен Марш прибыла сегодня в лондонский аэропорт.">
+      <audioTime in="24196" out="28544" />
+    </line>
+    <line lang1="Sie #1hatte ein blaues Kleid und einen Nerzmantel #2an." someNumber="570" image="dg\133_002.gif" lang2="Она была одета в синее платье и норковое пальто.">
+      <audioTime in="29098" out="33051" />
+    </line>
+    <line lang1="Sie #erzählt mir: sie #habe einen neuen Film #gedreht." someNumber="640" image="dg\133_002.gif" lang2="Она рассказала: она снялась в новом фильме.">
+      <audioTime in="33368" out="36926" />
+    </line>
+    <line lang1="Sie #sagte, sie #könne keinen neuen Film #drehen." someNumber="640" image="dg\133_002.gif" lang2="Она сказала, она не собирается сниматься в новом фильме.">
+      <audioTime in="37005" out="39773" />
+    </line>
+    <line lang1="Sie #beabsichtige sich zu #pensionieren." someNumber="700" image="dg\133_002.gif" lang2="Она намерена уйти на пенсию.">
+      <audioTime in="39773" out="42777" />
+    </line>
+    <line lang1="Sie #sagte zu den Repotern: sie #fühle sich sehr müde und #möchte längere Zeit keinen neuen Film #drehen&quot;." someNumber="640" image="dg\133_002.gif" lang2="Она сказала репортёрам: она чувствует себя очень усталой и долгое время не хочет сниматься в новом фильме.&quot;">
+      <audioTime in="43331" out="49419" />
+    </line>
+    <line lang1="- #1Stell dir so was #2vor, Petra!" someNumber="630" image="dg\133_002.gif" lang2="- Представь себе такое, Петра!">
+      <audioTime in="49736" out="52266" />
+    </line>
+  </lines>
+</lesson>

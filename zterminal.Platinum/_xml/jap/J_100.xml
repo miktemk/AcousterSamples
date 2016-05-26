@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_100.wav" dlgName="Сказали, что будет дождь" dic="p100" />
+  <lines>
+    <line lang1="ー高山*さん、あす*から*出張*だ*そう*です*ね。" someNumber="106" image="100_001.jpg" lang2="- Такаяма-сан, говорят, (Вы) с завтрашнего дня едете в командировку, не так ли?">
+      <audioTime in="0" out="5109" />
+    </line>
+    <line lang1="―はい、大阪*へ*行く*こと*に*なりました。" someNumber="110" image="100_002.jpg" lang2="- Да, получилось так, что мне приходится ехать в Осака.">
+      <audioTime in="5109" out="7868" />
+    </line>
+    <line lang1="―気*を*付けて*下さい。" someNumber="None" image="100_003.jpg" lang2="- Будьте осторожны!">
+      <audioTime in="7868" out="10467" />
+    </line>
+    <line lang1="天気*予報*に*よる*と*大阪*に*台風*が*近づいている*そう*です。" someNumber="127" image="100_004.jpg" lang2="Согласно прогнозу погоды, к Осака приближается тайфун.">
+      <audioTime in="10467" out="15704" />
+    </line>
+    <line lang1="とても*大きい*そう*です。" someNumber="106" image="100_004.jpg" lang2="Сказали, что очень сильный.">
+      <audioTime in="15704" out="18300" />
+    </line>
+    <line lang1="ーそう*です*か。でも*支店*の*木村*さん*から*電話*が*来て、" someNumber="None" image="100_006.jpg" lang2="- Вот как? Однако звонил Кимура-сан из нашего отделения">
+      <audioTime in="18300" out="23050" />
+    </line>
+    <line lang1="雨*は*降っています*が、風*は*そんな*に*強くない*そう*です。" someNumber="None" image="100_007.jpg" lang2="и сказал, что идёт дождь, однако ветер не такой уж сильный.">
+      <audioTime in="23050" out="26833" />
+    </line>
+    <line lang1="―あの、この*書類*は*大切*だ*そう*な*ので、コーピーして*おいて*下さい。" someNumber="154" image="100_008.jpg" lang2="- Послушайте, (мне) сказали, что эти документы важны, поэтому сделайте копию.">
+      <audioTime in="26833" out="35199" />
+    </line>
+    <line lang1="ー分かりました。" someNumber="None" image="100_009.jpg" lang2="- Будет сделано.">
+      <audioTime in="35199" out="36532" />
+    </line>
+    <line lang1="ーみどり*ちゃん、田中*君*は*試験*に*受かりました*か。" someNumber="None" image="100_010.jpg" lang2="- Мидори-тян, Танака-кун смог сдать экзамен?">
+      <audioTime in="36532" out="45100" />
+    </line>
+    <line lang1="ーううん、易しい*問題*だった*けど、彼*は*受からなかった*そう*です。" someNumber="125" image="100_011.jpg" lang2="- Нет. Хотя задание было несложным, говорят, что он не смог его сдать.">
+      <audioTime in="45100" out="51506" />
+    </line>
+    <line lang1="―信じられない*です*ね。彼*は*いつも*まじめ*に*勉強している*のに…" someNumber="94" image="100_011.jpg" lang2="- Не могу поверить в это! Он всегда так серьезно занимался!">
+      <audioTime in="51506" out="56926" />
+    </line>
+    <line lang1="―大学*を*止めそう*です。" someNumber="106" image="100_013.jpg" lang2="- По-видимому, он бросит университет.">
+      <audioTime in="56926" out="59888" />
+    </line>
+    <line lang1="ー止める*ん*です*か。" someNumber="None" image="100_013.jpg" lang2="- Он собирается бросать учебу?!">
+      <audioTime in="59888" out="61347" />
+    </line>
+    <line lang1="ーうううん、私*の*考え*です*けど・・・" someNumber="None" image="100_015.jpg" lang2="- Не знаю. Это я так считаю.">
+      <audioTime in="61347" out="65242" />
+    </line>
+    <line lang1="ー今度*の*学会*で*林君*が*発表する*そう*です。" someNumber="None" image="100_016.jpg" lang2="- Говорят, что на следующей студенческой конференции будет докладывать Хаяси-кун.">
+      <audioTime in="65242" out="70968" />
+    </line>
+    <line lang1="ー面白そう*です*ね。ぜひ*行きます。" someNumber="106" image="100_016.jpg" lang2="- Как интересно! Обязательно пойду.">
+      <audioTime in="70968" out="75210" />
+    </line>
+    <line lang1="ー経済*の*講義*は*どう*でした*か。" someNumber="None" image="100_018.jpg" lang2="- Как прошла лекция по экономике?">
+      <audioTime in="75210" out="79088" />
+    </line>
+    <line lang1="ーむずかしかった*そう*です。私*は*休んだ*けど・・・" someNumber="106" image="100_019.jpg" lang2="- Говорят, что было трудно. Впрочем, я отсутствовала.">
+      <audioTime in="79150" out="84495" />
+    </line>
+    <line lang1="ー良子*さん、日曜日、ディスニーランド*は*大変*にぎやか*だった*そう*です*が、本当*です*か。" someNumber="None" image="100_020.jpg" lang2="- Есико-сан, говорят, что в воскресенье в Диснейленде было очень людно, это правда?">
+      <audioTime in="84495" out="91565" />
+    </line>
+    <line lang1="ーそれ*が、行かなかった*ん*です。" someNumber="None" image="100_021.jpg" lang2="- Я не ходила туда.">
+      <audioTime in="91565" out="95095" />
+    </line>
+    <line lang1="行こう*と*したら*幸子*から*電話*が*来て、" someNumber="93" image="100_022.jpg" lang2="Собиралась пойти, но позвонила Сатико,">
+      <audioTime in="95095" out="98039" />
+    </line>
+    <line lang1="階段*から*落ちて、足*が*痛い*と*いう*んです。" someNumber="None" image="100_023.jpg" lang2="сказала, что она упала с лестницы и у неё болит нога.">
+      <audioTime in="98039" out="101001" />
+    </line>
+    <line lang1="ー大変。けが*を*しました*か。" someNumber="None" image="100_024.jpg" lang2="- Какой ужас! Она поранилась?">
+      <audioTime in="101001" out="103962" />
+    </line>
+    <line lang1="ーレントゲン*を*とった*そう*です*が、骨*は*折れていない*そう*です。" someNumber="None" image="100_025.jpg" lang2="- Говорит, что сделала рентгеновский снимок, и ей сказали, что перелома нет.">
+      <audioTime in="103962" out="108693" />
+    </line>
+    <line lang1="ねんざだ*そう*です。" someNumber="None" image="100_026.jpg" lang2="Сказали, что это вывих.">
+      <audioTime in="108693" out="111322" />
+    </line>
+  </lines>
+</lesson>

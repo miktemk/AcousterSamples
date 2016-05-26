@@ -1,0 +1,104 @@
+<lesson>
+   <header wav="glag01.mp3" dic="dic" dlgName="glag01.mp3" dlgFile="glag01.xml" author="acouster"/>
+   <lines class="java.util.Vector">
+      <line lang1="Мен әдемі сарайда тұрмын." lang2="Я в красивом дворце стою." image="default.jpg" someNumber="None">
+         <audioTime in="980" out="4685"/>
+      </line>
+      <line lang1="Мен жүрмiн." lang2="Я иду." image="default.jpg" someNumber="None">
+         <audioTime in="4685" out="7772"/>
+      </line>
+      <line lang1="Біз әуежайда отырмыз." lang2="Мы в аэропорту сидим." image="default.jpg" someNumber="None">
+         <audioTime in="7772" out="11119"/>
+      </line>
+      <line lang1="Біз далада жүрмiз." lang2="Мы на улице ходим." image="default.jpg" someNumber="None">
+         <audioTime in="11119" out="14924"/>
+      </line>
+      <line lang1="Сен кiтапханада тұрсың." lang2="Ты в библиотеке стоишь." image="default.jpg" someNumber="None">
+         <audioTime in="14924" out="17474"/>
+      </line>
+      <line lang1="Сен саябақта жүрсiң." lang2="Ты в парке ходишь." image="default.jpg" someNumber="None">
+         <audioTime in="17474" out="20930"/>
+      </line>
+      <line lang1="Сендер далада тұрсыңдар." lang2="Вы на улице стоите." image="default.jpg" someNumber="None">
+         <audioTime in="20930" out="23749"/>
+      </line>
+      <line lang1="Сендер далада жүрсіңдер." lang2="Вы на улице ходите." image="default.jpg" someNumber="None">
+         <audioTime in="23749" out="27583"/>
+      </line>
+      <line lang1="Сіз мұғалімде отырсыз." lang2="Вы у учителя сидите." image="default.jpg" someNumber="None">
+         <audioTime in="27583" out="30521"/>
+      </line>
+      <line lang1="Сіз қайда жүрсіз?" lang2="Вы где ходите?" image="default.jpg" someNumber="None">
+         <audioTime in="30521" out="33041"/>
+      </line>
+      <line lang1="Сіздер қай көшеде тұрсыздар?" lang2="Вы на какой улице стоите?" image="default.jpg" someNumber="None">
+         <audioTime in="33041" out="35780"/>
+      </line>
+      <line lang1="Анар диванда жатыр." lang2="Анара на диване лежит." image="default.jpg" someNumber="None">
+         <audioTime in="35780" out="38330"/>
+      </line>
+      <line lang1="Балалар саябақта жүр." lang2="Дети в парке ходят." image="default.jpg" someNumber="None">
+         <audioTime in="38330" out="42494"/>
+      </line>
+      <line lang1="Біз хат жазып отырмыз." lang2="Мы письмо пишем (сидя пишем)." image="default.jpg" someNumber="None">
+         <audioTime in="42494" out="45412"/>
+      </line>
+      <line lang1="Мен саябақта қыдырып жүрмін." lang2="Я в парке гуляю (иду и гуляю)." image="default.jpg" someNumber="None">
+         <audioTime in="45412" out="48679"/>
+      </line>
+      <line lang1="Мен оқып жатырмын." lang2="Я читаю (лёжа читаю)." image="default.jpg" someNumber="None">
+         <audioTime in="48679" out="51298"/>
+      </line>
+      <line lang1="Сiздер шай iшiп отырсыздар." lang2="Вы чай пьёте." image="default.jpg" someNumber="None">
+         <audioTime in="51298" out="54446"/>
+      </line>
+      <line lang1="Ол ұйықтап жатыр." lang2="Он спит." image="default.jpg" someNumber="None">
+         <audioTime in="54446" out="58838"/>
+      </line>
+      <line lang1="Мен билеп жүрмiн." lang2="Я танцую." image="default.jpg" someNumber="None">
+         <audioTime in="58838" out="61687"/>
+      </line>
+      <line lang1="Сіз емтиханға дайындалып жатырсыз." lang2="Вы к экзамену готовитесь." image="default.jpg" someNumber="None">
+         <audioTime in="61687" out="66617"/>
+      </line>
+      <line lang1="Сәуле шашын тарап тұр." lang2="Сауле свои волосы расчёсывает (не долго)." image="default.jpg" someNumber="None">
+         <audioTime in="66617" out="69207"/>
+      </line>
+      <line lang1="Сәуле шашын тарап жатыр." lang2="Сауле свои волосы расчёсывает (долго)." image="default.jpg" someNumber="None">
+         <audioTime in="69207" out="72035"/>
+      </line>
+      <line lang1="Достар ауылға бара жатыр." lang2="Друзья в аул идут (уходят)." image="default.jpg" someNumber="None">
+         <audioTime in="72035" out="74974"/>
+      </line>
+      <line lang1="Мен саябақтан келе жатырмын." lang2="Я иду из парка (возвращаюсь)." image="default.jpg" someNumber="None">
+         <audioTime in="74974" out="78231"/>
+      </line>
+      <line lang1="Ол кiтапты апара жатыр." lang2="Он книгу уносит." image="default.jpg" someNumber="None">
+         <audioTime in="78231" out="80462"/>
+      </line>
+      <line lang1="Біз қаламдарды әкеле жатырмыз." lang2="Мы ручки несём (приносим)." image="default.jpg" someNumber="None">
+         <audioTime in="80462" out="83430"/>
+      </line>
+      <line lang1="Сен жазбай отырсың." lang2="Ты не пишешь." image="default.jpg" someNumber="None">
+         <audioTime in="83430" out="85780"/>
+      </line>
+      <line lang1="Ол iшпей отыр." lang2="Он не пьёт." image="default.jpg" someNumber="None">
+         <audioTime in="85780" out="88978"/>
+      </line>
+      <line lang1="Мен институтта оқымай жүрмiн." lang2="Я не учусь в институте." image="default.jpg" someNumber="None">
+         <audioTime in="88978" out="92005"/>
+      </line>
+      <line lang1="Сен жазып отырған жоқсың." lang2="Ты не пишешь." image="default.jpg" someNumber="None">
+         <audioTime in="92005" out="94396"/>
+      </line>
+      <line lang1="Ол iшiп отырған жоқ." lang2="Он не пьёт." image="default.jpg" someNumber="None">
+         <audioTime in="94396" out="98161"/>
+      </line>
+      <line lang1="Мен институтта оқып жүрген жоқпын." lang2="Я не учусь в институте." image="default.jpg" someNumber="None">
+         <audioTime in="98161" out="101488"/>
+      </line>
+      <line lang1="Олар менiмен сөйлесiп жатқан жоқ." lang2="Они со мной не разговаривают." image="default.jpg" someNumber="None">
+         <audioTime in="101488" out="105488"/>
+      </line>
+   </lines>
+</lesson>

@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="d_063.wav" dic="p063" dlgName="Визит врача." dlgFile="exr\dg063.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wie #geht es Willi heute?" someNumber="360" image="dg\063_001.gif" lang2="- Как Вилли сегодня?">
+      <audioTime in="350" out="2171" />
+    </line>
+    <line lang1="- Es #geht ihm besser, danke schön, Herr Doktor." someNumber="360" image="dg\063_001.gif" lang2="- Ему лучше, спасибо, господин доктор.">
+      <audioTime in="2242" out="5114" />
+    </line>
+    <line lang1="- #Darf ich ihn #untersuchen, Frau Tobias?" someNumber="680" image="dg\063_001.gif" lang2="- Могу ли я его осмотреть, госпожа Тобиас?">
+      <audioTime in="5394" out="8405" />
+    </line>
+    <line lang1="- Jawohl, Herr Doktor." someNumber="680" image="dg\063_001.gif" lang2="- Конечно, господин доктор.">
+      <audioTime in="8405" out="9891" />
+    </line>
+    <line lang1="#Gehen wir nach oben." someNumber="680" image="dg\063_001.gif" lang2="Поднимемся наверх.">
+      <audioTime in="9892" out="11562" />
+    </line>
+    <line lang1="- Du #1siehst sehr gut #2aus, Willi." someNumber="490" image="dg\063_002.gif" lang2="- Ты выглядишь очень хорошо, Вилли.">
+      <audioTime in="11909" out="13940" />
+    </line>
+    <line lang1="Dir #geht es jetzt besser, aber du #darfst noch nicht #aufstehen." someNumber="490" image="dg\063_002.gif" lang2="Тебе сейчас лучше, но тебе ещё нельзя вставать.">
+      <audioTime in="14080" out="17461" />
+    </line>
+    <line lang1="Du #musst noch zwei Tage im Bett #bleiben." someNumber="450" image="dg\063_002.gif" lang2="Ты должен остаться в постели ещё два дня.">
+      <audioTime in="17933" out="20035" />
+    </line>
+    <line lang1="- Der Junge #darf noch nicht in die Schule #gehen, Frau Tobias." someNumber="680" image="dg\063_003.gif" lang2="- Мальчику ещё нельзя ходить в школу, госпожа Тобиас.">
+      <audioTime in="20245" out="23397" />
+    </line>
+    <line lang1="Und er #darf nichts Fettes #essen." someNumber="180" image="dg\063_003.gif" lang2="И он не должен есть жирную пищу.">
+      <audioTime in="23397" out="25655" />
+    </line>
+    <line lang1="- #Hat er kein Fieber, Herr Doktor?" someNumber="380" image="dg\063_004.gif" lang2="- У него нет температуры, господин доктор?">
+      <audioTime in="25849" out="27811" />
+    </line>
+    <line lang1="- Nein." someNumber="380" image="dg\063_004.gif" lang2="- Нет.">
+      <audioTime in="27811" out="28532" />
+    </line>
+    <line lang1="- #Soll er im Bett #bleiben?" someNumber="890" image="dg\063_004.gif" lang2="- Должен он остаться в постели?">
+      <audioTime in="28533" out="30052" />
+    </line>
+    <line lang1="- Ja." someNumber="890" image="dg\063_004.gif" lang2="- Да.">
+      <audioTime in="30052" out="30790" />
+    </line>
+    <line lang1="Er #soll noch zwei Tage im Bett #bleiben." someNumber="890" image="dg\063_004.gif" lang2="Ему нужно оставаться в постели ещё два дня.">
+      <audioTime in="30790" out="32732" />
+    </line>
+    <line lang1="Er #kann tagsüber zwei Stunden #aufstehen," someNumber="420" image="dg\063_004.gif" lang2="Он может вставать на два часа в течение дня,">
+      <audioTime in="33134" out="35516" />
+    </line>
+    <line lang1="aber im Zimmer #soll es warm #sein." someNumber="960" image="dg\063_004.gif" lang2="но в комнате должно быть тепло.">
+      <audioTime in="35517" out="37638" />
+    </line>
+    <line lang1="- Wo #ist Herr Tobias heute Abend?" someNumber="810" image="dg\063_004.gif" lang2="- Где господин Тобиас сегодня вечером?">
+      <audioTime in="37638" out="39941" />
+    </line>
+    <line lang1="- Er #ist im Bett, Herr Doktor." someNumber="810" image="dg\063_004.gif" lang2="- Он в постели, господин доктор.">
+      <audioTime in="39941" out="41612" />
+    </line>
+    <line lang1="#Können Sie ihn auch #untersuchen?" someNumber="580" image="dg\063_004.gif" lang2="Можете ли вы его также осмотреть?">
+      <audioTime in="41821" out="44202" />
+    </line>
+    <line lang1="Er #hat sich auch stark #erkältet." someNumber="580" image="dg\063_004.gif" lang2="Он тоже сильно простудился.">
+      <audioTime in="44202" out="46189" />
+    </line>
+  </lines>
+</lesson>

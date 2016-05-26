@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="j_032.wav" dlgName="И вчера было холодно" dic="p032" />
+  <lines>
+    <line lang1="ーもしもし、山本*さん*の*お*たく*です*か。" someNumber="15" image="032_001.jpg" lang2="- Алло, это квартира Ямамото?">
+      <audioTime in="0" out="4412" />
+    </line>
+    <line lang1="ーはい、明子*です。" someNumber="167" image="032_002.jpg" lang2="- Да, (говорит) Акико.">
+      <audioTime in="4412" out="6818" />
+    </line>
+    <line lang1="林*くん*です*か。" someNumber="None" image="032_003.jpg" lang2="Хаяси, это ты?">
+      <audioTime in="6770" out="8311" />
+    </line>
+    <line lang1="ーはい。お早よう*ございます。" someNumber="None" image="032_004.jpg" lang2="- Да. Доброе утро.">
+      <audioTime in="8311" out="10626" />
+    </line>
+    <line lang1="ーお早よう*ございます。" someNumber="None" image="032_005.jpg" lang2="- Доброе утро.">
+      <audioTime in="10626" out="12480" />
+    </line>
+    <line lang1="今日*は*天気*が*わるい*です*ね。" someNumber="134" image="032_006.jpg" lang2="Какая сегодня плохая погода, не так ли.">
+      <audioTime in="12480" out="15459" />
+    </line>
+    <line lang1="さむい*です*ね。" someNumber="None" image="032_006.jpg" lang2="Как холодно, правда!">
+      <audioTime in="15459" out="17441" />
+    </line>
+    <line lang1="すごい*雨*です*ね。" someNumber="None" image="032_006.jpg" lang2="Какой ужасный дождь!">
+      <audioTime in="17441" out="19233" />
+    </line>
+    <line lang1="ー昨日*も*さむかった*です*ね。" someNumber="26" image="032_009.jpg" lang2="- И вчера было холодно, правда!">
+      <audioTime in="19233" out="22133" />
+    </line>
+    <line lang1="よる*ゆき*が*ふりました。" someNumber="69" image="032_009.jpg" lang2="Вечером шёл снег.">
+      <audioTime in="22133" out="24330" />
+    </line>
+    <line lang1="かぜ*も*ふきました。" someNumber="None" image="032_011.jpg" lang2="И ветер дул.">
+      <audioTime in="24330" out="25967" />
+    </line>
+    <line lang1="昨日、なぜ*大学*を*やすみました*か。" someNumber="165" image="032_012.jpg" lang2="Почему (ты) вчера пропустила занятия в университете?">
+      <audioTime in="25967" out="29703" />
+    </line>
+    <line lang1="―きのう*びょうき*でした。" someNumber="26" image="032_013.jpg" lang2="- Вчера (я) была больна.">
+      <audioTime in="29703" out="33185" />
+    </line>
+    <line lang1="―なん*の*びょうき*でした*か。" someNumber="None" image="032_014.jpg" lang2="- И что за болезнь?">
+      <audioTime in="33185" out="34931" />
+    </line>
+    <line lang1="―かぜ*を*ひきました。" someNumber="None" image="032_015.jpg" lang2="- Простудилась.">
+      <audioTime in="34931" out="37353" />
+    </line>
+    <line lang1="ねつ*も*ありました。" someNumber="None" image="032_016.jpg" lang2="И температура была.">
+      <audioTime in="37353" out="39097" />
+    </line>
+    <line lang1="ーねつ*は*たかかった*です*か。" someNumber="None" image="032_016.jpg" lang2="- Температура была высокая?">
+      <audioTime in="39097" out="41316" />
+    </line>
+    <line lang1="ーいいえ、あまり*たかく*なかった*です。" someNumber="27" image="032_018.jpg" lang2="- Нет, не очень высокая.">
+      <audioTime in="41316" out="44119" />
+    </line>
+    <line lang1="ーおいしゃさん*に*行きました*か。" someNumber="None" image="032_019.jpg" lang2="- К врачу ходила?">
+      <audioTime in="44119" out="46503" />
+    </line>
+    <line lang1="ーいいえ、行きませんでした。" someNumber="71" image="032_019.jpg" lang2="- Нет, не ходила.">
+      <audioTime in="46503" out="49039" />
+    </line>
+    <line lang1="おいしゃさん*を*家*に*よびました。" someNumber="None" image="032_021.jpg" lang2="Вызвала врача домой.">
+      <audioTime in="49039" out="51650" />
+    </line>
+    <line lang1="ー今*は*どう*です*か。" someNumber="None" image="032_022.jpg" lang2="- А как (ты себя чувствуешь) сейчас?">
+      <audioTime in="51650" out="53659" />
+    </line>
+    <line lang1="ー今日*は*だいじょうぶ*です。" someNumber="None" image="032_023.jpg" lang2="- Сегодня (я) в порядке.">
+      <audioTime in="53659" out="55658" />
+    </line>
+    <line lang1="ゆうべ*くすり*を*のみました。" someNumber="None" image="032_024.jpg" lang2="Вчера вечером выпила лекарство.">
+      <audioTime in="55658" out="58541" />
+    </line>
+  </lines>
+</lesson>

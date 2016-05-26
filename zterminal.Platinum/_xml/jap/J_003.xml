@@ -1,0 +1,113 @@
+<lesson>
+  <header wav="j_003.wav" dlgName="Это карандаш" dic="p003" />
+  <lines>
+    <line lang1="ーこれ*は*なん*です*か。" someNumber="53" image="003_001.jpg" lang2="- Что это?">
+      <audioTime in="0" out="3530" />
+    </line>
+    <line lang1="ーそれ*は*えんぴつ*です。" someNumber="None" image="003_002.jpg" lang2="- Это - карандаш.">
+      <audioTime in="3530" out="6661" />
+    </line>
+    <line lang1="ーこれ*は*なん*です*か。" someNumber="54" image="003_003.jpg" lang2="- Что это?">
+      <audioTime in="6661" out="9388" />
+    </line>
+    <line lang1="ーそれ*は*いす*です。" someNumber="None" image="003_004.jpg" lang2="- Это - стул.">
+      <audioTime in="9388" out="12472" />
+    </line>
+    <line lang1="ーそれ*は*ほん*です*か、ノート*です*か。" someNumber="132" image="003_005.jpg" lang2="- Это книга или тетрадь?">
+      <audioTime in="12472" out="16683" />
+    </line>
+    <line lang1="ーこれ*は*ノート*です。" someNumber="None" image="003_006.jpg" lang2="- Это - тетрадь.">
+      <audioTime in="16683" out="19876" />
+    </line>
+    <line lang1="ーそれ*は*なん*です*か。" someNumber="53" image="003_007.jpg" lang2="- Что это?">
+      <audioTime in="19876" out="23027" />
+    </line>
+    <line lang1="―これ*は*さいふ*です。" someNumber="None" image="003_008.jpg" lang2="- Это - кошелек.">
+      <audioTime in="23027" out="26134" />
+    </line>
+    <line lang1="これ*は*私*の*さいふ*です。" someNumber="03" image="003_008.jpg" lang2="Это мой кошелек.">
+      <audioTime in="26134" out="29412" />
+    </line>
+    <line lang1="ーそれ*は*ほん*です*ね。" someNumber="124" image="003_010.jpg" lang2="- Это - книга, не так ли?">
+      <audioTime in="29412" out="32499" />
+    </line>
+    <line lang1="それ*は*にほんご*の*本*です*か、えいご*の*本*です*か。" someNumber="132" image="003_011.jpg" lang2="Это - книга на японском или на английском языке?">
+      <audioTime in="32499" out="38874" />
+    </line>
+    <line lang1="―これ*は*えいご*の*本*です。" someNumber="None" image="003_011.jpg" lang2="- Это - книга на английским языке.">
+      <audioTime in="38874" out="42588" />
+    </line>
+    <line lang1="―それ*は*やまだ*さん*の*本*です*か。" someNumber="03" image="003_013.jpg" lang2="- Это - книга Ямада-сана?">
+      <audioTime in="42588" out="46612" />
+    </line>
+    <line lang1="ーいいえ、やまだ*さん*の*本*ではありません。" someNumber="None" image="003_013.jpg" lang2="- Нет, это не книга Ямада-сана.">
+      <audioTime in="46612" out="51121" />
+    </line>
+    <line lang1="せんせい*の*本*です。" someNumber="None" image="003_015.jpg" lang2="Это книга учителя.">
+      <audioTime in="51121" out="53474" />
+    </line>
+    <line lang1="ーこれ*は*しゃしん*です。" someNumber="None" image="003_016.jpg" lang2="- Это - фотографии.">
+      <audioTime in="53474" out="56405" />
+    </line>
+    <line lang1="これ*は*男の人*です。" someNumber="162" image="003_016.jpg" lang2="Это - мужчина.">
+      <audioTime in="56405" out="59981" />
+    </line>
+    <line lang1="これ*は*女の人*です。" someNumber="None" image="003_018.jpg" lang2="Это - женщина.">
+      <audioTime in="59981" out="63453" />
+    </line>
+    <line lang1="これ*は*こども*です。" someNumber="None" image="003_019.jpg" lang2="Это - ребёнок.">
+      <audioTime in="63453" out="67132" />
+    </line>
+    <line lang1="男の子*です*か、女の子*です*か。" someNumber="162" image="003_019.jpg" lang2="Это мальчик или девочка?">
+      <audioTime in="67132" out="71140" />
+    </line>
+    <line lang1="ー女の子*です。" someNumber="None" image="003_019.jpg" lang2="- Это - девочка.">
+      <audioTime in="71140" out="74101" />
+    </line>
+    <line lang1="―あれ*は*なん*です*か。" someNumber="53" image="003_022.jpg" lang2="- А что вон то?">
+      <audioTime in="74101" out="77016" />
+    </line>
+    <line lang1="ーあれ*は*ちず*です。" someNumber="None" image="003_023.jpg" lang2="- Вон то - карта.">
+      <audioTime in="77016" out="79994" />
+    </line>
+    <line lang1="ーにほん*の*ちず*です*か。" someNumber="03" image="003_023.jpg" lang2="- Это карта Японии?">
+      <audioTime in="79994" out="82765" />
+    </line>
+    <line lang1="ーいいえ、にほん*の*ちず*ではありません。" someNumber="None" image="003_023.jpg" lang2="- Нет, это не карта Японии.">
+      <audioTime in="82765" out="87542" />
+    </line>
+    <line lang1="ロシア*の*ちず*です。" someNumber="None" image="003_023.jpg" lang2="Это карта России.">
+      <audioTime in="87542" out="89948" />
+    </line>
+    <line lang1="ーあれ*は*なん*です*か。" someNumber="53" image="003_027.jpg" lang2="- А что вон то?">
+      <audioTime in="89948" out="92800" />
+    </line>
+    <line lang1="―どれ*です*か。あれ*です*か。" someNumber="54" image="003_028.jpg" lang2="- Которое? То?">
+      <audioTime in="92800" out="96805" />
+    </line>
+    <line lang1="あれ*は*かばん*です。" someNumber="None" image="003_029.jpg" lang2="То - портфель.">
+      <audioTime in="96805" out="99363" />
+    </line>
+    <line lang1="ーだれ*の*かばん*です*か。" someNumber="03" image="003_030.jpg" lang2="- Чей портфель?">
+      <audioTime in="99363" out="101865" />
+    </line>
+    <line lang1="ーわかりません。私*の*ではありません。" someNumber="73" image="003_030.jpg" lang2="- Не знаю. Это не мой.">
+      <audioTime in="101865" out="107048" />
+    </line>
+    <line lang1="ーあなた*の*かばん*は*どれ*です*か。" someNumber="54" image="003_030.jpg" lang2="А ваш портфель который?">
+      <audioTime in="107048" out="110987" />
+    </line>
+    <line lang1="―私*の*は*これ*です。" someNumber="142" image="003_033.jpg" lang2="- Мой (портфель) - вот этот.">
+      <audioTime in="110987" out="114118" />
+    </line>
+    <line lang1="ーでは、これ*で*おわります。" someNumber="None" image="003_034.jpg" lang2="- Ладно, на этом закончим.">
+      <audioTime in="114118" out="117796" />
+    </line>
+    <line lang1="さようなら。" someNumber="128" image="003_034.jpg" lang2="До свидания.">
+      <audioTime in="117796" out="119698" />
+    </line>
+    <line lang1="ーさようなら、せんせい。" someNumber="15" image="003_036.jpg" lang2="- До свидания, сэнсэй.">
+      <audioTime in="119698" out="122431" />
+    </line>
+  </lines>
+</lesson>

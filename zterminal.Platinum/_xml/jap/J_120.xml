@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="j_120.wav" dlgName="Интервью" dic="p120" />
+  <lines>
+    <line lang1="ーすみません、ちょっと*伺いたい*ん*です*が・・・" someNumber="109" image="120_001.jpg" lang2="- Извините, хотелось бы обратиться к Вам...">
+      <audioTime in="0" out="4303" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="120_001.jpg" lang2="- Пожалуйста.">
+      <audioTime in="4303" out="6167" />
+    </line>
+    <line lang1="ー「読売*新聞」の*世論*調査*です。" someNumber="None" image="120_001.jpg" lang2="- Это опрос общественного мнения газеты &quot;Емиури&quot;.">
+      <audioTime in="6167" out="8579" />
+    </line>
+    <line lang1="奥さん*は*これ*から*どんな*買い物*を*なさいます*か。" someNumber="109" image="120_001.jpg" lang2="Что за покупки Вы изволите сейчас делать ?">
+      <audioTime in="8579" out="12583" />
+    </line>
+    <line lang1="ーお中元*の*品*を*探しております。" someNumber="109" image="120_005.jpg" lang2="- Ищу подарки по случаю праздника Бон.">
+      <audioTime in="12583" out="18215" />
+    </line>
+    <line lang1="ー何人*ぐらい*に*贈る*つもり*です*か。" someNumber="93" image="120_006.jpg" lang2="- Скольким людям, примерно, Вы собираетесь сделать подарки?">
+      <audioTime in="18215" out="21400" />
+    </line>
+    <line lang1="ーええと、神戸*の*親類、" someNumber="None" image="120_007.jpg" lang2="- Таак... родственникам в Кобе,">
+      <audioTime in="21400" out="25011" />
+    </line>
+    <line lang1="お世話*に*なった*２人、主人*の*職場*の*３人、８人*ぐらい*です。" someNumber="None" image="120_008.jpg" lang2="двоим, оказавшим услугу, троим, по месту работы мужа, - всего около 8 человек.">
+      <audioTime in="25011" out="31307" />
+    </line>
+    <line lang1="ー奥さん*は*直接*お中元*を*持って*行かれます*か。" someNumber="109" image="120_009.jpg" lang2="- Вы изволите лично доставлять всем подарки?">
+      <audioTime in="31307" out="35389" />
+    </line>
+    <line lang1="ー直接*は*大変*です*ね。" someNumber="None" image="120_010.jpg" lang2="- Лично - очень трудно, не так ли!">
+      <audioTime in="35389" out="38649" />
+    </line>
+    <line lang1="半分*ぐらい*デパート*に*頼んで*送って*もらう*つもり*です。" someNumber="103" image="120_011.jpg" lang2="Примерно половину собираюсь попросить отослать в универмаге.">
+      <audioTime in="38649" out="42906" />
+    </line>
+    <line lang1="ー奥さん*は*贈り物*を*する*機会*は*多い*です*か。" someNumber="None" image="120_012.jpg" lang2="- Часто ли Вы дарите подарки?">
+      <audioTime in="42906" out="47005" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="120_013.jpg" lang2="- Конечно же!">
+      <audioTime in="47005" out="50005" />
+    </line>
+    <line lang1="子供*の*誕生日、" someNumber="None" image="120_014.jpg" lang2="На дни рождения детей,">
+      <audioTime in="50005" out="52794" />
+    </line>
+    <line lang1="お中元*と*お歳暮。" someNumber="None" image="120_015.jpg" lang2="на праздник Бон и на конец года.">
+      <audioTime in="52794" out="55127" />
+    </line>
+    <line lang1="それ*以外、例えば*結婚、入学、卒業*の*お祝い*が*あります。" someNumber="None" image="120_016.jpg" lang2="Кроме того, например, бывают свадьбы, церемонии поздравления в связи с поступлением в учебные заведения и окончанием их.">
+      <audioTime in="55127" out="61231" />
+    </line>
+    <line lang1="ー普通、どんな*もの*を*贈ります*か。" someNumber="None" image="120_017.jpg" lang2="- Что Вы дарите обычно?">
+      <audioTime in="61231" out="64305" />
+    </line>
+    <line lang1="ー普段*は*日用品*です*ね。" someNumber="174" image="120_018.jpg" lang2="- Обычно это предметы повседневного пользования, не так ли!">
+      <audioTime in="64305" out="68413" />
+    </line>
+    <line lang1="子供*なら、ゲーム、お菓子*が*多い*です。" someNumber="15" image="120_019.jpg" lang2="Детям - часто игры, сладости.">
+      <audioTime in="68413" out="72022" />
+    </line>
+    <line lang1="結婚*の*お祝い*の*よう*な*場合*は*お金*です。" someNumber="106" image="120_020.jpg" lang2="В таких случаях, как, например поздравление на свадьбу - деньги.">
+      <audioTime in="72022" out="75568" />
+    </line>
+    <line lang1="ーどうも*ありがとう*ございました。" someNumber="None" image="120_021.jpg" lang2="- Большое спасибо.">
+      <audioTime in="75568" out="78814" />
+    </line>
+    <line lang1="ーいいえ。" someNumber="None" image="120_022.jpg" lang2="- Пожалуйста.">
+      <audioTime in="78814" out="80446" />
+    </line>
+  </lines>
+</lesson>

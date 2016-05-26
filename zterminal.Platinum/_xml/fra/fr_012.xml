@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="FR_012.wav" dlgName="По дороге в гостиницу" dlgFile="exr\frg012.txt" />
+  <lines>
+    <line lang1="- Et maintenant cherchons un taxi." someNumber="None" image="f.jpg" lang2="- А теперь поищем такси.">
+      <audioTime in="0" out="2671" />
+    </line>
+    <line lang1="- Hé! Taxi! Taxi!" someNumber="None" image="f.jpg" lang2="- Эй! Такси! Такси!">
+      <audioTime in="2671" out="5343" />
+    </line>
+    <line lang1="- Enfin, le voilà!" someNumber="None" image="f.jpg" lang2="- Вот оно, наконец!">
+      <audioTime in="5343" out="8082" />
+    </line>
+    <line lang1="Conduisez-nous à l'Hôtel du Palais-Royal." someNumber="None" image="f.jpg" lang2="Везите нас в гостиницу Пале-Руаяль.">
+      <audioTime in="8082" out="11226" />
+    </line>
+    <line lang1="Passez par la place de l'Opéra." someNumber="None" image="f.jpg" lang2="Поезжайте, через площадь Оперы.">
+      <audioTime in="11226" out="13507" />
+    </line>
+    <line lang1="- Très bien, monsieur." someNumber="None" image="f.jpg" lang2="- Хорошо.">
+      <audioTime in="13507" out="14982" />
+    </line>
+    <line lang1="- Quelle est cette rue que nous traversons maintenant?" someNumber="None" image="f.jpg" lang2="- Что это за улица, которую мы сейчас проезжаем?">
+      <audioTime in="14982" out="18230" />
+    </line>
+    <line lang1="- C'est le boulevard de Strasbourg." someNumber="None" image="f.jpg" lang2="- Это Страсбурский бульвар.">
+      <audioTime in="18230" out="20835" />
+    </line>
+    <line lang1="Et maintenant nous allons passer devant la porte St-Denis. Tenez, la voilà!" someNumber="None" image="f.jpg" lang2="А теперь мы проедем мимо ворот Сен-Дени. Вот они.">
+      <audioTime in="20835" out="26210" />
+    </line>
+    <line lang1="- Ah! J'y suis! Nous passerons ensuite par le boulevard Poissonnière." someNumber="None" image="f.jpg" lang2="- Ах, понимаю. Мы затем проедем через бульвар Пуассоньер.">
+      <audioTime in="26210" out="32012" />
+    </line>
+    <line lang1="- C'est ça, et après par le boulevard Montmartre et la place de l'Opéra." someNumber="None" image="f.jpg" lang2="- Да, а потом через бульвар Монмартр и площадь Оперы.">
+      <audioTime in="32012" out="36781" />
+    </line>
+    <line lang1="- Il faudra réserver un dimanche à la visite des boulevards." someNumber="None" image="f.jpg" lang2="- Надо запланировать на воскресенье экскурсию по бульварам.">
+      <audioTime in="36781" out="41181" />
+    </line>
+    <line lang1="- Bien sûr. Mais voilà l'Hôtel du Palais-Royal." someNumber="None" image="f.jpg" lang2="- Конечно. Ну вот и гостиница Пале-Руаяль.">
+      <audioTime in="41181" out="44834" />
+    </line>
+    <line lang1="Quel est le prix de la course?" someNumber="None" image="f.jpg" lang2="Сколько стоит проезд?">
+      <audioTime in="44834" out="47004" />
+    </line>
+    <line lang1="- 5 francs." someNumber="None" image="f.jpg" lang2="- 5 франков.">
+      <audioTime in="47004" out="48088" />
+    </line>
+    <line lang1="- Voici, monsieur." someNumber="None" image="f.jpg" lang2="- Пожалуйста.">
+      <audioTime in="48088" out="49822" />
+    </line>
+  </lines>
+</lesson>

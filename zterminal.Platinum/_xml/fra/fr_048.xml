@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="FR_048.wav" dlgName="В продуктовом магазине" dlgFile="exr\frg048.txt" />
+  <lines>
+    <line lang1="- Bonjour, monsieur." someNumber="None" image="f.jpg" lang2="- Здравствуйте!">
+      <audioTime in="0" out="1696" />
+    </line>
+    <line lang1="- Bonjour, mademoiselle, que désirez-vous?" someNumber="None" image="f.jpg" lang2="- Здравствуйте, что вам угодно?">
+      <audioTime in="1696" out="5512" />
+    </line>
+    <line lang1="- Donnez-moi une livre de sel, un kilo de farine," someNumber="None" image="f.jpg" lang2="- Дайте мне полкилограмма соли,">
+      <audioTime in="5512" out="10490" />
+    </line>
+    <line lang1="deux kilos de sucre et une barre de savon." someNumber="None" image="f.jpg" lang2="килограмм муки, два килограмма сахара и большой кусок мыла.">
+      <audioTime in="10490" out="15011" />
+    </line>
+    <line lang1="- Est-ce tout, mademoiselle?" someNumber="None" image="f.jpg" lang2="- Это всё, мадемуазель?">
+      <audioTime in="15011" out="16941" />
+    </line>
+    <line lang1="- Oui, merci." someNumber="None" image="f.jpg" lang2="- Да, спасибо.">
+      <audioTime in="16941" out="18547" />
+    </line>
+    <line lang1="- Permettez-moi de vous recommander nos conserves de fruits," someNumber="None" image="f.jpg" lang2="- Позвольте рекомендовать вам наши фруктовые консервы,">
+      <audioTime in="18547" out="22356" />
+    </line>
+    <line lang1="elles sont d'une très bonne qualité." someNumber="None" image="f.jpg" lang2="они очень хорошего качества.">
+      <audioTime in="22356" out="24980" />
+    </line>
+    <line lang1="- Dans ce cas, donnez-moi une boîte de prunes." someNumber="None" image="f.jpg" lang2="- В таком случае, дайте мне одну банку слив.">
+      <audioTime in="24980" out="29152" />
+    </line>
+    <line lang1="- Voilà, mademoiselle." someNumber="None" image="f.jpg" lang2="- Пожалуйста, мадемувзель.">
+      <audioTime in="29152" out="30757" />
+    </line>
+    <line lang1="Voulez-vous autre chose?" someNumber="None" image="f.jpg" lang2="Хотите ещё что-нибудь?">
+      <audioTime in="30757" out="33075" />
+    </line>
+    <line lang1="- Non, merci." someNumber="None" image="f.jpg" lang2="- Нет, спасибо.">
+      <audioTime in="33075" out="34694" />
+    </line>
+    <line lang1="- Alors, voici votre fiche pour la caisse." someNumber="None" image="f.jpg" lang2="- Тогда, вот ваш счет, платите в кассу.">
+      <audioTime in="34694" out="37830" />
+    </line>
+  </lines>
+</lesson>

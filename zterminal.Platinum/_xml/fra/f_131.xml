@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="f_131.wav" dic="p131" dlgName="Отпуск." dlgFile="exr\fg131.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Où passeras-tu tes vacances cette année, Henri?" someNumber="700" image="dg\131_001.gif" lang2="- Где ты проведёшь свой отпуск в этом году, Анри?">
+      <audioTime in="0" out="2368" />
+    </line>
+    <line lang1="- Nous irons peut-être à l'étranger. Je n'en suis pas sûr." someNumber="None" image="dg\131_001.gif" lang2="- Мы, может быть, поедем за границу. Я в этом ещё не уверен.">
+      <audioTime in="2368" out="5317" />
+    </line>
+    <line lang1="Ma femme veut aller en Egypte. Moi aussi, je voudrais y aller." someNumber="780" image="dg\131_001.gif" lang2="Моя жена хочет поехать в Египет. Мне бы тоже хотелось туда поехать.">
+      <audioTime in="5317" out="9026" />
+    </line>
+    <line lang1="Nous n'avons pas encore décidé." someNumber="None" image="dg\131_001.gif" lang2="Мы не решили пока.">
+      <audioTime in="9026" out="10428" />
+    </line>
+    <line lang1="- Voyagerez-vous en bateau ou en avion?" someNumber="None" image="dg\131_001.gif" lang2="- Вы будете путешествовать на корабле или на самолёте?">
+      <audioTime in="10428" out="13440" />
+    </line>
+    <line lang1="- Nous voyagerons en bateau." someNumber="None" image="dg\131_001.gif" lang2="- Мы будем путешествовать на корабле.">
+      <audioTime in="13440" out="15218" />
+    </line>
+    <line lang1="- Ce n'est pas cher, n'est-ce pas?" someNumber="810" image="dg\131_001.gif" lang2="- Это не дорого, не так ли?">
+      <audioTime in="15218" out="17104" />
+    </line>
+    <line lang1="- Ce n'est peut-être pas cher, mais cela prendra beaucoup de temps." someNumber="810" image="dg\131_001.gif" lang2="- Это может быть не дорого, но это займет много времени.">
+      <audioTime in="17104" out="21095" />
+    </line>
+    <line lang1="- Je suis sûr que vous ferez un bon voyage." someNumber="None" image="dg\131_001.gif" lang2="- Я уверен, что вы совершите хорошее путешествие.">
+      <audioTime in="21095" out="23213" />
+    </line>
+    <line lang1="- Peut-être. Mais nous n'irons... peut-être pas." someNumber="None" image="dg\131_001.gif" lang2="- Может быть. Но мы может быть никуда не поедем.">
+      <audioTime in="23213" out="25844" />
+    </line>
+    <line lang1="Ma femme est toujours inquiète." someNumber="350" image="dg\131_001.gif" lang2="Моя жена всегда беспокоится.">
+      <audioTime in="25844" out="27271" />
+    </line>
+    <line lang1="Qui surveillera notre chien? Qui surveillera notre maison?" someNumber="None" image="dg\131_001.gif" lang2="Кто будет смотреть за собакой? Кто будет смотреть за домом?">
+      <audioTime in="27271" out="30779" />
+    </line>
+    <line lang1="Qui surveillera notre jardin?" someNumber="None" image="dg\131_001.gif" lang2="Кто будет смотреть за садом?">
+      <audioTime in="30779" out="32315" />
+    </line>
+    <line lang1="Chaque année les mêmes problèmes." someNumber="None" image="dg\131_001.gif" lang2="Каждый год те же проблемы.">
+      <audioTime in="32315" out="33686" />
+    </line>
+    <line lang1="Et enfin, nous resterons à la maison et nous surveillerons tout nous-mêmes." someNumber="None" image="dg\131_001.gif" lang2="В конце концов, мы останемся дома и будем за всем присматривать сами!">
+      <audioTime in="33686" out="37195" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,38 @@
+<lesson>
+  <header wav="f_125.wav" dic="p125" dlgName="Выпьем чаю." dlgFile="exr\fg125.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Prenons du thé, Pierre?" someNumber="70" image="dg\125_001.gif" lang2="- Выпьем чаю, Пьер?">
+      <audioTime in="0" out="1755" />
+    </line>
+    <line lang1="- Pas maintenant, chérie, je dois arroser le jardin." someNumber="None" image="dg\125_001.gif" lang2="- Не сейчас, дорогая, я должен полить сад.">
+      <audioTime in="1755" out="4623" />
+    </line>
+    <line lang1="- Tu veux l'arroser maintenant?" someNumber="None" image="dg\125_002.gif" lang2="- Ты хочешь его полить сейчас?">
+      <audioTime in="4623" out="6079" />
+    </line>
+    <line lang1="- Oui, regarde! Il est tout sec." someNumber="200" image="dg\125_002.gif" lang2="- Да, посмотри! Он совсем сухой.">
+      <audioTime in="6079" out="7702" />
+    </line>
+    <line lang1="- Quel dommage!" someNumber="None" image="dg\125_003.gif" lang2="- Какая досада!">
+      <audioTime in="7702" out="8906" />
+    </line>
+    <line lang1="- L'année passée tout était sec aussi. Te rappeles-tu? Je l'arrosais chaque jour." someNumber="None" image="dg\125_003.gif" lang2="- Прошлым летом всё тоже было сухо. Ты помнишь? Я поливал его каждый день.">
+      <audioTime in="8906" out="14389" />
+    </line>
+    <line lang1="- Alors, je prendrai mon thé seule." someNumber="700" image="dg\125_004.gif" lang2="- Тогда я выпью чаю одна.">
+      <audioTime in="14389" out="16936" />
+    </line>
+    <line lang1="Comment? Tu as déjà fini?" someNumber="None" image="dg\125_004.gif" lang2="Как? Ты уже закончил?">
+      <audioTime in="16936" out="18728" />
+    </line>
+    <line lang1="- Oui, chérie. Regarde par la fenêtre." someNumber="810" image="dg\125_005.gif" lang2="- Да, дорогая. Посмотри в окно.">
+      <audioTime in="18728" out="20686" />
+    </line>
+    <line lang1="- Dieu merci! Il pleut! Donc, tu n'arroseras pas le jardin." someNumber="None" image="dg\125_005.gif" lang2="- Слава Богу! Идёт дождь. Значит, ты не будешь поливать сад.">
+      <audioTime in="20686" out="25918" />
+    </line>
+    <line lang1="- C'était une surprise. Donc nous prendrons le thé ensemble." someNumber="None" image="dg\125_005.gif" lang2="- Это был сюрприз. Значит, мы выпьем чаю вместе.">
+      <audioTime in="25918" out="29219" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="f_127.wav" dic="p127" dlgName="Он четвёртый или пятый." dlgFile="exr\fg127.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Reconnais-tu cette femme, Nicole?" someNumber="470" image="dg\127_001.gif" lang2="- Ты узнаешь эту женщину, Николь?">
+      <audioTime in="0" out="1920" />
+    </line>
+    <line lang1="- Je la reconnais, Catherine. C'est Michèle Sagan, actrice, je crois." someNumber="None" image="dg\127_001.gif" lang2="- Я её узнаю, Катрин. Это Мишель Саган, актриса, я думаю.">
+      <audioTime in="1920" out="6647" />
+    </line>
+    <line lang1="- Moi aussi je crois. Mais, tiens, qui est à côté d'elle?" someNumber="None" image="dg\127_001.gif" lang2="- Я тоже (так) думаю. Но посмотри-ка, кто это около неё?">
+      <audioTime in="6647" out="11166" />
+    </line>
+    <line lang1="- Il me semble que c'est Gerard Dupont." someNumber="None" image="dg\127_001.gif" lang2="- Мне кажется, что это Жерар Дюпон.">
+      <audioTime in="11166" out="13088" />
+    </line>
+    <line lang1="- Gerard Dupont, acteur? Pas possible!" someNumber="None" image="dg\127_001.gif" lang2="- Жерар Дюпон, актёр? Не может быть!">
+      <audioTime in="13088" out="16323" />
+    </line>
+    <line lang1="Je vais voir. Je crois que tu as raison." someNumber="None" image="dg\127_001.gif" lang2="Я сейчас посмотрю. Я думаю, что ты права.">
+      <audioTime in="16323" out="19194" />
+    </line>
+    <line lang1="Est-il son troisième mari?" someNumber="None" image="dg\127_001.gif" lang2="Он её третий муж?">
+      <audioTime in="19194" out="20634" />
+    </line>
+    <line lang1="- Il est le quatrième ou le cinquième." someNumber="None" image="dg\127_001.gif" lang2="- Он её четвёртый или пятый.">
+      <audioTime in="20634" out="22659" />
+    </line>
+    <line lang1="- Mais elle, elle est assez vieille!" someNumber="None" image="dg\127_001.gif" lang2="- Но она довольно старая!">
+      <audioTime in="22659" out="25387" />
+    </line>
+    <line lang1="- Oui, c'est vrai." someNumber="None" image="dg\127_001.gif" lang2="- Да, это правда.">
+      <audioTime in="25387" out="26451" />
+    </line>
+    <line lang1="- On dit qu'elle a 29 ans, mais on peut dire aussi qu'elle en a 40." someNumber="None" image="dg\127_001.gif" lang2="- Говорят, ей 29 лет, но можно сказать, что ей 40.">
+      <audioTime in="26451" out="30554" />
+    </line>
+    <line lang1="- Je suis sûre qu'elle a 40 ans." someNumber="None" image="dg\127_001.gif" lang2="- Я уверена, что ей 40 лет.">
+      <audioTime in="30554" out="32370" />
+    </line>
+    <line lang1="- Elle était déjà une célèbre actrice quand j'étais à l'école." someNumber="780" image="dg\127_001.gif" lang2="- Она уже была знаменитой актрисой, когда я была в школе.">
+      <audioTime in="32370" out="35396" />
+    </line>
+    <line lang1="- C'était déjà il y a longtemps." someNumber="None" image="dg\127_001.gif" lang2="- Это было давно.">
+      <audioTime in="35396" out="37005" />
+    </line>
+    <line lang1="- Pas si longtemps. Moi aussi j'ai 29 ans." someNumber="None" image="dg\127_001.gif" lang2="- Не так давно. Мне тоже 29 лет.">
+      <audioTime in="37005" out="39861" />
+    </line>
+  </lines>
+</lesson>

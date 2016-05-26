@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="J_018.wav" dlgName="Времена года" dic="p018" />
+  <lines>
+    <line lang1="ーこれ*は*カレンダー*です。一月*から*十二月*まで*です。" someNumber="40" image="018_001.jpg" lang2="- Это календарь. Он с января по декабрь.">
+      <audioTime in="0" out="8061" />
+    </line>
+    <line lang1="きせつ*は*四つ*あります。" someNumber="None" image="018_002.jpg" lang2="Времен года - четыре.">
+      <audioTime in="8061" out="12365" />
+    </line>
+    <line lang1="三月、四月、五月*は*はる*です。" someNumber="40" image="018_003.jpg" lang2="Март, апрель, май - весна.">
+      <audioTime in="12365" out="18707" />
+    </line>
+    <line lang1="六月、七月、八月*は*なつ*です。" someNumber="None" image="018_004.jpg" lang2="Июнь, июль, август - лето.">
+      <audioTime in="18707" out="24669" />
+    </line>
+    <line lang1="九月、十月、十一月*は*あき*です。" someNumber="None" image="018_005.jpg" lang2="Сентябрь, октябрь, ноябрь - осень.">
+      <audioTime in="24669" out="31500" />
+    </line>
+    <line lang1="十二月、一月、二月*は*ふゆ*です。" someNumber="None" image="018_006.jpg" lang2="Декабрь, январь, февраль - зима.">
+      <audioTime in="31500" out="38239" />
+    </line>
+    <line lang1="なつ*は*あつい*です。" someNumber="None" image="018_007.jpg" lang2="Лето жаркое.">
+      <audioTime in="38239" out="42669" />
+    </line>
+    <line lang1="あき*は*すずしい*です。" someNumber="None" image="018_008.jpg" lang2="Осень прохладная.">
+      <audioTime in="42669" out="46516" />
+    </line>
+    <line lang1="ふゆ*は*さむい*です。" someNumber="None" image="018_009.jpg" lang2="Зима холодная.">
+      <audioTime in="46516" out="50145" />
+    </line>
+    <line lang1="はる*は*あたたかい*です。" someNumber="None" image="018_010.jpg" lang2="Весна теплая.">
+      <audioTime in="50145" out="54070" />
+    </line>
+    <line lang1="―日本*の*なつ*は*あつい*です*か。" someNumber="None" image="018_011.jpg" lang2="- Жарко ли летом в Японии?">
+      <audioTime in="54070" out="59038" />
+    </line>
+    <line lang1="ー東京*は*あつくて、ほっかいどう*は*あまり*あつく*ありません。" someNumber="148" image="018_012.jpg" lang2="- В Токио жарко, но на Хоккайдо не очень жарко.">
+      <audioTime in="59038" out="66794" />
+    </line>
+    <line lang1="―ほっかいどう*は*いい*です*ね。" someNumber="134" image="018_013.jpg" lang2="- На Хоккайдо наверное хорошо!">
+      <audioTime in="66794" out="71068" />
+    </line>
+    <line lang1="―ほっかいどう*の*なつ*は*すずしくて、" someNumber="23" image="018_014.jpg" lang2="- На Хоккайдо лето прохладное,">
+      <audioTime in="71068" out="74771" />
+    </line>
+    <line lang1="ふゆ*は*とても*さむい*です。" someNumber="None" image="018_015.jpg" lang2="но зима очень холодная.">
+      <audioTime in="74771" out="77891" />
+    </line>
+    <line lang1="ーいちばん*さむい*の*は*いつ*ごろ*です*か。" someNumber="43" image="018_016.jpg" lang2="- А примерно когда холоднее всего?">
+      <audioTime in="77891" out="82654" />
+    </line>
+    <line lang1="ー二月*が*いちばん*さむい*です。" someNumber="28" image="018_016.jpg" lang2="- Холоднее всего в феврале.">
+      <audioTime in="82654" out="86633" />
+    </line>
+    <line lang1="ーいちばん*あつい*の*は*いつ*ごろ*です*か。" someNumber="None" image="018_018.jpg" lang2="- Примерно когда жарче всего?">
+      <audioTime in="86633" out="91918" />
+    </line>
+    <line lang1="ー八月*が*いちばん*あつい*です。" someNumber="None" image="018_018.jpg" lang2="- Жарче всего в августе.">
+      <audioTime in="91918" out="96256" />
+    </line>
+    <line lang1="―おたんじょうび*は*いつ*です*か。" someNumber="15" image="018_020.jpg" lang2="- Когда Ваш день рождения?">
+      <audioTime in="96256" out="100815" />
+    </line>
+    <line lang1="ー四月*です。" someNumber="None" image="018_020.jpg" lang2="- В апреле.">
+      <audioTime in="100815" out="103476" />
+    </line>
+    <line lang1="―日本*の*四月*は*きれい*です*か。" someNumber="None" image="018_022.jpg" lang2="- Красиво ли в Японии в апреле?">
+      <audioTime in="103476" out="107308" />
+    </line>
+    <line lang1="―とても*きれい*です。" someNumber="112" image="018_022.jpg" lang2="- Очень красиво.">
+      <audioTime in="107308" out="109615" />
+    </line>
+  </lines>
+</lesson>

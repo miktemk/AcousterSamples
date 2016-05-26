@@ -1,0 +1,86 @@
+<lesson>
+  <header wav="FR_028.wav" dlgName="В Ремсе" dlgFile="exr\frg028.txt" />
+  <lines>
+    <line lang1="- Enfin, nous voici devant la belle cathédrale de Reims!" someNumber="None" image="f.jpg" lang2="- Ну вот, наконец, мы перед прекрасным собором Ремса!">
+      <audioTime in="0" out="4339" />
+    </line>
+    <line lang1="- Allons nous joindre à ce groupe de touristes, ils ont un guide." someNumber="None" image="f.jpg" lang2="- Присоединимся к этой группе туристов, у них есть экскурсовод.">
+      <audioTime in="4339" out="9351" />
+    </line>
+    <line lang1="- Bonjour, mesdames et messieurs." someNumber="None" image="f.jpg" lang2="- Здравствуйте, дамы и господа.">
+      <audioTime in="9351" out="11912" />
+    </line>
+    <line lang1="Approchez-vous un peu." someNumber="None" image="f.jpg" lang2="Подойдите немного ближе.">
+      <audioTime in="11912" out="14066" />
+    </line>
+    <line lang1="La cathédrale que vous voyez a été démolie et brûlée en partie pendant la guerre de 1914-1918." someNumber="None" image="f.jpg" lang2="Собор, который вы видите, был частично разрушен и сожжен во время войны 1914-1918.">
+      <audioTime in="14066" out="23708" />
+    </line>
+    <line lang1="On peut lire l'histoire de ce monument dans la pierre et dans les sculptures qui le décorent." someNumber="None" image="f.jpg" lang2="Историю этого памятника можно прочесть на камнях и скульптурах, которые его украшают.">
+      <audioTime in="23708" out="30144" />
+    </line>
+    <line lang1="Voyez-vous là-bas cet ange en pierre?" someNumber="None" image="f.jpg" lang2="Видите ли вы там этого ангела из камня?">
+      <audioTime in="30144" out="33849" />
+    </line>
+    <line lang1="Il rit, n'est-ce pas?" someNumber="None" image="f.jpg" lang2="Он смеется, правда?">
+      <audioTime in="33849" out="35576" />
+    </line>
+    <line lang1="- Non, mesdames et messieurs, les anges ne rient pas, les anges sourient" someNumber="None" image="f.jpg" lang2="- Нет, дамы и господа, ангелы не смеются, ангелы улыбаются,">
+      <audioTime in="35576" out="41488" />
+    </line>
+    <line lang1="et s'est parce que notre ange sourit qu'on l'appelle le &quot;Sourire de Reims&quot;." someNumber="None" image="f.jpg" lang2="и так как наш ангел улыбается, его называют &quot;Сурир де Ремс&quot;.">
+      <audioTime in="41488" out="46124" />
+    </line>
+    <line lang1="- Ah, quelle belle dentelle de pierre!" someNumber="None" image="f.jpg" lang2="- Ах, какое замечательное кружево из камня!">
+      <audioTime in="46124" out="49409" />
+    </line>
+    <line lang1="- Oui, mademoiselle, les sculpteurs du moyen-âge savaient bien manier leurs outils." someNumber="None" image="f.jpg" lang2="- Да, мадемуазель, скульпторы средних веков умело пользовались своими инструментами.">
+      <audioTime in="49409" out="54746" />
+    </line>
+    <line lang1="Mais le beau vient avant tout du cœur et de l'esprit," someNumber="None" image="f.jpg" lang2="Но красота зависит, прежде всего, от сердца и ума,">
+      <audioTime in="54746" out="58104" />
+    </line>
+    <line lang1="les moyens ne jouent qu'un rôle de deuxième ordre." someNumber="None" image="f.jpg" lang2="орудия производства играют только второстепенную роль.">
+      <audioTime in="58104" out="61373" />
+    </line>
+    <line lang1="- Viens, on va faire quelques photos." someNumber="None" image="f.jpg" lang2="- Идем, сделаем несколько фотографий.">
+      <audioTime in="61373" out="65723" />
+    </line>
+    <line lang1="- Tu as raison, je n'aime pas beaucoup les explications des guides." someNumber="None" image="f.jpg" lang2="- Ты прав, я не очень люблю объяснения экскурсоводов.">
+      <audioTime in="65723" out="69680" />
+    </line>
+    <line lang1="- Mais, mon Dieu, j'ai complètement oublié de prendre mon appareil." someNumber="None" image="f.jpg" lang2="- Но, боже мой, я совершенно забыл взять свой фотоаппарат.">
+      <audioTime in="69680" out="74349" />
+    </line>
+    <line lang1="- Mais non, tu l'as laissé dans l'autocar." someNumber="None" image="f.jpg" lang2="- Нет, ты его оставил в автобусе.">
+      <audioTime in="74349" out="77167" />
+    </line>
+    <line lang1="- A la bonne heure!" someNumber="None" image="f.jpg" lang2="- К счастью!">
+      <audioTime in="77167" out="78274" />
+    </line>
+    <line lang1="- Eh bien, maintenant, allons visiter l'intérieur de la cathédrale." someNumber="None" image="f.jpg" lang2="- Давайте теперь пойдём осмотрим собор изнутри.">
+      <audioTime in="78274" out="82687" />
+    </line>
+    <line lang1="- Attends encore un instant, je vais éteindre ma cigarette." someNumber="None" image="f.jpg" lang2="- Подожди минутку, я потушу свою папиросу.">
+      <audioTime in="82687" out="86998" />
+    </line>
+    <line lang1="Là, c'est fait. Allons-y." someNumber="None" image="f.jpg" lang2="Готово. Идем туда.">
+      <audioTime in="86998" out="89982" />
+    </line>
+    <line lang1="Seulement, ne parlons pas trop fort." someNumber="None" image="f.jpg" lang2="Только не говорите слишком громко.">
+      <audioTime in="89982" out="92543" />
+    </line>
+    <line lang1="- Et ne touchons à rien." someNumber="None" image="f.jpg" lang2="- И ничего не трогайте.">
+      <audioTime in="92543" out="94129" />
+    </line>
+    <line lang1="- Toi, tu plaisantes toujours." someNumber="None" image="f.jpg" lang2="- Ты всегда шутишь.">
+      <audioTime in="94129" out="96344" />
+    </line>
+    <line lang1="Mais faisons vite." someNumber="None" image="f.jpg" lang2="Но надо торопиться.">
+      <audioTime in="96344" out="97881" />
+    </line>
+    <line lang1="Il nous reste encore à visiter les caves de M. Heidsieck." someNumber="None" image="f.jpg" lang2="Ещё осталось посетить погреба господина Хейдсика.">
+      <audioTime in="97881" out="102420" />
+    </line>
+  </lines>
+</lesson>

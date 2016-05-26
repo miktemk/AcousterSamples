@@ -1,0 +1,62 @@
+<lesson>
+  <header wav="i_075.wav" dic="p075" dlgName="В обувном магазине." dlgFile="exr\ig075.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Avete scarpe di questo tipo?" someNumber="None" image="dg\075_001.gif" lang2="- У Вас есть такие туфли?">
+      <audioTime in="59" out="2052" />
+    </line>
+    <line lang1="- Qual è la Sua misura?" someNumber="None" image="dg\075_001.gif" lang2="- Какого размера?">
+      <audioTime in="2145" out="3873" />
+    </line>
+    <line lang1="- Porto trentacinque." someNumber="220" image="dg\075_001.gif" lang2="- Тридцать пятого размера.">
+      <audioTime in="3873" out="5721" />
+    </line>
+    <line lang1="- Di che colore?" someNumber="None" image="dg\075_001.gif" lang2="- Какого цвета?">
+      <audioTime in="5721" out="6973" />
+    </line>
+    <line lang1="- Nero." someNumber="None" image="dg\075_001.gif" lang2="- Чёрного.">
+      <audioTime in="6928" out="7876" />
+    </line>
+    <line lang1="- Purtroppo non ce le abbiamo." someNumber="None" image="dg\075_001.gif" lang2="- Извините, у нас нет.">
+      <audioTime in="7985" out="9833" />
+    </line>
+    <line lang1="- Ma mia sorella ha comprato questo paio un mese fa." someNumber="None" image="dg\075_001.gif" lang2="- Но моя сестра купила эту пару в прошлом месяце.">
+      <audioTime in="9938" out="13111" />
+    </line>
+    <line lang1="- Lei lo ha comprato qui?" someNumber="None" image="dg\075_001.gif" lang2="- Она их здесь купила?">
+      <audioTime in="13170" out="14839" />
+    </line>
+    <line lang1="- No, negli USA." someNumber="None" image="dg\075_001.gif" lang2="- Нет, она купила их в США.">
+      <audioTime in="14720" out="16508" />
+    </line>
+    <line lang1="- Un mese fa c'erano delle scarpe di questo tipo," someNumber="None" image="dg\075_001.gif" lang2="- У нас были такие туфли месяц назад,">
+      <audioTime in="16567" out="19547" />
+    </line>
+    <line lang1="ma adesso non ce l'abbiamo." someNumber="None" image="dg\075_001.gif" lang2="но сейчас у нас таких нет.">
+      <audioTime in="19548" out="21444" />
+    </line>
+    <line lang1="- Potrebbe ordinarne un paio per me?" someNumber="None" image="dg\075_001.gif" lang2="- Не могли бы Вы найти пару для меня?">
+      <audioTime in="21514" out="23720" />
+    </line>
+    <line lang1="- Mi dispiace." someNumber="None" image="dg\075_001.gif" lang2="- Боюсь, что нет.">
+      <audioTime in="23838" out="25329" />
+    </line>
+    <line lang1="Erano di moda l'anno scorso, e due anni fa." someNumber="None" image="dg\075_001.gif" lang2="Они были в моде в прошлом году и в позапрошлом году.">
+      <audioTime in="25269" out="27951" />
+    </line>
+    <line lang1="Ma quest'anno non sono più di moda." someNumber="None" image="dg\075_001.gif" lang2="Но в этом году они не в моде.">
+      <audioTime in="28011" out="30216" />
+    </line>
+    <line lang1="Ecco le scarpe che sono di moda adesso." someNumber="380" image="dg\075_002.gif" lang2="Сейчас в моде вот эти туфли.">
+      <audioTime in="30275" out="32837" />
+    </line>
+    <line lang1="- Mi sembrano scomode." someNumber="None" image="dg\075_002.gif" lang2="- На вид они очень неудобны.">
+      <audioTime in="32897" out="34625" />
+    </line>
+    <line lang1="- In effetti sono molto scomode." someNumber="None" image="dg\075_002.gif" lang2="- Они действительно очень неудобны.">
+      <audioTime in="34745" out="36890" />
+    </line>
+    <line lang1="Ma le donne portano sempre scarpe scomode!" someNumber="190" image="dg\075_002.gif" lang2="Но ведь женщины всегда носят неудобные туфли!">
+      <audioTime in="36950" out="39573" />
+    </line>
+  </lines>
+</lesson>

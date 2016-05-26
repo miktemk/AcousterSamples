@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_096.wav" dic="p096" dlgName="Я ездил в... А как Вы?" dlgFile="exr\ig095.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Io sono stato ad Accra un anno fa." someNumber="None" image="dg\096_001.gif" lang2="- Я ездил в Аккру год тому назад.">
+      <audioTime in="0" out="2504" />
+    </line>
+    <line lang1="E Lei?" someNumber="None" image="dg\096_001.gif" lang2="А как Вы?">
+      <audioTime in="2504" out="3633" />
+    </line>
+    <line lang1="- Io partirò per Accra fra un anno." someNumber="None" image="dg\096_001.gif" lang2="- Я поеду в Аккру через год.">
+      <audioTime in="3593" out="5989" />
+    </line>
+    <line lang1="- Paolo è volato a Stoccolma due settimane fa." someNumber="None" image="dg\096_002.gif" lang2="- Паоло улетел в Стокгольм две недели тому назад.">
+      <audioTime in="6098" out="9319" />
+    </line>
+    <line lang1="E Maria?" someNumber="None" image="dg\096_002.gif" lang2="А как Мария?">
+      <audioTime in="9184" out="10178" />
+    </line>
+    <line lang1="- Lei volerà a Stoccolma fra due settimane." someNumber="None" image="dg\096_002.gif" lang2="- Она полетит в Стокгольм через две недели.">
+      <audioTime in="10172" out="12958" />
+    </line>
+    <line lang1="- Franco ed Alessio sono ritornati da Tokio due giorni fa." someNumber="820" image="dg\096_003.gif" lang2="- Франко и Алессио возвратились в Токио два дня тому назад.">
+      <audioTime in="12849" out="16841" />
+    </line>
+    <line lang1="E Lei e Francesco?" someNumber="None" image="dg\096_003.gif" lang2="А как Вы и Франческо?">
+      <audioTime in="16787" out="18402" />
+    </line>
+    <line lang1="- Noi torneremo a Tokio fra due giorni." someNumber="810" image="dg\096_003.gif" lang2="- Мы возвратимся в Токио через два дня.">
+      <audioTime in="18384" out="20799" />
+    </line>
+    <line lang1="- Voi siete partiti per Sidney un mese fa." someNumber="None" image="dg\096_004.gif" lang2="- Вы ездили в Сидней месяц тому назад.">
+      <audioTime in="20689" out="23847" />
+    </line>
+    <line lang1="Ed io?" someNumber="None" image="dg\096_004.gif" lang2="А как я?">
+      <audioTime in="23758" out="24796" />
+    </line>
+    <line lang1="- Lei partirà per Sidney fra un mese." someNumber="None" image="dg\096_004.gif" lang2="- Вы поедете в Сидней через месяц.">
+      <audioTime in="24726" out="27658" />
+    </line>
+    <line lang1="- Il treno è partito per Ginevra un'ora fa." someNumber="None" image="dg\096_005.gif" lang2="- Поезд отправился в Женеву час тому назад.">
+      <audioTime in="27658" out="30598" />
+    </line>
+    <line lang1="Quando ci sarà il prossimo treno?" someNumber="None" image="dg\096_005.gif" lang2="А когда будет следующий поезд?">
+      <audioTime in="30471" out="32777" />
+    </line>
+    <line lang1="- Il prossimo per Ginevra parte fra un'ora." someNumber="None" image="dg\096_005.gif" lang2="- Он отправится в Женеву через час.">
+      <audioTime in="32649" out="35499" />
+    </line>
+    <line lang1="- Elisa è volata a Teheran due giorni fa." someNumber="None" image="dg\096_006.gif" lang2="- Элиза улетела в Тегеран два дня тому назад.">
+      <audioTime in="35458" out="38993" />
+    </line>
+    <line lang1="E Lei?" someNumber="None" image="dg\096_006.gif" lang2="А как Вы?">
+      <audioTime in="39054" out="39832" />
+    </line>
+    <line lang1="- Io volerò a Teheran fra due giorni." someNumber="None" image="dg\096_006.gif" lang2="- Я вылечу в Тегеран через два дня.">
+      <audioTime in="39832" out="42529" />
+    </line>
+    <line lang1="- Paolo e Maria sono partiti per Londra un'ora fa." someNumber="None" image="dg\096_007.gif" lang2="- Паоло и Мария уехали в Лондон час тому назад.">
+      <audioTime in="42603" out="45910" />
+    </line>
+    <line lang1="E Lei e Gianna?" someNumber="None" image="dg\096_007.gif" lang2="А как Вы и Джанна?">
+      <audioTime in="45945" out="47545" />
+    </line>
+    <line lang1="- Noi partiremo per Londra fra un'ora." someNumber="None" image="dg\096_007.gif" lang2="- Мы поедем в Лондон через час.">
+      <audioTime in="47536" out="50106" />
+    </line>
+    <line lang1="- L'aereo è volato a Berlino tre ore fa." someNumber="None" image="dg\096_008.gif" lang2="- Самолёт вылетел в Берлин три часа тому назад.">
+      <audioTime in="50077" out="52705" />
+    </line>
+    <line lang1="Quando partirà il prossimo aereo?" someNumber="None" image="dg\096_008.gif" lang2="А когда вылетает следующий самолёт?">
+      <audioTime in="52683" out="54802" />
+    </line>
+    <line lang1="- Il prossimo per Berlino partirà fra tre ore." someNumber="None" image="dg\096_008.gif" lang2="- Он вылетит в Берлин через три часа.">
+      <audioTime in="54965" out="57983" />
+    </line>
+    <line lang1="- Il signor Lo Gatto è tornato da New-York un anno fa." someNumber="None" image="dg\096_009.gif" lang2="- Господин Ло Гатто возвратился в Нью-Йорк год тому назад.">
+      <audioTime in="58059" out="61730" />
+    </line>
+    <line lang1="E il signor Forte?" someNumber="None" image="dg\096_009.gif" lang2="А господин Форте?">
+      <audioTime in="61730" out="63304" />
+    </line>
+    <line lang1="- Lui tornerà da New-York fra un anno." someNumber="None" image="dg\096_009.gif" lang2="- Он возвратится в Нью-Йорк через год.">
+      <audioTime in="63333" out="65897" />
+    </line>
+    <line lang1="- Gianna è tornata da Parigi sei settimane fa." someNumber="None" image="dg\096_010.gif" lang2="- Джанна возвратилась из Парижа шесть недель тому назад.">
+      <audioTime in="65939" out="69044" />
+    </line>
+    <line lang1="E suo marito?" someNumber="None" image="dg\096_010.gif" lang2="А как её муж?">
+      <audioTime in="69089" out="70326" />
+    </line>
+    <line lang1="- Lui tornerà da Parigi fra sei mesi." someNumber="None" image="dg\096_010.gif" lang2="- Он возвратится из Парижа через шесть месяцев.">
+      <audioTime in="70326" out="72715" />
+    </line>
+  </lines>
+</lesson>

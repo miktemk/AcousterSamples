@@ -1,0 +1,113 @@
+<lesson>
+  <header wav="j_061.wav" dlgName="Какие строгие правила!" dic="p061" />
+  <lines>
+    <line lang1="―山本*です。入って*も*いい*です*か。" someNumber="None" image="061_001.jpg" lang2="- Меня зовут Ямамото. Можно войти?">
+      <audioTime in="0" out="4298" />
+    </line>
+    <line lang1="ーどうぞ、山本*さん、お*入り*下さい。" someNumber="None" image="061_002.jpg" lang2="- Пожалуйста. Ямамото-сан, проходите пожалуйста.">
+      <audioTime in="4298" out="7776" />
+    </line>
+    <line lang1="部屋*を*見*に*来ました*か。" someNumber="04" image="061_002.jpg" lang2="Пришли посмотреть комнату?">
+      <audioTime in="7776" out="10383" />
+    </line>
+    <line lang1="ーそう*です。今、見て*も*いい*です*か。" someNumber="090" image="061_004.jpg" lang2="- Да. Можно посмотреть сейчас?">
+      <audioTime in="10383" out="14607" />
+    </line>
+    <line lang1="ーええ、いい*です*よ。行きましょう。" someNumber="None" image="061_005.jpg" lang2="- Да. Можно. Пойдём.">
+      <audioTime in="14607" out="17439" />
+    </line>
+    <line lang1="―しずか*で*いい*所*です*ね。" someNumber="None" image="061_006.jpg" lang2="- Какое тихое и хорошее место!">
+      <audioTime in="17439" out="21767" />
+    </line>
+    <line lang1="鳥*の*鳴き*声*も*聞こえています。" someNumber="None" image="061_006.jpg" lang2="И пение птиц слышно.">
+      <audioTime in="21767" out="24536" />
+    </line>
+    <line lang1="部屋*で*タバコ*を*吸って*も*いい*です*か。" someNumber="None" image="061_008.jpg" lang2="В комнате можно курить?">
+      <audioTime in="24536" out="28836" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="061_009.jpg" lang2="- Да.">
+      <audioTime in="28836" out="29609" />
+    </line>
+    <line lang1="あなた*の*部屋*の*中*で*は*吸っても*かまいません。" someNumber="None" image="061_010.jpg" lang2="В своей комнате курить можно.">
+      <audioTime in="29609" out="32895" />
+    </line>
+    <line lang1="でも、ろうか*で*吸って*は*いけません。" someNumber="None" image="061_011.jpg" lang2="Но в коридоре курить нельзя.">
+      <audioTime in="32895" out="36051" />
+    </line>
+    <line lang1="ー明かるい*部屋*です*ね。" someNumber="None" image="061_012.jpg" lang2="- Какая светлая комната!">
+      <audioTime in="36051" out="38813" />
+    </line>
+    <line lang1="ここ*で*ねこ*を*かって*も*いい*です*か。" someNumber="090" image="061_013.jpg" lang2="Можно ли здесь держать кошку?">
+      <audioTime in="38813" out="41888" />
+    </line>
+    <line lang1="ーいいえ。" someNumber="None" image="061_014.jpg" lang2="- Нет.">
+      <audioTime in="41888" out="42649" />
+    </line>
+    <line lang1="ちょっと*りょう*の*きそく*を*説明します。" someNumber="None" image="061_014.jpg" lang2="(Я) объясню (Вам) правила общежития.">
+      <audioTime in="42649" out="46191" />
+    </line>
+    <line lang1="ねこ*も*犬*も*かって*は*いけません。" someNumber="None" image="061_016.jpg" lang2="Нельзя держать ни кошек, ни собак.">
+      <audioTime in="46191" out="49550" />
+    </line>
+    <line lang1="それ*から*遅く*まで*さわい*で*は*いけません。" someNumber="None" image="061_017.jpg" lang2="Кроме того, нельзя шуметь допоздна.">
+      <audioTime in="49550" out="53704" />
+    </line>
+    <line lang1="１２時*すぎ*に*帰って*は*いけません。" someNumber="None" image="061_017.jpg" lang2="Нельзя возвращаться позже 12 часов.">
+      <audioTime in="53704" out="57768" />
+    </line>
+    <line lang1="ーきそく*は*きびしい*です*ね。" someNumber="None" image="061_019.jpg" lang2="- Какие строгие правила!">
+      <audioTime in="57768" out="61236" />
+    </line>
+    <line lang1="ーそう*で*も*ありません。" someNumber="None" image="061_019.jpg" lang2="- Это не так.">
+      <audioTime in="61236" out="62629" />
+    </line>
+    <line lang1="カラオケ*の*部屋*が*あります*から、" someNumber="None" image="061_021.jpg" lang2="Есть комната для караокэ,">
+      <audioTime in="62629" out="65232" />
+    </line>
+    <line lang1="そこ*で*は*遅く*まで*さわい*で*も*いい*です。" someNumber="None" image="061_022.jpg" lang2="и там можно шуметь допоздна.">
+      <audioTime in="65232" out="67873" />
+    </line>
+    <line lang1="ーこの*せんたく機*を*使って*も*いい*です*か。" someNumber="None" image="061_023.jpg" lang2="- Можно пользоваться этими стиральными машинами?">
+      <audioTime in="67873" out="72479" />
+    </line>
+    <line lang1="ー各かい*に*せんたく機*が*あります。" someNumber="None" image="061_023.jpg" lang2="- На каждом этаже есть стиральные машины.">
+      <audioTime in="72479" out="76930" />
+    </line>
+    <line lang1="どれ*も*自由*に*使って*ください。" someNumber="None" image="061_023.jpg" lang2="Можете свободно пользоваться любой.">
+      <audioTime in="76860" out="79516" />
+    </line>
+    <line lang1="ーそうじ機*も*使って*も*いい*です*か。" someNumber="None" image="061_026.jpg" lang2="- Можно пользоваться также пылесосом?">
+      <audioTime in="79516" out="84672" />
+    </line>
+    <line lang1="ーはい、そうじ機*も*自由*に*使って*下さい。" someNumber="None" image="061_026.jpg" lang2="- Да. Можете свободно пользоваться также пылесосом.">
+      <audioTime in="84672" out="88030" />
+    </line>
+    <line lang1="ーごみ*を*そこ*に*すてて*も*いい*です*か。" someNumber="None" image="061_028.jpg" lang2="- Можно ли выбрасывать сюда мусор?">
+      <audioTime in="88030" out="92527" />
+    </line>
+    <line lang1="ーもえる*ごみ*は*その*ごみばこ*に*すてて*下さい。" someNumber="None" image="061_029.jpg" lang2="- Горючий мусор выбрасывайте сюда.">
+      <audioTime in="92527" out="96585" />
+    </line>
+    <line lang1="もえない*ごみ*は*ここ*に*すてて*は*いけません。" someNumber="None" image="061_029.jpg" lang2="Негорючий мусор сюда выбрасывать нельзя.">
+      <audioTime in="96585" out="100236" />
+    </line>
+    <line lang1="ろうか*に*ある*ごみばこ*に*すてて*下さい。" someNumber="None" image="061_031.jpg" lang2="Выбрасывайте (его) в мусорный ящик в коридоре.">
+      <audioTime in="100236" out="103530" />
+    </line>
+    <line lang1="ー分かりました。" someNumber="None" image="061_032.jpg" lang2="- Понятно.">
+      <audioTime in="103530" out="106005" />
+    </line>
+    <line lang1="すみません、外出する*とき、だれ*に*かぎ*を*あずけます*か。" someNumber="None" image="061_033.jpg" lang2="Простите, кому сдавать ключ, когда выходишь?">
+      <audioTime in="106005" out="111566" />
+    </line>
+    <line lang1="ーかぎ*を*あずけなくても*かまいません。" someNumber="None" image="061_033.jpg" lang2="- Ключ можно и не сдавать.">
+      <audioTime in="111566" out="114192" />
+    </line>
+    <line lang1="持って*行って*も*いい*です。" someNumber="None" image="061_033.jpg" lang2="Можно брать с собой.">
+      <audioTime in="114192" out="116366" />
+    </line>
+    <line lang1="ー分かりました。ありがとう*ございました。" someNumber="None" image="061_033.jpg" lang2="- Понятно. Большое спасибо.">
+      <audioTime in="116286" out="119860" />
+    </line>
+  </lines>
+</lesson>

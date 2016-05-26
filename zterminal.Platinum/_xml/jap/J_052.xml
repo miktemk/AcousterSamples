@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="j_052.wav" dlgName="На мне белая футболка " dic="p052" />
+  <lines>
+    <line lang1="ーもしもし、山田*さん*の*お宅*です*か。" someNumber="15" image="052_001.jpg" lang2="- Алло, это квартира господина Ямада?">
+      <audioTime in="0" out="3973" />
+    </line>
+    <line lang1="ーそう*です。山田*です。" someNumber="None" image="052_002.jpg" lang2="- Да. Говорит Ямада.">
+      <audioTime in="3973" out="6888" />
+    </line>
+    <line lang1="どなた*さま*です*か。" someNumber="None" image="052_002.jpg" lang2="Кто это?">
+      <audioTime in="6888" out="9077" />
+    </line>
+    <line lang1="ー青森*の*山本*まさ子*です。" someNumber="167" image="052_004.jpg" lang2="- Ямамото Масако из Аомори.">
+      <audioTime in="9077" out="12306" />
+    </line>
+    <line lang1="先週、手紙*を*出しました*が..." someNumber="None" image="052_004.jpg" lang2="(Я) послала (Вам) письмо на прошлой неделе...">
+      <audioTime in="12345" out="15022" />
+    </line>
+    <line lang1="ーはい、まさ子*さん、よく*いらっしゃいまた。" someNumber="128" image="052_004.jpg" lang2="- А! Масако-сан, с приездом!">
+      <audioTime in="15022" out="18995" />
+    </line>
+    <line lang1="今、どこ*です*か。" someNumber="None" image="052_007.jpg" lang2="Где (Вы) сейчас?">
+      <audioTime in="18995" out="20833" />
+    </line>
+    <line lang1="ー上野駅*の*北口*です。" someNumber="163" image="052_008.jpg" lang2="- У северного выхода станции Уэно.">
+      <audioTime in="20833" out="24396" />
+    </line>
+    <line lang1="東京*は*初めて*なん*です*が..." someNumber="107" image="052_009.jpg" lang2="Я впервые в Токио...">
+      <audioTime in="24396" out="27420" />
+    </line>
+    <line lang1="ー分かりました。おむかえ*に*行きます。" someNumber="None" image="052_010.jpg" lang2="- Понятно. (Я) приеду встретить (Вас).">
+      <audioTime in="27420" out="30341" />
+    </line>
+    <line lang1="まさ子*さん*は*どんな*ようふく*を*着ています*か。" someNumber="76" image="052_010.jpg" lang2="Масако-сан, во что Вы одеты?">
+      <audioTime in="30341" out="33683" />
+    </line>
+    <line lang1="ー白い*Ｔシャツ*を*着て、" someNumber="None" image="052_012.jpg" lang2="- На мне белая футболка">
+      <audioTime in="33683" out="36509" />
+    </line>
+    <line lang1="ちゃ色*の*ズボン*を*はいています。" someNumber="None" image="052_012.jpg" lang2="и коричневые брюки.">
+      <audioTime in="36509" out="38822" />
+    </line>
+    <line lang1="ー分かりました。" someNumber="None" image="052_014.jpg" lang2="- Понял.">
+      <audioTime in="38822" out="40204" />
+    </line>
+    <line lang1="私*は*家内*と*いっしょ*に*車*で*行きます。" someNumber="None" image="052_014.jpg" lang2="Мы с женой приедем на машине.">
+      <audioTime in="40204" out="43375" />
+    </line>
+    <line lang1="家内*は*きい色い*ブラウス*を*着て、" someNumber="None" image="052_016.jpg" lang2="На жене жёлтая блузка">
+      <audioTime in="43375" out="46274" />
+    </line>
+    <line lang1="はい色*の*スカート*を*はいています。" someNumber="None" image="052_016.jpg" lang2="и серая юбка.">
+      <audioTime in="46274" out="48638" />
+    </line>
+    <line lang1="私*は*白い*ワイシャツ*を*きて、黒い*ズボン*を*はいて、" someNumber="None" image="052_018.jpg" lang2="На мне белая сорочка, чёрные брюки">
+      <audioTime in="48638" out="53590" />
+    </line>
+    <line lang1="ぼうし*を*かぶっています。" someNumber="None" image="052_018.jpg" lang2="и шляпа.">
+      <audioTime in="53590" out="55400" />
+    </line>
+    <line lang1="めがね*も*かけています。ネクタイ*も*しめています。" someNumber="None" image="052_018.jpg" lang2="Я в очках. И галстук повязан.">
+      <audioTime in="55400" out="59421" />
+    </line>
+    <line lang1="たぶん、３０分*ぐらい*で*上野*駅*に*着く*でしょう。" someNumber="105" image="052_021.jpg" lang2="Наверное, через минут тридцать прибудем на станцию Уэно.">
+      <audioTime in="59421" out="63867" />
+    </line>
+    <line lang1="ーありがとう*ございます。" someNumber="None" image="052_022.jpg" lang2="- Большое спасибо.">
+      <audioTime in="63867" out="66367" />
+    </line>
+  </lines>
+</lesson>

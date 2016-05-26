@@ -1,0 +1,113 @@
+<lesson>
+  <header wav="i_044.wav" dic="p044" dlgName="Есть ли здесь?.." dlgFile="exr\ig043.txt" author="Alexander" />
+  <lines>
+    <line lang1="- C'è del pane qui?" someNumber="None" image="dg\044_001.gif" lang2="- Есть ли здесь хлеб?">
+      <audioTime in="181" out="1671" />
+    </line>
+    <line lang1="- Sì, c'è." someNumber="None" image="dg\044_001.gif" lang2="- Да, есть.">
+      <audioTime in="1671" out="2755" />
+    </line>
+    <line lang1="Ce n'è un po' sul tavolo." someNumber="350" image="dg\044_001.gif" lang2="Есть немного на столе.">
+      <audioTime in="2756" out="4609" />
+    </line>
+    <line lang1="- Ci sono dei martelli qui?" someNumber="None" image="dg\044_002.gif" lang2="- Есть ли здесь молотки?">
+      <audioTime in="4745" out="6687" />
+    </line>
+    <line lang1="- Sì, ci sono." someNumber="410" image="dg\044_002.gif" lang2="- Да, есть.">
+      <audioTime in="6687" out="7816" />
+    </line>
+    <line lang1="Stanno dietro la scatola." someNumber="None" image="dg\044_002.gif" lang2="Есть за тем ящиком.">
+      <audioTime in="7908" out="9760" />
+    </line>
+    <line lang1="- C'è del latte qui?" someNumber="None" image="dg\044_003.gif" lang2="- Есть ли здесь молоко?">
+      <audioTime in="9941" out="11523" />
+    </line>
+    <line lang1="- Sì, c'è." someNumber="None" image="dg\044_003.gif" lang2="- Да, есть.">
+      <audioTime in="11523" out="12652" />
+    </line>
+    <line lang1="Ce n'è un po' davanti alla porta." someNumber="None" image="dg\044_003.gif" lang2="Есть немного перед дверью.">
+      <audioTime in="12652" out="15001" />
+    </line>
+    <line lang1="- C'è del sapone qui?" someNumber="None" image="dg\044_004.gif" lang2="- Есть ли здесь мыло?">
+      <audioTime in="15092" out="16809" />
+    </line>
+    <line lang1="- Sì, c'è." someNumber="None" image="dg\044_004.gif" lang2="- Да, есть.">
+      <audioTime in="16900" out="18029" />
+    </line>
+    <line lang1="È sullo scaffale." someNumber="None" image="dg\044_004.gif" lang2="Есть на комоде.">
+      <audioTime in="17939" out="19656" />
+    </line>
+    <line lang1="- Ci sono dei giornali qui?" someNumber="None" image="dg\044_005.gif" lang2="- Есть ли здесь газеты?">
+      <audioTime in="19566" out="21644" />
+    </line>
+    <line lang1="- Sì, ci sono." someNumber="None" image="dg\044_005.gif" lang2="- Да, есть.">
+      <audioTime in="21508" out="22819" />
+    </line>
+    <line lang1="Sono dietro il vaso." someNumber="None" image="dg\044_005.gif" lang2="Есть за той вазой.">
+      <audioTime in="22819" out="24264" />
+    </line>
+    <line lang1="- C'è dell'acqua qui?" someNumber="None" image="dg\044_006.gif" lang2="- Есть ли здесь вода?">
+      <audioTime in="24310" out="25937" />
+    </line>
+    <line lang1="- Sì, c'è." someNumber="None" image="dg\044_006.gif" lang2="- Да, есть.">
+      <audioTime in="25892" out="27066" />
+    </line>
+    <line lang1="Ce n'è un pò in questi bicchieri." someNumber="None" image="dg\044_006.gif" lang2="Есть немного в тех стаканах.">
+      <audioTime in="27067" out="29009" />
+    </line>
+    <line lang1="- C'è del té qui?" someNumber="None" image="dg\044_007.gif" lang2="- Есть ли здесь чай?">
+      <audioTime in="29014" out="30630" />
+    </line>
+    <line lang1="- Sì, c'è." someNumber="None" image="dg\044_007.gif" lang2="- Да, есть.">
+      <audioTime in="30585" out="31850" />
+    </line>
+    <line lang1="Ce n'è un po' in queste tazze." someNumber="None" image="dg\044_007.gif" lang2="Есть немного в тех чайных чашках.">
+      <audioTime in="31813" out="33873" />
+    </line>
+    <line lang1="- Ci sono delle tazze qui?" someNumber="None" image="dg\044_008.gif" lang2="- Есть ли здесь чайные чашки?">
+      <audioTime in="33885" out="35831" />
+    </line>
+    <line lang1="- Sì, ci sono." someNumber="None" image="dg\044_008.gif" lang2="- Да, есть.">
+      <audioTime in="35772" out="37400" />
+    </line>
+    <line lang1="Stanno davanti a questa teiera." someNumber="None" image="dg\044_008.gif" lang2="Есть перед тем чайником.">
+      <audioTime in="37287" out="39436" />
+    </line>
+    <line lang1="- C'è della cioccolata qui?" someNumber="None" image="dg\044_009.gif" lang2="- Есть ли здесь шоколад?">
+      <audioTime in="39505" out="41553" />
+    </line>
+    <line lang1="- Sì, c'è." someNumber="None" image="dg\044_009.gif" lang2="- Да, есть.">
+      <audioTime in="41553" out="42591" />
+    </line>
+    <line lang1="Ce n'è un pò dietro a questo libro." someNumber="None" image="dg\044_009.gif" lang2="Есть немного за той книгой.">
+      <audioTime in="42576" out="44693" />
+    </line>
+    <line lang1="- Ci sono delle teiere qui?" someNumber="None" image="dg\044_010.gif" lang2="- Есть ли здесь чайники?">
+      <audioTime in="44739" out="46730" />
+    </line>
+    <line lang1="- Sì, ci sono." someNumber="None" image="dg\044_010.gif" lang2="- Да, есть.">
+      <audioTime in="46730" out="47948" />
+    </line>
+    <line lang1="Stanno in questa credenza." someNumber="None" image="dg\044_010.gif" lang2="Есть в том буфете.">
+      <audioTime in="47981" out="49915" />
+    </line>
+    <line lang1="- Ci sono delle macchine qui?" someNumber="None" image="dg\044_011.gif" lang2="- Есть ли здесь машины?">
+      <audioTime in="50029" out="51906" />
+    </line>
+    <line lang1="- Sì, ci sono." someNumber="None" image="dg\044_011.gif" lang2="- Да, есть.">
+      <audioTime in="51906" out="53283" />
+    </line>
+    <line lang1="Stanno davanti alla casa." someNumber="None" image="dg\044_011.gif" lang2="Есть перед тем зданием.">
+      <audioTime in="53271" out="54979" />
+    </line>
+    <line lang1="- C'è del caffè qui?" someNumber="None" image="dg\044_012.gif" lang2="- Есть ли здесь кофе?">
+      <audioTime in="55047" out="56628" />
+    </line>
+    <line lang1="- Sì, c'è." someNumber="None" image="dg\044_012.gif" lang2="- Да, есть.">
+      <audioTime in="56582" out="57576" />
+    </line>
+    <line lang1="Ce n'è un po' sul tavolo." someNumber="None" image="dg\044_012.gif" lang2="Есть немного на столе.">
+      <audioTime in="57652" out="59415" />
+    </line>
+  </lines>
+</lesson>

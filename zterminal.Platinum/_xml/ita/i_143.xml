@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="i_143.wav" dic="p143" dlgName="Мусор в лесу." dlgFile="exr\ig142.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Io vivo in una città antichissima," someNumber="190" image="dg\143_001.gif" lang2="- Я живу в очень старом городе,">
+      <audioTime in="172" out="2846" />
+    </line>
+    <line lang1="circondata da magnifiche foreste." someNumber="None" image="dg\143_001.gif" lang2="который окружён великолепными лесами.">
+      <audioTime in="2846" out="5601" />
+    </line>
+    <line lang1="- È un luogo rinomato per la sua bellezza." someNumber="None" image="dg\143_001.gif" lang2="- Это место известно своей красотой.">
+      <audioTime in="5601" out="8445" />
+    </line>
+    <line lang1="- La domenica centinaia di persone lasciano la città" someNumber="None" image="dg\143_001.gif" lang2="- По воскресеньям сотни людей приезжают из города">
+      <audioTime in="8445" out="12599" />
+    </line>
+    <line lang1="per visitare la nostra cittadina e passeggiare per il bosco." someNumber="None" image="dg\143_001.gif" lang2="посмотреть наш городок и погулять в лесу.">
+      <audioTime in="12600" out="16618" />
+    </line>
+    <line lang1="- È richiesto a'visitatori di conservare il bosco pulito e in ordine." someNumber="None" image="dg\143_001.gif" lang2="- Посетителей просили сохранить лес в чистоте и порядке.">
+      <audioTime in="16618" out="21313" />
+    </line>
+    <line lang1="- Le pattumerie sono installate sotto gli alberi," someNumber="None" image="dg\143_001.gif" lang2="- Под деревья поставили корзинки для мусора,">
+      <audioTime in="21314" out="24656" />
+    </line>
+    <line lang1="ma nonostante ciò la gente butta la spazzatura dappertutto." someNumber="None" image="dg\143_001.gif" lang2="но народ по-прежнему бросает мусор где попало.">
+      <audioTime in="24656" out="28719" />
+    </line>
+    <line lang1="- Martedì scorso sono andato nel bosco a fare un giro." someNumber="None" image="dg\143_001.gif" lang2="- В прошлую среду я отправился погулять в лес.">
+      <audioTime in="28719" out="32286" />
+    </line>
+    <line lang1="- Quello che ho visto mi ha rattristato molto." someNumber="None" image="dg\143_001.gif" lang2="- То, что я увидел, меня очень опечалило.">
+      <audioTime in="32286" out="34859" />
+    </line>
+    <line lang1="- Ho contato sette vecchie macchine e tre vecchi frigoriferi." someNumber="None" image="dg\143_001.gif" lang2="- Я насчитал семь старых машин и три старых холодильника.">
+      <audioTime in="34859" out="38517" />
+    </line>
+    <line lang1="- Le pattumerie erano vuote," someNumber="None" image="dg\143_001.gif" lang2="- Корзинки для мусора были пусты,">
+      <audioTime in="38517" out="40323" />
+    </line>
+    <line lang1="ma il suolo era coperto di pezzi di carta," someNumber="None" image="dg\143_001.gif" lang2="а земля была покрыта обрывками бумаги,">
+      <audioTime in="40323" out="43620" />
+    </line>
+    <line lang1="di mozziconi di sigaretta, di vecchi copertoni," someNumber="500" image="dg\143_001.gif" lang2="окурками, старыми шинами,">
+      <audioTime in="43620" out="46961" />
+    </line>
+    <line lang1="di bottiglie vuote e di barattoli arrugginiti." someNumber="None" image="dg\143_001.gif" lang2="пустыми бутылками и ржавыми консервными банками.">
+      <audioTime in="46961" out="49715" />
+    </line>
+    <line lang1="- Tra la spazzatura ho trovato una tabella su cui era scritto" someNumber="540" image="dg\143_001.gif" lang2="- Посреди мусора я нашёл объявление, которое гласило:">
+      <audioTime in="49715" out="53643" />
+    </line>
+    <line lang1="&quot;Chi butta la spazzatura in questo boscho, sarà multato&quot;." someNumber="None" image="dg\143_001.gif" lang2="&quot;Всякий кто оставляет мусор в этом лесу, будет преследоваться по закону&quot;.">
+      <audioTime in="53767" out="56954" />
+    </line>
+  </lines>
+</lesson>

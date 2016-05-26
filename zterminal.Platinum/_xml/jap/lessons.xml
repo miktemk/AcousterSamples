@@ -1,0 +1,141 @@
+<lessons>
+	<category name="All lessons">
+		<lesson filename="xml/J_001.xml" uiTitle="Знакомство "/>
+		<lesson filename="xml/J_002.xml" uiTitle="Представление"/>
+		<lesson filename="xml/J_003.xml" uiTitle="Это карандаш"/>
+		<lesson filename="xml/J_004.xml" uiTitle="Какого цвета?"/>
+		<lesson filename="xml/J_005.xml" uiTitle="Это и этот"/>
+		<lesson filename="xml/J_006.xml" uiTitle="Моя семья"/>
+		<lesson filename="xml/J_007.xml" uiTitle="Чужая семья"/>
+		<lesson filename="xml/J_008.xml" uiTitle="В школе"/>
+		<lesson filename="xml/J_009.xml" uiTitle="В саду"/>
+		<lesson filename="xml/J_010.xml" uiTitle="Где находится?"/>
+		<lesson filename="xml/J_011.xml" uiTitle="Что есть в холодильнике?"/>
+		<lesson filename="xml/J_012.xml" uiTitle="Кто есть в пруду?"/>
+		<lesson filename="xml/J_013.xml" uiTitle="Сколько листов?"/>
+		<lesson filename="xml/J_014.xml" uiTitle="Сколько человек?"/>
+		<lesson filename="xml/J_015.xml" uiTitle="Сколько (столов)?"/>
+		<lesson filename="xml/J_016.xml" uiTitle="Сколько стоит?"/>
+		<lesson filename="xml/J_017.xml" uiTitle="Покупка компьютера"/>
+		<lesson filename="xml/J_018.xml" uiTitle="Времена года"/>
+		<lesson filename="xml/J_019.xml" uiTitle="Месяцы"/>
+		<lesson filename="xml/J_020.xml" uiTitle="Какое число?"/>
+		<lesson filename="xml/J_021.xml" uiTitle="Какой день недели?"/>
+		<lesson filename="xml/J_022.xml" uiTitle="Который час?"/>
+		<lesson filename="xml/J_023.xml" uiTitle="Учим минуты"/>
+		<lesson filename="xml/J_024.xml" uiTitle="В котором часу ?"/>
+		<lesson filename="xml/J_025.xml" uiTitle="День мужчины"/>
+		<lesson filename="xml/J_026.xml" uiTitle="День женщины"/>
+		<lesson filename="xml/J_027.xml" uiTitle="На чем Вы едете?"/>
+		<lesson filename="xml/J_028.xml" uiTitle="Моя неделя"/>
+		<lesson filename="xml/J_029.xml" uiTitle="Вы любите фрукты?"/>
+		<lesson filename="xml/J_030.xml" uiTitle="Людно и шумно"/>
+		<lesson filename="xml/J_031.xml" uiTitle="Кто-то, что-то"/>
+		<lesson filename="xml/J_032.xml" uiTitle="И вчера было холодно"/>
+		<lesson filename="xml/J_033.xml" uiTitle="Приглашение"/>
+		<lesson filename="xml/J_034.xml" uiTitle="Нет, не плавали"/>
+		<lesson filename="xml/J_035.xml" uiTitle="Хочу купить кимоно"/>
+		<lesson filename="xml/J_036.xml" uiTitle="Город мечты"/>
+		<lesson filename="xml/J_037.xml" uiTitle="В Москве холоднее"/>
+		<lesson filename="xml/J_038.xml" uiTitle="Не так холодно, как в России"/>
+		<lesson filename="xml/J_039.xml" uiTitle="Как Вы думаете?"/>
+		<lesson filename="xml/J_040.xml" uiTitle="Я встретил друга"/>
+		<lesson filename="xml/J_041.xml" uiTitle="Идти в школу"/>
+		<lesson filename="xml/J_042.xml" uiTitle="Мыть лицо"/>
+		<lesson filename="xml/J_043.xml" uiTitle="Встать в 7 часов"/>
+		<lesson filename="xml/J_044.xml" uiTitle="Вы умеете плавать?"/>
+		<lesson filename="xml/J_045.xml" uiTitle="Иду покупать билеты"/>
+		<lesson filename="xml/J_046.xml" uiTitle="Ходил гулять"/>
+		<lesson filename="xml/J_047.xml" uiTitle="Поездка в Камакуру "/>
+		<lesson filename="xml/J_048.xml" uiTitle="Вы не пьёте молока?"/>
+		<lesson filename="xml/J_049.xml" uiTitle="Идите к доске!"/>
+		<lesson filename="xml/J_050.xml" uiTitle="День студента"/>
+		<lesson filename="xml/J_051.xml" uiTitle="Сезон дождей"/>
+		<lesson filename="xml/J_052.xml" uiTitle="На мне белая футболка "/>
+		<lesson filename="xml/J_053.xml" uiTitle="Рассматриваем фотографию"/>
+		<lesson filename="xml/J_054.xml" uiTitle="Расскажу о себе"/>
+		<lesson filename="xml/J_055.xml" uiTitle="Наверное, не пойдёт"/>
+		<lesson filename="xml/J_056.xml" uiTitle="Не курите здесь!"/>
+		<lesson filename="xml/J_057.xml" uiTitle="На кухне"/>
+		<lesson filename="xml/J_058.xml" uiTitle="Впервые японская еда"/>
+		<lesson filename="xml/J_059.xml" uiTitle="В ресторане"/>
+		<lesson filename="xml/J_060.xml" uiTitle="Что изготовляют из сои?"/>
+		<lesson filename="xml/J_061.xml" uiTitle="Какие строгие правила!"/>
+		<lesson filename="xml/J_062.xml" uiTitle="Почти не полон. Сяду."/>
+		<lesson filename="xml/J_063.xml" uiTitle="Я приехал, чтоб изучать язык."/>
+		<lesson filename="xml/J_064.xml" uiTitle="На почте"/>
+		<lesson filename="xml/J_065.xml" uiTitle="Дневник Ханако"/>
+		<lesson filename="xml/J_066.xml" uiTitle="Что случилось?"/>
+		<lesson filename="xml/J_067.xml" uiTitle="У врача"/>
+		<lesson filename="xml/J_068.xml" uiTitle="Карта Токио"/>
+		<lesson filename="xml/J_069.xml" uiTitle="Что он сказал?"/>
+		<lesson filename="xml/J_070.xml" uiTitle="&quot;Пойду и приду &quot;"/>
+		<lesson filename="xml/J_071.xml" uiTitle="То читали, то писали"/>
+		<lesson filename="xml/J_072.xml" uiTitle="Дверь была открыта"/>
+		<lesson filename="xml/J_073.xml" uiTitle="Японская комната"/>
+		<lesson filename="xml/J_074.xml" uiTitle="Инструкция к магнитофону"/>
+		<lesson filename="xml/J_075.xml" uiTitle="Хочу стать врачом"/>
+		<lesson filename="xml/J_076.xml" uiTitle="Решил стать астрономом"/>
+		<lesson filename="xml/J_077.xml" uiTitle="Собираемся пойти в горы"/>
+		<lesson filename="xml/J_078.xml" uiTitle="Как раз сейчас собиралась выйти"/>
+		<lesson filename="xml/J_079.xml" uiTitle="Кимура-сан подарила мне куклу"/>
+		<lesson filename="xml/J_080.xml" uiTitle="Мы слушали и записывали"/>
+		<lesson filename="xml/J_081.xml" uiTitle="Не умею писать красиво"/>
+		<lesson filename="xml/J_082.xml" uiTitle="Вы говорите по-испански?"/>
+		<lesson filename="xml/J_083.xml" uiTitle="Сырой рыбы есть не могу"/>
+		<lesson filename="xml/J_084.xml" uiTitle="Я начал читать"/>
+		<lesson filename="xml/J_085.xml" uiTitle="У жирафа длинная шея"/>
+		<lesson filename="xml/J_086.xml" uiTitle="Я переехал"/>
+		<lesson filename="xml/J_087.xml" uiTitle="Нужно снимать обувь"/>
+		<lesson filename="xml/J_088.xml" uiTitle="Система образования"/>
+		<lesson filename="xml/J_089.xml" uiTitle="Необходимо поступить в университет"/>
+		<lesson filename="xml/J_090.xml" uiTitle="Карточка временного проживания"/>
+		<lesson filename="xml/J_091.xml" uiTitle="Если бы я был президентом"/>
+		<lesson filename="xml/J_092.xml" uiTitle="Дом друга был обворован ворами"/>
+		<lesson filename="xml/J_093.xml" uiTitle="Мне наступали на ноги"/>
+		<lesson filename="xml/J_094.xml" uiTitle="Был написан Нацумэ Сосэки"/>
+		<lesson filename="xml/J_095.xml" uiTitle="География Японии"/>
+		<lesson filename="xml/J_096.xml" uiTitle="Гора Фудзи"/>
+		<lesson filename="xml/J_097.xml" uiTitle="Времена года и климат"/>
+		<lesson filename="xml/J_098.xml" uiTitle="Кажется, дождь собирается!"/>
+		<lesson filename="xml/J_099.xml" uiTitle="Прогноз погоды"/>
+		<lesson filename="xml/J_100.xml" uiTitle="Сказали, что будет дождь"/>
+		<lesson filename="xml/J_101.xml" uiTitle="Похоже, кто-то есть!"/>
+		<lesson filename="xml/J_102.xml" uiTitle="Уже должно стать прохладнее"/>
+		<lesson filename="xml/J_103.xml" uiTitle="Сакура"/>
+		<lesson filename="xml/J_104.xml" uiTitle="Мороженое всё уже совсем растаяло!"/>
+		<lesson filename="xml/J_105.xml" uiTitle="Я заснул в электричке!"/>
+		<lesson filename="xml/J_106.xml" uiTitle="Можно примерить?"/>
+		<lesson filename="xml/J_107.xml" uiTitle="Происхождение иероглифов"/>
+		<lesson filename="xml/J_108.xml" uiTitle="Урок грамматики"/>
+		<lesson filename="xml/J_109.xml" uiTitle="Он починил мои часы"/>
+		<lesson filename="xml/J_110.xml" uiTitle="Я получил деньги в долг"/>
+		<lesson filename="xml/J_111.xml" uiTitle="На пользу и во вред"/>
+		<lesson filename="xml/J_112.xml" uiTitle="Снова о болезнях"/>
+		<lesson filename="xml/J_113.xml" uiTitle="Поите его молоком!"/>
+		<lesson filename="xml/J_114.xml" uiTitle="Нерадивая студентка"/>
+		<lesson filename="xml/J_115.xml" uiTitle="В театре Кабуки"/>
+		<lesson filename="xml/J_116.xml" uiTitle="Пошел дождь"/>
+		<lesson filename="xml/J_117.xml" uiTitle="С Новым годом!"/>
+		<lesson filename="xml/J_118.xml" uiTitle="В новогоднее утро"/>
+		<lesson filename="xml/J_119.xml" uiTitle="Сезонные празднества"/>
+		<lesson filename="xml/J_120.xml" uiTitle="Интервью"/>
+		<lesson filename="xml/J_121.xml" uiTitle="О вежливой речи"/>
+		<lesson filename="xml/J_122.xml" uiTitle="В гостинице"/>
+		<lesson filename="xml/J_123.xml" uiTitle="Гид"/>
+		<lesson filename="xml/J_124.xml" uiTitle="В парикмахерской"/>
+		<lesson filename="xml/J_125.xml" uiTitle="На стадионе"/>
+		<lesson filename="xml/J_126.xml" uiTitle="Визит"/>
+		<lesson filename="xml/J_127.xml" uiTitle="Письмо учителю"/>
+		<lesson filename="xml/J_128.xml" uiTitle="Мама заставила меня"/>
+		<lesson filename="xml/J_129.xml" uiTitle="Путешествие в Киото"/>
+		<lesson filename="xml/J_130.xml" uiTitle="У тебя глаза сияют!"/>
+		<lesson filename="xml/J_131.xml" uiTitle="Праздник Нэбута (эссе) 1"/>
+		<lesson filename="xml/J_132.xml" uiTitle="Спич 1"/>
+		<lesson filename="xml/J_133.xml" uiTitle="Ответное письмо"/>
+		<lesson filename="xml/J_134.xml" uiTitle="Праздник Нэбута (эссе) 2"/>
+		<lesson filename="xml/J_135.xml" uiTitle="Праздник Нэбута (эссе) 3"/>
+		<lesson filename="xml/J_136.xml" uiTitle="Спич 2"/>
+		<lesson filename="xml/J_137.xml" uiTitle="Спич 3"/>
+	</category>
+</lessons>

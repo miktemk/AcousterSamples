@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="FR_065.wav" dlgName="Планы на каникулы" dlgFile="exr\frg065.txt" />
+  <lines>
+    <line lang1="- Nous avons encore beaucoup de temps libre." someNumber="None" image="f.jpg" lang2="- У нас ещё много свободного времени.">
+      <audioTime in="0" out="3488" />
+    </line>
+    <line lang1="Où voudrais-tu finir tes vacances?" someNumber="None" image="f.jpg" lang2="Где бы ты хотел закончить каникулы?">
+      <audioTime in="3488" out="6616" />
+    </line>
+    <line lang1="- Je voudrais aller dans le Midi, me baigner dans la mer, jouer au ballon sur la plage..." someNumber="None" image="f.jpg" lang2="- Я хотела бы поехать на юг, покупаться в море, поиграть на пляже в мяч...">
+      <audioTime in="6616" out="13911" />
+    </line>
+    <line lang1="- Faire des pâtés avec un seau et une pelle..." someNumber="None" image="f.jpg" lang2="- Делать пирожки из песка ведерком и савочком...">
+      <audioTime in="13911" out="17110" />
+    </line>
+    <line lang1="- Ne plaisante pas. A mon âge on ne fait plus de pâtés." someNumber="None" image="f.jpg" lang2="- Не шути. В моем возрасте не делают уже пирожков.">
+      <audioTime in="17110" out="21618" />
+    </line>
+    <line lang1="Dis-moi plutôt où tu voudrais aller finir tes vacances?" someNumber="None" image="f.jpg" lang2="Скажи мне лучше, где ты хочешь закончить свои каникулы?">
+      <audioTime in="21618" out="25646" />
+    </line>
+    <line lang1="- Moi... A la montagne." someNumber="None" image="f.jpg" lang2="- Я... В горах.">
+      <audioTime in="25646" out="27996" />
+    </line>
+    <line lang1="J'aime beaucoup les hautes montagnes, les beaux paysages, les vallées..." someNumber="None" image="f.jpg" lang2="Я очень люблю высокие горы, красивые пейзажи, долины...">
+      <audioTime in="27996" out="34282" />
+    </line>
+    <line lang1="- Et le son des clochettes que les vaches portent à leur cou." someNumber="None" image="f.jpg" lang2="- И звонки колокольчиков, которые коровы носят на шее.">
+      <audioTime in="34282" out="37600" />
+    </line>
+    <line lang1="- Oui, tu as bien deviné." someNumber="None" image="f.jpg" lang2="- Да, ты угадал.">
+      <audioTime in="37600" out="39727" />
+    </line>
+    <line lang1="Si tu veux, nous irons ensemble au bord de la mer et après à la montagne." someNumber="None" image="f.jpg" lang2="Если хочешь, мы поедем вместе на море и потом в горы.">
+      <audioTime in="39727" out="46468" />
+    </line>
+    <line lang1="- Je veux bien." someNumber="None" image="f.jpg" lang2="- Хорошо.">
+      <audioTime in="46468" out="48149" />
+    </line>
+  </lines>
+</lesson>

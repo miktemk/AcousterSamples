@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="i_103.wav" dic="p103" dlgName="Как ты сдал свой экзамен?" dlgFile="exr\ig103.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Marco, come sono andati gli esami?" someNumber="370" image="dg\103_001.gif" lang2="- Ну как прошли экзамены, Марко?">
+      <audioTime in="74" out="2576" />
+    </line>
+    <line lang1="- Non male." someNumber="None" image="dg\103_001.gif" lang2="- Неплохо.">
+      <audioTime in="2576" out="3795" />
+    </line>
+    <line lang1="Ho passato quello d'inglese e quello di matematica, credo." someNumber="320" image="dg\103_001.gif" lang2="Я думаю, я сдал английский и математику.">
+      <audioTime in="3870" out="7191" />
+    </line>
+    <line lang1="Le domande erano facilissime." someNumber="190" image="dg\103_001.gif" lang2="Вопросы были очень лёгкие.">
+      <audioTime in="7205" out="9304" />
+    </line>
+    <line lang1="E tu, Paolo?" someNumber="None" image="dg\103_001.gif" lang2="А как ты, Паоло?">
+      <audioTime in="9379" out="10748" />
+    </line>
+    <line lang1="- Quello d'inglese e quello di matematica non erano molto facili per me." someNumber="None" image="dg\103_001.gif" lang2="- Экзаменационные работы по английскому и математике оказались для меня не слишком-то лёгкими.">
+      <audioTime in="10794" out="14738" />
+    </line>
+    <line lang1="Spero che non mi boccino." someNumber="None" image="dg\103_001.gif" lang2="Я надеюсь, я их не завалил.">
+      <audioTime in="14738" out="16525" />
+    </line>
+    <line lang1="- Penso che sarò bocciato al test di intelligenza." someNumber="None" image="dg\103_001.gif" lang2="- Я думаю, я не прошёл тест на определение умственной одаренности.">
+      <audioTime in="16599" out="19801" />
+    </line>
+    <line lang1="Sono riuscito a rispondere a sedici domande." someNumber="None" image="dg\103_001.gif" lang2="Я смог ответить на 16 вопросов.">
+      <audioTime in="19801" out="22778" />
+    </line>
+    <line lang1="Erano facilissime." someNumber="None" image="dg\103_001.gif" lang2="Они были очень лёгкими.">
+      <audioTime in="22881" out="24461" />
+    </line>
+    <line lang1="Ma non sono riuscito a rispondere alle altre." someNumber="None" image="dg\103_001.gif" lang2="Но я не смог ответить на остальные.">
+      <audioTime in="24743" out="27319" />
+    </line>
+    <line lang1="Erano troppo difficili per me." someNumber="None" image="dg\103_001.gif" lang2="Они были слишком трудными для меня.">
+      <audioTime in="27319" out="29329" />
+    </line>
+    <line lang1="- I test di intelligenza sono orribili, vero?" someNumber="None" image="dg\103_001.gif" lang2="- Тесты на определение умственной одаренности ужасны, правда?">
+      <audioTime in="29477" out="32307" />
+    </line>
+    <line lang1="- Io li odio." someNumber="None" image="dg\103_001.gif" lang2="- Я их ненавижу.">
+      <audioTime in="32307" out="33481" />
+    </line>
+    <line lang1="Sono sicuro che riceverò un voto basso." someNumber="None" image="dg\103_001.gif" lang2="Я уверен, что у меня будет низкий коэффициент умственной одаренности.">
+      <audioTime in="33572" out="36251" />
+    </line>
+    <line lang1="- Su, non scoraggiarti!" someNumber="None" image="dg\103_001.gif" lang2="- Ну, не унывай!">
+      <audioTime in="36326" out="38559" />
+    </line>
+    <line lang1="Forse, non ci è andata così male." someNumber="None" image="dg\103_001.gif" lang2="Может быть, у нас дела совсем не так плохи.">
+      <audioTime in="38484" out="40569" />
+    </line>
+    <line lang1="Il ragazzo vicino a me ha scritto il suo nome sul foglio." someNumber="None" image="dg\103_001.gif" lang2="Парень рядом со мной написал своё имя на первом листе работы.">
+      <audioTime in="40644" out="43770" />
+    </line>
+    <line lang1="- E poi?" someNumber="None" image="dg\103_001.gif" lang2="- Ну и что?">
+      <audioTime in="43770" out="44634" />
+    </line>
+    <line lang1="- Poi per tre ore è rimasto seduto a guardarlo!" someNumber="None" image="dg\103_001.gif" lang2="- А потом он сидел там и смотрел на него в течение трёх часов!">
+      <audioTime in="44560" out="47492" />
+    </line>
+    <line lang1="Non ha scritto neanche una parola!" someNumber="None" image="dg\103_001.gif" lang2="Он не написал ни слова!">
+      <audioTime in="47418" out="49502" />
+    </line>
+  </lines>
+</lesson>

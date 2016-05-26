@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="f_019.wav" dic="p019" dlgName="Мороженое." dlgFile="exr\fg019.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Qu'est-ce qui est arrivé, mes enfants?" someNumber="None" image="dg\019_001.gif" lang2="- Что случилось, дети?">
+      <audioTime in="0" out="2090" />
+    </line>
+    <line lang1="- Nous sommes fatigués. Et nous avons soif, maman." someNumber="None" image="dg\019_001.gif" lang2="- Мы устали... И мы хотим пить, мама...">
+      <audioTime in="2090" out="6073" />
+    </line>
+    <line lang1="- Asseyez-vous ici." someNumber="None" image="dg\019_002.gif" lang2="- Садитесь сюда.">
+      <audioTime in="6073" out="7624" />
+    </line>
+    <line lang1="- Ça va, maintenant?" someNumber="None" image="dg\019_003.gif" lang2="- Сейчас всё в порядке?">
+      <audioTime in="7624" out="8661" />
+    </line>
+    <line lang1="- Non." someNumber="None" image="dg\019_003.gif" lang2="- Нет.">
+      <audioTime in="8661" out="9308" />
+    </line>
+    <line lang1="- Tiens. Voilà de la glace." someNumber="80" image="dg\019_004.gif" lang2="- Смотрите! Вот мороженое.">
+      <audioTime in="9308" out="10951" />
+    </line>
+    <line lang1="- Deux glaces, s'il vous plaît." someNumber="400" image="dg\019_005.gif" lang2="- Два мороженых, пожалуйста.">
+      <audioTime in="10951" out="12046" />
+    </line>
+    <line lang1="- Prenez, mes enfants, s'il vous plaît." someNumber="None" image="dg\019_006.gif" lang2="- Вот вам, пожалуйста, дети.">
+      <audioTime in="12046" out="13789" />
+    </line>
+    <line lang1="- Merci, maman." someNumber="None" image="dg\019_006.gif" lang2="- Спасибо, мама.">
+      <audioTime in="13789" out="15232" />
+    </line>
+    <line lang1="- C'est une bonne glace." someNumber="60" image="dg\019_007.gif" lang2="- Это мороженое вкусное.">
+      <audioTime in="15232" out="16567" />
+    </line>
+    <line lang1="- Maintenant, ça va?" someNumber="780" image="dg\019_008.gif" lang2="- А сейчас всё в порядке?">
+      <audioTime in="16567" out="17721" />
+    </line>
+    <line lang1="- Oui, merci." someNumber="780" image="dg\019_008.gif" lang2="- Да, спасибо.">
+      <audioTime in="17721" out="18899" />
+    </line>
+  </lines>
+</lesson>

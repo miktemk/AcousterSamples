@@ -1,0 +1,80 @@
+<lesson>
+  <header wav="j_031.wav" dlgName="Кто-то, что-то" dic="p031" />
+  <lines>
+    <line lang1="ーへや*に*だれ*か*います*か。" someNumber="55" image="031_001.jpg" lang2="- Есть ли в комнате кто-нибудь?">
+      <audioTime in="0" out="2338" />
+    </line>
+    <line lang1="ーいいえ、だれ*も*いません。" someNumber="56" image="031_002.jpg" lang2="- Нет, никого нет.">
+      <audioTime in="2338" out="5682" />
+    </line>
+    <line lang1="ーつくえ*の*下*に*何*か*あります*か。" someNumber="None" image="031_003.jpg" lang2="- (А) под столом что-то есть?">
+      <audioTime in="5682" out="8377" />
+    </line>
+    <line lang1="ーいいえ。何*も*ありません。" someNumber="None" image="031_003.jpg" lang2="- Нет, ничего нет.">
+      <audioTime in="8377" out="11544" />
+    </line>
+    <line lang1="何*か*食べます*か。" someNumber="None" image="031_005.jpg" lang2="Что-нибудь покушаешь?">
+      <audioTime in="11544" out="14000" />
+    </line>
+    <line lang1="ー何*か*おいしい*もの*が*あります*か。" someNumber="None" image="031_006.jpg" lang2="- Есть ли что-нибудь вкусное?">
+      <audioTime in="14000" out="16631" />
+    </line>
+    <line lang1="ー何*でも*あります*よ。" someNumber="56" image="031_007.jpg" lang2="- Есть всё, что угодно.">
+      <audioTime in="16631" out="18819" />
+    </line>
+    <line lang1="すし*は*いかが*です*か。" someNumber="54" image="031_008.jpg" lang2="Как насчёт суси?">
+      <audioTime in="18819" out="20895" />
+    </line>
+    <line lang1="ーいただきます。" someNumber="None" image="031_008.jpg" lang2="- Поем.">
+      <audioTime in="20895" out="22454" />
+    </line>
+    <line lang1="ーいい*てんき*です*ね。" someNumber="None" image="031_010.jpg" lang2="- Какая прекрасная погода, не так ли!">
+      <audioTime in="22454" out="27122" />
+    </line>
+    <line lang1="今日*も*テニス*に*いきます*か。" someNumber="122" image="031_011.jpg" lang2="(Вы) и сегодня идёте на теннис?">
+      <audioTime in="27279" out="29231" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="031_011.jpg" lang2="- Да.">
+      <audioTime in="29231" out="30248" />
+    </line>
+    <line lang1="―テニス*クラブ*に*外国人*が*います*か。" someNumber="None" image="031_013.jpg" lang2="- Есть ли иностранцы в теннисном клубе?">
+      <audioTime in="30248" out="33857" />
+    </line>
+    <line lang1="―ええ。アメリカ人*が*５人*も*います。" someNumber="122" image="031_013.jpg" lang2="- Да, есть даже пять американцев.">
+      <audioTime in="33857" out="36539" />
+    </line>
+    <line lang1="―女性*も*います*か。" someNumber="None" image="031_015.jpg" lang2="- И женщины есть?">
+      <audioTime in="36539" out="38682" />
+    </line>
+    <line lang1="―いいえ、一人*も*いません。" someNumber="56" image="031_016.jpg" lang2="- Нет. Ни одной.">
+      <audioTime in="38682" out="41048" />
+    </line>
+    <line lang1="―夏休み*に*どこ*か*へ*行きます*か。" someNumber="163" image="031_017.jpg" lang2="- (Вы) куда-нибудь едете на летние каникулы?">
+      <audioTime in="41048" out="45100" />
+    </line>
+    <line lang1="―まだ*わかりません。" someNumber="None" image="031_017.jpg" lang2="- Пока не знаю.">
+      <audioTime in="45100" out="46594" />
+    </line>
+    <line lang1="ぼく*は*いつも*うみ*や*川*へ*行きます。" someNumber="None" image="031_019.jpg" lang2="Я всегда езжу на море или к реке.">
+      <audioTime in="46594" out="50232" />
+    </line>
+    <line lang1="ー私*は*いつも*山*へ*行きました。" someNumber="None" image="031_020.jpg" lang2="- А я всегда ездила в горы.">
+      <audioTime in="50232" out="53958" />
+    </line>
+    <line lang1="こんど*ハワイ*へ*行きます。" someNumber="None" image="031_021.jpg" lang2="На этот раз поеду на Гаваи.">
+      <audioTime in="53958" out="56701" />
+    </line>
+    <line lang1="―ぼく*も*いつか*ハワイ*へ*行きます。" someNumber="None" image="031_021.jpg" lang2="- Я тоже когда-нибудь поеду на Гаваи.">
+      <audioTime in="56701" out="59268" />
+    </line>
+    <line lang1="―田中*さん*は*夏休み*に*どこか*へ*行きます*か。" someNumber="None" image="031_023.jpg" lang2="- Танака-сан, а Вы куда-нибудь едете на летние каникулы?">
+      <audioTime in="59268" out="63633" />
+    </line>
+    <line lang1="ーぼく*は*しごと*で*いそがしい*です。" someNumber="07" image="031_023.jpg" lang2="- Я занят по работе.">
+      <audioTime in="63633" out="66769" />
+    </line>
+    <line lang1="今年*は*どこ*へ*も*行きません。" someNumber="163" image="031_023.jpg" lang2="В этом году никуда не поеду.">
+      <audioTime in="66769" out="69368" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_054.wav" dlgName="Расскажу о себе" dic="p054" />
+  <lines>
+    <line lang1="ーみな*さん、一人*ずつ*じこ*しょうかい*して*ください。" someNumber="42" image="054_001.jpg" lang2="- Господа, представьтесь, пожалуйста, по-одному.">
+      <audioTime in="0" out="4509" />
+    </line>
+    <line lang1="ー私*は*山本*幸子*と*申します。" someNumber="167" image="054_002.jpg" lang2="- Меня зовут Ямамото Сатико.">
+      <audioTime in="4509" out="8734" />
+    </line>
+    <line lang1="ブラジル*の*サンパウロ*から" someNumber="None" image="054_003.jpg" lang2="Я приехала из бразильского (города) Сан-Пауло">
+      <audioTime in="8734" out="12108" />
+    </line>
+    <line lang1="日本*文学*の*べんきょう*に*来ました。" someNumber="04" image="054_004.jpg" lang2="изучать японскую литературу.">
+      <audioTime in="12108" out="14581" />
+    </line>
+    <line lang1="サンパウロ*で*日本語*の*学校*を*そつぎょう*しました。" someNumber="None" image="054_005.jpg" lang2="(Я) окончила в Сан-Пауло японскую школу.">
+      <audioTime in="14581" out="19391" />
+    </line>
+    <line lang1="５人*かぞく*です。" someNumber="174" image="054_006.jpg" lang2="(Моя) семья состоит из пяти человек.">
+      <audioTime in="19391" out="21943" />
+    </line>
+    <line lang1="父*は*６２才*で、母*は*５５才*です。" someNumber="38" image="054_007.jpg" lang2="Отцу 62 года, а матери 55 лет.">
+      <audioTime in="21943" out="26785" />
+    </line>
+    <line lang1="そふ*と*そぼ*は*１９２０年*に*日本*から*移住した*から、" someNumber="41" image="054_008.jpg" lang2="Дедушка и бабушка в 1920 году переехали из Японии,">
+      <audioTime in="26785" out="33823" />
+    </line>
+    <line lang1="父親*も*母親*も*ブラジル*で*生まれました。" someNumber="154" image="054_009.jpg" lang2="поэтому и мать, и отец родились в Бразилии.">
+      <audioTime in="33823" out="37844" />
+    </line>
+    <line lang1="母*は*かんごふ*で、父*は*もう*会社*を*止めています。" someNumber="76" image="054_009.jpg" lang2="Мама - медсестра, а отец уже ушёл с работы.">
+      <audioTime in="37844" out="43193" />
+    </line>
+    <line lang1="兄*は*２１才*で、弟*は*１８才*です。" someNumber="None" image="054_011.jpg" lang2="Старшему брату 21 год, а младшему - 18 лет.">
+      <audioTime in="43193" out="48621" />
+    </line>
+    <line lang1="二人*と*も*コンピュータ*の*ぎじゅつ*を*勉強しています。" someNumber="122" image="054_012.jpg" lang2="Оба изучают компьютерную технику.">
+      <audioTime in="48621" out="53748" />
+    </line>
+    <line lang1="私*は*ポルトガル語*も*英語*も*日本語*も*できます。" someNumber="None" image="054_013.jpg" lang2="Я владею португальским, английским и японским языками.">
+      <audioTime in="53748" out="59283" />
+    </line>
+    <line lang1="日本*の*文化*に*きょうみ*を*持っています。" someNumber="None" image="054_014.jpg" lang2="Интересуюсь японской культурой.">
+      <audioTime in="59283" out="63242" />
+    </line>
+    <line lang1="よろしく*おねがい*します。" someNumber="None" image="054_015.jpg" lang2="Прошу любить и жаловать.">
+      <audioTime in="63242" out="66046" />
+    </line>
+    <line lang1="―わたくし*は*チン*と*申します。" someNumber="52" image="054_016.jpg" lang2="- Меня зовут Тин.">
+      <audioTime in="66046" out="70935" />
+    </line>
+    <line lang1="中国*から*来ました。" someNumber="None" image="054_017.jpg" lang2="Я приехал из Китая.">
+      <audioTime in="70935" out="72647" />
+    </line>
+    <line lang1="わたくし*の*ふるさと*は*南京*で、" someNumber="None" image="054_018.jpg" lang2="Моя родина - Нанкин,">
+      <audioTime in="72647" out="76051" />
+    </line>
+    <line lang1="北京*大学*を*そつぎょう*しました。" someNumber="None" image="054_019.jpg" lang2="но закончил (я) Пекинский университет.">
+      <audioTime in="76051" out="78524" />
+    </line>
+    <line lang1="２ヵ月*前*に*東京*に*けいざい*の*勉強*に*来ました。" someNumber="None" image="054_020.jpg" lang2="Я приехал в Токио изучать экономику 2 месяца назад.">
+      <audioTime in="78524" out="83112" />
+    </line>
+    <line lang1="しゅみ*は*スポーツ*です。" someNumber="None" image="054_021.jpg" lang2="(Мое) увлечение - спорт.">
+      <audioTime in="83112" out="85916" />
+    </line>
+    <line lang1="子供*の*ころ*から*たっきゅう*を*しています。" someNumber="09" image="054_021.jpg" lang2="Я с детства играю в настольный теннис.">
+      <audioTime in="85916" out="89746" />
+    </line>
+    <line lang1="今*も*ー週間*に*三回*体育館*に*かよっています。" someNumber="76" image="054_021.jpg" lang2="(Я) и сейчас 3 раза в неделю посещаю спортзал.">
+      <audioTime in="89746" out="95221" />
+    </line>
+    <line lang1="タバコ*は*すいません。" someNumber="144" image="054_024.jpg" lang2="Не курю.">
+      <audioTime in="95221" out="97694" />
+    </line>
+    <line lang1="お酒*も*ほとんど*飲みません。" someNumber="None" image="054_024.jpg" lang2="И спиртного почти не пью.">
+      <audioTime in="97694" out="100133" />
+    </line>
+    <line lang1="どうぞ*よろしく。" someNumber="None" image="054_026.jpg" lang2="Прошу любить и жаловать.">
+      <audioTime in="100133" out="102382" />
+    </line>
+  </lines>
+</lesson>

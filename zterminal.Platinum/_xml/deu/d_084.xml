@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_084.wav" dic="p084" dlgName="У Вас было?.." dlgFile="exr\dg083.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Haben Sie Gemüse #gehabt?" someNumber="90" image="dg\084_001.gif" lang2="- У Вас были овощи?">
+      <audioTime in="466" out="2239" />
+    </line>
+    <line lang1="- Ich #habe kein Gemüse #gehabt." someNumber="None" image="dg\084_001.gif" lang2="- У меня не было овощей.">
+      <audioTime in="2518" out="4292" />
+    </line>
+    <line lang1="Ich #hatte etwas Obst." someNumber="None" image="dg\084_001.gif" lang2="У меня было немного фруктов.">
+      <audioTime in="4292" out="5736" />
+    </line>
+    <line lang1="- #Hat er einige Bohnen #gehabt?" someNumber="110" image="dg\084_002.gif" lang2="- У него было несколько бобов?">
+      <audioTime in="6531" out="8210" />
+    </line>
+    <line lang1="- Er #hat keine Bohnen #gehabt." someNumber="None" image="dg\084_002.gif" lang2="- У него не было бобов.">
+      <audioTime in="8396" out="10262" />
+    </line>
+    <line lang1="Er #hatte einige Erbsen." someNumber="None" image="dg\084_002.gif" lang2="У него было несколько горошин.">
+      <audioTime in="10262" out="11942" />
+    </line>
+    <line lang1="- #Haben sie etwas Kaffee #gehabt?" someNumber="None" image="dg\084_003.gif" lang2="- У них было немного кофе?">
+      <audioTime in="12221" out="14181" />
+    </line>
+    <line lang1="- Sie #haben keinen Kaffee #gehabt." someNumber="None" image="dg\084_003.gif" lang2="- У них не было кофе.">
+      <audioTime in="14367" out="16008" />
+    </line>
+    <line lang1="Sie #hatten etwas Tee." someNumber="None" image="dg\084_003.gif" lang2="У них было немного чая.">
+      <audioTime in="16008" out="17543" />
+    </line>
+    <line lang1="- #Haben Sie Äpfel #gehabt?" someNumber="190" image="dg\084_004.gif" lang2="- У Вас были яблоки?">
+      <audioTime in="17912" out="19779" />
+    </line>
+    <line lang1="- Ich #habe keine Äpfel #gehabt." someNumber="None" image="dg\084_004.gif" lang2="- У меня не было яблок.">
+      <audioTime in="19779" out="21503" />
+    </line>
+    <line lang1="Ich #hatte ein paar Pfirsiche." someNumber="None" image="dg\084_004.gif" lang2="У меня было несколько персиков.">
+      <audioTime in="21503" out="23309" />
+    </line>
+    <line lang1="- #Habe ich etwas Kohl #gehabt?" someNumber="None" image="dg\084_005.gif" lang2="- Было у меня немного капусты?">
+      <audioTime in="23884" out="25564" />
+    </line>
+    <line lang1="- Sie #hatten keinen Kohl." someNumber="590" image="dg\084_005.gif" lang2="- У Вас не было капусты.">
+      <audioTime in="25750" out="27150" />
+    </line>
+    <line lang1="Sie #hatten etwas Salat." someNumber="590" image="dg\084_005.gif" lang2="У Вас было немного салата.">
+      <audioTime in="27150" out="28820" />
+    </line>
+    <line lang1="- #Haben Sie etwas Bier #gehabt?" someNumber="None" image="dg\084_006.gif" lang2="- У Вас было немного пива?">
+      <audioTime in="29295" out="31161" />
+    </line>
+    <line lang1="- Ich #habe kein Bier #gehabt." someNumber="590" image="dg\084_006.gif" lang2="- У меня не было пива.">
+      <audioTime in="31441" out="32886" />
+    </line>
+    <line lang1="Ich #hatte etwas Wein." someNumber="590" image="dg\084_006.gif" lang2="У меня было немного вина.">
+      <audioTime in="32886" out="34150" />
+    </line>
+    <line lang1="- #Hat er etwas Hammelfleisch #gehabt?" someNumber="None" image="dg\084_007.gif" lang2="- У него было немного баранины?">
+      <audioTime in="34800" out="37879" />
+    </line>
+    <line lang1="- Er #hat kein Hammelfleisch #gehabt." someNumber="560" image="dg\084_007.gif" lang2="- У него не было баранины.">
+      <audioTime in="37786" out="39651" />
+    </line>
+    <line lang1="Er #hatte etwas Kalbfleisch." someNumber="560" image="dg\084_007.gif" lang2="У него было немного телятины.">
+      <audioTime in="39651" out="41593" />
+    </line>
+    <line lang1="- #Haben sie etwas Tee #gehabt?" someNumber="None" image="dg\084_008.gif" lang2="- У них было немного чая?">
+      <audioTime in="41984" out="44129" />
+    </line>
+    <line lang1="- Sie #haben keinen Tee #gehabt." someNumber="None" image="dg\084_008.gif" lang2="- У них не было чая.">
+      <audioTime in="44223" out="45995" />
+    </line>
+    <line lang1="Sie #hatten etwas Milch." someNumber="None" image="dg\084_008.gif" lang2="У них было немного молока.">
+      <audioTime in="45995" out="47666" />
+    </line>
+    <line lang1="- #Hat sie etwas Fleisch #gehabt?" someNumber="None" image="dg\084_009.gif" lang2="- У неё было немного мяса?">
+      <audioTime in="48328" out="50567" />
+    </line>
+    <line lang1="- Sie #hat kein Fleisch #gehabt." someNumber="380" image="dg\084_009.gif" lang2="- У неё не было мяса.">
+      <audioTime in="50661" out="52714" />
+    </line>
+    <line lang1="Sie #hatte etwas Gemüse." someNumber="380" image="dg\084_009.gif" lang2="У неё было немного овощей.">
+      <audioTime in="52714" out="54520" />
+    </line>
+    <line lang1="- #Haben Sie junge Hühner #gehabt?" someNumber="None" image="dg\084_010.gif" lang2="- У Вас были цыплята?">
+      <audioTime in="55045" out="57192" />
+    </line>
+    <line lang1="- Ich #habe keine jungen Hühner #gehabt." someNumber="290" image="dg\084_010.gif" lang2="- У меня не было цыплят.">
+      <audioTime in="57378" out="59990" />
+    </line>
+    <line lang1="Ich #hatte etwas Fleisch." someNumber="290" image="dg\084_010.gif" lang2="У меня было немного мяса.">
+      <audioTime in="59990" out="61706" />
+    </line>
+  </lines>
+</lesson>

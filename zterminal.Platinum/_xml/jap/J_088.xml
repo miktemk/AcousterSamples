@@ -1,0 +1,113 @@
+<lesson>
+  <header wav="j_088.wav" dlgName="Система образования" dic="p088" />
+  <lines>
+    <line lang1="ー日本*の*教育*制度*は*小学校*６年、" someNumber="174" image="088_001.jpg" lang2="- Японская система образования - 6 лет начальной школы,">
+      <audioTime in="0" out="4730" />
+    </line>
+    <line lang1="中学校*３年、" someNumber="None" image="088_002.jpg" lang2="3 года школы средней ступени,">
+      <audioTime in="4730" out="6342" />
+    </line>
+    <line lang1="高校*３年、" someNumber="None" image="088_003.jpg" lang2="3 года школы старшей ступени,">
+      <audioTime in="6342" out="7725" />
+    </line>
+    <line lang1="大学*４年*の*６・３・３・４制*です。" someNumber="03" image="088_004.jpg" lang2="4 года университета, называется системой 6,3,3,4.">
+      <audioTime in="7725" out="11445" />
+    </line>
+    <line lang1="中学校*まで*は*ぎむ*教育*です*が、" someNumber="None" image="088_005.jpg" lang2="Обязательное образование включает школу средней ступени,">
+      <audioTime in="11445" out="14636" />
+    </line>
+    <line lang1="高校*は*ちがいます。" someNumber="None" image="088_006.jpg" lang2="а школа старшей ступени - не является обязательной.">
+      <audioTime in="14636" out="16225" />
+    </line>
+    <line lang1="しかし、生徒*の*約*９５パーセント*は*高校*に*進みます。" someNumber="36" image="088_007.jpg" lang2="Однако 95% учеников продолжают учиться в школе старшей ступени.">
+      <audioTime in="16225" out="21297" />
+    </line>
+    <line lang1="ーそう*です*か。すみません、私*の*息子*は １２才*です。" someNumber="165" image="088_008.jpg" lang2="- Вот как! Простите, моему сыну 12 лет.">
+      <audioTime in="21297" out="27025" />
+    </line>
+    <line lang1="日本*で*は、何年生*に*なる*でしょう*か。" someNumber="None" image="088_009.jpg" lang2="В каком классе он был бы в Японии?">
+      <audioTime in="27025" out="30334" />
+    </line>
+    <line lang1="―中学校*１年生*です*ね。" someNumber="None" image="088_009.jpg" lang2="- В первом классе средней школы.">
+      <audioTime in="30334" out="33472" />
+    </line>
+    <line lang1="ー中学校*１年生*は*どんな*科目*を*勉強しています*か。" someNumber="None" image="088_011.jpg" lang2="- Какие предметы проходят ученики первого класса средней ступени?">
+      <audioTime in="33472" out="38613" />
+    </line>
+    <line lang1="ーちょっと*見て*下さい。" someNumber="None" image="088_012.jpg" lang2="- Вот, посмотрите, пожалуйста!">
+      <audioTime in="38613" out="40423" />
+    </line>
+    <line lang1="これ*は*中学校*１年生*の*娘*の*時間わり*です。" someNumber="03" image="088_013.jpg" lang2="Это расписание моей дочери, ученицы первого класса средней ступени.">
+      <audioTime in="40423" out="44490" />
+    </line>
+    <line lang1="一週間*に*４回*社会*と*いう*科目*が*あります。" someNumber="None" image="088_013.jpg" lang2="Четыре раза в неделю проходят предмет, называемый обществоведением.">
+      <audioTime in="44490" out="49632" />
+    </line>
+    <line lang1="社会*で*地理*と*歴史*を*勉強します。" someNumber="None" image="088_015.jpg" lang2="На уроках обществоведения проходят географию и историю.">
+      <audioTime in="49632" out="53607" />
+    </line>
+    <line lang1="国語*と*英語*も*一週間*に*４回*あります。" someNumber="None" image="088_016.jpg" lang2="Родной язык и английский язык также по 4 раза в неделю.">
+      <audioTime in="53607" out="57878" />
+    </line>
+    <line lang1="数学*と*理科*は*一週間*に*３回*あります。" someNumber="None" image="088_017.jpg" lang2="Математика и естествознание - по три раза в неделю.">
+      <audioTime in="57878" out="62004" />
+    </line>
+    <line lang1="―理科*で*は*何*の*勉強*を*しています*か。" someNumber="07" image="088_017.jpg" lang2="- Что изучают на уроках естествознания?">
+      <audioTime in="62004" out="65960" />
+    </line>
+    <line lang1="―物理*と*化学*と*生物*の*きそ*です。" someNumber="None" image="088_019.jpg" lang2="- Основы физики, химии и биологии.">
+      <audioTime in="65960" out="69695" />
+    </line>
+    <line lang1="それ*から*家庭科*と*音楽*と*美術*は*２回*ずつで、" someNumber="42" image="088_020.jpg" lang2="Кроме того, по 2 раза в неделю есть уроки домоводства, музыки и рисования">
+      <audioTime in="69695" out="74642" />
+    </line>
+    <line lang1="体育*は*３回*です。" someNumber="None" image="088_021.jpg" lang2="и 3 три раза - физкультура.">
+      <audioTime in="74642" out="76388" />
+    </line>
+    <line lang1="ーそう*です*か。家庭科*で*は*料理*を*作ります*か。" someNumber="None" image="088_022.jpg" lang2="- Вот как? На уроках домоводства готовят еду?">
+      <audioTime in="76388" out="81460" />
+    </line>
+    <line lang1="ーはい。料理*を*作ったり、服*を*ぬったり*します。" someNumber="79" image="088_022.jpg" lang2="- Готовят еду и шьют одежду.">
+      <audioTime in="81460" out="85484" />
+    </line>
+    <line lang1="ー音楽*と*美術*を*学ぶ*の*は*いい*です*ね。" someNumber="None" image="088_024.jpg" lang2="- Как хорошо, что изучают музыку и рисование, не правда ли!">
+      <audioTime in="85484" out="90151" />
+    </line>
+    <line lang1="息子*の*学校*で*は*もう*勉強*しません。" someNumber="None" image="088_025.jpg" lang2="У сына в школе (этих предметов) уже не проходят.">
+      <audioTime in="90151" out="93759" />
+    </line>
+    <line lang1="体育*の*授業*は*人気*が*ある*でしょう。" someNumber="None" image="088_026.jpg" lang2="Уроки физкультуры, очевидно, пользуются популярностью?">
+      <audioTime in="93759" out="98544" />
+    </line>
+    <line lang1="ーそう*です*ね。グランド*で*サッカー*を*したり、" someNumber="None" image="088_026.jpg" lang2="- Да! (Дети) играют в футбол на футбольном поле,">
+      <audioTime in="98763" out="102848" />
+    </line>
+    <line lang1="体育館*で*バスケットボール*を*したり、" someNumber="None" image="088_028.jpg" lang2="в баскетбол - в зале,">
+      <audioTime in="102848" out="105273" />
+    </line>
+    <line lang1="プール*で*泳いだり*します。" someNumber="None" image="088_029.jpg" lang2="плавают в бассейне.">
+      <audioTime in="105273" out="107143" />
+    </line>
+    <line lang1="ー武道*も*やっています*か。" someNumber="None" image="088_030.jpg" lang2="- И боевыми искусствами тоже занимаются?">
+      <audioTime in="107143" out="109316" />
+    </line>
+    <line lang1="ーはい。じゅう道、" someNumber="None" image="088_031.jpg" lang2="- Да. Занимаются дзюдо,">
+      <audioTime in="109416" out="112015" />
+    </line>
+    <line lang1="けん道、" someNumber="None" image="088_032.jpg" lang2="кэндо">
+      <audioTime in="112005" out="112754" />
+    </line>
+    <line lang1="すもう*を*やっています。" someNumber="None" image="088_033.jpg" lang2="и сумо.">
+      <audioTime in="112754" out="114325" />
+    </line>
+    <line lang1="ーけん道*と*いう*の*は*何*です*か。" someNumber="152" image="088_034.jpg" lang2="- Что такое кэндо?">
+      <audioTime in="114325" out="116876" />
+    </line>
+    <line lang1="ー武道*の*ひとつ*です。" someNumber="None" image="088_034.jpg" lang2="- Один из видов боевых искусств.">
+      <audioTime in="116876" out="118717" />
+    </line>
+    <line lang1="竹刀*で*たたかいます。" someNumber="165" image="088_034.jpg" lang2="(В кэндо) борются бамбуковыми мечами.">
+      <audioTime in="118717" out="120794" />
+    </line>
+  </lines>
+</lesson>

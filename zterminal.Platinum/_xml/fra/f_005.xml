@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="f_005.wav" dic="p005" dlgName="Знакомство." dlgFile="exr\fg005.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Bonjour." someNumber="None" image="dg\005_001.gif" lang2="- Здравствуйте.">
+      <audioTime in="0" out="995" />
+    </line>
+    <line lang1="- Bonjour, monsieur Noiret." someNumber="None" image="dg\005_001.gif" lang2="- Здравствуйте, г-н Нуарэ.">
+      <audioTime in="995" out="3733" />
+    </line>
+    <line lang1="- C'est mademoiselle Alice Dupont." someNumber="450" image="dg\005_002.gif" lang2="- Это мадмуазель Алиса Дюпон.">
+      <audioTime in="3733" out="6012" />
+    </line>
+    <line lang1="- Alice est une nouvelle étudiante. Elle est Française." someNumber="450" image="dg\005_002.gif" lang2="- Алиса новая студентка. Она француженка.">
+      <audioTime in="6012" out="8661" />
+    </line>
+    <line lang1="- Alice, c'est monsieur Gans. Il est Allemand." someNumber="None" image="dg\005_003.gif" lang2="- Алиса, это г-н Ганс. Он немец.">
+      <audioTime in="8661" out="12544" />
+    </line>
+    <line lang1="- Bonjour." someNumber="None" image="dg\005_003.gif" lang2="- Здравствуйте.">
+      <audioTime in="12544" out="13684" />
+    </line>
+    <line lang1="- Et voilà Britte. Elle est Suédoise." someNumber="None" image="dg\005_004.gif" lang2="- А вот Брит. Она шведка.">
+      <audioTime in="13684" out="16427" />
+    </line>
+    <line lang1="- Bonjour." someNumber="None" image="dg\005_004.gif" lang2="- Здравствуйте.">
+      <audioTime in="16427" out="18518" />
+    </line>
+    <line lang1="- Et voilà Dmitry. Il est Grec." someNumber="None" image="dg\005_005.gif" lang2="- А это Дмитрий. Он грек.">
+      <audioTime in="18518" out="21405" />
+    </line>
+    <line lang1="- Bonjour." someNumber="None" image="dg\005_005.gif" lang2="- Здравствуйте.">
+      <audioTime in="21405" out="22659" />
+    </line>
+    <line lang1="- Et voilà Paul. Il est Brésilien." someNumber="870" image="dg\005_006.gif" lang2="- Это Пол. Он бразилец.">
+      <audioTime in="22659" out="25646" />
+    </line>
+    <line lang1="- Bonjour." someNumber="None" image="dg\005_006.gif" lang2="- Здравствуйте.">
+      <audioTime in="25646" out="27159" />
+    </line>
+    <line lang1="- Et voilà Stella. Elle est Espagnole." someNumber="None" image="dg\005_007.gif" lang2="- А вот Стелла. Она испанка.">
+      <audioTime in="27159" out="29668" />
+    </line>
+    <line lang1="- Bonjour." someNumber="None" image="dg\005_007.gif" lang2="- Здравствуйте.">
+      <audioTime in="29668" out="31343" />
+    </line>
+  </lines>
+</lesson>

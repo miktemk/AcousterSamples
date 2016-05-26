@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="f_095.wav" dic="p095" dlgName="На вокзале." dlgFile="exr\fg095.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Deux billets de retour pour Londres, s'il vous plaît. A quelle heure partira le train suivant?" someNumber="None" image="dg\095_001.gif" lang2="- Два обратных билета в Лондон, пожалуйста. В котором часу отправится следующий поезд?">
+      <audioTime in="0" out="4811" />
+    </line>
+    <line lang1="- A 8 heures 19." someNumber="None" image="dg\095_001.gif" lang2="- В 8 часов 19 минут.">
+      <audioTime in="4811" out="5846" />
+    </line>
+    <line lang1="- Sur quel quai?" someNumber="810" image="dg\095_002.gif" lang2="- С какой платформы?">
+      <audioTime in="5846" out="7168" />
+    </line>
+    <line lang1="- Sur le quai 2. Par le pont." someNumber="810" image="dg\095_002.gif" lang2="- С платформы два. Через мост.">
+      <audioTime in="7168" out="9633" />
+    </line>
+    <line lang1="- A quelle heure partira le train suivant?" someNumber="None" image="dg\095_002.gif" lang2="- В котором часу отправится следующий поезд?">
+      <audioTime in="9633" out="12216" />
+    </line>
+    <line lang1="- A 8 h. 19." someNumber="None" image="dg\095_002.gif" lang2="- В 8.19.">
+      <audioTime in="12216" out="13484" />
+    </line>
+    <line lang1="- Nous avons encore le temps." someNumber="None" image="dg\095_003.gif" lang2="- У нас есть ещё время.">
+      <audioTime in="13484" out="14966" />
+    </line>
+    <line lang1="- Il est 8 heures moins 3." someNumber="None" image="dg\095_003.gif" lang2="- Сейчас без 3 минут 8.">
+      <audioTime in="14966" out="16577" />
+    </line>
+    <line lang1="- Allons boire quelque chose. Non loin d'ici il y a un bar." someNumber="60" image="dg\095_004.gif" lang2="- Пойдём выпьем что-нибудь. Недалеко отсюда есть бар.">
+      <audioTime in="16577" out="19596" />
+    </line>
+    <line lang1="- Ça sera mieux de retourner à la station, Michel." someNumber="None" image="dg\095_004.gif" lang2="- (Нам) будет лучше вернуться на станцию, Мишель.">
+      <audioTime in="19596" out="21975" />
+    </line>
+    <line lang1="- Vos billets, s'il vous plaît." someNumber="210" image="dg\095_005.gif" lang2="- Ваши билеты, пожалуйста.">
+      <audioTime in="21975" out="23329" />
+    </line>
+    <line lang1="- Nous voulons prendre le train de 8 h. 19. pour Londres." someNumber="None" image="dg\095_005.gif" lang2="- Мы хотим сесть на поезд 8.19 на Лондон.">
+      <audioTime in="23329" out="26157" />
+    </line>
+    <line lang1="- Il est déjà parti." someNumber="None" image="dg\095_006.gif" lang2="- Он уже уехал.">
+      <audioTime in="26157" out="27382" />
+    </line>
+    <line lang1="- Comment! Il est 8 h. 15." someNumber="None" image="dg\095_006.gif" lang2="- Как! Сейчас только 8.15">
+      <audioTime in="27382" out="29441" />
+    </line>
+    <line lang1="- Pardon, monsieur. Cette horloge retarde de 19 minutes." someNumber="470" image="dg\095_007.gif" lang2="- Извините, г-н. Эти часы отстают на 19 минут.">
+      <audioTime in="29441" out="32973" />
+    </line>
+    <line lang1="- Quand partira le train suivant?" someNumber="None" image="dg\095_007.gif" lang2="- Когда отправится следующий поезд?">
+      <audioTime in="32973" out="34646" />
+    </line>
+    <line lang1="- Dans 5 heures." someNumber="None" image="dg\095_007.gif" lang2="- Через 5 часов.">
+      <audioTime in="34646" out="35800" />
+    </line>
+  </lines>
+</lesson>

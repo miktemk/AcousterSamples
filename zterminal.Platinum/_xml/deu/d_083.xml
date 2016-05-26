@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="d_083.wav" dic="p083" dlgName="Мы хотим взять отпуск." dlgFile="exr\dg083.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Hallo, Martin!" someNumber="None" image="dg\083_001.gif" lang2="- Привет, Мартин!">
+      <audioTime in="387" out="1549" />
+    </line>
+    <line lang1="#1Komm mal #2rein!" someNumber="None" image="dg\083_001.gif" lang2="Заходи!">
+      <audioTime in="1549" out="2678" />
+    </line>
+    <line lang1="- Hallo, Martin!" someNumber="None" image="dg\083_002.gif" lang2="- Привет, Мартин.">
+      <audioTime in="2788" out="4104" />
+    </line>
+    <line lang1="Wir #essen zu Mittag." someNumber="None" image="dg\083_002.gif" lang2="Мы обедаем.">
+      <audioTime in="4104" out="5421" />
+    </line>
+    <line lang1="#Möchtest du nicht #mitessen?" someNumber="None" image="dg\083_002.gif" lang2="Не хочешь присоединиться?">
+      <audioTime in="5421" out="7279" />
+    </line>
+    <line lang1="- Nein, danke, Ralf." someNumber="None" image="dg\083_002.gif" lang2="- Нет, спасибо, Ральф.">
+      <audioTime in="7357" out="8674" />
+    </line>
+    <line lang1="Ich #habe schon #gegessen." someNumber="None" image="dg\083_002.gif" lang2="Я уже поел.">
+      <audioTime in="8674" out="10068" />
+    </line>
+    <line lang1="Ich #habe um halb eins zu Mittag #gegessen." someNumber="None" image="dg\083_002.gif" lang2="Я обедал в половине первого.">
+      <audioTime in="10068" out="12624" />
+    </line>
+    <line lang1="- Dann #nimm eine Tasse Kaffee!" someNumber="None" image="dg\083_003.gif" lang2="- Тогда возьми чашку кофе!">
+      <audioTime in="12624" out="14637" />
+    </line>
+    <line lang1="- Ich #habe eben eine Tasse Kaffee #getrunken, danke schön." someNumber="None" image="dg\083_003.gif" lang2="- Я только что выпил чашку, спасибо.">
+      <audioTime in="14792" out="18354" />
+    </line>
+    <line lang1="Ich #habe eine Tasse nach dem Mittagessen #getrunken." someNumber="None" image="dg\083_003.gif" lang2="Я выпил одну чашку после обеда.">
+      <audioTime in="18587" out="21762" />
+    </line>
+    <line lang1="- #Gehen wir ins Wohnzimmer, Petra." someNumber="None" image="dg\083_004.gif" lang2="- Давайте пойдём в гостиную, Петра.">
+      <audioTime in="21918" out="24008" />
+    </line>
+    <line lang1="Wir #können unseren Kaffee dort #trinken." someNumber="None" image="dg\083_004.gif" lang2="Мы можем там выпить наш кофе.">
+      <audioTime in="24008" out="26254" />
+    </line>
+    <line lang1="- #Entschuldige die Unordnung, Martin." someNumber="None" image="dg\083_005.gif" lang2="- Извини за беспорядок, Мартин.">
+      <audioTime in="26254" out="28655" />
+    </line>
+    <line lang1="Dieses Zimmer #habe ich nicht #aufgeräumt." someNumber="None" image="dg\083_005.gif" lang2="Эту комнату я не убирала.">
+      <audioTime in="28655" out="31056" />
+    </line>
+    <line lang1="Wir #packen unsere Koffer." someNumber="None" image="dg\083_005.gif" lang2="Мы упаковываем наши чемоданы.">
+      <audioTime in="31134" out="32915" />
+    </line>
+    <line lang1="Wir #wollen morgen #abreisen." someNumber="None" image="dg\083_005.gif" lang2="Мы собираемся уезжать завтра.">
+      <audioTime in="32993" out="34928" />
+    </line>
+    <line lang1="Ralf und ich #haben Urlaub." someNumber="None" image="dg\083_005.gif" lang2="Ральф и я собираемся в отпуск.">
+      <audioTime in="35161" out="37330" />
+    </line>
+    <line lang1="- Was #seid ihr für Glückspilze?!" someNumber="None" image="dg\083_006.gif" lang2="- Ну разве вы не счастливчики?!">
+      <audioTime in="37252" out="39885" />
+    </line>
+    <line lang1="- Wann #hast du deinen Urlaub, Martin?" someNumber="None" image="dg\083_006.gif" lang2="- Когда у тебя отпуск, Мартин?">
+      <audioTime in="39885" out="42131" />
+    </line>
+    <line lang1="- Ich #weiß nicht." someNumber="None" image="dg\083_006.gif" lang2="- Я не знаю.">
+      <audioTime in="42209" out="43757" />
+    </line>
+    <line lang1="Ich #habe ihn in diesem Jahr schon #gehabt." someNumber="None" image="dg\083_006.gif" lang2="У меня уже был отпуск в этом году.">
+      <audioTime in="43757" out="46933" />
+    </line>
+    <line lang1="- Wohin #bist du #gefahren?" someNumber="None" image="dg\083_006.gif" lang2="- Куда ты ездил?">
+      <audioTime in="47165" out="48792" />
+    </line>
+    <line lang1="- Ich #bin zu Hause #geblieben." someNumber="None" image="dg\083_006.gif" lang2="- Я оставался дома.">
+      <audioTime in="48714" out="50418" />
+    </line>
+  </lines>
+</lesson>

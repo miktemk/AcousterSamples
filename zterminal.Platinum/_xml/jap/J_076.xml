@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="j_076.wav" dlgName="Решил стать астрономом" dic="p076" />
+  <lines>
+    <line lang1="ーチン*さん、" someNumber="None" image="076_001.jpg" lang2="- Тин-сан,">
+      <audioTime in="0" out="2510" />
+    </line>
+    <line lang1="子供*の*時、どんな*将来*の*ゆめ*が*ありました*か。" someNumber="153" image="076_001.jpg" lang2="какая мечта о будущем была у Вас в детстве?">
+      <audioTime in="2510" out="6484" />
+    </line>
+    <line lang1="ー私*は*子供*の*時、宇宙*飛行士*に*なりたかった*です。" someNumber="081" image="076_003.jpg" lang2="- Я в детстве хотел стать космонавтом.">
+      <audioTime in="6484" out="12385" />
+    </line>
+    <line lang1="夜、空*が*きれい*な*時、星*が*よく*見えました。" someNumber="None" image="076_004.jpg" lang2="По ночам, когда небо бывало чистым, часто смотрел на звезды.">
+      <audioTime in="12385" out="17510" />
+    </line>
+    <line lang1="さびしい*時、この*星*に*も*生命*が*ある*の*か*と*よく*考えました。" someNumber="None" image="076_005.jpg" lang2="Когда (мне) бывало одиноко, часто размышлял, есть ли жизнь на этих звездах.">
+      <audioTime in="17510" out="23664" />
+    </line>
+    <line lang1="ーそれ*で？" someNumber="None" image="076_006.jpg" lang2="- И дальше?">
+      <audioTime in="23664" out="25821" />
+    </line>
+    <line lang1="ー高校*の*時、宇宙*研究者*に*なる*こと*に*しました。" someNumber="110" image="076_007.jpg" lang2="- Во время учебы в школе старшей ступени решил стать исследователем космоса.">
+      <audioTime in="25821" out="31122" />
+    </line>
+    <line lang1="高校*を*卒業*した*後、" someNumber="None" image="076_008.jpg" lang2="Окончив школу,">
+      <audioTime in="31122" out="34180" />
+    </line>
+    <line lang1="天文学*の*勉強*に*日本*へ*行く*こと*に*しました。" someNumber="None" image="076_009.jpg" lang2="решил поехать в Японию для изучения астрономии.">
+      <audioTime in="34180" out="38075" />
+    </line>
+    <line lang1="ーその*時、日本語*が*できました*か。" someNumber="94" image="076_010.jpg" lang2="- В то время (Вы) знали японский язык?">
+      <audioTime in="38075" out="41905" />
+    </line>
+    <line lang1="ー私*は*高校*の*時、日本語*を*勉強*した*ので、" someNumber="154" image="076_011.jpg" lang2="- Так как в школе старшей ступени я изучал японский,">
+      <audioTime in="41715" out="47018" />
+    </line>
+    <line lang1="まあ*まあ、話す*こと*が*できました。" someNumber="114" image="076_011.jpg" lang2="то немного говорил по-японски.">
+      <audioTime in="47018" out="49679" />
+    </line>
+    <line lang1="ー日本*へ*行く*前*に*日本人*の*友だち*が*いました*か。" someNumber="None" image="076_011.jpg" lang2="- Были ли у Вас японские друзья перед приездом в Японию?">
+      <audioTime in="49780" out="54227" />
+    </line>
+    <line lang1="ーええ、田中*さん*と*言う*人*と*インターネット*で*知り合いました。" someNumber="None" image="076_014.jpg" lang2="- Да. (Я) познакомился с человеком по имени Танака по интернету.">
+      <audioTime in="54227" out="59022" />
+    </line>
+    <line lang1="私*は*日本*に*行く*前*に、" someNumber="153" image="076_015.jpg" lang2="Перед приездом в Японию">
+      <audioTime in="59022" out="63768" />
+    </line>
+    <line lang1="留学*の*じょうけん*に*ついて*インターネット*で*調べました。" someNumber="None" image="076_016.jpg" lang2="(я) выяснил условия учебы за границей по интернету.">
+      <audioTime in="63768" out="67836" />
+    </line>
+    <line lang1="ーどこ*に*しました*か。" someNumber="None" image="076_017.jpg" lang2="- Где (Вы) решили (учиться)?">
+      <audioTime in="67836" out="70846" />
+    </line>
+    <line lang1="ー大阪大学にしました。" someNumber="110" image="076_018.jpg" lang2="- Решил (учиться) в Осакском университете.">
+      <audioTime in="70846" out="72941" />
+    </line>
+    <line lang1="日本*へ*行く*時、とても*心配*しました。" someNumber="None" image="076_019.jpg" lang2="(Я) очень беспокоился перед поездкой в Японию.">
+      <audioTime in="72941" out="76851" />
+    </line>
+    <line lang1="しかし、空港*に*着いた*とき*田中*さん*を*見て、安心*しました。" someNumber="None" image="076_020.jpg" lang2="Но прибыв в аэропорт, успокоился, увидев Танака-сана.">
+      <audioTime in="76851" out="82278" />
+    </line>
+    <line lang1="日本*に*いる*時、ずっと*りょう*に*住んでいました。" someNumber="153" image="076_021.jpg" lang2="Во время пребывания в Японии всё время жил в общежитии.">
+      <audioTime in="82278" out="86916" />
+    </line>
+    <line lang1="留学*している*間*に、論文*を*書きました。" someNumber="None" image="076_022.jpg" lang2="В течение учебы за границей написал диссертацию.">
+      <audioTime in="86916" out="91030" />
+    </line>
+    <line lang1="大学*を*卒業した*後、帰国しました。" someNumber="None" image="076_023.jpg" lang2="После окончания университета вернулся на родину.">
+      <audioTime in="91030" out="95319" />
+    </line>
+  </lines>
+</lesson>

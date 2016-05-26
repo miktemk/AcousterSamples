@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_008.wav" dic="p008" dlgName="Кто он по профессии?" dlgFile="exr\fg007.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Quelle est sa profession? Est-il policier ou chauffeur de taxi?" someNumber="500" image="dg\008_001.gif" lang2="- Какая у него профессия? Он полицейский или водитель такси?">
+      <audioTime in="0" out="3820" />
+    </line>
+    <line lang1="- Il n'est pas chauffeur de taxi. Il est policier." someNumber="None" image="dg\008_001.gif" lang2="- Он не водитель такси. Он полицейский.">
+      <audioTime in="3820" out="6399" />
+    </line>
+    <line lang1="- Quelle est sa profession? Est-elle policière ou hôtesse de l'air?" someNumber="None" image="dg\008_004.gif" lang2="- Какая у неё профессия? Она полицейская или стюардесса?">
+      <audioTime in="6399" out="10069" />
+    </line>
+    <line lang1="- Elle n'est pas hôtesse de l'air. Elle est policière." someNumber="None" image="dg\008_004.gif" lang2="- Она не стюардесса. Она полицейская.">
+      <audioTime in="10069" out="12633" />
+    </line>
+    <line lang1="- Quelle est sa profession? Est-il chauffeur de taxi ou policier?" someNumber="None" image="dg\008_003.gif" lang2="- Какая у него профессия? Он водитель такси или полицейский?">
+      <audioTime in="12633" out="16114" />
+    </line>
+    <line lang1="- Il n'est pas policier. Il est chauffeur de taxi." someNumber="810" image="dg\008_003.gif" lang2="- Он не полицейский. Он водитель такси.">
+      <audioTime in="16114" out="18581" />
+    </line>
+    <line lang1="- Quelle est sa profession? Est-elle hôtesse de l'air ou policière?" someNumber="None" image="dg\008_002.gif" lang2="- Какая у неё профессия? Она стюардесса или полицейская?">
+      <audioTime in="18581" out="21972" />
+    </line>
+    <line lang1="- Elle n'est pas policière. Elle est hôtesse de l'air." someNumber="90" image="dg\008_002.gif" lang2="- Она не полицейская. Она стюардесса.">
+      <audioTime in="21972" out="24484" />
+    </line>
+    <line lang1="- Quelle est sa profession? Est-il facteur ou crémier?" someNumber="None" image="dg\008_005.gif" lang2="- Какая у него профессия? Он почтальон или продавец молока?">
+      <audioTime in="24484" out="27663" />
+    </line>
+    <line lang1="- Il n'est pas crémier. Il est facteur." someNumber="None" image="dg\008_005.gif" lang2="- Он не продавец молока. Он почтальон.">
+      <audioTime in="27663" out="29842" />
+    </line>
+    <line lang1="- Quelle est sa profession? Est-elle infirmière ou ménagère?" someNumber="None" image="dg\008_006.gif" lang2="- Какая у неё профессия? Она медсестра или домашняя хозяйка?">
+      <audioTime in="29842" out="33210" />
+    </line>
+    <line lang1="- Elle n'est pas ménagère. Elle est infirmière." someNumber="None" image="dg\008_006.gif" lang2="- Она не домашняя хозяйка. Она медсестра.">
+      <audioTime in="33210" out="35649" />
+    </line>
+    <line lang1="- Quelle est sa profession? Est-il mécanicien ou coiffeur?" someNumber="None" image="dg\008_007.gif" lang2="- Какая у него профессия? Он механик или парикмахер?">
+      <audioTime in="35649" out="39038" />
+    </line>
+    <line lang1="- Il n'est pas coiffeur. Il est mécanicien." someNumber="None" image="dg\008_007.gif" lang2="- Он не парикмахер. Он механик.">
+      <audioTime in="39038" out="41205" />
+    </line>
+    <line lang1="- Quelle est sa profession? Est-il coiffeur ou mécanicien?" someNumber="None" image="dg\008_008.gif" lang2="- Какая у него профессия? Он парикмахер или механик?">
+      <audioTime in="41205" out="44589" />
+    </line>
+    <line lang1="- Il n'est pas mécanicien. Il est coiffeur." someNumber="None" image="dg\008_008.gif" lang2="- Он не механик. Он парикмахер.">
+      <audioTime in="44589" out="46886" />
+    </line>
+    <line lang1="- Quelle est sa profession? Est-elle ménagère ou infirmière?" someNumber="500" image="dg\008_009.gif" lang2="- Какая у неё профессия? Она домашняя хозяйка или медсестра?">
+      <audioTime in="46886" out="50319" />
+    </line>
+    <line lang1="- Elle n'est pas infirmière. Elle est ménagère." someNumber="None" image="dg\008_009.gif" lang2="- Она не медсестра. Она домашняя хозяйка.">
+      <audioTime in="50319" out="52665" />
+    </line>
+    <line lang1="- Quelle est sa profession? Est-il crémier ou facteur?" someNumber="None" image="dg\008_010.gif" lang2="- Какая у него профессия? Он продавец молока или почтальон?">
+      <audioTime in="52665" out="55712" />
+    </line>
+    <line lang1="- Il n'est pas facteur. Il est crémier." someNumber="None" image="dg\008_010.gif" lang2="- Он не почтальон. Он продавец молока.">
+      <audioTime in="55712" out="57638" />
+    </line>
+  </lines>
+</lesson>

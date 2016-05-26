@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="j_059.wav" dlgName="В ресторане" dic="p059" />
+  <lines>
+    <line lang1="ー何*に*しましょう*か。" someNumber="None" image="059_001.jpg" lang2="- Что будем заказывать?">
+      <audioTime in="0" out="4586" />
+    </line>
+    <line lang1="ー日本*りょうり*は*初めて*なん*です*が..." someNumber="None" image="059_001.jpg" lang2="- (Я) впервые (пробую) японскую кухню...">
+      <audioTime in="4586" out="8144" />
+    </line>
+    <line lang1="ー生魚*は*だいじょうぶ*です*か。" someNumber="None" image="059_003.jpg" lang2="- Как насчёт сырой рыбы?">
+      <audioTime in="8144" out="10508" />
+    </line>
+    <line lang1="ー分かりません。食べた*こと*が*ない*ので..." someNumber="None" image="059_003.jpg" lang2="- Не знаю. (Мне пока) не приходилось есть...">
+      <audioTime in="10508" out="13929" />
+    </line>
+    <line lang1="ーしんぱい*しないで*下さい。" someNumber="None" image="059_005.jpg" lang2="- Не беспокойтесь.">
+      <audioTime in="13929" out="15874" />
+    </line>
+    <line lang1="それ*で*は、口*に*合う*か*どう*か、分かりません*が、" someNumber="None" image="059_005.jpg" lang2="Неясно, понравится (Вам) или нет,">
+      <audioTime in="15874" out="19968" />
+    </line>
+    <line lang1="えび*の*てんぷら*と" someNumber="None" image="059_007.jpg" lang2="поэтому закажем тэмпура из креветок">
+      <audioTime in="20011" out="21578" />
+    </line>
+    <line lang1="さしみ*を*注文しましょう。" someNumber="None" image="059_007.jpg" lang2="и сасими.">
+      <audioTime in="21578" out="23832" />
+    </line>
+    <line lang1="さしみ*が*大丈夫*か*どう*か、ちょっと*ためして*下さい。" someNumber="None" image="059_009.jpg" lang2="Попробуйте немного, можете ли (Вы) есть сасими.">
+      <audioTime in="23832" out="28801" />
+    </line>
+    <line lang1="ーはい。おいしい*です。" someNumber="None" image="059_009.jpg" lang2="- Хорошо. Вкусно.">
+      <audioTime in="28801" out="31840" />
+    </line>
+    <line lang1="ところ*で、私*の*はし*の*使い方*は*どう*です*か。" someNumber="None" image="059_011.jpg" lang2="Кстати, как я справляюсь с палочками?">
+      <audioTime in="31840" out="36562" />
+    </line>
+    <line lang1="―上手*です*よ。" someNumber="None" image="059_012.jpg" lang2="- (У Вас) ловко получается.">
+      <audioTime in="36562" out="38189" />
+    </line>
+    <line lang1="これ*は*なん*だ*か*知っています*か。" someNumber="None" image="059_013.jpg" lang2="Знаете ли (Вы), что это?">
+      <audioTime in="38189" out="41116" />
+    </line>
+    <line lang1="―知りません。" someNumber="None" image="059_013.jpg" lang2="- Не знаю.">
+      <audioTime in="41116" out="42937" />
+    </line>
+    <line lang1="ーこれ*は*みそしる*です。日本人*の*好き*な*スープ*です。" someNumber="None" image="059_013.jpg" lang2="- Это суп из мисо. Любимый суп японцев.">
+      <audioTime in="42937" out="47695" />
+    </line>
+    <line lang1="ちょっと*飲んで*ください。" someNumber="None" image="059_016.jpg" lang2="Выпейте немного (этого супа).">
+      <audioTime in="47695" out="50399" />
+    </line>
+    <line lang1="どう*です*か。" someNumber="None" image="059_016.jpg" lang2="Как (Вам)?">
+      <audioTime in="50399" out="52566" />
+    </line>
+    <line lang1="ーからく*も*あまく*も*ありません。" someNumber="None" image="059_018.jpg" lang2="- Не остро и не сладко.">
+      <audioTime in="52566" out="56678" />
+    </line>
+    <line lang1="とても*いい*味*です。" someNumber="None" image="059_018.jpg" lang2="(Он) очень хорош на вкус.">
+      <audioTime in="56678" out="58735" />
+    </line>
+    <line lang1="この*白い*の*は*何*です*か。" someNumber="None" image="059_020.jpg" lang2="А что вот это белое?">
+      <audioTime in="58735" out="61426" />
+    </line>
+    <line lang1="ーそれ*は*とうふ*です。" someNumber="None" image="059_021.jpg" lang2="- Это тофу (соевый творог).">
+      <audioTime in="61426" out="64121" />
+    </line>
+    <line lang1="ー日本*りょうり*は*体*に*いい*です*か。" someNumber="None" image="059_022.jpg" lang2="- Японская кухня полезна для здоровья?">
+      <audioTime in="64121" out="67981" />
+    </line>
+    <line lang1="ーええ。油*を*あまり*使わない*し、" someNumber="None" image="059_023.jpg" lang2="- Да. Потому что почти не употребляют жиров,">
+      <audioTime in="67981" out="71496" />
+    </line>
+    <line lang1="しお*も*あまり*使わない*から*です。" someNumber="None" image="059_024.jpg" lang2="и соли почти не употребляют.">
+      <audioTime in="71496" out="74378" />
+    </line>
+    <line lang1="ーそれ*に*肉*より*魚*の*方*が*多い*から*です*ね。" someNumber="None" image="059_025.jpg" lang2="- Ещё потому что рыбы употребляют больше, чем мяса, правда.">
+      <audioTime in="74378" out="79160" />
+    </line>
+    <line lang1="ーそう*です*ね。和食*は*海*の*もの*や*野菜*を*たくさん*使って、バランス*の*いい*料理*です。" someNumber="None" image="059_026.jpg" lang2="- Это так. Японская кухня использует много морепродуктов и овощей и поэтому хорошо сбалансирована.">
+      <audioTime in="79448" out="86651" />
+    </line>
+    <line lang1="でも、日本人*は*牛肉*は*もちろん、" someNumber="None" image="059_028.jpg" lang2="Но японцы едят также много говядины,">
+      <audioTime in="86651" out="90704" />
+    </line>
+    <line lang1="鳥肉*や*ぶた肉*も*たくさん*食べます*よ。" someNumber="None" image="059_029.jpg" lang2="а кроме того птицы и свинины.">
+      <audioTime in="90704" out="94452" />
+    </line>
+  </lines>
+</lesson>

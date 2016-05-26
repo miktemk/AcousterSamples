@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_144.wav" dic="p144" dlgName="Кто-нибудь уже?.." dlgFile="exr\dg144.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Hat jemand dieses Fenster #geöffnet?" someNumber="710" image="dg\144_001.gif" lang2="- Кто-нибудь открывал это окно?">
+      <audioTime in="816" out="3116" />
+    </line>
+    <line lang1="- Ja, dieses Fenster #ist schon #geöffnet." someNumber="370" image="dg\144_001.gif" lang2="- Да, это окно уже открыто.">
+      <audioTime in="3116" out="5416" />
+    </line>
+    <line lang1="- #Hat jemand diese Hefte #geprüft?" someNumber="None" image="dg\144_002.gif" lang2="- Кто-нибудь проверял эти тетрадки?">
+      <audioTime in="5712" out="7641" />
+    </line>
+    <line lang1="- Ja, sie #sind schon #geprüft." someNumber="710" image="dg\144_002.gif" lang2="- Да, они уже проверены.">
+      <audioTime in="7864" out="9644" />
+    </line>
+    <line lang1="- #Wird jemand den Fußboden #fegen?" someNumber="None" image="dg\144_003.gif" lang2="- Не подметёт ли кто-нибудь пол?">
+      <audioTime in="10164" out="12389" />
+    </line>
+    <line lang1="- Ja, er #wird bald #gefegt." someNumber="None" image="dg\144_003.gif" lang2="- Да, он скоро будет подметён.">
+      <audioTime in="12537" out="14318" />
+    </line>
+    <line lang1="- #Wird jemand ihnen davon #erzählen?" someNumber="None" image="dg\144_004.gif" lang2="- Не расскажет ли кто-нибудь им об этом?">
+      <audioTime in="14615" out="17211" />
+    </line>
+    <line lang1="- Ja, es #hat ihnen schon jemand davon #erzählt." someNumber="None" image="dg\144_004.gif" lang2="- Да, им уже кто-то рассказал об этом.">
+      <audioTime in="17433" out="20327" />
+    </line>
+    <line lang1="- #Hat jemand sie #eingeladen?" someNumber="580" image="dg\144_005.gif" lang2="- Кто-нибудь пригласил их?">
+      <audioTime in="20327" out="22330" />
+    </line>
+    <line lang1="- Ja, sie #sind schon #eingeladen." someNumber="890" image="dg\144_005.gif" lang2="- Да, они уже приглашены.">
+      <audioTime in="22478" out="24853" />
+    </line>
+    <line lang1="- #Wird ihn jemand #bedienen?" someNumber="None" image="dg\144_006.gif" lang2="- Не обслужит ли кто-нибудь его?">
+      <audioTime in="25224" out="27004" />
+    </line>
+    <line lang1="- Ja, er #wird bald #bedient." someNumber="600" image="dg\144_006.gif" lang2="- Да, его скоро обслужат.">
+      <audioTime in="26856" out="28636" />
+    </line>
+    <line lang1="- #Hat jemand diesen Wagen schon #repariert?" someNumber="None" image="dg\144_007.gif" lang2="- Кто-нибудь уже ремонтировал этот автомобиль?">
+      <audioTime in="29452" out="31901" />
+    </line>
+    <line lang1="- Ja, er #ist schon #repariert." someNumber="None" image="dg\144_007.gif" lang2="- Да, он уже отремонтирован.">
+      <audioTime in="31901" out="33977" />
+    </line>
+    <line lang1="- #Wird sie jemand #finden?" someNumber="380" image="dg\144_008.gif" lang2="- Не найдет ли кто-нибудь их?">
+      <audioTime in="34572" out="36500" />
+    </line>
+    <line lang1="- Ja, sie #werden bald #gefunden." someNumber="600" image="dg\144_008.gif" lang2="- Да, они скоро найдутся.">
+      <audioTime in="36574" out="38874" />
+    </line>
+    <line lang1="- #Hat jemand dieses Messer schon #geschärft?" someNumber="None" image="dg\144_009.gif" lang2="- Кто-нибудь уже заточил этот нож?">
+      <audioTime in="39542" out="42065" />
+    </line>
+    <line lang1="- Ja, es #ist schon #geschärft." someNumber="None" image="dg\144_009.gif" lang2="- Да, он уже заточен.">
+      <audioTime in="41916" out="43919" />
+    </line>
+    <line lang1="- #Wird jemand diese Messer #schärfen?" someNumber="600" image="dg\144_010.gif" lang2="- Кто-нибудь заточит эти ножи?">
+      <audioTime in="44586" out="47183" />
+    </line>
+    <line lang1="- Ja, sie #werden bald #geschärft." someNumber="720" image="dg\144_010.gif" lang2="- Да, они скоро будут заточены.">
+      <audioTime in="47331" out="49186" />
+    </line>
+  </lines>
+</lesson>

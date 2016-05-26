@@ -1,0 +1,62 @@
+<lesson>
+  <header wav="FR_040.wav" dlgName="Альбом фотографий" dlgFile="exr\frg040.txt" />
+  <lines>
+    <line lang1="- Qu'est-ce que c'est?" someNumber="None" image="f.jpg" lang2="- Что это?">
+      <audioTime in="0" out="2002" />
+    </line>
+    <line lang1="- C'est un album." someNumber="None" image="f.jpg" lang2="- Это альбом.">
+      <audioTime in="2002" out="3978" />
+    </line>
+    <line lang1="- En effet. Est-ce que ce sont des photos de famille?" someNumber="None" image="f.jpg" lang2="- Действительно. Это семейные фотографии?">
+      <audioTime in="3978" out="8035" />
+    </line>
+    <line lang1="- Oui. Voici le portrait de mes grands-parents." someNumber="None" image="f.jpg" lang2="- Да. Вот портрет моего дедушки и моей бабушки.">
+      <audioTime in="8035" out="12305" />
+    </line>
+    <line lang1="Regardez, mon grand-père a une longue moustache" someNumber="None" image="f.jpg" lang2="Смотрите. У моего дедушки длинные усы,">
+      <audioTime in="12305" out="17561" />
+    </line>
+    <line lang1="et ma grand-mère porte un grand châle noir." someNumber="None" image="f.jpg" lang2="а моя бабушка носит большую чёрную шаль.">
+      <audioTime in="17561" out="21970" />
+    </line>
+    <line lang1="- C'est un très joli portrait." someNumber="None" image="f.jpg" lang2="- Это очень красивый портрет.">
+      <audioTime in="21970" out="24764" />
+    </line>
+    <line lang1="- Et regardez maintenant cette photographie en couleurs." someNumber="None" image="f.jpg" lang2="- А теперь посмотрите на эту цветную фотографию.">
+      <audioTime in="24764" out="29519" />
+    </line>
+    <line lang1="C'est le portrait de mes parents." someNumber="None" image="f.jpg" lang2="Это портрет моих родителей.">
+      <audioTime in="29519" out="32578" />
+    </line>
+    <line lang1="- Votre père est très élégant et votre mère est jeune encore." someNumber="None" image="f.jpg" lang2="- Ваш отец очень элегантен, а ваша мать ещё молода.">
+      <audioTime in="32578" out="38432" />
+    </line>
+    <line lang1="Quel âge a-t-elle?" someNumber="None" image="f.jpg" lang2="Сколько ей лет?">
+      <audioTime in="38432" out="39890" />
+    </line>
+    <line lang1="- Elle n'a que 38 ans." someNumber="None" image="f.jpg" lang2="- Ей всего лишь 38 лет.">
+      <audioTime in="39890" out="42180" />
+    </line>
+    <line lang1="- Et quelle est cette photo, à côté?" someNumber="None" image="f.jpg" lang2="- А что это за фотография рядом?">
+      <audioTime in="42180" out="45224" />
+    </line>
+    <line lang1="- C'est la photo de ma sœur." someNumber="None" image="f.jpg" lang2="- Это фотография моей сестры.">
+      <audioTime in="45224" out="48121" />
+    </line>
+    <line lang1="- Comme elle est jolie! Est-ce qu'elle est mariée?" someNumber="None" image="f.jpg" lang2="- Какая она красивая! Она замужем?">
+      <audioTime in="48121" out="51533" />
+    </line>
+    <line lang1="- Oui. Voici la photo de son mari." someNumber="None" image="f.jpg" lang2="- Да. Вот фотография её мужа.">
+      <audioTime in="51533" out="55188" />
+    </line>
+    <line lang1="- Est-ce qu'ils ont des enfants?" someNumber="None" image="f.jpg" lang2="- У них есть дети?">
+      <audioTime in="55188" out="57378" />
+    </line>
+    <line lang1="- Oui, ils ont un garçon et une fille." someNumber="None" image="f.jpg" lang2="- Да, у них мальчик и девочка.">
+      <audioTime in="57378" out="61172" />
+    </line>
+    <line lang1="Voici leurs photos." someNumber="None" image="f.jpg" lang2="Вот их фотография.">
+      <audioTime in="61172" out="63863" />
+    </line>
+  </lines>
+</lesson>

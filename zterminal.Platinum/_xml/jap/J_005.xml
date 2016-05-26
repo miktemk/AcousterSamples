@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="J_005.wav" dlgName="Это и этот" dic="p005" />
+  <lines>
+    <line lang1="ーこれ*は*わたし*の*へや*です。" someNumber="03" image="005_001.jpg" lang2="- Это - моя комната.">
+      <audioTime in="0" out="3806" />
+    </line>
+    <line lang1="―ひろい*へや*です*ね。" someNumber="134" image="005_001.jpg" lang2="- Какая просторная!">
+      <audioTime in="3806" out="6390" />
+    </line>
+    <line lang1="この*かびん*は*ちゅうごく*の*かびん*です*か。" someNumber="53" image="005_003.jpg" lang2="Эта ваза китайская?">
+      <audioTime in="6390" out="11073" />
+    </line>
+    <line lang1="―はい。それ*は*ちゅうごく*の*かびん*です。" someNumber="None" image="005_003.jpg" lang2="- Да. Это - китайская ваза.">
+      <audioTime in="11073" out="16848" />
+    </line>
+    <line lang1="その*かびん*は*とても*ふるい*です。" someNumber="112" image="005_003.jpg" lang2="Эта ваза очень старая.">
+      <audioTime in="16848" out="21354" />
+    </line>
+    <line lang1="ーこの*かびん*は*たかい*です*ね。" someNumber="None" image="005_006.jpg" lang2="- Эта ваза дорогая, не так ли?">
+      <audioTime in="21354" out="25534" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="005_006.jpg" lang2="- Да, это так.">
+      <audioTime in="25534" out="28653" />
+    </line>
+    <line lang1="ーその*とけい*も*ふるい*です*か。" someNumber="None" image="005_008.jpg" lang2="- Те часы тоже старые?">
+      <audioTime in="28653" out="32488" />
+    </line>
+    <line lang1="―この*ちいさい*とけい*は*ふるい*です。" someNumber="None" image="005_008.jpg" lang2="- Эти маленькие часы - старые.">
+      <audioTime in="32488" out="37168" />
+    </line>
+    <line lang1="しかし、あの*おおきい*とけい*は*あたらしい*です。" someNumber="None" image="005_010.jpg" lang2="Но вон те большие часы - новые.">
+      <audioTime in="37168" out="41456" />
+    </line>
+    <line lang1="―あの*え*は*うつくしい*です*ね。" someNumber="None" image="005_011.jpg" lang2="- Как красива вон та картина!">
+      <audioTime in="41456" out="45285" />
+    </line>
+    <line lang1="―そう*です*ね。" someNumber="None" image="005_011.jpg" lang2="- Действительно!">
+      <audioTime in="45285" out="48042" />
+    </line>
+    <line lang1="―あれ*は*さくら*です*か。" someNumber="None" image="005_011.jpg" lang2="- Это сакура?">
+      <audioTime in="48042" out="51402" />
+    </line>
+    <line lang1="―ええ。さくら*の*えだ*です。" someNumber="None" image="005_011.jpg" lang2="- Да. Это ветка сакуры.">
+      <audioTime in="51402" out="55555" />
+    </line>
+    <line lang1="―これ*は*やまもと*さん*の*つくえ*です*か。" someNumber="None" image="005_015.jpg" lang2="- Г-жа Ямамото, это Ваш письменный стол?">
+      <audioTime in="55555" out="60039" />
+    </line>
+    <line lang1="―そう*です。わたし*の*つくえ*です。" someNumber="None" image="005_015.jpg" lang2="- Да. (Это) мой стол.">
+      <audioTime in="60039" out="64871" />
+    </line>
+    <line lang1="それ*は*わたし*の*本*です。" someNumber="13" image="005_015.jpg" lang2="Это мои книги.">
+      <audioTime in="64871" out="67539" />
+    </line>
+    <line lang1="その*あつい*本*は*じしょ*です。" someNumber="171" image="005_018.jpg" lang2="Те толстые книги - словари.">
+      <audioTime in="67539" out="71233" />
+    </line>
+    <line lang1="うすい*の*は*えいご*の*本*です。" someNumber="142" image="005_019.jpg" lang2="Тонкие книги - книги на английском языке.">
+      <audioTime in="71233" out="75363" />
+    </line>
+    <line lang1="―この*しんぶん*も*えいご*の*しんぶん*です*ね。" someNumber="172" image="005_020.jpg" lang2="- Эта газета тоже на английском языке, не так ли?">
+      <audioTime in="75363" out="79826" />
+    </line>
+    <line lang1="―ええ。" someNumber="None" image="005_020.jpg" lang2="- Да.">
+      <audioTime in="79648" out="82100" />
+    </line>
+    <line lang1="―どの*きじ*が*おもしろい*です*か。" someNumber="02" image="005_020.jpg" lang2="- Которая из заметок интересная?">
+      <audioTime in="82100" out="85880" />
+    </line>
+    <line lang1="―この*きじ*が*おもしろい*です。" someNumber="None" image="005_023.jpg" lang2="- Вот эта заметка интересная.">
+      <audioTime in="85880" out="89915" />
+    </line>
+  </lines>
+</lesson>

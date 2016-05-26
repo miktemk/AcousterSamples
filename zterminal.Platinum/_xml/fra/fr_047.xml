@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="FR_047.wav" dlgName="Покупки" dlgFile="exr\frg047.txt" />
+  <lines>
+    <line lang1="- Pardon madame, pouvez-vous me donner quelques renseignememts?" someNumber="None" image="f.jpg" lang2="- Извините, можете ли вы меня проинформировать?">
+      <audioTime in="0" out="4641" />
+    </line>
+    <line lang1="- Avec plaisir. De quoi s'agit-il?" someNumber="None" image="f.jpg" lang2="- С удовольствием. В чем дело?">
+      <audioTime in="4641" out="7945" />
+    </line>
+    <line lang1="- J'ai une foule d'achats à faire et je ne connais pas bien le quartier." someNumber="None" image="f.jpg" lang2="- Мне нужно многое купить, а я не знаю хорошо этого района.">
+      <audioTime in="7945" out="13507" />
+    </line>
+    <line lang1="Pouvez-vous me dire où vous achetez votre lait?" someNumber="None" image="f.jpg" lang2="Можете ли вы сказать, где вы покупаете молоко?">
+      <audioTime in="13507" out="16982" />
+    </line>
+    <line lang1="- A la crémerie qui est au bout de la rue." someNumber="None" image="f.jpg" lang2="- В молочном магазине, который находится в конце улицы.">
+      <audioTime in="16982" out="19918" />
+    </line>
+    <line lang1="Vous y trouverez aussi des œufs bien frais." someNumber="None" image="f.jpg" lang2="Вы там найдете также свежие яйца.">
+      <audioTime in="19918" out="23286" />
+    </line>
+    <line lang1="- Et où est-ce qu'on peut trouver des brioches?" someNumber="None" image="f.jpg" lang2="- А где вы покупаете свежие булочки?">
+      <audioTime in="23286" out="26067" />
+    </line>
+    <line lang1="- Chez les pâtissiers de l'autre côte de la rue." someNumber="None" image="f.jpg" lang2="- У кондитера на другой стороне улицы.">
+      <audioTime in="26067" out="29672" />
+    </line>
+    <line lang1="- Et où achetez-vous votre fromage?" someNumber="None" image="f.jpg" lang2="- А где вы покупаете сыр?">
+      <audioTime in="29672" out="32786" />
+    </line>
+    <line lang1="- A la même crémerie que le lait." someNumber="None" image="f.jpg" lang2="- В том же молочном магазине, где и молоко.">
+      <audioTime in="32786" out="34884" />
+    </line>
+    <line lang1="- Est-ce qu'il y a une épicerie tout près d'ici?" someNumber="None" image="f.jpg" lang2="- Есть ли здесь вблизи бакалея?">
+      <audioTime in="34884" out="39149" />
+    </line>
+    <line lang1="- Oh, oui! Il ne manque pas d'épicerie dans le voisinage." someNumber="None" image="f.jpg" lang2="- О, да. Недалеко отсюда много продовольственных магазинов.">
+      <audioTime in="39149" out="43430" />
+    </line>
+    <line lang1="Tenez! En face de nous, il y a une grande épicerie" someNumber="None" image="f.jpg" lang2="Смотрите! Напротив нас находится большой продовольственный магазин,">
+      <audioTime in="43430" out="47857" />
+    </line>
+    <line lang1="où vous trouverez tout ce qu'il vous faut." someNumber="None" image="f.jpg" lang2="где вы найдете всё, что вам надо.">
+      <audioTime in="47857" out="50620" />
+    </line>
+    <line lang1="- Merci, madame." someNumber="None" image="f.jpg" lang2="- Спасибо.">
+      <audioTime in="50620" out="52961" />
+    </line>
+  </lines>
+</lesson>

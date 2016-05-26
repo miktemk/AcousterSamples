@@ -1,0 +1,80 @@
+<lesson>
+  <header wav="J_043.wav" dlgName="Встать в 7 часов" dic="p043" />
+  <lines>
+    <line lang1="７時*に*おきる。" someNumber="63" image="043_001.jpg" lang2="- Встать в 7 часов.">
+      <audioTime in="0" out="2851" />
+    </line>
+    <line lang1="１２時*に*ねる。" someNumber="66" image="043_002.jpg" lang2="Лечь в 12 часов.">
+      <audioTime in="2851" out="5751" />
+    </line>
+    <line lang1="ドア*を*開ける。" someNumber="05" image="043_003.jpg" lang2="Открыть дверь.">
+      <audioTime in="5751" out="8512" />
+    </line>
+    <line lang1="ドア*を*閉める。" someNumber="None" image="043_004.jpg" lang2="Закрыть дверь.">
+      <audioTime in="8512" out="11315" />
+    </line>
+    <line lang1="家*を*出る。" someNumber="None" image="043_005.jpg" lang2="Выйти из дома.">
+      <audioTime in="11315" out="14852" />
+    </line>
+    <line lang1="家*に*かえる。" someNumber="04" image="043_006.jpg" lang2="Вернуться домой.">
+      <audioTime in="14852" out="17783" />
+    </line>
+    <line lang1="へや*に*入る。" someNumber="None" image="043_007.jpg" lang2="Войти в комнату.">
+      <audioTime in="17783" out="20682" />
+    </line>
+    <line lang1="おふろ*に*入る。" someNumber="None" image="043_008.jpg" lang2="Принимать ванну.">
+      <audioTime in="20682" out="23488" />
+    </line>
+    <line lang1="びん*に*水*を*入れる。" someNumber="None" image="043_009.jpg" lang2="Налить воду в бутылку.">
+      <audioTime in="23488" out="27107" />
+    </line>
+    <line lang1="テレビ*を*見る。" someNumber="None" image="043_010.jpg" lang2="Смотреть телевизор.">
+      <audioTime in="27107" out="30083" />
+    </line>
+    <line lang1="魚*を*食べる。" someNumber="None" image="043_011.jpg" lang2="Есть рыбу.">
+      <audioTime in="30083" out="33028" />
+    </line>
+    <line lang1="はし*で*食べる。" someNumber="07" image="043_012.jpg" lang2="Есть палочками.">
+      <audioTime in="33028" out="35895" />
+    </line>
+    <line lang1="レストラン*で*食べる。" someNumber="None" image="043_013.jpg" lang2="Есть в ресторане.">
+      <audioTime in="35895" out="38936" />
+    </line>
+    <line lang1="花*を*いける。" someNumber="05" image="043_014.jpg" lang2="Расположить цветы в вазе.">
+      <audioTime in="38936" out="42136" />
+    </line>
+    <line lang1="しつもん*に*こたえる。" someNumber="None" image="043_015.jpg" lang2="Ответить на вопрос.">
+      <audioTime in="42136" out="45383" />
+    </line>
+    <line lang1="日本語*を*教える。" someNumber="None" image="043_016.jpg" lang2="Преподавать японский язык.">
+      <audioTime in="45383" out="48630" />
+    </line>
+    <line lang1="本*を*かりる。" someNumber="None" image="043_017.jpg" lang2="- Взять на время книгу.">
+      <audioTime in="48630" out="52051" />
+    </line>
+    <line lang1="きもの*を*きる。" someNumber="None" image="043_018.jpg" lang2="Надеть кимоно.">
+      <audioTime in="52051" out="54607" />
+    </line>
+    <line lang1="１０時*に*来る。" someNumber="64" image="043_019.jpg" lang2="- Придти в 10 часов.">
+      <audioTime in="54607" out="57963" />
+    </line>
+    <line lang1="しごと*を*する。" someNumber="64" image="043_020.jpg" lang2="- Работать.">
+      <audioTime in="57963" out="61594" />
+    </line>
+    <line lang1="せんたく*を*する。" someNumber="None" image="043_021.jpg" lang2="Стирать.">
+      <audioTime in="61594" out="64099" />
+    </line>
+    <line lang1="きょうしつ*で*べんきょう*する。" someNumber="None" image="043_022.jpg" lang2="Заниматься в аудитории.">
+      <audioTime in="64099" out="67838" />
+    </line>
+    <line lang1="車*を*うんてん*する。" someNumber="None" image="043_023.jpg" lang2="Водить машину.">
+      <audioTime in="67838" out="70640" />
+    </line>
+    <line lang1="バドミントン*を*する。" someNumber="None" image="043_024.jpg" lang2="Играть в бадминтон.">
+      <audioTime in="70640" out="73681" />
+    </line>
+    <line lang1="空手*を*する。" someNumber="None" image="043_025.jpg" lang2="Заниматься карате.">
+      <audioTime in="73681" out="76340" />
+    </line>
+  </lines>
+</lesson>

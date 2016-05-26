@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="j_017.wav" dlgName="Покупка компьютера" dic="p017" />
+  <lines>
+    <line lang1="ーここ*は*あきはばら*です。" someNumber="None" image="017_001.jpg" lang2="- Это Акихабара.">
+      <audioTime in="0" out="3687" />
+    </line>
+    <line lang1="テレビ、ビデオ、カメラ、コンピュータ*など*の*でんきせいひん*の*みせ*が*たくさん*あります。" someNumber="166" image="017_002.jpg" lang2="(Здесь) много магазинов, торгующих телевизорами, видеомагнитофонами, фотоаппаратами, компьютерами, прочими электронными товарами.">
+      <audioTime in="3687" out="13593" />
+    </line>
+    <line lang1="ーコンピュータ*が*いろいろ*あります*ね。" someNumber="134" image="017_003.jpg" lang2="- Как много разных компьютеров!">
+      <audioTime in="13593" out="17977" />
+    </line>
+    <line lang1="すみません、この*コンピュータ*は*いくら*です*か。" someNumber="None" image="017_005.jpg" lang2="Простите, сколько стоит этот компьютер?">
+      <audioTime in="17977" out="23814" />
+    </line>
+    <line lang1="ー１２万*８千*円*です。あまり*たかく*ありません。" someNumber="27" image="017_006.jpg" lang2="- 128 000 иен. Это не очень дорого.">
+      <audioTime in="23814" out="32465" />
+    </line>
+    <line lang1="ーそう*です*か。たかい*の*は*いくら*です*か。" someNumber="142" image="017_007.jpg" lang2="- Вот как. А в какую цену дорогие?">
+      <audioTime in="32465" out="37292" />
+    </line>
+    <line lang1="ーたとえば、この*コンピュータ*は*１７万*３千*円*です。" someNumber="None" image="017_008.jpg" lang2="- Например, этот компьютер стоит 173 000 иен.">
+      <audioTime in="37292" out="45389" />
+    </line>
+    <line lang1="やすく*ありません。" someNumber="None" image="017_009.jpg" lang2="Это не дёшево.">
+      <audioTime in="45389" out="48341" />
+    </line>
+    <line lang1="ーそう*です*ね。でも、もっと*たかい*コンピュータ*も*あります*ね。" someNumber="28" image="017_009.jpg" lang2="- В самом деле. Но ведь есть ещё более дорогие компьютеры.">
+      <audioTime in="48341" out="54983" />
+    </line>
+    <line lang1="これ*は*２５万*８千*円*です。" someNumber="33" image="017_011.jpg" lang2="Вот этот стоит 258 000 иен.">
+      <audioTime in="54983" out="60314" />
+    </line>
+    <line lang1="ーそれ*は*あたらしくて*いい*モデル*です。" someNumber="23" image="017_012.jpg" lang2="- Это новая и хорошая модель.">
+      <audioTime in="60233" out="66527" />
+    </line>
+    <line lang1="とても*べんり*です。" someNumber="24" image="017_012.jpg" lang2="Он очень удобен (в эксплуатации).">
+      <audioTime in="66527" out="69427" />
+    </line>
+    <line lang1="ーそう*です*ね。ちいさくて*かるい*もの*です。" someNumber="None" image="017_012.jpg" lang2="- В самом деле. Он компактный и лёгкий.">
+      <audioTime in="69427" out="75672" />
+    </line>
+    <line lang1="でも、たかい*です。" someNumber="None" image="017_015.jpg" lang2="Однако дорогой.">
+      <audioTime in="75672" out="78198" />
+    </line>
+    <line lang1="じゃ、あの*１２万*８千*円*の*コンピュータ*に*します。" someNumber="None" image="017_016.jpg" lang2="Ладно, возьму компьютер за 128 000 иен.">
+      <audioTime in="78198" out="84509" />
+    </line>
+    <line lang1="ーありがとう*ございました。" someNumber="None" image="017_017.jpg" lang2="- Большое спасибо.">
+      <audioTime in="84509" out="88673" />
+    </line>
+  </lines>
+</lesson>

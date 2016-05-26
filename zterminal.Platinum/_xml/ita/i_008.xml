@@ -1,0 +1,125 @@
+<lesson>
+  <header wav="i_008.wav" dic="p008" dlgName="Кто он по профессии?" dlgFile="exr\ig007.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Che lavoro fa lui?" someNumber="370" image="dg\008_001.gif" lang2="- Какова его работа?">
+      <audioTime in="242" out="1784" />
+    </line>
+    <line lang1="Fa il poliziotto o il tassista?" someNumber="None" image="dg\008_001.gif" lang2="Он полицейский или водитель такси?">
+      <audioTime in="1682" out="4256" />
+    </line>
+    <line lang1="- Lui non fa il tassista." someNumber="None" image="dg\008_001.gif" lang2="- Он не водитель такси.">
+      <audioTime in="4256" out="6152" />
+    </line>
+    <line lang1="Fa il poliziotto." someNumber="None" image="dg\008_001.gif" lang2="Он - полицейский.">
+      <audioTime in="6191" out="7468" />
+    </line>
+    <line lang1="- Che lavoro fa lei?" someNumber="None" image="dg\008_004.gif" lang2="- Какова её работа?">
+      <audioTime in="7507" out="9223" />
+    </line>
+    <line lang1="Fa la poliziotta o l'hostess?" someNumber="None" image="dg\008_004.gif" lang2="Она женщина-полицейский или стюардесса?">
+      <audioTime in="9223" out="11661" />
+    </line>
+    <line lang1="- Lei non fa l'hostess." someNumber="None" image="dg\008_004.gif" lang2="- Она не стюардесса.">
+      <audioTime in="11661" out="13107" />
+    </line>
+    <line lang1="Fa la poliziotta." someNumber="None" image="dg\008_004.gif" lang2="Она - женщина-полицейский.">
+      <audioTime in="13189" out="14521" />
+    </line>
+    <line lang1="- Che lavoro fa lui?" someNumber="None" image="dg\008_003.gif" lang2="- Какова его работа?">
+      <audioTime in="14461" out="16312" />
+    </line>
+    <line lang1="Fa il tassista o il poliziotto?" someNumber="None" image="dg\008_003.gif" lang2="Он водитель такси или полицейский?">
+      <audioTime in="16312" out="19112" />
+    </line>
+    <line lang1="- Lui non fa il poliziotto." someNumber="None" image="dg\008_003.gif" lang2="- Он не полицейский.">
+      <audioTime in="19112" out="21369" />
+    </line>
+    <line lang1="Fa il tassista." someNumber="None" image="dg\008_003.gif" lang2="Он - водитель такси.">
+      <audioTime in="21369" out="22589" />
+    </line>
+    <line lang1="- Che lavoro fa lei?" someNumber="None" image="dg\008_002.gif" lang2="- Какова её работа?">
+      <audioTime in="22589" out="24350" />
+    </line>
+    <line lang1="Lei fa l'hostess o la poliziotta?" someNumber="None" image="dg\008_002.gif" lang2="Она стюардесса или женщина-полицейский?">
+      <audioTime in="24350" out="27150" />
+    </line>
+    <line lang1="- Lei non fa la poliziotta." someNumber="None" image="dg\008_002.gif" lang2="- Она не полицейский.">
+      <audioTime in="27275" out="28922" />
+    </line>
+    <line lang1="Lei fa l'hostess." someNumber="None" image="dg\008_002.gif" lang2="Она - стюардесса.">
+      <audioTime in="28940" out="30069" />
+    </line>
+    <line lang1="- Che lavoro fa lui?" someNumber="None" image="dg\008_005.gif" lang2="- Какова его работа?">
+      <audioTime in="30039" out="31574" />
+    </line>
+    <line lang1="Fa il postino o il lattaio?" someNumber="None" image="dg\008_005.gif" lang2="Он почтальон или продавец молока?">
+      <audioTime in="31574" out="34283" />
+    </line>
+    <line lang1="- Lui non fa il lattaio." someNumber="None" image="dg\008_005.gif" lang2="- Он не продавец молока.">
+      <audioTime in="34284" out="36270" />
+    </line>
+    <line lang1="Fa il postino." someNumber="None" image="dg\008_005.gif" lang2="Он - почтальон.">
+      <audioTime in="36270" out="38031" />
+    </line>
+    <line lang1="- Che lavoro fa lei?" someNumber="None" image="dg\008_006.gif" lang2="- Какова её работа?">
+      <audioTime in="38031" out="39567" />
+    </line>
+    <line lang1="Fa l'infermiera o la domestica?" someNumber="None" image="dg\008_006.gif" lang2="Она медсестра или домашняя хозяйка?">
+      <audioTime in="39567" out="42005" />
+    </line>
+    <line lang1="- Lei non fa la domestica." someNumber="None" image="dg\008_006.gif" lang2="- Она не домашняя хозяйка.">
+      <audioTime in="42005" out="43991" />
+    </line>
+    <line lang1="Fa l'infermiera." someNumber="None" image="dg\008_006.gif" lang2="Она - медсестра.">
+      <audioTime in="43992" out="45301" />
+    </line>
+    <line lang1="- Che lavoro fa lui?" someNumber="None" image="dg\008_007.gif" lang2="- Какова его работа?">
+      <audioTime in="45301" out="46837" />
+    </line>
+    <line lang1="Fa il meccanico o il barbiere?" someNumber="None" image="dg\008_007.gif" lang2="Он механик или парикмахер?">
+      <audioTime in="46837" out="49365" />
+    </line>
+    <line lang1="- Lui non fa il barbiere." someNumber="None" image="dg\008_007.gif" lang2="- Он не парикмахер.">
+      <audioTime in="49365" out="51352" />
+    </line>
+    <line lang1="Fa il meccanico." someNumber="None" image="dg\008_007.gif" lang2="Он - механик.">
+      <audioTime in="51352" out="52842" />
+    </line>
+    <line lang1="- Che lavoro fa lui?" someNumber="None" image="dg\008_008.gif" lang2="- Какова его работа?">
+      <audioTime in="52842" out="54468" />
+    </line>
+    <line lang1="Fa il barbiere o il meccanico?" someNumber="None" image="dg\008_008.gif" lang2="Он парикмахер или механик?">
+      <audioTime in="54468" out="56860" />
+    </line>
+    <line lang1="- Lui non fa il meccanico." someNumber="None" image="dg\008_008.gif" lang2="- Он не механик.">
+      <audioTime in="56860" out="58847" />
+    </line>
+    <line lang1="Fa il barbiere." someNumber="None" image="dg\008_008.gif" lang2="Он - парикмахер.">
+      <audioTime in="58847" out="60201" />
+    </line>
+    <line lang1="- Che lavoro fa lei?" someNumber="None" image="dg\008_009.gif" lang2="- Какова её работа?">
+      <audioTime in="60202" out="61963" />
+    </line>
+    <line lang1="Lei fa la domestica o l'infermiera?" someNumber="None" image="dg\008_009.gif" lang2="Она домашняя хозяйка или медсестра?">
+      <audioTime in="61963" out="64582" />
+    </line>
+    <line lang1="- Lei non fa l'infermiera." someNumber="None" image="dg\008_009.gif" lang2="- Она не медсестра.">
+      <audioTime in="64582" out="66524" />
+    </line>
+    <line lang1="Fa la domestica." someNumber="None" image="dg\008_009.gif" lang2="Она - домашняя хозяйка.">
+      <audioTime in="66524" out="67923" />
+    </line>
+    <line lang1="- Che lavoro fa lui?" someNumber="None" image="dg\008_010.gif" lang2="- Какова его работа?">
+      <audioTime in="67923" out="69639" />
+    </line>
+    <line lang1="Fa il lattaio o il postino?" someNumber="None" image="dg\008_010.gif" lang2="Он продавец молока или почтальон?">
+      <audioTime in="69639" out="72077" />
+    </line>
+    <line lang1="- Lui non fa il postino." someNumber="None" image="dg\008_010.gif" lang2="- Он не почтальон.">
+      <audioTime in="72078" out="73793" />
+    </line>
+    <line lang1="Fa il lattaio." someNumber="None" image="dg\008_010.gif" lang2="Он - продавец молока.">
+      <audioTime in="73840" out="75097" />
+    </line>
+  </lines>
+</lesson>

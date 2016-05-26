@@ -1,0 +1,107 @@
+<lesson>
+   <header wav="su01.mp3" dic="dic" dlgName="su01.mp3" dlgFile="su01.xml" author="acouster"/>
+   <lines class="java.util.Vector">
+      <line lang1="адам" lang2="человек" image="default.jpg" someNumber="None">
+         <audioTime in="820" out="2215"/>
+      </line>
+      <line lang1="адамда" lang2="у человека" image="default.jpg" someNumber="None">
+         <audioTime in="2215" out="5770"/>
+      </line>
+      <line lang1="адамдар" lang2="люди" image="default.jpg" someNumber="None">
+         <audioTime in="5770" out="7613"/>
+      </line>
+      <line lang1="қасық" lang2="ложка" image="default.jpg" someNumber="None">
+         <audioTime in="7613" out="9974"/>
+      </line>
+      <line lang1="қасықта" lang2="на ложке" image="default.jpg" someNumber="None">
+         <audioTime in="9974" out="13380"/>
+      </line>
+      <line lang1="қасықтар" lang2="ложки" image="default.jpg" someNumber="None">
+         <audioTime in="13380" out="16000"/>
+      </line>
+      <line lang1="әже" lang2="бабушка" image="default.jpg" someNumber="None">
+         <audioTime in="16000" out="18091"/>
+      </line>
+      <line lang1="әжеде" lang2="у бабушки" image="default.jpg" someNumber="None">
+         <audioTime in="18091" out="21189"/>
+      </line>
+      <line lang1="әжелер" lang2="бабушки" image="default.jpg" someNumber="None">
+         <audioTime in="21189" out="23808"/>
+      </line>
+      <line lang1="адамның" lang2="человека (кого?, чей?)" image="default.jpg" someNumber="None">
+         <audioTime in="23808" out="26836"/>
+      </line>
+      <line lang1="адамды" lang2="человека (кого?)" image="default.jpg" someNumber="None">
+         <audioTime in="26836" out="29655"/>
+      </line>
+      <line lang1="әженің" lang2="бабушки (кого?, чей?)" image="default.jpg" someNumber="None">
+         <audioTime in="29655" out="32563"/>
+      </line>
+      <line lang1="әжені" lang2="бабушку (кого?)" image="default.jpg" someNumber="None">
+         <audioTime in="32563" out="35302"/>
+      </line>
+      <line lang1="кітап" lang2="книга" image="default.jpg" someNumber="None">
+         <audioTime in="35302" out="37653"/>
+      </line>
+      <line lang1="кітаптар" lang2="книги" image="default.jpg" someNumber="None">
+         <audioTime in="37653" out="40422"/>
+      </line>
+      <line lang1="емтихан" lang2="экзамен" image="default.jpg" someNumber="None">
+         <audioTime in="40422" out="43480"/>
+      </line>
+      <line lang1="емтихандар" lang2="экзамены" image="default.jpg" someNumber="None">
+         <audioTime in="43480" out="46049"/>
+      </line>
+      <line lang1="заңгер " lang2="юрист" image="default.jpg" someNumber="None">
+         <audioTime in="46049" out="48310"/>
+      </line>
+      <line lang1="заңгерлер " lang2="юристы" image="default.jpg" someNumber="None">
+         <audioTime in="48310" out="51517"/>
+      </line>
+      <line lang1="мұғалiм " lang2="учитель" image="default.jpg" someNumber="None">
+         <audioTime in="51517" out="55073"/>
+      </line>
+      <line lang1="мұғалiмдер " lang2="учителя" image="default.jpg" someNumber="None">
+         <audioTime in="55073" out="57912"/>
+      </line>
+      <line lang1="әже" lang2="бабушка" image="default.jpg" someNumber="None">
+         <audioTime in="57912" out="60711"/>
+      </line>
+      <line lang1="әжеде" lang2="у бабушки" image="default.jpg" someNumber="None">
+         <audioTime in="60711" out="63529"/>
+      </line>
+      <line lang1="әжелерде" lang2="у бабушек" image="default.jpg" someNumber="None">
+         <audioTime in="63529" out="66438"/>
+      </line>
+      <line lang1="қала" lang2="город" image="default.jpg" someNumber="None">
+         <audioTime in="66438" out="68768"/>
+      </line>
+      <line lang1="қалада " lang2="в городе" image="default.jpg" someNumber="None">
+         <audioTime in="68768" out="72195"/>
+      </line>
+      <line lang1="қалаларда" lang2="в городах" image="default.jpg" someNumber="None">
+         <audioTime in="72195" out="75213"/>
+      </line>
+      <line lang1="әжеде, әжемде, әжелерiмде" lang2="у бабушки, у моей бабушки, у моих бабушек" image="default.jpg" someNumber="None">
+         <audioTime in="75213" out="85671"/>
+      </line>
+      <line lang1="қалада, қаламызда,  қалаларымызда" lang2="в городе, в нашем городе, в наших городах" image="default.jpg" someNumber="None">
+         <audioTime in="85671" out="96707"/>
+      </line>
+      <line lang1="кітап, кітабым, кітабыңыз" lang2="книга, моя книга, Ваша книга" image="default.jpg" someNumber="None">
+         <audioTime in="96707" out="104605"/>
+      </line>
+      <line lang1="кітаптар, кітапта" lang2="книги, в книге" image="default.jpg" someNumber="None">
+         <audioTime in="104605" out="110541"/>
+      </line>
+      <line lang1="көбелек, көбелекте, көбелегі" lang2="бабочка, на бабочке, его бабочка" image="default.jpg" someNumber="None">
+         <audioTime in="110541" out="120661"/>
+      </line>
+      <line lang1="көбелегім, көбелектеріңде" lang2="моя бабочка, на твоих бабочках" image="default.jpg" someNumber="None">
+         <audioTime in="120661" out="128400"/>
+      </line>
+      <line lang1="қаймақ, қаймағым, қаймақта" lang2="сметана, моя сметана, в сметане" image="default.jpg" someNumber="None">
+         <audioTime in="128400" out="138470"/>
+      </line>
+   </lines>
+</lesson>

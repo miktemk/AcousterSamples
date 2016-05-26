@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="FR_051.wav" dlgName="Письмо" dlgFile="exr\frg051.txt" />
+  <lines>
+    <line lang1="- Qu'est-ce que tu fais, Sophie?" someNumber="None" image="f.jpg" lang2="- Что ты делаешь, Софи?">
+      <audioTime in="0" out="2243" />
+    </line>
+    <line lang1="- J'écris à nos amis de Pologne pour leur dire que nous avons fait un bon voyage." someNumber="None" image="f.jpg" lang2="- Я пишу нашим друзьям в Польшу, чтобы им рассказать, что мы совершили хорошее путешествие.">
+      <audioTime in="2243" out="9137" />
+    </line>
+    <line lang1="Voici ma lettre." someNumber="None" image="f.jpg" lang2="Вот моё письмо.">
+      <audioTime in="9137" out="11132" />
+    </line>
+    <line lang1="Veux-tu la lire?" someNumber="None" image="f.jpg" lang2="Хочешь его прочитать?">
+      <audioTime in="11132" out="12843" />
+    </line>
+    <line lang1="- &quot;Chers amis," someNumber="None" image="f.jpg" lang2="- &quot;Дорогие друзья,">
+      <audioTime in="12843" out="15393" />
+    </line>
+    <line lang1="Je vous écris ces quelques mots pour vous dire que nous avons fait un bon voyage." someNumber="None" image="f.jpg" lang2="Я вам пишу несколько слов, чтобы вам сообщить, что мы совершили приятное путешествие.">
+      <audioTime in="15393" out="20495" />
+    </line>
+    <line lang1="Dans le train j'ai fait la connaissance d'un jeune professeur français, du nom de Jacques Durand" someNumber="None" image="f.jpg" lang2="В поезде я познакомилась с молодым профессором французом, его зовут Жак Дюран,">
+      <audioTime in="20495" out="27426" />
+    </line>
+    <line lang1="qui voyageait en compagnie de son ami André, journaliste anglais." someNumber="None" image="f.jpg" lang2="который путешествовал со своим другом Андрэ, английским журналистом.">
+      <audioTime in="27426" out="32036" />
+    </line>
+    <line lang1="Il faisait très beau." someNumber="None" image="f.jpg" lang2="Была хорошая погода.">
+      <audioTime in="32036" out="34228" />
+    </line>
+    <line lang1="Pendant le voyage, Jacques fumait sa pipe et lisait des journaux," someNumber="None" image="f.jpg" lang2="Во время путешествия Жак курил свою трубку и читал газеты,">
+      <audioTime in="34228" out="39146" />
+    </line>
+    <line lang1="André et moi, nous regardions la campagne par la fenêtre" someNumber="None" image="f.jpg" lang2="а мы с Андрэ смотрели на пейзаж через окошко">
+      <audioTime in="39146" out="43479" />
+    </line>
+    <line lang1="et nous parlions de nos voyages.&quot;" someNumber="None" image="f.jpg" lang2="и говорили о наших путешествиях.&quot;">
+      <audioTime in="43479" out="45446" />
+    </line>
+    <line lang1="- Mais qu'est-ce que tu leur racontes là?" someNumber="None" image="f.jpg" lang2="- Ну, что ты там рассказываешь?">
+      <audioTime in="45446" out="49296" />
+    </line>
+    <line lang1="Il fallait leur dire comment tu as passé ta première semaine à Paris." someNumber="None" image="f.jpg" lang2="Надо было им рассказать, как ты провела свою первую неделю в Париже.">
+      <audioTime in="49296" out="53901" />
+    </line>
+    <line lang1="Je vois que tu ne fais pas de progrès dans l'art épistolaire." someNumber="None" image="f.jpg" lang2="Я вижу, что у тебя нет никаких сдвигов в искусстве писания писем.">
+      <audioTime in="53901" out="58906" />
+    </line>
+    <line lang1="- Si tu trouves que ma lettre n'est pas bien faite," someNumber="None" image="f.jpg" lang2="- Если ты находишь, что моё письмо нехорошо написано,">
+      <audioTime in="58906" out="62800" />
+    </line>
+    <line lang1="tu peux leur écrire toi-même." someNumber="None" image="f.jpg" lang2="ты можешь написать им сама.">
+      <audioTime in="62800" out="64962" />
+    </line>
+    <line lang1="- Je ne dis pas ça, mais tu peux leur dire des choses beaucoup plus intéressantes," someNumber="None" image="f.jpg" lang2="- Я этого не говорю, но ты можешь им рассказать о гораздо более интересных вещах,">
+      <audioTime in="64962" out="71016" />
+    </line>
+    <line lang1="par exemple que nous avons été au cinéma, que nous avons vu la tour Eiffel, etc., etc." someNumber="None" image="f.jpg" lang2="например, о том, что мы были в кино, что мы видели Эйфелеву башню и т.п.">
+      <audioTime in="71016" out="78665" />
+    </line>
+    <line lang1="- Alors je recommence ma lettre." someNumber="None" image="f.jpg" lang2="- В таком случае я начинаю ещё раз моё письмо.">
+      <audioTime in="78665" out="82091" />
+    </line>
+  </lines>
+</lesson>

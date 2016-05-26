@@ -1,0 +1,137 @@
+<lesson>
+  <header wav="d_062.wav" dic="p062" dlgName="Что случилось с?.." dlgFile="exr\dg061.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Was #hat sie?" someNumber="None" image="dg\062_001.gif" lang2="- Что с ней?">
+      <audioTime in="130" out="1689" />
+    </line>
+    <line lang1="#Hat sie Ohrenschmerzen?" someNumber="None" image="dg\062_001.gif" lang2="У неё болят уши?">
+      <audioTime in="1689" out="3721" />
+    </line>
+    <line lang1="- Nein, sie #hat keine Ohrenschmerzen." someNumber="380" image="dg\062_001.gif" lang2="- Нет, у неё не болят уши.">
+      <audioTime in="3721" out="6204" />
+    </line>
+    <line lang1="Sie #hat Kopfschmerzen." someNumber="380" image="dg\062_001.gif" lang2="У неё головная боль.">
+      <audioTime in="6204" out="8507" />
+    </line>
+    <line lang1="- Was #soll sie #tun?" someNumber="680" image="dg\062_002.gif" lang2="- Что она должна сделать?">
+      <audioTime in="8705" out="10004" />
+    </line>
+    <line lang1="- Sie #soll Aspirin #einnehmen." someNumber="None" image="dg\062_002.gif" lang2="- Она должна принять аспирин.">
+      <audioTime in="10004" out="12172" />
+    </line>
+    <line lang1="- Was #hat Georg?" someNumber="None" image="dg\062_003.gif" lang2="- Что с Георгом?">
+      <audioTime in="12172" out="13301" />
+    </line>
+    <line lang1="#Hat er Kopfschmerzen?" someNumber="None" image="dg\062_003.gif" lang2="У него болит голова?">
+      <audioTime in="13301" out="14791" />
+    </line>
+    <line lang1="- Er #hat keine Kopfschmerzen, er #hat Ohrenschmerzen." someNumber="None" image="dg\062_003.gif" lang2="- У него не болит голова, у него болят уши.">
+      <audioTime in="14791" out="18268" />
+    </line>
+    <line lang1="- Was #soll er #tun?" someNumber="None" image="dg\062_004.gif" lang2="- Что он должен делать?">
+      <audioTime in="18268" out="19577" />
+    </line>
+    <line lang1="- Er #soll den Arzt #konsultieren." someNumber="70" image="dg\062_004.gif" lang2="- Он должен проконсультироваться с врачом.">
+      <audioTime in="19577" out="22061" />
+    </line>
+    <line lang1="- Was #hat er?" someNumber="None" image="dg\062_005.gif" lang2="- Что с ним?">
+      <audioTime in="22061" out="23324" />
+    </line>
+    <line lang1="#Hat er Magenschmerzen?" someNumber="None" image="dg\062_005.gif" lang2="У него болит желудок?">
+      <audioTime in="23325" out="24996" />
+    </line>
+    <line lang1="- Er #hat keine Magenschmerzen, er #hat Zahnschmerzen." someNumber="380" image="dg\062_005.gif" lang2="- У него не болит желудок, у него зубная боль.">
+      <audioTime in="24947" out="29232" />
+    </line>
+    <line lang1="Was #soll er #tun?" someNumber="None" image="dg\062_006.gif" lang2="Что он должен делать?">
+      <audioTime in="29232" out="30678" />
+    </line>
+    <line lang1="- Er #soll zum Zahnarzt #gehen." someNumber="790" image="dg\062_006.gif" lang2="- Он должен пойти к дантисту.">
+      <audioTime in="30678" out="32845" />
+    </line>
+    <line lang1="- Was #hat Monika?" someNumber="None" image="dg\062_007.gif" lang2="- Что с Моникой?">
+      <audioTime in="33003" out="34692" />
+    </line>
+    <line lang1="- #Hat sie Zahnschmerzen?" someNumber="None" image="dg\062_007.gif" lang2="- У неё зубная боль?">
+      <audioTime in="34692" out="36498" />
+    </line>
+    <line lang1="Sie #hat keine Zahnschmerzen, sie #hat Magenschmerzen." someNumber="None" image="dg\062_007.gif" lang2="У неё нет зубной боли, у неё болит желудок.">
+      <audioTime in="36498" out="40246" />
+    </line>
+    <line lang1="- Was #soll sie #tun?" someNumber="None" image="dg\062_007.gif" lang2="- Что она должна делать?">
+      <audioTime in="40246" out="41736" />
+    </line>
+    <line lang1="Sie #soll etwas Arznei #einnehmen." someNumber="None" image="dg\062_007.gif" lang2="Она должна выпить немного лекарства.">
+      <audioTime in="41736" out="44445" />
+    </line>
+    <line lang1="- Was #hat Kurt?" someNumber="None" image="dg\062_008.gif" lang2="- Что с Куртом?">
+      <audioTime in="44957" out="46516" />
+    </line>
+    <line lang1="#Hat er Magenschmerzen?" someNumber="None" image="dg\062_008.gif" lang2="У него болит желудок?">
+      <audioTime in="46645" out="48335" />
+    </line>
+    <line lang1="- Er #hat keine Magenschmerzen, er #hat Fieber." someNumber="None" image="dg\062_008.gif" lang2="- У него не болит желудок, у него температура.">
+      <audioTime in="48335" out="51721" />
+    </line>
+    <line lang1="- Was #soll er #tun?" someNumber="None" image="dg\062_008.gif" lang2="- Что он должен делать?">
+      <audioTime in="51721" out="53256" />
+    </line>
+    <line lang1="- Er #soll ins Bett #gehen." someNumber="810" image="dg\062_008.gif" lang2="- Он должен ложиться в постель.">
+      <audioTime in="53257" out="54702" />
+    </line>
+    <line lang1="- Was #hat Martin?" someNumber="None" image="dg\062_009.gif" lang2="- Что с Мартином?">
+      <audioTime in="54702" out="56191" />
+    </line>
+    <line lang1="#Hat er Kopfschmerzen?" someNumber="None" image="dg\062_009.gif" lang2="У него головная боль?">
+      <audioTime in="56192" out="58178" />
+    </line>
+    <line lang1="- Er #hat keine Kopfschmerzen." someNumber="None" image="dg\062_009.gif" lang2="- У него нет головной боли.">
+      <audioTime in="58178" out="60030" />
+    </line>
+    <line lang1="Er #hat Grippe." someNumber="None" image="dg\062_009.gif" lang2="У него грипп.">
+      <audioTime in="60030" out="61158" />
+    </line>
+    <line lang1="- Was #soll er #tun?" someNumber="400" image="dg\062_009.gif" lang2="- Что он должен делать?">
+      <audioTime in="61588" out="63017" />
+    </line>
+    <line lang1="- Er #soll im Bett #bleiben." someNumber="None" image="dg\062_009.gif" lang2="- Он должен оставаться в постели.">
+      <audioTime in="63017" out="64869" />
+    </line>
+    <line lang1="- Was #hat Dieter?" someNumber="None" image="dg\062_010.gif" lang2="- Что с Дитером?">
+      <audioTime in="64966" out="66395" />
+    </line>
+    <line lang1="#Hat er Kopfschmerzen?" someNumber="None" image="dg\062_010.gif" lang2="У него головная боль?">
+      <audioTime in="66396" out="68337" />
+    </line>
+    <line lang1="- Er #hat keine Kopfschmerzen." someNumber="None" image="dg\062_010.gif" lang2="- У него нет головной боли.">
+      <audioTime in="68337" out="70505" />
+    </line>
+    <line lang1="Er #hat Masern." someNumber="None" image="dg\062_010.gif" lang2="У него корь.">
+      <audioTime in="70505" out="71950" />
+    </line>
+    <line lang1="- Was #sollen wir #tun?" someNumber="None" image="dg\062_010.gif" lang2="- Что мы должны делать?">
+      <audioTime in="71950" out="73349" />
+    </line>
+    <line lang1="- Wir #sollen den Arzt #holen." someNumber="70" image="dg\062_010.gif" lang2="- Мы должны вызвать доктора.">
+      <audioTime in="73349" out="75426" />
+    </line>
+    <line lang1="- Was #hat Petra?" someNumber="None" image="dg\062_011.gif" lang2="- Что с Петрой?">
+      <audioTime in="75426" out="76826" />
+    </line>
+    <line lang1="#Hat sie Ohrenschmerzen?" someNumber="None" image="dg\062_011.gif" lang2="У неё болят уши?">
+      <audioTime in="76826" out="78407" />
+    </line>
+    <line lang1="- Sie #hat keine Ohrenschmerzen." someNumber="550" image="dg\062_011.gif" lang2="- У неё не болят уши.">
+      <audioTime in="78407" out="80258" />
+    </line>
+    <line lang1="Sie #hat Mumps." someNumber="550" image="dg\062_011.gif" lang2="У неё свинка.">
+      <audioTime in="80258" out="81522" />
+    </line>
+    <line lang1="- Was #sollen wir #tun?" someNumber="None" image="dg\062_011.gif" lang2="- Что мы должны делать?">
+      <audioTime in="81858" out="83286" />
+    </line>
+    <line lang1="- Wir #sollen den Arzt #rufen." someNumber="680" image="dg\062_011.gif" lang2="- Мы должны вызвать доктора.">
+      <audioTime in="83287" out="85229" />
+    </line>
+  </lines>
+</lesson>

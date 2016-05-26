@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="FR_013.wav" dlgName="Еда" dlgFile="exr\frg013.txt" />
+  <lines>
+    <line lang1="- Combien de repas faites-vous par jour?" someNumber="None" image="f.jpg" lang2="- Сколько раз в день вы едите?">
+      <audioTime in="0" out="3704" />
+    </line>
+    <line lang1="- Quatre: à huit heures du matin, je prends mon petit déjeuner," someNumber="None" image="f.jpg" lang2="- Четыре: в восемь часов утра я ем первый завтрак,">
+      <audioTime in="3704" out="9226" />
+    </line>
+    <line lang1="à midi, je déjeune," someNumber="None" image="f.jpg" lang2="в полдень - я завтракаю второй раз,">
+      <audioTime in="9226" out="12547" />
+    </line>
+    <line lang1="vers quatre heures de l'après-midi, je prends mon thé," someNumber="None" image="f.jpg" lang2="около четырех часов после полудня я пью чай">
+      <audioTime in="12547" out="16075" />
+    </line>
+    <line lang1="et vers huit heures du soir, je dîne." someNumber="None" image="f.jpg" lang2="и около 8-и часов вечера я обедаю.">
+      <audioTime in="16075" out="19477" />
+    </line>
+    <line lang1="- Est-ce qu'on mange beaucoup en France au petit déjeuner?" someNumber="None" image="f.jpg" lang2="- Много едят во Франции на первый завтрак?">
+      <audioTime in="19477" out="24047" />
+    </line>
+    <line lang1="- Non, en général, on ne prend que du café au lait et du pain." someNumber="None" image="f.jpg" lang2="- Нет, обычно пьют кофе с молоком и хлеб.">
+      <audioTime in="24047" out="29074" />
+    </line>
+    <line lang1="- Les Anglais mangent beaucoup plus au petit déjeuner, n'est-ce pas, André?" someNumber="None" image="f.jpg" lang2="- Англичане едят больше на первый завтрак, не так ли, Андрэ?">
+      <audioTime in="29074" out="34166" />
+    </line>
+    <line lang1="- Oh!, oui! En Angleterre on prend en général du jambon et des œufs." someNumber="None" image="f.jpg" lang2="- О, да. В Англии обычно едят ветчину и яйца.">
+      <audioTime in="34166" out="39983" />
+    </line>
+    <line lang1="On fait un petit déjeuner copieux." someNumber="None" image="f.jpg" lang2="У них обильный первый завтрак.">
+      <audioTime in="39983" out="42591" />
+    </line>
+    <line lang1="- A propos, où déjeunerons-nous? J'ai déjà faim." someNumber="None" image="f.jpg" lang2="- Кстати, Где мы будем завтракать? Я уже голоден.">
+      <audioTime in="42591" out="46822" />
+    </line>
+    <line lang1="- A Paris, il ne manque pas de restaurants:" someNumber="None" image="f.jpg" lang2="- В Париже нет недостатка в ресторанах:">
+      <audioTime in="46822" out="50186" />
+    </line>
+    <line lang1="il y a le Colisée, le Drap d'Or, le Jardin de l'Etoile, le Touriste," someNumber="None" image="f.jpg" lang2="Колизэ, Ле Дра-Дор, Ле Жарден-деЛ'Этуаль, Ле Турист,">
+      <audioTime in="50186" out="56261" />
+    </line>
+    <line lang1="le George Sand et beaucoup d'autres." someNumber="None" image="f.jpg" lang2="Ле Жорж Санд и много других.">
+      <audioTime in="56261" out="59019" />
+    </line>
+    <line lang1="- Allons au &quot;George Sand&quot;!" someNumber="None" image="f.jpg" lang2="- Пойдёмте в &quot;Жорж Санд&quot;.">
+      <audioTime in="59019" out="60598" />
+    </line>
+    <line lang1="Ça doit être un restaurant bien français." someNumber="None" image="f.jpg" lang2="Этот ресторан должен быть типично французским.">
+      <audioTime in="60598" out="64377" />
+    </line>
+  </lines>
+</lesson>

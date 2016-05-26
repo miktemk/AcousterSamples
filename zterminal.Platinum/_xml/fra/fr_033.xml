@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="FR_033.wav" dlgName="В кино. У кассы" dlgFile="exr\frg033.txt" />
+  <lines>
+    <line lang1="- Deux places pour ce soir, s'il vous plaît." someNumber="None" image="f.jpg" lang2="- Пожалуйста, два билета на сегодняшний вечер.">
+      <audioTime in="0" out="3173" />
+    </line>
+    <line lang1="- Quelles places désirez-vous?" someNumber="None" image="f.jpg" lang2="- Какие места желаете?">
+      <audioTime in="3173" out="5207" />
+    </line>
+    <line lang1="- Deux fauteuils d'orchestre 1re série." someNumber="None" image="f.jpg" lang2="- Партер, два места в первом ряду.">
+      <audioTime in="5207" out="8401" />
+    </line>
+    <line lang1="- Voilà, monsieur." someNumber="None" image="f.jpg" lang2="- Пожалуйста.">
+      <audioTime in="8401" out="9412" />
+    </line>
+    <line lang1="- Merci, madame. A quelle heure finit le spectacle?" someNumber="None" image="f.jpg" lang2="- Спасибо. Во сколько часов кончается сеанс?">
+      <audioTime in="9412" out="13419" />
+    </line>
+    <line lang1="- A onze heures trente." someNumber="None" image="f.jpg" lang2="- В половине двенадцатого">
+      <audioTime in="13419" out="15331" />
+    </line>
+    <line lang1="- Ah! Très bien." someNumber="None" image="f.jpg" lang2="- Ах, очень хорошо.">
+      <audioTime in="15331" out="16551" />
+    </line>
+    <line lang1="- Et où est-ce que je peux acheter des bonbons?" someNumber="None" image="f.jpg" lang2="- А где я могу купить конфеты?">
+      <audioTime in="16551" out="19515" />
+    </line>
+    <line lang1="- Demandez à l'ouvreuse pendant l'entracte." someNumber="None" image="f.jpg" lang2="- Спросите билетершу во время антракта.">
+      <audioTime in="19515" out="22306" />
+    </line>
+    <line lang1="- Merci, madame." someNumber="None" image="f.jpg" lang2="- Спасибо.">
+      <audioTime in="22306" out="24026" />
+    </line>
+  </lines>
+</lesson>

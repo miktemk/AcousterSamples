@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="j_106.wav" dlgName="Можно примерить?" dic="p106" />
+  <lines>
+    <line lang1="ーすみません、この*上着、もっと*大きい*サイズ*が*ありません*か。" someNumber="28" image="106_001.jpg" lang2="- Простите, есть ли у Вас такой пиджак большего размера?">
+      <audioTime in="0" out="8127" />
+    </line>
+    <line lang1="ーもっと*大きい*の*です*か。" someNumber="None" image="106_002.jpg" lang2="- Большего размера?">
+      <audioTime in="8127" out="10741" />
+    </line>
+    <line lang1="少々*おまち*ください。" someNumber="109" image="106_002.jpg" lang2="Подождите, пожалуйста, немного!">
+      <audioTime in="10741" out="12589" />
+    </line>
+    <line lang1="お客様、ありました。どうぞ。" someNumber="None" image="106_004.jpg" lang2="Господин, (такой пиджак) нашёлся! Пожалуйста.">
+      <audioTime in="12644" out="16300" />
+    </line>
+    <line lang1="ーこれ、着て*みて*も*いい*です*か。" someNumber="80" image="106_004.jpg" lang2="- Можно примерить это?">
+      <audioTime in="16300" out="18836" />
+    </line>
+    <line lang1="ーはい、どうぞ。試着室*は*あちら*です。" someNumber="None" image="106_006.jpg" lang2="- Да, пожалуйста. Вон там примерочная.">
+      <audioTime in="18836" out="22652" />
+    </line>
+    <line lang1="お客様、どう*です*か。" someNumber="None" image="106_007.jpg" lang2="Как он Вам, господин?">
+      <audioTime in="22652" out="26194" />
+    </line>
+    <line lang1="ーちょっと*きついん*です*が。" someNumber="None" image="106_007.jpg" lang2="- Немного тесноват...">
+      <audioTime in="26194" out="28980" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="106_007.jpg" lang2="- В самом деле!">
+      <audioTime in="28980" out="31126" />
+    </line>
+    <line lang1="やっぱり、日本製*の*服*は*サイズ*が*外国人*に*合いません*ね。" someNumber="None" image="106_007.jpg" lang2="Что ни говори, одежда японского производства не подходит по размеру иностранцам.">
+      <audioTime in="31126" out="36709" />
+    </line>
+    <line lang1="ーじゃ、大き*な*デパート*で*探して*みます。" someNumber="80" image="106_011.jpg" lang2="- Ладно, попробую поискать в большом универмаге.">
+      <audioTime in="36709" out="40602" />
+    </line>
+    <line lang1="ーこの*真珠*の*イヤリング、似合う*かしら。" someNumber="None" image="106_012.jpg" lang2="- Интересно, подойдут ли мне эти жемчужные серьги?">
+      <audioTime in="40602" out="45284" />
+    </line>
+    <line lang1="ちょっと*して*みて*も*いい*です*か。" someNumber="None" image="106_013.jpg" lang2="Простите, можно примерить?">
+      <audioTime in="45284" out="47756" />
+    </line>
+    <line lang1="ーどうぞ。鏡*は*あちら*です。" someNumber="None" image="106_014.jpg" lang2="- Пожалуйста! Зеркало вон там!">
+      <audioTime in="47756" out="50055" />
+    </line>
+    <line lang1="ーリー*さん、この*本*良かったら、貸しましょう。" someNumber="None" image="106_015.jpg" lang2="- Ли-сан, если хочешь, одолжу тебе эту книгу!">
+      <audioTime in="50055" out="55576" />
+    </line>
+    <line lang1="私*は*読んで*しまいました*から。" someNumber="None" image="106_015.jpg" lang2="Я уже прочел её.">
+      <audioTime in="55576" out="57748" />
+    </line>
+    <line lang1="ー「日本*歴史*の*旅」。面白そう*です*ね。" someNumber="106" image="106_017.jpg" lang2="- &quot;Путешествие в историю Японии&quot;. Кажется интересным!">
+      <audioTime in="57748" out="63689" />
+    </line>
+    <line lang1="漢字*が*たくさん*ある*から*私*に*は*読み*にくい*かもしれません*が、読んで*みます。" someNumber="None" image="106_018.jpg" lang2="Иероглифов много, поэтому для меня это, наверное, будет трудно, но прочитать попробую.">
+      <audioTime in="63689" out="70933" />
+    </line>
+  </lines>
+</lesson>

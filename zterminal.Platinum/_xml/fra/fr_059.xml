@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="FR_059.wav" dlgName="Метро" dlgFile="exr\frg059.txt" />
+  <lines>
+    <line lang1="- Que de monde!" someNumber="None" image="f.jpg" lang2="- Сколько людей!">
+      <audioTime in="0" out="1795" />
+    </line>
+    <line lang1="- Ne nous arrêtons pas, suivons la foule." someNumber="None" image="f.jpg" lang2="- Не задерживайтесь, пойдёмте за толпой.">
+      <audioTime in="1795" out="4766" />
+    </line>
+    <line lang1="- Pour quelle direction prenons-nous le métro?" someNumber="None" image="f.jpg" lang2="- В каком направлении поедем на метро?">
+      <audioTime in="4766" out="7429" />
+    </line>
+    <line lang1="- En direction de la Porte de la Chapelle." someNumber="None" image="f.jpg" lang2="- В направлении Порт-де-ла-Шапель.">
+      <audioTime in="7429" out="10240" />
+    </line>
+    <line lang1="Il n'y a qu'à suivre ce couloire." someNumber="None" image="f.jpg" lang2="Надо только идти по этому коридору.">
+      <audioTime in="10240" out="12822" />
+    </line>
+    <line lang1="- Ah! que ces couloirs sont longs et qu'il fait chaud ici!" someNumber="None" image="f.jpg" lang2="- Ах, какие эти коридоры длинные, и как в них жарко!">
+      <audioTime in="12822" out="16598" />
+    </line>
+    <line lang1="A propos, combien de fois devons-nous changer?" someNumber="None" image="f.jpg" lang2="Кстати, сколько раз мы должны пересаживаться?">
+      <audioTime in="16598" out="19947" />
+    </line>
+    <line lang1="- Deux fois: à &quot;Etoile&quot; et à &quot;Pigalle&quot;." someNumber="None" image="f.jpg" lang2="- Два раза: на&quot;Этуаль&quot; и на &quot;Пигаль&quot;.">
+      <audioTime in="19947" out="23646" />
+    </line>
+    <line lang1="- Tiens, nous voilà enfin sur le quai." someNumber="None" image="f.jpg" lang2="- Ну вот, наконец-то мы на перроне.">
+      <audioTime in="23646" out="26340" />
+    </line>
+    <line lang1="Est-ce qu'on peut fumer ici?" someNumber="None" image="f.jpg" lang2="Можно здесь курить?">
+      <audioTime in="26340" out="28092" />
+    </line>
+    <line lang1="- Non, c'est interdit dans les stations de métro." someNumber="None" image="f.jpg" lang2="- Нет, на станциях метро запрещается курить.">
+      <audioTime in="28092" out="31112" />
+    </line>
+    <line lang1="D'ailleurs notre train va arriver tout de suite..." someNumber="None" image="f.jpg" lang2="Впрочем, наш поезд сейчас придёт...">
+      <audioTime in="31112" out="34356" />
+    </line>
+    <line lang1="Tiens, le voilà." someNumber="None" image="f.jpg" lang2="Вот он.">
+      <audioTime in="34356" out="35897" />
+    </line>
+    <line lang1="- Mais il est long, ce train." someNumber="None" image="f.jpg" lang2="- Но какой длинный этот поезд.">
+      <audioTime in="35897" out="37811" />
+    </line>
+    <line lang1="- Oui, chaque rame comprend quatre wagons de 2e classe et un wagon de 1re classe." someNumber="None" image="f.jpg" lang2="- Да, каждый состав содержит четыре вагона жестких и один вагон мягкий.">
+      <audioTime in="37811" out="44027" />
+    </line>
+    <line lang1="- On monte?" someNumber="None" image="f.jpg" lang2="- Садимся?">
+      <audioTime in="44027" out="45049" />
+    </line>
+    <line lang1="- Attendons un instant." someNumber="None" image="f.jpg" lang2="- Подождем немного.">
+      <audioTime in="45049" out="46709" />
+    </line>
+    <line lang1="Laissons tout d'abord descendre cette foule de voyageurs." someNumber="None" image="f.jpg" lang2="Давай подождем, пускай прежде всего выйдет толпа пассажиров.">
+      <audioTime in="46709" out="50478" />
+    </line>
+    <line lang1="Ça y est: nous pouvons monter." someNumber="None" image="f.jpg" lang2="Хорошо, сейчас уже можем войти.">
+      <audioTime in="50478" out="53352" />
+    </line>
+    <line lang1="- A quelle profondeur le métro parisien descend-il sous terre?" someNumber="None" image="f.jpg" lang2="- На какой глубине под землей находится парижское метро?">
+      <audioTime in="53352" out="56923" />
+    </line>
+    <line lang1="- Parfois jusqu'à 65 mètres." someNumber="None" image="f.jpg" lang2="- Иногда на глубине 65 метров.">
+      <audioTime in="56923" out="59513" />
+    </line>
+    <line lang1="Mais il n'est pas aussi profond que le métro de Moscou." someNumber="None" image="f.jpg" lang2="Но оно не такое глубокое, как московское метро.">
+      <audioTime in="59513" out="63113" />
+    </line>
+    <line lang1="En revanche il y a un grande nombre de stations." someNumber="None" image="f.jpg" lang2="Зато у него большое число станций.">
+      <audioTime in="63113" out="66919" />
+    </line>
+    <line lang1="- Combien?" someNumber="None" image="f.jpg" lang2="- Сколько?">
+      <audioTime in="66919" out="67765" />
+    </line>
+    <line lang1="- A peu près 300." someNumber="None" image="f.jpg" lang2="- Около 300.">
+      <audioTime in="67765" out="69391" />
+    </line>
+    <line lang1="N'oubliez pas qu'il transporte 4 millions de voyageurs par jour." someNumber="None" image="f.jpg" lang2="Не забывайте, что оно перевозит 4 миллиона пассажиров в день.">
+      <audioTime in="69391" out="74291" />
+    </line>
+    <line lang1="- Est-ce qu'il n'y a plus de tramways à Paris?" someNumber="None" image="f.jpg" lang2="- Разве уже нет трамваев в Париже?">
+      <audioTime in="74291" out="76619" />
+    </line>
+    <line lang1="- Non, il n'y a plus de tramways depuis 1937." someNumber="None" image="f.jpg" lang2="- Нет, уже с 1937 года нет трамваев.">
+      <audioTime in="76619" out="80002" />
+    </line>
+    <line lang1="- Alors le métro est l'unique moyen de transport pour les Parisiens se rendant au travail?" someNumber="None" image="f.jpg" lang2="- Тогда метро является единственным средством транспорта для жителей Парижа, едущих на работу.">
+      <audioTime in="80002" out="84855" />
+    </line>
+    <line lang1="- Oh, non! Les Parisiens se rendent aussi bien au travail en autobus, à vélo et même à pied." someNumber="None" image="f.jpg" lang2="- О нет! Жители Парижа отправляются на работу также и на автобусах, на велосипедах и даже пешком.">
+      <audioTime in="84855" out="92538" />
+    </line>
+  </lines>
+</lesson>

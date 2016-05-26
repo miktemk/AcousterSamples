@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="J_007.wav" dlgName="Чужая семья" dic="p007" />
+  <lines>
+    <line lang1="ーあきこ*さん*の*うち*は*大きい*です*か。" someNumber="22" image="007_001.jpg" lang2="- У Акико большой дом?">
+      <audioTime in="0" out="3577" />
+    </line>
+    <line lang1="ーそう*です*ね。大きい*です。" someNumber="None" image="007_001.jpg" lang2="- Да. Большой.">
+      <audioTime in="3577" out="7233" />
+    </line>
+    <line lang1="ーあきこ*さん*の*へや*は*ひろい*です*か。" someNumber="None" image="007_003.jpg" lang2="- А комната Акико просторная?">
+      <audioTime in="7233" out="11879" />
+    </line>
+    <line lang1="ーいいえ、ひろく*ありません。" someNumber="25" image="007_003.jpg" lang2="- Нет, она не просторная.">
+      <audioTime in="11879" out="14847" />
+    </line>
+    <line lang1="せまい*です。" someNumber="None" image="007_003.jpg" lang2="(Она) тесная.">
+      <audioTime in="14847" out="16323" />
+    </line>
+    <line lang1="ーあきこ*さん*の*お母さん*は*わかい*です*か。" someNumber="15" image="007_006.jpg" lang2="- А мама Акико молодая?">
+      <audioTime in="16323" out="20752" />
+    </line>
+    <line lang1="ーあまり*わかく*ありません。" someNumber="113" image="007_006.jpg" lang2="- Не очень молодая.">
+      <audioTime in="20752" out="24067" />
+    </line>
+    <line lang1="―あきこ*さん*はお父さん*が*います*か。" someNumber="74" image="007_008.jpg" lang2="- У Акико есть отец?">
+      <audioTime in="24067" out="28524" />
+    </line>
+    <line lang1="ーいます。あきこ*さん*の*お父さん*は*ぎし*です。" someNumber="None" image="007_009.jpg" lang2="- Есть. У Акико отец - инженер.">
+      <audioTime in="28524" out="34187" />
+    </line>
+    <line lang1="とても*いそがしい*です。" someNumber="None" image="007_009.jpg" lang2="Он очень занятой.">
+      <audioTime in="34187" out="36942" />
+    </line>
+    <line lang1="ーあきこ*さん*は*きょうだい*が*います*か。" someNumber="74" image="007_011.jpg" lang2="- У Акико есть братья и сестры?">
+      <audioTime in="36942" out="41891" />
+    </line>
+    <line lang1="ーおねえさん*と*おにいさん*が*います。" someNumber="15" image="007_011.jpg" lang2="- Есть старший брат и старшая сестра.">
+      <audioTime in="41891" out="45547" />
+    </line>
+    <line lang1="おとうと*さん*と*いもうとさん*が*いません。" someNumber="None" image="007_011.jpg" lang2="Младшего брата и младшей сестры нет.">
+      <audioTime in="45547" out="50390" />
+    </line>
+    <line lang1="おねえさん*は*えいご*がっか*の*がくせい*です。" someNumber="172" image="007_014.jpg" lang2="Старшая сестра - студентка английского факультета.">
+      <audioTime in="50390" out="55594" />
+    </line>
+    <line lang1="ーなんねん生*です*か。" someNumber="54" image="007_015.jpg" lang2="- Студентка какого курса?">
+      <audioTime in="55594" out="59509" />
+    </line>
+    <line lang1="ーおねえさん*は*三ねん生*です。" someNumber="None" image="007_015.jpg" lang2="- Старшая сестра - третьекурсница.">
+      <audioTime in="59509" out="63053" />
+    </line>
+    <line lang1="おにいさん*は*二年生*です。" someNumber="None" image="007_017.jpg" lang2="Старший брат - второкурсник.">
+      <audioTime in="63053" out="66816" />
+    </line>
+    <line lang1="お兄さん*は*い学生*です。" someNumber="172" image="007_018.jpg" lang2="Старший брат - студент-медик.">
+      <audioTime in="66816" out="71010" />
+    </line>
+    <line lang1="ーそう*です*か。" someNumber="None" image="007_018.jpg" lang2="- Вот как!">
+      <audioTime in="70588" out="73879" />
+    </line>
+    <line lang1="あきこ*さん*の*きょうだい*も*いそがしい*です*か。" someNumber="None" image="007_020.jpg" lang2="Брат и сестра Акико тоже заняты?">
+      <audioTime in="73879" out="78262" />
+    </line>
+    <line lang1="―あまり*いそがしく*ありません。" someNumber="None" image="007_021.jpg" lang2="- Не очень.">
+      <audioTime in="78262" out="82217" />
+    </line>
+  </lines>
+</lesson>

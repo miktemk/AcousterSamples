@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="f_009.wav" dic="p009" dlgName="Встреча." dlgFile="exr\fg009.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Bonjour, madame Legrand." someNumber="None" image="dg\009_001.gif" lang2="- Добрый день, г-жа Легран.">
+      <audioTime in="0" out="1592" />
+    </line>
+    <line lang1="- Bonjour, monsieur Vincent." someNumber="None" image="dg\009_001.gif" lang2="- Добрый день, Г-н Венсан.">
+      <audioTime in="1592" out="3733" />
+    </line>
+    <line lang1="- Comment allez-vous aujourd'hui?" someNumber="930" image="dg\009_002.gif" lang2="- Как вы себя чувствуете сегодня?">
+      <audioTime in="3733" out="5276" />
+    </line>
+    <line lang1="- Très bien, merci, et vous?" someNumber="930" image="dg\009_002.gif" lang2="- Очень хорошо, спасибо. А вы?">
+      <audioTime in="5276" out="7367" />
+    </line>
+    <line lang1="- Ça va, merci." someNumber="None" image="dg\009_003.gif" lang2="- Хорошо, спасибо.">
+      <audioTime in="7367" out="8547" />
+    </line>
+    <line lang1="Et monsieur Legrand?" someNumber="None" image="dg\009_004.gif" lang2="А г-н Легран?">
+      <audioTime in="8547" out="9956" />
+    </line>
+    <line lang1="- Bien, merci. Et madame Vincent, comment va-t-elle?" someNumber="None" image="dg\009_004.gif" lang2="- Хорошо, спасибо. А г-жа Венсан, как она поживает?">
+      <audioTime in="9956" out="16726" />
+    </line>
+    <line lang1="- Assez bien, madame Legrand." someNumber="None" image="dg\009_004.gif" lang2="- Довольно хорошо, г-жа Легран.">
+      <audioTime in="16726" out="17821" />
+    </line>
+    <line lang1="- Au revoir, madame Legrand. Je suis content de vous voir." someNumber="780" image="dg\009_005.gif" lang2="- До свидания, г-жа Легран. Рад был увидеть вас.">
+      <audioTime in="17821" out="21206" />
+    </line>
+    <line lang1="- Moi aussi, je suis contente de vous voir, monsieur Vincent. Au revoir." someNumber="780" image="dg\009_005.gif" lang2="- Я тоже была рада видеть вас, г-н Венсан. До свидания.">
+      <audioTime in="21206" out="25314" />
+    </line>
+  </lines>
+</lesson>

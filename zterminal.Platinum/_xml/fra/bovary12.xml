@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="bovary12.wav" dlgName="&quot;Мадам Бовари&quot; Часть 12" />
+  <lines>
+    <line lang1="- Ah, l'esprit de révolte est encore en vous." someNumber="None" image="f\f12_008.jpg" lang2="- Восставший ум ещё в вас.">
+      <audioTime in="426" out="2492" />
+    </line>
+    <line lang1="- C'est la faute de la fatalité." someNumber="None" image="f\f12_008.jpg" lang2="- Это роковая ошибка.">
+      <audioTime in="23783" out="27397" />
+    </line>
+    <line lang1="Un soir la petite Berthe vint chercher son père pour le dîner." someNumber="None" image="f\f12_002.jpg" lang2="Вечером маленькая Берта пришла за отцом, чтобы позвать его к обеду.">
+      <audioTime in="33357" out="36985" />
+    </line>
+    <line lang1="Il était assis sur le banc sous la tonnelle. Elle le poussa doucement." someNumber="None" image="f\f12_002.jpg" lang2="Он сидел на скамье в беседке. Она тихо толкнула его.">
+      <audioTime in="36701" out="40622" />
+    </line>
+    <line lang1="Il tomba par terre, il était mort." someNumber="None" image="f\f12_003.jpg" lang2="Он упал на землю. Он был мертв.">
+      <audioTime in="40425" out="42614" />
+    </line>
+    <line lang1="Quand tout fut vendu, il resta douze francs et soixante-quinze centimes" someNumber="None" image="f\f12_004.jpg" lang2="Когда всё было продано, осталось двенадцать франков, семьдесят пять сантимов,">
+      <audioTime in="42546" out="46413" />
+    </line>
+    <line lang1="qui servirent à payer le voyage de Berthe Bovary chez sa grand-mère." someNumber="None" image="f\f12_004.jpg" lang2="на которые Берту отправили к бабушке.">
+      <audioTime in="46283" out="50241" />
+    </line>
+    <line lang1="La bonne femme mourut dans l'année-même; le père Rouault étant paralysé, ce fut une tante qui s'en chargea." someNumber="None" image="f\f12_007.jpg" lang2="Старушка умерла в том же году. Папашу Руо разбил паралич, и девочку взяла к себе тетка.">
+      <audioTime in="49997" out="56125" />
+    </line>
+    <line lang1="Elle est pauvre et l'envoie pour gagner sa vie, dans une filature de coton." someNumber="None" image="f\f12_007.jpg" lang2="Она очень бедна, и Берта зарабатывает себе пропитание на прядильной фабрике.">
+      <audioTime in="56922" out="60577" />
+    </line>
+    <line lang1="M. Homais s'est fait une clientèle d'enfer l'autorité, le ménage et l'opinion publique le protège. Il vient de recevoir la croix d'honneur." someNumber="None" image="f\f12_005.jpg" lang2="У господина Омэ огромная клиентура, власти щадят его, а общественность ему покровительствует. Недавно он получил орден Почетного легиона.">
+      <audioTime in="60577" out="68252" />
+    </line>
+  </lines>
+</lesson>

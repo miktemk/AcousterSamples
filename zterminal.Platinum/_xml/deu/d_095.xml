@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="d_095.wav" dic="p095" dlgName="На вокзале." dlgFile="exr\dg095.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Zwei Rückfahrkarten nach Berlin, bitte." someNumber="None" image="dg\095_001.gif" lang2="- Два обратных билета в Берлин, пожалуйста.">
+      <audioTime in="1194" out="3585" />
+    </line>
+    <line lang1="Wann #1fährt der nächste Zug #2ab?" someNumber="None" image="dg\095_001.gif" lang2="Когда отправляется следующий поезд?">
+      <audioTime in="4258" out="5676" />
+    </line>
+    <line lang1="- Um 8 Uhr 19." someNumber="410" image="dg\095_001.gif" lang2="- В 8 часов 19 минут.">
+      <audioTime in="6050" out="7693" />
+    </line>
+    <line lang1="- Von welchem Bahnsteig?" someNumber="760" image="dg\095_002.gif" lang2="- С какой платформы?">
+      <audioTime in="8142" out="9411" />
+    </line>
+    <line lang1="- Bahnsteig zwei." someNumber="760" image="dg\095_002.gif" lang2="- Вторая платформа.">
+      <audioTime in="9860" out="10756" />
+    </line>
+    <line lang1="Über die Brücke." someNumber="760" image="dg\095_002.gif" lang2="Через мост.">
+      <audioTime in="10980" out="11876" />
+    </line>
+    <line lang1="- Wann #ist der nächste Zug?" someNumber="None" image="dg\095_003.gif" lang2="- Когда следующий поезд?">
+      <audioTime in="12773" out="13968" />
+    </line>
+    <line lang1="- Um 8.19." someNumber="None" image="dg\095_003.gif" lang2="- В 8.19.">
+      <audioTime in="14565" out="15612" />
+    </line>
+    <line lang1="- Wir #haben noch viel Zeit." someNumber="None" image="dg\095_003.gif" lang2="- У нас ещё много времени.">
+      <audioTime in="15910" out="17628" />
+    </line>
+    <line lang1="- Jetzt #ist es erst drei Minuten vor acht." someNumber="None" image="dg\095_004.gif" lang2="- Сейчас только без трёх минут восемь.">
+      <audioTime in="18150" out="20317" />
+    </line>
+    <line lang1="- #Gehen wir etwas #trinken." someNumber="360" image="dg\095_004.gif" lang2="- Пойдём что-нибудь выпьем.">
+      <audioTime in="20765" out="22110" />
+    </line>
+    <line lang1="Es #gibt nebenan auf dem Bahnhof eine Imbisstube." someNumber="360" image="dg\095_004.gif" lang2="Рядом на станции есть закусочная.">
+      <audioTime in="22334" out="25396" />
+    </line>
+    <line lang1="- Es #wäre besser jetzt auf dem Bahnhof #zurückzukehren, Ralf." someNumber="None" image="dg\095_005.gif" lang2="- Было бы лучше вернуться сейчас на станцию, Ральф.">
+      <audioTime in="25994" out="29356" />
+    </line>
+    <line lang1="- Ihre Fahrkarten, bitte!" someNumber="190" image="dg\095_006.gif" lang2="- Ваши билеты, пожалуйста!">
+      <audioTime in="29878" out="30999" />
+    </line>
+    <line lang1="- Wir #wollen den Zug um 8.19 nach Berlin #erreichen." someNumber="None" image="dg\095_006.gif" lang2="- Мы хотим успеть на поезд в 8.19 в Берлин.">
+      <audioTime in="31596" out="34360" />
+    </line>
+    <line lang1="- Sie #haben ihn schon #verpasst." someNumber="None" image="dg\095_006.gif" lang2="- Вы уже опоздали на него.">
+      <audioTime in="34808" out="36227" />
+    </line>
+    <line lang1="- Was?" someNumber="None" image="dg\095_006.gif" lang2="- Что?">
+      <audioTime in="36750" out="37646" />
+    </line>
+    <line lang1="Jetzt #ist es erst 8.15." someNumber="None" image="dg\095_006.gif" lang2="Сейчас только 8.15.">
+      <audioTime in="37646" out="39887" />
+    </line>
+    <line lang1="- #Entschuldigen Sie, mein Herr." someNumber="370" image="dg\095_007.gif" lang2="- Извините, господин.">
+      <audioTime in="40710" out="42203" />
+    </line>
+    <line lang1="Diese Uhr #geht 10 Minuten nach." someNumber="370" image="dg\095_007.gif" lang2="Эти часы отстают на 10 минут.">
+      <audioTime in="42651" out="44743" />
+    </line>
+    <line lang1="- Wann #ist der nächste Zug?" someNumber="None" image="dg\095_007.gif" lang2="- Когда следующий поезд?">
+      <audioTime in="45415" out="46760" />
+    </line>
+    <line lang1="- In 5 Stunden." someNumber="None" image="dg\095_007.gif" lang2="- Через 5 часов.">
+      <audioTime in="47059" out="48851" />
+    </line>
+  </lines>
+</lesson>

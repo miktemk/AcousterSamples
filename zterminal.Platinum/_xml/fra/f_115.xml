@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_115.wav" dic="p115" dlgName="Дома никого нет." dlgFile="exr\fg115.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Y-a-t-il quelqu'un à la maison?" someNumber="810" image="dg\115_001.gif" lang2="- Есть ли кто-нибудь дома?">
+      <audioTime in="0" out="1642" />
+    </line>
+    <line lang1="- Je vais frapper à la porte de nouveau, Hélène." someNumber="810" image="dg\115_001.gif" lang2="- Я постучу в дверь снова, Элен.">
+      <audioTime in="1642" out="3929" />
+    </line>
+    <line lang1="Tout est calme. Je suis sûr qu'il n'y a personne." someNumber="None" image="dg\115_001.gif" lang2="Всё тихо. Я уверен, что там никого нет.">
+      <audioTime in="3929" out="6280" />
+    </line>
+    <line lang1="- Mais c'est impossible." someNumber="780" image="dg\115_002.gif" lang2="- Но это невозможно.">
+      <audioTime in="6280" out="7369" />
+    </line>
+    <line lang1="Pat et Réné nous ont invités. Regarde par la fenêtre." someNumber="None" image="dg\115_002.gif" lang2="Пат и Рене нас пригласили. Посмотри через окно.">
+      <audioTime in="7369" out="10963" />
+    </line>
+    <line lang1="Vois-tu quelque chose?" someNumber="None" image="dg\115_003.gif" lang2="Ты видишь что-нибудь?">
+      <audioTime in="10963" out="12295" />
+    </line>
+    <line lang1="- Rien." someNumber="None" image="dg\115_003.gif" lang2="- Ничего.">
+      <audioTime in="12295" out="13189" />
+    </line>
+    <line lang1="- Allons, là il y a encore une porte." someNumber="750" image="dg\115_003.gif" lang2="- Ну-ка, там есть ещё одна дверь.">
+      <audioTime in="13189" out="16228" />
+    </line>
+    <line lang1="- Tiens. Tout le monde est dans le jardin." someNumber="750" image="dg\115_003.gif" lang2="- Смотри-ка! Все в саду.">
+      <audioTime in="16228" out="18333" />
+    </line>
+    <line lang1="- Salut, Hélène! Salut, Paul!" someNumber="None" image="dg\115_004.gif" lang2="- Привет, Элен! Привет, Поль!">
+      <audioTime in="18333" out="20160" />
+    </line>
+    <line lang1="- Nous prendrons notre déjeuner au jardin." someNumber="None" image="dg\115_004.gif" lang2="- Мы будем обедать в саду.">
+      <audioTime in="20160" out="22191" />
+    </line>
+    <line lang1="En plein air. C'est agréable." someNumber="None" image="dg\115_004.gif" lang2="На (свежем) воздухе. Это приятно.">
+      <audioTime in="22191" out="24031" />
+    </line>
+    <line lang1="- Allons boire quelque chose." someNumber="None" image="dg\115_005.gif" lang2="- Пойдём выпьем что-нибудь.">
+      <audioTime in="24031" out="25636" />
+    </line>
+    <line lang1="- Merci, Pat." someNumber="None" image="dg\115_005.gif" lang2="- Спасибо, Пат.">
+      <audioTime in="25636" out="26509" />
+    </line>
+    <line lang1="Puis-je prendre de la bière?" someNumber="210" image="dg\115_005.gif" lang2="Могу я выпить пива?">
+      <audioTime in="26509" out="28075" />
+    </line>
+    <line lang1="- De la bière?" someNumber="210" image="dg\115_005.gif" lang2="- Пива?">
+      <audioTime in="28075" out="29104" />
+    </line>
+    <line lang1="Pas de bière. Tu peux prendre de la limonade." someNumber="None" image="dg\115_006.gif" lang2="Нету пива. Ты можешь выпить лимонада.">
+      <audioTime in="29104" out="31905" />
+    </line>
+    <line lang1="- De la limonade!" someNumber="None" image="dg\115_006.gif" lang2="- Лимонада!">
+      <audioTime in="31905" out="33311" />
+    </line>
+    <line lang1="- Ne la crois pas, Paul. Elle plaisante." someNumber="None" image="dg\115_007.gif" lang2="- Не верь ей, Поль. Она шутит.">
+      <audioTime in="33311" out="35125" />
+    </line>
+    <line lang1="Prends une bière." someNumber="None" image="dg\115_007.gif" lang2="Возьми кружку пива!">
+      <audioTime in="35125" out="35809" />
+    </line>
+  </lines>
+</lesson>

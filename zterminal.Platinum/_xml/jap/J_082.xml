@@ -1,0 +1,110 @@
+<lesson>
+  <header wav="j_082.wav" dlgName="Вы говорите по-испански?" dic="p082" />
+  <lines>
+    <line lang1="ー谷川*さん*は*泳ぐ*こと*が*できます*か。" someNumber="94" image="082_001.jpg" lang2="- Танигава-сан, Вы умеете плавать?">
+      <audioTime in="0" out="4525" />
+    </line>
+    <line lang1="―はい、水泳*が*できます。" someNumber="02" image="082_002.jpg" lang2="- Плавать я умею.">
+      <audioTime in="4525" out="6962" />
+    </line>
+    <line lang1="プール*で*も*海*で*も*泳げます。" someNumber="94" image="082_003.jpg" lang2="Могу плавать и в бассейне, и в море.">
+      <audioTime in="6962" out="9608" />
+    </line>
+    <line lang1="ー松本*さん*は*スペイン語*が*話せます*か。" someNumber="None" image="082_004.jpg" lang2="- Мацумото-сан, Вы можете говорить по-испански?">
+      <audioTime in="9608" out="14150" />
+    </line>
+    <line lang1="―はい。スペイン語*が*話せます。" someNumber="None" image="082_005.jpg" lang2="- Да, по-испански говорить умею.">
+      <audioTime in="14150" out="16796" />
+    </line>
+    <line lang1="しかし、イタリア語*は*話せません。" someNumber="None" image="082_006.jpg" lang2="Но по-итальянски говорить не умею.">
+      <audioTime in="16796" out="20024" />
+    </line>
+    <line lang1="ーあなた*は*ワープロ*が*打てます*か。" someNumber="None" image="082_007.jpg" lang2="- Вы умеете печатать на текст-процессоре?">
+      <audioTime in="20024" out="24267" />
+    </line>
+    <line lang1="―もちろん、ワープロ*が*できます。" someNumber="None" image="082_008.jpg" lang2="- Конечно, текст-процессором я владею.">
+      <audioTime in="24093" out="26374" />
+    </line>
+    <line lang1="しかし、ワープロ*は*あまり*使いません。" someNumber="None" image="082_008.jpg" lang2="Но (я) почти не пользуюсь текст-процессором.">
+      <audioTime in="26374" out="29511" />
+    </line>
+    <line lang1="私*は*コンピュータ*の*方*が*好き*です。" someNumber="28" image="082_010.jpg" lang2="Я больше люблю компьютер.">
+      <audioTime in="29511" out="32867" />
+    </line>
+    <line lang1="ー僕*は*馬*に*乗れます。" someNumber="None" image="082_011.jpg" lang2="- Я могу ездить на лошади.">
+      <audioTime in="32867" out="37472" />
+    </line>
+    <line lang1="高橋*さん*は*馬*に*乗った*こと*が*あります*か。" someNumber="110" image="082_012.jpg" lang2="Такахаси-сан, а Вам приходилось ездить на лошади?">
+      <audioTime in="37472" out="41099" />
+    </line>
+    <line lang1="ー 一度*も*ありません。" someNumber="122" image="082_013.jpg" lang2="- Ни разу не приходилось.">
+      <audioTime in="41099" out="43894" />
+    </line>
+    <line lang1="谷川*さん*は*馬*に*乗れます*か。" someNumber="None" image="082_013.jpg" lang2="Танигава-сан, а Вы умеете ездить на лошади?">
+      <audioTime in="43894" out="46982" />
+    </line>
+    <line lang1="ー乗れます。" someNumber="None" image="082_015.jpg" lang2="- Умею.">
+      <audioTime in="46982" out="47952" />
+    </line>
+    <line lang1="しかし、馬場*は*遠い*ので、たま*に*しか*行けません。" someNumber="113" image="082_015.jpg" lang2="Однако ипподром находится далеко, поэтому езжу очень редко.">
+      <audioTime in="47952" out="52050" />
+    </line>
+    <line lang1="ーマリオ*さん*は*ギター*が*ひけます*ね。" someNumber="None" image="082_017.jpg" lang2="- Марио-сан, Вы ведь умеете играть на гитаре, не так ли?">
+      <audioTime in="52050" out="56994" />
+    </line>
+    <line lang1="―はい。ギター*も*バイオリン*も*できます。" someNumber="None" image="082_018.jpg" lang2="- Да умею и на гитаре, и на скрипке.">
+      <audioTime in="56994" out="60096" />
+    </line>
+    <line lang1="―いい*です*ね。" someNumber="None" image="082_019.jpg" lang2="- Как хорошо!">
+      <audioTime in="60096" out="61604" />
+    </line>
+    <line lang1="今日*の*パーティー*で*ギター*を*ひいて*下さいません*か。" someNumber="083" image="082_020.jpg" lang2="Не сыграете ли Вы (нам) на гитаре на сегодняшней вечеринке?">
+      <audioTime in="61604" out="65640" />
+    </line>
+    <line lang1="―すみません。" someNumber="None" image="082_021.jpg" lang2="- Извините!">
+      <audioTime in="65640" out="66881" />
+    </line>
+    <line lang1="この間、手首*を*痛めた*ので、しばらく*ギター*が*ひけません。" someNumber="None" image="082_021.jpg" lang2="Недавно у меня болело запястье, и я некоторое время не могу играть на гитаре.">
+      <audioTime in="66881" out="71581" />
+    </line>
+    <line lang1="ーパパ、私*は*もう*自転車*に*乗れます。" someNumber="None" image="082_023.jpg" lang2="- Папа, я уже могу ездить на велосипеде!">
+      <audioTime in="71581" out="77246" />
+    </line>
+    <line lang1="これ*から、毎日*自転車*で*学校*へ*行けます。" someNumber="None" image="082_023.jpg" lang2="С этих пор могу каждый день ездить в школу на велосипеде!">
+      <audioTime in="77246" out="81015" />
+    </line>
+    <line lang1="―本当。" someNumber="None" image="082_023.jpg" lang2="- В самом деле!">
+      <audioTime in="81015" out="82065" />
+    </line>
+    <line lang1="―私*は*車*の*運転*も*習いたい。" someNumber="081" image="082_026.jpg" lang2="- Я также хочу научиться водить машину!">
+      <audioTime in="82236" out="85640" />
+    </line>
+    <line lang1="―それ*は*まだ*早い。" someNumber="None" image="082_027.jpg" lang2="- Это пока рановато!">
+      <audioTime in="85640" out="87465" />
+    </line>
+    <line lang1="ーこの*プレーヤー*は*音*が*よく*聞こえません。" someNumber="None" image="082_028.jpg" lang2="- У этого плеера плохая слышимость.">
+      <audioTime in="87465" out="93209" />
+    </line>
+    <line lang1="ーちょっと*見せて*ください。" someNumber="None" image="082_029.jpg" lang2="- Ну-ка покажите!">
+      <audioTime in="93209" out="95202" />
+    </line>
+    <line lang1="私*は*プレーヤー*を*直す*こと*が*できます。" someNumber="94" image="082_030.jpg" lang2="Я умею чинить плееры.">
+      <audioTime in="95202" out="99082" />
+    </line>
+    <line lang1="私*は*これ*を*直せます。" someNumber="None" image="082_030.jpg" lang2="Я смогу починить его!">
+      <audioTime in="99082" out="101573" />
+    </line>
+    <line lang1="ー電話*で*ホテル*を*予約する*こと*が*できます*か。" someNumber="None" image="082_032.jpg" lang2="- Можете ли Вы заказать по телефону номер в гостинице?">
+      <audioTime in="101573" out="107933" />
+    </line>
+    <line lang1="ー予約*が*できます*よ。" someNumber="None" image="082_033.jpg" lang2="- Заказать могу!">
+      <audioTime in="107933" out="109789" />
+    </line>
+    <line lang1="ーそれ*から*しんかんせん*の*切符*を*買えます*か。" someNumber="None" image="082_034.jpg" lang2="- И ещё, сможете ли купить билет на синкансен?">
+      <audioTime in="109789" out="114016" />
+    </line>
+    <line lang1="ー切符*は*買えません。" someNumber="None" image="082_035.jpg" lang2="- Билет купить не смогу.">
+      <audioTime in="114016" out="115886" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="j_074.wav" dlgName="Инструкция к магнитофону" dic="p074" />
+  <lines>
+    <line lang1="ーテープレコーダー*を*買った*ん*です*か。" someNumber="None" image="074_001.jpg" lang2="- Вы купили магнитофон?">
+      <audioTime in="0" out="3971" />
+    </line>
+    <line lang1="ボタン*が*たくさん*あります*ね。" someNumber="None" image="074_002.jpg" lang2="Как много кнопок!">
+      <audioTime in="3971" out="6823" />
+    </line>
+    <line lang1="説明書*が*あります*か。" someNumber="174" image="074_003.jpg" lang2="А инструкция есть?">
+      <audioTime in="6823" out="9045" />
+    </line>
+    <line lang1="ーあります。これ*です。" someNumber="None" image="074_004.jpg" lang2="- Есть. Вот!">
+      <audioTime in="9045" out="12227" />
+    </line>
+    <line lang1="ーちょっと*見せて。" someNumber="083" image="074_005.jpg" lang2="- Ну-ка покажите!">
+      <audioTime in="12227" out="14810" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="074_006.jpg" lang2="- Вот!">
+      <audioTime in="14810" out="15988" />
+    </line>
+    <line lang1="―まず、カセット*の*入れ方*です*ね。" someNumber="162" image="074_007.jpg" lang2="- Сначала способ вставления кассеты, не так ли?">
+      <audioTime in="15988" out="19530" />
+    </line>
+    <line lang1="「［ＥＪＥＣＴ］ボタン*を*押して、ふた*を*開ける。" someNumber="92" image="074_008.jpg" lang2="- &quot;Нажав на кнопку &quot;EJECT&quot;, открывают крышку.">
+      <audioTime in="19513" out="23962" />
+    </line>
+    <line lang1="カセットテープ*を*入れて、ふた*を*閉める。」" someNumber="None" image="074_009.jpg" lang2="Вставив кассету, закрывают крышку&quot;.">
+      <audioTime in="23962" out="27713" />
+    </line>
+    <line lang1="ーはい、入れました。" someNumber="None" image="074_010.jpg" lang2="- Вот, вставила.">
+      <audioTime in="27713" out="30075" />
+    </line>
+    <line lang1="ーさいせい*ボタン*は*どれ*です*か。" someNumber="None" image="074_011.jpg" lang2="- Где кнопка воспроизведения?">
+      <audioTime in="30075" out="32531" />
+    </line>
+    <line lang1="―これ*です。" someNumber="None" image="074_012.jpg" lang2="- Вот эта!">
+      <audioTime in="32531" out="33708" />
+    </line>
+    <line lang1="―「再生*ボタン*を*押して、テープ*を*動かす。」" someNumber="None" image="074_013.jpg" lang2="- &quot;Нажав кнопку воспроизведения, приводят в движение ленту&quot;.">
+      <audioTime in="33708" out="38360" />
+    </line>
+    <line lang1="じゃ、押して。" someNumber="None" image="074_014.jpg" lang2="Ну-ка нажмите!">
+      <audioTime in="38360" out="39601" />
+    </line>
+    <line lang1="ー押しました。テープ*が*動きました。" someNumber="None" image="074_015.jpg" lang2="- Нажала. Лента задвигалась.">
+      <audioTime in="39601" out="44278" />
+    </line>
+    <line lang1="でも、音*が*大きい*です*ね。" someNumber="None" image="074_015.jpg" lang2="Однако, звук громкий, не правда ли.">
+      <audioTime in="44278" out="47334" />
+    </line>
+    <line lang1="ー「ＶＯＬＵＭＥ」つまみ*を*回して、音*を*小さく*して。" someNumber="None" image="074_017.jpg" lang2="- Поверните ручку регулятора громкости &quot;VOLUME &quot; и сделайте звук потише.">
+      <audioTime in="47334" out="51612" />
+    </line>
+    <line lang1="―これ*で*良い*です*ね。" someNumber="None" image="074_018.jpg" lang2="- Так лучше, не так ли?">
+      <audioTime in="51472" out="54255" />
+    </line>
+    <line lang1="ーはい。「テープ*を*止める*時*は、ていし*ボタン*を*押す。" someNumber="153" image="074_019.jpg" lang2="- Да. &quot;Чтобы остановить ленту, нажимают на кнопку &quot;стоп&quot;.">
+      <audioTime in="54061" out="59269" />
+    </line>
+    <line lang1="テープ*を*早送り*する*とき*は、早送り*ボタン*を*押す。" someNumber="163" image="074_020.jpg" lang2="Чтобы перемотать пленку вперед, нажимают на кнопку быстрой перемотки вперед.">
+      <audioTime in="59269" out="64062" />
+    </line>
+    <line lang1="テープ*を*まきもどす*時*は、巻き戻し*ボタン*を*押す。」" someNumber="None" image="074_021.jpg" lang2="Чтобы перемотать пленку назад, нажимают на кнопку обратной перемотки.&quot;">
+      <audioTime in="64062" out="68684" />
+    </line>
+    <line lang1="ーテープ*が*終わる*と*どう*なります*か。" someNumber="None" image="074_022.jpg" lang2="- Что надо делать, когда пленка заканчивается.">
+      <audioTime in="68684" out="72420" />
+    </line>
+    <line lang1="ーテープ*が*自動的*に*止まります。" someNumber="None" image="074_023.jpg" lang2="- Пленка останавливается автоматически.">
+      <audioTime in="72420" out="75210" />
+    </line>
+    <line lang1="ーていし*ボタン*を*押さなくても*自動的*に*止まります*か。" someNumber="157" image="074_024.jpg" lang2="- Если даже не нажимать на кнопку &quot;стоп&quot;, останавливается автоматически?">
+      <audioTime in="75210" out="80582" />
+    </line>
+    <line lang1="ーそう*書いてあります。" someNumber="77" image="074_025.jpg" lang2="- Так написано.">
+      <audioTime in="80582" out="82550" />
+    </line>
+    <line lang1="ーろくおん*ボタン*は*どれ*です*か。" someNumber="None" image="074_026.jpg" lang2="- Где кнопка записи?">
+      <audioTime in="82550" out="85748" />
+    </line>
+    <line lang1="ーこの*赤い*ボタン*です。" someNumber="None" image="074_027.jpg" lang2="- Вот эта красная кнопка.">
+      <audioTime in="85748" out="88267" />
+    </line>
+    <line lang1="再生*ボタン*と*この*赤い*ボタン*を*同時*に*押す*と、" someNumber="86" image="074_028.jpg" lang2="Если нажать одновременно на кнопку воспроизведения и эту красную кнопку,">
+      <audioTime in="88508" out="92402" />
+    </line>
+    <line lang1="ろくおん*する*こと*が*できます。" someNumber="94" image="074_028.jpg" lang2="можно записывать.">
+      <audioTime in="92402" out="94687" />
+    </line>
+    <line lang1="ろくおん*の*とき*この*マイク*に*向かって*話して*下さい。" someNumber="None" image="074_030.jpg" lang2="При записи говорите в этот микрофон!">
+      <audioTime in="94687" out="99103" />
+    </line>
+  </lines>
+</lesson>

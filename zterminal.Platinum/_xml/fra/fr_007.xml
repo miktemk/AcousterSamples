@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="FR_007.wav" dlgName="Длинное путешествие" dlgFile="exr\frg007.txt" />
+  <lines>
+    <line lang1="- Que faites-vous?" someNumber="None" image="f.jpg" lang2="- Что вы делаете?">
+      <audioTime in="0" out="1851" />
+    </line>
+    <line lang1="- Je prépare le voyage, que je vais faire à travers la France." someNumber="None" image="f.jpg" lang2="- Я приготавливаюсь к путешествию по Франции.">
+      <audioTime in="1851" out="7321" />
+    </line>
+    <line lang1="Voici une carte avec les provinces françaises que je vais visiter." someNumber="None" image="f.jpg" lang2="Вот карта французских провинций, которые я посещу.">
+      <audioTime in="7321" out="12437" />
+    </line>
+    <line lang1="Cette ligne que vous voyez, c'est l'itinéraire que je vais suivre." someNumber="None" image="f.jpg" lang2="Линия, которую вы видите, - маршрут, по которому я буду следовать.">
+      <audioTime in="12437" out="17788" />
+    </line>
+    <line lang1="- Je vois que vous allez faire un long voyage." someNumber="None" image="f.jpg" lang2="- Я вижу, что вы совершите большое путешествие.">
+      <audioTime in="17788" out="21751" />
+    </line>
+    <line lang1="- Oui, je vais monter vers le Nord," someNumber="None" image="f.jpg" lang2="- Да, я поеду на север,">
+      <audioTime in="21751" out="24630" />
+    </line>
+    <line lang1="descendre par l'Ouest jusqu'aux Pyrénées et les provinces du Sud" someNumber="None" image="f.jpg" lang2="с запада доеду до Пиренейских гор и до южных провинций,">
+      <audioTime in="24630" out="29664" />
+    </line>
+    <line lang1="et puis je vais rentrer à Paris en remontant par l'Est." someNumber="None" image="f.jpg" lang2="а потом вернусь в Париж, подъехав с востока.">
+      <audioTime in="29664" out="34306" />
+    </line>
+    <line lang1="- Vous allez donc connaître toute la France" someNumber="None" image="f.jpg" lang2="- Значит, вы познакомитесь со всей Францией,">
+      <audioTime in="34306" out="38361" />
+    </line>
+    <line lang1="avec ses belles villes, ses beaux villages et ses paysages si variés." someNumber="None" image="f.jpg" lang2="с её красивыми городами, с её сёлами и с её разнообразным пейзажем.">
+      <audioTime in="38361" out="44355" />
+    </line>
+    <line lang1="Vous avez de la chance!" someNumber="None" image="f.jpg" lang2="Вам посчастливилось!">
+      <audioTime in="44355" out="46289" />
+    </line>
+    <line lang1="- Partez avec moi!" someNumber="None" image="f.jpg" lang2="- Поезжайте со мной!">
+      <audioTime in="46289" out="47625" />
+    </line>
+    <line lang1="Il y a beaucoup de place dans ma voiture." someNumber="None" image="f.jpg" lang2="В моей машине есть много места.">
+      <audioTime in="47625" out="50525" />
+    </line>
+    <line lang1="- Avec plaisir." someNumber="None" image="f.jpg" lang2="- С удовольствием.">
+      <audioTime in="50525" out="52090" />
+    </line>
+  </lines>
+</lesson>

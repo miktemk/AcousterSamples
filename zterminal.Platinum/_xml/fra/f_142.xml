@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_142.wav" dic="p142" dlgName="Делает ли кто-либо? Да." dlgFile="exr\fg142.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ouvre-t-on cette fenêtre?" someNumber="60" image="dg\142_001.gif" lang2="- Открывают ли это окно?">
+      <audioTime in="0" out="1345" />
+    </line>
+    <line lang1="- Oui, on l'ouvre régulièrement." someNumber="None" image="dg\142_001.gif" lang2="- Да, его открывают регулярно.">
+      <audioTime in="1345" out="3180" />
+    </line>
+    <line lang1="- L'accompagne-t-on à l'école?" someNumber="None" image="dg\142_002.gif" lang2="- Провожают ли его в школу?">
+      <audioTime in="3180" out="4750" />
+    </line>
+    <line lang1="- Oui, on l'accompagne toujours." someNumber="780" image="dg\142_002.gif" lang2="- Да, его провожают в школу всегда.">
+      <audioTime in="4750" out="6427" />
+    </line>
+    <line lang1="- Répare-t-on cette voiture?" someNumber="None" image="dg\142_003.gif" lang2="- Ремонтируют ли этот автомобиль?">
+      <audioTime in="6427" out="7902" />
+    </line>
+    <line lang1="- Oui, on la répare régulièrement." someNumber="None" image="dg\142_003.gif" lang2="- Да, его ремонтируют регулярно.">
+      <audioTime in="7902" out="10006" />
+    </line>
+    <line lang1="- Aére-t-on cette chambre?" someNumber="470" image="dg\142_004.gif" lang2="- Проветривают ли эту комнату?">
+      <audioTime in="10006" out="11346" />
+    </line>
+    <line lang1="- Oui, on l'aère régulièrement." someNumber="None" image="dg\142_004.gif" lang2="- Да, её проветривают регулярно.">
+      <audioTime in="11346" out="13433" />
+    </line>
+    <line lang1="- Corrige-t-on ces cahiers?" someNumber="None" image="dg\142_005.gif" lang2="- Проверяют ли эти тетрадки?">
+      <audioTime in="13433" out="14629" />
+    </line>
+    <line lang1="- Oui, on les corrige régulièrement." someNumber="610" image="dg\142_005.gif" lang2="- Да, их проверяют регулярно.">
+      <audioTime in="14629" out="16929" />
+    </line>
+    <line lang1="- L'invite-t-on à des soirées?" someNumber="None" image="dg\142_006.gif" lang2="- Приглашают ли его на вечеринки?">
+      <audioTime in="16929" out="18383" />
+    </line>
+    <line lang1="- Oui, on l'invite régulièrement." someNumber="None" image="dg\142_006.gif" lang2="- Да, его приглашают регулярно.">
+      <audioTime in="18383" out="20513" />
+    </line>
+    <line lang1="- Les prend-t-on à la station?" someNumber="200" image="dg\142_007.gif" lang2="- Встречают ли их на станции?">
+      <audioTime in="20513" out="21857" />
+    </line>
+    <line lang1="- Oui, on les prend régulièrement." someNumber="None" image="dg\142_007.gif" lang2="- Да, их встречают регулярно.">
+      <audioTime in="21857" out="23900" />
+    </line>
+    <line lang1="- Aiguise-t-on ce couteau?" someNumber="None" image="dg\142_008.gif" lang2="- Точат ли этот нож?">
+      <audioTime in="23900" out="25181" />
+    </line>
+    <line lang1="- Oui, on l'aiguise régulièrement." someNumber="None" image="dg\142_008.gif" lang2="- Да, его точат регулярно.">
+      <audioTime in="25181" out="27383" />
+    </line>
+    <line lang1="- Aiguise-t-on ces couteaux?" someNumber="210" image="dg\142_009.gif" lang2="- Точат ли эти ножи?">
+      <audioTime in="27383" out="28602" />
+    </line>
+    <line lang1="- Oui, on les aiguise régulièrement." someNumber="None" image="dg\142_009.gif" lang2="- Да, их точат регулярно.">
+      <audioTime in="28602" out="30757" />
+    </line>
+    <line lang1="- Les surveille-t-on?" someNumber="None" image="dg\142_010.gif" lang2="- Наблюдали ли за ними?">
+      <audioTime in="30757" out="31709" />
+    </line>
+    <line lang1="- Oui, on les surveille régulièrement." someNumber="None" image="dg\142_010.gif" lang2="- Да, за ними регулярно наблюдают.">
+      <audioTime in="31709" out="33966" />
+    </line>
+  </lines>
+</lesson>

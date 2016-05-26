@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="i_117.wav" dic="p117" dlgName="Мальчик нашёл монеты." dlgFile="exr\ig117.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Quando mio marito è andato in salotto stamattina," someNumber="590" image="dg\117_001.gif" lang2="- Когда мой муж сегодня утром направлялся в столовую,">
+      <audioTime in="126" out="3602" />
+    </line>
+    <line lang1="gli sono cadute alcune monete sul pavimento." someNumber="None" image="dg\117_001.gif" lang2="он уронил на пол несколько монет.">
+      <audioTime in="3664" out="6824" />
+    </line>
+    <line lang1="- C'erano monete ovunque." someNumber="410" image="dg\117_001.gif" lang2="- Монеты были повсюду.">
+      <audioTime in="6824" out="8675" />
+    </line>
+    <line lang1="- Le abbiamo cercate, ma non siamo riusciti a trovarle tutte." someNumber="None" image="dg\117_002.gif" lang2="- Мы их поискали, но не смогли найти все.">
+      <audioTime in="8720" out="12511" />
+    </line>
+    <line lang1="- Mentre facevamo colazione, il nostro piccolo Marco" someNumber="None" image="dg\117_003.gif" lang2="- Пока мы завтракали, наш малыш Марко">
+      <audioTime in="12511" out="16556" />
+    </line>
+    <line lang1="ha trovato due monete sul pavimento." someNumber="None" image="dg\117_003.gif" lang2="нашёл две монеты на полу.">
+      <audioTime in="16556" out="19039" />
+    </line>
+    <line lang1="- Le ha messe in bocca." someNumber="None" image="dg\117_003.gif" lang2="- Он запихнул их обе себе в рот.">
+      <audioTime in="19039" out="20756" />
+    </line>
+    <line lang1="- Abbiamo provato a prendergliele, ma era troppo tardi." someNumber="None" image="dg\117_004.gif" lang2="- Мы оба старались достать монеты, но было уже поздно.">
+      <audioTime in="20727" out="24500" />
+    </line>
+    <line lang1="- Marco le ha inghiottite!" someNumber="None" image="dg\117_004.gif" lang2="- Марко их уже проглотил!">
+      <audioTime in="24500" out="26397" />
+    </line>
+    <line lang1="- Stamattina, sul tardi, mentre facevo le pulizie," someNumber="None" image="dg\117_007.gif" lang2="- Позже утром, когда я занималась делами по дому,">
+      <audioTime in="26397" out="29873" />
+    </line>
+    <line lang1="mio marito ha telefonato dall'ufficio." someNumber="None" image="dg\117_007.gif" lang2="мой муж позвонил мне с работы.">
+      <audioTime in="29873" out="32492" />
+    </line>
+    <line lang1="- &quot;Come sta Marco?&quot;, mi ha chiesto." someNumber="None" image="dg\117_009.gif" lang2="- &quot;Как Марко?&quot; - спросил он.">
+      <audioTime in="32544" out="34819" />
+    </line>
+    <line lang1="- &quot;Non lo so&quot;, ho risposto." someNumber="None" image="dg\117_009.gif" lang2="- &quot;Я не знаю&quot;, - ответила я.">
+      <audioTime in="34881" out="36525" />
+    </line>
+    <line lang1="- &quot;È stato al bagno tre volte stamattina," someNumber="None" image="dg\117_009.gif" lang2="- &quot;Он уже трижды побывал в туалете за утро,">
+      <audioTime in="36525" out="39052" />
+    </line>
+    <line lang1="ma ancora non ho ricevuto il resto&quot;." someNumber="None" image="dg\117_009.gif" lang2="но сдачи я ещё не получила&quot;.">
+      <audioTime in="39071" out="41833" />
+    </line>
+  </lines>
+</lesson>

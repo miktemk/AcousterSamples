@@ -1,0 +1,104 @@
+<lesson>
+  <header wav="FR_043.wav" dlgName="Во время путешествия" dlgFile="exr\frg043.txt" />
+  <lines>
+    <line lang1="- Ouvrons cette fenêtre et regardons le paysage!" someNumber="None" image="f.jpg" lang2="- Откроем окно и посмотрим на пейзаж.">
+      <audioTime in="0" out="4879" />
+    </line>
+    <line lang1="- Attention! Il est dangereux de se pencher." someNumber="None" image="f.jpg" lang2="- Осторожно! Выглядывать опасно.">
+      <audioTime in="4879" out="8892" />
+    </line>
+    <line lang1="- Bon, je ferai attention." someNumber="None" image="f.jpg" lang2="- Хорошо я буду осторожен.">
+      <audioTime in="8892" out="11742" />
+    </line>
+    <line lang1="Regarde! La vue est si nette." someNumber="None" image="f.jpg" lang2="Смотри! Видимость так хороша.">
+      <audioTime in="11742" out="15542" />
+    </line>
+    <line lang1="Demain nous aurons certainement un temps magnifique." someNumber="None" image="f.jpg" lang2="Наверное, завтра будет замечательная погода.">
+      <audioTime in="15542" out="20052" />
+    </line>
+    <line lang1="- Tiens! Le train s'arrête." someNumber="None" image="f.jpg" lang2="- Смотри! Поезд останавливается.">
+      <audioTime in="20052" out="23179" />
+    </line>
+    <line lang1="Il doit y avoir un signal rouge." someNumber="None" image="f.jpg" lang2="Должно быть, красный сигнал.">
+      <audioTime in="23179" out="26319" />
+    </line>
+    <line lang1="- C'est ça. Tu as raison, mais quand repartirons-nous?" someNumber="None" image="f.jpg" lang2="- Да. Ты прав, а когда снова поедем?">
+      <audioTime in="26319" out="31094" />
+    </line>
+    <line lang1="- Au signal vert." someNumber="None" image="f.jpg" lang2="- Когда будет зелёный сигнал.">
+      <audioTime in="31094" out="32829" />
+    </line>
+    <line lang1="- Et par où passerons-nous maintenant?" someNumber="None" image="f.jpg" lang2="- А как теперь поедем?">
+      <audioTime in="32829" out="35769" />
+    </line>
+    <line lang1="- Bientôt nous traverserons une rivière et après nous passerons sous un tunnel." someNumber="None" image="f.jpg" lang2="- Скоро мы переедем реку, а потом проедем через туннель.">
+      <audioTime in="35769" out="42788" />
+    </line>
+    <line lang1="- Il faut donc fermer la fenêtre:" someNumber="None" image="f.jpg" lang2="- В таком случае надо закрыть окно,">
+      <audioTime in="42788" out="45952" />
+    </line>
+    <line lang1="autrement nous aurons le compartiment plein de fumée." someNumber="None" image="f.jpg" lang2="иначе в нашем купе будет полно дыма.">
+      <audioTime in="45952" out="49849" />
+    </line>
+    <line lang1="- Pardon monsieur, dans combien de temps serons-nous à Paris?" someNumber="None" image="f.jpg" lang2="- Извините, пожалуйста, когда мы будем в Париже?">
+      <audioTime in="49849" out="55493" />
+    </line>
+    <line lang1="- Dans 10 minutes, il est quatre heures moins le quart." someNumber="None" image="f.jpg" lang2="- Через десять минут, сейчас без четверти четыре.">
+      <audioTime in="55493" out="59180" />
+    </line>
+    <line lang1="- Pouvez-vous m'aider à descendre cette valise?" someNumber="None" image="f.jpg" lang2="- Можете ли мне помочь снять этот чемодан?">
+      <audioTime in="59180" out="62959" />
+    </line>
+    <line lang1="- Très volontiers, mademoiselle." someNumber="None" image="f.jpg" lang2="- С удовольствием, мадемуазель.">
+      <audioTime in="62959" out="64974" />
+    </line>
+    <line lang1="Mais cette valise est ouverte." someNumber="None" image="f.jpg" lang2="Но этот чемодан открыт.">
+      <audioTime in="64974" out="67174" />
+    </line>
+    <line lang1="- Oui, je l'ouvre facilement mais je ne sais pas la fermer." someNumber="None" image="f.jpg" lang2="- Да, я его открываю легко, но не умею закрывать.">
+      <audioTime in="67174" out="72331" />
+    </line>
+    <line lang1="- Voilà. C'est fait." someNumber="None" image="f.jpg" lang2="- Всё. Готово.">
+      <audioTime in="72331" out="74363" />
+    </line>
+    <line lang1="- Merci, monsieur." someNumber="None" image="f.jpg" lang2="- Благодарю вас.">
+      <audioTime in="74363" out="76280" />
+    </line>
+    <line lang1="- A votre service, mademoiselle." someNumber="None" image="f.jpg" lang2="- К вашим услугам мадемуазель.">
+      <audioTime in="76280" out="78155" />
+    </line>
+    <line lang1="C'est un grand plaisir pour moi de voyager en votre compagnie." someNumber="None" image="f.jpg" lang2="Для меня это большое удовольствие путешествовать с вами.">
+      <audioTime in="78155" out="82272" />
+    </line>
+    <line lang1="- Vous êtes trop aimable." someNumber="None" image="f.jpg" lang2="- Вы очень любезны.">
+      <audioTime in="82272" out="84538" />
+    </line>
+    <line lang1="- Combien de jours passerez-vous à Paris?" someNumber="None" image="f.jpg" lang2="- Сколько дней вы проведёте в Париже?">
+      <audioTime in="84538" out="87479" />
+    </line>
+    <line lang1="- Près de 15 jours." someNumber="None" image="f.jpg" lang2="- Около 15 дней.">
+      <audioTime in="87479" out="89913" />
+    </line>
+    <line lang1="Mais savez-vous à quelle gare ce train nous amènera?" someNumber="None" image="f.jpg" lang2="А знаете ли вы, на какой вокзал привезет нас этот поезд?">
+      <audioTime in="89913" out="94177" />
+    </line>
+    <line lang1="- A la gare de l'Est." someNumber="None" image="f.jpg" lang2="- На Восточный вокзал.">
+      <audioTime in="94177" out="95602" />
+    </line>
+    <line lang1="- Est-ce que la gare du Nord est loin de la gare de l'Est?" someNumber="None" image="f.jpg" lang2="- Северный вокзал далеко от Восточного вокзала?">
+      <audioTime in="95602" out="100126" />
+    </line>
+    <line lang1="- Non, c'est tout près." someNumber="None" image="f.jpg" lang2="- Нет, это очень близко.">
+      <audioTime in="100126" out="101791" />
+    </line>
+    <line lang1="Mais nous voilà déjà à Paris." someNumber="None" image="f.jpg" lang2="Ну вот, мы уже в Париже.">
+      <audioTime in="101791" out="104510" />
+    </line>
+    <line lang1="Au revoir, mademoiselle!" someNumber="None" image="f.jpg" lang2="До свидания, мадемуазель.">
+      <audioTime in="104510" out="106574" />
+    </line>
+    <line lang1="- Au revoir, monsieur!" someNumber="None" image="f.jpg" lang2="- До свидания, месье.">
+      <audioTime in="106574" out="108975" />
+    </line>
+  </lines>
+</lesson>

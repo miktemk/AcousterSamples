@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="i_079.wav" dic="p079" dlgName="Нам нужно... У нас нет..." dlgFile="exr\ig079.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Nicoletta, cosa fai?" someNumber="None" image="dg\079_001.gif" lang2="- Что ты делаешь, Николетта?">
+      <audioTime in="0" out="1421" />
+    </line>
+    <line lang1="- Scrivo una lista delle cose che devo comprare, Marco." someNumber="None" image="dg\079_001.gif" lang2="- Я составляю список того, что надо купить, Марко.">
+      <audioTime in="1409" out="4719" />
+    </line>
+    <line lang1="- Di cosa abbiamo bisogno?" someNumber="None" image="dg\079_002.gif" lang2="- И что нам нужно?">
+      <audioTime in="4639" out="6505" />
+    </line>
+    <line lang1="- Abbiamo bisogno di molte cose questa settimana." someNumber="None" image="dg\079_003.gif" lang2="- На этой неделе нам много чего нужно.">
+      <audioTime in="6482" out="9348" />
+    </line>
+    <line lang1="- Dobbiamo andare dal droghiere." someNumber="None" image="dg\079_003.gif" lang2="- Мне надо сходить к бакалейщику.">
+      <audioTime in="9427" out="11167" />
+    </line>
+    <line lang1="C'è rimasto poco tè e caffè e abbiamo finito lo zucchero e la marmellata." someNumber="None" image="dg\079_003.gif" lang2="У нас осталось мало чая и кофе, и совсем не осталось сахара и джема.">
+      <audioTime in="11326" out="15635" />
+    </line>
+    <line lang1="- E per quanto riguarda la verdura?" someNumber="None" image="dg\079_004.gif" lang2="- А как насчёт овощей?">
+      <audioTime in="15522" out="17797" />
+    </line>
+    <line lang1="- Devo passare dal fruttivendolo." someNumber="None" image="dg\079_004.gif" lang2="- Мне надо зайти к зеленщику.">
+      <audioTime in="17626" out="19741" />
+    </line>
+    <line lang1="Abbiamo pochi pomodori, ma molte patate." someNumber="None" image="dg\079_004.gif" lang2="У нас мало помидоров, но у нас много картошки.">
+      <audioTime in="19855" out="22629" />
+    </line>
+    <line lang1="- Devo andare anche dal macellaio." someNumber="None" image="dg\079_005.gif" lang2="- А ещё мне надо зайти к мяснику.">
+      <audioTime in="22629" out="24733" />
+    </line>
+    <line lang1="Ci serve la carne." someNumber="None" image="dg\079_005.gif" lang2="Нам нужно мясо.">
+      <audioTime in="24688" out="26268" />
+    </line>
+    <line lang1="Non ce l'abbiamo, per niente." someNumber="None" image="dg\079_005.gif" lang2="У нас совсем нет мяса.">
+      <audioTime in="26268" out="28145" />
+    </line>
+    <line lang1="- Abbiamo birra o vino?" someNumber="None" image="dg\079_006.gif" lang2="- У нас есть пиво и вино?">
+      <audioTime in="28438" out="29818" />
+    </line>
+    <line lang1="- No, non ce l'abbiamo." someNumber="None" image="dg\079_006.gif" lang2="- Нет, нету.">
+      <audioTime in="29818" out="31308" />
+    </line>
+    <line lang1="E non ho intenzione di comprarne!" someNumber="None" image="dg\079_006.gif" lang2="И я не собираюсь их покупать!">
+      <audioTime in="31411" out="33510" />
+    </line>
+    <line lang1="- Spero che tu abbia i soldi." someNumber="None" image="dg\079_007.gif" lang2="- Надеюсь, у тебя есть деньги.">
+      <audioTime in="33498" out="35163" />
+    </line>
+    <line lang1="- Un po'." someNumber="None" image="dg\079_007.gif" lang2="- У меня их мало.">
+      <audioTime in="35268" out="36172" />
+    </line>
+    <line lang1="- Ma anch'io ne ho pochi." someNumber="None" image="dg\079_007.gif" lang2="- Ну, у меня их тоже мало.">
+      <audioTime in="36132" out="37625" />
+    </line>
+  </lines>
+</lesson>

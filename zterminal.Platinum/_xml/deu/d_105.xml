@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="d_105.wav" dic="p105" dlgName="В письме полно ошибок." dlgFile="exr\dg105.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wo #ist Fräulein Helga, Martin?" someNumber="680" image="dg\105_001.gif" lang2="- Где фрейлейн Хельга, Мартин?">
+      <audioTime in="426" out="2772" />
+    </line>
+    <line lang1="Ich #will sie #sehen." someNumber="680" image="dg\105_001.gif" lang2="Я хочу её видеть.">
+      <audioTime in="2843" out="4194" />
+    </line>
+    <line lang1="- #Wollen Sie mit ihr #sprechen, Chef?" someNumber="None" image="dg\105_001.gif" lang2="- Вы хотите поговорить с ней, шеф?">
+      <audioTime in="4265" out="6255" />
+    </line>
+    <line lang1="- Ja." someNumber="None" image="dg\105_001.gif" lang2="- Да.">
+      <audioTime in="6255" out="7384" />
+    </line>
+    <line lang1="Ich #will, dass sie in mein Büro #kommt." someNumber="980" image="dg\105_001.gif" lang2="Я хочу, чтобы она пришла в мой офис.">
+      <audioTime in="7464" out="10022" />
+    </line>
+    <line lang1="#Sagen sie ihr, sie soll gleich #kommen." someNumber="980" image="dg\105_001.gif" lang2="Скажите ей прийти сейчас же.">
+      <audioTime in="10165" out="12582" />
+    </line>
+    <line lang1="- #Wollen Sie mich #sehen, Chef?" someNumber="None" image="dg\105_002.gif" lang2="- Вы хотите видеть меня, шеф?">
+      <audioTime in="12723" out="14145" />
+    </line>
+    <line lang1="- Oh, ja Fräulein Helga." someNumber="None" image="dg\105_002.gif" lang2="- О, да, фрейлейн Хельга.">
+      <audioTime in="14217" out="15567" />
+    </line>
+    <line lang1="Wie #buchstabieren Sie das Wort &quot;intelligent&quot;?" someNumber="None" image="dg\105_002.gif" lang2="Как Вы скажете по буквам &quot;интеллигентный&quot;?">
+      <audioTime in="15709" out="19476" />
+    </line>
+    <line lang1="#Können Sie mir das #sagen?" someNumber="None" image="dg\105_002.gif" lang2="Можете Вы мне сказать?">
+      <audioTime in="19690" out="22178" />
+    </line>
+    <line lang1="- I-N-T-E-L-L-I-G-E-N-T." someNumber="None" image="dg\105_002.gif" lang2="- И-Н-Т-Е-Л-Л-И-Г-Е-Н-Т-Н-Ы-Й.">
+      <audioTime in="22462" out="28505" />
+    </line>
+    <line lang1="- Ganz richtig." someNumber="580" image="dg\105_003.gif" lang2="- Совершенно верно.">
+      <audioTime in="28860" out="29856" />
+    </line>
+    <line lang1="Sie #haben es aber nur mit einem &quot;l&quot; #getippt." someNumber="580" image="dg\105_003.gif" lang2="Но вы напечатали его только с одним &quot;Л&quot;.">
+      <audioTime in="30139" out="33338" />
+    </line>
+    <line lang1="Dieser Brief #ist voller Fehler." someNumber="370" image="dg\105_003.gif" lang2="В этом письме полно ошибок.">
+      <audioTime in="33694" out="35542" />
+    </line>
+    <line lang1="Sie #müssen ihn noch einmal #tippen." someNumber="370" image="dg\105_003.gif" lang2="Вы должны напечатать его снова.">
+      <audioTime in="35684" out="37461" />
+    </line>
+    <line lang1="- Ja Chef." someNumber="None" image="dg\105_003.gif" lang2="- Да, шеф.">
+      <audioTime in="37461" out="38410" />
+    </line>
+    <line lang1="#Entschuldigen Sie." someNumber="None" image="dg\105_003.gif" lang2="Извините.">
+      <audioTime in="38410" out="39539" />
+    </line>
+    <line lang1="- Und das #ist ein kleines Geschenk für Sie." someNumber="290" image="dg\105_004.gif" lang2="- А это маленький подарок для Вас.">
+      <audioTime in="39736" out="42224" />
+    </line>
+    <line lang1="- Was #ist das?" someNumber="290" image="dg\105_004.gif" lang2="- Что это?">
+      <audioTime in="42437" out="43646" />
+    </line>
+    <line lang1="- Das #ist ein Wörterbuch." someNumber="510" image="dg\105_004.gif" lang2="- Это словарь.">
+      <audioTime in="43575" out="45210" />
+    </line>
+    <line lang1="Ich #hoffe, es #hilft Ihnen." someNumber="510" image="dg\105_004.gif" lang2="Я надеюсь, он поможет Вам.">
+      <audioTime in="45067" out="46631" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="j_077.wav" dlgName="Собираемся пойти в горы" dic="p077" />
+  <lines>
+    <line lang1="ー週末*に*何*を*する*つもり*です*か。" someNumber="93" image="077_001.jpg" lang2="- Что Вы собираетесь делать в конце недели?">
+      <audioTime in="0" out="3541" />
+    </line>
+    <line lang1="ーハイキング*に*行こう*と*思っています。" someNumber="93" image="077_002.jpg" lang2="- Собираюсь пойти в туристический поход.">
+      <audioTime in="3541" out="6314" />
+    </line>
+    <line lang1="ハイキング・クラブ*の*友達*と*一緒*です。" someNumber="None" image="077_002.jpg" lang2="Вместе с друзьями по туристическому клубу.">
+      <audioTime in="6314" out="9463" />
+    </line>
+    <line lang1="ーどこ*へ*行く*つもり*です*か。" someNumber="None" image="077_004.jpg" lang2="- Куда вы собираетесь пойти?">
+      <audioTime in="9463" out="12457" />
+    </line>
+    <line lang1="ー日本*アルプス*と*いう*山*へ*行きたい*と*思いました*が、" someNumber="None" image="077_005.jpg" lang2="- Собирались пойти в горы, которые называются Японские Альпы,">
+      <audioTime in="12457" out="16375" />
+    </line>
+    <line lang1="一日、二日*で*は*無理*だ*と*思って、" someNumber="None" image="077_005.jpg" lang2="но, подумав, что на день-два это бессмысленно,">
+      <audioTime in="16375" out="19245" />
+    </line>
+    <line lang1="もっと*近い*山*に*きめました。" someNumber="None" image="077_007.jpg" lang2="решили (пойти) в более близкие горы.">
+      <audioTime in="19245" out="21477" />
+    </line>
+    <line lang1="一緒*に*どう*です*か。" someNumber="None" image="077_008.jpg" lang2="Как насчёт того, чтоб (поехать) вместе?">
+      <audioTime in="21477" out="23694" />
+    </line>
+    <line lang1="ーざんねん*です*が、私*は*もう*明子*さん*と*やくそく*しました。" someNumber="None" image="077_009.jpg" lang2="- Жаль, но я уже договорилась с Акико.">
+      <audioTime in="23694" out="28302" />
+    </line>
+    <line lang1="日光*へ*行*く*つもり*です。" someNumber="None" image="077_010.jpg" lang2="Собираемся поехать в Никко.">
+      <audioTime in="28302" out="30510" />
+    </line>
+    <line lang1="―日光*は*来週*に*して、" someNumber="None" image="077_011.jpg" lang2="- Не лучше ли отложить Никко на следующую неделю,">
+      <audioTime in="30664" out="32790" />
+    </line>
+    <line lang1="今週*は*一緒*に*行きません*か。" someNumber="None" image="077_011.jpg" lang2="а на этой неделе поехать вместе с нами?">
+      <audioTime in="32790" out="35262" />
+    </line>
+    <line lang1="ーでも、私*は*山*に*登った*こと*が*ありません。" someNumber="None" image="077_013.jpg" lang2="- Но мне не приходилось подниматься в горы!">
+      <audioTime in="35262" out="39612" />
+    </line>
+    <line lang1="ーぼく*も*そんな*に*登った*こと*が*ありません。" someNumber="None" image="077_013.jpg" lang2="- И мне не особенно приходилось.">
+      <audioTime in="39612" out="42463" />
+    </line>
+    <line lang1="クラブ*の*中*に*山登り*が*得意*な*人*も*得意じゃない*人*も*います。" someNumber="None" image="077_015.jpg" lang2="В клубе есть люди, опытные и неопытные в восхождении.">
+      <audioTime in="42463" out="47937" />
+    </line>
+    <line lang1="だ*から*大丈夫*です*よ。" someNumber="None" image="077_015.jpg" lang2="Поэтому не беспокойтесь!">
+      <audioTime in="47937" out="49938" />
+    </line>
+    <line lang1="ぼくたち*は*山*に*一泊しよう*と*思っています。" someNumber="None" image="077_017.jpg" lang2="Мы собираемся провести в горах одну ночь.">
+      <audioTime in="49938" out="53738" />
+    </line>
+    <line lang1="ーホテル*に*泊まる*つもり*です*か。" someNumber="None" image="077_018.jpg" lang2="- Собираетесь остановиться в гостинице?">
+      <audioTime in="53738" out="57296" />
+    </line>
+    <line lang1="ーいいえ、ホテル*に*泊まる*つもり*は*ありません。" someNumber="None" image="077_018.jpg" lang2="- Нет, в гостинице останавливаться не собираемся.">
+      <audioTime in="57296" out="60991" />
+    </line>
+    <line lang1="テント*に*寝よう*と*思っています。" someNumber="None" image="077_020.jpg" lang2="Думаем переночевать в палатках.">
+      <audioTime in="60991" out="63310" />
+    </line>
+    <line lang1="ぼく達*は*しぜん*の*中*で*ゆっくり*と*休みたい*です。" someNumber="None" image="077_020.jpg" lang2="Мы хотим спокойно отдохнуть на природе.">
+      <audioTime in="63310" out="67574" />
+    </line>
+    <line lang1="ー荷物*は*重くない*です*か。" someNumber="None" image="077_022.jpg" lang2="- А вещи не тяжёлые?">
+      <audioTime in="67574" out="70855" />
+    </line>
+    <line lang1="ーいいえ、荷物*は*できる*だけ*軽くしよう*と*思います。" someNumber="None" image="077_022.jpg" lang2="- Нет, мы собираемся по мере возможности сделать багаж лёгким.">
+      <audioTime in="70855" out="74485" />
+    </line>
+    <line lang1="―私*は*やっぱり*日光*へ*行きます。" someNumber="None" image="077_024.jpg" lang2="- Я всё-таки поеду в Никко.">
+      <audioTime in="74485" out="78289" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="077_024.jpg" lang2="- Вот как!">
+      <audioTime in="78289" out="79636" />
+    </line>
+    <line lang1="じゃ、すみません、これ*から*荷物*を*用意します*から。" someNumber="None" image="077_026.jpg" lang2="Ну ладно, простите, потому что мне ещё нужно подготовить вещи.">
+      <audioTime in="79636" out="83564" />
+    </line>
+    <line lang1="まだ*にもつ*を*用意していません。" someNumber="None" image="077_026.jpg" lang2="Я ещё не собрался.">
+      <audioTime in="83564" out="86809" />
+    </line>
+    <line lang1="―さようなら。また*れんらく*して*ください。" someNumber="None" image="077_026.jpg" lang2="- До свидания. Свяжитесь (со мной) ещё.">
+      <audioTime in="86809" out="92108" />
+    </line>
+  </lines>
+</lesson>

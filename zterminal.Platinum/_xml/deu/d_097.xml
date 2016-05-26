@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_097.wav" dic="p097" dlgName="В камере хранения." dlgFile="exr\dg097.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Vor einigen Tagen #habe ich meinen Koffer im Zug #vergessen." someNumber="580" image="dg\097_001.gif" lang2="- Несколько дней назад я оставил свой чемодан в поезде.">
+      <audioTime in="1366" out="4533" />
+    </line>
+    <line lang1="- #Können Sie ihn #beschreiben, mein Herr?" someNumber="None" image="dg\097_001.gif" lang2="- Вы можете описать его, господин?">
+      <audioTime in="5109" out="7052" />
+    </line>
+    <line lang1="- Das #ist ein kleiner blauer Koffer." someNumber="290" image="dg\097_002.gif" lang2="- Это маленький синий чемоданчик.">
+      <audioTime in="7483" out="9427" />
+    </line>
+    <line lang1="Und er #ist mit Reißverschluss." someNumber="None" image="dg\097_002.gif" lang2="И он на молнии.">
+      <audioTime in="10074" out="11585" />
+    </line>
+    <line lang1="Am Griff #hängt ein Zettel mit meinem Familiennamen." someNumber="None" image="dg\097_002.gif" lang2="На ручке привязан ярлык с моей фамилией.">
+      <audioTime in="12089" out="14896" />
+    </line>
+    <line lang1="- #Ist das Ihr Koffer?" someNumber="None" image="dg\097_003.gif" lang2="- Этот чемодан Ваш?">
+      <audioTime in="15687" out="17270" />
+    </line>
+    <line lang1="- Nein, das #ist nicht meiner." someNumber="None" image="dg\097_003.gif" lang2="- Нет, это не мой.">
+      <audioTime in="17486" out="19861" />
+    </line>
+    <line lang1="- Und wie #steht es damit?" someNumber="360" image="dg\097_004.gif" lang2="- А что насчёт этого?">
+      <audioTime in="20364" out="22451" />
+    </line>
+    <line lang1="Dieser #hat einen Zettel." someNumber="360" image="dg\097_004.gif" lang2="У этого есть ярлык.">
+      <audioTime in="23099" out="24898" />
+    </line>
+    <line lang1="- #Zeigen Sie ihn mir." someNumber="None" image="dg\097_004.gif" lang2="- Покажите мне его.">
+      <audioTime in="25258" out="26122" />
+    </line>
+    <line lang1="- Ihr Name und Ihre Adresse, bitte." someNumber="None" image="dg\097_004.gif" lang2="- Как ваше имя и адрес, пожалуйста.">
+      <audioTime in="26985" out="29504" />
+    </line>
+    <line lang1="- Martin Braun, Gartenstraße 83." someNumber="420" image="dg\097_004.gif" lang2="- Мартин Браун, Гартенштрассе 83.">
+      <audioTime in="29720" out="32886" />
+    </line>
+    <line lang1="- Das #stimmt, Martin Braun, Gartenstraße 83." someNumber="None" image="dg\097_004.gif" lang2="- Правильно, Мартин Браун, Гартенштрассе 83.">
+      <audioTime in="33174" out="36845" />
+    </line>
+    <line lang1="Eine Mark, bitte." someNumber="60" image="dg\097_006.gif" lang2="Одну марку, пожалуйста.">
+      <audioTime in="37204" out="38355" />
+    </line>
+    <line lang1="- Hier #haben Sie sie." someNumber="60" image="dg\097_006.gif" lang2="- Вот она.">
+      <audioTime in="38787" out="39795" />
+    </line>
+    <line lang1="- Danke schön." someNumber="60" image="dg\097_006.gif" lang2="- Спасибо.">
+      <audioTime in="40154" out="40874" />
+    </line>
+    <line lang1="- Hallo!" someNumber="None" image="dg\097_007.gif" lang2="- Эй!">
+      <audioTime in="41594" out="42032" />
+    </line>
+    <line lang1="- Was #ist los?" someNumber="None" image="dg\097_007.gif" lang2="- В чем дело?">
+      <audioTime in="42032" out="42817" />
+    </line>
+    <line lang1="- Dieser Koffer #ist nicht meiner." someNumber="200" image="dg\097_008.gif" lang2="- Этот чемодан не мой.">
+      <audioTime in="42961" out="44616" />
+    </line>
+    <line lang1="Sie #haben mir nicht den richtigen Koffer #gegeben." someNumber="200" image="dg\097_008.gif" lang2="Вы дали мне не тот чемодан.">
+      <audioTime in="44904" out="47063" />
+    </line>
+  </lines>
+</lesson>

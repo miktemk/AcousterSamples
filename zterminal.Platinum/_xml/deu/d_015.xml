@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="d_015.wav" dic="p015" dlgName="Таможня." dlgFile="exr\dg015.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Sind Sie Schwedinnen?" someNumber="190" image="dg\015_001.gif" lang2="- Вы шведки?">
+      <audioTime in="125" out="1545" />
+    </line>
+    <line lang1="- Nein, wir #sind Däninnen." someNumber="190" image="dg\015_001.gif" lang2="- Нет, мы датчанки.">
+      <audioTime in="1796" out="4177" />
+    </line>
+    <line lang1="- #Sind Ihre Freunde auch Dänen?" someNumber="510" image="dg\015_002.gif" lang2="- Ваши друзья тоже датчане?">
+      <audioTime in="4511" out="6641" />
+    </line>
+    <line lang1="- Nein, sie #sind nicht Dänen, sie #sind Norweger." someNumber="510" image="dg\015_002.gif" lang2="- Нет, они не датчане, они норвежцы.">
+      <audioTime in="6683" out="10442" />
+    </line>
+    <line lang1="- Ihre Pässe, bitte." someNumber="None" image="dg\015_003.gif" lang2="- Ваши паспорта, пожалуйста.">
+      <audioTime in="10735" out="12030" />
+    </line>
+    <line lang1="- Hier #sind sie." someNumber="None" image="dg\015_003.gif" lang2="- Вот они.">
+      <audioTime in="12030" out="13159" />
+    </line>
+    <line lang1="- #Sind das Ihre Koffer?" someNumber="None" image="dg\015_004.gif" lang2="- Это Ваши чемоданы?">
+      <audioTime in="13868" out="15330" />
+    </line>
+    <line lang1="- Nein." someNumber="None" image="dg\015_004.gif" lang2="- Нет.">
+      <audioTime in="15331" out="16459" />
+    </line>
+    <line lang1="Unsere Koffer #sind braun." someNumber="340" image="dg\015_005.gif" lang2="Наши чемоданы коричневые.">
+      <audioTime in="16541" out="18337" />
+    </line>
+    <line lang1="Hier #sind sie." someNumber="340" image="dg\015_005.gif" lang2="Вот они.">
+      <audioTime in="18588" out="19716" />
+    </line>
+    <line lang1="- #Sind Sie Touristen?" someNumber="330" image="dg\015_006.gif" lang2="- Вы туристы?">
+      <audioTime in="19925" out="21303" />
+    </line>
+    <line lang1="- Ja." someNumber="330" image="dg\015_006.gif" lang2="- Да.">
+      <audioTime in="21387" out="22140" />
+    </line>
+    <line lang1="- #Sind auch Ihre Freunde Touristen?" someNumber="None" image="dg\015_007.gif" lang2="- Ваши друзья тоже туристы?">
+      <audioTime in="22306" out="24311" />
+    </line>
+    <line lang1="- Ja." someNumber="None" image="dg\015_007.gif" lang2="- Да.">
+      <audioTime in="24269" out="25064" />
+    </line>
+    <line lang1="- Ausgezeichnet." someNumber="None" image="dg\015_008.gif" lang2="- Отлично.">
+      <audioTime in="25230" out="26483" />
+    </line>
+    <line lang1="Danke schön." someNumber="None" image="dg\015_008.gif" lang2="Спасибо.">
+      <audioTime in="26483" out="27612" />
+    </line>
+  </lines>
+</lesson>

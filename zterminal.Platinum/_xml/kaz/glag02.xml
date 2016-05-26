@@ -1,0 +1,77 @@
+<lesson>
+   <header wav="glag02.mp3" dic="dic" dlgName="glag02.mp3" dlgFile="glag02.xml" author="acouster"/>
+   <lines class="java.util.Vector">
+      <line lang1="Мен жазамын." lang2="Я пишу." image="default.jpg" someNumber="None">
+         <audioTime in="601" out="2374"/>
+      </line>
+      <line lang1="Сіз диванда ұйықтайсыз." lang2="Вы на диване спите." image="default.jpg" someNumber="None">
+         <audioTime in="2374" out="6986"/>
+      </line>
+      <line lang1="Сен қазақша сөйлейсің." lang2="Ты по-казахски говоришь." image="default.jpg" someNumber="None">
+         <audioTime in="6986" out="8808"/>
+      </line>
+      <line lang1="Біз теледидар көреміз." lang2="Мы телевизор смотрим." image="default.jpg" someNumber="None">
+         <audioTime in="8808" out="12523"/>
+      </line>
+      <line lang1="Сендер қазақ тілін үйренесіңдер." lang2="Вы казахский язык учите." image="default.jpg" someNumber="None">
+         <audioTime in="12523" out="16667"/>
+      </line>
+      <line lang1="Ол жұмыс істейді." lang2="Он работу делает." image="default.jpg" someNumber="None">
+         <audioTime in="16667" out="18818"/>
+      </line>
+      <line lang1="Сәбит жақсы билейді." lang2="Сабит хорошо танцует." image="default.jpg" someNumber="None">
+         <audioTime in="18818" out="22374"/>
+      </line>
+      <line lang1="Олар емтихан тапсырады." lang2="Они экзамены сдают." image="default.jpg" someNumber="None">
+         <audioTime in="22374" out="25073"/>
+      </line>
+      <line lang1="Мұрат ылғи киноға барады." lang2="Мурат в кино всегда ходит." image="default.jpg" someNumber="None">
+         <audioTime in="25073" out="29386"/>
+      </line>
+      <line lang1="Мен келер жылы жақсы оқимын." lang2="Я в следующем году хорошо учиться буду." image="default.jpg" someNumber="None">
+         <audioTime in="29386" out="32523"/>
+      </line>
+      <line lang1="Ол ертең емтихан тапсырады." lang2="Он завтра экзамен сдаёт." image="default.jpg" someNumber="None">
+         <audioTime in="32523" out="36219"/>
+      </line>
+      <line lang1="Сіздер осы айда үйге ұшасыздар." lang2="Вы в этом месяце домой улетаете." image="default.jpg" someNumber="None">
+         <audioTime in="36219" out="40013"/>
+      </line>
+      <line lang1="Біз бүрсігүні диктант жазамыз." lang2="Мы послезавтра диктант пишем." image="default.jpg" someNumber="None">
+         <audioTime in="40013" out="43659"/>
+      </line>
+      <line lang1="Сен келер аптада ауылға жүресің." lang2="Ты на следующей неделе в аул поедешь." image="default.jpg" someNumber="None">
+         <audioTime in="43659" out="46906"/>
+      </line>
+      <line lang1="Ол ертең емтихан тапсырмайды." lang2="Он завтра экзамен не сдаёт." image="default.jpg" someNumber="None">
+         <audioTime in="46906" out="50581"/>
+      </line>
+      <line lang1="Сен келер аптада ауылға жүрмейсің." lang2="Ты на следующей неделе в аул не поедешь." image="default.jpg" someNumber="None">
+         <audioTime in="50581" out="54097"/>
+      </line>
+      <line lang1="Алқапсыз тау болмайды, Отансыз ер болмайды." lang2="Без долины гор не бывает, без Родины мужчины нет (каз. пословица)." image="default.jpg" someNumber="None">
+         <audioTime in="54097" out="60880"/>
+      </line>
+      <line lang1="Халық та жер тәрiздi, ~ кәрiлiктi бiлмейді." lang2="Народ, как и земля, старости не знает (каз. пословица)." image="default.jpg" someNumber="None">
+         <audioTime in="60880" out="67364"/>
+      </line>
+      <line lang1="Алма театрға бара ма?" lang2="Алма в театр идёт?" image="default.jpg" someNumber="None">
+         <audioTime in="67364" out="70043"/>
+      </line>
+      <line lang1="Ол ертең емтихан тапсыра ма?" lang2="Он завтра экзамен сдаёт?" image="default.jpg" someNumber="None">
+         <audioTime in="70043" out="73250"/>
+      </line>
+      <line lang1="Алмас келер аптада ауылға жүре ме?" lang2="Алмас на следующей неделе в аул едет?" image="default.jpg" someNumber="None">
+         <audioTime in="73250" out="77683"/>
+      </line>
+      <line lang1="Ол қай жерде жұмыс iстейді?" lang2="Он где работает?" image="default.jpg" someNumber="None">
+         <audioTime in="77683" out="80372"/>
+      </line>
+      <line lang1="Алма құймақты немен жақсы көреді?" lang2="Алма с чем блины любит?" image="default.jpg" someNumber="None">
+         <audioTime in="80372" out="84067"/>
+      </line>
+      <line lang1="Оның бос уақыты қашан болады?" lang2="Когда у неё будет свободное время?" image="default.jpg" someNumber="None">
+         <audioTime in="84067" out="87842"/>
+      </line>
+   </lines>
+</lesson>

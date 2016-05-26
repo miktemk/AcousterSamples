@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_094.wav" dic="p094" dlgName="Поедете ли Вы?... Нет..." dlgFile="exr\dg093.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Werden Sie nächste Woche nach Athen #fahren?" someNumber="600" image="dg\094_001.gif" lang2="- Поедете ли Вы в Афины на следующей неделе?">
+      <audioTime in="594" out="3563" />
+    </line>
+    <line lang1="- Nein, nächste Woche #fahre ich nicht nach Athen." someNumber="540" image="dg\094_001.gif" lang2="- Нет, на следующей неделе я в Афины не поеду.">
+      <audioTime in="3414" out="7571" />
+    </line>
+    <line lang1="Ich #werde nach Accra #fahren." someNumber="540" image="dg\094_001.gif" lang2="Я поеду в Аккру.">
+      <audioTime in="7571" out="9738" />
+    </line>
+    <line lang1="- #Werden Sie diese Woche mit Petra nach Berlin #fliegen?" someNumber="None" image="dg\094_002.gif" lang2="- Полетите ли Вы с Петрой в Берлин на этой неделе?">
+      <audioTime in="9947" out="13213" />
+    </line>
+    <line lang1="- Nein, in diese Woche #werden wir nicht nach Berlin #fliegen." someNumber="370" image="dg\094_002.gif" lang2="- Нет, на этой неделе мы в Берлин не полетим.">
+      <audioTime in="13065" out="16776" />
+    </line>
+    <line lang1="Wir #werden nach Athen #fliegen." someNumber="370" image="dg\094_002.gif" lang2="Мы полетим в Афины.">
+      <audioTime in="16776" out="18899" />
+    </line>
+    <line lang1="- #Wird Peter nächsten Monat nach Bombay #fahren?" someNumber="None" image="dg\094_003.gif" lang2="- Уедет ли Петер в Бомбей в следующем месяце?">
+      <audioTime in="18855" out="22715" />
+    </line>
+    <line lang1="- Nein, nächsten Monat #fährt Peter nicht nach Bombay." someNumber="None" image="dg\094_003.gif" lang2="- Нет, в следующем месяце Петер в Бомбей не уедет.">
+      <audioTime in="22715" out="26373" />
+    </line>
+    <line lang1="Er #wird nach Berlin #fahren." someNumber="None" image="dg\094_003.gif" lang2="Он уедет в Берлин.">
+      <audioTime in="26373" out="28224" />
+    </line>
+    <line lang1="- #Wird Petra nächstes Jahr nach Genf #zurückfahren?" someNumber="None" image="dg\094_004.gif" lang2="- Возвратится ли Петра в Женеву в следующем году?">
+      <audioTime in="28357" out="32069" />
+    </line>
+    <line lang1="- Nein, nächstes Jahr #1fährt sie nicht nach Genf #2zurück." someNumber="None" image="dg\094_004.gif" lang2="- Нет, в следующем году она в Женеву не возвратится.">
+      <audioTime in="32069" out="35952" />
+    </line>
+    <line lang1="Sie #wird nach Bombay #fahren." someNumber="None" image="dg\094_004.gif" lang2="Она поедет в Бомбей.">
+      <audioTime in="35952" out="37803" />
+    </line>
+    <line lang1="- #Werden Sie morgen nach London #fliegen?" someNumber="None" image="dg\094_005.gif" lang2="- Полетите ли Вы завтра в Лондон?">
+      <audioTime in="37858" out="40383" />
+    </line>
+    <line lang1="- Nein, morgen #werde ich nicht nach London #fliegen." someNumber="600" image="dg\094_005.gif" lang2="- Нет, завтра в Лондон я не полечу.">
+      <audioTime in="40235" out="44095" />
+    </line>
+    <line lang1="Ich #werde nach Genf #fliegen." someNumber="600" image="dg\094_005.gif" lang2="Я полечу в Женеву.">
+      <audioTime in="44095" out="46024" />
+    </line>
+    <line lang1="- #Werden Tom und du nächstes Jahr nach Madrid #fahren?" someNumber="None" image="dg\094_006.gif" lang2="- Поедете ли ты и Том в Мадрид в следующем году?">
+      <audioTime in="46470" out="50923" />
+    </line>
+    <line lang1="- Nein, nächstes Jahr #fahren wir nicht nach Madrid." someNumber="None" image="dg\094_006.gif" lang2="- Нет, в следующем году мы в Мадрид не поедем.">
+      <audioTime in="50923" out="54761" />
+    </line>
+    <line lang1="Wir #werden nach London #fahren." someNumber="None" image="dg\094_006.gif" lang2="Мы поедем в Лондон.">
+      <audioTime in="54761" out="56704" />
+    </line>
+    <line lang1="- #Wird Oskar in zwei Wochen aus Moskau #kommen?" someNumber="410" image="dg\094_007.gif" lang2="- Приедет ли Оскар из Москвы через две недели?">
+      <audioTime in="56862" out="61168" />
+    </line>
+    <line lang1="- Nein, in zwei Wochen #kommt Oskar nicht aus Moskau." someNumber="None" image="dg\094_007.gif" lang2="- Нет, через две недели Том не приедет из Москвы.">
+      <audioTime in="61317" out="65325" />
+    </line>
+    <line lang1="Er #wird aus Madrid #kommen." someNumber="None" image="dg\094_007.gif" lang2="Он приедет из Мадрида.">
+      <audioTime in="65473" out="67700" />
+    </line>
+    <line lang1="- #Werden Alice und Monika nächsten Monat in New York #bleiben?" someNumber="None" image="dg\094_008.gif" lang2="- Останутся ли Алиса и Моника в Нью-Йорке на следующий месяц?">
+      <audioTime in="67849" out="73342" />
+    </line>
+    <line lang1="- Nein, nächsten Monat #bleiben Alice und Monika nicht in New York." someNumber="None" image="dg\094_008.gif" lang2="- Нет, на следующий месяц Алиса и Моника в Нью-Йорке не останутся.">
+      <audioTime in="73194" out="77797" />
+    </line>
+    <line lang1="Sie #werden in Moskau #bleiben." someNumber="None" image="dg\094_008.gif" lang2="Они останутся в Москве.">
+      <audioTime in="77797" out="80024" />
+    </line>
+    <line lang1="- #Werden Sie morgen nach Paris #fliegen?" someNumber="720" image="dg\094_009.gif" lang2="- Полетите ли Вы в Париж завтра?">
+      <audioTime in="80172" out="84180" />
+    </line>
+    <line lang1="- Nein, morgen #fliege ich nicht nach Paris." someNumber="None" image="dg\094_009.gif" lang2="- Нет, завтра в Париж я не полечу.">
+      <audioTime in="84180" out="87299" />
+    </line>
+    <line lang1="Ich #werde nach New York #fliegen." someNumber="None" image="dg\094_009.gif" lang2="Я полечу в Нью-Йорк.">
+      <audioTime in="87299" out="89150" />
+    </line>
+    <line lang1="- #Werden Oskar und Georg nächstes Jahr nach Rom #fahren?" someNumber="None" image="dg\094_010.gif" lang2="- Поедут ли Оскар и Георг в Рим в следующем году?">
+      <audioTime in="89674" out="93386" />
+    </line>
+    <line lang1="- Nein, nächstes Jahr #fahren sie nicht nach Rom." someNumber="160" image="dg\094_010.gif" lang2="- Нет, в следующем году они в Рим не поедут.">
+      <audioTime in="93386" out="96772" />
+    </line>
+    <line lang1="Sie #werden nach Paris #fahren." someNumber="160" image="dg\094_010.gif" lang2="Они поедут в Париж.">
+      <audioTime in="96772" out="98668" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,86 @@
+<lesson>
+  <header wav="j_085.wav" dlgName="У жирафа длинная шея" dic="p085" />
+  <lines>
+    <line lang1="ーこの*人*は*目*が*黒い*です。" someNumber="147" image="085_001.jpg" lang2="- Что касается него, то глаза у него чёрные.">
+      <audioTime in="0" out="2993" />
+    </line>
+    <line lang1="その*人*は*かみ*の*毛*が*長い*です。" someNumber="02" image="085_002.jpg" lang2="Что касается неё, то волосы у неё длинные.">
+      <audioTime in="2993" out="6678" />
+    </line>
+    <line lang1="姉*は*指*が*長い*です。" someNumber="None" image="085_003.jpg" lang2="Что касается старшей сестры, то пальцы у неё длинные.">
+      <audioTime in="6678" out="9909" />
+    </line>
+    <line lang1="姉*は*足*が*ほそい*です。" someNumber="None" image="085_004.jpg" lang2="Что касается старшей сестры, то ноги у неё стройные.">
+      <audioTime in="9909" out="13150" />
+    </line>
+    <line lang1="赤ちゃん*は*顔*が*丸い*です。" someNumber="None" image="085_005.jpg" lang2="Что касается младенца, то лицо у него круглое.">
+      <audioTime in="13150" out="16316" />
+    </line>
+    <line lang1="赤ちゃん*は*気持ち*が*いい*です。" someNumber="None" image="085_005.jpg" lang2="Что касается младенца, то настроение у него хорошее.">
+      <audioTime in="16316" out="19435" />
+    </line>
+    <line lang1="―象*は*鼻*が*長い*です。" someNumber="None" image="085_007.jpg" lang2="- Что касается слона, то хобот (нос) у него длинный.">
+      <audioTime in="19435" out="23155" />
+    </line>
+    <line lang1="キリン*は*首*が*長い*です。" someNumber="None" image="085_008.jpg" lang2="Что касается жирафа, то шея у него длинная.">
+      <audioTime in="23155" out="26403" />
+    </line>
+    <line lang1="象*は*足*が*太い*です。" someNumber="None" image="085_009.jpg" lang2="Что касается слона, то ноги у него толстые.">
+      <audioTime in="26403" out="29856" />
+    </line>
+    <line lang1="私*は*頭*が*痛い*です。" someNumber="None" image="085_010.jpg" lang2="Что касается меня, то у меня болит голова.">
+      <audioTime in="29856" out="33467" />
+    </line>
+    <line lang1="私*は*手足*が*だるい*です。" someNumber="None" image="085_010.jpg" lang2="Что касается меня, то руки и ноги у меня вялые.">
+      <audioTime in="33467" out="37376" />
+    </line>
+    <line lang1="ー田中*さん*は*背*が*低い*です。" someNumber="None" image="085_012.jpg" lang2="- Что касается Танака сана, то он низок ростом.">
+      <audioTime in="37376" out="42834" />
+    </line>
+    <line lang1="スミス*さん*は*背*が*高い*です。" someNumber="None" image="085_013.jpg" lang2="Что касается Смит-сана, то он высок ростом.">
+      <audioTime in="42834" out="46238" />
+    </line>
+    <line lang1="田中*さん*は*スミス*さん*ほど*背*が*高くない*です。" someNumber="28" image="085_014.jpg" lang2="Танака-сан не так высок, как Смит.">
+      <audioTime in="46238" out="50588" />
+    </line>
+    <line lang1="ー田中*さん*は*身長*が*どの*ぐらい*あります*か。" someNumber="None" image="085_015.jpg" lang2="- Каков рост у Танака-сана?">
+      <audioTime in="50588" out="55351" />
+    </line>
+    <line lang1="ー田中*さん*は*身長*が*一メートル*六十*センチ*あります。" someNumber="34" image="085_015.jpg" lang2="- Рост Танака-сана 1 метр 60 сантиметров.">
+      <audioTime in="55351" out="60493" />
+    </line>
+    <line lang1="ー田中*さん*は*体重*が*どの*ぐらい*あります*か。" someNumber="None" image="085_015.jpg" lang2="- Каков вес Танака-сана?">
+      <audioTime in="60493" out="65619" />
+    </line>
+    <line lang1="ー田中*さん*は*体重*が*五十*キロ*あります。" someNumber="None" image="085_015.jpg" lang2="- Вес Танака-сана 50 килограммов.">
+      <audioTime in="65619" out="70242" />
+    </line>
+    <line lang1="ー田中*さん*は*太って*います*か。" someNumber="76" image="085_015.jpg" lang2="- Танака-сан толстый?">
+      <audioTime in="70242" out="73351" />
+    </line>
+    <line lang1="ーいいえ、田中*さん*は*やせています。" someNumber="None" image="085_015.jpg" lang2="- Нет, Танака-сан худой.">
+      <audioTime in="73351" out="76264" />
+    </line>
+    <line lang1="ー日本*は*人口*が*約*１億*２千*５百*万*人*です。" someNumber="43" image="085_021.jpg" lang2="- Население Японии - примерно 125 000 000 человек.">
+      <audioTime in="76264" out="83221" />
+    </line>
+    <line lang1="ロシア*は*人口*が*約*１億*４千*７百*万*人*です。" someNumber="None" image="085_022.jpg" lang2="Население России - примерно 147 000 000 человек.">
+      <audioTime in="83221" out="89262" />
+    </line>
+    <line lang1="日本*は*ロシア*ほど*人口*が*多くありません。" someNumber="28" image="085_023.jpg" lang2="По количеству населения Япония не достигает России.">
+      <audioTime in="89262" out="94248" />
+    </line>
+    <line lang1="―日本*は*めんせき*が*約*３７万*平方*キロメートル*です。" someNumber="None" image="085_024.jpg" lang2="- Плошадь территории Японии - примерно 370 000 квадратных километров.">
+      <audioTime in="94248" out="99825" />
+    </line>
+    <line lang1="ロシア*は*めんせき*が*約*１億*７千*万*平方*キロメートル*です。" someNumber="None" image="085_025.jpg" lang2="Площадь территории России - примерно 170 000 000 квадратных километров.">
+      <audioTime in="99825" out="105445" />
+    </line>
+    <line lang1="日本*は*ロシア*の*５００分*の*１の*広さ*です。" someNumber="36" image="085_026.jpg" lang2="Япония составляет (по территории) oдну пятисотую территории России.">
+      <audioTime in="105445" out="109959" />
+    </line>
+    <line lang1="日本*は*めんせき*の*約*８割*が*山地*です。" someNumber="36" image="085_027.jpg" lang2="Примерно 80% территории Японии - гористая местность.">
+      <audioTime in="109959" out="114612" />
+    </line>
+  </lines>
+</lesson>

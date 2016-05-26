@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="i_050.wav" dic="p050" dlgName="Он любит... но он не..." dlgFile="exr\ig049.txt" author="Alexander" />
+  <lines>
+    <line lang1="- A Maria piacciono i pomodori?" someNumber="None" image="dg\050_001.gif" lang2="- Мария любит помидоры?">
+      <audioTime in="92" out="2490" />
+    </line>
+    <line lang1="- Sì. Le piacciono, ma non li vuole." someNumber="590" image="dg\050_001.gif" lang2="- Да. Она любит помидоры, но не хочет.">
+      <audioTime in="2490" out="4889" />
+    </line>
+    <line lang1="- Ti piacciono le patate?" someNumber="None" image="dg\050_002.gif" lang2="- Ты любишь картофель?">
+      <audioTime in="4981" out="7148" />
+    </line>
+    <line lang1="- Sì. Mi piacciono, ma non le voglio." someNumber="300" image="dg\050_002.gif" lang2="- Да. Я люблю картофель, но не хочу.">
+      <audioTime in="7196" out="10240" />
+    </line>
+    <line lang1="- Gli piace il cavolo, a Paolo?" someNumber="None" image="dg\050_003.gif" lang2="- Паоло любит капусту?">
+      <audioTime in="10150" out="12548" />
+    </line>
+    <line lang1="- Sì. Gli piace, ma non lo vuole." someNumber="None" image="dg\050_003.gif" lang2="- Да. Он любит капусту, но не хочет.">
+      <audioTime in="12491" out="15062" />
+    </line>
+    <line lang1="- Gli piace l'insalata, a Paolo?" someNumber="None" image="dg\050_004.gif" lang2="- Паоло любит салат?">
+      <audioTime in="15314" out="17621" />
+    </line>
+    <line lang1="- Sì. Gli piace, ma non la vuole." someNumber="None" image="dg\050_004.gif" lang2="- Да. Он любит салат, но не хочет.">
+      <audioTime in="17632" out="20021" />
+    </line>
+    <line lang1="- Le piacciono i piselli?" someNumber="None" image="dg\050_005.gif" lang2="- Вы любите горох?">
+      <audioTime in="20387" out="22417" />
+    </line>
+    <line lang1="- Sì. Mi piacciono, ma non li voglio." someNumber="None" image="dg\050_005.gif" lang2="- Да. Я люблю горох, но не хочу.">
+      <audioTime in="22231" out="25093" />
+    </line>
+    <line lang1="- Le piacciono le fave, alla signora Sabani?" someNumber="None" image="dg\050_006.gif" lang2="- Госпожа Сабани любит бобы?">
+      <audioTime in="25185" out="28186" />
+    </line>
+    <line lang1="- Sì. Le piacciono, ma lei non le vuole." someNumber="None" image="dg\050_006.gif" lang2="- Да. Она любит бобы, но не хочет.">
+      <audioTime in="28045" out="30998" />
+    </line>
+    <line lang1="- Ti piacciono le banane?" someNumber="None" image="dg\050_007.gif" lang2="- Ты любишь бананы?">
+      <audioTime in="30998" out="32936" />
+    </line>
+    <line lang1="- Sì. Mi piacciono, ma non le voglio." someNumber="None" image="dg\050_007.gif" lang2="- Да. Я люблю бананы, но не хочу.">
+      <audioTime in="32846" out="35702" />
+    </line>
+    <line lang1="- Gli piacciono le arance al signor Pansa?" someNumber="None" image="dg\050_008.gif" lang2="- Господин Панса любит апельсины?">
+      <audioTime in="35702" out="38607" />
+    </line>
+    <line lang1="- Sì. Gli piacciono, ma non le vuole." someNumber="None" image="dg\050_008.gif" lang2="- Да. Он любит апельсины, но не хочет.">
+      <audioTime in="38655" out="41607" />
+    </line>
+    <line lang1="- Gli piacciono le mele a Giorgio?" someNumber="None" image="dg\050_009.gif" lang2="- Джорджио любит яблоки?">
+      <audioTime in="41514" out="44050" />
+    </line>
+    <line lang1="- Sì. Gli piacciono, ma non le vuole." someNumber="None" image="dg\050_009.gif" lang2="- Да. Он любит яблоки, но не хочет.">
+      <audioTime in="43991" out="46700" />
+    </line>
+    <line lang1="- Le piacciono le pere a Lisa?" someNumber="None" image="dg\050_010.gif" lang2="- Лиза любит груши?">
+      <audioTime in="46864" out="49202" />
+    </line>
+    <line lang1="- Sì. Le piacciono, ma non le vuole." someNumber="None" image="dg\050_010.gif" lang2="- Да. Она любит груши, но не хочет.">
+      <audioTime in="49223" out="52165" />
+    </line>
+    <line lang1="- Ti piace l'uva?" someNumber="None" image="dg\050_011.gif" lang2="- Ты любишь виноград?">
+      <audioTime in="52165" out="53819" />
+    </line>
+    <line lang1="- Sì. Mi piace, ma non la voglio." someNumber="None" image="dg\050_011.gif" lang2="- Да. Я люблю виноград, но не хочу.">
+      <audioTime in="53730" out="56297" />
+    </line>
+    <line lang1="- Le piacciono le pesche ad Anna?" someNumber="None" image="dg\050_012.gif" lang2="- Анна любит персики?">
+      <audioTime in="56390" out="58691" />
+    </line>
+    <line lang1="- Sì. Le piacciono, ma non le vuole." someNumber="None" image="dg\050_012.gif" lang2="- Да. Она любит персики, но она не хочет.">
+      <audioTime in="58686" out="60982" />
+    </line>
+  </lines>
+</lesson>

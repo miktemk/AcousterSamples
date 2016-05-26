@@ -1,0 +1,80 @@
+<lesson>
+  <header wav="j_123.wav" dlgName="Гид" dic="p123" />
+  <lines>
+    <line lang1="ー皆様、お疲れ*さまでした。" someNumber="128" image="123_001.jpg" lang2="- Господа, простите за то, что утомили вас.">
+      <audioTime in="0" out="3322" />
+    </line>
+    <line lang1="皆様*が*お泊まり*に*なる*ホテル*に*着きました。" someNumber="109" image="123_002.jpg" lang2="Мы прибыли в гостиницу, в которой вы остановитесь.">
+      <audioTime in="3322" out="6599" />
+    </line>
+    <line lang1="ーキム*さん、起きなさい。着いた*わ*よ。" someNumber="083" image="123_003.jpg" lang2="- Ким-сан, вставай! Уже прибыли!">
+      <audioTime in="6599" out="12407" />
+    </line>
+    <line lang1="ーもう？" someNumber="None" image="123_004.jpg" lang2="- Уже?">
+      <audioTime in="12407" out="13741" />
+    </line>
+    <line lang1="ーお忘れ*もの*の*ない*よう*に*お降り*ください。" someNumber="083" image="123_005.jpg" lang2="- Прошу Вас сойти, и не забывайте, пожалуйста, свои личные вещи.">
+      <audioTime in="13741" out="18126" />
+    </line>
+    <line lang1="ーこれ*から*チェックイン*を*いたします。" someNumber="109" image="123_006.jpg" lang2="Сейчас будем проводить размещение.">
+      <audioTime in="18126" out="23016" />
+    </line>
+    <line lang1="まず、皆様*の*パスポート*を*しばらく*お預かり*します。" someNumber="None" image="123_006.jpg" lang2="Сначала я на некоторое время заберу ваши паспорта.">
+      <audioTime in="23016" out="29048" />
+    </line>
+    <line lang1="それ*から*宿泊*カード*を*お配り*します*ので、" someNumber="166" image="123_008.jpg" lang2="Потом раздам регистрационные карточки, так что">
+      <audioTime in="29048" out="33383" />
+    </line>
+    <line lang1="カード*に*名前、国籍、生年月日、滞在*期間*を*お書き込み*下さい。" someNumber="None" image="123_008.jpg" lang2="впишите в карточки ваше имя, гражданство, дату рождения и срок пребывания.">
+      <audioTime in="33383" out="40673" />
+    </line>
+    <line lang1="ー手続き*が*面倒臭い*なあ。" someNumber="124" image="123_010.jpg" lang2="- Как мне надоели формальности!">
+      <audioTime in="40520" out="43706" />
+    </line>
+    <line lang1="ーしかた*が*ない*わ。" someNumber="None" image="123_010.jpg" lang2="- Ничего не поделаешь!">
+      <audioTime in="43706" out="45277" />
+    </line>
+    <line lang1="ー皆様、ちょっと*お知らせ*いたします。" someNumber="109" image="123_012.jpg" lang2="- Господа, прослушайте объявление!">
+      <audioTime in="45277" out="49756" />
+    </line>
+    <line lang1="部屋*の*割り当て*を*いたします*ので、" someNumber="None" image="123_012.jpg" lang2="Сейчас я буду распределять комнаты, так что">
+      <audioTime in="49756" out="52922" />
+    </line>
+    <line lang1="一人*部屋*が*いい*方*は*おっしゃって*下さい。" someNumber="None" image="123_012.jpg" lang2="тех, кто желает поселиться в одноместном номере, прошу сказать мне.">
+      <audioTime in="52922" out="55885" />
+    </line>
+    <line lang1="ーすみません、なるべく*一人*部屋*に*して*下さいません*か。" someNumber="None" image="123_015.jpg" lang2="- Простите, поместите нас по возможности в одноместных номерах.">
+      <audioTime in="55885" out="60395" />
+    </line>
+    <line lang1="ー分かりました。そう*いたしましょう。" someNumber="None" image="123_016.jpg" lang2="- Понятно. Так и сделаем.">
+      <audioTime in="60395" out="63546" />
+    </line>
+    <line lang1="それ*から、今晩*の*宴会*に*ついて*お知らせ*いたします。" someNumber="None" image="123_017.jpg" lang2="Далее прослушайте объяснение о сегодняшнем банкете.">
+      <audioTime in="63546" out="68519" />
+    </line>
+    <line lang1="宴会*は*６時*半*から*いたします*ので、" someNumber="None" image="123_017.jpg" lang2="Банкет начнется в 6 часов 30 минут, поэтому в 6 часов">
+      <audioTime in="68519" out="72809" />
+    </line>
+    <line lang1="６時*２０分*に*３階*の*ロビー*に*集まる*よう*に*お願い*します。" someNumber="None" image="123_019.jpg" lang2="20 минут прошу вас собраться в холле на третьем этаже.">
+      <audioTime in="72809" out="78110" />
+    </line>
+    <line lang1="６時*２０分*まで*自由*です*ので、ごゆっくり*お休み*下さい。" someNumber="None" image="123_019.jpg" lang2="Время до 6 часов 20 минут у вас свободо, поэтому спокойно отдыхайте.">
+      <audioTime in="78110" out="83649" />
+    </line>
+    <line lang1="温泉*は*１階*で*ございます。" someNumber="None" image="123_021.jpg" lang2="Баня на горячем источнике находится на первом этаже.">
+      <audioTime in="83649" out="87085" />
+    </line>
+    <line lang1="よろしかったら、お楽しみ*下さい。" someNumber="085" image="123_021.jpg" lang2="Если угодно, можете насладиться.">
+      <audioTime in="87085" out="89801" />
+    </line>
+    <line lang1="ご質問*あります*か。" someNumber="None" image="123_023.jpg" lang2="Есть вопросы?">
+      <audioTime in="89801" out="92446" />
+    </line>
+    <line lang1="ーガイド*さん、理髪室*は*何階*です*か。" someNumber="None" image="123_024.jpg" lang2="- Госпожа гид, на каком этаже находится мужская парикмахерская?">
+      <audioTime in="92446" out="95976" />
+    </line>
+    <line lang1="ー二階*で*ございます。「おしゃれ*床屋」と*いいます。" someNumber="None" image="123_025.jpg" lang2="- На втором этаже. Она называется &quot;Щегольской салон&quot;.">
+      <audioTime in="95976" out="100831" />
+    </line>
+  </lines>
+</lesson>

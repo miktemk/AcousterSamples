@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="FR_070.wav" dlgName="Чемоданы" dlgFile="exr\frg070.txt" />
+  <lines>
+    <line lang1="- Pierre, combien de valises as-tu?" someNumber="None" image="f.jpg" lang2="- Пьер, сколько у тебя чемоданов?">
+      <audioTime in="0" out="3502" />
+    </line>
+    <line lang1="- J'ai deux valises." someNumber="None" image="f.jpg" lang2="- У меня два чемодана.">
+      <audioTime in="3502" out="5669" />
+    </line>
+    <line lang1="- Et ta sœur Françoise, combien de valises a-t-elle?" someNumber="None" image="f.jpg" lang2="- А сколько чемоданов у твоей сестры Франсуазы?">
+      <audioTime in="5669" out="10790" />
+    </line>
+    <line lang1="- Elle a trois valises et une boîte à chapeaux." someNumber="None" image="f.jpg" lang2="- У неё три чемодана и одна коробка для шляп.">
+      <audioTime in="10790" out="14362" />
+    </line>
+    <line lang1="- A mon avis vous avez trop de bagages." someNumber="None" image="f.jpg" lang2="- По-моему, у нас слишком много багажа.">
+      <audioTime in="14362" out="18428" />
+    </line>
+    <line lang1="Mais qu'est-ce qu'il y a dans tes valises?" someNumber="None" image="f.jpg" lang2="Я что находится в твоих чемоданах?">
+      <audioTime in="18428" out="21372" />
+    </line>
+    <line lang1="- Dans la grande valises, il y a des chaussures, des chaussettes, un manteau, un pantalon," someNumber="None" image="f.jpg" lang2="- В большом чемодане туфли, носки, пальто, брюки,">
+      <audioTime in="21372" out="30379" />
+    </line>
+    <line lang1="une ceinture, six mouchoirs de poche et dix paquets de cigarettes." someNumber="None" image="f.jpg" lang2="пояс, шесть носовых платков и десять коробок папирос.">
+      <audioTime in="30379" out="36632" />
+    </line>
+    <line lang1="- Et qu'est-ce qu'il y a dans les valises de Françoise?" someNumber="None" image="f.jpg" lang2="- А что находится в чемоданах Франсуазы?">
+      <audioTime in="36632" out="41008" />
+    </line>
+    <line lang1="- Dans les valises de Françoise, il y a des jupes, des ceintures, des bas, des blouses" someNumber="None" image="f.jpg" lang2="- В чемоданах Франсуазы находятся юбки, пояса, чулки, кофточки">
+      <audioTime in="41008" out="49464" />
+    </line>
+    <line lang1="et des chiffons de femme." someNumber="None" image="f.jpg" lang2="и другие женские тряпки.">
+      <audioTime in="49464" out="51546" />
+    </line>
+    <line lang1="- Et où sont ses chapeaux?" someNumber="None" image="f.jpg" lang2="- А где её шляпы?">
+      <audioTime in="51546" out="54424" />
+    </line>
+    <line lang1="- Dans la boîte à chapeaux." someNumber="None" image="f.jpg" lang2="- В коробке для шляп.">
+      <audioTime in="54424" out="56955" />
+    </line>
+    <line lang1="- Alors, tout est prêt." someNumber="None" image="f.jpg" lang2="- Тогда всё готово.">
+      <audioTime in="56955" out="59343" />
+    </line>
+    <line lang1="Eh bien, au revoir et bon voyage!" someNumber="None" image="f.jpg" lang2="Итак, до свидания и счастливого пути.">
+      <audioTime in="59343" out="63515" />
+    </line>
+  </lines>
+</lesson>

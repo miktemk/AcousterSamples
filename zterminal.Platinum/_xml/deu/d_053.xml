@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="d_053.wav" dic="p053" dlgName="Я из Англии." dlgFile="exr\dg053.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Woher #kommen Sie?" someNumber="550" image="dg\053_001.gif" lang2="- Откуда Вы приехали?">
+      <audioTime in="142" out="1705" />
+    </line>
+    <line lang1="- Ich #komme aus England." someNumber="550" image="dg\053_001.gif" lang2="- Я приехал из Англии.">
+      <audioTime in="1918" out="3693" />
+    </line>
+    <line lang1="- Wie #ist das Klima in Ihrem Land?" someNumber="None" image="dg\053_001.gif" lang2="- Какой климат в Вашей стране?">
+      <audioTime in="3836" out="5967" />
+    </line>
+    <line lang1="- Es #ist mild, aber nicht immer angenehm." someNumber="None" image="dg\053_001.gif" lang2="- Он мягкий, но не всегда приятный.">
+      <audioTime in="6038" out="9305" />
+    </line>
+    <line lang1="Das Wetter #ist oft kalt im Norden und windig im Osten." someNumber="None" image="dg\053_002.gif" lang2="Погода часто холодная на севере и ветреная на востоке.">
+      <audioTime in="9590" out="13568" />
+    </line>
+    <line lang1="Es #regnet oft im Westen und manchmal #ist es warm im Süden." someNumber="360" image="dg\053_002.gif" lang2="Часто идёт дождь на западе и иногда тепло на юге.">
+      <audioTime in="13782" out="18044" />
+    </line>
+    <line lang1="- Welche Jahreszeit #haben Sie am liebsten?" someNumber="310" image="dg\053_001.gif" lang2="- Какое время года Вы любите больше всего?">
+      <audioTime in="18257" out="21169" />
+    </line>
+    <line lang1="- Ich #habe den Frühling und den Sommer gern." someNumber="310" image="dg\053_001.gif" lang2="- Я люблю весну и лето.">
+      <audioTime in="21382" out="24082" />
+    </line>
+    <line lang1="Die Tage #sind lang, und die Nächte kurz." someNumber="None" image="dg\053_003.gif" lang2="Дни длинные, а ночи короткие.">
+      <audioTime in="24223" out="26994" />
+    </line>
+    <line lang1="Die Sonne #1geht früh #2auf und spät #2unter." someNumber="None" image="dg\053_003.gif" lang2="Солнце встаёт рано и садится поздно.">
+      <audioTime in="26994" out="29836" />
+    </line>
+    <line lang1="- Ich #habe den Herbst und den Winter nicht gern." someNumber="70" image="dg\053_004.gif" lang2="- Я не люблю осень и зиму.">
+      <audioTime in="29907" out="32819" />
+    </line>
+    <line lang1="Die Tage #sind kurz, und die Nächte lang." someNumber="70" image="dg\053_004.gif" lang2="Дни короткие, а ночи длинные.">
+      <audioTime in="32890" out="35448" />
+    </line>
+    <line lang1="Die Sonne #1geht spät #2auf und früh #2unter." someNumber="820" image="dg\053_004.gif" lang2="Солнце встаёт поздно и садится рано.">
+      <audioTime in="35803" out="38858" />
+    </line>
+    <line lang1="Unser Klima #ist nicht ganz gut, aber es #ist gewiss interessant." someNumber="340" image="dg\053_004.gif" lang2="Наш климат не очень хороший, но он конечно интересный.">
+      <audioTime in="39000" out="43688" />
+    </line>
+    <line lang1="Das #ist unser Lieblingsgesprächsthema." someNumber="None" image="dg\053_004.gif" lang2="Это наша любимая тема для беседы.">
+      <audioTime in="43901" out="46743" />
+    </line>
+  </lines>
+</lesson>

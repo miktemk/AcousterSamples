@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_134.wav" dic="p134" dlgName="Что он сказал?" dlgFile="exr\dg134.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ich #bin müde." someNumber="None" image="dg\134_001.gif" lang2="- Я устал.">
+      <audioTime in="172" out="1465" />
+    </line>
+    <line lang1="- Was #hat er #gesagt?" someNumber="None" image="dg\134_001.gif" lang2="- Что он сказал?">
+      <audioTime in="1551" out="3016" />
+    </line>
+    <line lang1="- Er #hat #gesagt, dass er müde #ist." someNumber="980" image="dg\134_001.gif" lang2="- Он сказал, что он устал.">
+      <audioTime in="3016" out="4997" />
+    </line>
+    <line lang1="- Ich #lese." someNumber="660" image="dg\134_001.gif" lang2="- Я читаю.">
+      <audioTime in="5171" out="6376" />
+    </line>
+    <line lang1="- Was #hat sie dir #gesagt?" someNumber="660" image="dg\134_001.gif" lang2="- Что она тебе сказала?">
+      <audioTime in="6377" out="8048" />
+    </line>
+    <line lang1="- Sie #hat mir #gesagt, dass sie #liest." someNumber="None" image="dg\134_001.gif" lang2="- Она мне сказала, что она читает.">
+      <audioTime in="8186" out="10082" />
+    </line>
+    <line lang1="- Ich #will #weggehen." someNumber="680" image="dg\134_001.gif" lang2="- Я хочу уйти.">
+      <audioTime in="10600" out="11892" />
+    </line>
+    <line lang1="- Was #hat er #gesagt?" someNumber="680" image="dg\134_001.gif" lang2="- Что он сказал?">
+      <audioTime in="11892" out="13201" />
+    </line>
+    <line lang1="- Er #hat #gesagt, dass er #weggehen #will." someNumber="None" image="dg\134_001.gif" lang2="- Он сказал, что он хочет уйти.">
+      <audioTime in="13271" out="15598" />
+    </line>
+    <line lang1="- Ich #will nicht ins Kino #gehen." someNumber="950" image="dg\134_001.gif" lang2="- Я не хочу идти в кино.">
+      <audioTime in="15684" out="17494" />
+    </line>
+    <line lang1="- Was #hat sie dir #gesagt?" someNumber="950" image="dg\134_001.gif" lang2="- Что она тебе сказала?">
+      <audioTime in="17494" out="18894" />
+    </line>
+    <line lang1="- Sie #hat mir #gesagt, dass sie nicht ins Kino #gehen #will." someNumber="None" image="dg\134_001.gif" lang2="- Она сказала мне, что она не хочет идти в кино.">
+      <audioTime in="18894" out="21648" />
+    </line>
+    <line lang1="- Das #ist teuer." someNumber="None" image="dg\134_001.gif" lang2="- Это дорого.">
+      <audioTime in="21975" out="23181" />
+    </line>
+    <line lang1="- Was #hat er #gesagt?" someNumber="None" image="dg\134_001.gif" lang2="- Что он сказал?">
+      <audioTime in="23181" out="24310" />
+    </line>
+    <line lang1="- Er #hat #gesagt, dass es teuer #ist." someNumber="None" image="dg\134_001.gif" lang2="- Он сказал, что это дорого.">
+      <audioTime in="24310" out="26071" />
+    </line>
+    <line lang1="- Georg #wartet auf dich." someNumber="580" image="dg\134_001.gif" lang2="- Георг тебя ждёт.">
+      <audioTime in="26457" out="27921" />
+    </line>
+    <line lang1="- Was #hat sie dir #gesagt?" someNumber="580" image="dg\134_001.gif" lang2="- Что она тебе сказала?">
+      <audioTime in="27921" out="29908" />
+    </line>
+    <line lang1="- Sie #hat mir #gesagt, dass Georg auf mich #wartet." someNumber="None" image="dg\134_001.gif" lang2="- Она сказала мне, что Георг ждёт меня.">
+      <audioTime in="29990" out="32489" />
+    </line>
+    <line lang1="- Alice #fühlt sich müde." someNumber="350" image="dg\134_001.gif" lang2="- Алиса чувствует себя уставшей.">
+      <audioTime in="33092" out="35160" />
+    </line>
+    <line lang1="- Was #hat er #gesagt?" someNumber="350" image="dg\134_001.gif" lang2="- Что он сказал?">
+      <audioTime in="35160" out="36289" />
+    </line>
+    <line lang1="- Er #hat #gesagt, dass Alice sich müde #fühlt." someNumber="None" image="dg\134_001.gif" lang2="- Он сказал, что Алиса чувствует себя уставшей.">
+      <audioTime in="36626" out="39382" />
+    </line>
+    <line lang1="- Das #ist dringend." someNumber="None" image="dg\134_001.gif" lang2="- Это срочно.">
+      <audioTime in="39382" out="40761" />
+    </line>
+    <line lang1="- Was #hat sie dir #gesagt?" someNumber="None" image="dg\134_001.gif" lang2="- Что она тебе сказала?">
+      <audioTime in="40934" out="42399" />
+    </line>
+    <line lang1="- Sie #hat mir #gesagt, dass es dringend #ist." someNumber="None" image="dg\134_001.gif" lang2="- Она сказала мне, что это срочно.">
+      <audioTime in="42658" out="44985" />
+    </line>
+    <line lang1="- Ich #scherze nicht." someNumber="None" image="dg\134_001.gif" lang2="- Я не шучу.">
+      <audioTime in="45329" out="46880" />
+    </line>
+    <line lang1="- Was #hat er #gesagt?" someNumber="None" image="dg\134_001.gif" lang2="- Что он сказал?">
+      <audioTime in="46967" out="48346" />
+    </line>
+    <line lang1="- Er #hat #gesagt, dass er nicht #scherzt." someNumber="None" image="dg\134_001.gif" lang2="- Он сказал, что он не шутит.">
+      <audioTime in="48346" out="50377" />
+    </line>
+    <line lang1="- Die Kinder #haben Hunger." someNumber="550" image="dg\134_001.gif" lang2="- Дети голодны.">
+      <audioTime in="50500" out="52482" />
+    </line>
+    <line lang1="- Was #hat sie #gesagt?" someNumber="550" image="dg\134_001.gif" lang2="- Что она сказала?">
+      <audioTime in="52740" out="54378" />
+    </line>
+    <line lang1="- Sie #hat #gesagt, dass die Kinder Hunger #haben." someNumber="None" image="dg\134_001.gif" lang2="- Она сказала, что дети голодны.">
+      <audioTime in="54292" out="56963" />
+    </line>
+  </lines>
+</lesson>

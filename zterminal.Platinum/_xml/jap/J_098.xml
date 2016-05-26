@@ -1,0 +1,98 @@
+<lesson>
+  <header wav="j_098.wav" dlgName="Кажется, дождь собирается!" dic="p098" />
+  <lines>
+    <line lang1="ー雨*が*降り*そう*です。" someNumber="106" image="098_001.jpg" lang2="- Кажется, дождь собирается!">
+      <audioTime in="0" out="3419" />
+    </line>
+    <line lang1="傘*を*持って*行って*下さい。" someNumber="None" image="098_002.jpg" lang2="Возьмите с собой зонтик!">
+      <audioTime in="3419" out="5370" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="098_003.jpg" lang2="- Хорошо.">
+      <audioTime in="5370" out="6119" />
+    </line>
+    <line lang1="ーどうぞ、召し上がって*下さい。" someNumber="109" image="098_004.jpg" lang2="- Угощайтесь, пожалуйста!">
+      <audioTime in="6119" out="10422" />
+    </line>
+    <line lang1="ーおいしそう*です*ね。" someNumber="106" image="098_004.jpg" lang2="- Кажется вкусным!">
+      <audioTime in="10422" out="11993" />
+    </line>
+    <line lang1="いただきます。" someNumber="109" image="098_004.jpg" lang2="Отведаю.">
+      <audioTime in="11993" out="13092" />
+    </line>
+    <line lang1="ー天気*は*どう*です*か。" someNumber="None" image="098_007.jpg" lang2="- Какая погода?">
+      <audioTime in="13092" out="16418" />
+    </line>
+    <line lang1="ー良さ*そう*です。" someNumber="None" image="098_008.jpg" lang2="- Вроде бы, хорошая.">
+      <audioTime in="16418" out="18211" />
+    </line>
+    <line lang1="今日*の*キャンプ*は*楽しそう*です。" someNumber="106" image="098_009.jpg" lang2="Сегодняшний поход, очевидно, будет приятным.">
+      <audioTime in="18211" out="20352" />
+    </line>
+    <line lang1="ー田中*さん*は*幸子*さん*と*楽しそう*に*話しています。" someNumber="None" image="098_010.jpg" lang2="- Танака-сан и Сатико-сан ведут, по-видимому, приятную беседу.">
+      <audioTime in="20352" out="26788" />
+    </line>
+    <line lang1="幸子*さん*は*嬉しそう*に*笑っています。" someNumber="None" image="098_010.jpg" lang2="Сатико-сан смеется так, что ей, видно, весело.">
+      <audioTime in="26788" out="30965" />
+    </line>
+    <line lang1="ーチン*さん、日本*の*台風*は*初めて*です*か。" someNumber="None" image="098_012.jpg" lang2="- Тин-сан, Вы впервые пережили японский тайфун?">
+      <audioTime in="30965" out="35807" />
+    </line>
+    <line lang1="ーそう*です。大変*怖かった*です。" someNumber="None" image="098_012.jpg" lang2="- Да. Было очень страшно.">
+      <audioTime in="35807" out="39196" />
+    </line>
+    <line lang1="朝*から*雨*が*降りそう*な*天気*だった*けど、あまり*気*に*しないで*出かけました。" someNumber="None" image="098_014.jpg" lang2="С утра было похоже, что пойдёт дождь, но я вышла из дома, не очень беспокоясь.">
+      <audioTime in="39196" out="45049" />
+    </line>
+    <line lang1="急*に*強い*風*に*なって、ザアザア*と*雨*が*降りだしました。" someNumber="114" image="098_015.jpg" lang2="Вдруг начался сильный ветер, и полил дождь как из ведра.">
+      <audioTime in="45049" out="50033" />
+    </line>
+    <line lang1="家*の*屋根*が*落ちそう*で、木*は*倒れそう*でした。" someNumber="None" image="098_016.jpg" lang2="Казалось, что крыши домов вот-вот рухнут и деревья опрокинутся.">
+      <audioTime in="50033" out="54574" />
+    </line>
+    <line lang1="台風*に*あった*こと*が*なかった*ので、怖かった*です。" someNumber="110" image="098_017.jpg" lang2="Мне не приходилось сталкиваться с тайфуном, поэтому я очень испугалась.">
+      <audioTime in="54574" out="59244" />
+    </line>
+    <line lang1="―お父さん、あの*ジェット・コースター*は*あぶない*ん*じゃない*の。" someNumber="124" image="098_018.jpg" lang2="- Отец, эти американские горки, не опасны ли?">
+      <audioTime in="59244" out="67040" />
+    </line>
+    <line lang1="幸子*ちゃん*は*こわそう*だ*よ。" someNumber="None" image="098_019.jpg" lang2="Ведь Сатико, как будто испугана.">
+      <audioTime in="67040" out="70650" />
+    </line>
+    <line lang1="泣きそう*な*顔*を*している*わ。" someNumber="124" image="098_020.jpg" lang2="У неё такое лицо, будто вот-вот заплачет.">
+      <audioTime in="70289" out="73035" />
+    </line>
+    <line lang1="―大丈夫*だ*よ。" someNumber="None" image="098_021.jpg" lang2="- Не волнуйся! (В порядке!)">
+      <audioTime in="73035" out="75033" />
+    </line>
+    <line lang1="ーおばあちゃん、お帰りなさい。" someNumber="None" image="098_022.jpg" lang2="- Бабуля, с возвращением!">
+      <audioTime in="75033" out="79438" />
+    </line>
+    <line lang1="ーただいま。" someNumber="None" image="098_023.jpg" lang2="- Вот пришла.">
+      <audioTime in="79438" out="81279" />
+    </line>
+    <line lang1="きょう*は*雪*で*道路*が*すべり*やすくて、" someNumber="07" image="098_024.jpg" lang2="Сегодня из-за снега дороги были скользкими,">
+      <audioTime in="81279" out="83926" />
+    </line>
+    <line lang1="転ばない*よう*に*気*を*つけて*歩いていた*けど、" someNumber="155" image="098_025.jpg" lang2="и я шла осторожно, чтоб не упасть,">
+      <audioTime in="83926" out="86711" />
+    </line>
+    <line lang1="何度*も*転びそう*に*なった*ん*だよ。" someNumber="None" image="098_026.jpg" lang2="но несколько раз чуть-чуть не упала.">
+      <audioTime in="86711" out="88995" />
+    </line>
+    <line lang1="―あぶない。" someNumber="None" image="098_027.jpg" lang2="- Как опасно!">
+      <audioTime in="88995" out="90237" />
+    </line>
+    <line lang1="―やっと*無事*に*地下鉄*の*駅*に*着いた*のに、階段*から*落ちそう*に*なってしまって。" someNumber="None" image="098_028.jpg" lang2="- Наконец, хотя и благополучно добралась до станции метро, чуть не свалилась с лестницы.">
+      <audioTime in="90237" out="96989" />
+    </line>
+    <line lang1="それ*から*列車*に*乗ろうとした*とき、ドア*が*閉まり*そう*だった*ので、" someNumber="93" image="098_029.jpg" lang2="Потом, когда только собралась сесть на поезд, показалось, что двери вот-вот закроются,">
+      <audioTime in="96971" out="102395" />
+    </line>
+    <line lang1="あわてたら、靴*を*落としそう*に*なっちゃった。" someNumber="None" image="098_030.jpg" lang2="я растерялась и чуть не уронила ботинок.">
+      <audioTime in="102395" out="104963" />
+    </line>
+    <line lang1="ー大変。一人*で*出かけちゃ*危ない*よ、おばあちゃん。" someNumber="140" image="098_031.jpg" lang2="- Ужас! Бабуля, (тебе) одной опасно выходить из дома!">
+      <audioTime in="104963" out="110523" />
+    </line>
+  </lines>
+</lesson>

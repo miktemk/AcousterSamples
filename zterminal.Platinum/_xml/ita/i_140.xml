@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_140.wav" dic="p140" dlgName="Ты ? Что он хочет узнать?" dlgFile="exr\ig140.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Sei stanco?" someNumber="None" image="dg\140_001.gif" lang2="- Ты устал?">
+      <audioTime in="0" out="1219" />
+    </line>
+    <line lang1="- Cosa vuole sapere?" someNumber="None" image="dg\140_001.gif" lang2="- Что он хочет узнать?">
+      <audioTime in="1219" out="2528" />
+    </line>
+    <line lang1="- Vuole sapere se sei stanco." someNumber="None" image="dg\140_001.gif" lang2="- Он хочет узнать, устал ли ты.">
+      <audioTime in="2529" out="4560" />
+    </line>
+    <line lang1="- Perchè Maria è in ritardo?" someNumber="None" image="dg\140_002.gif" lang2="- Почему Мария опоздала?">
+      <audioTime in="4560" out="6548" />
+    </line>
+    <line lang1="- Cosa vuole sapere?" someNumber="None" image="dg\140_002.gif" lang2="- Что она хочет узнать?">
+      <audioTime in="6548" out="7857" />
+    </line>
+    <line lang1="- Vuole sapere perchè Maria è in ritardo." someNumber="None" image="dg\140_002.gif" lang2="- Она хочет узнать, почему Мария опаздывает.">
+      <audioTime in="7857" out="10386" />
+    </line>
+    <line lang1="- Paolo si sveglia presto?" someNumber="1050" image="dg\140_003.gif" lang2="- Паоло встаёт рано?">
+      <audioTime in="10386" out="12192" />
+    </line>
+    <line lang1="- Che cosa vuole sapere?" someNumber="None" image="dg\140_003.gif" lang2="- Что он хочет узнать?">
+      <audioTime in="12192" out="13908" />
+    </line>
+    <line lang1="- Vuole sapere se Paolo si sveglia presto." someNumber="None" image="dg\140_003.gif" lang2="- Он хочет узнать, встаёт ли Паоло рано.">
+      <audioTime in="13908" out="16436" />
+    </line>
+    <line lang1="- Paolo sta facendo i compiti?" someNumber="None" image="dg\140_004.gif" lang2="- Паоло делает свою домашнюю работу?">
+      <audioTime in="16436" out="18378" />
+    </line>
+    <line lang1="- Cosa vuole sapere?" someNumber="None" image="dg\140_004.gif" lang2="- Что она хочет узнать?">
+      <audioTime in="18378" out="19643" />
+    </line>
+    <line lang1="- Lei vuole sapere se Paolo sta facendo i compiti." someNumber="1070" image="dg\140_004.gif" lang2="- Она хочет узнать, делает ли Паоло свою домашнюю работу.">
+      <audioTime in="19643" out="22984" />
+    </line>
+    <line lang1="- Che cosa sta cucinando?" someNumber="None" image="dg\140_005.gif" lang2="- Что она готовит?">
+      <audioTime in="22984" out="24790" />
+    </line>
+    <line lang1="- Cosa vuole sapere?" someNumber="None" image="dg\140_005.gif" lang2="- Что он хочет узнать?">
+      <audioTime in="24790" out="25919" />
+    </line>
+    <line lang1="- Vuole sapere che cosa stai cucinando." someNumber="None" image="dg\140_005.gif" lang2="- Он хочет узнать, что она готовит.">
+      <audioTime in="25919" out="28537" />
+    </line>
+    <line lang1="- Quando arriva Paolo?" someNumber="None" image="dg\140_006.gif" lang2="- Когда прибывает Паоло?">
+      <audioTime in="28537" out="29982" />
+    </line>
+    <line lang1="- Cosa vuole sapere?" someNumber="None" image="dg\140_006.gif" lang2="- Что она хочет узнать?">
+      <audioTime in="29983" out="31382" />
+    </line>
+    <line lang1="- Vuole sapere quando arriva Paolo." someNumber="None" image="dg\140_006.gif" lang2="- Она хочет узнать, когда прибывает Паоло.">
+      <audioTime in="31421" out="33506" />
+    </line>
+    <line lang1="- I bambini andranno a letto presto?" someNumber="810" image="dg\140_007.gif" lang2="- Дети пойдут спать рано?">
+      <audioTime in="33461" out="35934" />
+    </line>
+    <line lang1="- Cosa vuole sapere?" someNumber="None" image="dg\140_007.gif" lang2="- Что он хочет узнать?">
+      <audioTime in="36027" out="37236" />
+    </line>
+    <line lang1="- Vuole sapere se i bambini andranno a letto presto." someNumber="None" image="dg\140_007.gif" lang2="- Он хочет знать, пойдут ли дети спать рано.">
+      <audioTime in="37188" out="40149" />
+    </line>
+    <line lang1="- Quando farai un bagno?" someNumber="None" image="dg\140_008.gif" lang2="- Когда ты будешь принимать ванну?">
+      <audioTime in="40198" out="41894" />
+    </line>
+    <line lang1="- Cosa vuole sapere?" someNumber="None" image="dg\140_008.gif" lang2="- Что она хочет узнать?">
+      <audioTime in="41894" out="43256" />
+    </line>
+    <line lang1="- Vuole sapere quando farai un bagno." someNumber="None" image="dg\140_008.gif" lang2="- Она хочет узнать, когда ты будешь принимать ванну.">
+      <audioTime in="43249" out="45480" />
+    </line>
+    <line lang1="- Paolo andrà a letto presto?" someNumber="None" image="dg\140_009.gif" lang2="- Паоло пойдёт спать рано?">
+      <audioTime in="45477" out="47423" />
+    </line>
+    <line lang1="- Cosa vuole sapere?" someNumber="None" image="dg\140_009.gif" lang2="- Что он хочет узнать?">
+      <audioTime in="47519" out="48926" />
+    </line>
+    <line lang1="- Vuole sapere se Paolo andrà a letto presto." someNumber="None" image="dg\140_009.gif" lang2="- Он хочет узнать, пойдёт ли Паоло спать рано.">
+      <audioTime in="48877" out="51877" />
+    </line>
+    <line lang1="- Quando andrà a letto Paolo?" someNumber="None" image="dg\140_010.gif" lang2="- Когда Паоло пойдёт спать?">
+      <audioTime in="51883" out="53969" />
+    </line>
+    <line lang1="- Che cosa vuole sapere?" someNumber="None" image="dg\140_010.gif" lang2="- Что она хочет узнать?">
+      <audioTime in="53969" out="55562" />
+    </line>
+    <line lang1="- Vuole sapere quando andrà a letto Paolo." someNumber="None" image="dg\140_010.gif" lang2="- Она хочет узнать, когда Паоло пойдёт спать.">
+      <audioTime in="55569" out="57993" />
+    </line>
+  </lines>
+</lesson>

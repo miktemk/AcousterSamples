@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_100.wav" dic="p100" dlgName="Он(а) говорит, что..." dlgFile="exr\dg099.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ich #bin müde." someNumber="990" image="dg\100_001.gif" lang2="- Я устал.">
+      <audioTime in="1968" out="2951" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="990" image="dg\100_001.gif" lang2="- Что такое?">
+      <audioTime in="3488" out="4294" />
+    </line>
+    <line lang1="- Er #sagt, dass er müde #ist." someNumber="980" image="dg\100_001.gif" lang2="- Он говорит, что он устал.">
+      <audioTime in="4561" out="5993" />
+    </line>
+    <line lang1="- Ich #habe Kopfschmerzen." someNumber="None" image="dg\100_002.gif" lang2="- У меня болит голова.">
+      <audioTime in="6709" out="7960" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="None" image="dg\100_002.gif" lang2="- Что такое?">
+      <audioTime in="8319" out="9034" />
+    </line>
+    <line lang1="- Sie #sagt, dass sie Kopfschmerzen #hat." someNumber="None" image="dg\100_002.gif" lang2="- Она говорит, что у неё болит голова.">
+      <audioTime in="9482" out="11718" />
+    </line>
+    <line lang1="- Wir #brauchen Geld." someNumber="None" image="dg\100_003.gif" lang2="- Нам нужны деньги.">
+      <audioTime in="12344" out="13417" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="None" image="dg\100_003.gif" lang2="- Что такое?">
+      <audioTime in="13775" out="14490" />
+    </line>
+    <line lang1="- Sie #sagen, dass sie Geld #brauchen." someNumber="None" image="dg\100_003.gif" lang2="- Они говорят, что им нужны деньги.">
+      <audioTime in="14670" out="16369" />
+    </line>
+    <line lang1="- Ich #bin #durchgefroren." someNumber="580" image="dg\100_004.gif" lang2="- Я замёрзла.">
+      <audioTime in="17174" out="18605" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="580" image="dg\100_004.gif" lang2="- Что такое?">
+      <audioTime in="19052" out="19679" />
+    </line>
+    <line lang1="- Sie #sagt, dass sie #durchgefroren #ist." someNumber="None" image="dg\100_004.gif" lang2="- Она говорит, что она замёрзла.">
+      <audioTime in="20037" out="22004" />
+    </line>
+    <line lang1="- Wir #haben Zahnschmerzen." someNumber="None" image="dg\100_005.gif" lang2="- У нас болят зубы.">
+      <audioTime in="22720" out="24151" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="None" image="dg\100_005.gif" lang2="- Что такое?">
+      <audioTime in="24599" out="25314" />
+    </line>
+    <line lang1="- Sie #sagen, dass sie Zahnschmerzen #haben." someNumber="None" image="dg\100_005.gif" lang2="- Они говорят, что у них болят зубы.">
+      <audioTime in="25582" out="27639" />
+    </line>
+    <line lang1="- Ich #brauche eine Röntgenaufnahme." someNumber="None" image="dg\100_006.gif" lang2="- Мне нужен рентген.">
+      <audioTime in="28355" out="30234" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="None" image="dg\100_006.gif" lang2="- Что такое?">
+      <audioTime in="30591" out="31218" />
+    </line>
+    <line lang1="- Er #sagt, dass er eine Röntgenaufnahme #braucht." someNumber="None" image="dg\100_006.gif" lang2="- Он говорит, что ему нужен рентген.">
+      <audioTime in="31486" out="33990" />
+    </line>
+    <line lang1="- Wir #können diesen Wagen #reparieren." someNumber="680" image="dg\100_007.gif" lang2="- Мы можем отремонтировать эту машину.">
+      <audioTime in="34617" out="36585" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="680" image="dg\100_007.gif" lang2="- Что такое?">
+      <audioTime in="37121" out="37837" />
+    </line>
+    <line lang1="- Sie #sagen, dass sie diesen Wagen #reparieren #können." someNumber="None" image="dg\100_007.gif" lang2="- Они говорят, что они могут отремонтировать эту машину.">
+      <audioTime in="38105" out="40879" />
+    </line>
+    <line lang1="- Ich #muss auf den Bus #warten." someNumber="810" image="dg\100_008.gif" lang2="- Я должна ждать автобуса.">
+      <audioTime in="41683" out="43293" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="810" image="dg\100_008.gif" lang2="- Что такое?">
+      <audioTime in="43830" out="44546" />
+    </line>
+    <line lang1="- Sie #sagt, dass sie auf den Bus #warten #muss." someNumber="None" image="dg\100_008.gif" lang2="- Она говорит, что она должна ждать автобуса.">
+      <audioTime in="44725" out="46871" />
+    </line>
+    <line lang1="- Wir #haben Durst." someNumber="550" image="dg\100_009.gif" lang2="- Нам хочется пить.">
+      <audioTime in="47677" out="49466" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="550" image="dg\100_009.gif" lang2="- Что такое?">
+      <audioTime in="50003" out="50718" />
+    </line>
+    <line lang1="- Sie #sagen, dass sie Durst #haben." someNumber="None" image="dg\100_009.gif" lang2="- Они говорят, что им хочется пить.">
+      <audioTime in="51076" out="52686" />
+    </line>
+    <line lang1="- Ich #werde den Bus #erreichen." someNumber="600" image="dg\100_010.gif" lang2="- Я успею на автобус.">
+      <audioTime in="53491" out="55011" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="600" image="dg\100_010.gif" lang2="- Что такое?">
+      <audioTime in="55458" out="56174" />
+    </line>
+    <line lang1="- Er #sagt, dass er den Bus #erreichen #wird." someNumber="980" image="dg\100_010.gif" lang2="- Он говорит, что он успеет на автобус.">
+      <audioTime in="56443" out="58590" />
+    </line>
+  </lines>
+</lesson>

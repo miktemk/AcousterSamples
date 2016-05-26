@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="f_049.wav" dic="p049" dlgName="В мясном магазине." dlgFile="exr\fg049.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Voulez-vous de la viande aujourd'hui, Mme Berdier?" someNumber="830" image="dg\049_001.gif" lang2="- Вы хотите мяса сегодня, г-жа Бердье?">
+      <audioTime in="0" out="2090" />
+    </line>
+    <line lang1="- Oui, s'il vous plaît." someNumber="830" image="dg\049_001.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="2090" out="3673" />
+    </line>
+    <line lang1="- Voulez-vous de la viande de bœuf ou de mouton?" someNumber="None" image="dg\049_002.gif" lang2="- Вы хотите говядину или баранину?">
+      <audioTime in="3673" out="6272" />
+    </line>
+    <line lang1="- De la viande de bœufs, s'il vous plaît." someNumber="None" image="dg\049_002.gif" lang2="- Говядину, пожалуйста.">
+      <audioTime in="6272" out="8590" />
+    </line>
+    <line lang1="- La viande de mouton est très bonne aujourd'hui. - J'aime la viande de mouton, mais mon mari ne l'aime pas." someNumber="None" image="dg\049_003.gif" lang2="- Эта баранина очень хорошая сегодня. - Мне нравится баранина, но мой муж её не любит.">
+      <audioTime in="8590" out="10652" />
+    </line>
+    <line lang1="- J'aime la viande de mouton, mais mon mari ne l'aime pas." someNumber="None" image="dg\049_003.gif" lang2="- Мне нравится баранина, но мой муж её не любит.">
+      <audioTime in="10652" out="13938" />
+    </line>
+    <line lang1="- Que diriez-vous de ce morceau de viande? C'est un bon morceau." someNumber="None" image="dg\049_004.gif" lang2="- Как насчёт этого куска мяса? Это хороший кусок.">
+      <audioTime in="13938" out="16925" />
+    </line>
+    <line lang1="- Donnez-moi ce morceau, s'il vous plaît." someNumber="320" image="dg\049_004.gif" lang2="- Дайте мне тот кусок, пожалуйста.">
+      <audioTime in="16925" out="18418" />
+    </line>
+    <line lang1="- Et une livre de viande hachée aussi." someNumber="None" image="dg\049_005.gif" lang2="- И фунт фарша также.">
+      <audioTime in="18418" out="20160" />
+    </line>
+    <line lang1="- Voulez-vous des poulets, madame? Ils sont bons." someNumber="None" image="dg\049_006.gif" lang2="- Вы хотите цыплят, г-жа Бердье? Они очень хорошие.">
+      <audioTime in="20160" out="22500" />
+    </line>
+    <line lang1="- Non, merci." someNumber="None" image="dg\049_006.gif" lang2="- Нет, спасибо.">
+      <audioTime in="22500" out="24073" />
+    </line>
+    <line lang1="Mon mari aime la viande, mais il n'aime pas les poulets." someNumber="None" image="dg\049_007.gif" lang2="Мой муж любит мясо, но не любит цыплят.">
+      <audioTime in="24073" out="26283" />
+    </line>
+    <line lang1="- A vrai dire madame, moi je ne les aime pas non plus." someNumber="None" image="dg\049_007.gif" lang2="- Откровенно говоря, сударыня, я тоже их не люблю.">
+      <audioTime in="26283" out="29261" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_058.wav" dic="p058" dlgName="Они обычно..." dlgFile="exr\dg057.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Was #macht er gewöhnlich jeden Tag?" someNumber="480" image="dg\058_001.gif" lang2="- Что он обычно делает каждый день?">
+      <audioTime in="312" out="2890" />
+    </line>
+    <line lang1="- Er #rasiert sich jeden Tag um 7 Uhr." someNumber="350" image="dg\058_001.gif" lang2="- Он бреется в 7 часов каждый день.">
+      <audioTime in="2890" out="5858" />
+    </line>
+    <line lang1="- Was #macht er heute?" someNumber="None" image="dg\058_002.gif" lang2="- Что он делает сегодня?">
+      <audioTime in="5858" out="7576" />
+    </line>
+    <line lang1="- Er #rasiert sich heute um 8 Uhr." someNumber="330" image="dg\058_002.gif" lang2="- Он сегодня бреется в 8 часов.">
+      <audioTime in="7732" out="10231" />
+    </line>
+    <line lang1="- Was #macht sie gewöhnlich am Morgen?" someNumber="None" image="dg\058_003.gif" lang2="- Что она обычно делает утром?">
+      <audioTime in="10622" out="12965" />
+    </line>
+    <line lang1="- Sie #trinkt gewöhnlich Tee am Morgen." someNumber="None" image="dg\058_003.gif" lang2="- Она обычно пьёт чай утром.">
+      <audioTime in="13043" out="15386" />
+    </line>
+    <line lang1="- Was #macht sie heute früh?" someNumber="None" image="dg\058_004.gif" lang2="- Что она делает сегодня утром?">
+      <audioTime in="15620" out="17261" />
+    </line>
+    <line lang1="- Sie #trinkt heute früh Kaffee." someNumber="890" image="dg\058_004.gif" lang2="- Она пьёт кофе сегодня утром.">
+      <audioTime in="17339" out="19526" />
+    </line>
+    <line lang1="- Was #machen sie gewöhnlich am Nachmittag?" someNumber="None" image="dg\058_005.gif" lang2="- Что они обычно делают после обеда?">
+      <audioTime in="19916" out="22572" />
+    </line>
+    <line lang1="- Sie #spielen gewöhnlich am Nachmittag im Garten." someNumber="None" image="dg\058_005.gif" lang2="- Они обычно играют в саду после обеда.">
+      <audioTime in="22572" out="25541" />
+    </line>
+    <line lang1="- Was #machen sie heute am Nachmittag?" someNumber="510" image="dg\058_006.gif" lang2="- Что они делают сегодня после обеда?">
+      <audioTime in="25852" out="28274" />
+    </line>
+    <line lang1="- Sie #schwimmen im Fluss heute am Nachmittag." someNumber="None" image="dg\058_006.gif" lang2="- Сегодня после обеда они плавают в реке.">
+      <audioTime in="28509" out="31554" />
+    </line>
+    <line lang1="- Was #machst du gewöhnlich am Abend?" someNumber="None" image="dg\058_007.gif" lang2="- Что ты обычно делаешь вечером?">
+      <audioTime in="31867" out="33898" />
+    </line>
+    <line lang1="- Ich #1bereite das Essen gewöhnlich am Abend #2zu." someNumber="660" image="dg\058_007.gif" lang2="- Я обычно готовлю еду вечером.">
+      <audioTime in="34132" out="36943" />
+    </line>
+    <line lang1="- Was #machst du heute Abend?" someNumber="None" image="dg\058_008.gif" lang2="- Что ты делаешь сегодня вечером?">
+      <audioTime in="37022" out="38818" />
+    </line>
+    <line lang1="- Ich #lese heute Abend ein Buch." someNumber="660" image="dg\058_008.gif" lang2="- Я читаю книгу сегодня вечером.">
+      <audioTime in="39053" out="41083" />
+    </line>
+    <line lang1="- Was #macht ihr alle gewöhnlich in der Nacht?" someNumber="None" image="dg\058_009.gif" lang2="- Что делаете вы все обычно ночью?">
+      <audioTime in="41239" out="43817" />
+    </line>
+    <line lang1="- Wir #1sehen gewöhnlich in der Nacht #2fern." someNumber="None" image="dg\058_009.gif" lang2="- Мы обычно смотрим телевизор ночью.">
+      <audioTime in="43896" out="46394" />
+    </line>
+    <line lang1="- Was #macht ihr alle heute nacht?" someNumber="None" image="dg\058_010.gif" lang2="- Что все вы делаете сегодня ночью?">
+      <audioTime in="46628" out="48737" />
+    </line>
+    <line lang1="- Wir #hören heute Nacht Radio." someNumber="None" image="dg\058_010.gif" lang2="- Мы слушаем радио сегодня ночью.">
+      <audioTime in="48972" out="51706" />
+    </line>
+  </lines>
+</lesson>

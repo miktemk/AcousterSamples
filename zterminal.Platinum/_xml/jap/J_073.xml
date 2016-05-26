@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="j_073.wav" dlgName="Японская комната" dic="p073" />
+  <lines>
+    <line lang1="ーこの*絵*を*見て*下さい。" someNumber="None" image="073_001.jpg" lang2="- Посмотрите на эту картину.">
+      <audioTime in="0" out="3150" />
+    </line>
+    <line lang1="これ*は*和室*です。" someNumber="None" image="073_001.jpg" lang2="Это японская комната.">
+      <audioTime in="3150" out="5401" />
+    </line>
+    <line lang1="ー日本式*の*部屋*です*か。" someNumber="None" image="073_001.jpg" lang2="- Комната в японском стиле?">
+      <audioTime in="5401" out="8047" />
+    </line>
+    <line lang1="ーそう*です。" someNumber="None" image="073_001.jpg" lang2="- Да.">
+      <audioTime in="8047" out="9587" />
+    </line>
+    <line lang1="床*に*たたみ*が*しいてあります。" someNumber="77" image="073_001.jpg" lang2="На полу постелены татами.">
+      <audioTime in="9587" out="12535" />
+    </line>
+    <line lang1="ここ*は*床の間*と*いう*所*です。" someNumber="152" image="073_006.jpg" lang2="Это - место, называемое &quot;токонома&quot;.">
+      <audioTime in="12535" out="15859" />
+    </line>
+    <line lang1="床の間*に*かけじく*が*掛けてあります。" someNumber="92" image="073_006.jpg" lang2="В токонома повешен свиток.">
+      <audioTime in="15859" out="19808" />
+    </line>
+    <line lang1="掛けじく*に*秋*の*花*が*かいてあります。" someNumber="None" image="073_006.jpg" lang2="На свитке нарисованы осенние цветы.">
+      <audioTime in="19808" out="23893" />
+    </line>
+    <line lang1="ーいつも*同じ*掛けじく*が*掛けてあります*か。" someNumber="None" image="073_006.jpg" lang2="- Всегда висит один и тот же свиток?">
+      <audioTime in="23893" out="27157" />
+    </line>
+    <line lang1="ーちがいます。" someNumber="None" image="073_006.jpg" lang2="- Нет.">
+      <audioTime in="27157" out="28792" />
+    </line>
+    <line lang1="きせつ*に*よって*掛けじく*を*掛けかえます。" someNumber="127" image="073_011.jpg" lang2="В зависимости от времени года свиток перевешивают.">
+      <audioTime in="28792" out="32417" />
+    </line>
+    <line lang1="床の間*に*生け花*も*かざってあります。" someNumber="None" image="073_012.jpg" lang2="Токонома украшена также икэбаной.">
+      <audioTime in="32417" out="36485" />
+    </line>
+    <line lang1="花*は*すいばん*に*活けてあります。" someNumber="None" image="073_012.jpg" lang2="Цветы расставлены в плоской вазе.">
+      <audioTime in="36485" out="39749" />
+    </line>
+    <line lang1="この*和室*に*ふすま*や*しょうじ*が*あります。" someNumber="None" image="073_014.jpg" lang2="В этой японской комнате есть седзи и ширма.">
+      <audioTime in="39749" out="44344" />
+    </line>
+    <line lang1="しょうじ*に*紙*が*はってあります。" someNumber="None" image="073_015.jpg" lang2="На седзи наклеена бумага.">
+      <audioTime in="44344" out="47478" />
+    </line>
+    <line lang1="これ*は*和紙*です。" someNumber="None" image="073_015.jpg" lang2="Это японская бумага &quot;васи&quot;.">
+      <audioTime in="47478" out="49790" />
+    </line>
+    <line lang1="ー折り紙*に*使っている*紙も*和紙*です*ね。" someNumber="143" image="073_017.jpg" lang2="- Бумага, употребляемая для оригами, также &quot;васи&quot;, не так ли?">
+      <audioTime in="49580" out="53047" />
+    </line>
+    <line lang1="ーそう*です。" someNumber="None" image="073_017.jpg" lang2="- Да.">
+      <audioTime in="53047" out="54257" />
+    </line>
+    <line lang1="和室*に*ベッド*が*ありません。" someNumber="None" image="073_019.jpg" lang2="В японской комнате нет кроватей.">
+      <audioTime in="54257" out="56983" />
+    </line>
+    <line lang1="日本人*は*夜*おしいれ*から*ふとん*を*出して、" someNumber="None" image="073_020.jpg" lang2="Японцы вечером достают постель из стенного шкафа,">
+      <audioTime in="56983" out="62504" />
+    </line>
+    <line lang1="たたみ*の*上*に*しいて、寝*ます。" someNumber="None" image="073_020.jpg" lang2="стелят на татами и ложатся.">
+      <audioTime in="62504" out="64754" />
+    </line>
+    <line lang1="朝*は、ふとん*を*また*押し入れ*の*中*に*しまいます。" someNumber="None" image="073_022.jpg" lang2="Утром снова прячут постель в стенной шкаф.">
+      <audioTime in="64754" out="68919" />
+    </line>
+    <line lang1="今、昼*な*ので、" someNumber="154" image="073_023.jpg" lang2="Сейчас день,">
+      <audioTime in="69194" out="71523" />
+    </line>
+    <line lang1="ふとん*は*押し入れ*の*中*に*しまってあります。" someNumber="None" image="073_023.jpg" lang2="поэтому постель спрятана в стенном шкафу.">
+      <audioTime in="71523" out="74106" />
+    </line>
+    <line lang1="ーいす*も*ありません*ね。" someNumber="None" image="073_025.jpg" lang2="- И стульев нет, правда.">
+      <audioTime in="74271" out="76317" />
+    </line>
+    <line lang1="ーありません。この*絵*を*見て*下さい。" someNumber="None" image="073_025.jpg" lang2="- (Стульев) нет. Посмотрите на эту картинку.">
+      <audioTime in="76317" out="79706" />
+    </line>
+    <line lang1="座たく*の*まわり*に*座ぶとん*が*置いてあります。" someNumber="126" image="073_027.jpg" lang2="Вокруг низкого столика разложены подушки.">
+      <audioTime in="79706" out="83584" />
+    </line>
+    <line lang1="ざぶとん*の*上*に*座ります。" someNumber="04" image="073_027.jpg" lang2="На подушки садятся.">
+      <audioTime in="83584" out="87242" />
+    </line>
+  </lines>
+</lesson>

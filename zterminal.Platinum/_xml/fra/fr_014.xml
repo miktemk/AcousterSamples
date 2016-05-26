@@ -1,0 +1,107 @@
+<lesson>
+  <header wav="FR_014.wav" dlgName="В ресторане &quot;Жорж Санд&quot;" dlgFile="exr\frg014.txt" />
+  <lines>
+    <line lang1="- Nous y sommes enfin." someNumber="None" image="f.jpg" lang2="- Наконец мы на месте.">
+      <audioTime in="0" out="2006" />
+    </line>
+    <line lang1="Où voulez-vous déjeuner, à l'intérieur ou dehors?" someNumber="None" image="f.jpg" lang2="Где хотите завтракать, внутри или снаружи?">
+      <audioTime in="2006" out="7467" />
+    </line>
+    <line lang1="- Plutôt dedans, il fait un peu froid dehors." someNumber="None" image="f.jpg" lang2="- Лучше внутри. На улице немного прохладно.">
+      <audioTime in="7467" out="11910" />
+    </line>
+    <line lang1="- Alors, entrons dans la salle." someNumber="None" image="f.jpg" lang2="- В таком случае войдемте в зал.">
+      <audioTime in="11910" out="14781" />
+    </line>
+    <line lang1="Voici justement une table libre. Asseyons-nous!" someNumber="None" image="f.jpg" lang2="Как раз свободный стол. Давайте сядем!">
+      <audioTime in="14781" out="19661" />
+    </line>
+    <line lang1="Tiens, voilà le garçon qui vient." someNumber="None" image="f.jpg" lang2="Смотри, вот и официант подходит.">
+      <audioTime in="19661" out="22621" />
+    </line>
+    <line lang1="- Bonjour, messieurs et madame. Voici la carte du jour." someNumber="None" image="f.jpg" lang2="- Здравствуйте! Вот меню на сегодня.">
+      <audioTime in="22621" out="27271" />
+    </line>
+    <line lang1="Quels plats désirez-vous?" someNumber="None" image="f.jpg" lang2="Какие блюда желаете?">
+      <audioTime in="27271" out="29347" />
+    </line>
+    <line lang1="- Apportez-nous trois truites à la crème et du bourgogne." someNumber="None" image="f.jpg" lang2="- Принесите нам три форели в сметане и бургундское.">
+      <audioTime in="29347" out="34138" />
+    </line>
+    <line lang1="Pendant ce temps nous choisirons les autres plats." someNumber="None" image="f.jpg" lang2="За это время мы выберем другие блюда.">
+      <audioTime in="34138" out="38006" />
+    </line>
+    <line lang1="- Très bien, monsieur." someNumber="None" image="f.jpg" lang2="- Очень хорошо, господин.">
+      <audioTime in="38006" out="39436" />
+    </line>
+    <line lang1="- Eh bien, maintenant choisissons notre plat de viande." someNumber="None" image="f.jpg" lang2="- А теперь выберем мясное блюдо.">
+      <audioTime in="39436" out="43895" />
+    </line>
+    <line lang1="Il y a du veau, du mouton, du rôti de bœuf et du poulet," someNumber="None" image="f.jpg" lang2="Есть телятина, баранина, жареная говядина и курица,">
+      <audioTime in="43895" out="50922" />
+    </line>
+    <line lang1="mais je vous recommande la poularde à la ficelle, c'est une spécialité de la maison." someNumber="None" image="f.jpg" lang2="но я вам рекомендую пулярку а ля фисель, это фирменное блюдо.">
+      <audioTime in="50922" out="57610" />
+    </line>
+    <line lang1="- Voici le couvert qui arrive. Bon appétit mes amis!" someNumber="None" image="f.jpg" lang2="- Вот подают приборы. Приятного аппетита, мои друзья!">
+      <audioTime in="57610" out="62830" />
+    </line>
+    <line lang1="- A propos, qu'est-ce que c'est que cette poularde à la ficelle?" someNumber="None" image="f.jpg" lang2="- Кстати, что это такое эта пулярка а ля фисель?">
+      <audioTime in="62830" out="71761" />
+    </line>
+    <line lang1="- On appelle ainsi une poularde rôtie verticalement." someNumber="None" image="f.jpg" lang2="- Так называют пулярду, жареную вертикально.">
+      <audioTime in="71761" out="75976" />
+    </line>
+    <line lang1="C'est un plat très fin, inventé par un des grands cuisiniers de Paris." someNumber="None" image="f.jpg" lang2="Это изысканное блюдо, выдуманное одним знаменитым парижским поваром.">
+      <audioTime in="75976" out="81043" />
+    </line>
+    <line lang1="- Regardez donc, en tête du menu il y a un bel aphorisme:" someNumber="None" image="f.jpg" lang2="- Смотрите, в начале меню есть красивый афоризм:">
+      <audioTime in="81043" out="85939" />
+    </line>
+    <line lang1="&quot;La destinée des nations dépend de la manière dont elles se nourrissent&quot;." someNumber="None" image="f.jpg" lang2="&quot;Судьба народов зависит от способа их питания&quot;.">
+      <audioTime in="85939" out="91238" />
+    </line>
+    <line lang1="- De qui est cet aphorisme?" someNumber="None" image="f.jpg" lang2="- Чей это афоризм?">
+      <audioTime in="91238" out="93969" />
+    </line>
+    <line lang1="- De Brillat-Savarin." someNumber="None" image="f.jpg" lang2="- Брия-Саварэна.">
+      <audioTime in="93969" out="95760" />
+    </line>
+    <line lang1="- Je suis tout à fait d'accord avec lui." someNumber="None" image="f.jpg" lang2="- Я вполне согласен с ним.">
+      <audioTime in="95760" out="98757" />
+    </line>
+    <line lang1="- Dans ce cas je me mets à manger du borschtch." someNumber="None" image="f.jpg" lang2="- В таком случае я начинаю есть борщ.">
+      <audioTime in="98757" out="102595" />
+    </line>
+    <line lang1="A propos, pouvez-vous nous dire, Sophie, quel est le plat national en Pologne?" someNumber="None" image="f.jpg" lang2="Кстати, Софи, какое польское народное блюдо?">
+      <audioTime in="102595" out="107769" />
+    </line>
+    <line lang1="- C'est précisément le borschtch." someNumber="None" image="f.jpg" lang2="- Вот именно борщ.">
+      <audioTime in="107769" out="109991" />
+    </line>
+    <line lang1="Nous aimons aussi la choucroute, que nous savons bien préparer." someNumber="None" image="f.jpg" lang2="Мы любим также тушеную капусту с мясом, которую мы умеем хорошо готовить.">
+      <audioTime in="109991" out="114472" />
+    </line>
+    <line lang1="Mais dans notre pays on boit beaucoup moins pendant le repas qu'en France." someNumber="None" image="f.jpg" lang2="Но в нашей стране во время еды гораздо меньше пьют, чем во Франции.">
+      <audioTime in="114472" out="120923" />
+    </line>
+    <line lang1="- En effet, en France on boit beaucoup pendant le repas et on mange beaucoup de pain." someNumber="None" image="f.jpg" lang2="- Действительно, во Франции пьют много во время еды и едят много хлеба.">
+      <audioTime in="120923" out="127052" />
+    </line>
+    <line lang1="Les Français sont de gros mangeurs de pain." someNumber="None" image="f.jpg" lang2="Французы - любители хлеба.">
+      <audioTime in="127052" out="130241" />
+    </line>
+    <line lang1="- Mais il est temps de songer à notre plat de légumes" someNumber="None" image="f.jpg" lang2="- Надо уже подумать о нашем втором блюде,">
+      <audioTime in="130241" out="133466" />
+    </line>
+    <line lang1="et surtout au fromage, car en France il n'a pas de repas sans fromage." someNumber="None" image="f.jpg" lang2="а прежде всего о сыре, потому что во Франции нет еды без сыра.">
+      <audioTime in="133466" out="138307" />
+    </line>
+    <line lang1="Alors que demanderons-nous comme plat de légumes, du riz ou des pommes deterre frites?" someNumber="None" image="f.jpg" lang2="Итак, что закажем на второе, рис или жареную картошку?">
+      <audioTime in="138307" out="144339" />
+    </line>
+    <line lang1="- Moi, je préfère les pommes de terre frites." someNumber="None" image="f.jpg" lang2="- Я предпочитаю жареную картошку.">
+      <audioTime in="144339" out="148600" />
+    </line>
+  </lines>
+</lesson>

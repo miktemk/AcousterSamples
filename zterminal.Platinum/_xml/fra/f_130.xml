@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_130.wav" dic="p130" dlgName="Не может быть, чтобы..." dlgFile="exr\fg129.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Etait-il conducteur ou chauffeur d'autobus?" someNumber="90" image="dg\130_001.gif" lang2="- Он был кондуктором или водителем автобуса?">
+      <audioTime in="0" out="2252" />
+    </line>
+    <line lang1="- Il ne pouvait pas être chauffeur d'autobus. Il était conducteur." someNumber="None" image="dg\130_001.gif" lang2="- Он не мог быть водителем автобуса. Он был кондуктором.">
+      <audioTime in="2252" out="5714" />
+    </line>
+    <line lang1="- Etait-elle Chinoise ou Japonaise?" someNumber="None" image="dg\130_002.gif" lang2="- Она была китаянкой или японкой?">
+      <audioTime in="5714" out="7432" />
+    </line>
+    <line lang1="- Elle ne pouvait pas être Chinoise. Elle était Japonaise." someNumber="200" image="dg\130_002.gif" lang2="- Она не могла быть китаянкой. Она была японкой.">
+      <audioTime in="7432" out="10390" />
+    </line>
+    <line lang1="- Ecoutaient-ils la radio ou regardaient-ils la télévision?" someNumber="None" image="dg\130_003.gif" lang2="- Они слушали радио или смотрели телевизор?">
+      <audioTime in="10390" out="13061" />
+    </line>
+    <line lang1="- Ils ne pouvaient pas écouter la radio. Ils regardaient la télévision." someNumber="None" image="dg\130_003.gif" lang2="- Они не могли слушать радио. Они смотрели телевизор.">
+      <audioTime in="13061" out="16432" />
+    </line>
+    <line lang1="- Quel jour étions nous hier, le 24 ou le 25?" someNumber="None" image="dg\130_004.gif" lang2="- Какое вчера было число: 24-ое или 25-ое?">
+      <audioTime in="16432" out="19790" />
+    </line>
+    <line lang1="- Nous n'étions pas le 24. Nous étions le 25." someNumber="None" image="dg\130_004.gif" lang2="- Это не могло быть 24-ое. Это было 25-ое.">
+      <audioTime in="19790" out="22737" />
+    </line>
+    <line lang1="- Etaient-ils Anglais ou Américains?" someNumber="None" image="dg\130_005.gif" lang2="- Они были англичанами или американцами?">
+      <audioTime in="22737" out="24727" />
+    </line>
+    <line lang1="- Ils ne pouvaient pas être Anglais. Ils étaient Américains." someNumber="210" image="dg\130_005.gif" lang2="- Они не могли быть англичанами. Они были американцами.">
+      <audioTime in="24727" out="27620" />
+    </line>
+    <line lang1="- Ton crayon était-il pointu ou émoussé?" someNumber="None" image="dg\130_006.gif" lang2="- Твой карандаш был заточенный или тупой?">
+      <audioTime in="27620" out="29628" />
+    </line>
+    <line lang1="- Il ne pouvait pas être pointu. Il était émoussé." someNumber="None" image="dg\130_006.gif" lang2="- Он не мог быть заточенным. Он был тупой.">
+      <audioTime in="29628" out="32499" />
+    </line>
+    <line lang1="- Essuyait-elle la table ou balayait-elle le plancher?" someNumber="50" image="dg\130_007.gif" lang2="- Она вытирала стол или подметала пол?">
+      <audioTime in="32499" out="34990" />
+    </line>
+    <line lang1="- Elle ne pouvait pas essuyer la table. Elle balayait le plancher." someNumber="None" image="dg\130_007.gif" lang2="- Она не могла вытирать стол. Она подметала пол.">
+      <audioTime in="34990" out="38271" />
+    </line>
+    <line lang1="- Etait-il le plus âgé de la famille ou était-il le plus jeune?" someNumber="None" image="dg\130_008.gif" lang2="- Он был самый старший или самый молодой в семье?">
+      <audioTime in="38271" out="41083" />
+    </line>
+    <line lang1="- Il ne pouvait pas être le plus âgé. Il était le plus jeune." someNumber="370" image="dg\130_008.gif" lang2="- Он не мог быть самым старшим. Он был самый молодой.">
+      <audioTime in="41083" out="44453" />
+    </line>
+    <line lang1="- Avait-elle 20 ou 25 ans?" someNumber="None" image="dg\130_009.gif" lang2="- Ей было 20 или 25 лет?">
+      <audioTime in="44453" out="46090" />
+    </line>
+    <line lang1="- Elle ne pouvait pas avoir 20 ans. Elle avait 25 ans." someNumber="None" image="dg\130_009.gif" lang2="- Ей не могло быть 20 лет. Ей было 25 лет.">
+      <audioTime in="46090" out="48984" />
+    </line>
+    <line lang1="- Etaient-ils mécaniciens ou ingénieurs?" someNumber="None" image="dg\130_010.gif" lang2="- Они были механики или инженеры?">
+      <audioTime in="48984" out="50904" />
+    </line>
+    <line lang1="- Ils ne pouvaient pas être mécaniciens. Ils étaient ingénieurs." someNumber="None" image="dg\130_010.gif" lang2="- Они не могли быть механиками. Они были инженерами.">
+      <audioTime in="50904" out="54233" />
+    </line>
+  </lines>
+</lesson>

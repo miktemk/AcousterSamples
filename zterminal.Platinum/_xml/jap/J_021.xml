@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="j_021.wav" dlgName="Какой день недели?" dic="p021" />
+  <lines>
+    <line lang1="ー今日*は*何よう日*です*か。" someNumber="40" image="021_001.jpg" lang2="- Какой сегодня день недели?">
+      <audioTime in="0" out="3674" />
+    </line>
+    <line lang1="ーげつよう日*です。" someNumber="None" image="021_002.jpg" lang2="- Понедельник.">
+      <audioTime in="3674" out="6069" />
+    </line>
+    <line lang1="ーでは、こくばん*に*日付*を*かいて*ください。" someNumber="41" image="021_003.jpg" lang2="- Так, напишите на доске полную дату.">
+      <audioTime in="6069" out="9806" />
+    </line>
+    <line lang1="ー今日*は*１９９９年、七月、十九日、月よう日*です。" someNumber="133" image="021_003.jpg" lang2="- Сегодня 19 июля 1999 года, понедельник.">
+      <audioTime in="9806" out="18423" />
+    </line>
+    <line lang1="ーはい。あした*は*何よう日*です*か。" someNumber="None" image="021_005.jpg" lang2="- Правильно. Какой день недели завтра?">
+      <audioTime in="18423" out="22411" />
+    </line>
+    <line lang1="ー火よう日*です。" someNumber="None" image="021_006.jpg" lang2="- Вторник.">
+      <audioTime in="22411" out="23836" />
+    </line>
+    <line lang1="ーあさって*は*何よう日*です*か。" someNumber="None" image="021_007.jpg" lang2="- Какой день недели послезавтра?">
+      <audioTime in="23836" out="26592" />
+    </line>
+    <line lang1="ー水よう日*です。" someNumber="None" image="021_008.jpg" lang2="- Среда.">
+      <audioTime in="26592" out="28480" />
+    </line>
+    <line lang1="あと*は*木よう日、" someNumber="None" image="021_009.jpg" lang2="Затем четверг,">
+      <audioTime in="28480" out="31366" />
+    </line>
+    <line lang1="金よう日、" someNumber="None" image="021_010.jpg" lang2="пятница,">
+      <audioTime in="31366" out="32464" />
+    </line>
+    <line lang1="土よう日*と*日よう日*です。" someNumber="None" image="021_011.jpg" lang2="суббота и воскресенье.">
+      <audioTime in="32755" out="34743" />
+    </line>
+    <line lang1="日よう日*は*やすみ*です。" someNumber="162" image="021_013.jpg" lang2="В воскресенье - выходной.">
+      <audioTime in="34743" out="37768" />
+    </line>
+    <line lang1="ーきのう*は*なん*でした*か。" someNumber="None" image="021_014.jpg" lang2="- Что было вчера?">
+      <audioTime in="37768" out="42232" />
+    </line>
+    <line lang1="ースミス*さん*の*たんじょう日*の*パーティー*でした。" someNumber="None" image="021_015.jpg" lang2="- Вчера была вечеринка по случаю дня рождения Смита.">
+      <audioTime in="42232" out="46806" />
+    </line>
+    <line lang1="ーそう*です*か。日ようび*でした*ね。" someNumber="None" image="021_016.jpg" lang2="- Вот как. Было воскресенье, не так ли?">
+      <audioTime in="46806" out="50203" />
+    </line>
+    <line lang1="ーはい。やすみ*でした。" someNumber="None" image="021_016.jpg" lang2="- Да. Был выходной.">
+      <audioTime in="50203" out="53291" />
+    </line>
+    <line lang1="―おととい*も*やすみ*でした*か。" someNumber="None" image="021_018.jpg" lang2="- И позавчера тоже был выходной?">
+      <audioTime in="53291" out="56047" />
+    </line>
+    <line lang1="―はい。土よう日*も*やすみ*でした。" someNumber="None" image="021_018.jpg" lang2="- Да. И в субботу был выходной.">
+      <audioTime in="56047" out="60066" />
+    </line>
+    <line lang1="土よう日*は*なつ*の*まつり*でした。" someNumber="None" image="021_020.jpg" lang2="В субботу был праздник лета.">
+      <audioTime in="60066" out="63834" />
+    </line>
+    <line lang1="―今日*と*あした*は*じゅぎょう*です*ね。" someNumber="None" image="021_021.jpg" lang2="- Ну а сегодня и завтра (у вас) занятия, не так ли?">
+      <audioTime in="63834" out="67334" />
+    </line>
+    <line lang1="―いいえ。あした*も*やすみ*です。" someNumber="None" image="021_022.jpg" lang2="- Нет. Завтра тоже выходной.">
+      <audioTime in="67334" out="71387" />
+    </line>
+    <line lang1="うみ*の*日*です。" someNumber="None" image="021_023.jpg" lang2="(Завтра) день моря.">
+      <audioTime in="71387" out="73904" />
+    </line>
+  </lines>
+</lesson>

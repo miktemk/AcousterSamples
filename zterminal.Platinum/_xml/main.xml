@@ -1,0 +1,7 @@
+<languages>
+	<language name="Francais" xmlPath="fra/lessons.xml" xmlReplacement="fra" externalPath=".Platinum/Francais" imgFilename="flag_fra.png"  />
+	<language name="Italiano" xmlPath="ita/lessons.xml" xmlReplacement="ita" externalPath=".Platinum/Italiano" imgFilename="flag_ita.png"  />
+	<language name="Deustch" xmlPath="deu/lessons.xml" xmlReplacement="deu" externalPath=".Platinum/Deutsch" imgFilename="flag_deu.png"  />
+	<language name="Japanese" xmlPath="jap/lessons.xml" xmlReplacement="jap" externalPath=".Platinum/Japanese" imgFilename="flag_jap.png"  />
+	<language name="Kazaksha" xmlPath="kaz/lessons.xml" xmlReplacement="kaz" externalPath=".Platinum/Kazakh" imgFilename="flag_kaz.png"  />
+</languages>

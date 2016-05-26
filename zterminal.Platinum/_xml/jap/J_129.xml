@@ -1,0 +1,116 @@
+<lesson>
+  <header wav="j_129.wav" dlgName="Путешествие в Киото" dic="p129" />
+  <lines>
+    <line lang1="ーゆかこ*さん、京都*の*地図*を*調べています*か。" someNumber="None" image="129_001.jpg" lang2="- Юкако-сан, Вы рассматриваете карту Киото?">
+      <audioTime in="0" out="3590" />
+    </line>
+    <line lang1="旅行*です*か。" someNumber="None" image="129_002.jpg" lang2="Собираетесь совершить путешествие?">
+      <audioTime in="3590" out="5289" />
+    </line>
+    <line lang1="ー実*は、ロシア*から*友達*が*来る*予定*なん*です。" someNumber="None" image="129_003.jpg" lang2="- Честно говоря, должна приехать подруга из России.">
+      <audioTime in="5289" out="9750" />
+    </line>
+    <line lang1="日本*は*初めて*です*から、京都*へ*案内しよう*と*思います。" someNumber="93" image="129_004.jpg" lang2="Она впервые в Японии, и я собираюсь повезти её в Киото.">
+      <audioTime in="9750" out="14672" />
+    </line>
+    <line lang1="今、旅行*の*計画*を*立てている*ところ*です。" someNumber="None" image="129_005.jpg" lang2="Сейчас я составляю план путешествия.">
+      <audioTime in="14672" out="18092" />
+    </line>
+    <line lang1="ー京都*の*旅行*は*けっこう*費用*が*かかる*でしょう。" someNumber="None" image="129_006.jpg" lang2="- Путешествие в Киото, наверное, связано с большими денежными затратами.">
+      <audioTime in="18219" out="21953" />
+    </line>
+    <line lang1="大丈夫*です*か。" someNumber="None" image="129_006.jpg" lang2="С этим всё в порядке?">
+      <audioTime in="22102" out="23295" />
+    </line>
+    <line lang1="ー大丈夫*です。" someNumber="None" image="129_008.jpg" lang2="- В порядке.">
+      <audioTime in="23295" out="24410" />
+    </line>
+    <line lang1="友達*は*古い*お寺*や*神社*に*すごく*興味*が*あります。" someNumber="None" image="129_009.jpg" lang2="Моя подруга очень интересуется старыми буддистскими и синтоистскими храмами.">
+      <audioTime in="24410" out="28793" />
+    </line>
+    <line lang1="ーお友達*は*建築家*です*か。" someNumber="None" image="129_010.jpg" lang2="- Ваша подруга - архитектор?">
+      <audioTime in="28793" out="31266" />
+    </line>
+    <line lang1="ーいいえ。趣味*なん*です。" someNumber="None" image="129_011.jpg" lang2="- Нет, это увлечение.">
+      <audioTime in="31266" out="33881" />
+    </line>
+    <line lang1="京都*は*一日、二日*で*見られない*でしょう*ね。" someNumber="94" image="129_012.jpg" lang2="Как Вы считаете, ведь нельзя осмотреть Киото за 1-2 дня?">
+      <audioTime in="33881" out="38803" />
+    </line>
+    <line lang1="ーできません*ね。" someNumber="None" image="129_013.jpg" lang2="- Да, это невозможно.">
+      <audioTime in="38803" out="41544" />
+    </line>
+    <line lang1="京都*は*７９４年*から*約*１０００年*の*間、都*が*おかれ、" someNumber="None" image="129_014.jpg" lang2="С 794 года, примерно в течение 1000 лет в Киото находилась столица,">
+      <audioTime in="41544" out="47745" />
+    </line>
+    <line lang1="日本*の*政治、文化、産業*の*中心*として*栄えました。" someNumber="None" image="129_015.jpg" lang2="и она процветала в качестве политического, культурного и промышленного центра Японии.">
+      <audioTime in="47745" out="53077" />
+    </line>
+    <line lang1="それ*で*３０００以上*の*お寺*や*神社*が*ある*ん*です*が、" someNumber="None" image="129_016.jpg" lang2="Поэтому в Киото находится более 3000 буддистских и синтоистских храмов">
+      <audioTime in="53077" out="57098" />
+    </line>
+    <line lang1="一日、二日*で*は*無理*でしょう*ね。" someNumber="None" image="129_017.jpg" lang2="и (осмотреть их) за 1-2 дня, наверное, бессмысленно.">
+      <audioTime in="57098" out="60074" />
+    </line>
+    <line lang1="でも、うまく*スケジュール*を*組めば、" someNumber="084" image="129_018.jpg" lang2="Но если умело составить программу,">
+      <audioTime in="60382" out="63186" />
+    </line>
+    <line lang1="かなり*の*名所*を*訪れる*こと*が*できます。" someNumber="None" image="129_019.jpg" lang2="удастся посетить довольно много достопримечательностей.">
+      <audioTime in="63186" out="65816" />
+    </line>
+    <line lang1="ー谷川*さん*に*京都、奈良*の*旅行*計画*の*案*を*教えて*いただける*と、" someNumber="None" image="129_020.jpg" lang2="- Танигава-сан, если бы Вы помогли мне с планом путешествия в Киото и Нара,">
+      <audioTime in="65908" out="72598" />
+    </line>
+    <line lang1="大変*ありがたい*です。" someNumber="162" image="129_021.jpg" lang2="я была бы очень благодарна.">
+      <audioTime in="72598" out="74248" />
+    </line>
+    <line lang1="ーいい*です*よ。" someNumber="None" image="129_022.jpg" lang2="- Пожалуйста.">
+      <audioTime in="74248" out="75283" />
+    </line>
+    <line lang1="外国人*は*たいてい*金閣寺、" someNumber="None" image="129_023.jpg" lang2="Иностранцы большей частью посещают Кинкакудзи,">
+      <audioTime in="75366" out="78708" />
+    </line>
+    <line lang1="銀閣寺、" someNumber="None" image="129_024.jpg" lang2="Гинкакудзи,">
+      <audioTime in="78708" out="79696" />
+    </line>
+    <line lang1="石庭*で*有名*な*竜安寺*を*訪れます*ね。" someNumber="07" image="129_025.jpg" lang2="Реандзи, известный садом камней, не так ли?">
+      <audioTime in="79696" out="83448" />
+    </line>
+    <line lang1="旅行*の*シーズン*に*は*外国人*が*大勢*来ます。" someNumber="None" image="129_026.jpg" lang2="В туристический сезон приезжает много иностранцев.">
+      <audioTime in="83448" out="87263" />
+    </line>
+    <line lang1="それ*から、私*は*京都*に*行く*と、必ず*清水寺*に*寄ります。" someNumber="None" image="129_027.jpg" lang2="Кроме того, когда я езжу в Киото, обязательно посещаю храм Киёмидзу.">
+      <audioTime in="87263" out="92798" />
+    </line>
+    <line lang1="ー谷川*さん、ちょっと*地図*を*見て*ください。" someNumber="None" image="129_028.jpg" lang2="- Танигава-сан, посмотрите пожалуйста на карту!">
+      <audioTime in="92798" out="97435" />
+    </line>
+    <line lang1="二条城*が*ホテル*に*近い*ので、" someNumber="None" image="129_028.jpg" lang2="Нидзёдзё расположен недалеко от гостиницы и,">
+      <audioTime in="97435" out="100790" />
+    </line>
+    <line lang1="１時間*で*二条城*の*見物*を*する*として、" someNumber="None" image="129_030.jpg" lang2="если за час осмотреть Нидзёдзё,">
+      <audioTime in="100854" out="104337" />
+    </line>
+    <line lang1="次*は*どこ*へ*行ったら*いい*でしょう*か。" someNumber="091" image="129_031.jpg" lang2="куда лучше поехать дальше?">
+      <audioTime in="104337" out="106637" />
+    </line>
+    <line lang1="ーそんな*に*急ぐ*と、京都*の*良さ*を*味わう*こと*が*できません。" someNumber="None" image="129_032.jpg" lang2="- Если так торопиться, вы не сможете прочувствовать прелесть Киото.">
+      <audioTime in="106637" out="112032" />
+    </line>
+    <line lang1="ゆっくり*と*二条城*の*広間*や*庭*を*回ったら*どう*です*か。" someNumber="None" image="129_033.jpg" lang2="Как насчёт того, чтоб не торопясь обойти помещения и сады Нидзедзе?">
+      <audioTime in="112032" out="117175" />
+    </line>
+    <line lang1="きっと*徳川*将軍*と*裏切った*家来*の*足音*を*耳*に*する*事*が*出来る*かもしれません。" someNumber="None" image="129_034.jpg" lang2="Может быть, вам удастся услышать звуки шагов сегуна Токугава и предателей-вассалов.">
+      <audioTime in="117175" out="124198" />
+    </line>
+    <line lang1="ー竜安寺*の*石庭*で*は、１５個*の*石*の*謎*を*当てさせる*と*いい*です*ね。" someNumber="96" image="129_035.jpg" lang2="- Как было бы хорошо представить ей возможность разгадать загадку пятнадцати камней в саде камней Реандзи, не так ли!">
+      <audioTime in="124051" out="129874" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="129_035.jpg" lang2="- Конечно!">
+      <audioTime in="129874" out="132077" />
+    </line>
+    <line lang1="ゆかこ*さん*の*友達*は*その*石庭*の*謎*が*分かる*でしょう*か。" someNumber="None" image="129_037.jpg" lang2="Юкако, интересно, разгадает ли Ваша подруга загадку сада камней!">
+      <audioTime in="132077" out="137761" />
+    </line>
+  </lines>
+</lesson>

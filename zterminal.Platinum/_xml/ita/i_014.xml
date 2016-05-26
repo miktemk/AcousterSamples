@@ -1,0 +1,125 @@
+<lesson>
+  <header wav="i_014.wav" dic="p014" dlgName="Какого цвета?.. Он не...  " dlgFile="exr\ig013.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Di che colore è l'ombrello del signor Fortini?" someNumber="None" image="dg\014_001.gif" lang2="- Какого цвета зонтик господина Фортини?">
+      <audioTime in="164" out="3274" />
+    </line>
+    <line lang1="È marrone?" someNumber="None" image="dg\014_001.gif" lang2="Он коричневый?">
+      <audioTime in="3229" out="4674" />
+    </line>
+    <line lang1="- Non è marrone." someNumber="None" image="dg\014_001.gif" lang2="- Он не коричневый.">
+      <audioTime in="4578" out="6011" />
+    </line>
+    <line lang1="È nero." someNumber="None" image="dg\014_001.gif" lang2="Он чёрный.">
+      <audioTime in="5966" out="7140" />
+    </line>
+    <line lang1="- Di che colore è il cappotto della signora Verdini?" someNumber="70" image="dg\014_002.gif" lang2="- Какого цвета пальто госпожи Вердини?">
+      <audioTime in="7389" out="10454" />
+    </line>
+    <line lang1="È bianco?" someNumber="None" image="dg\014_002.gif" lang2="Оно белое?">
+      <audioTime in="10391" out="11878" />
+    </line>
+    <line lang1="- Non è bianco." someNumber="None" image="dg\014_002.gif" lang2="- Оно не белое.">
+      <audioTime in="11952" out="13355" />
+    </line>
+    <line lang1="È grigio." someNumber="None" image="dg\014_002.gif" lang2="Оно серое.">
+      <audioTime in="13266" out="14529" />
+    </line>
+    <line lang1="- Di che colore è la cravatta di questo ragazzo?" someNumber="None" image="dg\014_003.gif" lang2="- Какого цвета галстук мальчика?">
+      <audioTime in="14624" out="17735" />
+    </line>
+    <line lang1="È gialla?" someNumber="None" image="dg\014_003.gif" lang2="Он жёлтый?">
+      <audioTime in="17735" out="18994" />
+    </line>
+    <line lang1="- Non è gialla." someNumber="None" image="dg\014_003.gif" lang2="- Он не жёлтый.">
+      <audioTime in="19158" out="20636" />
+    </line>
+    <line lang1="È arancione." someNumber="None" image="dg\014_003.gif" lang2="Он оранжевый.">
+      <audioTime in="20527" out="21895" />
+    </line>
+    <line lang1="- Di che colore è la macchina di Paolo?" someNumber="80" image="dg\014_004.gif" lang2="- Какого цвета машина Паоло?">
+      <audioTime in="22004" out="24577" />
+    </line>
+    <line lang1="È rossa?" someNumber="None" image="dg\014_004.gif" lang2="Она красная?">
+      <audioTime in="24577" out="25796" />
+    </line>
+    <line lang1="- Non è rossa." someNumber="None" image="dg\014_004.gif" lang2="- Она не красная.">
+      <audioTime in="25751" out="27241" />
+    </line>
+    <line lang1="È blu." someNumber="None" image="dg\014_004.gif" lang2="Она синяя.">
+      <audioTime in="27196" out="28235" />
+    </line>
+    <line lang1="- Di che colore è la camicetta della signora Bianchi?" someNumber="None" image="dg\014_005.gif" lang2="- Какого цвета блузка госпожи Бианки?">
+      <audioTime in="28582" out="31692" />
+    </line>
+    <line lang1="È arancione?" someNumber="None" image="dg\014_005.gif" lang2="Она оранжевая?">
+      <audioTime in="31603" out="33116" />
+    </line>
+    <line lang1="- Non è arancione." someNumber="120" image="dg\014_005.gif" lang2="- Она не оранжевая.">
+      <audioTime in="33116" out="34813" />
+    </line>
+    <line lang1="È gialla." someNumber="None" image="dg\014_005.gif" lang2="Она жёлтая.">
+      <audioTime in="34723" out="36077" />
+    </line>
+    <line lang1="- Di che colore è la camicia di Pietro?" someNumber="None" image="dg\014_006.gif" lang2="- Какого цвета рубашка Пьетро?">
+      <audioTime in="36017" out="38624" />
+    </line>
+    <line lang1="È blu?" someNumber="None" image="dg\014_006.gif" lang2="Она синяя?">
+      <audioTime in="38579" out="39753" />
+    </line>
+    <line lang1="- Non è blu." someNumber="None" image="dg\014_006.gif" lang2="- Она не синяя.">
+      <audioTime in="39753" out="40972" />
+    </line>
+    <line lang1="È bianca." someNumber="None" image="dg\014_006.gif" lang2="Она белая.">
+      <audioTime in="40927" out="42282" />
+    </line>
+    <line lang1="- Di che colore è il cappello del signor Fortini?" someNumber="None" image="dg\014_007.gif" lang2="- Какого цвета шляпа господина Фортини?">
+      <audioTime in="42362" out="45685" />
+    </line>
+    <line lang1="È verde e rosso?" someNumber="None" image="dg\014_007.gif" lang2="Она зелёная и красная?">
+      <audioTime in="45637" out="47553" />
+    </line>
+    <line lang1="- Non è verde e rosso." someNumber="None" image="dg\014_007.gif" lang2="- Она не зелёная и красная.">
+      <audioTime in="47761" out="49745" />
+    </line>
+    <line lang1="È grigio e nero." someNumber="None" image="dg\014_007.gif" lang2="Она серая и чёрная.">
+      <audioTime in="49700" out="51370" />
+    </line>
+    <line lang1="- Di che colore è la valigia di questa donna?" someNumber="None" image="dg\014_008.gif" lang2="- Какого цвета чемодан у этой женщины?">
+      <audioTime in="51430" out="54545" />
+    </line>
+    <line lang1="È grigia?" someNumber="None" image="dg\014_008.gif" lang2="Он серый?">
+      <audioTime in="54545" out="56068" />
+    </line>
+    <line lang1="- Non è grigia." someNumber="None" image="dg\014_008.gif" lang2="- Он не серый.">
+      <audioTime in="55978" out="57332" />
+    </line>
+    <line lang1="È marrone." someNumber="None" image="dg\014_008.gif" lang2="Он коричневый.">
+      <audioTime in="57243" out="58507" />
+    </line>
+    <line lang1="- Di che colore è il cane della signora Bianchi?" someNumber="None" image="dg\014_009.gif" lang2="- Какого цвета собака госпожи Бианки?">
+      <audioTime in="58698" out="61537" />
+    </line>
+    <line lang1="È grigio e nero?" someNumber="None" image="dg\014_009.gif" lang2="Она серая и чёрная?">
+      <audioTime in="61675" out="63433" />
+    </line>
+    <line lang1="- Non è grigio e nero." someNumber="None" image="dg\014_009.gif" lang2="- Она не серая и чёрная.">
+      <audioTime in="63451" out="65275" />
+    </line>
+    <line lang1="È marrone e bianco." someNumber="None" image="dg\014_009.gif" lang2="Она коричневая и белая.">
+      <audioTime in="65137" out="67074" />
+    </line>
+    <line lang1="- Di che colore è il tappeto della signora Fortini?" someNumber="None" image="dg\014_010.gif" lang2="- Какого цвета ковер госпожи Фортини?">
+      <audioTime in="67099" out="70352" />
+    </line>
+    <line lang1="È verde?" someNumber="None" image="dg\014_010.gif" lang2="Он зелёный?">
+      <audioTime in="70352" out="71887" />
+    </line>
+    <line lang1="- Non è verde." someNumber="None" image="dg\014_010.gif" lang2="- Он не зелёный.">
+      <audioTime in="71945" out="73214" />
+    </line>
+    <line lang1="È rosso." someNumber="None" image="dg\014_010.gif" lang2="Он красный.">
+      <audioTime in="73169" out="74343" />
+    </line>
+  </lines>
+</lesson>

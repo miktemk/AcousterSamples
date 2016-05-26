@@ -1,0 +1,98 @@
+<lesson>
+  <header wav="j_130.wav" dlgName="У тебя глаза сияют!" dic="p130" />
+  <lines>
+    <line lang1="―昌子*さん、今日*は*にこにこ*して、なに*か*いい*ニュース？" someNumber="114" image="130_001.jpg" lang2="- Масако-сан, ты сегодня такая улыбчивая! Какая-то хорошая новость?">
+      <audioTime in="0" out="6298" />
+    </line>
+    <line lang1="目*が*きらきら*している。" someNumber="163" image="130_001.jpg" lang2="У тебя глаза сияют от радости!">
+      <audioTime in="6298" out="8107" />
+    </line>
+    <line lang1="―待ち*に*待っていた*手紙*が*やっと*届いた*の。" someNumber="None" image="130_001.jpg" lang2="- Наконец дошло письмо, которого я ждала с нетерпением.">
+      <audioTime in="8107" out="11635" />
+    </line>
+    <line lang1="―温泉*は*どう*だった。" someNumber="None" image="130_004.jpg" lang2="- Как (понравилось купание) в горячем источнике?">
+      <audioTime in="11635" out="14295" />
+    </line>
+    <line lang1="―楽しかった*わ。" someNumber="None" image="130_005.jpg" lang2="- Ах, как было приятно!">
+      <audioTime in="14295" out="16040" />
+    </line>
+    <line lang1="お湯*の*あと*で*肌*が*つるつる*に*なった。" someNumber="None" image="130_005.jpg" lang2="После горячей воды кожа стала как шёлковая!">
+      <audioTime in="16040" out="19191" />
+    </line>
+    <line lang1="―今朝*ラッシュ*時間*に*電車*に*乗ったら、" someNumber="None" image="130_007.jpg" lang2="- Сегодня утром, села в электричку в час пик,">
+      <audioTime in="19191" out="25186" />
+    </line>
+    <line lang1="電車*の*中*へ*ぐいぐい*押されて、電車*から*降りられなかった*の。" someNumber="None" image="130_007.jpg" lang2="и меня так затолкали, что не могла сойти!">
+      <audioTime in="25186" out="29443" />
+    </line>
+    <line lang1="―もっと*早く*家*を*出た方*が*いい*よ。" someNumber="None" image="130_009.jpg" lang2="- Поэтому лучше выходить из дома пораньше!">
+      <audioTime in="29443" out="32581" />
+    </line>
+    <line lang1="―高校*の*同級生*と*いつ*まで*も*仲間でいよう*と*約束した*のに、" someNumber="None" image="130_010.jpg" lang2="- Хотя мы с одноклассниками и дали друг другу слово оставаться всегда друзьями,">
+      <audioTime in="32581" out="39856" />
+    </line>
+    <line lang1="社会人*に*なって、みんな*ばらばら*に*なっちゃった*わ*ね。" someNumber="None" image="130_011.jpg" lang2="но став служащими, все разбрелись в разные стороны, правда!">
+      <audioTime in="39856" out="43545" />
+    </line>
+    <line lang1="林*君*だけ*は*相変らず*電話*を*して*くれる*けど。" someNumber="103" image="130_012.jpg" lang2="Только ты, Хаяси, по-прежнему звонишь (мне).">
+      <audioTime in="43545" out="48055" />
+    </line>
+    <line lang1="―僕*は*約束*を*破らない*から。" someNumber="None" image="130_013.jpg" lang2="- Потому что я не нарушаю данного слова.">
+      <audioTime in="48055" out="53812" />
+    </line>
+    <line lang1="―一日中*に*も*食べなかった*から、" someNumber="None" image="130_014.jpg" lang2="- Так как весь день ничего не ел,">
+      <audioTime in="54160" out="58228" />
+    </line>
+    <line lang1="腹*が*ぺこぺこ*に*空いていた*ん*だ。" someNumber="None" image="130_015.jpg" lang2="от голода сводило живот.">
+      <audioTime in="58228" out="60575" />
+    </line>
+    <line lang1="それで、おいしい*もの*を*見たら、" someNumber="None" image="130_016.jpg" lang2="Потом, увидев столько вкусных вещей,">
+      <audioTime in="60575" out="62873" />
+    </line>
+    <line lang1="腹*が*ぱんぱん*に*なる*ほど*食べちゃった*ん*だ。" someNumber="80" image="130_016.jpg" lang2="наелся так, что живот чуть не лопнул.">
+      <audioTime in="62873" out="65615" />
+    </line>
+    <line lang1="―研修*旅行*は*どう*だった？" someNumber="None" image="130_018.jpg" lang2="- Как прошло учебная экскурсия?">
+      <audioTime in="65615" out="69701" />
+    </line>
+    <line lang1="天気*は*良かった？富士山*が*見えた？" someNumber="None" image="130_019.jpg" lang2="Погода была хорошей? Фудзияма была видна?">
+      <audioTime in="69701" out="73012" />
+    </line>
+    <line lang1="―最初*五合目*に*着いた*とき、" someNumber="None" image="130_020.jpg" lang2="- Сначала, когда мы прибыли на пятый пункт (подъема на Фудзияму),">
+      <audioTime in="73012" out="76352" />
+    </line>
+    <line lang1="雨*が*降って、風*も*強かった*の。" someNumber="None" image="130_020.jpg" lang2="лил дождь и ветер был сильным.">
+      <audioTime in="76352" out="78653" />
+    </line>
+    <line lang1="傘*を*さす*と、風*で*傘*が*めちゃめちゃ*に*なっちゃって。" someNumber="None" image="130_020.jpg" lang2="Я хотела открыть зонт, но ветер смял его.">
+      <audioTime in="78653" out="82229" />
+    </line>
+    <line lang1="でも、少し*経つ*と*空*が*ぱあっと*晴れて、" someNumber="None" image="130_023.jpg" lang2="Немного погодя небо вдруг прояснилось,">
+      <audioTime in="82229" out="86075" />
+    </line>
+    <line lang1="富士山*が*姿*を*見せて*くれた*わ。" someNumber="124" image="130_023.jpg" lang2="и Фудзияма показала свой лик.">
+      <audioTime in="86075" out="88514" />
+    </line>
+    <line lang1="―良かった*ね。山*の*天気*は*本当*に*かわり*やすい*な。" someNumber="None" image="130_025.jpg" lang2="- Как здорово! Погода в горах так изменчива!">
+      <audioTime in="88514" out="93419" />
+    </line>
+    <line lang1="箱根*と*大湧谷*へ*行ったかい？" someNumber="124" image="130_026.jpg" lang2="А в Хаконе и долину Оваку тоже ездила?">
+      <audioTime in="93419" out="96411" />
+    </line>
+    <line lang1="―ええ。とく*に*大湧谷*は*面白い*わ*ね。" someNumber="None" image="130_027.jpg" lang2="- Да. Особенно интересно в долине Оваку, правда?">
+      <audioTime in="96411" out="100257" />
+    </line>
+    <line lang1="ふき出る*湯気*で*もうもう*と*していて。" someNumber="None" image="130_028.jpg" lang2="Выбросы газов клубятся там и сям.">
+      <audioTime in="100257" out="103233" />
+    </line>
+    <line lang1="―そう*だ*な。ロープーウェー*に*乗って、上*から*も*見た？" someNumber="166" image="130_029.jpg" lang2="- Ах так? А ты видела всё это сверху, с канатки?">
+      <audioTime in="103233" out="107508" />
+    </line>
+    <line lang1="―それ*が、せっかく*ロープーウェー*に*乗った*のに、" someNumber="None" image="130_029.jpg" lang2="- Хотя я и села специально на канатку,">
+      <audioTime in="107425" out="111035" />
+    </line>
+    <line lang1="谷*は*きり*に*隠れて、なに*も*見えなかった*の。" someNumber="None" image="130_031.jpg" lang2="долина была сокрыта в тумане и ничего не было видно.">
+      <audioTime in="111035" out="113934" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="i_032.wav" dic="p032" dlgName="Что он (она) делает?" dlgFile="exr\ig031.txt" author="Alexander" />
+  <lines>
+    <line lang1="- La signora Verdi rifà il letto?" someNumber="None" image="dg\032_001.gif" lang2="- Сеньора Верди заправляет постель?">
+      <audioTime in="267" out="2707" />
+    </line>
+    <line lang1="- No, lei non rifà il letto." someNumber="None" image="dg\032_001.gif" lang2="- Нет, она не заправляет постель.">
+      <audioTime in="2720" out="5637" />
+    </line>
+    <line lang1="- Cosa fa?" someNumber="None" image="dg\032_001.gif" lang2="- Что она делает?">
+      <audioTime in="5584" out="6889" />
+    </line>
+    <line lang1="- Batte a macchina una lettera." someNumber="None" image="dg\032_001.gif" lang2="- Она печатает письмо.">
+      <audioTime in="6791" out="9342" />
+    </line>
+    <line lang1="- Paolo si sta mettendo la camicia?" someNumber="None" image="dg\032_002.gif" lang2="- Паоло одевает свою сорочку?">
+      <audioTime in="9245" out="11952" />
+    </line>
+    <line lang1="- No, non si sta mettendo la camicia." someNumber="None" image="dg\032_002.gif" lang2="- Нет, он не одевает свою сорочку.">
+      <audioTime in="11907" out="15187" />
+    </line>
+    <line lang1="- Cosa sta facendo?" someNumber="None" image="dg\032_002.gif" lang2="- Что он делает?">
+      <audioTime in="15187" out="17014" />
+    </line>
+    <line lang1="- Sta leggendo una rivista." someNumber="None" image="dg\032_002.gif" lang2="- Он читает журнал.">
+      <audioTime in="16970" out="19050" />
+    </line>
+    <line lang1="- Il cane beve il latte?" someNumber="None" image="dg\032_003.gif" lang2="- Собака пьет своё молоко?">
+      <audioTime in="18946" out="21190" />
+    </line>
+    <line lang1="- No, non beve il latte." someNumber="None" image="dg\032_003.gif" lang2="- Нет, она не пьет своё молоко.">
+      <audioTime in="21190" out="23695" />
+    </line>
+    <line lang1="- Che cosa sta facendo?" someNumber="None" image="dg\032_003.gif" lang2="- Что она делает?">
+      <audioTime in="23695" out="25574" />
+    </line>
+    <line lang1="- Sta mangiando un osso." someNumber="None" image="dg\032_003.gif" lang2="- Она грызёт кость.">
+      <audioTime in="25522" out="27662" />
+    </line>
+    <line lang1="- Vostra sorella disfa la cesta?" someNumber="None" image="dg\032_004.gif" lang2="- Ваша сестра выбрасывает мусор?">
+      <audioTime in="27663" out="29954" />
+    </line>
+    <line lang1="- No, lei non disfa la cesta." someNumber="None" image="dg\032_004.gif" lang2="- Нет, она не выбрасывает мусор.">
+      <audioTime in="29995" out="33156" />
+    </line>
+    <line lang1="- Che cosa fa?" someNumber="None" image="dg\032_004.gif" lang2="- Что она делает?">
+      <audioTime in="33111" out="34376" />
+    </line>
+    <line lang1="- Guarda un quadro." someNumber="None" image="dg\032_004.gif" lang2="- Она смотрит на картину.">
+      <audioTime in="34351" out="36178" />
+    </line>
+    <line lang1="- Lucio si sta lavando i denti?" someNumber="None" image="dg\032_005.gif" lang2="- Лучио чистит свои зубы?">
+      <audioTime in="36037" out="38637" />
+    </line>
+    <line lang1="- No, non si sta lavando i denti." someNumber="90" image="dg\032_005.gif" lang2="- Нет, он не чистит свои зубы.">
+      <audioTime in="38566" out="41728" />
+    </line>
+    <line lang1="- Cosa sta facendo?" someNumber="900" image="dg\032_005.gif" lang2="- Что он делает?">
+      <audioTime in="41657" out="43415" />
+    </line>
+    <line lang1="- Sta temperando una matita." someNumber="None" image="dg\032_005.gif" lang2="- Он точит карандаш.">
+      <audioTime in="43369" out="45452" />
+    </line>
+    <line lang1="- La gatta sta mangiando?" someNumber="None" image="dg\032_006.gif" lang2="- Кошка кушает?">
+      <audioTime in="45382" out="47630" />
+    </line>
+    <line lang1="- No, non sta mangiando." someNumber="None" image="dg\032_006.gif" lang2="- Нет, она не кушает.">
+      <audioTime in="47630" out="50536" />
+    </line>
+    <line lang1="- Che cosa sta facendo?" someNumber="None" image="dg\032_006.gif" lang2="- Что она делает?">
+      <audioTime in="50320" out="52297" />
+    </line>
+    <line lang1="- Sta bevendo il latte." someNumber="None" image="dg\032_006.gif" lang2="- Она пьет своё молоко.">
+      <audioTime in="52292" out="54305" />
+    </line>
+    <line lang1="- Lucia sta spolverando la scrivania?" someNumber="None" image="dg\032_007.gif" lang2="- Лучия вытирает пыль с письменного стола?">
+      <audioTime in="54164" out="57255" />
+    </line>
+    <line lang1="- No, non sta spolverando la scrivania." someNumber="None" image="dg\032_007.gif" lang2="- Нет, она не вытирает пыль с письменного стола.">
+      <audioTime in="56975" out="60277" />
+    </line>
+    <line lang1="- Cosa sta facendo?" someNumber="None" image="dg\032_007.gif" lang2="- Что она делает?">
+      <audioTime in="59995" out="61893" />
+    </line>
+    <line lang1="- Sta chiudendo la porta." someNumber="None" image="dg\032_007.gif" lang2="- Она закрывает дверь.">
+      <audioTime in="61777" out="63930" />
+    </line>
+    <line lang1="- Il signor Righetti sta accendendo la luce?" someNumber="None" image="dg\032_008.gif" lang2="- Сеньор Ригетти включает свет?">
+      <audioTime in="63790" out="66952" />
+    </line>
+    <line lang1="- No, non sta accendendo la luce." someNumber="None" image="dg\032_008.gif" lang2="- Нет, он не включает свет.">
+      <audioTime in="66861" out="70113" />
+    </line>
+    <line lang1="- Cosa sta facendo?" someNumber="None" image="dg\032_008.gif" lang2="- Что он делает?">
+      <audioTime in="70113" out="71774" />
+    </line>
+    <line lang1="- Sta aprendo la finestra." someNumber="None" image="dg\032_008.gif" lang2="- Он открывает окно.">
+      <audioTime in="71704" out="73885" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="d_050.wav" dic="p050" dlgName="Он любит... но он не..." dlgFile="exr\dg049.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Mag Mary Tomaten?" someNumber="680" image="dg\050_001.gif" lang2="- Мэри любит помидоры?">
+      <audioTime in="211" out="2110" />
+    </line>
+    <line lang1="- Ja, sie #mag sie, aber sie #will gar keine." someNumber="330" image="dg\050_001.gif" lang2="- Да, она любит их, но она совсем не хочет.">
+      <audioTime in="2110" out="5496" />
+    </line>
+    <line lang1="#Magst du Kartoffeln?" someNumber="None" image="dg\050_002.gif" lang2="Ты любишь картофель?">
+      <audioTime in="5803" out="7385" />
+    </line>
+    <line lang1="- Ja, ich #mag sie, aber ich #will gar keine." someNumber="None" image="dg\050_002.gif" lang2="- Да, я люблю его, но я совсем не хочу.">
+      <audioTime in="7385" out="11133" />
+    </line>
+    <line lang1="- #Mag Hans Kohl?" someNumber="90" image="dg\050_003.gif" lang2="- Ганс любит капусту?">
+      <audioTime in="11133" out="13075" />
+    </line>
+    <line lang1="Ja, er #mag ihn, aber er #will gar keinen." someNumber="None" image="dg\050_003.gif" lang2="Да, он любит его, но он совсем не хочет.">
+      <audioTime in="13075" out="16281" />
+    </line>
+    <line lang1="- #Mag Hans Salat?" someNumber="None" image="dg\050_004.gif" lang2="- Ганс любит салат?">
+      <audioTime in="16459" out="18253" />
+    </line>
+    <line lang1="- Ja, er #mag ihn, aber er #will gar keinen." someNumber="None" image="dg\050_004.gif" lang2="- Да, он любит его, но он совсем не хочет.">
+      <audioTime in="18253" out="21865" />
+    </line>
+    <line lang1="#Mögen Sie Erbsen?" someNumber="90" image="dg\050_005.gif" lang2="Вы любите горох?">
+      <audioTime in="21865" out="23671" />
+    </line>
+    <line lang1="- Ja, ich #mag sie, aber ich #will gar keine." someNumber="None" image="dg\050_005.gif" lang2="- Да, я люблю его, но я совсем не хочу.">
+      <audioTime in="23671" out="27374" />
+    </line>
+    <line lang1="- #Mag Frau Müller Bohnen?" someNumber="None" image="dg\050_006.gif" lang2="- Госпожа Мюллер любит бобы?">
+      <audioTime in="27538" out="29647" />
+    </line>
+    <line lang1="Ja, sie #mag sie gern, aber sie #will gar keine." someNumber="None" image="dg\050_006.gif" lang2="Да, она любит их, но она совсем не хочет.">
+      <audioTime in="29647" out="33350" />
+    </line>
+    <line lang1="- #Magst du Bananen?" someNumber="None" image="dg\050_007.gif" lang2="- Ты любишь бананы?">
+      <audioTime in="33350" out="35382" />
+    </line>
+    <line lang1="- Ja, ich #mag sie, aber ich #will gar keine." someNumber="None" image="dg\050_007.gif" lang2="- Да, я люблю их, но я совсем не хочу.">
+      <audioTime in="35382" out="38904" />
+    </line>
+    <line lang1="#Mag Herr Richter Apfelsinen?" someNumber="None" image="dg\050_008.gif" lang2="Господин Рихтер любит апельсины?">
+      <audioTime in="38904" out="41388" />
+    </line>
+    <line lang1="- Ja, er #mag sie, aber er #will gar keine." someNumber="None" image="dg\050_008.gif" lang2="- Да, он любит их, но он совсем не хочет.">
+      <audioTime in="41464" out="46012" />
+    </line>
+    <line lang1="- #Mag Robert Äpfel?" someNumber="190" image="dg\050_009.gif" lang2="- Роберт любит яблоки?">
+      <audioTime in="46529" out="48533" />
+    </line>
+    <line lang1="Ja, er #mag sie, aber er #will gar keine." someNumber="None" image="dg\050_009.gif" lang2="Да, он любит их, но он совсем не хочет.">
+      <audioTime in="48534" out="51829" />
+    </line>
+    <line lang1="- #Mag Ilse Birnen?" someNumber="None" image="dg\050_010.gif" lang2="- Ильзе любит груши?">
+      <audioTime in="52121" out="53914" />
+    </line>
+    <line lang1="- Ja, sie #mag sie, aber sie #will gar keine." someNumber="960" image="dg\050_010.gif" lang2="- Да, она любит их, но она совсем не хочет.">
+      <audioTime in="53914" out="57481" />
+    </line>
+    <line lang1="#Magst du Trauben?" someNumber="None" image="dg\050_011.gif" lang2="Ты любишь виноград?">
+      <audioTime in="57481" out="59604" />
+    </line>
+    <line lang1="- Ja, ich #mag sie, aber ich #will gar keine." someNumber="None" image="dg\050_011.gif" lang2="- Да, я люблю его, но я совсем не хочу.">
+      <audioTime in="59604" out="63984" />
+    </line>
+    <line lang1="- #Mag Inge Pfirsiche?" someNumber="None" image="dg\050_012.gif" lang2="- Инге любит персики?">
+      <audioTime in="64255" out="66575" />
+    </line>
+    <line lang1="Ja, sie #mag sie, aber sie #will gar keine." someNumber="850" image="dg\050_012.gif" lang2="Да, она любит их, но она совсем не хочет.">
+      <audioTime in="66575" out="69781" />
+    </line>
+  </lines>
+</lesson>

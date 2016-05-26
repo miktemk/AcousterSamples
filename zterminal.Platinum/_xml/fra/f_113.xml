@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="f_113.wav" dic="p113" dlgName="Платите за проезд." dlgFile="exr\fg113.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Payez, s'il vous plaît." someNumber="50" image="dg\113_001.gif" lang2="- Платите (за проезд), пожалуйста.">
+      <audioTime in="0" out="1393" />
+    </line>
+    <line lang1="- La Place de la Concorde, s'il vous plaît." someNumber="50" image="dg\113_001.gif" lang2="- Площадь Согласия, пожалуйста.">
+      <audioTime in="1393" out="3594" />
+    </line>
+    <line lang1="- Excusez-moi, monsieur. Je ne peux pas changer ce billet de banque." someNumber="None" image="dg\113_001.gif" lang2="- Простите, сударь. Я не могу разменять эту банкноту.">
+      <audioTime in="3594" out="7179" />
+    </line>
+    <line lang1="Avez-vous de la monnaie?" someNumber="None" image="dg\113_001.gif" lang2="У вас есть какая-нибудь мелочь?">
+      <audioTime in="7179" out="8108" />
+    </line>
+    <line lang1="- Je n'ai aucune monnaie." someNumber="360" image="dg\113_001.gif" lang2="- У меня нет никакой мелочи.">
+      <audioTime in="8108" out="9786" />
+    </line>
+    <line lang1="Je vais demander aux passagers." someNumber="None" image="dg\113_002.gif" lang2="Я спрошу у пассажиров.">
+      <audioTime in="9786" out="11374" />
+    </line>
+    <line lang1="- Avez-vous de la monnaie, monsieur?" someNumber="None" image="dg\113_002.gif" lang2="- У вас есть какая-нибудь мелочь, господин.">
+      <audioTime in="11374" out="13341" />
+    </line>
+    <line lang1="- Désolé. Je n'en ai pas." someNumber="None" image="dg\113_002.gif" lang2="- Сожалею. У меня её нет.">
+      <audioTime in="13341" out="15151" />
+    </line>
+    <line lang1="- Je n'en ai pas non plus." someNumber="780" image="dg\113_002.gif" lang2="- У меня её также нет.">
+      <audioTime in="15151" out="16555" />
+    </line>
+    <line lang1="- Pouvez-vous changer ce billet de banque, madame?" someNumber="None" image="dg\113_003.gif" lang2="- Можете ли вы разменять эту банкноту, сударыня?">
+      <audioTime in="16555" out="20310" />
+    </line>
+    <line lang1="- Dommage, mais non." someNumber="None" image="dg\113_003.gif" lang2="- Сожалею, но нет.">
+      <audioTime in="20310" out="21974" />
+    </line>
+    <line lang1="- Moi non plus." someNumber="None" image="dg\113_003.gif" lang2="- Я тоже (не могу).">
+      <audioTime in="21974" out="23015" />
+    </line>
+    <line lang1="- Je regrette, monsieur, mais vous devez quitter l'autobus." someNumber="None" image="dg\113_004.gif" lang2="- Сожалею, господин, но вы должны покинуть автобус.">
+      <audioTime in="23015" out="25970" />
+    </line>
+    <line lang1="Personne ne peut changer ce billet de banque." someNumber="None" image="dg\113_004.gif" lang2="Никто не может разменять эту банкноту.">
+      <audioTime in="25970" out="27922" />
+    </line>
+    <line lang1="Ils sont tous millionnaires!" someNumber="210" image="dg\113_004.gif" lang2="Они все миллионеры!">
+      <audioTime in="27922" out="29155" />
+    </line>
+    <line lang1="- Sauf nous, conducteur. J'ai un peu de monnaie." someNumber="None" image="dg\113_005.gif" lang2="- Кроме нас, кондуктор. У меня есть немного мелочи.">
+      <audioTime in="29155" out="31928" />
+    </line>
+    <line lang1="- Moi aussi, j'en ai." someNumber="None" image="dg\113_005.gif" lang2="- У меня тоже есть.">
+      <audioTime in="31928" out="33243" />
+    </line>
+  </lines>
+</lesson>

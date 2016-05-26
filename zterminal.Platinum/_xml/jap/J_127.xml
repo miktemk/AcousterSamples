@@ -1,0 +1,104 @@
+<lesson>
+  <header wav="j_127.wav" dlgName="Письмо учителю" dic="p127" />
+  <lines>
+    <line lang1="１０月*１５日" someNumber="None" image="127_001.jpg" lang2="15 октября.">
+      <audioTime in="0" out="2599" />
+    </line>
+    <line lang1="豊田* 薫様" someNumber="167" image="127_001.jpg" lang2="Господину Тоеда Каору.">
+      <audioTime in="2599" out="4739" />
+    </line>
+    <line lang1="拝啓*" someNumber="300" image="127_001.jpg" lang2="Многоуважаемый Тоеда-сесей!">
+      <audioTime in="4739" out="7399" />
+    </line>
+    <line lang1="すっかり*秋*らしく*なって*まいりました*が、" someNumber="None" image="127_004.jpg" lang2="Уже совершенно осенняя погода,">
+      <audioTime in="7399" out="10108" />
+    </line>
+    <line lang1="お元気*に*お過ごし*の*こと*と*存じます。" someNumber="109" image="127_004.jpg" lang2="но полагаю, что Вы здоровы (несмотря на холодные дни).">
+      <audioTime in="10108" out="12705" />
+    </line>
+    <line lang1="先日*は、お忙しい中*私*の*ため*に*お時間*を*さいて*下さり、" someNumber="None" image="127_006.jpg" lang2="В прошлый раз, несмотря на занятость, вы уделили мне время">
+      <audioTime in="12705" out="19128" />
+    </line>
+    <line lang1="東京*地理*教育*研究会*の*例会*へ*お連れ*いただき、" someNumber="None" image="127_006.jpg" lang2="и проводили меня на очередное собрание Токийского географического образовательно-исследовательского общества,">
+      <audioTime in="19128" out="23782" />
+    </line>
+    <line lang1="誠*に*ありがとう*ございました。" someNumber="174" image="127_006.jpg" lang2="за что искренне благодарю Вас.">
+      <audioTime in="23782" out="25876" />
+    </line>
+    <line lang1="お蔭様*で*東京*の*歴史*の*話*を*うかがう*こと*が*でき、" someNumber="300" image="127_009.jpg" lang2="Благодаря Вам, я смогла послушать рассказы об истории Токио,">
+      <audioTime in="25876" out="30940" />
+    </line>
+    <line lang1="赤坂・六本木*を*見物する*こと*も*できました。" someNumber="None" image="127_010.jpg" lang2="а также совершить экскурсию по (кварталам Токио) Акасака и Роппонги.">
+      <audioTime in="30940" out="34769" />
+    </line>
+    <line lang1="以前、私*一人*で*六本木*へ*寄りました*が、" someNumber="None" image="127_011.jpg" lang2="Я и раньше ходила одна в Роппонги, но на этот раз,">
+      <audioTime in="34769" out="40005" />
+    </line>
+    <line lang1="この*たび*は*地理*の*先生方*に*ご案内*いただきまして、" someNumber="None" image="127_012.jpg" lang2="благодаря сопровождению преподавателей географии, и их многочисленным объяснениям,">
+      <audioTime in="40005" out="44090" />
+    </line>
+    <line lang1="本当*に*有益*で*興味深い*もの*を*見る*こと*が*できました。" someNumber="None" image="127_012.jpg" lang2="смогла увидеть много действительно полезного и глубоко интересного.">
+      <audioTime in="44090" out="47936" />
+    </line>
+    <line lang1="そして、先生方*から*私*の*研究*テーマ*に*ついて*ご示唆*を*いただいた*上、" someNumber="None" image="127_014.jpg" lang2="Кроме того, я получила советы от относительно своей исследовательской темы,">
+      <audioTime in="48187" out="55572" />
+    </line>
+    <line lang1="日本*事情*に*ついて*も*いろいろ*教えて*いただきました。" someNumber="None" image="127_015.jpg" lang2="и, сверх того, узнала многие факты японской действительности.">
+      <audioTime in="55572" out="59512" />
+    </line>
+    <line lang1="見物した*後、食事*まで*ご馳走*に*なりまして、" someNumber="109" image="127_016.jpg" lang2="После экскурсии я даже удостоилась угощения">
+      <audioTime in="59512" out="64576" />
+    </line>
+    <line lang1="本当*に*楽しい*時間*を*過ごしました。" someNumber="None" image="127_016.jpg" lang2="и очень приятно провела время.">
+      <audioTime in="64576" out="67380" />
+    </line>
+    <line lang1="私*は*日本語*能力*試験*を*受ける*こと*に*決めまして、" someNumber="None" image="127_018.jpg" lang2="Я решила сдавать экзамен на уровень знания японского языка">
+      <audioTime in="67380" out="74401" />
+    </line>
+    <line lang1="試験*の*準備*で*忙しく*しております*が、" someNumber="None" image="127_018.jpg" lang2="и занята подготовкой к экзамену,">
+      <audioTime in="74401" out="77110" />
+    </line>
+    <line lang1="それ*が*すみましたら、いつか*また*皆様方*の*例会*に*うかがいたい*と*思います。" someNumber="93" image="127_020.jpg" lang2="но когда это закончится, хотелось бы ещё когда-нибудь посетить Ваше очередное собрание.">
+      <audioTime in="77110" out="83090" />
+    </line>
+    <line lang1="その際*は*また*お電話*いたします。" someNumber="None" image="127_021.jpg" lang2="В таком случае я позвоню Вам по телефону.">
+      <audioTime in="83090" out="86288" />
+    </line>
+    <line lang1="同封*いたしました*写真*は*この*前*の*例会*の*時*撮った*もの*です。" someNumber="None" image="127_022.jpg" lang2="Фотографии, вложенные в конверт, - это те, что я сняла на прошедшем очередном собрании.">
+      <audioTime in="86288" out="91872" />
+    </line>
+    <line lang1="お手数*と*は*存じます*が、" someNumber="109" image="127_023.jpg" lang2="Знаю, что доставляю Вам хлопоты,">
+      <audioTime in="91872" out="94424" />
+    </line>
+    <line lang1="写真*を*皆様方*に*お渡し*いただきたく*お願い*いたします。" someNumber="None" image="127_023.jpg" lang2="но прошу передать фотографии всем.">
+      <audioTime in="94424" out="98916" />
+    </line>
+    <line lang1="先生*に*おかれまして*は*教科書*の*作成*で*お忙しい*こと*と*存じます*が、" someNumber="None" image="127_025.jpg" lang2="Я знаю, что Вы очень заняты работой над созданием учебника,">
+      <audioTime in="98916" out="105292" />
+    </line>
+    <line lang1="今後*と*も*よろしく*ご指導*下さいます*よう、お願い*申し上げます。" someNumber="None" image="127_025.jpg" lang2="но прошу Вас направлять меня и в дальнейшем.">
+      <audioTime in="105292" out="110086" />
+    </line>
+    <line lang1="どうぞ*お体*を*お大事*に*なさって*下さい。" someNumber="None" image="127_025.jpg" lang2="Пожалуйста, следите за своим здоровьем.">
+      <audioTime in="110086" out="114880" />
+    </line>
+    <line lang1="敬具" someNumber="None" image="127_028.jpg" lang2="С глубоким уважением">
+      <audioTime in="114880" out="117069" />
+    </line>
+    <line lang1="イリナ パノワ" someNumber="None" image="127_028.jpg" lang2="Ирина Панова">
+      <audioTime in="117069" out="119606" />
+    </line>
+    <line lang1="〒１２１-０００４ 東京都*足立区*保木間* ３丁目*２８番*１４号" someNumber="None" image="127_030.jpg" lang2="Т 121-0004, г. Токио, район Адати, Хогима, квартал 3, дом номер 26, кв. 14">
+      <audioTime in="119606" out="136104" />
+    </line>
+    <line lang1="豊田* 薫様" someNumber="None" image="127_030.jpg" lang2="Господину Тоеда Каору">
+      <audioTime in="136104" out="138071" />
+    </line>
+    <line lang1="〒３３６-０００２ 埼玉県*浦和市*北浦和* ８丁目 ６番 ３６号" someNumber="None" image="127_032.jpg" lang2="Т 336-0002, префектура Сайтама, г. Урава, Кита-Урава, квартал 8, дом номер 6, кв. 36">
+      <audioTime in="138388" out="156721" />
+    </line>
+    <line lang1="イリナ パノワ" someNumber="None" image="127_032.jpg" lang2="Ирина Панова">
+      <audioTime in="156721" out="158135" />
+    </line>
+  </lines>
+</lesson>

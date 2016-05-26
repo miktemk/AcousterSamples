@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="d_032.wav" dic="p032" dlgName="Что он (она) делает?" dlgFile="exr\dg031.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Macht Fräulein Gertrud das Bett?" someNumber="160" image="dg\032_001.gif" lang2="- Фрейлейн Гертруд убирает постель?">
+      <audioTime in="0" out="2389" />
+    </line>
+    <line lang1="- Nein, Sie #macht nicht das Bett." someNumber="950" image="dg\032_001.gif" lang2="- Нет, она не убирает постель.">
+      <audioTime in="2701" out="5297" />
+    </line>
+    <line lang1="- Was #macht Sie?" someNumber="None" image="dg\032_001.gif" lang2="- Что она делает?">
+      <audioTime in="5504" out="6647" />
+    </line>
+    <line lang1="- Sie #tippt einen Brief." someNumber="None" image="dg\032_001.gif" lang2="- Oна печатает письмо.">
+      <audioTime in="6647" out="8413" />
+    </line>
+    <line lang1="- #1Zieht Hans sein Hemd #2an?" someNumber="None" image="dg\032_002.gif" lang2="- Ганс одевает свою сорочку?">
+      <audioTime in="8828" out="11113" />
+    </line>
+    <line lang1="- Nein, er #1zieht sein Hemd nicht #2an." someNumber="950" image="dg\032_002.gif" lang2="- Нет, он не одевает свою сорочку.">
+      <audioTime in="11113" out="13710" />
+    </line>
+    <line lang1="- Was #macht er?" someNumber="None" image="dg\032_002.gif" lang2="- Что он делает?">
+      <audioTime in="13814" out="15268" />
+    </line>
+    <line lang1="- Er #liest eine Zeitschrift." someNumber="550" image="dg\032_002.gif" lang2="- Он читает журнал.">
+      <audioTime in="15164" out="17138" />
+    </line>
+    <line lang1="- #Trinkt der Hund seine Milch?" someNumber="None" image="dg\032_003.gif" lang2="- Собака лакает своё молоко?">
+      <audioTime in="17761" out="19839" />
+    </line>
+    <line lang1="- Nein, er #trinkt seine Milch nicht." someNumber="None" image="dg\032_003.gif" lang2="- Нет, она не лакает своё молоко.">
+      <audioTime in="19942" out="22539" />
+    </line>
+    <line lang1="- Was #macht er?" someNumber="None" image="dg\032_003.gif" lang2="- Что она делает?">
+      <audioTime in="22643" out="23890" />
+    </line>
+    <line lang1="- Er #nagt an einem Knochen." someNumber="810" image="dg\032_003.gif" lang2="- Она грызёт кость.">
+      <audioTime in="23785" out="26278" />
+    </line>
+    <line lang1="- #1Macht ihre Schwester den Korb #2leer?" someNumber="200" image="dg\032_004.gif" lang2="- Ваша сестра опустошает корзину?">
+      <audioTime in="27006" out="29395" />
+    </line>
+    <line lang1="- Nein, sie #1macht ihn nicht #2leer." someNumber="None" image="dg\032_004.gif" lang2="- Нет, она не опустошает её.">
+      <audioTime in="29498" out="31784" />
+    </line>
+    <line lang1="- Was #macht sie?" someNumber="None" image="dg\032_004.gif" lang2="- Что она делает?">
+      <audioTime in="31888" out="33134" />
+    </line>
+    <line lang1="- Sie #1schaut ein Bild #2an." someNumber="None" image="dg\032_004.gif" lang2="- Она смотрит картину.">
+      <audioTime in="33238" out="34692" />
+    </line>
+    <line lang1="- #Putzt Hans seine Zähne?" someNumber="None" image="dg\032_005.gif" lang2="- Ганс чистит свои зубы?">
+      <audioTime in="34692" out="36562" />
+    </line>
+    <line lang1="- Nein, er #putzt seine Zähne nicht." someNumber="None" image="dg\032_005.gif" lang2="- Нет, он не чистит свои зубы.">
+      <audioTime in="36562" out="39262" />
+    </line>
+    <line lang1="- Was #macht er?" someNumber="None" image="dg\032_005.gif" lang2="- Что он делает?">
+      <audioTime in="39470" out="40924" />
+    </line>
+    <line lang1="- Er #spitzt seinen Bleistift." someNumber="510" image="dg\032_005.gif" lang2="- Он точит свой карандаш.">
+      <audioTime in="40924" out="43001" />
+    </line>
+    <line lang1="- #Isst die Katze?" someNumber="150" image="dg\032_006.gif" lang2="- Кошка ест?">
+      <audioTime in="43417" out="45183" />
+    </line>
+    <line lang1="- Nein, sie #isst nicht." someNumber="None" image="dg\032_006.gif" lang2="- Нет, она не ест.">
+      <audioTime in="45286" out="47468" />
+    </line>
+    <line lang1="- Was #macht sie?" someNumber="None" image="dg\032_006.gif" lang2="- Что она делает?">
+      <audioTime in="47676" out="48714" />
+    </line>
+    <line lang1="- Sie #trinkt ihre Milch." someNumber="None" image="dg\032_006.gif" lang2="- Она лакает своё молоко.">
+      <audioTime in="48818" out="50896" />
+    </line>
+    <line lang1="- Wischt Alice den Staub vom Schreibtisch?" someNumber="None" image="dg\032_007.gif" lang2="- Алис вытирает пыль с письменного стола?">
+      <audioTime in="50999" out="54220" />
+    </line>
+    <line lang1="- Nein, sie #wischt den Staub vom Schreibtisch nicht." someNumber="None" image="dg\032_007.gif" lang2="- Нет, она не вытирает пыль с письменного стола.">
+      <audioTime in="54427" out="57958" />
+    </line>
+    <line lang1="- Was #macht sie?" someNumber="None" image="dg\032_007.gif" lang2="- Что она делает?">
+      <audioTime in="57855" out="59101" />
+    </line>
+    <line lang1="- Sie #1macht die Tür #2zu." someNumber="330" image="dg\032_007.gif" lang2="- Она закрывает дверь.">
+      <audioTime in="58998" out="60763" />
+    </line>
+    <line lang1="- #1Macht Herr Müller das Licht #2an?" someNumber="None" image="dg\032_008.gif" lang2="- Господин Мюллер включает свет?">
+      <audioTime in="61179" out="63256" />
+    </line>
+    <line lang1="- Nein, er #1macht das Licht nicht #2an." someNumber="None" image="dg\032_008.gif" lang2="- Нет, он не включает свет.">
+      <audioTime in="63360" out="65541" />
+    </line>
+    <line lang1="- Was #macht er?" someNumber="None" image="dg\032_008.gif" lang2="- Что он делает?">
+      <audioTime in="65437" out="66684" />
+    </line>
+    <line lang1="- Er #1macht das Fenster #2auf." someNumber="None" image="dg\032_008.gif" lang2="- Он открывает окно.">
+      <audioTime in="66684" out="68450" />
+    </line>
+  </lines>
+</lesson>

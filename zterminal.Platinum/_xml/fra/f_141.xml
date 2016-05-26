@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="f_141.wav" dic="p141" dlgName="В купе." dlgFile="exr\fg140.txt" author="Alexander" />
+  <lines>
+    <line lang1="La semaine dernière, Hélène, ma fille de 4 ans, a été invitée à une soirée." someNumber="200" image="dg\141_001.gif" lang2="На прошлой неделе моя четырехлетняя дочь Элен была приглашена на детскую вечеринку.">
+      <audioTime in="0" out="5319" />
+    </line>
+    <line lang1="J'ai décidé de l'emmener en train." someNumber="None" image="dg\141_001.gif" lang2="Я решила отвезти её на поезде.">
+      <audioTime in="5319" out="6964" />
+    </line>
+    <line lang1="Hélène était très inquiète, parce qu'elle n'a jamais voyagé en train." someNumber="None" image="dg\141_001.gif" lang2="Элен была очень взволнована, потому что она никогда не путешествовала на поезде.">
+      <audioTime in="6964" out="11308" />
+    </line>
+    <line lang1="Elle était assise près de la fenêtre et posait des questions sur tout ce qu'elle voyait." someNumber="810" image="dg\141_001.gif" lang2="Она сидела около окна и задавала вопросы обо всём, что она видела.">
+      <audioTime in="11308" out="17119" />
+    </line>
+    <line lang1="Soudain, une femme d'âge moyen est entrée dans le compartiment" someNumber="None" image="dg\141_001.gif" lang2="Вдруг женщина средних лет вошла в наше купе">
+      <audioTime in="17119" out="22301" />
+    </line>
+    <line lang1="et a pris place en face d'Hélène." someNumber="None" image="dg\141_001.gif" lang2="и села напротив Элен.">
+      <audioTime in="22301" out="24395" />
+    </line>
+    <line lang1="&quot;Bonjour, ma petite&quot; a-t-elle dit." someNumber="None" image="dg\141_001.gif" lang2="&quot;Привет, малышка&quot;, - сказала она. Элен не ответила, но посмотрела на неё с любопытством.">
+      <audioTime in="24395" out="27478" />
+    </line>
+    <line lang1="Hélène n'a pas répondu, mais elle la regardait avec curiosité." someNumber="None" image="dg\141_001.gif" lang2="Элен не ответила, но посмотрела на неё с любопытством.">
+      <audioTime in="27478" out="31998" />
+    </line>
+    <line lang1="La femme était vêtue d'un manteau bleu et portait un grand chapeau assez ridicule." someNumber="350" image="dg\141_001.gif" lang2="Женщина была одета в голубое пальто и большую шляпу, довольно смешную.">
+      <audioTime in="31998" out="37645" />
+    </line>
+    <line lang1="Quand le train s'est éloigné de la station," someNumber="None" image="dg\141_001.gif" lang2="После того, как поезд отошел от станции,">
+      <audioTime in="37645" out="40321" />
+    </line>
+    <line lang1="la femme a ouvert son sac et elle a sorti un poudrier." someNumber="None" image="dg\141_001.gif" lang2="дама открыла свою сумочку и вынула оттуда свою пудреницу.">
+      <audioTime in="40321" out="44759" />
+    </line>
+    <line lang1="Puis elle a commencé à se poudrer." someNumber="None" image="dg\141_001.gif" lang2="Затем она начала пудриться.">
+      <audioTime in="44759" out="46875" />
+    </line>
+    <line lang1="&quot;Pourquoi faites-vous ça?&quot; a dit Hélène." someNumber="680" image="dg\141_001.gif" lang2="&quot;Зачем вы это делаете?&quot; - спросила Элен.">
+      <audioTime in="46875" out="49262" />
+    </line>
+    <line lang1="&quot;Pour être plus belle&quot; a répondu la femme." someNumber="None" image="dg\141_001.gif" lang2="&quot;Чтобы стать красивее&quot; - ответила женщина.">
+      <audioTime in="49262" out="52124" />
+    </line>
+    <line lang1="Elle a caché son poudrier en souriant." someNumber="None" image="dg\141_001.gif" lang2="Она убрала свою пудреницу, улыбаясь.">
+      <audioTime in="52124" out="54444" />
+    </line>
+    <line lang1="&quot;Mais vous êtes restée laide&quot; a dit Hélène." someNumber="None" image="dg\141_001.gif" lang2="&quot;Но вы остались некрасивой&quot; - сказала Элен.">
+      <audioTime in="54444" out="57170" />
+    </line>
+    <line lang1="Hélène plaisantait et moi j'étais confuse." someNumber="460" image="dg\141_001.gif" lang2="Элен шутила, а я была очень смущена!">
+      <audioTime in="57170" out="59761" />
+    </line>
+  </lines>
+</lesson>

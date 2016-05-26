@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="j_056.wav" dlgName="Не курите здесь!" dic="p056" />
+  <lines>
+    <line lang1="ー映画館*で*アイスクリーム*を*食べないで*下さい。" someNumber="083" image="056_001.jpg" lang2="- Не ешьте мороженого в кинотеатре!">
+      <audioTime in="0" out="4524" />
+    </line>
+    <line lang1="ホール*で*食べて*下さい。" someNumber="07" image="056_002.jpg" lang2="Ешьте в фойе.">
+      <audioTime in="4524" out="6852" />
+    </line>
+    <line lang1="ーこの*部屋*は*子供*が*寝る*ので、" someNumber="154" image="056_003.jpg" lang2="- Так как в этой комнате спят дети,">
+      <audioTime in="6770" out="11239" />
+    </line>
+    <line lang1="タバコ*を*吸わないで*下さい。" someNumber="None" image="056_003.jpg" lang2="не курите здесь!">
+      <audioTime in="11239" out="13189" />
+    </line>
+    <line lang1="―はくぶつ館*で*しゃしん*を*とらないで*下さい。" someNumber="083" image="056_005.jpg" lang2="- Не фотографируйте в музее!">
+      <audioTime in="13189" out="18047" />
+    </line>
+    <line lang1="ーここ*に*ごみ*を*すてないで*下さい。" someNumber="None" image="056_006.jpg" lang2="- Не выбрасывайте сюда мусор!">
+      <audioTime in="18047" out="22240" />
+    </line>
+    <line lang1="あそこ*の*ごみばこ*に*すてて*下さい。" someNumber="None" image="056_007.jpg" lang2="Бросайте в тот мусорный ящик.">
+      <audioTime in="22240" out="25497" />
+    </line>
+    <line lang1="ーここ*に*車*を*止めないで*下さい。" someNumber="None" image="056_008.jpg" lang2="- Не паркуйте здесь машину!">
+      <audioTime in="25497" out="29501" />
+    </line>
+    <line lang1="駐車場*は*あそこ*です。" someNumber="None" image="056_009.jpg" lang2="Стоянка вон там.">
+      <audioTime in="29501" out="31873" />
+    </line>
+    <line lang1="ーすみません、ちょっと*着がえます*から、" someNumber="163" image="056_010.jpg" lang2="- Простите! (Я) переодеваюсь,">
+      <audioTime in="32257" out="36573" />
+    </line>
+    <line lang1="しばらく*部屋*に*入らないで*下さい。" someNumber="None" image="056_010.jpg" lang2="поэтому некоторое время не входите в комнату.">
+      <audioTime in="36573" out="39314" />
+    </line>
+    <line lang1="ーしけん*です*から、じしょ*を*つかわないで*下さい。" someNumber="None" image="056_012.jpg" lang2="- Так как (сейчас) экзамен, не пользуйтесь словарем.">
+      <audioTime in="39314" out="44754" />
+    </line>
+    <line lang1="友だち*と*話さないで*下さい。" someNumber="None" image="056_013.jpg" lang2="Не переговаривайтесь друг с другом.">
+      <audioTime in="44754" out="47680" />
+    </line>
+    <line lang1="分からない*こと*は*私*に*聞いて*下さい。" someNumber="144" image="056_014.jpg" lang2="Если что-то непонятно, спросите меня.">
+      <audioTime in="47680" out="51497" />
+    </line>
+    <line lang1="―また*何*も*食べないで*出かけます*か。" someNumber="75" image="056_015.jpg" lang2="- Снова выходишь, ничего не поев?">
+      <audioTime in="51497" out="58012" />
+    </line>
+    <line lang1="それ*は*いけません。" someNumber="128" image="056_016.jpg" lang2="Так не годится!">
+      <audioTime in="58012" out="60230" />
+    </line>
+    <line lang1="―すみません、ふうとう*やはがき*は*どこ*で*売っています*か。　　" someNumber="76" image="056_017.jpg" lang2="- Простите, где продают конверты и открытки?">
+      <audioTime in="60230" out="66982" />
+    </line>
+    <line lang1="ーふうとう*は*ゆうびんきょく*で*売っていません。" someNumber="None" image="056_018.jpg" lang2="- Конверты на почте не продаются.">
+      <audioTime in="66982" out="72029" />
+    </line>
+    <line lang1="ぶんぼうぐ屋*で*売っています。" someNumber="None" image="056_019.jpg" lang2="(Они) продаются в отделах канцелярских товаров.">
+      <audioTime in="72380" out="74412" />
+    </line>
+    <line lang1="はがき*は*あの*窓口*で*売っています。" someNumber="None" image="056_020.jpg" lang2="Открытки продаются в том окошке.">
+      <audioTime in="74412" out="77928" />
+    </line>
+    <line lang1="―ありがとう*ございました。" someNumber="None" image="056_021.jpg" lang2="- Большое спасибо.">
+      <audioTime in="77928" out="79563" />
+    </line>
+    <line lang1="すみません、はがき*を*一まい*下さい。" someNumber="None" image="056_022.jpg" lang2="Простите, дайте одну открытку.">
+      <audioTime in="79563" out="83853" />
+    </line>
+    <line lang1="住所*を*かたかな*で*書いて*も*いい*です*か。" someNumber="090" image="056_023.jpg" lang2="Адрес можно написать катаканой?">
+      <audioTime in="83853" out="87051" />
+    </line>
+    <line lang1="―どこ*へ*送ります*か。" someNumber="None" image="056_024.jpg" lang2="- Куда будете посылать?">
+      <audioTime in="87051" out="89697" />
+    </line>
+    <line lang1="―ブラジル*です。" someNumber="None" image="056_025.jpg" lang2="- В Бразилию.">
+      <audioTime in="89697" out="90984" />
+    </line>
+    <line lang1="―かたかな*で*書かないで*下さい。ローマ字*で*書いて*下さい。" someNumber="None" image="056_026.jpg" lang2="- Не пишите катаканой. Пишите латиницей.">
+      <audioTime in="90984" out="96379" />
+    </line>
+    <line lang1="それ*から*７０円*の*切手*を*はって*ください。" someNumber="None" image="056_027.jpg" lang2="Затем приклейте марку в 70 иен.">
+      <audioTime in="96379" out="100429" />
+    </line>
+    <line lang1="ーこれ*で*いい*です*か。" someNumber="None" image="056_028.jpg" lang2="- Так правильно?">
+      <audioTime in="100393" out="102200" />
+    </line>
+    <line lang1="ーけっこう*です。" someNumber="None" image="056_028.jpg" lang2="- Прекрасно.">
+      <audioTime in="102200" out="103438" />
+    </line>
+    <line lang1="あの*ポスト*に*入れて*下さい。" someNumber="None" image="056_030.jpg" lang2="Опустите в тот почтовый ящик.">
+      <audioTime in="103438" out="106414" />
+    </line>
+  </lines>
+</lesson>

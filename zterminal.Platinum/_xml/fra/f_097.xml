@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="f_097.wav" dic="p097" dlgName="В камере хранения." dlgFile="exr\fg097.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Il y a quelques jours, j'ai laissé ma valise dans le train de Londres." someNumber="680" image="dg\097_001.gif" lang2="- Несколько дней назад я оставил свой чемодан в лондонском поезде.">
+      <audioTime in="0" out="3467" />
+    </line>
+    <line lang1="- Pouvez-vous la décrire, monsieur?" someNumber="None" image="dg\097_001.gif" lang2="- Вы можете его описать, сударь?">
+      <audioTime in="3467" out="4996" />
+    </line>
+    <line lang1="- C'est une petite valise bleue avec une fermeture éclair." someNumber="None" image="dg\097_002.gif" lang2="- Это маленький голубой чемоданчик на молнии.">
+      <audioTime in="4996" out="8400" />
+    </line>
+    <line lang1="Sur la poignée il y a une étiquette avec mon nom et mon adresse." someNumber="350" image="dg\097_002.gif" lang2="На ручке привязан ярлык с моим именем и адресом.">
+      <audioTime in="8400" out="11675" />
+    </line>
+    <line lang1="- Est-ce votre valise?" someNumber="None" image="dg\097_003.gif" lang2="- Этот чемодан ваш?">
+      <audioTime in="11675" out="13042" />
+    </line>
+    <line lang1="- Non, ce n'est pas la mienne." someNumber="None" image="dg\097_003.gif" lang2="- Нет не мой.">
+      <audioTime in="13042" out="14758" />
+    </line>
+    <line lang1="- Que diriez-vous de celle-ci? Elle a une étiquette." someNumber="60" image="dg\097_004.gif" lang2="- Что вы скажете насчёт этого? У этого есть ярлык.">
+      <audioTime in="14758" out="17265" />
+    </line>
+    <line lang1="- Puis-je la regarder?" someNumber="None" image="dg\097_004.gif" lang2="- Могу ли я его посмотреть?">
+      <audioTime in="17265" out="18235" />
+    </line>
+    <line lang1="- Quelle est votre adresse et votre nom?" someNumber="None" image="dg\097_004.gif" lang2="- Каков ваш адрес и фамилия?">
+      <audioTime in="18235" out="20166" />
+    </line>
+    <line lang1="- Henri Collet. 83, rue Croisset." someNumber="90" image="dg\097_005.gif" lang2="- Анри Колле, 83, улица Круассэ.">
+      <audioTime in="20166" out="22865" />
+    </line>
+    <line lang1="- Justement. Henri Collet. 83, rue Croisset." someNumber="None" image="dg\097_005.gif" lang2="- Точно. Анри Колле, 83, улица Круассэ.">
+      <audioTime in="22865" out="26268" />
+    </line>
+    <line lang1="- 15 francs, s'il vous plaît." someNumber="None" image="dg\097_006.gif" lang2="- 15 франков, пожалуйста.">
+      <audioTime in="26268" out="27777" />
+    </line>
+    <line lang1="- Les voilà." someNumber="None" image="dg\097_006.gif" lang2="- Вот они.">
+      <audioTime in="27777" out="28872" />
+    </line>
+    <line lang1="- Merci." someNumber="None" image="dg\097_006.gif" lang2="- Спасибо.">
+      <audioTime in="28872" out="29671" />
+    </line>
+    <line lang1="- Oh, monsieur." someNumber="870" image="dg\097_007.gif" lang2="- О, сударь.">
+      <audioTime in="29671" out="30614" />
+    </line>
+    <line lang1="- Qu'est-ce qu-il y a?" someNumber="870" image="dg\097_007.gif" lang2="- В чем дело?">
+      <audioTime in="30614" out="31154" />
+    </line>
+    <line lang1="- Ce n'est pas ma valise. Vous m'avez donné une autre valise." someNumber="None" image="dg\097_008.gif" lang2="- Это не мой чемодан. Вы мне дали другой чемодан!">
+      <audioTime in="31154" out="34301" />
+    </line>
+  </lines>
+</lesson>

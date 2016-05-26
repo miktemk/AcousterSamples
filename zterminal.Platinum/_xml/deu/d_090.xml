@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="d_090.wav" dic="p090" dlgName="Вы уже... " dlgFile="exr\dg089.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Haben Sie dieses Buch vorige Woche #gelesen?" someNumber="370" image="dg\090_001.gif" lang2="- Читали ли Вы эту книгу на прошлой неделе?">
+      <audioTime in="941" out="4036" />
+    </line>
+    <line lang1="- Ja, ich #habe es vorige Woche #gelesen." someNumber="660" image="dg\090_001.gif" lang2="- Да, я читал эту книгу на прошлой неделе.">
+      <audioTime in="3901" out="6861" />
+    </line>
+    <line lang1="- Und Monika?" someNumber="None" image="dg\090_001.gif" lang2="- А Моника?">
+      <audioTime in="6861" out="8073" />
+    </line>
+    <line lang1="- Sie #hat dieses Buch noch nicht #gelesen." someNumber="None" image="dg\090_001.gif" lang2="- Она пока ещё этой книги не читала.">
+      <audioTime in="8207" out="10360" />
+    </line>
+    <line lang1="- #Hast du gestern Abend deine Hausaufgaben #gemacht?" someNumber="None" image="dg\090_002.gif" lang2="- Выполнил ли ты свои домашние задания вчера вечером?">
+      <audioTime in="10898" out="13724" />
+    </line>
+    <line lang1="- Ja, ich #habe gestern Abend meine Hausaufgaben #gemacht." someNumber="None" image="dg\090_002.gif" lang2="- Да, я выполнил свои домашние задания вчера вечером.">
+      <audioTime in="13724" out="17222" />
+    </line>
+    <line lang1="- Und Ralf?" someNumber="None" image="dg\090_002.gif" lang2="- А Ральф?">
+      <audioTime in="17222" out="18350" />
+    </line>
+    <line lang1="- Er #hat seine Hausaufgaben noch nicht #gemacht." someNumber="340" image="dg\090_002.gif" lang2="- Он пока ещё свои домашние задания не выполнил.">
+      <audioTime in="18350" out="20925" />
+    </line>
+    <line lang1="- #Bist du vorige Woche durch den Fluss #geschwommen?" someNumber="None" image="dg\090_003.gif" lang2="- Переплыл ли ты через реку на прошлой неделе?">
+      <audioTime in="20990" out="23950" />
+    </line>
+    <line lang1="- Ja, ich #bin vorige Woche durch den Fluss #geschwommen." someNumber="None" image="dg\090_003.gif" lang2="- Да, я переплыл через реку на прошлой неделе.">
+      <audioTime in="23950" out="27380" />
+    </line>
+    <line lang1="- Und Ralf und Petra?" someNumber="None" image="dg\090_003.gif" lang2="- А Ральф и Петра?">
+      <audioTime in="27381" out="29188" />
+    </line>
+    <line lang1="- Sie #sind noch nicht durch den Fluss #geschwommen." someNumber="800" image="dg\090_003.gif" lang2="- Они пока ещё через реку не переплыли.">
+      <audioTime in="29188" out="31851" />
+    </line>
+    <line lang1="- #Sind Sie gestern nach London #gefahren?" someNumber="None" image="dg\090_004.gif" lang2="- Ездили ли Вы в Лондон вчера?">
+      <audioTime in="32426" out="34983" />
+    </line>
+    <line lang1="- Ja, ich #bin gestern nach London #gefahren." someNumber="None" image="dg\090_004.gif" lang2="- Да, я ездил в Лондон вчера.">
+      <audioTime in="34983" out="37917" />
+    </line>
+    <line lang1="- Und Ihre Mutter?" someNumber="None" image="dg\090_004.gif" lang2="- А Ваша мать?">
+      <audioTime in="37918" out="39272" />
+    </line>
+    <line lang1="- Sie #ist noch nicht nach London #gefahren." someNumber="580" image="dg\090_004.gif" lang2="- Она пока ещё в Лондон не ездила.">
+      <audioTime in="39557" out="41979" />
+    </line>
+    <line lang1="- #Haben Sie sich diesen Film vorige Woche #angesehen?" someNumber="None" image="dg\090_005.gif" lang2="- Видел ли ты этот фильм на прошлой неделе?">
+      <audioTime in="42248" out="45612" />
+    </line>
+    <line lang1="- Ja, ich #habe mir diesen Film vorige Woche #angesehen." someNumber="None" image="dg\090_005.gif" lang2="- Да, я видел этот фильм на прошлой неделе.">
+      <audioTime in="45746" out="49379" />
+    </line>
+    <line lang1="- Und die Kinder?" someNumber="190" image="dg\090_005.gif" lang2="- А дети?">
+      <audioTime in="49514" out="50860" />
+    </line>
+    <line lang1="- Sie #haben sich diesen Film noch nicht #angesehen." someNumber="None" image="dg\090_005.gif" lang2="- Они пока ещё этот фильм не видели.">
+      <audioTime in="50860" out="53820" />
+    </line>
+    <line lang1="- #Hast du heute früh mit deinem Chef #gesprochen?" someNumber="None" image="dg\090_006.gif" lang2="- Поговорил ли ты со своим шефом сегодня утром?">
+      <audioTime in="53954" out="57048" />
+    </line>
+    <line lang1="- Ja, ich #habe heute früh mit meinem Chef #gesprochen." someNumber="None" image="dg\090_006.gif" lang2="- Да, я поговорил со своим шефом сегодня утром.">
+      <audioTime in="57183" out="60413" />
+    </line>
+    <line lang1="- Und Herr Braun?" someNumber="None" image="dg\090_006.gif" lang2="- А господин Браун?">
+      <audioTime in="60413" out="62162" />
+    </line>
+    <line lang1="- Er #hat mit seinem Chef noch nicht #gesprochen." someNumber="790" image="dg\090_006.gif" lang2="- Он пока ещё со своим шефом не говорил.">
+      <audioTime in="62162" out="64690" />
+    </line>
+    <line lang1="- #Hast du deinen Mantel vor einer Minute #angezogen?" someNumber="None" image="dg\090_007.gif" lang2="- Одел ли ты своё пальто минуту тому назад?">
+      <audioTime in="64717" out="68350" />
+    </line>
+    <line lang1="- Ja, ich #habe meinen Mantel vor einer Minute #angezogen." someNumber="None" image="dg\090_007.gif" lang2="- Да, я одел своё пальто минуту тому назад.">
+      <audioTime in="68350" out="72188" />
+    </line>
+    <line lang1="- Und Martin?" someNumber="None" image="dg\090_007.gif" lang2="- А Мартин?">
+      <audioTime in="72188" out="73950" />
+    </line>
+    <line lang1="- Martin #hat seinen Mantel noch nicht #angezogen." someNumber="950" image="dg\090_007.gif" lang2="- Мартин пока ещё своё пальто не одел.">
+      <audioTime in="73950" out="76794" />
+    </line>
+    <line lang1="- #Hast du deine Arznei heute früh #eingenommen?" someNumber="None" image="dg\090_008.gif" lang2="- Принял ли ты своё лекарство сегодня утром?">
+      <audioTime in="76794" out="80723" />
+    </line>
+    <line lang1="- Ja, ich #habe meine Arznei heute früh #eingenommen." someNumber="None" image="dg\090_008.gif" lang2="- Да, я принял своё лекарство сегодня утром.">
+      <audioTime in="80723" out="84876" />
+    </line>
+    <line lang1="- Und Monika?" someNumber="None" image="dg\090_008.gif" lang2="- А Моника?">
+      <audioTime in="84876" out="86502" />
+    </line>
+    <line lang1="- Sie #hat ihre Arznei noch nicht #eingenommen." someNumber="900" image="dg\090_008.gif" lang2="- Она пока ещё своё лекарство не приняла.">
+      <audioTime in="86502" out="88940" />
+    </line>
+  </lines>
+</lesson>

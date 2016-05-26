@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_080.wav" dic="p080" dlgName="У Вас есть?.." dlgFile="exr\dg079.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Haben Sie etwas?" someNumber="380" image="dg\080_001.gif" lang2="- Есть у Вас сколько-нибудь?">
+      <audioTime in="453" out="2267" />
+    </line>
+    <line lang1="- Ich #brauche viel Käse." someNumber="None" image="dg\080_001.gif" lang2="- Мне нужно много сыра.">
+      <audioTime in="2419" out="4384" />
+    </line>
+    <line lang1="Ich #habe wenig." someNumber="None" image="dg\080_001.gif" lang2="У меня мало.">
+      <audioTime in="4460" out="5820" />
+    </line>
+    <line lang1="- #Hat er einige?" someNumber="None" image="dg\080_002.gif" lang2="- Есть у него сколько-нибудь?">
+      <audioTime in="5895" out="7559" />
+    </line>
+    <line lang1="- Er #braucht viele Briefumschläge." someNumber="None" image="dg\080_002.gif" lang2="- Ему нужно много конвертов.">
+      <audioTime in="7635" out="9902" />
+    </line>
+    <line lang1="Er #hat wenige." someNumber="None" image="dg\080_002.gif" lang2="У него мало.">
+      <audioTime in="9977" out="11338" />
+    </line>
+    <line lang1="- #Haben sie etwas?" someNumber="None" image="dg\080_003.gif" lang2="- У них есть сколько-нибудь?">
+      <audioTime in="11338" out="13152" />
+    </line>
+    <line lang1="- Ich #brauche viel Brot." someNumber="None" image="dg\080_003.gif" lang2="- Им нужно много хлеба.">
+      <audioTime in="13077" out="14966" />
+    </line>
+    <line lang1="Sie #haben wenig." someNumber="None" image="dg\080_003.gif" lang2="У них мало.">
+      <audioTime in="15042" out="16327" />
+    </line>
+    <line lang1="- #Hat sie einige?" someNumber="None" image="dg\080_004.gif" lang2="- Есть у неё сколько-нибудь?">
+      <audioTime in="16327" out="17764" />
+    </line>
+    <line lang1="- Sie #braucht viele Eier." someNumber="190" image="dg\080_004.gif" lang2="- Ей нужно много яиц.">
+      <audioTime in="17764" out="19351" />
+    </line>
+    <line lang1="Sie #hat wenige." someNumber="190" image="dg\080_004.gif" lang2="У неё мало.">
+      <audioTime in="19351" out="20712" />
+    </line>
+    <line lang1="- #Hat er etwas?" someNumber="None" image="dg\080_005.gif" lang2="- Есть у него сколько-нибудь?">
+      <audioTime in="20712" out="21996" />
+    </line>
+    <line lang1="- Er #braucht viel Tabak." someNumber="None" image="dg\080_005.gif" lang2="- Ему нужно много табака.">
+      <audioTime in="21996" out="23584" />
+    </line>
+    <line lang1="Er #hat wenig." someNumber="None" image="dg\080_005.gif" lang2="У него мало.">
+      <audioTime in="23660" out="24870" />
+    </line>
+    <line lang1="- #Habe ich einige?" someNumber="380" image="dg\080_011.gif" lang2="- Есть у меня сколько-нибудь?">
+      <audioTime in="24945" out="26532" />
+    </line>
+    <line lang1="- Sie #brauchen viele Zeitschriften." someNumber="None" image="dg\080_011.gif" lang2="- Вам нужно много журналов.">
+      <audioTime in="26608" out="28725" />
+    </line>
+    <line lang1="Sie #haben wenige." someNumber="None" image="dg\080_011.gif" lang2="У вас мало.">
+      <audioTime in="28800" out="30236" />
+    </line>
+    <line lang1="- #Haben Sie etwas?" someNumber="None" image="dg\080_007.gif" lang2="- Есть у Вас сколько-нибудь?">
+      <audioTime in="30463" out="31824" />
+    </line>
+    <line lang1="- Ich #brauche viel Rindfleisch." someNumber="None" image="dg\080_007.gif" lang2="- Мне нужно много говядины.">
+      <audioTime in="31975" out="33638" />
+    </line>
+    <line lang1="Ich #habe wenig." someNumber="None" image="dg\080_007.gif" lang2="У меня мало.">
+      <audioTime in="33638" out="34767" />
+    </line>
+    <line lang1="- #Hat sie etwas?" someNumber="None" image="dg\080_008.gif" lang2="- Есть у неё сколько-нибудь?">
+      <audioTime in="34923" out="36359" />
+    </line>
+    <line lang1="- Sie #braucht viel Butter." someNumber="None" image="dg\080_008.gif" lang2="- Ей нужно много масла.">
+      <audioTime in="36510" out="38400" />
+    </line>
+    <line lang1="Sie #hat wenig." someNumber="None" image="dg\080_008.gif" lang2="У неё мало.">
+      <audioTime in="38400" out="39685" />
+    </line>
+    <line lang1="- #Haben Sie einige?" someNumber="890" image="dg\080_009.gif" lang2="- Есть у Вас сколько-нибудь?">
+      <audioTime in="39685" out="41273" />
+    </line>
+    <line lang1="- Sie #brauchen viele Bananen." someNumber="None" image="dg\080_009.gif" lang2="- Вам нужно много бананов.">
+      <audioTime in="41423" out="43163" />
+    </line>
+    <line lang1="Sie #haben wenige." someNumber="None" image="dg\080_009.gif" lang2="У вас мало.">
+      <audioTime in="43238" out="44447" />
+    </line>
+    <line lang1="- #Habe ich etwas?" someNumber="None" image="dg\080_010.gif" lang2="- Есть у меня сколько-нибудь?">
+      <audioTime in="44523" out="46111" />
+    </line>
+    <line lang1="- Sie #brauchen viel Arznei." someNumber="720" image="dg\080_010.gif" lang2="- Вам нужно много лекарств.">
+      <audioTime in="46338" out="48303" />
+    </line>
+    <line lang1="Sie #haben wenig." someNumber="720" image="dg\080_010.gif" lang2="У вас мало.">
+      <audioTime in="48453" out="49814" />
+    </line>
+  </lines>
+</lesson>

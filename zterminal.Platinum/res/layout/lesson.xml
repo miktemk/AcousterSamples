@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:id="@+id/widget99"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+    android:id="@+id/widget100"
+    android:layout_width="match_parent"
+    android:layout_height="0dip"
+    android:layout_weight="1" >
+        <ImageView
+	        android:id="@+id/imgView"
+	        android:layout_width="0dip"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1" />
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/tableLayout1"
+		    android:layout_width="0dip"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="1"  >
+		    <TableRow
+		        android:id="@+id/tableRow1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:padding="5dip" >
+		 			<ImageButton
+			            android:id="@+id/btnPlay"
+			            android:src="@drawable/btn_play">
+		            </ImageButton>
+		            <ImageButton
+			            android:id="@+id/btnRepeat"
+			            android:src="@drawable/btn_repeat">
+		            </ImageButton>
+		    </TableRow>
+		    <TableRow
+		        android:id="@+id/tableRow1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:padding="5dip" >
+		 			<ImageButton
+			            android:id="@+id/btnPrev"
+			            android:src="@drawable/btn_prev">
+		            </ImageButton>
+		            <ImageButton
+			            android:id="@+id/btnNext"
+			            android:src="@drawable/btn_next">
+		            </ImageButton>
+		    </TableRow>
+		</TableLayout>
+    </LinearLayout>
+    <TextView
+	    android:id="@+id/txtLang1"
+	    android:layout_width="match_parent"
+	    android:layout_height="0dip"
+	    android:text="TextView"
+	    android:textSize="24sp"
+	    android:background="#ffffff"
+	    android:layout_weight="1" >
+    </TextView>
+    <TextView
+	    android:id="@+id/txtLang2"
+	    android:layout_width="match_parent"
+	    android:layout_height="0dip"
+	    android:layout_marginTop="3dip"
+	    android:text="TextView"
+	    android:textSize="24sp"
+	    android:background="#ffffff"
+	    android:layout_weight="1" >
+    </TextView>
+</LinearLayout>

@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="J_012.wav" dlgName="Кто есть в пруду?" dic="p012" />
+  <lines>
+    <line lang1="ーうち*の*そば*に*こうえん*が*あります。" someNumber="74" image="012_001.jpg" lang2="- Рядом с моим домом есть парк.">
+      <audioTime in="0" out="4747" />
+    </line>
+    <line lang1="―大きい*こうえん*です*か。" someNumber="None" image="012_001.jpg" lang2="- Большой парк?">
+      <audioTime in="4747" out="7819" />
+    </line>
+    <line lang1="―いいえ、おおきく*ありません。" someNumber="25" image="012_003.jpg" lang2="- Нет, небольшой.">
+      <audioTime in="7819" out="12127" />
+    </line>
+    <line lang1="でも*木*が*たくさん*あります。" someNumber="120" image="012_004.jpg" lang2="Однако, (в нем) много деревьев.">
+      <audioTime in="12127" out="15952" />
+    </line>
+    <line lang1="とても*すずしい*こうえん*です。" someNumber="112" image="012_004.jpg" lang2="(Это) очень прохладный парк.">
+      <audioTime in="15952" out="19628" />
+    </line>
+    <line lang1="木*の*下*に*ベンチ*が*あります。" someNumber="126" image="012_006.jpg" lang2="Под деревьями есть скамейки.">
+      <audioTime in="19628" out="23880" />
+    </line>
+    <line lang1="ーいけ*が*あります*か。" someNumber="None" image="012_007.jpg" lang2="- А пруд есть?">
+      <audioTime in="23880" out="26398" />
+    </line>
+    <line lang1="ーあります。はし*も*あります。" someNumber="None" image="012_007.jpg" lang2="- Есть. Есть и мостик.">
+      <audioTime in="26398" out="31280" />
+    </line>
+    <line lang1="―いけ*の*なか*に*なに*が*います*か。" someNumber="None" image="012_007.jpg" lang2="- А что есть в пруду?">
+      <audioTime in="31280" out="35395" />
+    </line>
+    <line lang1="―さかな*が*います。" someNumber="74" image="012_010.jpg" lang2="- Есть рыба.">
+      <audioTime in="35395" out="38483" />
+    </line>
+    <line lang1="ーこい*です*か。" someNumber="132" image="012_010.jpg" lang2="- Карпы?">
+      <audioTime in="38483" out="40822" />
+    </line>
+    <line lang1="ーそう*です。あひる*も*います。" someNumber="74" image="012_012.jpg" lang2="- Да. Есть также утки.">
+      <audioTime in="40822" out="45062" />
+    </line>
+    <line lang1="とても*かわいい*です。" someNumber="None" image="012_012.jpg" lang2="(Они) очень хорошенькие.">
+      <audioTime in="45062" out="48037" />
+    </line>
+    <line lang1="―むすこ*の*がっこう*の*ちかく*に*ゆうえんち*が*あります。" someNumber="04" image="012_014.jpg" lang2="- Рядом со школой моего сына есть площадка для игр.">
+      <audioTime in="48037" out="54710" />
+    </line>
+    <line lang1="まい*日*子ども*が*おおぜい*います。" someNumber="162" image="012_015.jpg" lang2="Каждый день там (собирается) толпа детей.">
+      <audioTime in="54710" out="59431" />
+    </line>
+    <line lang1="そば*に*小さい*どうぶつえん*も*あります。" someNumber="174" image="012_016.jpg" lang2="Рядом есть также небольшой зоопарк.">
+      <audioTime in="59431" out="64825" />
+    </line>
+    <line lang1="ーなに*が*います*か。" someNumber="54" image="012_016.jpg" lang2="- А кто (какие звери) там есть?">
+      <audioTime in="64825" out="69447" />
+    </line>
+    <line lang1="ーきつね*と*たぬき*が*います。" someNumber="74" image="012_018.jpg" lang2="- Есть лисицы, барсуки.">
+      <audioTime in="69447" out="75517" />
+    </line>
+    <line lang1="さる*も*います。" someNumber="None" image="012_019.jpg" lang2="Есть также обезьяны.">
+      <audioTime in="75517" out="78249" />
+    </line>
+    <line lang1="ーライオン*が*います*か。" someNumber="None" image="012_020.jpg" lang2="- А львы есть?">
+      <audioTime in="78249" out="81789" />
+    </line>
+    <line lang1="―いません。大きい*どうぶつ*は*いません。" someNumber="None" image="012_020.jpg" lang2="- Нет. Больших животных нет.">
+      <audioTime in="81789" out="88256" />
+    </line>
+  </lines>
+</lesson>

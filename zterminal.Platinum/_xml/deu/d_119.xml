@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="d_119.wav" dic="p119" dlgName="Правдивая история." dlgFile="exr\dg119.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Hast du Geschichten gern?" someNumber="680" image="dg\119_001.gif" lang2="- Ты любишь рассказы?">
+      <audioTime in="168" out="2015" />
+    </line>
+    <line lang1="Ich #will dir eine wahre Geschichte #erzählen." someNumber="680" image="dg\119_001.gif" lang2="Я хочу рассказать тебе правдивую историю.">
+      <audioTime in="2183" out="4786" />
+    </line>
+    <line lang1="- Das #geschah vor einem Jahr mit meinem Freund." someNumber="770" image="dg\119_001.gif" lang2="- Это случилось с моим другом год назад.">
+      <audioTime in="5122" out="8061" />
+    </line>
+    <line lang1="- Während mein Freund Thomas im Bett #las, #1drangen zwei Diebe in seine Küche #2ein." someNumber="None" image="dg\119_002.gif" lang2="- Пока мой друг Томас читал в постели, два вора проникли в его кухню.">
+      <audioTime in="8817" out="14024" />
+    </line>
+    <line lang1="Danach #traten sie ins Haus." someNumber="None" image="dg\119_002.gif" lang2="Затем они вошли в дом.">
+      <audioTime in="14696" out="16711" />
+    </line>
+    <line lang1="- Sie #traten ins Speisezimmer." someNumber="None" image="dg\119_002.gif" lang2="- Они вошли в столовую.">
+      <audioTime in="16794" out="18894" />
+    </line>
+    <line lang1="- Es #war sehr dunkel, deshalb #1machten sie die Lampe #2an." someNumber="960" image="dg\119_003.gif" lang2="- Было очень темно, поэтому они включили лампу.">
+      <audioTime in="19314" out="23009" />
+    </line>
+    <line lang1="- Plötzlich #hörten sie eine Stimme hinter sich." someNumber="None" image="dg\119_003.gif" lang2="- Вдруг они услышали голос позади себя.">
+      <audioTime in="23429" out="26787" />
+    </line>
+    <line lang1="- &quot;Was #ist los? Was #ist los?&quot; #rief jemand." someNumber="None" image="dg\119_003.gif" lang2="- &quot;В чем дело? В чем дело?&quot; - кричал кто-то.">
+      <audioTime in="27040" out="29391" />
+    </line>
+    <line lang1="Die Diebe #1ließen die Lampe #2fallen und #1liefen so schnell wie möglich #2fort." someNumber="None" image="dg\119_004.gif" lang2="Воры уронили лампу и убежали так быстро как только возможно.">
+      <audioTime in="29475" out="33842" />
+    </line>
+    <line lang1="Thomas #hörte das Geräusch und #1kam schnell die Treppe #2hinunter." someNumber="None" image="dg\119_005.gif" lang2="Томас услышал шум и быстро спустился вниз по лестнице.">
+      <audioTime in="34009" out="37453" />
+    </line>
+    <line lang1="- Er #1machte das Licht #2an, aber #konnte niemand #sehen." someNumber="960" image="dg\119_006.gif" lang2="- Он включил свет, но не смог никого увидеть.">
+      <audioTime in="37957" out="41148" />
+    </line>
+    <line lang1="- Die Diebe #waren schon fort." someNumber="None" image="dg\119_006.gif" lang2="- Воры уже ушли.">
+      <audioTime in="41315" out="43583" />
+    </line>
+    <line lang1="- Aber der Papagei von Thomas, Harry, #war noch immer dort." someNumber="None" image="dg\119_007.gif" lang2="- Но попугай Томаса, Гарри, был всё ещё там.">
+      <audioTime in="43918" out="48789" />
+    </line>
+    <line lang1="- &quot;Was #ist los, Thomas?&quot; #rief er." someNumber="None" image="dg\119_007.gif" lang2="- &quot;Что случилось, Томас?&quot; - крикнул он.">
+      <audioTime in="49041" out="50972" />
+    </line>
+    <line lang1="- &quot;Nichts, Harry&quot; #sagte Thomas und #lächelte." someNumber="510" image="dg\119_007.gif" lang2="- &quot;Ничего, Гарри&quot;, - сказал Томас и улыбнулся.">
+      <audioTime in="50972" out="53576" />
+    </line>
+    <line lang1="- &quot;#Geh #schlafen!&quot;" someNumber="630" image="dg\119_007.gif" lang2="- &quot;Иди спать!&quot;">
+      <audioTime in="53576" out="54920" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="j_025.wav" dlgName="День мужчины" dic="p025" />
+  <lines>
+    <line lang1="ーすみません、あなた*の*一日*を*おしえて*下さい。" someNumber="133" image="025_001.jpg" lang2="- Извините, расскажите пожалуйста, как Вы проводите целый день.">
+      <audioTime in="0" out="5125" />
+    </line>
+    <line lang1="ーぼく*です*か。ええと、７時*に*おきます。" someNumber="52" image="025_002.jpg" lang2="- Я? Та...ак, встаю в 7 часов.">
+      <audioTime in="5125" out="10963" />
+    </line>
+    <line lang1="７時*半*に*あさ*ごはん*を*たべます。" someNumber="05" image="025_003.jpg" lang2="В половине восьмого завтракаю.">
+      <audioTime in="10963" out="14255" />
+    </line>
+    <line lang1="ーたいてい*何*を*たべます*か。" someNumber="67" image="025_004.jpg" lang2="- Что Вы едите обычно (на завтрак)?">
+      <audioTime in="14255" out="17549" />
+    </line>
+    <line lang1="ー毎*あさ*みそしる*と*ごはん*を*たべます。" someNumber="05" image="025_005.jpg" lang2="- Каждое утро ем суп из мисо и вареный рис.">
+      <audioTime in="17549" out="21248" />
+    </line>
+    <line lang1="おちゃ*か*コーヒー*を*のみます。" someNumber="123" image="025_006.jpg" lang2="Пью зелёный чай или кофе.">
+      <audioTime in="21248" out="23915" />
+    </line>
+    <line lang1="ーそれ*から*何*を*します*か。" someNumber="None" image="025_007.jpg" lang2="- Что Вы делаете после этого?">
+      <audioTime in="23915" out="27206" />
+    </line>
+    <line lang1="ーかいしゃ*へ*いきます。" someNumber="06" image="025_008.jpg" lang2="- Иду на фирму.">
+      <audioTime in="27206" out="28907" />
+    </line>
+    <line lang1="ーかいしゃ*は*何時*から*何時*まで*です*か。" someNumber="09" image="025_009.jpg" lang2="- С какого часа по какой (работает Ваша) фирма?">
+      <audioTime in="28907" out="33149" />
+    </line>
+    <line lang1="ー９時*半*から*６時*まで*です。" someNumber="None" image="025_010.jpg" lang2="- С половины десятого до шести.">
+      <audioTime in="33149" out="36579" />
+    </line>
+    <line lang1="１２時１５分*まで*しごと*を*します。" someNumber="None" image="025_011.jpg" lang2="Я работаю до 15 минут первого.">
+      <audioTime in="36579" out="40114" />
+    </line>
+    <line lang1="１２時１５分*から*１時*まで*ひる*やすみ*です。" someNumber="None" image="025_012.jpg" lang2="С 15 минут первого до часу - перерыв на обед.">
+      <audioTime in="40114" out="44302" />
+    </line>
+    <line lang1="ひる*ごはん*を*たべます。" someNumber="None" image="025_013.jpg" lang2="(Я) обедаю.">
+      <audioTime in="44302" out="47040" />
+    </line>
+    <line lang1="それ*から*６時*半*まで*また*しごと*を*します。" someNumber="None" image="025_014.jpg" lang2="Затем снова работаю до половины седьмого.">
+      <audioTime in="47040" out="50759" />
+    </line>
+    <line lang1="ー何時*に*かえります*か。" someNumber="None" image="025_015.jpg" lang2="- В котором часу Вы приходите домой?">
+      <audioTime in="50759" out="54214" />
+    </line>
+    <line lang1="ー８時*ごろ*に*家*へ*かえります。" someNumber="06" image="025_016.jpg" lang2="- Домой возвращаюсь примерно в 8 часов.">
+      <audioTime in="54214" out="58098" />
+    </line>
+    <line lang1="でも、よく*ざんぎょう*を*します。" someNumber="113" image="025_017.jpg" lang2="Но (я) часто задерживаюсь на работе.">
+      <audioTime in="58098" out="61077" />
+    </line>
+    <line lang1="たいてい*１０時*ごろ*に*かえります。" someNumber="113" image="025_018.jpg" lang2="Большей частью возвращаюсь домой в 10 часов.">
+      <audioTime in="61077" out="64400" />
+    </line>
+    <line lang1="ー何時*に*ねます*か。" someNumber="None" image="025_019.jpg" lang2="- Когда Вы ложитесь спать?">
+      <audioTime in="64400" out="67251" />
+    </line>
+    <line lang1="ーたいてい*１２時*に*ねます。" someNumber="113" image="025_020.jpg" lang2="- Обычно ложусь в 12 часов.">
+      <audioTime in="67251" out="69879" />
+    </line>
+    <line lang1="１２時*まで*テレビ*を*見ます。" someNumber="11" image="025_021.jpg" lang2="До 12 часов смотрю телевизор.">
+      <audioTime in="69879" out="72936" />
+    </line>
+    <line lang1="ー日よう日*に*何*を*します*か。" someNumber="40" image="025_022.jpg" lang2="- А что Вы делаете по воскресеньям?">
+      <audioTime in="72936" out="76624" />
+    </line>
+    <line lang1="ー日よう日*に*ともだち*と*いっしょ*に*ゴルフ*を*します。" someNumber="08" image="025_023.jpg" lang2="- По воскресеньям играю в гольф с друзьями.">
+      <audioTime in="76624" out="80880" />
+    </line>
+    <line lang1="それ*から*本*を*よみます。" someNumber="None" image="025_024.jpg" lang2="Кроме того, читаю книги,">
+      <audioTime in="80880" out="83576" />
+    </line>
+    <line lang1="おんがく*を*ききます。" someNumber="None" image="025_025.jpg" lang2="слушаю музыку,">
+      <audioTime in="83576" out="85076" />
+    </line>
+    <line lang1="さんぽ*を*します。" someNumber="None" image="025_026.jpg" lang2="прогуливаюсь.">
+      <audioTime in="85076" out="86823" />
+    </line>
+    <line lang1="ーありがとう*ございました。" someNumber="None" image="025_027.jpg" lang2="- Большое спасибо.">
+      <audioTime in="87015" out="89203" />
+    </line>
+    <line lang1="ーいいえ。" someNumber="None" image="025_028.jpg" lang2="- Не стоит.">
+      <audioTime in="89203" out="90528" />
+    </line>
+  </lines>
+</lesson>

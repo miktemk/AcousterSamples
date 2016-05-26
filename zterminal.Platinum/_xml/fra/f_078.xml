@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_078.wav" dic="p078" dlgName="Когда Вы?.." dlgFile="exr\fg077.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Il est 8 heures. Quand l'avez-vous vu? Il y a une demi-heure?" someNumber="None" image="dg\078_001.gif" lang2="- Восемь часов. Когда вы видели его? Полчаса назад?">
+      <audioTime in="0" out="3585" />
+    </line>
+    <line lang1="- Je l'ai vu à sept heures et demie." someNumber="None" image="dg\078_001.gif" lang2="- Я видел его в половине восьмого.">
+      <audioTime in="3585" out="5036" />
+    </line>
+    <line lang1="- Vendredi. Quand elle est partie pour Paris? Avant-hier?" someNumber="90" image="dg\078_002.gif" lang2="- Пятница. Когда она уехала в Париж? Позавчера?">
+      <audioTime in="5036" out="8997" />
+    </line>
+    <line lang1="- Elle est partie pour Paris mercredi." someNumber="None" image="dg\078_002.gif" lang2="- Она уехала в Париж в среду.">
+      <audioTime in="8997" out="10865" />
+    </line>
+    <line lang1="- Le mois de juin. Quand monsieur Duroy a-t-il acheté cette voiture? Le mois passé?" someNumber="None" image="dg\078_003.gif" lang2="- Июнь месяц. Когда господин Дюруа купил эту машину? В прошлом месяце?">
+      <audioTime in="10865" out="16020" />
+    </line>
+    <line lang1="- Il l'a achetée au mois de mai." someNumber="None" image="dg\078_003.gif" lang2="- Он её купил в мае месяце.">
+      <audioTime in="16020" out="17584" />
+    </line>
+    <line lang1="- 1968. Quand avez-vous peint cette chambre? L'année passée?" someNumber="470" image="dg\078_004.gif" lang2="- 1968 год. Когда вы покрасили эту комнату? В прошлом году?">
+      <audioTime in="17584" out="21949" />
+    </line>
+    <line lang1="- Je l'ai peinte en 1967." someNumber="None" image="dg\078_004.gif" lang2="- Я её покрасил в 1967 году.">
+      <audioTime in="21949" out="24049" />
+    </line>
+    <line lang1="- Le 5 janvier. Quand l'a-t-elle rencontré? Il y a deux mois?" someNumber="None" image="dg\078_005.gif" lang2="- 5 января. Когда она его встретила? Два месяца назад?">
+      <audioTime in="24049" out="27954" />
+    </line>
+    <line lang1="- Elle l'a rencontré le 5 novembre." someNumber="None" image="dg\078_005.gif" lang2="- Она его встретила 5 ноября.">
+      <audioTime in="27954" out="29698" />
+    </line>
+    <line lang1="- Onze heures et quart. Quand sont-ils arrivés? Il y a une demi-heure?" someNumber="750" image="dg\078_006.gif" lang2="- Четверть двенадцатого. Когда они приехали? Полчаса назад?">
+      <audioTime in="29698" out="33510" />
+    </line>
+    <line lang1="- Ils sont venus à onze heure moins le quart." someNumber="None" image="dg\078_006.gif" lang2="- Они приехали без четверти одиннадцать.">
+      <audioTime in="33510" out="35228" />
+    </line>
+    <line lang1="- Dimanche. Quand a-t-il perdu son stylo? Hier?" someNumber="None" image="dg\078_007.gif" lang2="- Воскресенье. Когда он потерял свою ручку? Вчера?">
+      <audioTime in="35228" out="38617" />
+    </line>
+    <line lang1="- Il l'a perdu samedi." someNumber="530" image="dg\078_007.gif" lang2="- Он её потерял в субботу.">
+      <audioTime in="38617" out="39877" />
+    </line>
+    <line lang1="- Le mois de mars. Quand avez-vous appelé le docteur? Le mois avant-dernier?" someNumber="None" image="dg\078_008.gif" lang2="- Март месяц. Когда вы вызвали доктора? В позапрошлом месяце?">
+      <audioTime in="39877" out="45442" />
+    </line>
+    <line lang1="- J'ai appelé le docteur en janvier." someNumber="None" image="dg\078_008.gif" lang2="- Я вызвал доктора в январе.">
+      <audioTime in="45442" out="47168" />
+    </line>
+    <line lang1="1968. - Quand ont-ils acheté cette maison. Il y a deux ans?" someNumber="200" image="dg\078_009.gif" lang2="- 1968 год. Когда они купили этот дом? Два года назад?">
+      <audioTime in="47168" out="51570" />
+    </line>
+    <line lang1="- Ils l'ont achetée en 1966." someNumber="None" image="dg\078_009.gif" lang2="- Они его купили в 1966 году.">
+      <audioTime in="51570" out="53720" />
+    </line>
+    <line lang1="- Le premier août. Quand lui a-t-elle parlé? Il y a un mois?" someNumber="None" image="dg\078_010.gif" lang2="- Первое августа. Когда она с ним разговаривала? Месяц назад?">
+      <audioTime in="53720" out="57442" />
+    </line>
+    <line lang1="- Elle lui a parlé le premier juillet." someNumber="None" image="dg\078_010.gif" lang2="- Она с ним говорила первого июля.">
+      <audioTime in="57442" out="59181" />
+    </line>
+  </lines>
+</lesson>

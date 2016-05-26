@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="FR_042.wav" dlgName="Дом" dlgFile="exr\frg042.txt" />
+  <lines>
+    <line lang1="- Où habitez-vous?" someNumber="None" image="f.jpg" lang2="- Где вы живете?">
+      <audioTime in="0" out="1746" />
+    </line>
+    <line lang1="- J'habite à Paris, mais je passe mes vacances dans ma maison de campagne." someNumber="None" image="f.jpg" lang2="- Я живу в Париже, но каникулы я провожу на моей даче.">
+      <audioTime in="1746" out="7722" />
+    </line>
+    <line lang1="- Comment est cette maison?" someNumber="None" image="f.jpg" lang2="- Какой это дом?">
+      <audioTime in="7722" out="9945" />
+    </line>
+    <line lang1="- Cette maison est petite, elle n'est pas grande. Elle a un étage." someNumber="None" image="f.jpg" lang2="- Это дом маленький, он не большой. Одноэтажный.">
+      <audioTime in="9945" out="15750" />
+    </line>
+    <line lang1="Il y a aussi une cave et un grenier." someNumber="None" image="f.jpg" lang2="В нем есть также подвал и чердак.">
+      <audioTime in="15750" out="19360" />
+    </line>
+    <line lang1="- En quoi est-elle?" someNumber="None" image="f.jpg" lang2="- Из чего он построен?">
+      <audioTime in="19360" out="20919" />
+    </line>
+    <line lang1="- C'est une maison préfabriquée." someNumber="None" image="f.jpg" lang2="- Этот дом из полуфабрикатов.">
+      <audioTime in="20919" out="23684" />
+    </line>
+    <line lang1="Les murs sont en fibro-ciment, le plancher, le plafond et l'escalier sont en béton armé," someNumber="None" image="f.jpg" lang2="Стены из фибро-цемента, пол, потолок и лестница из железобетона,">
+      <audioTime in="23684" out="32434" />
+    </line>
+    <line lang1="et les cloisons sont en panneaux de fibre de bois." someNumber="None" image="f.jpg" lang2="а перегородки из древесно-стружечных плит.">
+      <audioTime in="32434" out="36318" />
+    </line>
+    <line lang1="- Avez-vous beaucoup de pièces?" someNumber="None" image="f.jpg" lang2="- Много ли комнат у вас?">
+      <audioTime in="36318" out="38754" />
+    </line>
+    <line lang1="- J'ai une chambre à coucher, une salle à manger, une cuisine et une salle de bains." someNumber="None" image="f.jpg" lang2="- У меня одна спальня, столовая, кухня и ванная комната.">
+      <audioTime in="38754" out="45838" />
+    </line>
+    <line lang1="- Je vois que vous habitez dans une jolie maison." someNumber="None" image="f.jpg" lang2="- Вижу, что вы живете в красивом доме.">
+      <audioTime in="45838" out="49522" />
+    </line>
+    <line lang1="- Oh oui! C'est une maison très agréable, surtout en été," someNumber="None" image="f.jpg" lang2="- О, да! Это очень приятный дом, особенно летом,">
+      <audioTime in="49522" out="55332" />
+    </line>
+    <line lang1="quand dans le jardin il y a beaucoup de fleurs." someNumber="None" image="f.jpg" lang2="когда в саду много цветов.">
+      <audioTime in="55332" out="59905" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="f_143.wav" dic="p143" dlgName="Мусор в лесу." dlgFile="exr\fg142.txt" author="Alexander" />
+  <lines>
+    <line lang1="J'habite une vieille ville entourée de belles forêts." someNumber="60" image="dg\143_001.gif" lang2="Я живу в старом городе, окружённом красивыми лесами.">
+      <audioTime in="0" out="2837" />
+    </line>
+    <line lang1="Notre ville est belle." someNumber="None" image="dg\143_001.gif" lang2="Наш город красив.">
+      <audioTime in="2837" out="3961" />
+    </line>
+    <line lang1="Le dimanche, des milliers de gens quittent leurs maisons" someNumber="70" image="dg\143_001.gif" lang2="По воскресеньям сотни людей оставляют свои дома,">
+      <audioTime in="3961" out="6305" />
+    </line>
+    <line lang1="pour visiter notre ville et se promener dans la forêt." someNumber="None" image="dg\143_001.gif" lang2="чтобы посетить наш город и погулять по лесу.">
+      <audioTime in="6305" out="8891" />
+    </line>
+    <line lang1="On les prie de respecter l'environnement." someNumber="None" image="dg\143_001.gif" lang2="Их просят соблюдать чистоту окружающей среды.">
+      <audioTime in="8891" out="11182" />
+    </line>
+    <line lang1="Les poubelles sont sous les arbres, mais les gens laissent quand-même partout des ordures." someNumber="210" image="dg\143_001.gif" lang2="Корзины для мусора размещены под деревьями, но люди всё-таки повсюду бросают мусор.">
+      <audioTime in="11182" out="15509" />
+    </line>
+    <line lang1="Mercredi passé je suis allé dans la forêt." someNumber="None" image="dg\143_001.gif" lang2="В прошлую среду я пошёл на прогулку в лес.">
+      <audioTime in="15509" out="18021" />
+    </line>
+    <line lang1="Ce que j'ai vu m'a troublé." someNumber="None" image="dg\143_001.gif" lang2="Что я увидел - очень опечалило меня.">
+      <audioTime in="18021" out="19427" />
+    </line>
+    <line lang1="J'ai compté 7 vieilles voitures et trois frigidaires." someNumber="None" image="dg\143_001.gif" lang2="Я насчитал семь старых машин и три старых холодильника.">
+      <audioTime in="19427" out="22691" />
+    </line>
+    <line lang1="Les poubelles étaient vides, mais la terre" someNumber="None" image="dg\143_001.gif" lang2="Мусорные корзинки были пустыми, но земля">
+      <audioTime in="22691" out="25141" />
+    </line>
+    <line lang1="était couverte de papiers, de cigarettes , de pneux, de bouteilles vides et de boîtes de conserves." someNumber="None" image="dg\143_001.gif" lang2="была покрыта кусками бумаги, окурками сигарет, старыми покрышками, пустыми бутылками и консервными банками.">
+      <audioTime in="25141" out="30750" />
+    </line>
+    <line lang1="Dans un tas d'ordures, j'ai trouvé un tableau avec les mots:" someNumber="810" image="dg\143_001.gif" lang2="Среди мусора я нашёл табличку, на которой было написано:">
+      <audioTime in="30750" out="34433" />
+    </line>
+    <line lang1="&quot;Celui qui dépose ici des ordures sera mis à l'amende!&quot;" someNumber="None" image="dg\143_001.gif" lang2="&quot;Всякий, кто оставит здесь мусор, будет оштрафован!&quot;">
+      <audioTime in="34433" out="37520" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_118.wav" dic="p118" dlgName="Что ты делала, когда?.." dlgFile="exr\dg117.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Was #machtest du, als er #kam?" someNumber="570" image="dg\118_001.gif" lang2="- Что ты делал, когда он пришёл?">
+      <audioTime in="383" out="3068" />
+    </line>
+    <line lang1="- Ich #nahm ein Bad." someNumber="570" image="dg\118_001.gif" lang2="- Я принимал ванну.">
+      <audioTime in="3068" out="4423" />
+    </line>
+    <line lang1="Als er #kam, #nahm ich ein Bad." someNumber="970" image="dg\118_001.gif" lang2="Когда он пришёл, я принимал ванну.">
+      <audioTime in="4730" out="6776" />
+    </line>
+    <line lang1="- Was #machte Petra, als das Telephon #klingelte?" someNumber="None" image="dg\118_002.gif" lang2="- Что Петра делала, когда зазвонил телефон?">
+      <audioTime in="7159" out="10355" />
+    </line>
+    <line lang1="- Sie #1wusch das Geschirr #2ab." someNumber="None" image="dg\118_002.gif" lang2="- Она мыла посуду.">
+      <audioTime in="10355" out="12273" />
+    </line>
+    <line lang1="Als das Telephon #klingelte, #1wusch sie das Geschirr #2ab." someNumber="None" image="dg\118_002.gif" lang2="Когда зазвонил телефон, она мыла посуду.">
+      <audioTime in="12401" out="16108" />
+    </line>
+    <line lang1="- Was #machte Ihre Mutter, als der Briefträger #kam?" someNumber="None" image="dg\118_003.gif" lang2="- Что делала Ваша мать, когда пришёл почтальон?">
+      <audioTime in="16364" out="19688" />
+    </line>
+    <line lang1="- Sie #machte das Bett." someNumber="None" image="dg\118_003.gif" lang2="- Она убирала постель.">
+      <audioTime in="19688" out="20817" />
+    </line>
+    <line lang1="Als der Briefträger #kam, #machte sie das Bett." someNumber="None" image="dg\118_003.gif" lang2="Когда пришёл почтальон, она убирала постель.">
+      <audioTime in="21222" out="23907" />
+    </line>
+    <line lang1="- Was #machten Sie, als das #geschah?" someNumber="None" image="dg\118_004.gif" lang2="- Что Вы делали, когда это случилось?">
+      <audioTime in="24546" out="26975" />
+    </line>
+    <line lang1="- Ich rief #1meine Schwester #2an." someNumber="None" image="dg\118_004.gif" lang2="- Я звонил своей сестре.">
+      <audioTime in="26975" out="28872" />
+    </line>
+    <line lang1="Als das #geschah, #1rief ich meine Schwester #2an." someNumber="None" image="dg\118_004.gif" lang2="Когда это случилось, я звонил своей сестре.">
+      <audioTime in="28872" out="31401" />
+    </line>
+    <line lang1="- Was #machten die Kinder, als die Milch #überlief?" someNumber="570" image="dg\118_005.gif" lang2="- Что делали дети, когда убежало молоко?">
+      <audioTime in="31705" out="34902" />
+    </line>
+    <line lang1="- Sie #lasen." someNumber="570" image="dg\118_005.gif" lang2="- Они читали.">
+      <audioTime in="35286" out="36436" />
+    </line>
+    <line lang1="Als die Milch #überlief, #lasen Sie." someNumber="None" image="dg\118_005.gif" lang2="Когда убежало молоко, они читали.">
+      <audioTime in="36564" out="39376" />
+    </line>
+    <line lang1="- Was #machten Sie, als das Kind die Tasse #zerbrach?" someNumber="None" image="dg\118_006.gif" lang2="- Что Вы делали, когда ребёнок разбил чашку?">
+      <audioTime in="39632" out="42701" />
+    </line>
+    <line lang1="- Ich #brühte Tee." someNumber="None" image="dg\118_006.gif" lang2="- Я заваривал чай.">
+      <audioTime in="42957" out="44235" />
+    </line>
+    <line lang1="Als ich Tee #brühte, #zerbrach das Kind die Tasse." someNumber="None" image="dg\118_006.gif" lang2="Когда я заваривал чай, ребёнок разбил чашку.">
+      <audioTime in="44746" out="48198" />
+    </line>
+    <line lang1="- Was #machten Sie, als Ihre Mutter ins Zimmer #trat?" someNumber="None" image="dg\118_007.gif" lang2="- Что Вы делали, когда Ваша мать вошла в комнату?">
+      <audioTime in="48582" out="52161" />
+    </line>
+    <line lang1="- Ich #hörte Radio." someNumber="None" image="dg\118_007.gif" lang2="- Я слушал радио.">
+      <audioTime in="52289" out="53824" />
+    </line>
+    <line lang1="Als meine Mutter ins Zimmer #trat, #hörte ich Radio." someNumber="340" image="dg\118_007.gif" lang2="Когда моя мать вошла в комнату, я слушал радио.">
+      <audioTime in="53951" out="56891" />
+    </line>
+    <line lang1="- Was #machte Ihr Vater, als er diese Nachricht #hörte?" someNumber="None" image="dg\118_008.gif" lang2="- Что делал Ваш отец, когда услышал эту новость?">
+      <audioTime in="57659" out="60471" />
+    </line>
+    <line lang1="- Er #arbeitete im Garten." someNumber="None" image="dg\118_008.gif" lang2="- Он работал в саду.">
+      <audioTime in="60599" out="62261" />
+    </line>
+    <line lang1="Als er diese Nachricht #hörte, #arbeitete er im Garten." someNumber="None" image="dg\118_008.gif" lang2="Когда он услышал эту новость, он работал в саду.">
+      <audioTime in="62517" out="65841" />
+    </line>
+    <line lang1="- Was #machte Ihre Schwester, als Peter an die Tür #klopfte?" someNumber="810" image="dg\118_009.gif" lang2="- Что делала Ваша сестра, когда Петер постучал в дверь?">
+      <audioTime in="66352" out="69804" />
+    </line>
+    <line lang1="- Sie #putzte ihre Schuhe." someNumber="810" image="dg\118_009.gif" lang2="- Она чистила свои туфли.">
+      <audioTime in="69932" out="71466" />
+    </line>
+    <line lang1="Als Peter an die Tür #klopfte, #putzte meine Schwester die Schuhe." someNumber="None" image="dg\118_009.gif" lang2="Когда Петер постучал в дверь, моя сестра чистила туфли.">
+      <audioTime in="71722" out="75813" />
+    </line>
+    <line lang1="- Was #machte Ihr Sohn, als seine Freunde #kamen?" someNumber="None" image="dg\118_010.gif" lang2="- Что делал Ваш сын, когда пришли его друзья?">
+      <audioTime in="76197" out="79265" />
+    </line>
+    <line lang1="- Er #machte seine Hausaufgaben." someNumber="None" image="dg\118_010.gif" lang2="- Он делал свои домашние задания.">
+      <audioTime in="79265" out="81297" />
+    </line>
+    <line lang1="Als seine Freunde #kamen, #machte er seine Hausaufgaben." someNumber="970" image="dg\118_010.gif" lang2="Когда пришли его друзья, он делал свои домашние задания.">
+      <audioTime in="81297" out="84593" />
+    </line>
+  </lines>
+</lesson>

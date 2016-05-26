@@ -1,0 +1,32 @@
+<lesson>
+  <header wav="f_029.wav" dic="p029" dlgName="Спальня." dlgFile="exr\fg029.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Annette, entrez!" someNumber="None" image="dg\029_001.gif" lang2="- Входите, Анет.">
+      <audioTime in="0" out="1681" />
+    </line>
+    <line lang1="Ferme la porte, s'il te plaît." someNumber="50" image="dg\029_002.gif" lang2="Закрой дверь, пожалуйста.">
+      <audioTime in="1681" out="3218" />
+    </line>
+    <line lang1="Cette chambre à coucher n'est pas en ordre." someNumber="None" image="dg\029_003.gif" lang2="Эта спальня в беспорядке.">
+      <audioTime in="3218" out="4978" />
+    </line>
+    <line lang1="- Qu'est-ce que je dois faire, Mme Courbet?" someNumber="None" image="dg\029_003.gif" lang2="- Что я должна делать, г-жа Курбэ?">
+      <audioTime in="4978" out="7317" />
+    </line>
+    <line lang1="- Ouvrez la fenêtre et aérez la chambre." someNumber="None" image="dg\029_004.gif" lang2="- Откройте окно и проветрите комнату.">
+      <audioTime in="7317" out="9663" />
+    </line>
+    <line lang1="Ensuite rangez ces vêtements dans l'armoire." someNumber="470" image="dg\029_005.gif" lang2="Затем положите эту одежду в шкаф.">
+      <audioTime in="9663" out="11831" />
+    </line>
+    <line lang1="Puis faites le lit." someNumber="None" image="dg\029_006.gif" lang2="Затем постелите постель.">
+      <audioTime in="11831" out="12917" />
+    </line>
+    <line lang1="Essuyez la coiffeuse." someNumber="None" image="dg\029_007.gif" lang2="Протрите туалетный столик.">
+      <audioTime in="12917" out="14287" />
+    </line>
+    <line lang1="Ensuite balayez le plancher." someNumber="200" image="dg\029_008.gif" lang2="Затем подметите пол.">
+      <audioTime in="14287" out="15829" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="d_137.wav" dic="p137" dlgName="Что, если выиграешь." dlgFile="exr\dg136.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #1Füllst du eine Karte für die Fußballlotterie #2aus, Peter?" someNumber="None" image="dg\137_001.gif" lang2="- Ты заполняешь карточку для футбольной лотереи, Петер?">
+      <audioTime in="434" out="4770" />
+    </line>
+    <line lang1="- Ja, ich #bin fast fertig, Petra." someNumber="980" image="dg\137_001.gif" lang2="- Да, я почти закончил, Петра.">
+      <audioTime in="4944" out="7373" />
+    </line>
+    <line lang1="Ich #bin sicher, dass wir diese Woche etwas #gewinnen." someNumber="980" image="dg\137_001.gif" lang2="Я уверен, что мы выиграем что-нибудь на этой неделе.">
+      <audioTime in="7460" out="10235" />
+    </line>
+    <line lang1="- Du #sagst das immer, aber wir #gewinnen niemals etwas." someNumber="960" image="dg\137_001.gif" lang2="- Ты всегда говоришь это, но мы никогда ничего не выигрывали.">
+      <audioTime in="10322" out="14920" />
+    </line>
+    <line lang1="Was #wirst du #machen, wenn du so viel Geld #gewinnst." someNumber="970" image="dg\137_001.gif" lang2="Что ты будешь делать, если выиграешь так много денег?">
+      <audioTime in="15093" out="18562" />
+    </line>
+    <line lang1="- Wenn ich viel Geld #gewinne, #kaufe ich dir einen Nerzmantel." someNumber="None" image="dg\137_001.gif" lang2="- Если я выиграю много денег, я куплю тебе норковое пальто.">
+      <audioTime in="18562" out="22639" />
+    </line>
+    <line lang1="- Ich #will keinen Nerzmantel!" someNumber="None" image="dg\137_001.gif" lang2="- Я не хочу норковое пальто!">
+      <audioTime in="22726" out="24635" />
+    </line>
+    <line lang1="Ich #will die Welt #sehen." someNumber="None" image="dg\137_001.gif" lang2="Я хочу посмотреть мир.">
+      <audioTime in="24635" out="25854" />
+    </line>
+    <line lang1="- Sehr schön." someNumber="310" image="dg\137_001.gif" lang2="- Очень хорошо.">
+      <audioTime in="26109" out="27064" />
+    </line>
+    <line lang1="Wenn wir viel Geld #gewinnen, #werden wir um die Welt #reisen, und wir #werden uns in den besten Hotels #aufhalten." someNumber="310" image="dg\137_001.gif" lang2="Если мы выиграем много денег, мы будем путешествовать по миру и мы будем останавливаться в лучших гостиницах.">
+      <audioTime in="27237" out="33830" />
+    </line>
+    <line lang1="Dann #1kehren wir nach Hause #2zurück und #kaufen uns ein großes Haus in der Vorstadt." someNumber="None" image="dg\137_001.gif" lang2="Затем мы вернёмся домой и купим большой дом за городом.">
+      <audioTime in="34003" out="38774" />
+    </line>
+    <line lang1="Wir #werden einen schönen Garten #haben und..." someNumber="None" image="dg\137_001.gif" lang2="У нас будет красивый сад и ...">
+      <audioTime in="38947" out="41896" />
+    </line>
+    <line lang1="- Aber wenn wir alles Geld #ausgeben," someNumber="None" image="dg\137_001.gif" lang2="- Но если мы растратим все деньги,">
+      <audioTime in="41897" out="44516" />
+    </line>
+    <line lang1="was #werden wir dann #machen?" someNumber="600" image="dg\137_001.gif" lang2="что мы будем делать тогда?">
+      <audioTime in="44585" out="46755" />
+    </line>
+    <line lang1="- Wenn wir alles Geld #ausgeben, dann #versuchen wir die Fußballlotterie wieder zu #gewinnen." someNumber="700" image="dg\137_001.gif" lang2="- Если мы растратим все деньги, мы попытаемся снова выиграть в футбольной лотерее.">
+      <audioTime in="47275" out="52306" />
+    </line>
+    <line lang1="- Das #ist ein schöner Traum, aber alles #1hängt vom &quot;Wenn&quot; #2ab!" someNumber="180" image="dg\137_001.gif" lang2="- Это приятный сон, но всё зависит от &quot;если&quot;!">
+      <audioTime in="52306" out="56912" />
+    </line>
+  </lines>
+</lesson>

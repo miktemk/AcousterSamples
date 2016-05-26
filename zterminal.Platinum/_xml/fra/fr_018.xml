@@ -1,0 +1,29 @@
+<lesson>
+  <header wav="FR_018.wav" dlgName="В табачном магазине" dlgFile="exr\frg018.txt" />
+  <lines>
+    <line lang1="- Que désirez-vous, monsieur?" someNumber="None" image="f.jpg" lang2="- Что вы желаете, господин?">
+      <audioTime in="0" out="2050" />
+    </line>
+    <line lang1="- Donnez-moi un paquet de Gauloises et deux boîtes d'allumettes." someNumber="None" image="f.jpg" lang2="- Дайте мне пачку Голюазов и две коробки спичек.">
+      <audioTime in="2050" out="7018" />
+    </line>
+    <line lang1="- Voilà, monsieur, est-ce tout?" someNumber="None" image="f.jpg" lang2="- Пожалуйста... это всё?">
+      <audioTime in="7018" out="9993" />
+    </line>
+    <line lang1="- Est-ce que vous vendez du tabac anglais?" someNumber="None" image="f.jpg" lang2="- Продаёте ли вы английский табак?">
+      <audioTime in="9993" out="13211" />
+    </line>
+    <line lang1="- Mais oui, monsieur. Nous avons à peu près toutes les marques anglaises." someNumber="None" image="f.jpg" lang2="- Да. Мы имеем почти все английские марки.">
+      <audioTime in="13211" out="17736" />
+    </line>
+    <line lang1="- Alors donnez-moi un paquet de Chesterfield." someNumber="None" image="f.jpg" lang2="- В таком случае, дайте мне пачку Честерфильдов.">
+      <audioTime in="17736" out="21541" />
+    </line>
+    <line lang1="- Est-ce que vous n'avez pas besoin d'un joli briquet ou d'une pipe d'excellente marque?" someNumber="None" image="f.jpg" lang2="- Не нужна ли вам красивая зажигалка или трубка превосходной марки?">
+      <audioTime in="21541" out="27616" />
+    </line>
+    <line lang1="- Non, merci. Ce sera tout pour aujourd'hui." someNumber="None" image="f.jpg" lang2="- Нет, спасибо. На сегодня это всё.">
+      <audioTime in="27616" out="31810" />
+    </line>
+  </lines>
+</lesson>

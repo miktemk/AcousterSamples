@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_122.wav" dic="p122" dlgName="Не он ли... ?" dlgFile="exr\dg121.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Ist er denn nicht der Mechaniker?" someNumber="140" image="dg\122_001.gif" lang2="- Разве он не механик?">
+      <audioTime in="411" out="3422" />
+    </line>
+    <line lang1="#Hat er denn nicht Ihren Wagen #repariert?" someNumber="140" image="dg\122_001.gif" lang2="Разве не он отремонтировал Вашу машину?">
+      <audioTime in="3560" out="6161" />
+    </line>
+    <line lang1="- Ja, er #ist genau der Mechaniker, der meinen Wagen #repariert #hat." someNumber="390" image="dg\122_001.gif" lang2="- Да, он именно тот механик, который отремонтировал мою машину.">
+      <audioTime in="6161" out="9722" />
+    </line>
+    <line lang1="- #Sind sie denn nicht die Diebe?" someNumber="None" image="dg\122_002.gif" lang2="- Разве они не воры?">
+      <audioTime in="9584" out="11774" />
+    </line>
+    <line lang1="#Hat die Polizei sie nicht #verhaftet?" someNumber="None" image="dg\122_002.gif" lang2="Не их ли поймала полиция?">
+      <audioTime in="11774" out="14377" />
+    </line>
+    <line lang1="- Ja, das #sind genau die Diebe, die die Polizei #verhaftet #hat." someNumber="980" image="dg\122_002.gif" lang2="- Да, они именно те воры, которых поймала полиция.">
+      <audioTime in="14513" out="19032" />
+    </line>
+    <line lang1="- #Ist das denn nicht der Wagen?" someNumber="None" image="dg\122_003.gif" lang2="- Разве это не та машина?">
+      <audioTime in="18895" out="20812" />
+    </line>
+    <line lang1="#Haben Sie ihn nicht voriges Jahr #verkauft?" someNumber="None" image="dg\122_003.gif" lang2="Не продали ли Вы её в прошлом году?">
+      <audioTime in="20812" out="23277" />
+    </line>
+    <line lang1="- Ja, das #ist genau der Wagen, den ich voriges Jahr #verkauft #habe." someNumber="None" image="dg\122_003.gif" lang2="- Да, это именно та машина, которую я продал в прошлом году.">
+      <audioTime in="23277" out="26973" />
+    </line>
+    <line lang1="- #Sind das denn nicht die Kinder?" someNumber="None" image="dg\122_004.gif" lang2="- Разве это не те дети?">
+      <audioTime in="26973" out="28753" />
+    </line>
+    <line lang1="#Wohnen Sie nicht in der Nachbarschaft?" someNumber="None" image="dg\122_004.gif" lang2="Не живут ли они по-соседству?">
+      <audioTime in="28753" out="30741" />
+    </line>
+    <line lang1="- Ja, das #sind die Kinder, die in der Nachbarschaft #wohnen." someNumber="None" image="dg\122_004.gif" lang2="- Да, это те дети, которые живут по-соседству.">
+      <audioTime in="30807" out="34915" />
+    </line>
+    <line lang1="- #Ist er denn nicht der Gepäckträger?" someNumber="None" image="dg\122_005.gif" lang2="- Разве он не носильщик?">
+      <audioTime in="35189" out="38064" />
+    </line>
+    <line lang1="#Trug er nicht meinen Koffer?" someNumber="None" image="dg\122_005.gif" lang2="Не нёс ли он мой чемодан?">
+      <audioTime in="38064" out="39844" />
+    </line>
+    <line lang1="- Ja er #ist genau der Gepäckträger, der deinen Koffer #getragen #hat." someNumber="980" image="dg\122_005.gif" lang2="- Да, он именно тот носильщик, который нёс твой чемодан.">
+      <audioTime in="39981" out="44500" />
+    </line>
+    <line lang1="- #Sind das denn nicht die Fenster?" someNumber="None" image="dg\122_006.gif" lang2="- Разве это не те окна?">
+      <audioTime in="45047" out="47101" />
+    </line>
+    <line lang1="#Haben die Kinder sie nicht gestern #zerbrochen?" someNumber="None" image="dg\122_006.gif" lang2="Не разбили ли их вчера дети?">
+      <audioTime in="47101" out="49449" />
+    </line>
+    <line lang1="- Ja, das #sind genau die Fenster, die die Kinder gestern #zerbrochen #haben." someNumber="None" image="dg\122_006.gif" lang2="- Да, это именно те окна, которые вчера разбили дети.">
+      <audioTime in="49429" out="53537" />
+    </line>
+    <line lang1="- #Ist das denn nicht die Münze?" someNumber="None" image="dg\122_007.gif" lang2="- Разве это не та монета?">
+      <audioTime in="53811" out="55865" />
+    </line>
+    <line lang1="#Haben Sie sie nicht gestern im Garten #gefunden?" someNumber="None" image="dg\122_007.gif" lang2="Не нашли ли Вы её вчера в саду?">
+      <audioTime in="55865" out="59425" />
+    </line>
+    <line lang1="- Ja, das #ist genau die Münze, die ich gestern im Garten #gefunden #habe." someNumber="None" image="dg\122_007.gif" lang2="- Да, это именно та монета, которую я нашёл вчера в саду.">
+      <audioTime in="59287" out="63669" />
+    </line>
+    <line lang1="- #Ist das denn nicht die Frau?" someNumber="None" image="dg\122_008.gif" lang2="- Разве это не та женщина?">
+      <audioTime in="63806" out="65723" />
+    </line>
+    <line lang1="#Haben Sie sie nicht gestern nach London #gefahren?" someNumber="None" image="dg\122_008.gif" lang2="Не везли ли Вы её вчера на машине в Лондон?">
+      <audioTime in="65723" out="68883" />
+    </line>
+    <line lang1="- Ja, das #ist genau die Frau, die ich gestern nach London #gefahren #habe." someNumber="390" image="dg\122_008.gif" lang2="- Да, это именно та женщина, которую я вёз вчера на машине в Лондон.">
+      <audioTime in="68884" out="72676" />
+    </line>
+    <line lang1="- #Sind das denn nicht die Bücher?" someNumber="None" image="dg\122_009.gif" lang2="- Разве это не те книги?">
+      <audioTime in="72843" out="75629" />
+    </line>
+    <line lang1="#Haben Sie sie nicht gestern #gekauft?" someNumber="None" image="dg\122_009.gif" lang2="Не купили ли Вы их вчера?">
+      <audioTime in="75629" out="77706" />
+    </line>
+    <line lang1="- Ja, das #sind genau die Bücher, die ich gestern #gekauft #habe." someNumber="None" image="dg\122_009.gif" lang2="- Да, это именно те книги, которые я купил вчера.">
+      <audioTime in="78046" out="81196" />
+    </line>
+    <line lang1="- #Sind das denn nicht die Leute?" someNumber="None" image="dg\122_010.gif" lang2="- Разве это не те люди?">
+      <audioTime in="81606" out="83523" />
+    </line>
+    <line lang1="#Hast du sie nicht zum Festabend #eingeladen?" someNumber="None" image="dg\122_010.gif" lang2="Не приглашал ли ты их на вечеринку?">
+      <audioTime in="83523" out="86322" />
+    </line>
+    <line lang1="- Ja, das #sind genau die Leute, die ich zum Festabend #eingeladen #habe." someNumber="None" image="dg\122_010.gif" lang2="- Да, это именно те люди, которых я приглашал на вечеринку.">
+      <audioTime in="86399" out="90917" />
+    </line>
+  </lines>
+</lesson>

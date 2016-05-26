@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="i_085.wav" dic="p085" dlgName="Встреча у кинотеатра." dlgFile="exr\ig085.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ciao, Carlo." someNumber="None" image="dg\085_001.gif" lang2="- Здравствуй, Карло.">
+      <audioTime in="147" out="1347" />
+    </line>
+    <line lang1="- Ciao, Giorgio." someNumber="None" image="dg\085_001.gif" lang2="- Здравствуй, Джорджио.">
+      <audioTime in="1301" out="2656" />
+    </line>
+    <line lang1="- Sei appena stato al cinema?" someNumber="None" image="dg\085_001.gif" lang2="- Ты только что был в кино?">
+      <audioTime in="2789" out="4531" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\085_001.gif" lang2="- Да.">
+      <audioTime in="4486" out="5253" />
+    </line>
+    <line lang1="- Cosa dànno?" someNumber="None" image="dg\085_001.gif" lang2="- Что идёт?">
+      <audioTime in="5253" out="6473" />
+    </line>
+    <line lang1="- &quot;Parigi di primavera&quot;." someNumber="None" image="dg\085_001.gif" lang2="- &quot;Париж весной&quot;.">
+      <audioTime in="6556" out="8191" />
+    </line>
+    <line lang1="- Oh, l'ho già visto." someNumber="None" image="dg\085_001.gif" lang2="- О, я его уже посмотрел.">
+      <audioTime in="8155" out="9696" />
+    </line>
+    <line lang1="L'ho visto alla TV l'anno scorso." someNumber="None" image="dg\085_001.gif" lang2="Я видел его в программе телевидения в прошлом году.">
+      <audioTime in="10026" out="12244" />
+    </line>
+    <line lang1="È vecchio, però è un bel film." someNumber="380" image="dg\085_001.gif" lang2="Это старый фильм, но очень хороший.">
+      <audioTime in="12485" out="14558" />
+    </line>
+    <line lang1="- Parigi è una città magnifica, eh!" someNumber="None" image="dg\085_001.gif" lang2="- Париж - прекрасный город!">
+      <audioTime in="14655" out="16686" />
+    </line>
+    <line lang1="- Io non ci sono mai stato." someNumber="None" image="dg\085_001.gif" lang2="- Я там никогда не был.">
+      <audioTime in="16872" out="18511" />
+    </line>
+    <line lang1="E tu, Carlo, ci sei mai stato?" someNumber="None" image="dg\085_001.gif" lang2="А ты там когда-нибудь был, Карло?">
+      <audioTime in="18460" out="20403" />
+    </line>
+    <line lang1="- Sì. Ci sono stato in aprile." someNumber="None" image="dg\085_001.gif" lang2="- Да, был. Я был там в апреле.">
+      <audioTime in="20536" out="23284" />
+    </line>
+    <line lang1="- Parigi di primavera, eh?" someNumber="None" image="dg\085_001.gif" lang2="- Париж весной, да?">
+      <audioTime in="23236" out="24922" />
+    </line>
+    <line lang1="- Era primavera, però faceva un tempo orribile." someNumber="None" image="dg\085_001.gif" lang2="- Была весна, но погода была ужасная.">
+      <audioTime in="25019" out="27866" />
+    </line>
+    <line lang1="Ha piovuto sempre." someNumber="None" image="dg\085_001.gif" lang2="Всё время шёл дождь.">
+      <audioTime in="27809" out="29261" />
+    </line>
+    <line lang1="- Proprio come nella vecchia buona Londra!" someNumber="None" image="dg\085_001.gif" lang2="- Совсем как в добром старом Лондоне!">
+      <audioTime in="29502" out="31961" />
+    </line>
+  </lines>
+</lesson>

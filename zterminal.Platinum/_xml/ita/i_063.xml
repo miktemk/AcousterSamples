@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_063.wav" dic="p063" dlgName="Визит врача." dlgFile="exr\ig063.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Come sta Pietro oggi?" someNumber="None" image="dg\063_001.gif" lang2="- Как Пьетро сегодня?">
+      <audioTime in="193" out="2193" />
+    </line>
+    <line lang1="- Sta meglio, grazie, dottore." someNumber="None" image="dg\063_001.gif" lang2="- Ему лучше, спасибо, доктор.">
+      <audioTime in="2128" out="4127" />
+    </line>
+    <line lang1="- Posso visitarlo per favore, signora Fortini?" someNumber="890" image="dg\063_001.gif" lang2="- Могу я его осмотреть, госпожа Фортини?">
+      <audioTime in="4346" out="6836" />
+    </line>
+    <line lang1="- Certo, dottore." someNumber="None" image="dg\063_001.gif" lang2="- Конечно, доктор.">
+      <audioTime in="6901" out="8320" />
+    </line>
+    <line lang1="Andiamo di sopra." someNumber="None" image="dg\063_001.gif" lang2="Пройдемте наверх.">
+      <audioTime in="8377" out="9803" />
+    </line>
+    <line lang1="- Hai una buona cera, Pietro." someNumber="None" image="dg\063_002.gif" lang2="- Ты выглядишь очень хорошо, Пьетро.">
+      <audioTime in="9868" out="11674" />
+    </line>
+    <line lang1="Adesso stai meglio, ma non devi ancora alzarti." someNumber="None" image="dg\063_002.gif" lang2="Тебе сейчас лучше, но тебе ещё нельзя вставать.">
+      <audioTime in="11802" out="14834" />
+    </line>
+    <line lang1="Devi stare a letto ancora due giorni." someNumber="None" image="dg\063_002.gif" lang2="Тебе нужно лежать в кровати ещё два дня.">
+      <audioTime in="14899" out="17156" />
+    </line>
+    <line lang1="- Il ragazzo non deve ancora andare a scuola, signora Fortini." someNumber="None" image="dg\063_003.gif" lang2="- Мальчику ещё нельзя идти в школу, госпожа Фортини.">
+      <audioTime in="17220" out="20510" />
+    </line>
+    <line lang1="E non deve mangiare cibi pesanti." someNumber="None" image="dg\063_003.gif" lang2="И он не должен есть тяжёлую пищу.">
+      <audioTime in="20639" out="23089" />
+    </line>
+    <line lang1="- Ha la febbre, dottore?" someNumber="None" image="dg\063_003.gif" lang2="- У него есть температура, доктор?">
+      <audioTime in="23154" out="24721" />
+    </line>
+    <line lang1="- No, non ce l'ha." someNumber="None" image="dg\063_003.gif" lang2="- Нет, температуры у него нет.">
+      <audioTime in="24721" out="25896" />
+    </line>
+    <line lang1="- Deve stare a letto?" someNumber="None" image="dg\063_003.gif" lang2="- Нужно ли ему лежать в кровати?">
+      <audioTime in="25896" out="27205" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\063_003.gif" lang2="- Да.">
+      <audioTime in="27296" out="27928" />
+    </line>
+    <line lang1="Deve stare a letto ancora due giorni." someNumber="None" image="dg\063_003.gif" lang2="Он должен оставаться в кровати ещё два дня.">
+      <audioTime in="27862" out="30139" />
+    </line>
+    <line lang1="Può alzarsi due ore al giorno, ma dovete tenere la stanza al caldo." someNumber="None" image="dg\063_004.gif" lang2="Каждый день он может вставать часа на два, но Вы должны держать комнату теплой.">
+      <audioTime in="30185" out="34506" />
+    </line>
+    <line lang1="- E dov'è stasera il signor Fortini?" someNumber="None" image="dg\063_004.gif" lang2="- А где сегодня вечером господин Фортини?">
+      <audioTime in="34441" out="36763" />
+    </line>
+    <line lang1="- Sta a letto, dottore." someNumber="None" image="dg\063_004.gif" lang2="- Он в постели, доктор.">
+      <audioTime in="36699" out="38505" />
+    </line>
+    <line lang1="Può visitare anche lui?" someNumber="None" image="dg\063_004.gif" lang2="Не могли бы Вы его осмотреть?">
+      <audioTime in="38505" out="40117" />
+    </line>
+    <line lang1="Anche lui ha preso un brutto raffreddore." someNumber="820" image="dg\063_004.gif" lang2="Он тоже сильно простужен.">
+      <audioTime in="40247" out="42678" />
+    </line>
+  </lines>
+</lesson>

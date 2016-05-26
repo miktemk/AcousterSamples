@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="FR_010.wav" dlgName="В купе" dlgFile="exr\frg010.txt" />
+  <lines>
+    <line lang1="- Qui veut cette place de coin côté fenêtre?" someNumber="None" image="f.jpg" lang2="- Кто хочет занять место в углу около окна?">
+      <audioTime in="0" out="3165" />
+    </line>
+    <line lang1="- Moi!" someNumber="None" image="f.jpg" lang2="- Я!">
+      <audioTime in="3165" out="4287" />
+    </line>
+    <line lang1="- D'accord. Je préfère voyager le dos à la machine." someNumber="None" image="f.jpg" lang2="- Хорошо. Я предпочитаю путешествовать сидя спиной к паровозу.">
+      <audioTime in="4287" out="8118" />
+    </line>
+    <line lang1="- Pierre, mets cette valise dans le filet et donne-moi le journal." someNumber="None" image="f.jpg" lang2="- Пьер, положи этот чемодан на сетку и дай мне газету.">
+      <audioTime in="8118" out="13307" />
+    </line>
+    <line lang1="- A quelle heure arriverons-nous à Royan?" someNumber="None" image="f.jpg" lang2="- Во сколько часов приедем в Руаян?">
+      <audioTime in="13307" out="16445" />
+    </line>
+    <line lang1="- Nous y serons ce soir." someNumber="None" image="f.jpg" lang2="- Мы будем там сегодня вечером.">
+      <audioTime in="16445" out="18642" />
+    </line>
+    <line lang1="Nous voyagerons pendant 8 heures." someNumber="None" image="f.jpg" lang2="Мы будем ехать восемь часов.">
+      <audioTime in="18642" out="21527" />
+    </line>
+    <line lang1="- Est-ce un compartiment pour fumeurs?" someNumber="None" image="f.jpg" lang2="- Это купе для курящих?">
+      <audioTime in="21527" out="24519" />
+    </line>
+    <line lang1="- Non, mais tu peux aller fumer dans le couloir." someNumber="None" image="f.jpg" lang2="- Нет, но ты можешь курить в коридоре.">
+      <audioTime in="24519" out="27944" />
+    </line>
+    <line lang1="- Quelle chaleur! Je commence à avoir soif." someNumber="None" image="f.jpg" lang2="- Какая жара! Мне хочется пить.">
+      <audioTime in="27944" out="33068" />
+    </line>
+    <line lang1="- Passons dans le wagon-restaurant." someNumber="None" image="f.jpg" lang2="- Пойдём в вагон-ресторан.">
+      <audioTime in="33068" out="36006" />
+    </line>
+    <line lang1="Nous y prendrons quelques rafraîchissements." someNumber="None" image="f.jpg" lang2="Мы возьмем там какие-нибудь прохладительные напитки.">
+      <audioTime in="36006" out="39048" />
+    </line>
+    <line lang1="- Attendez une minute. Je vois le contrôleur. Préparons nos billets." someNumber="None" image="f.jpg" lang2="- Подожди минутку. Я вижу контролера. Давайте приготовим наши билеты.">
+      <audioTime in="39048" out="44976" />
+    </line>
+    <line lang1="- Messieurs, vos billets, s'il vous plaît!" someNumber="None" image="f.jpg" lang2="- Господа! Разрешите ваши билеты, пожалуйста!">
+      <audioTime in="44976" out="48002" />
+    </line>
+    <line lang1="- Mon Dieu! Je ne trouve pas mon ticket de location." someNumber="None" image="f.jpg" lang2="- Боже мой! Не могу найти мой билет.">
+      <audioTime in="48002" out="52033" />
+    </line>
+    <line lang1="- Mais tu le tiens à la main!" someNumber="None" image="f.jpg" lang2="- Ведь ты его держишь в руке!">
+      <audioTime in="52033" out="54084" />
+    </line>
+    <line lang1="- Ah, que je suis distrait!" someNumber="None" image="f.jpg" lang2="- Ах, какой я рассеянный!">
+      <audioTime in="54084" out="56675" />
+    </line>
+  </lines>
+</lesson>

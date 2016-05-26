@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_108.wav" dic="p108" dlgName="Этот... А тот..." dlgFile="exr\dg107.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Dieser Polizist #ist groß." someNumber="None" image="dg\108_001.gif" lang2="- Этот полицейский высокий.">
+      <audioTime in="529" out="2515" />
+    </line>
+    <line lang1="- Aber jener Polizist #ist größer." someNumber="None" image="dg\108_001.gif" lang2="- Но тот полицейский выше него.">
+      <audioTime in="2780" out="4899" />
+    </line>
+    <line lang1="Er #ist der größte Polizist, den ich je #gesehen #habe." someNumber="None" image="dg\108_001.gif" lang2="Он самый высокий полицейский, которого я когда-либо видел.">
+      <audioTime in="5164" out="7945" />
+    </line>
+    <line lang1="- Diese Frau #ist klein." someNumber="370" image="dg\108_002.gif" lang2="- Эта женщина низкого роста.">
+      <audioTime in="8343" out="9799" />
+    </line>
+    <line lang1="- Aber jene Frau #ist kleiner." someNumber="None" image="dg\108_002.gif" lang2="- Но та женщина ниже её.">
+      <audioTime in="9799" out="11785" />
+    </line>
+    <line lang1="Sie #ist die kleinste Frau, die ich jemals #gesehen #habe." someNumber="None" image="dg\108_002.gif" lang2="Она самая низкая женщина, которую я когда-либо видел.">
+      <audioTime in="12050" out="14963" />
+    </line>
+    <line lang1="- Diese Wagen #sind billig." someNumber="None" image="dg\108_003.gif" lang2="- Эти машины дешёвые.">
+      <audioTime in="16023" out="18540" />
+    </line>
+    <line lang1="- Aber jene Wagen #sind billiger." someNumber="390" image="dg\108_003.gif" lang2="- Но те машины дешевле.">
+      <audioTime in="18937" out="20923" />
+    </line>
+    <line lang1="Das #sind die billigsten Wagen, die ich je #gesehen #habe." someNumber="390" image="dg\108_003.gif" lang2="Это самые дешёвые машины, которые я когда-либо видел.">
+      <audioTime in="21055" out="23836" />
+    </line>
+    <line lang1="- Dieses Messer #ist scharf." someNumber="None" image="dg\108_004.gif" lang2="- Этот нож острый.">
+      <audioTime in="24233" out="26087" />
+    </line>
+    <line lang1="- Aber jenes Messer #ist schärfer." someNumber="980" image="dg\108_004.gif" lang2="- Но тот нож острее.">
+      <audioTime in="26352" out="28339" />
+    </line>
+    <line lang1="Das #ist das schärfste Messer, das ich jemals #gesehen #habe." someNumber="980" image="dg\108_004.gif" lang2="Это самый острый нож, который я когда-либо видел.">
+      <audioTime in="28604" out="31782" />
+    </line>
+    <line lang1="- Dieses Mädchen #ist hübsch." someNumber="160" image="dg\108_005.gif" lang2="- Эта девушка красивая.">
+      <audioTime in="32312" out="34033" />
+    </line>
+    <line lang1="- Aber jenes Mädchen #ist hübscher." someNumber="None" image="dg\108_005.gif" lang2="- Но та девушка красивее.">
+      <audioTime in="34166" out="36814" />
+    </line>
+    <line lang1="Es #ist das hübscheste Mädchen, das ich je #gesehen #habe." someNumber="None" image="dg\108_005.gif" lang2="Она самая красивая девушка, которую я когда-либо видел.">
+      <audioTime in="37343" out="41052" />
+    </line>
+    <line lang1="- Diese Angestellten #sind faul." someNumber="None" image="dg\108_006.gif" lang2="- Эти служащие ленивые.">
+      <audioTime in="41979" out="45025" />
+    </line>
+    <line lang1="- Aber jene Angestellten #sind fauler." someNumber="150" image="dg\108_006.gif" lang2="- Но те служащие ленивее.">
+      <audioTime in="45289" out="47673" />
+    </line>
+    <line lang1="Sie #sind die faulsten Angestellten, die ich jemals #gesehen #habe." someNumber="150" image="dg\108_006.gif" lang2="Они самые ленивые служащие, которых я когда-либо видел.">
+      <audioTime in="47805" out="52308" />
+    </line>
+    <line lang1="- Diese Kirche #ist groß." someNumber="None" image="dg\108_007.gif" lang2="- Эта церковь большая.">
+      <audioTime in="52970" out="54824" />
+    </line>
+    <line lang1="- Aber jene Kirche #ist größer." someNumber="None" image="dg\108_007.gif" lang2="- Но та церковь больше.">
+      <audioTime in="54957" out="57075" />
+    </line>
+    <line lang1="Sie #ist die größte Kirche, die ich je #gesehen #habe." someNumber="None" image="dg\108_007.gif" lang2="Она самая большая церковь, которую я когда-либо видел.">
+      <audioTime in="57340" out="60386" />
+    </line>
+    <line lang1="- Dieser Test #ist leicht." someNumber="140" image="dg\108_008.gif" lang2="- Этот тест лёгкий.">
+      <audioTime in="61048" out="62638" />
+    </line>
+    <line lang1="- Aber jener Test #ist leichter." someNumber="310" image="dg\108_008.gif" lang2="- Но тот тест легче.">
+      <audioTime in="63300" out="65418" />
+    </line>
+    <line lang1="Das #ist der leichteste Test, den ich jemals #gesehen #habe." someNumber="310" image="dg\108_008.gif" lang2="Это самый лёгкий тест, который я когда-либо видел.">
+      <audioTime in="65683" out="69126" />
+    </line>
+    <line lang1="- Dieses Messer #ist stumpf." someNumber="990" image="dg\108_009.gif" lang2="- Этот нож тупой.">
+      <audioTime in="69920" out="71509" />
+    </line>
+    <line lang1="- Aber jenes Messer #ist stumpfer." someNumber="310" image="dg\108_009.gif" lang2="- Но тот нож тупее.">
+      <audioTime in="71907" out="73894" />
+    </line>
+    <line lang1="Das #ist das stumpfste Messer, das ich je #gesehen #habe." someNumber="310" image="dg\108_009.gif" lang2="Это самый тупой нож, который я когда-либо видел.">
+      <audioTime in="74159" out="77602" />
+    </line>
+    <line lang1="- Dieser Junge #ist dünn." someNumber="None" image="dg\108_010.gif" lang2="- Этот мальчик худой.">
+      <audioTime in="78396" out="80515" />
+    </line>
+    <line lang1="- Aber jener Junge #ist dünner." someNumber="140" image="dg\108_010.gif" lang2="- Но тот мальчик худее.">
+      <audioTime in="80779" out="83560" />
+    </line>
+    <line lang1="Das #ist der dünnste Junge, den ich jemals #gesehen #habe." someNumber="140" image="dg\108_010.gif" lang2="Он самый худой мальчик, которого я когда-либо видел.">
+      <audioTime in="83825" out="87269" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_065.wav" dic="p065" dlgName="Она не ребёнок." dlgFile="exr\fg065.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Que vas-tu faire ce soir, Marie?" someNumber="None" image="dg\065_001.gif" lang2="- Что ты собираешься делать этим вечером, Мари?">
+      <audioTime in="0" out="1592" />
+    </line>
+    <line lang1="- Je vais voir mes amis, papa." someNumber="None" image="dg\065_001.gif" lang2="- Я собираюсь встретиться с друзьями, папа.">
+      <audioTime in="1592" out="3427" />
+    </line>
+    <line lang1="- Tu ne dois pas rentrer tard à la maison. Tu dois être à la maison à dix heures et demie." someNumber="None" image="dg\065_002.gif" lang2="- Ты не должна приходить домой поздно. Ты должна быть дома в половине одиннадцатого.">
+      <audioTime in="3427" out="7166" />
+    </line>
+    <line lang1="- Je ne peux pas rentrer à la maison si tôt, papa!" someNumber="None" image="dg\065_003.gif" lang2="- Я не могу прийти домой так рано, папа!">
+      <audioTime in="7166" out="9387" />
+    </line>
+    <line lang1="Puis-je prendre les clés de la porte d'entrée, s'il te plaît?" someNumber="None" image="dg\065_004.gif" lang2="Могу ли я взять ключи от входной двери, пожалуйста?">
+      <audioTime in="9387" out="11748" />
+    </line>
+    <line lang1="- Non, tu ne peux pas." someNumber="None" image="dg\065_004.gif" lang2="- Нет, ты не можешь.">
+      <audioTime in="11748" out="12843" />
+    </line>
+    <line lang1="- Marie a 18 ans, Jacques. Elle n'est plus une enfant." someNumber="None" image="dg\065_005.gif" lang2="- Мари 18 лет, Жак. Она больше не ребёнок.">
+      <audioTime in="12843" out="15681" />
+    </line>
+    <line lang1="Donne-lui les clés. Elle rentre toujours tôt à la maison." someNumber="None" image="dg\065_006.gif" lang2="Дай ей ключи. Она всегда приходит домой рано.">
+      <audioTime in="15681" out="18319" />
+    </line>
+    <line lang1="- Ah bon." someNumber="None" image="dg\065_006.gif" lang2="- О, хорошо.">
+      <audioTime in="18319" out="19161" />
+    </line>
+    <line lang1="- Les voilà. Mais tu ne doit pas rentrer à la maison après dix heures et quart." someNumber="None" image="dg\065_007.gif" lang2="- Вот они. Но ты не должна приходить домой после 15 минут одиннадцатого.">
+      <audioTime in="19161" out="22367" />
+    </line>
+    <line lang1="Tu m'entends?" someNumber="930" image="dg\065_008.gif" lang2="Ты меня слышишь?">
+      <audioTime in="22367" out="23297" />
+    </line>
+    <line lang1="- Oui, papa." someNumber="930" image="dg\065_008.gif" lang2="- Да, папа.">
+      <audioTime in="23297" out="24392" />
+    </line>
+    <line lang1="- Merci, maman." someNumber="None" image="dg\065_009.gif" lang2="- Спасибо, мама.">
+      <audioTime in="24392" out="25188" />
+    </line>
+    <line lang1="- Ça va. Tout va bien, chérie." someNumber="None" image="dg\065_009.gif" lang2="- Всё в порядке, дорогая.">
+      <audioTime in="25188" out="27113" />
+    </line>
+    <line lang1="Au revoir. Amusez-vous bien." someNumber="None" image="dg\065_010.gif" lang2="До свидания. Приятного времяпровождения.">
+      <audioTime in="27113" out="28786" />
+    </line>
+    <line lang1="- Nous nous amusons toujours bien. A tout à l'heure." someNumber="780" image="dg\065_011.gif" lang2="- Мы всегда приятно проводим время. Пока.">
+      <audioTime in="28786" out="30913" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_002.wav" dic="p002" dlgName="Это Ваш(а)?.." dlgFile="exr\fg001.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Est-ce votre stylo?" someNumber="930" image="dg\002_001.gif" lang2="- Это ваша ручка?">
+      <audioTime in="0" out="1254" />
+    </line>
+    <line lang1="- Oui, c'est mon stylo." someNumber="870" image="dg\002_001.gif" lang2="- Да, это моя ручка.">
+      <audioTime in="1254" out="2396" />
+    </line>
+    <line lang1="- Est-ce votre crayon?" someNumber="None" image="dg\002_002.gif" lang2="- Это ваш карандаш?">
+      <audioTime in="2396" out="3491" />
+    </line>
+    <line lang1="- Oui, c'est mon crayon." someNumber="None" image="dg\002_002.gif" lang2="- Да, это мой карандаш.">
+      <audioTime in="3491" out="4723" />
+    </line>
+    <line lang1="- Est-ce votre livre?" someNumber="None" image="dg\002_003.gif" lang2="- Это ваша книга?">
+      <audioTime in="4723" out="5730" />
+    </line>
+    <line lang1="- Oui, c'est mon livre." someNumber="None" image="dg\002_003.gif" lang2="- Да, это моя книга.">
+      <audioTime in="5730" out="6608" />
+    </line>
+    <line lang1="- Est-ce votre montre?" someNumber="None" image="dg\002_004.gif" lang2="- Это ваши часы?">
+      <audioTime in="6608" out="7676" />
+    </line>
+    <line lang1="- Oui, c'est ma montre." someNumber="None" image="dg\002_004.gif" lang2="- Да, это мои часы.">
+      <audioTime in="7676" out="8850" />
+    </line>
+    <line lang1="- Est-ce votre manteau?" someNumber="500" image="dg\002_005.gif" lang2="- Это ваше пальто?">
+      <audioTime in="8850" out="9953" />
+    </line>
+    <line lang1="- Oui, c'est mon manteau." someNumber="None" image="dg\002_005.gif" lang2="- Да, это моё пальто.">
+      <audioTime in="9953" out="11221" />
+    </line>
+    <line lang1="- Est-ce votre robe?" someNumber="None" image="dg\002_006.gif" lang2="- Это ваше платье?">
+      <audioTime in="11221" out="12241" />
+    </line>
+    <line lang1="- Oui, c'est ma robe." someNumber="None" image="dg\002_006.gif" lang2="- Да, это моё платье.">
+      <audioTime in="12241" out="13391" />
+    </line>
+    <line lang1="- Est-ce votre jupe?" someNumber="None" image="dg\002_007.gif" lang2="- Это ваша юбка?">
+      <audioTime in="13391" out="14447" />
+    </line>
+    <line lang1="- Oui, c'est ma jupe." someNumber="530" image="dg\002_007.gif" lang2="- Да, это моя юбка.">
+      <audioTime in="14447" out="15467" />
+    </line>
+    <line lang1="- Est-ce votre chemise?" someNumber="None" image="dg\002_008.gif" lang2="- Это ваша рубашка?">
+      <audioTime in="15467" out="16604" />
+    </line>
+    <line lang1="- Oui, c'est ma chemise." someNumber="None" image="dg\002_008.gif" lang2="- Да, это моя рубашка.">
+      <audioTime in="16604" out="17948" />
+    </line>
+    <line lang1="- Est-ce votre voiture?" someNumber="None" image="dg\002_009.gif" lang2="- Это ваша машина?">
+      <audioTime in="17948" out="19177" />
+    </line>
+    <line lang1="- Oui, c'est ma voiture." someNumber="None" image="dg\002_009.gif" lang2="- Да, это моя машина.">
+      <audioTime in="19177" out="20325" />
+    </line>
+    <line lang1="- Est-ce votre maison?" someNumber="None" image="dg\002_010.gif" lang2="- Это ваш дом?">
+      <audioTime in="20325" out="21452" />
+    </line>
+    <line lang1="- Oui, c'est ma maison." someNumber="None" image="dg\002_010.gif" lang2="- Да, это мой дом.">
+      <audioTime in="21452" out="22319" />
+    </line>
+  </lines>
+</lesson>

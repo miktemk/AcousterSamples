@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="FR_035.wav" dlgName="Комната" dlgFile="exr\frg035.txt" />
+  <lines>
+    <line lang1="- Voici une chambre." someNumber="None" image="f.jpg" lang2="- Вот комната.">
+      <audioTime in="0" out="2811" />
+    </line>
+    <line lang1="- C'est une chambre." someNumber="None" image="f.jpg" lang2="- Это комната.">
+      <audioTime in="2811" out="5393" />
+    </line>
+    <line lang1="- Et voici des meubles." someNumber="None" image="f.jpg" lang2="- А вот мебель.">
+      <audioTime in="5393" out="8206" />
+    </line>
+    <line lang1="- Ce sont des meubles." someNumber="None" image="f.jpg" lang2="- Это мебель.">
+      <audioTime in="8206" out="10490" />
+    </line>
+    <line lang1="- Qu'est-ce que c'est?" someNumber="None" image="f.jpg" lang2="- Что это?">
+      <audioTime in="10490" out="12544" />
+    </line>
+    <line lang1="- C'est un phono, et voici des disques." someNumber="None" image="f.jpg" lang2="- Это проигрыватель, а вот пластинки.">
+      <audioTime in="12544" out="18044" />
+    </line>
+    <line lang1="- Voici une étagère et des livres." someNumber="None" image="f.jpg" lang2="- Вот этажерки и книги.">
+      <audioTime in="18044" out="22258" />
+    </line>
+    <line lang1="- Et voici des cahiers, des crayons des papiers." someNumber="None" image="f.jpg" lang2="- А вот тетради, карандаши и бумага.">
+      <audioTime in="22258" out="28466" />
+    </line>
+    <line lang1="- Ce sont de cahiers, des crayons et des papiers." someNumber="None" image="f.jpg" lang2="- Это карандаши, тетради и бумага.">
+      <audioTime in="28466" out="33314" />
+    </line>
+    <line lang1="- Voici une chambre." someNumber="None" image="f.jpg" lang2="- Вот комната.">
+      <audioTime in="33314" out="38384" />
+    </line>
+    <line lang1="- C'est la chambre de Pierre." someNumber="None" image="f.jpg" lang2="- Это комната Пьера.">
+      <audioTime in="38384" out="41387" />
+    </line>
+    <line lang1="- Voici le plafond, le plancher, les murs, la porte et les fenêtres de la chambre." someNumber="None" image="f.jpg" lang2="- Вот потолок, пол, стены, дверь и окна комнаты.">
+      <audioTime in="41387" out="50106" />
+    </line>
+    <line lang1="- C'est le plafond." someNumber="None" image="f.jpg" lang2="- Это потолок.">
+      <audioTime in="50106" out="52489" />
+    </line>
+    <line lang1="- C'est le plancher." someNumber="None" image="f.jpg" lang2="- Это пол.">
+      <audioTime in="52489" out="54804" />
+    </line>
+    <line lang1="- Ce sont les murs." someNumber="None" image="f.jpg" lang2="- Это стены.">
+      <audioTime in="54804" out="57074" />
+    </line>
+    <line lang1="- C'est la porte." someNumber="None" image="f.jpg" lang2="- Это дверь.">
+      <audioTime in="57074" out="58801" />
+    </line>
+    <line lang1="- Ce sont les fenêtres." someNumber="None" image="f.jpg" lang2="- Это окна.">
+      <audioTime in="58801" out="61376" />
+    </line>
+    <line lang1="- Voici la table et les livres de Pierre." someNumber="None" image="f.jpg" lang2="- Вот стол и книги Пьера.">
+      <audioTime in="61376" out="65200" />
+    </line>
+    <line lang1="- C'est la table et ce sont les livres de Pierre." someNumber="None" image="f.jpg" lang2="- Это стол, а это книги Пьера.">
+      <audioTime in="65200" out="70783" />
+    </line>
+    <line lang1="- Et voici une photo. C'est la photo d'André." someNumber="None" image="f.jpg" lang2="- А вот фотография. Это фотография Андрэ.">
+      <audioTime in="70783" out="75470" />
+    </line>
+    <line lang1="- Qui est André?" someNumber="None" image="f.jpg" lang2="- Кто такой Андрэ?">
+      <audioTime in="75470" out="77352" />
+    </line>
+    <line lang1="- André est un ami de Pierre." someNumber="None" image="f.jpg" lang2="- Андрэ-это друг Пьера.">
+      <audioTime in="77352" out="80324" />
+    </line>
+    <line lang1="- Pierre est dans la chambre." someNumber="None" image="f.jpg" lang2="- Пьер в комнате.">
+      <audioTime in="80324" out="85102" />
+    </line>
+    <line lang1="- C'est la chambre de Pierre." someNumber="None" image="f.jpg" lang2="- Это комната Пьера.">
+      <audioTime in="85102" out="88298" />
+    </line>
+    <line lang1="- Dans la chambre, il y a une table, une étagère, et quelques chaises." someNumber="None" image="f.jpg" lang2="- В комнате имеется стол, полка и несколько стульев.">
+      <audioTime in="88298" out="94631" />
+    </line>
+    <line lang1="- Sur le plancher, il y a un tapis." someNumber="None" image="f.jpg" lang2="- На полу имеется ковер.">
+      <audioTime in="94631" out="99430" />
+    </line>
+    <line lang1="- Sur le mur, il y a des tableaux." someNumber="None" image="f.jpg" lang2="- На стене висят картины.">
+      <audioTime in="99430" out="102698" />
+    </line>
+    <line lang1="- Où est Pierre?" someNumber="None" image="f.jpg" lang2="- Где Пьер?">
+      <audioTime in="102698" out="104690" />
+    </line>
+    <line lang1="- Il est assis devant la table." someNumber="None" image="f.jpg" lang2="- Он сидит за столом.">
+      <audioTime in="104690" out="108074" />
+    </line>
+    <line lang1="- Sur la table, devant Pierre, il y a des livres, des cahiers, et des crayons." someNumber="None" image="f.jpg" lang2="- На столе перед Пьером имеются книги, тетради, карандаши.">
+      <audioTime in="108074" out="117329" />
+    </line>
+  </lines>
+</lesson>

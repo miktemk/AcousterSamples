@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="i_101.wav" dic="p101" dlgName="Что ещё он говорит?" dlgFile="exr\ig101.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Per favore, Maria, leggimi la cartolina che mi ha mandato Filippo." someNumber="930" image="dg\101_001.gif" lang2="- Прочти мне, пожалуйста, открытку Филиппо, Мария.">
+      <audioTime in="0" out="4032" />
+    </line>
+    <line lang1="- &quot;Sono appena arrivato in Scozia e mi sono fermato in un ostello per la gioventù&quot;." someNumber="None" image="dg\101_001.gif" lang2="- &quot;Я только что прибыл в Шотландию и остановился в молодежном общежитии&quot;.">
+      <audioTime in="4102" out="9267" />
+    </line>
+    <line lang1="- Eh?" someNumber="None" image="dg\101_001.gif" lang2="- Э?">
+      <audioTime in="9337" out="10115" />
+    </line>
+    <line lang1="- Dice che è appena arrivato in Scozia." someNumber="None" image="dg\101_001.gif" lang2="- Он говорит, что он только что прибыл в Шотландию.">
+      <audioTime in="10115" out="12803" />
+    </line>
+    <line lang1="Dice che si è fermato in un ostello per la gioventù." someNumber="1050" image="dg\101_001.gif" lang2="Он говорит, что остановился в молодежном общежитии.">
+      <audioTime in="12874" out="16128" />
+    </line>
+    <line lang1="Sai, è socio dell'A.O.G." someNumber="None" image="dg\101_001.gif" lang2="Ты знаешь, он член А.М.О.">
+      <audioTime in="16199" out="18179" />
+    </line>
+    <line lang1="- Che?" someNumber="None" image="dg\101_001.gif" lang2="- Чего?">
+      <audioTime in="18179" out="18902" />
+    </line>
+    <line lang1="- Dell'A.O.G., mamma." someNumber="None" image="dg\101_001.gif" lang2="- А.М.О., мама.">
+      <audioTime in="19028" out="20532" />
+    </line>
+    <line lang1="L'associazione degli ostelli per la gioventù." someNumber="None" image="dg\101_001.gif" lang2="Ассоциации Молодежных Общежитий.">
+      <audioTime in="20532" out="23061" />
+    </line>
+    <line lang1="- Che altro dice?" someNumber="None" image="dg\101_001.gif" lang2="- Что ещё он говорит?">
+      <audioTime in="23202" out="24475" />
+    </line>
+    <line lang1="- &quot;Scriverò una lettera presto." someNumber="None" image="dg\101_001.gif" lang2="- &quot;Я скоро напишу письмо.">
+      <audioTime in="24546" out="26668" />
+    </line>
+    <line lang1="Spero che voi tutti stiate bene&quot;." someNumber="None" image="dg\101_001.gif" lang2="Я надеюсь, у вас всё в порядке&quot;.">
+      <audioTime in="26738" out="29361" />
+    </line>
+    <line lang1="- Cosa?" someNumber="None" image="dg\101_001.gif" lang2="- Что?">
+      <audioTime in="29356" out="30346" />
+    </line>
+    <line lang1="Maria, parla più forte." someNumber="None" image="dg\101_001.gif" lang2="Говори громче, Мария.">
+      <audioTime in="30417" out="32353" />
+    </line>
+    <line lang1="Non ti sento." someNumber="None" image="dg\101_001.gif" lang2="Боюсь, что я тебя не слышу.">
+      <audioTime in="32353" out="33572" />
+    </line>
+    <line lang1="- Dice che ci scriverà presto una lettera." someNumber="None" image="dg\101_001.gif" lang2="- Он говорит, что скоро напишет письмо.">
+      <audioTime in="33671" out="36712" />
+    </line>
+    <line lang1="Lui spera che stiamo tutti bene." someNumber="None" image="dg\101_001.gif" lang2="Он надеется, что у нас всё в порядке.">
+      <audioTime in="36712" out="39118" />
+    </line>
+    <line lang1="&quot;Con affetto, Filippo&quot;." someNumber="None" image="dg\101_001.gif" lang2="&quot;С любовью, Филиппо&quot;.">
+      <audioTime in="39118" out="40886" />
+    </line>
+    <line lang1="- È tutto?" someNumber="None" image="dg\101_001.gif" lang2="- Это всё?">
+      <audioTime in="40886" out="42061" />
+    </line>
+    <line lang1="Non ha scritto tanto, vero?" someNumber="None" image="dg\101_001.gif" lang2="Не очень то он много пишет, не так ли?">
+      <audioTime in="42088" out="43928" />
+    </line>
+    <line lang1="- Non è possibile scrivere tanto su una cartolina." someNumber="None" image="dg\101_001.gif" lang2="- Он не может много написать на открытке.">
+      <audioTime in="43928" out="47041" />
+    </line>
+  </lines>
+</lesson>

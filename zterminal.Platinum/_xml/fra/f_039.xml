@@ -1,0 +1,32 @@
+<lesson>
+  <header wav="f_039.wav" dic="p039" dlgName="Ваза." dlgFile="exr\fg039.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Que vas-tu faire avec ce vase, Claire?" someNumber="None" image="dg\039_001.gif" lang2="- Что ты собираешься сделать с этой вазой, Клара?">
+      <audioTime in="0" out="2083" />
+    </line>
+    <line lang1="- Je vais le mettre sur la radio, Alain." someNumber="810" image="dg\039_002.gif" lang2="- Я собираюсь поставить её на радио, Ален.">
+      <audioTime in="2083" out="4024" />
+    </line>
+    <line lang1="- Ne fais pas cela. Donne-moi ce vase." someNumber="None" image="dg\039_003.gif" lang2="- Не делай этого. Дай мне эту вазу.">
+      <audioTime in="4024" out="6250" />
+    </line>
+    <line lang1="- Que vas-tu faire avec ce vase?" someNumber="200" image="dg\039_003.gif" lang2="- Что ты собираешься делать с этой вазой?">
+      <audioTime in="6250" out="7763" />
+    </line>
+    <line lang1="- Je vais le mettre ici, en face de la fenêtre." someNumber="None" image="dg\039_004.gif" lang2="- Я собираюсь поставить её здесь, напротив окна.">
+      <audioTime in="7763" out="9939" />
+    </line>
+    <line lang1="- Prends garde! Ne le laisse pas tomber." someNumber="None" image="dg\039_005.gif" lang2="- Будь осторожен! Не урони её!">
+      <audioTime in="9939" out="11858" />
+    </line>
+    <line lang1="Ne le mets pas là, Alain. Mets ici sur le rayon." someNumber="810" image="dg\039_006.gif" lang2="Не ставь её туда, Ален. Поставь сюда на полку.">
+      <audioTime in="11858" out="15235" />
+    </line>
+    <line lang1="Ça y est. C'est un joli vase." someNumber="None" image="dg\039_007.gif" lang2="Вот и всё! Это красивая ваза.">
+      <audioTime in="15235" out="16940" />
+    </line>
+    <line lang1="- Ces fleurs sont aussi belles." someNumber="210" image="dg\039_007.gif" lang2="- Эти цветы также красивы.">
+      <audioTime in="16940" out="18302" />
+    </line>
+  </lines>
+</lesson>

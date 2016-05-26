@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="j_072.wav" dlgName="Дверь была открыта" dic="p072" />
+  <lines>
+    <line lang1="ードア*を*開けました*か。" someNumber="92" image="072_001.jpg" lang2="- (Вы) открыли дверь?">
+      <audioTime in="0" out="3259" />
+    </line>
+    <line lang1="ードア*が*開いていました。" someNumber="92" image="072_001.jpg" lang2="- Дверь была открыта.">
+      <audioTime in="3259" out="6649" />
+    </line>
+    <line lang1="ー窓*を*閉めました*か。" someNumber="None" image="072_003.jpg" lang2="- (Вы) закрыли окно?">
+      <audioTime in="6649" out="9548" />
+    </line>
+    <line lang1="ー窓*が*閉まっていました。" someNumber="None" image="072_003.jpg" lang2="- Окно было закрыто.">
+      <audioTime in="9548" out="12146" />
+    </line>
+    <line lang1="ー電気*を*つけました*か。" someNumber="None" image="072_005.jpg" lang2="- (Вы) включили электричество (свет)?">
+      <audioTime in="12146" out="15076" />
+    </line>
+    <line lang1="ー電気*が*ついていました。" someNumber="None" image="072_005.jpg" lang2="- Свет был включен.">
+      <audioTime in="15076" out="17849" />
+    </line>
+    <line lang1="ー電気*を*消しました*か。" someNumber="None" image="072_007.jpg" lang2="- (Вы) выключили электричество (свет)?">
+      <audioTime in="17849" out="20954" />
+    </line>
+    <line lang1="ーいいえ、電気*が*とつぜん*消えました。" someNumber="None" image="072_007.jpg" lang2="- Нет, свет внезапно потух.">
+      <audioTime in="20954" out="24595" />
+    </line>
+    <line lang1="ーカーテン*を*掛けました*か。" someNumber="None" image="072_009.jpg" lang2="- (Вы) повесили шторы?">
+      <audioTime in="24595" out="27683" />
+    </line>
+    <line lang1="ーカーテン*が*掛かっていました。" someNumber="None" image="072_009.jpg" lang2="- Шторы были повешены.">
+      <audioTime in="27683" out="30266" />
+    </line>
+    <line lang1="ーおゆ*を*わかしました*か。" someNumber="None" image="072_011.jpg" lang2="- (Вы) вскипятили воду?">
+      <audioTime in="30266" out="33247" />
+    </line>
+    <line lang1="ーおゆ*が*わいていました。" someNumber="None" image="072_011.jpg" lang2="- Вода вскипела.">
+      <audioTime in="33247" out="36082" />
+    </line>
+    <line lang1="ー本*を*きれい*に*並べました*か。" someNumber="None" image="072_013.jpg" lang2="- Разложили ли Вы книги красиво в ряд?">
+      <audioTime in="36082" out="39676" />
+    </line>
+    <line lang1="ー本*が*きれい*に*並んでいました。" someNumber="None" image="072_013.jpg" lang2="- Книги были разложены красиво в ряд.">
+      <audioTime in="39676" out="42670" />
+    </line>
+    <line lang1="ーだれ*が*私*の*コップ*を*わりました*か。" someNumber="None" image="072_015.jpg" lang2="- Кто разбил мой стакан?">
+      <audioTime in="42670" out="46327" />
+    </line>
+    <line lang1="ー分かりません。コップ*が*われていました。" someNumber="None" image="072_016.jpg" lang2="- Не знаю. Стакан был разбит.">
+      <audioTime in="46327" out="50351" />
+    </line>
+    <line lang1="ー授業*は*何時*に*始まります*か。" someNumber="None" image="072_017.jpg" lang2="- В котором часу начинается урок?">
+      <audioTime in="50351" out="53769" />
+    </line>
+    <line lang1="ーあと*１０分*で、授業*を*始めましょう。" someNumber="None" image="072_017.jpg" lang2="- Начнем урок через 10 минут.">
+      <audioTime in="53769" out="57805" />
+    </line>
+    <line lang1="ー朝、何時*に*家*を*出ます*か。" someNumber="None" image="072_019.jpg" lang2="- В котором часу Вы выходите из дома по утрам?">
+      <audioTime in="57805" out="61496" />
+    </line>
+    <line lang1="ー７時*に*出ます。ごみ*も*出します。" someNumber="None" image="072_020.jpg" lang2="- Выхожу в 7 часов. И мусор выношу.">
+      <audioTime in="61496" out="64994" />
+    </line>
+    <line lang1="―みんな*集まった*から、" someNumber="154" image="072_021.jpg" lang2="- Так как все (уже) собрались,">
+      <audioTime in="64994" out="67712" />
+    </line>
+    <line lang1="林*さん*の*切手*の*収集*を*見*に*行きましょう。" someNumber="None" image="072_022.jpg" lang2="пойдём смотреть коллекцию марок Хаяси-сана.">
+      <audioTime in="67712" out="71179" />
+    </line>
+    <line lang1="―林*さん*は*切手*を*集めています*か。知りませんでした。" someNumber="None" image="072_022.jpg" lang2="- Хаяси-сан собирает марки? (Я) не знала.">
+      <audioTime in="71179" out="76527" />
+    </line>
+    <line lang1="ー引き出し*の*中*に*手紙*が*あります。" someNumber="None" image="072_024.jpg" lang2="- В выдвижном ящике есть письмо.">
+      <audioTime in="76527" out="80065" />
+    </line>
+    <line lang1="だれ*が*入れました*か。" someNumber="None" image="072_024.jpg" lang2="Кто положил его внутрь?">
+      <audioTime in="80065" out="82314" />
+    </line>
+    <line lang1="ー私*が*入れました。" someNumber="None" image="072_026.jpg" lang2="- Я положила.">
+      <audioTime in="82314" out="84176" />
+    </line>
+    <line lang1="部屋*に*入った*とき、だれ*も*いなかった*から、" someNumber="153" image="072_027.jpg" lang2="Когда (я) вошла в комнату, никого не было,">
+      <audioTime in="84176" out="87896" />
+    </line>
+    <line lang1="あなた*の*引き出し*の*中*に*入れました。" someNumber="None" image="072_027.jpg" lang2="поэтому положила его в Ваш ящик.">
+      <audioTime in="87896" out="90466" />
+    </line>
+    <line lang1="ー車*を*銀行*の*そば*に*止めて*下さい。" someNumber="None" image="072_029.jpg" lang2="- Остановите машину у банка!">
+      <audioTime in="90466" out="94137" />
+    </line>
+    <line lang1="ー気*を*付けて！銀行*の*そば*に*あやしい*車*が*止まりました。" someNumber="None" image="072_030.jpg" lang2="- Будьте внимательны! У банка остановилась подозрительная машина.">
+      <audioTime in="94137" out="100561" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="d_089.wav" dic="p089" dlgName="Этот дом продаётся?" dlgFile="exr\dg089.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Guten Tag!" someNumber="380" image="dg\089_001.gif" lang2="- Добрый день!">
+      <audioTime in="314" out="1651" />
+    </line>
+    <line lang1="Mir #scheint, man #verkauft dieses Haus." someNumber="380" image="dg\089_001.gif" lang2="Я полагаю, что этот дом продаётся.">
+      <audioTime in="1730" out="4247" />
+    </line>
+    <line lang1="- Das #stimmt." someNumber="None" image="dg\089_001.gif" lang2="- Это так.">
+      <audioTime in="4483" out="5662" />
+    </line>
+    <line lang1="- #Darf ich es #sehen, bitte?" someNumber="680" image="dg\089_001.gif" lang2="- Могу ли я взглянуть на него, пожалуйста?">
+      <audioTime in="5819" out="7470" />
+    </line>
+    <line lang1="- Ja, gewiss, #1treten Sie #2ein." someNumber="680" image="dg\089_001.gif" lang2="- Да, конечно, заходите.">
+      <audioTime in="7470" out="9830" />
+    </line>
+    <line lang1="- Wie lange #haben Sie hier #gewohnt?" someNumber="None" image="dg\089_002.gif" lang2="- Как долго вы жили здесь?">
+      <audioTime in="10066" out="13055" />
+    </line>
+    <line lang1="- Ich #habe hier 20 Jahre #gewohnt." someNumber="None" image="dg\089_002.gif" lang2="- Я жил здесь 20 лет.">
+      <audioTime in="13055" out="15178" />
+    </line>
+    <line lang1="- 20 Jahre!" someNumber="410" image="dg\089_002.gif" lang2="- 20 лет!">
+      <audioTime in="15257" out="16750" />
+    </line>
+    <line lang1="Das #ist ja sehr lang." someNumber="410" image="dg\089_002.gif" lang2="Это же очень долго.">
+      <audioTime in="16908" out="18638" />
+    </line>
+    <line lang1="- Ja, ich #bin seit 1947 hier." someNumber="410" image="dg\089_002.gif" lang2="- Да, я здесь с 1947 года.">
+      <audioTime in="18717" out="22413" />
+    </line>
+    <line lang1="- Und warum #wollen Sie es #verkaufen?" someNumber="None" image="dg\089_002.gif" lang2="- А почему Вы его хотите продать?">
+      <audioTime in="22571" out="26424" />
+    </line>
+    <line lang1="- Weil ich mich eben #pensionieren #haben #lasse." someNumber="None" image="dg\089_002.gif" lang2="- Потому что я только что ушёл на пенсию.">
+      <audioTime in="26502" out="29648" />
+    </line>
+    <line lang1="Ich #will ein kleines Haus in der Vorstadt #kaufen." someNumber="None" image="dg\089_002.gif" lang2="Я хочу купить маленький дом за городом.">
+      <audioTime in="29648" out="32637" />
+    </line>
+    <line lang1="- Was #kostet dieses Haus?" someNumber="None" image="dg\089_002.gif" lang2="- Сколько этот дом стоит?">
+      <audioTime in="32716" out="34368" />
+    </line>
+    <line lang1="- 240.000 Mark." someNumber="None" image="dg\089_002.gif" lang2="- 240.000 марок.">
+      <audioTime in="34446" out="36569" />
+    </line>
+    <line lang1="- Das #ist eine sehr hohe Summe!" someNumber="None" image="dg\089_002.gif" lang2="- Это очень большая сумма!">
+      <audioTime in="36648" out="39164" />
+    </line>
+    <line lang1="- Es #ist das wert." someNumber="360" image="dg\089_002.gif" lang2="- Он стоит того.">
+      <audioTime in="39086" out="40895" />
+    </line>
+    <line lang1="- Nun gut." someNumber="None" image="dg\089_002.gif" lang2="- Ну, хорошо.">
+      <audioTime in="40973" out="41996" />
+    </line>
+    <line lang1="Dieses Haus #gefällt mir." someNumber="None" image="dg\089_002.gif" lang2="Этот дом мне нравится.">
+      <audioTime in="41996" out="43569" />
+    </line>
+    <line lang1="Aber ich #kann mich noch nicht #entschließen." someNumber="None" image="dg\089_002.gif" lang2="Но я пока ещё не могу решиться.">
+      <audioTime in="43490" out="46243" />
+    </line>
+    <line lang1="Meine Frau #soll es zuerst #sehen." someNumber="None" image="dg\089_002.gif" lang2="Моя жена должна сначала посмотреть его.">
+      <audioTime in="46322" out="48602" />
+    </line>
+    <line lang1="- Die Frau #hat immer das letzte Wort." someNumber="270" image="dg\089_002.gif" lang2="- За женщиной всегда последнее слово.">
+      <audioTime in="48602" out="51826" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="d_055.wav" dic="p055" dlgName="Семья." dlgFile="exr\dg055.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Richters #wohnen Gartenstraße 87." someNumber="None" image="dg\055_001.gif" lang2="- Рихтеры живут на Гартенштрасе 87.">
+      <audioTime in="297" out="3871" />
+    </line>
+    <line lang1="- Am Morgen #geht Herr Richter zur Arbeit," someNumber="900" image="dg\055_002.gif" lang2="- Утром господин Рихтер идёт на работу,">
+      <audioTime in="4169" out="6751" />
+    </line>
+    <line lang1="und die Kinder #gehen in die Schule." someNumber="900" image="dg\055_002.gif" lang2="а дети идут в школу.">
+      <audioTime in="6850" out="8737" />
+    </line>
+    <line lang1="- Ihr Vater #bringt sie jeden Tag in die Schule." someNumber="None" image="dg\055_002.gif" lang2="- Отец отводит их в школу каждый день.">
+      <audioTime in="8935" out="12311" />
+    </line>
+    <line lang1="- Frau Richter #bleibt jeden Tag zu Hause." someNumber="150" image="dg\055_003.gif" lang2="- Госпожа Рихтер остаётся дома каждый день.">
+      <audioTime in="12609" out="15190" />
+    </line>
+    <line lang1="Sie #macht die Hausarbeit." someNumber="150" image="dg\055_003.gif" lang2="Она делает домашнюю работу.">
+      <audioTime in="15388" out="16878" />
+    </line>
+    <line lang1="- Sie #frühstückt immer am Mittag." someNumber="None" image="dg\055_004.gif" lang2="- Она всегда завтракает в полдень.">
+      <audioTime in="17176" out="19260" />
+    </line>
+    <line lang1="- Am Tage #trifft sie ihre Freundinnen." someNumber="None" image="dg\055_004.gif" lang2="- Днём она встречается со своими подружками.">
+      <audioTime in="19360" out="21643" />
+    </line>
+    <line lang1="Sie #trinken oft zusammen Tee." someNumber="None" image="dg\055_004.gif" lang2="Они часто пьют чай вместе.">
+      <audioTime in="21942" out="23827" />
+    </line>
+    <line lang1="- Am Abend #kommen die Kinder aus der Schule." someNumber="190" image="dg\055_005.gif" lang2="- Вечером дети приходят домой из школы.">
+      <audioTime in="24026" out="26806" />
+    </line>
+    <line lang1="Sie #kommen früh nach Hause." someNumber="190" image="dg\055_005.gif" lang2="Они приходят домой рано.">
+      <audioTime in="27004" out="28693" />
+    </line>
+    <line lang1="- Herr Richter #kommt von der Arbeit nach Hause." someNumber="None" image="dg\055_006.gif" lang2="- Господин Рихтер приходит домой с работы.">
+      <audioTime in="28791" out="31075" />
+    </line>
+    <line lang1="Er #kommt spät nach Hause." someNumber="None" image="dg\055_006.gif" lang2="Он приезжает домой поздно.">
+      <audioTime in="31075" out="33260" />
+    </line>
+    <line lang1="- Am Abend #machen die Kinder gewöhnlich ihre Hausaufgaben." someNumber="None" image="dg\055_007.gif" lang2="- Вечером дети обычно делают свои домашние задания.">
+      <audioTime in="33458" out="37131" />
+    </line>
+    <line lang1="Dann #gehen sie zu Bett." someNumber="None" image="dg\055_007.gif" lang2="Затем они идут спать.">
+      <audioTime in="37131" out="38621" />
+    </line>
+    <line lang1="- Herr Richter #liest gewöhnlich seine Zeitung," someNumber="None" image="dg\055_007.gif" lang2="- Господин Рихтер обычно читает газету,">
+      <audioTime in="38819" out="41698" />
+    </line>
+    <line lang1="aber manchmal #1sehen seine Frau und er #2fern." someNumber="None" image="dg\055_007.gif" lang2="но иногда он и его жена смотрят телевизор.">
+      <audioTime in="41798" out="45272" />
+    </line>
+  </lines>
+</lesson>

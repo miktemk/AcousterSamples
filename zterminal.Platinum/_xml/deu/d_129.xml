@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="d_129.wav" dic="p129" dlgName="На трассе." dlgFile="exr\dg129.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Sieh mal, Harry!" someNumber="630" image="dg\129_001.gif" lang2="- Смотри-ка, Гарри!">
+      <audioTime in="338" out="1607" />
+    </line>
+    <line lang1="Der Polizist #winkt dir." someNumber="630" image="dg\129_001.gif" lang2="Полицейский машет тебе.">
+      <audioTime in="1607" out="3301" />
+    </line>
+    <line lang1="Er #will, dass du #hältst." someNumber="630" image="dg\129_001.gif" lang2="Он хочет, чтобы ты остановился.">
+      <audioTime in="3470" out="4824" />
+    </line>
+    <line lang1="- Wo #meinen Sie, wo Sie #sind?" someNumber="980" image="dg\129_002.gif" lang2="- Где Вы полагаете, Вы находитесь?">
+      <audioTime in="5841" out="8295" />
+    </line>
+    <line lang1="#Sind Sie auf der Rennstraße?" someNumber="980" image="dg\129_002.gif" lang2="Вы на гоночной трассе?">
+      <audioTime in="8718" out="10750" />
+    </line>
+    <line lang1="Sie #fuhren wohl mit 70 Kilometern pro Stunde." someNumber="570" image="dg\129_002.gif" lang2="Вы, должно быть, ехали со скоростью 70 км в час.">
+      <audioTime in="10835" out="14305" />
+    </line>
+    <line lang1="- Das #ist nicht möglich!" someNumber="None" image="dg\129_002.gif" lang2="- Это невозможно!">
+      <audioTime in="14559" out="16252" />
+    </line>
+    <line lang1="- Ich #fuhr mit 80 Stunden Kilometer, als ich Sie #überholt #habe." someNumber="None" image="dg\129_002.gif" lang2="- Я ехал со скоростью 80 км в час, когда я обогнал Вас.">
+      <audioTime in="16167" out="20569" />
+    </line>
+    <line lang1="#Haben Sie nicht aufs Tachometer #geschaut?" someNumber="760" image="dg\129_003.gif" lang2="Вы не смотрели на ограничитель скорости?">
+      <audioTime in="20653" out="23024" />
+    </line>
+    <line lang1="- Ich #habe Angst, dass ich in Gedanken #versunken #war." someNumber="None" image="dg\129_003.gif" lang2="- Я боюсь, что я предался размышлениям.">
+      <audioTime in="23193" out="26241" />
+    </line>
+    <line lang1="- Er #war nicht in Gedanken #versunken, Herr Polizist." someNumber="980" image="dg\129_003.gif" lang2="- Он не предался размышлениям, господин полицейский.">
+      <audioTime in="26325" out="29033" />
+    </line>
+    <line lang1="Ich #sagte ihm, dass er langsamer #fahren #soll." someNumber="980" image="dg\129_003.gif" lang2="Я говорила ему, чтобы он ехал медленнее.">
+      <audioTime in="29034" out="31879" />
+    </line>
+    <line lang1="- #Ist es jetzt klar, warum ich nicht das Verkehrszeichen #gesehen #habe." someNumber="None" image="dg\129_003.gif" lang2="- Теперь ясно, почему я не видел знак.">
+      <audioTime in="32419" out="36228" />
+    </line>
+    <line lang1="- #Erlauben Sie, #zeigen Sie Ihren Führerschein und Ihre Versicherung." someNumber="630" image="dg\129_004.gif" lang2="- Разрешите, покажите Ваши водительские права и свидетельство о страховке.">
+      <audioTime in="36228" out="40038" />
+    </line>
+    <line lang1="Diesmal #bestrafe ich Sie nicht." someNumber="550" image="dg\129_004.gif" lang2="Я не накажу Вас на этот раз.">
+      <audioTime in="40038" out="42323" />
+    </line>
+    <line lang1="Aber es #ist besser aufmerksamer zu #sein." someNumber="550" image="dg\129_004.gif" lang2="Но лучше быть внимательнее.">
+      <audioTime in="42239" out="44947" />
+    </line>
+    <line lang1="- Vielen Dank." someNumber="750" image="dg\129_005.gif" lang2="- Большое спасибо.">
+      <audioTime in="45031" out="45782" />
+    </line>
+    <line lang1="Ich #werde gewiss aufmerksamer #fahren." someNumber="750" image="dg\129_005.gif" lang2="Я, конечно, буду ехать более внимательно.">
+      <audioTime in="45782" out="47634" />
+    </line>
+    <line lang1="- Ich #sagte doch langsamer #fahren, Harry." someNumber="740" image="dg\129_006.gif" lang2="- Я же говорила тебе ехать медленнее, Гарри.">
+      <audioTime in="47571" out="50280" />
+    </line>
+    <line lang1="- Du #sagst mir immer langsamer #fahren, Liebling." someNumber="None" image="dg\129_006.gif" lang2="- Ты всегда говоришь мне ехать медленнее, дорогая.">
+      <audioTime in="50196" out="53074" />
+    </line>
+    <line lang1="- Gut, nächstes Mal #sollst du auf meinen Rat #hören!" someNumber="680" image="dg\129_006.gif" lang2="- Хорошо, в следующий раз тебе лучше последовать моему совету!">
+      <audioTime in="52988" out="56205" />
+    </line>
+  </lines>
+</lesson>

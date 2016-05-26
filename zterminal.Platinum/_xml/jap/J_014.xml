@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="J_014.wav" dlgName="Сколько человек?" dic="p014" />
+  <lines>
+    <line lang1="ーきょうしつ*に*だれ*が*います*か。" someNumber="None" image="014_001.jpg" lang2="- Кто есть в аудитории?">
+      <audioTime in="0" out="4176" />
+    </line>
+    <line lang1="―先生*と*学生*が*います。" someNumber="None" image="014_001.jpg" lang2="- Преподаватель и студенты.">
+      <audioTime in="4176" out="8743" />
+    </line>
+    <line lang1="―なん*人*います*か。" someNumber="34" image="014_001.jpg" lang2="- Сколько их человек?">
+      <audioTime in="8743" out="11254" />
+    </line>
+    <line lang1="ー一人、二人、三人、四人、五人。" someNumber="34" image="014_001.jpg" lang2="- Один, два, три, четыре, пять.">
+      <audioTime in="11254" out="19301" />
+    </line>
+    <line lang1="学生*が*四*人*と*先生*が*一*人*います。" someNumber="None" image="014_001.jpg" lang2="Четыре студента и один преподаватель.">
+      <audioTime in="19301" out="24680" />
+    </line>
+    <line lang1="ーあきこ*さん、ご*かぞく*は*何*人*です*か。" someNumber="15" image="014_006.jpg" lang2="- Акико, сколько человек в Вашей семье?">
+      <audioTime in="24680" out="30471" />
+    </line>
+    <line lang1="ー父*と*母*と*私、そして*おとうと*と*いもうと*です。" someNumber="None" image="014_007.jpg" lang2="- Папа, мама, я, затем младший брат и младшая сестра.">
+      <audioTime in="30471" out="39853" />
+    </line>
+    <line lang1="ーお父さん、お母さん、ご*きょうだい*が*二*人*と*あきこ*さん*です*ね。" someNumber="15" image="014_007.jpg" lang2="- Ваш отец, Ваша мать, двое братьев и сестер и Вы, не так ли?">
+      <audioTime in="39853" out="48429" />
+    </line>
+    <line lang1="五人*かぞく*です*ね。" someNumber="None" image="014_009.jpg" lang2="Ваша семья состоит из пяти человек, не так ли?">
+      <audioTime in="48429" out="51302" />
+    </line>
+    <line lang1="ーそう*です。" someNumber="None" image="014_009.jpg" lang2="- Да.">
+      <audioTime in="51302" out="53503" />
+    </line>
+    <line lang1="ーあら、ねこ*が*います*ね。" someNumber="34" image="014_011.jpg" lang2="- Ой! (У Вас) есть кошка?">
+      <audioTime in="53503" out="58724" />
+    </line>
+    <line lang1="ーはい、二*ひき*います。" someNumber="None" image="014_012.jpg" lang2="- Да. Две.">
+      <audioTime in="58724" out="61799" />
+    </line>
+    <line lang1="一ぴき*は*つくえ*の*した*に*います。" someNumber="04" image="014_013.jpg" lang2="Одна под письменным столом.">
+      <audioTime in="61799" out="65487" />
+    </line>
+    <line lang1="もう*一*ぴき*は*にわ*に*います。" someNumber="None" image="014_014.jpg" lang2="Ещё одна - в саду.">
+      <audioTime in="65487" out="69347" />
+    </line>
+    <line lang1="ー木*の*えだ*に*鳥*が*います。" someNumber="None" image="014_015.jpg" lang2="- На ветке есть птицы.">
+      <audioTime in="69347" out="75270" />
+    </line>
+    <line lang1="何*わ*います*か。" someNumber="34" image="014_015.jpg" lang2="Сколько их?">
+      <audioTime in="75270" out="78223" />
+    </line>
+    <line lang1="ー二*わ*います。" someNumber="34" image="014_015.jpg" lang2="- Две.">
+      <audioTime in="78223" out="80521" />
+    </line>
+    <line lang1="ーにわ*に*馬*や*牛*が*います。" someNumber="162" image="014_018.jpg" lang2="- В саду есть лошади и коровы.">
+      <audioTime in="80521" out="86105" />
+    </line>
+    <line lang1="何*とう*います*か。" someNumber="34" image="014_018.jpg" lang2="Сколько их?">
+      <audioTime in="86105" out="88686" />
+    </line>
+    <line lang1="ー馬*が*一*とう*と*牛*が*二*とう*います。" someNumber="34" image="014_018.jpg" lang2="- Одна лошадь и две коровы.">
+      <audioTime in="88686" out="95256" />
+    </line>
+  </lines>
+</lesson>

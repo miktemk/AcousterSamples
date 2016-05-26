@@ -1,0 +1,2 @@
+ - put these contents into .GuitarTime on Android's SD card (root)
+ - fill directories with shit

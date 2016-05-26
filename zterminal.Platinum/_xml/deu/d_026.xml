@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="d_026.wav" dic="p026" dlgName="Есть ли?.. Нет..." dlgFile="exr\dg025.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Steht eine saubere Tasse auf dem Fußboden?" someNumber="290" image="dg\026_001.gif" lang2="- Есть ли чистая чашка на полу?">
+      <audioTime in="463" out="3596" />
+    </line>
+    <line lang1="- Nein, auf dem Fußboden #steht keine Tasse." someNumber="810" image="dg\026_001.gif" lang2="- Нет, на полу нет чашки.">
+      <audioTime in="3712" out="6844" />
+    </line>
+    <line lang1="Eine saubere Tasse #steht auf dem Tisch." someNumber="810" image="dg\026_001.gif" lang2="Чистая чашка стоит на столе.">
+      <audioTime in="6960" out="9628" />
+    </line>
+    <line lang1="- #Liegt eine große Schachtel auf dem Regal?" someNumber="150" image="dg\026_002.gif" lang2="- Лежит на полке большая коробка?">
+      <audioTime in="10092" out="12412" />
+    </line>
+    <line lang1="- Nein, auf dem Regal #liegt keine Schachtel." someNumber="None" image="dg\026_002.gif" lang2="- Нет, на полке нет коробки.">
+      <audioTime in="12528" out="15544" />
+    </line>
+    <line lang1="Eine große Schachtel #liegt auf dem Fußboden." someNumber="None" image="dg\026_002.gif" lang2="Большая коробка лежит на полу.">
+      <audioTime in="15660" out="19024" />
+    </line>
+    <line lang1="- #Steht im Kühlschrank ein leeres Glas?" someNumber="None" image="dg\026_003.gif" lang2="- Стоит в холодильнике пустой стакан?">
+      <audioTime in="19488" out="21808" />
+    </line>
+    <line lang1="- Nein, im Kühlschrank #steht kein leeres Glas." someNumber="None" image="dg\026_003.gif" lang2="- Нет, в холодильнике нет пустого стакана.">
+      <audioTime in="22040" out="25521" />
+    </line>
+    <line lang1="Ein leeres Glas #steht im Schrank." someNumber="None" image="dg\026_003.gif" lang2="Пустой стакан стоит в шкафу.">
+      <audioTime in="25753" out="28304" />
+    </line>
+    <line lang1="- #Liegt ein scharfes Messer auf der Büchse?" someNumber="160" image="dg\026_004.gif" lang2="- Лежит на консервной банке острый нож?">
+      <audioTime in="28768" out="31321" />
+    </line>
+    <line lang1="- Nein, auf der Büchse #liegt kein scharfes Messer." someNumber="None" image="dg\026_004.gif" lang2="- Нет, на консервной банке нет острого ножа.">
+      <audioTime in="31437" out="34685" />
+    </line>
+    <line lang1="Ein scharfes Messer #liegt auf dem Teller." someNumber="None" image="dg\026_004.gif" lang2="Острый нож лежит на тарелке.">
+      <audioTime in="34801" out="37353" />
+    </line>
+    <line lang1="- #Liegt auf dem Teller eine schmutzige Gabel?" someNumber="None" image="dg\026_005.gif" lang2="- Лежит на тарелке грязная вилка?">
+      <audioTime in="37701" out="40369" />
+    </line>
+    <line lang1="- Nein, auf dem Teller #liegt keine Gabel." someNumber="None" image="dg\026_005.gif" lang2="- Нет, на тарелке нет вилки.">
+      <audioTime in="40601" out="44082" />
+    </line>
+    <line lang1="Eine schmutzige Gabel #liegt auf der Büchse." someNumber="None" image="dg\026_005.gif" lang2="Грязная вилка лежит на консервной банке.">
+      <audioTime in="44197" out="46981" />
+    </line>
+    <line lang1="- #Steht eine volle Flasche im Schrank?" someNumber="None" image="dg\026_006.gif" lang2="- Стоит в шкафу полная бутыль?">
+      <audioTime in="47678" out="50113" />
+    </line>
+    <line lang1="- Nein, im Schrank #steht keine volle Flasche." someNumber="None" image="dg\026_006.gif" lang2="- Нет, в шкафу нет полной бутыли.">
+      <audioTime in="50230" out="54174" />
+    </line>
+    <line lang1="Eine volle Flasche #steht im Kühlschrank." someNumber="None" image="dg\026_006.gif" lang2="Полная бутыль стоит в холодильнике.">
+      <audioTime in="54406" out="57422" />
+    </line>
+    <line lang1="- #Liegt ein stumpfer Bleistift auf dem Tisch?" someNumber="None" image="dg\026_007.gif" lang2="- Лежит на столе тупой карандаш?">
+      <audioTime in="58002" out="60669" />
+    </line>
+    <line lang1="- Nein, auf dem Tisch #liegt kein stumpfer Bleistift." someNumber="None" image="dg\026_007.gif" lang2="- Нет, на столе нет тупого карандаша.">
+      <audioTime in="60786" out="64382" />
+    </line>
+    <line lang1="Ein stumpfer Bleistift #liegt auf dem Schreibtisch." someNumber="None" image="dg\026_007.gif" lang2="Тупой карандаш лежит на письменном столе.">
+      <audioTime in="64497" out="67863" />
+    </line>
+    <line lang1="- #Steht ein kleiner Löffel im Glas?" someNumber="None" image="dg\026_008.gif" lang2="- Есть в стакане маленькая ложка?">
+      <audioTime in="68210" out="70414" />
+    </line>
+    <line lang1="- Nein, im Glas #steht kein kleiner Löffel." someNumber="None" image="dg\026_008.gif" lang2="- Нет, в стакане нет маленькой ложки.">
+      <audioTime in="70414" out="74590" />
+    </line>
+    <line lang1="Ein kleiner Löffel #steht in der Tasse." someNumber="None" image="dg\026_008.gif" lang2="Маленькая ложка лежит в чашке.">
+      <audioTime in="74706" out="77258" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="f_030.wav" dic="p030" dlgName="Что сделать?.." dlgFile="exr\fg029.txt" author="Alexander" />
+  <lines>
+    <line lang1="Ouvrir. (un tiroir du bureau)" someNumber="None" image="dg\030_001.gif" lang2="Открыть. (ящик письменного стола)">
+      <audioTime in="0" out="513" />
+    </line>
+    <line lang1="Ouvrez le tiroir du bureau." someNumber="None" image="dg\030_001.gif" lang2="Откройте ящик письменного стола.">
+      <audioTime in="513" out="1957" />
+    </line>
+    <line lang1="Mettre. (votre montre)" someNumber="None" image="dg\030_002.gif" lang2="Надеть. (ваши часы)">
+      <audioTime in="1957" out="2500" />
+    </line>
+    <line lang1="Mettez votre montre." someNumber="None" image="dg\030_002.gif" lang2="Наденьте ваши часы.">
+      <audioTime in="2500" out="3644" />
+    </line>
+    <line lang1="Brancher (une lumière)" someNumber="None" image="dg\030_003.gif" lang2="Включить. (свет)">
+      <audioTime in="3644" out="4174" />
+    </line>
+    <line lang1="Branchez la lumière." someNumber="50" image="dg\030_003.gif" lang2="Включите свет.">
+      <audioTime in="4174" out="5265" />
+    </line>
+    <line lang1="Fermer. (votre sac)" someNumber="None" image="dg\030_004.gif" lang2="Закрыть. (вашу сумку)">
+      <audioTime in="5265" out="5772" />
+    </line>
+    <line lang1="Fermez votre sac." someNumber="None" image="dg\030_004.gif" lang2="Закройте вашу сумку.">
+      <audioTime in="5772" out="6697" />
+    </line>
+    <line lang1="Se déchausser. (vos chaussures)" someNumber="None" image="dg\030_005.gif" lang2="Снимать. (вашу обувь)">
+      <audioTime in="6697" out="7580" />
+    </line>
+    <line lang1="Déchaussez-vous." someNumber="None" image="dg\030_005.gif" lang2="Снимите вашу обувь.">
+      <audioTime in="7580" out="8410" />
+    </line>
+    <line lang1="Fermer. (un robinet)" someNumber="None" image="dg\030_006.gif" lang2="Закрыть. (кран)">
+      <audioTime in="8410" out="8825" />
+    </line>
+    <line lang1="Fermez votre robinet." someNumber="None" image="dg\030_006.gif" lang2="Закройте ваш кран.">
+      <audioTime in="8825" out="9985" />
+    </line>
+    <line lang1="Balayer. (une chambre à coucher)" someNumber="None" image="dg\030_007.gif" lang2="Подметать. (спальню)">
+      <audioTime in="9985" out="10573" />
+    </line>
+    <line lang1="Balayez la chambre à coucher." someNumber="None" image="dg\030_007.gif" lang2="Подметите спальню.">
+      <audioTime in="10573" out="11882" />
+    </line>
+    <line lang1="Laver. (les fenêtres)" someNumber="None" image="dg\030_008.gif" lang2="Мыть. (окна)">
+      <audioTime in="11882" out="12408" />
+    </line>
+    <line lang1="Lavez les fenêtres." someNumber="210" image="dg\030_008.gif" lang2="Помойте окна.">
+      <audioTime in="12408" out="13387" />
+    </line>
+    <line lang1="Essuyer (la poussière de l'armoire)" someNumber="None" image="dg\030_009.gif" lang2="Вытирать. (пыль со шкафа)">
+      <audioTime in="13387" out="14055" />
+    </line>
+    <line lang1="Essuyez la poussière de l'armoire." someNumber="None" image="dg\030_009.gif" lang2="Вытрите пыль со шкафа.">
+      <audioTime in="14055" out="15497" />
+    </line>
+    <line lang1="Vider. (une valise)" someNumber="210" image="dg\030_010.gif" lang2="Опорожнять. (чемодан)">
+      <audioTime in="15497" out="15917" />
+    </line>
+    <line lang1="Videz la valise." someNumber="None" image="dg\030_010.gif" lang2="Опорожните чемодан.">
+      <audioTime in="15917" out="16966" />
+    </line>
+    <line lang1="Lire. (une revue)" someNumber="None" image="dg\030_011.gif" lang2="Читать. (журнал)">
+      <audioTime in="16966" out="17386" />
+    </line>
+    <line lang1="Lisez cette revue." someNumber="None" image="dg\030_011.gif" lang2="Прочитайте этот журнал.">
+      <audioTime in="17386" out="18399" />
+    </line>
+    <line lang1="Tailler (le crayon)" someNumber="200" image="dg\030_012.gif" lang2="Точить. (карандаш)">
+      <audioTime in="18399" out="18787" />
+    </line>
+    <line lang1="Taillez ces crayons." someNumber="470" image="dg\030_012.gif" lang2="Заточите эти карандаши.">
+      <audioTime in="18787" out="19656" />
+    </line>
+  </lines>
+</lesson>

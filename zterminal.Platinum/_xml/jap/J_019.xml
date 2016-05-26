@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="J_019.wav" dlgName="Месяцы" dic="p019" />
+  <lines>
+    <line lang1="ーこん月*は*何*月*です*か。" someNumber="40" image="019_001.jpg" lang2="- Какой сейчас месяц?">
+      <audioTime in="0" out="3798" />
+    </line>
+    <line lang1="ー今月*は*一月*です。" someNumber="40" image="019_002.jpg" lang2="- Сейчас январь.">
+      <audioTime in="3798" out="8735" />
+    </line>
+    <line lang1="ーらい月*は*何月*です*か。" someNumber="None" image="019_002.jpg" lang2="- А следующий месяц?">
+      <audioTime in="8735" out="12329" />
+    </line>
+    <line lang1="ー来月*は*二月*です。" someNumber="None" image="019_002.jpg" lang2="- Следующий месяц - февраль.">
+      <audioTime in="12329" out="16397" />
+    </line>
+    <line lang1="―しけん*は*いつ*です*か。" someNumber="None" image="019_005.jpg" lang2="- А когда экзамены?">
+      <audioTime in="16397" out="19540" />
+    </line>
+    <line lang1="―さ*来月*です。３月*です。" someNumber="None" image="019_005.jpg" lang2="- Через месяц. В марте.">
+      <audioTime in="19540" out="24018" />
+    </line>
+    <line lang1="―そう*です*ね。せん月*は*何*月*でした*か。" someNumber="73" image="019_007.jpg" lang2="- Правильно. А прошлый месяц?">
+      <audioTime in="24018" out="30045" />
+    </line>
+    <line lang1="ー先月*は*十二月*でした。" someNumber="None" image="019_008.jpg" lang2="- Прошлый месяц был декабрем.">
+      <audioTime in="30045" out="34350" />
+    </line>
+    <line lang1="―おたんじょうび*は*先月*でした*か。" someNumber="None" image="019_008.jpg" lang2="- Ваш день рождения был в прошлом месяце?">
+      <audioTime in="34350" out="39198" />
+    </line>
+    <line lang1="―ちがいます。先々月*でした。" someNumber="None" image="019_008.jpg" lang2="- Нет. В позапрошлом месяце.">
+      <audioTime in="39198" out="44089" />
+    </line>
+    <line lang1="―１年*は*何ヶ月*です*か。" someNumber="None" image="019_011.jpg" lang2="- Сколько месяцев в году?">
+      <audioTime in="44089" out="48552" />
+    </line>
+    <line lang1="―１２ヶ月*です。" someNumber="None" image="019_011.jpg" lang2="- 12 месяцев.">
+      <audioTime in="48552" out="52334" />
+    </line>
+    <line lang1="ーはる*は*何ヶ月*ぐらい*です*か。" someNumber="43" image="019_011.jpg" lang2="- Сколько примерно длится весна?">
+      <audioTime in="52334" out="56403" />
+    </line>
+    <line lang1="ーはる*も*なつ*も*ふゆ*も*あき*も*三ヶ月*ぐらい*です。" someNumber="None" image="019_011.jpg" lang2="- И весна, и лето, и осень, и зима длятся примерно по три месяца.">
+      <audioTime in="56403" out="64199" />
+    </line>
+    <line lang1="ーみな*さん*の*なつ*やすみ*は*何ヶ月*です*か。" someNumber="None" image="019_015.jpg" lang2="- Сколько длятся ваши летние каникулы?">
+      <audioTime in="64199" out="69324" />
+    </line>
+    <line lang1="ー一ヶ月*です。" someNumber="None" image="019_015.jpg" lang2="- Один месяц.">
+      <audioTime in="69324" out="72507" />
+    </line>
+    <line lang1="―みじかい*です*ね。" someNumber="134" image="019_015.jpg" lang2="- Как недолго!">
+      <audioTime in="72507" out="75156" />
+    </line>
+  </lines>
+</lesson>

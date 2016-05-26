@@ -1,0 +1,38 @@
+<lesson>
+  <header wav="FR_069.wav" dlgName="Перед отъездом" dlgFile="exr\frg069.txt" />
+  <lines>
+    <line lang1="- Nous partons pour la France." someNumber="None" image="f.jpg" lang2="- Мы едем во Францию.">
+      <audioTime in="0" out="2980" />
+    </line>
+    <line lang1="- Ah! que je suis contente!" someNumber="None" image="f.jpg" lang2="- Ах, как я рада!">
+      <audioTime in="2980" out="6213" />
+    </line>
+    <line lang1="Et quand est-ce que nous partons?" someNumber="None" image="f.jpg" lang2="А когда мы уезжаем?">
+      <audioTime in="6213" out="9040" />
+    </line>
+    <line lang1="- Après-demain." someNumber="None" image="f.jpg" lang2="- Послезавтра.">
+      <audioTime in="9040" out="10730" />
+    </line>
+    <line lang1="Nous allons à Paris avec notre père." someNumber="None" image="f.jpg" lang2="Мы едем в Париж с нашим отцом.">
+      <audioTime in="10730" out="14480" />
+    </line>
+    <line lang1="- Est-ce que nous allons par Prague, Vienne et Strasbourg?" someNumber="None" image="f.jpg" lang2="- Едем ли мы через Прагу, Вену и Страсбург?">
+      <audioTime in="14480" out="20023" />
+    </line>
+    <line lang1="- Oui, c'est bien ça." someNumber="None" image="f.jpg" lang2="- Да, конечно.">
+      <audioTime in="20023" out="22532" />
+    </line>
+    <line lang1="Et nous restons trois jours à Vienne." someNumber="None" image="f.jpg" lang2="И мы задержимся на при дня в Вене.">
+      <audioTime in="22532" out="25624" />
+    </line>
+    <line lang1="- A propos, est-ce que nous avons déjà nos billets?" someNumber="None" image="f.jpg" lang2="- Кстати, есть ли у нас уже билеты?">
+      <audioTime in="25624" out="30747" />
+    </line>
+    <line lang1="- Certainement." someNumber="None" image="f.jpg" lang2="- Конечно.">
+      <audioTime in="30747" out="32207" />
+    </line>
+    <line lang1="- Eh, bien, allons faire les malles." someNumber="None" image="f.jpg" lang2="- В таком случае, идем укладывать чемоданы.">
+      <audioTime in="32207" out="36178" />
+    </line>
+  </lines>
+</lesson>

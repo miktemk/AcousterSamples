@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_068.wav" dic="p068" dlgName="Когда Вы были в?.." dlgFile="exr\fg067.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Quand avez-vous visité l'église?" someNumber="530" image="dg\068_001.gif" lang2="- Когда вы были в церкви?">
+      <audioTime in="0" out="1597" />
+    </line>
+    <line lang1="- J'y suis allée dimanche." someNumber="None" image="dg\068_001.gif" lang2="- Я туда ходила в воскресенье.">
+      <audioTime in="1597" out="2919" />
+    </line>
+    <line lang1="- Quand Pierre est-il allé chez le coiffeur?" someNumber="None" image="dg\068_002.gif" lang2="- Когда Пьер ходил к парикмахеру?">
+      <audioTime in="2919" out="4830" />
+    </line>
+    <line lang1="- Il y est allé mercredi." someNumber="90" image="dg\068_002.gif" lang2="- Он туда ходил в среду.">
+      <audioTime in="4830" out="6163" />
+    </line>
+    <line lang1="- Quand madame Denoy est-elle allée chez le boucher?" someNumber="None" image="dg\068_003.gif" lang2="- Когда госпожа Денуа ходила к мяснику?">
+      <audioTime in="6163" out="9028" />
+    </line>
+    <line lang1="- Elle y est allée mercredi." someNumber="None" image="dg\068_003.gif" lang2="- Она туда ходила в среду.">
+      <audioTime in="9028" out="10379" />
+    </line>
+    <line lang1="- Quand êtes-vous allée à la maison?" someNumber="930" image="dg\068_004.gif" lang2="- Когда вы ездили домой?">
+      <audioTime in="10379" out="11654" />
+    </line>
+    <line lang1="- J'y suis allée dimanche." someNumber="None" image="dg\068_004.gif" lang2="- Я туда ездила в воскресенье.">
+      <audioTime in="11654" out="13116" />
+    </line>
+    <line lang1="- Quand mademoiselle Verdier est-elle allée à l'office?" someNumber="None" image="dg\068_005.gif" lang2="- Когда г-жа Вердье ходила на службу?">
+      <audioTime in="13116" out="15316" />
+    </line>
+    <line lang1="- Elle y est allée mardi." someNumber="None" image="dg\068_005.gif" lang2="- Она туда ходила во вторник.">
+      <audioTime in="15316" out="16518" />
+    </line>
+    <line lang1="- Quand Marie est-elle allée chez le boulanger?" someNumber="200" image="dg\068_006.gif" lang2="- Когда Мари ходила к булочнику?">
+      <audioTime in="16518" out="18670" />
+    </line>
+    <line lang1="- Elle y est allée dimanche." someNumber="None" image="dg\068_006.gif" lang2="- Она туда ходила в воскресенье.">
+      <audioTime in="18670" out="19805" />
+    </line>
+    <line lang1="- Quand êtes-vous allée à la crémerie?" someNumber="None" image="dg\068_007.gif" lang2="- Когда вы ходили в молочный магазин?">
+      <audioTime in="19805" out="21271" />
+    </line>
+    <line lang1="- J'y suis allée samedi." someNumber="None" image="dg\068_007.gif" lang2="- Я туда ходила в субботу.">
+      <audioTime in="21271" out="22319" />
+    </line>
+    <line lang1="- Quand Georges est-il allé au tabac?" someNumber="70" image="dg\068_008.gif" lang2="- Когда Жорж ходил в табачную лавочку?">
+      <audioTime in="22319" out="23918" />
+    </line>
+    <line lang1="- Il y est allé mercredi." someNumber="None" image="dg\068_008.gif" lang2="- Он туда ходил в среду.">
+      <audioTime in="23918" out="25099" />
+    </line>
+    <line lang1="- Quand madame Souchet est-elle allée chez l'épicier?" someNumber="None" image="dg\068_009.gif" lang2="- Когда госпожа Суше ходила к бакалейщику?">
+      <audioTime in="25099" out="27169" />
+    </line>
+    <line lang1="- Elle y est allée lundi." someNumber="None" image="dg\068_009.gif" lang2="- Она туда ходила в понедельник.">
+      <audioTime in="27169" out="28270" />
+    </line>
+    <line lang1="- Quand êtes-vous allée à l'école?" someNumber="530" image="dg\068_010.gif" lang2="- Когда вы ходили в школу?">
+      <audioTime in="28270" out="29529" />
+    </line>
+    <line lang1="- J'y suis allée lundi." someNumber="None" image="dg\068_010.gif" lang2="- Я туда ходила в понедельник.">
+      <audioTime in="29529" out="30787" />
+    </line>
+  </lines>
+</lesson>

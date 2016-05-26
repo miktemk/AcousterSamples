@@ -1,0 +1,392 @@
+<lesson>
+  <header wav="pist01.wav" dic="p144" dlgName="&quot;Пистолет в озере&quot; Часть 1" dlgFile="exr\ig144.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Sonia, che cosa vuoi, come sei entrata?" someNumber="None" image="it\pist003.jpg" lang2="- Соня, чего ты хочешь, как ты вошла?">
+      <audioTime in="2029" out="5350" />
+    </line>
+    <line lang1="- Ho ancora la chiave, te ne sei dimenticato?" someNumber="None" image="it\pist004.jpg" lang2="- У меня пока что есть ключ, ты это забыл?">
+      <audioTime in="5252" out="8761" />
+    </line>
+    <line lang1="- Metti via quella pistola." someNumber="None" image="it\pist005.jpg" lang2="- Отставь в сторону этот пистолет.">
+      <audioTime in="8761" out="10492" />
+    </line>
+    <line lang1="- Volevo dirti guardandoti in faccia quello che ti ho già detto al telefono." someNumber="None" image="it\pist006.jpg" lang2="- Хотела сказать тебе, глядя на твоё лицо, то что тебе уже говорила по телефону.">
+      <audioTime in="11087" out="16074" />
+    </line>
+    <line lang1="- Per questa ragione sei venuta qui armata?" someNumber="None" image="it\pist007.jpg" lang2="- И по этой причине ты пришла сюда вооруженная?">
+      <audioTime in="16278" out="18777" />
+    </line>
+    <line lang1="- Non ti prego questa volta, lo esigo," someNumber="None" image="it\pist008.jpg" lang2="- На этот раз тебя не прошу, требую,">
+      <audioTime in="18637" out="21663" />
+    </line>
+    <line lang1="esigo quello che mi spetta, quello che mi hai promesso." someNumber="None" image="it\pist010.jpg" lang2="требую то, что мне полагается, что ты обещал.">
+      <audioTime in="21691" out="24456" />
+    </line>
+    <line lang1="- Io non ti ho fatto nessuna promessa." someNumber="None" image="it\pist009.jpg" lang2="- Я никаких обещаний не делал.">
+      <audioTime in="24366" out="26178" />
+    </line>
+    <line lang1="- Tu l'hai fatta, e ti faccio fuori se non la mantieni." someNumber="None" image="it\pist011.jpg" lang2="- Ты делал, и я тебя выкину, если не сдержишь.">
+      <audioTime in="26076" out="30507" />
+    </line>
+    <line lang1="- Sonia, pensa a quello che fai." someNumber="None" image="it\pist012.jpg" lang2="- Соня думай, что делаешь.">
+      <audioTime in="30436" out="33716" />
+    </line>
+    <line lang1="- Che succede, hai paura che io faccia uno sbaglio?" someNumber="None" image="it\pist013.jpg" lang2="- Что происходит, боишься, что совершу ошибку?">
+      <audioTime in="34854" out="39967" />
+    </line>
+    <line lang1="Oh, mio Dio, come sei falso." someNumber="None" image="it\pist010.jpg" lang2="О, Боже мой, какой ты фальшивый.">
+      <audioTime in="40156" out="43504" />
+    </line>
+    <line lang1="Devi aver paura di questa, della pistola." someNumber="None" image="it\pist010.jpg" lang2="Ты, наверное, боишься этого пистолета.">
+      <audioTime in="43663" out="47800" />
+    </line>
+    <line lang1="E tu hai paura, te lo leggo in faccia, stai per fartela sotto." someNumber="None" image="it\pist015.jpg" lang2="И ты боишься, это я вижу по твоему лицу, ты в ужасе.">
+      <audioTime in="48833" out="54887" />
+    </line>
+    <line lang1="Io adesso ti ammazzo." someNumber="None" image="it\pist015.jpg" lang2="Сейчас я тебя убью.">
+      <audioTime in="56328" out="61066" />
+    </line>
+    <line lang1="- Sonia..." someNumber="None" image="it\pist016.jpg" lang2="- Соня...">
+      <audioTime in="60624" out="62960" />
+    </line>
+    <line lang1="- Faccio un patto, l'ultimo, Karl." someNumber="None" image="it\pist017.jpg" lang2="- Договариваемся в последний раз, Карл.">
+      <audioTime in="62834" out="67356" />
+    </line>
+    <line lang1="Fra tre giorni torno a prendere la lettera di donazione" someNumber="None" image="it\pist017.jpg" lang2="Через три дня возвращусь забрать дарственную,">
+      <audioTime in="69215" out="72392" />
+    </line>
+    <line lang1="oppure moriamo in due." someNumber="None" image="it\pist017.jpg" lang2="или же умрем вдвоем.">
+      <audioTime in="72158" out="74116" />
+    </line>
+    <line lang1="Bum, bum. Dormi bene." someNumber="None" image="it\pist018.jpg" lang2="Бум, бум. Спи хорошо.">
+      <audioTime in="73890" out="80759" />
+    </line>
+    <line lang1="- Era ubriaca, non sapeva che cosa diceva." someNumber="None" image="it\pist022.jpg" lang2="- Была пьяная, не знала, что говорила.">
+      <audioTime in="84820" out="87789" />
+    </line>
+    <line lang1="Non avevo paura in realtà." someNumber="None" image="it\pist022.jpg" lang2="В действительности я не боялся.">
+      <audioTime in="87906" out="90929" />
+    </line>
+    <line lang1="No, un po' di paura l'avevo, ma perché era ubriaca." someNumber="None" image="it\pist022.jpg" lang2="Нет, немножко боялся, но потому что она была пьяная.">
+      <audioTime in="90861" out="94644" />
+    </line>
+    <line lang1="Gli ubriachi spesso e volentieri agiscono senza pensare," someNumber="None" image="it\pist023.jpg" lang2="Пьяные очень часто действуют не раздумывая,">
+      <audioTime in="94358" out="97926" />
+    </line>
+    <line lang1="o poteva inciampare e far partire un colpo." someNumber="None" image="it\pist023.jpg" lang2="или она могла споткнуться и выстрелить.">
+      <audioTime in="97922" out="101272" />
+    </line>
+    <line lang1="Non sa come si usa un'arma." someNumber="None" image="it\pist023.jpg" lang2="Не знает как обращаться с оружием.">
+      <audioTime in="101955" out="103620" />
+    </line>
+    <line lang1="Vorrei proprio sapere come l'ha avuta." someNumber="None" image="it\pist024.jpg" lang2="На самом деле, хотел бы знать, откуда он у неё.">
+      <audioTime in="103592" out="105338" />
+    </line>
+    <line lang1="- Ma in concreto lei che cosa voleva?" someNumber="None" image="it\pist033.jpg" lang2="- Но конкретно, что она хотела?">
+      <audioTime in="105278" out="107831" />
+    </line>
+    <line lang1="- Ho una casa in Spagna, una casa molto bella, devo dire." someNumber="None" image="it\pist024.jpg" lang2="- У меня есть дом в Испании, и должен сказать, очень красивый дом.">
+      <audioTime in="109198" out="112632" />
+    </line>
+    <line lang1="Appena dopo il divorzio le ho dato mezzo milione di marchi e le ho anche detto," someNumber="None" image="it\pist024.jpg" lang2="Сразу после развода я дал ей полмиллиона марок и также сказал:">
+      <audioTime in="112632" out="116639" />
+    </line>
+    <line lang1="&quot;Quando ne hai voglia puoi andare in quella casa&quot;." someNumber="None" image="it\pist024.jpg" lang2="&quot;Когда захочешь, можешь пойти в этот дом&quot;.">
+      <audioTime in="116519" out="119677" />
+    </line>
+    <line lang1="Sia ben chiaro che non gliel'ho né promessa né regalata," someNumber="None" image="it\pist026.jpg" lang2="Ясно, что я ей не обещал и не подарил,">
+      <audioTime in="119719" out="123257" />
+    </line>
+    <line lang1="le ho solamente detto &quot;quando ne hai voglia puoi andarci&quot;." someNumber="None" image="it\pist026.jpg" lang2="только сказал ей &quot;когда захочешь, можешь пойти туда&quot;.">
+      <audioTime in="123299" out="127511" />
+    </line>
+    <line lang1="Lei è andata ad abitarci stabilmente." someNumber="None" image="it\pist026.jpg" lang2="Она переехала туда на постоянное жительство.">
+      <audioTime in="127385" out="129658" />
+    </line>
+    <line lang1="Adesso io ho comprato un'altra casa in Florida e quella in Spagna vorrei venderla." someNumber="None" image="it\pist026.jpg" lang2="Сейчас я купил другой дом во Флориде и тот в Испании хотел бы продать.">
+      <audioTime in="130880" out="137408" />
+    </line>
+    <line lang1="- Si renderà conto che io non posso esprimermi sull'aspetto emotivo di questa vicenda," someNumber="None" image="it\pist027.jpg" lang2="- Учтите, что я не могу выражаться об эмоциональной стороне этого происшествия,">
+      <audioTime in="138202" out="142784" />
+    </line>
+    <line lang1="conosco Lei e conosco la Sua ex-moglie, anche se di sfuggita." someNumber="None" image="it\pist027.jpg" lang2="зная Вас и зная Вашу бывшую жену, даже если мимолетно.">
+      <audioTime in="142749" out="147659" />
+    </line>
+    <line lang1="Giuridicamente quello che ha fatto la Sua ex-moglie si chiama" someNumber="None" image="it\pist027.jpg" lang2="Юридически, то что сделала Ваша бывшая жена называется">
+      <audioTime in="148241" out="151733" />
+    </line>
+    <line lang1="violenza privata, violazione di domicilio." someNumber="None" image="it\pist028.jpg" lang2="приватное насилие, нарушение местожительства.">
+      <audioTime in="151660" out="154243" />
+    </line>
+    <line lang1="E porto d'armi illegale. Se Lei vuole, può sporgere denuncia," someNumber="None" image="it\pist028.jpg" lang2="И ношение нерегистрированного оружия, если хотите, можете подать заявление">
+      <audioTime in="154206" out="158390" />
+    </line>
+    <line lang1="e in realtà l'ha già fatto venendo da me," someNumber="None" image="it\pist028.jpg" lang2="и в действительности уже подали, придя ко мне,">
+      <audioTime in="158164" out="161668" />
+    </line>
+    <line lang1="sostituto procuratore, a raccontare l'accaduto." someNumber="None" image="it\pist028.jpg" lang2="к заместителю прокурора, рассказав о происшествии.">
+      <audioTime in="161668" out="163701" />
+    </line>
+    <line lang1="- Io non voglio assolutamente che Sonia finisca in prigione." someNumber="None" image="it\pist029.jpg" lang2="- Я, безусловно, не хочу, чтобы Соня попала в тюрьму.">
+      <audioTime in="163609" out="166453" />
+    </line>
+    <line lang1="Io voglio solo che torni a ragionare, che qualcuno le tolga quella maledetta pistola dalle mani." someNumber="None" image="it\pist029.jpg" lang2="Я только хочу, чтобы она опомнилась, чтобы кто-то отобрал этот проклятый пистолет из её рук.">
+      <audioTime in="166821" out="171454" />
+    </line>
+    <line lang1="- Perchè Lei non le lascia la casa?" someNumber="None" image="it\pist031.jpg" lang2="- Почему Вы ей не оставляете дом?">
+      <audioTime in="172175" out="174466" />
+    </line>
+    <line lang1="- Per comprare la casa in Florida ho bisogno di vendere quella che ho in Spagna." someNumber="None" image="it\pist032.jpg" lang2="- Чтобы купить дом во Флориде, мне нужно продать тот, что у меня в Испании.">
+      <audioTime in="174303" out="178177" />
+    </line>
+    <line lang1="- Capisco. - Poi, le ho già dato mezzo milione di marchi, a suo tempo." someNumber="None" image="it\pist032.jpg" lang2="- Понимаю. - Потом я дал ей полмиллиона марок в своё время.">
+      <audioTime in="178776" out="182377" />
+    </line>
+    <line lang1="- E che cosa ne ha fatto?" someNumber="None" image="it\pist035.jpg" lang2="- Что она с ними сделала?">
+      <audioTime in="182214" out="184179" />
+    </line>
+    <line lang1="- Qualche consulente finanzario glieli ha mandati in fumo." someNumber="None" image="it\pist034.jpg" lang2="- Какой-нибудь консультирующий финансист их уничтожил.">
+      <audioTime in="184887" out="188434" />
+    </line>
+    <line lang1="Forse le darò la casa." someNumber="None" image="it\pist034.jpg" lang2="Наверное, я ей отдам дом.">
+      <audioTime in="190599" out="192690" />
+    </line>
+    <line lang1="Se non la intesto a lei, finerà a mio fratello che..." someNumber="None" image="it\pist036.jpg" lang2="Если его не отдам ей, он достанется моему брату, который...">
+      <audioTime in="193944" out="197273" />
+    </line>
+    <line lang1="è anche più irresponsabile di Sonia." someNumber="None" image="it\pist036.jpg" lang2="и даже более безответственный, чем Соня.">
+      <audioTime in="197273" out="199728" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="it\pist038.jpg" lang2="- Да.">
+      <audioTime in="199912" out="201632" />
+    </line>
+    <line lang1="- Commissario Sawaski, polizia criminale." someNumber="None" image="it\pist038.jpg" lang2="- Комиссар Саваски, уголовная полиция.">
+      <audioTime in="201522" out="204464" />
+    </line>
+    <line lang1="Lei è la signora Sonia Tauber?" someNumber="None" image="it\pist039.jpg" lang2="Вы синьора Соня Таубер?">
+      <audioTime in="204520" out="207295" />
+    </line>
+    <line lang1="- No." someNumber="None" image="it\pist039.jpg" lang2="- Нет.">
+      <audioTime in="207851" out="209295" />
+    </line>
+    <line lang1="- Però la signora abita qui." someNumber="None" image="it\pist039.jpg" lang2="- Однако синьора здесь проживает.">
+      <audioTime in="209239" out="211293" />
+    </line>
+    <line lang1="- Non è in casa." someNumber="None" image="it\pist040.jpg" lang2="- Её нет дома.">
+      <audioTime in="211682" out="213348" />
+    </line>
+    <line lang1="- Le ho chiesto se abita qui." someNumber="None" image="it\pist040.jpg" lang2="- Я Вас спросил, здесь ли она живет.">
+      <audioTime in="213736" out="215846" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="it\pist040.jpg" lang2="- Да.">
+      <audioTime in="215846" out="216975" />
+    </line>
+    <line lang1="- Ho un mandato di perquisizione di questo appartamento." someNumber="None" image="it\pist042.jpg" lang2="- У меня приказ обыскать эту квартиру.">
+      <audioTime in="216956" out="221675" />
+    </line>
+    <line lang1="- Cosa vuol dire, se ce l'avete con Sonia, la signora Tauber," someNumber="None" image="it\pist043.jpg" lang2="- Что это значит, если у Вас дела с Соней, с синьорой Таубер,">
+      <audioTime in="221353" out="224952" />
+    </line>
+    <line lang1="non c'è ragione di perquisire casa mia." someNumber="None" image="it\pist045.jpg" lang2="не имеете права обыскивать этот дом.">
+      <audioTime in="224890" out="226761" />
+    </line>
+    <line lang1="- Ordine del giudice." someNumber="None" image="it\pist046.jpg" lang2="- Ордер судьи.">
+      <audioTime in="226696" out="228276" />
+    </line>
+    <line lang1="- Io non vi faccio entrare." someNumber="None" image="it\pist047.jpg" lang2="- Я Вам не разрешу войти.">
+      <audioTime in="230461" out="232850" />
+    </line>
+    <line lang1="- Essere costretto a usare la forza mi dispiacerebbe molto, signora." someNumber="None" image="it\pist049.jpg" lang2="- Мне очень было бы неприятно, быть вынужденным использовать силу, синьора.">
+      <audioTime in="233218" out="237445" />
+    </line>
+    <line lang1="- Lei dovrà dispiacersi." someNumber="None" image="it\pist050.jpg" lang2="- Вам должно быть неприятно.">
+      <audioTime in="237830" out="240550" />
+    </line>
+    <line lang1="La pagherà questa intrusione!" someNumber="None" image="it\pist052.jpg" lang2="Вы заплатите за это вторжение.">
+      <audioTime in="243733" out="247322" />
+    </line>
+    <line lang1="- È Lei Sonia Tauber?" someNumber="None" image="it\pist053.jpg" lang2="- Вы Соня Таубер?">
+      <audioTime in="250752" out="253600" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="it\pist053.jpg" lang2="- Да.">
+      <audioTime in="254354" out="255927" />
+    </line>
+    <line lang1="- Che volete, mi diverto a dire bugie." someNumber="None" image="it\pist054.jpg" lang2="- Что хотите, меня забавляет врать.">
+      <audioTime in="256283" out="258869" />
+    </line>
+    <line lang1="- Signora Tauber, le devo chiedere di consegnarmi la pistola" someNumber="None" image="it\pist054.jpg" lang2="- Синьора Таубер, я должен Вас попросить сдать мне пистолет,">
+      <audioTime in="259705" out="263255" />
+    </line>
+    <line lang1="con la quale ieri ha minacciato il Suo ex-marito." someNumber="None" image="it\pist054.jpg" lang2="которым Вы вчера угрожали Вашему бывшему мужу.">
+      <audioTime in="263294" out="265519" />
+    </line>
+    <line lang1="- Questo è tutto?" someNumber="None" image="it\pist054.jpg" lang2="- Это всё?">
+      <audioTime in="265442" out="267259" />
+    </line>
+    <line lang1="- Per il momento questo è tutto." someNumber="None" image="it\pist054.jpg" lang2="- В данный момент это всё.">
+      <audioTime in="267208" out="269237" />
+    </line>
+    <line lang1="- Bene." someNumber="None" image="it\pist054.jpg" lang2="- Хорошо.">
+      <audioTime in="269918" out="271042" />
+    </line>
+    <line lang1="- Signora Tauber!" someNumber="None" image="it\pist056.jpg" lang2="- Синьора Таубер!">
+      <audioTime in="273798" out="276469" />
+    </line>
+    <line lang1="- Con questa ho minacciato mio marito." someNumber="None" image="it\pist060.jpg" lang2="- Этим я угрожала моему мужу.">
+      <audioTime in="279879" out="282360" />
+    </line>
+    <line lang1="- Avrebbe dovuto accorgersene." someNumber="None" image="it\pist061.jpg" lang2="- Должен был заметить.">
+      <audioTime in="282360" out="284737" />
+    </line>
+    <line lang1="- E invece non se è accorto." someNumber="None" image="it\pist062.jpg" lang2="- Наоборот, не заметил.">
+      <audioTime in="285978" out="287894" />
+    </line>
+    <line lang1="Non se ne è accorto neppure Lei, è bianco come un cencio, eroe." someNumber="None" image="it\pist063.jpg" lang2="Не заметили даже Вы, бледный как полотно, герой!">
+      <audioTime in="287894" out="293008" />
+    </line>
+    <line lang1="- Il fatto che ci sia questa pistola giocattolo" someNumber="None" image="it\pist064.jpg" lang2="- Факт, что есть этот игрушечный пистолет,">
+      <audioTime in="293320" out="296074" />
+    </line>
+    <line lang1="non esclude l'esistenza di quella vera in casa." someNumber="None" image="it\pist064.jpg" lang2="не исключает существования того настоящего в доме.">
+      <audioTime in="295985" out="298860" />
+    </line>
+    <line lang1="Devo comunque perquisire l'appartamento." someNumber="None" image="it\pist064.jpg" lang2="Я должен во всяком случае обыскать эту квартиру.">
+      <audioTime in="299457" out="301921" />
+    </line>
+    <line lang1="- Ma certo." someNumber="None" image="it\pist065.jpg" lang2="- Несомненно.">
+      <audioTime in="302295" out="303526" />
+    </line>
+    <line lang1="Le auguro buon divertimento." someNumber="None" image="it\pist066.jpg" lang2="Желаю Вам хороших развлечений.">
+      <audioTime in="305655" out="309011" />
+    </line>
+    <line lang1="Quanto ci metterete?" someNumber="None" image="it\pist066.jpg" lang2="Насколько Вы расположитесь?">
+      <audioTime in="308831" out="311326" />
+    </line>
+    <line lang1="- Devo pregarla di restare." someNumber="None" image="it\pist066.jpg" lang2="- Должен попросить Вас остаться.">
+      <audioTime in="311589" out="312971" />
+    </line>
+    <line lang1="- Preghiera inutile. Vieni Sonia." someNumber="None" image="it\pist066.jpg" lang2="- Бесполезная просьба. Иди, Соня.">
+      <audioTime in="313422" out="316256" />
+    </line>
+    <line lang1="Annusi la biancheria, se vuole, quella sporca è nel cesto in bagno," someNumber="None" image="it\pist067.jpg" lang2="Можете понюхать белье, если хотите, то грязное - в корзине, в ванне,">
+      <audioTime in="317208" out="321644" />
+    </line>
+    <line lang1="però non mi rubi le mutandine." someNumber="None" image="it\pist068.jpg" lang2="однако не воруйте мои трусики.">
+      <audioTime in="321731" out="324445" />
+    </line>
+    <line lang1="- Ciao Wolf!" someNumber="None" image="it\pist069.jpg" lang2="- Здравствуй, Вольф!">
+      <audioTime in="324487" out="325304" />
+    </line>
+    <line lang1="- Ciao." someNumber="None" image="it\pist069.jpg" lang2="- Здравствуй.">
+      <audioTime in="325267" out="325999" />
+    </line>
+    <line lang1="- Ehi, che state facendo?" someNumber="None" image="it\pist069.jpg" lang2="- Эй, что делаете?">
+      <audioTime in="325823" out="329697" />
+    </line>
+    <line lang1="- Stiamo impacchettando la roba che Verena ha rubacchiato finora, per restituirla." someNumber="None" image="it\pist070.jpg" lang2="- Упаковываем вещи, которые Верена крала до сих пор, чтобы вернуть.">
+      <audioTime in="329479" out="334739" />
+    </line>
+    <line lang1="- Sì, ho già parlato della cosa con Frid." someNumber="None" image="it\pist070.jpg" lang2="- Да, я уже разговаривал об этом с Фридом.">
+      <audioTime in="334696" out="336979" />
+    </line>
+    <line lang1="- Come con Frid, ma sei impazzito per caso?!" someNumber="None" image="it\pist071.jpg" lang2="- Как с Фридом, ты с ума сошел, в самом деле?!">
+      <audioTime in="337149" out="340338" />
+    </line>
+    <line lang1="Frid è un sostituto procuratore," someNumber="None" image="it\pist071.jpg" lang2="Фрид - заместитель прокурора,">
+      <audioTime in="340381" out="342880" />
+    </line>
+    <line lang1="lui ha l'obbligo di denunciarlo immediatamente" someNumber="None" image="it\pist073.jpg" lang2="он обязан сразу заявить,">
+      <audioTime in="342650" out="345241" />
+    </line>
+    <line lang1="se viene messo a conoscenza di un crimine." someNumber="None" image="it\pist073.jpg" lang2="если ему представлено преступление.">
+      <audioTime in="345141" out="347326" />
+    </line>
+    <line lang1="- Ma, addirittura crimine." someNumber="None" image="it\pist074.jpg" lang2="- Ну прямо преступление.">
+      <audioTime in="347153" out="348687" />
+    </line>
+    <line lang1="- Certo, crimine." someNumber="None" image="it\pist075.jpg" lang2="- Несомненно, преступление.">
+      <audioTime in="348686" out="350105" />
+    </line>
+    <line lang1="Rubare, Verena, è un crimine." someNumber="None" image="it\pist075.jpg" lang2="Воровать, Верена, преступление.">
+      <audioTime in="350077" out="352367" />
+    </line>
+    <line lang1="- Chiamarlo crimine mi sembra esagerato." someNumber="None" image="it\pist076.jpg" lang2="- Называть это преступлением, мне кажется, преувеличено.">
+      <audioTime in="352417" out="354202" />
+    </line>
+    <line lang1="- Vorresti farmi il santo piacere di non sottovalutare l'accaduto." someNumber="None" image="it\pist077.jpg" lang2="- Ты хотел бы сделать мне удовольствие - не недооценивать происшествие.">
+      <audioTime in="354158" out="357145" />
+    </line>
+    <line lang1="- E che cosa volete fare allora?" someNumber="None" image="it\pist078.jpg" lang2="- Итак, что хотите делать?">
+      <audioTime in="357095" out="358937" />
+    </line>
+    <line lang1="- Verena la roba rubata, la voleva dare a me." someNumber="None" image="it\pist079.jpg" lang2="- Верена хотела отдать мне украденные вещи.">
+      <audioTime in="358788" out="361684" />
+    </line>
+    <line lang1="Dice che la maggior parte l'ha presa anche a me." someNumber="None" image="it\pist080.jpg" lang2="Говорит, что большую часть взяла у меня.">
+      <audioTime in="361833" out="363765" />
+    </line>
+    <line lang1="Se la dà a me cosa ne faccio?" someNumber="None" image="it\pist080.jpg" lang2="Если даёт мне, что мне с этим делать?">
+      <audioTime in="364561" out="366702" />
+    </line>
+    <line lang1="Non posso mica andar li' e rimetterla sugli scaffali come se niente fosse." someNumber="None" image="it\pist081.jpg" lang2="Не могу же пойти туда и положить обратно на полки, как ни в чем не бывало.">
+      <audioTime in="366553" out="370037" />
+    </line>
+    <line lang1="- No..." someNumber="None" image="it\pist082.jpg" lang2="- Не...">
+      <audioTime in="370037" out="371166" />
+    </line>
+    <line lang1="- Non fare il finto tonto, per favore." someNumber="None" image="it\pist083.jpg" lang2="- Не валяй дурака, пожалуйста.">
+      <audioTime in="371037" out="373460" />
+    </line>
+    <line lang1="- E gliela fate riavere per posta?" someNumber="None" image="it\pist084.jpg" lang2="- И доставите им это почтой?">
+      <audioTime in="374284" out="376364" />
+    </line>
+    <line lang1="- Assicurata naturalmente." someNumber="None" image="it\pist085.jpg" lang2="- Естественно, уверена.">
+      <audioTime in="376364" out="378361" />
+    </line>
+    <line lang1="Così, se ci fosse qualche complicazione noi potremmo provare di averla restituita." someNumber="None" image="it\pist085.jpg" lang2="Так если бы были некоторые сложности, мы смогли бы попробовать вернуть это.">
+      <audioTime in="378298" out="383858" />
+    </line>
+    <line lang1="- Sì, ha un'importante conferenza che lo attende." someNumber="None" image="it\pist086.jpg" lang2="- Да, у него важная конференция, на которой он должен быть.">
+      <audioTime in="387119" out="390016" />
+    </line>
+    <line lang1="Ci sono ospiti da Parigi, da Los Angeles, dal Giappone, e qui non si è ancora visto." someNumber="None" image="it\pist086.jpg" lang2="Есть гости из Парижа, из Лос-Анджелеса, из Японии, и здесь его ещё не было видно.">
+      <audioTime in="389798" out="394354" />
+    </line>
+    <line lang1="Era prevista per le dieci è sono già le undici e un quarto." someNumber="None" image="it\pist086.jpg" lang2="Была назначена в десять, уже 11 с четвертью.">
+      <audioTime in="394086" out="397122" />
+    </line>
+    <line lang1="Deve essere successo qualcosa." someNumber="None" image="it\pist086.jpg" lang2="Должно быть, что-то произошло.">
+      <audioTime in="396833" out="398843" />
+    </line>
+    <line lang1="È un uomo puntualissimo, sono la sua segretaria da dieci anni," someNumber="None" image="it\pist086.jpg" lang2="Он человек пунктуальнейший, я его секретарша 10 лет,">
+      <audioTime in="398575" out="401992" />
+    </line>
+    <line lang1="so che ieri è venuto alla polizia per qualche ragione." someNumber="None" image="it\pist086.jpg" lang2="знаю, что вчера он приходил в полицию по какому-то поводу.">
+      <audioTime in="401859" out="404672" />
+    </line>
+    <line lang1="Allora forse è andato da un legale." someNumber="None" image="it\pist087.jpg" lang2="Значит, может быть, он пошёл к юристу.">
+      <audioTime in="405558" out="407573" />
+    </line>
+    <line lang1="Io comunque so che la sua ex-moglie lo ha minacciato di morte" someNumber="None" image="it\pist087.jpg" lang2="Я, во всяком случае, знаю, что его бывшая жена угрожала ему смертью,">
+      <audioTime in="407506" out="410243" />
+    </line>
+    <line lang1="e oggi lui non viene alla più importante conferenza dell'anno." someNumber="None" image="it\pist087.jpg" lang2="и сегодня он не идёт на самую важную конференцию года.">
+      <audioTime in="410257" out="413316" />
+    </line>
+    <line lang1="Sì, è ovvio che l'ho chiamato a casa, ma non risponde," someNumber="None" image="it\pist087.jpg" lang2="Да, разумеется, что позвонила ему домой, но он не отвечал,">
+      <audioTime in="414503" out="417537" />
+    </line>
+    <line lang1="l'ho chiamato anche al telefono che ha in auto." someNumber="None" image="it\pist087.jpg" lang2="звонила ещё по телефону, который он имеет в машине.">
+      <audioTime in="417403" out="419368" />
+    </line>
+    <line lang1="Gli è successo sicuramente qualcosa di grave." someNumber="None" image="it\pist087.jpg" lang2="С ним, безусловно, случилось что-то тяжёлое.">
+      <audioTime in="419459" out="421557" />
+    </line>
+    <line lang1="- Hai chiamato una volante?" someNumber="None" image="it\pist090.jpg" lang2="- Ты, звонил в полицию?">
+      <audioTime in="421881" out="423267" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="it\pist091.jpg" lang2="- Да.">
+      <audioTime in="423177" out="423935" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_104.wav" dic="p104" dlgName="Смог он?.. Да, смог..." dlgFile="exr\fg103.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Pourrait-il répondre à toutes ces questions?" someNumber="690" image="dg\104_001.gif" lang2="- Смог бы он ответить на все эти вопросы?">
+      <audioTime in="0" out="2073" />
+    </line>
+    <line lang1="- Oui, il pourrait. Elles étaient assez faciles." someNumber="None" image="dg\104_001.gif" lang2="- Да, он смог бы. Они были довольно лёгкими.">
+      <audioTime in="2073" out="4961" />
+    </line>
+    <line lang1="- Pourrait-il répondre à toutes ces questions?" someNumber="None" image="dg\104_002.gif" lang2="- Смог бы он ответить на все эти вопросы?">
+      <audioTime in="4961" out="7342" />
+    </line>
+    <line lang1="- Non, il ne pourrait pas. Elles étaient assez compliquées." someNumber="780" image="dg\104_002.gif" lang2="- Нет, он не смог бы. Они были довольно сложными.">
+      <audioTime in="7342" out="10864" />
+    </line>
+    <line lang1="- Pourraient-ils écouter la radio?" someNumber="None" image="dg\104_009.gif" lang2="- Могли бы они услышать радио?">
+      <audioTime in="10864" out="12460" />
+    </line>
+    <line lang1="- Oui, ils pourraient. On y parlait assez haut." someNumber="None" image="dg\104_009.gif" lang2="- Да, они могли бы. Там (по радио) говорили довольно громко.">
+      <audioTime in="12460" out="15478" />
+    </line>
+    <line lang1="- Pourraient-ils écouter la radio?" someNumber="50" image="dg\104_009.gif" lang2="- Могли бы они услышать радио?">
+      <audioTime in="15478" out="17008" />
+    </line>
+    <line lang1="- Non, ils ne pourraient pas. On y parlait assez bas." someNumber="None" image="dg\104_009.gif" lang2="- Нет, не могли бы. Там (по радио) говорили довольно тихо.">
+      <audioTime in="17008" out="20259" />
+    </line>
+    <line lang1="- Pourrait-elle manger cette orange?" someNumber="None" image="dg\104_003.gif" lang2="- Могла бы она съесть этот апельсин?">
+      <audioTime in="20259" out="21893" />
+    </line>
+    <line lang1="- Oui, elle pourrait. L'orange était assez douce." someNumber="350" image="dg\104_003.gif" lang2="- Да, она могла бы. Апельсин был достаточно сладким.">
+      <audioTime in="21893" out="24967" />
+    </line>
+    <line lang1="- Pourrait-elle manger cette orange?" someNumber="None" image="dg\104_004.gif" lang2="- Могла бы она съесть этот апельсин?">
+      <audioTime in="24967" out="26587" />
+    </line>
+    <line lang1="- Non, elle ne pourrait pas. L'orange était sure." someNumber="None" image="dg\104_004.gif" lang2="- Нет, не могла бы. Апельсин был кислым.">
+      <audioTime in="26587" out="30390" />
+    </line>
+    <line lang1="- Pourrait-il acheter cette voiture?" someNumber="470" image="dg\104_005.gif" lang2="- Мог бы он купить эту машину?">
+      <audioTime in="30390" out="32009" />
+    </line>
+    <line lang1="- Oui, il pourrait. Elle n'était pas chère." someNumber="None" image="dg\104_005.gif" lang2="- Да, мог бы. Она не была дорогая.">
+      <audioTime in="32009" out="34506" />
+    </line>
+    <line lang1="- Pourrait-il acheter cette voiture?" someNumber="None" image="dg\104_006.gif" lang2="- Мог бы он купить эту автомашину?">
+      <audioTime in="34506" out="36108" />
+    </line>
+    <line lang1="- Non, il ne pourrait pas. Elle était trop chère." someNumber="None" image="dg\104_006.gif" lang2="- Нет, не мог бы. Она была слишком дорогая.">
+      <audioTime in="36108" out="39051" />
+    </line>
+    <line lang1="- Pourrait-il passer au-dessus de ce mur?" someNumber="810" image="dg\104_007.gif" lang2="- Мог бы он перелезть через эту стену?">
+      <audioTime in="39051" out="41002" />
+    </line>
+    <line lang1="- Oui, il pourrait. Ce mur était assez bas." someNumber="None" image="dg\104_007.gif" lang2="- Да, мог бы. Эта стена была довольно низкая.">
+      <audioTime in="41002" out="44015" />
+    </line>
+    <line lang1="- Pourrait-il passer au-dessus de ce mur?" someNumber="None" image="dg\104_008.gif" lang2="- Мог бы он перелезть через эту стену?">
+      <audioTime in="44015" out="45905" />
+    </line>
+    <line lang1="- Non, il ne pourrait pas. Le mur était assez haut." someNumber="None" image="dg\104_008.gif" lang2="- Нет, не мог бы. Стена была довольно высокая.">
+      <audioTime in="45905" out="48850" />
+    </line>
+  </lines>
+</lesson>

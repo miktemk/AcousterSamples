@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="f_073.wav" dic="p073" dlgName="На автобусной остановке." dlgFile="exr\fg073.txt" author="Alexander" />
+  <lines>
+    <line lang1="La semaine passée, madame Moneau est allée à Paris." someNumber="530" image="dg\073_001.gif" lang2="На прошлой неделе госпожа Моно поехала в Париж.">
+      <audioTime in="0" out="2742" />
+    </line>
+    <line lang1="Elle ne connaît pas bien Paris et elle y est perdue." someNumber="None" image="dg\073_001.gif" lang2="Она не знала хорошо Париж, и она там заблудилась.">
+      <audioTime in="2742" out="5485" />
+    </line>
+    <line lang1="A la station d'autobus elle a vu un homme." someNumber="None" image="dg\073_002.gif" lang2="На автобусной остановке она увидела мужчину.">
+      <audioTime in="5485" out="7593" />
+    </line>
+    <line lang1="&quot;Je peux m'adresser à lui&quot; a-t-elle pensé." someNumber="460" image="dg\073_003.gif" lang2="&quot;Я могу к нему обратиться&quot;, - подумала она.">
+      <audioTime in="7593" out="9701" />
+    </line>
+    <line lang1="&quot;Excusez-moi&quot;, lui a-t-elle dit." someNumber="None" image="dg\073_003.gif" lang2="&quot;Извините меня&quot;, - сказала ему она.">
+      <audioTime in="9701" out="11947" />
+    </line>
+    <line lang1="&quot;Pouvez-vous me dire où se trouve la rue Croissante?&quot;" someNumber="None" image="dg\073_003.gif" lang2="&quot;Можете ли вы мне сказать, где находится улица Круасан?&quot;">
+      <audioTime in="11947" out="14541" />
+    </line>
+    <line lang1="Cet homme a souri gentiment. Il ne parlait pas français!" someNumber="None" image="dg\073_004.gif" lang2="Мужчина улыбнулся мило. Он не понимал французский!">
+      <audioTime in="14541" out="17665" />
+    </line>
+    <line lang1="Il était Allemand. C'était un touriste." someNumber="60" image="dg\073_004.gif" lang2="Он был немцем. Это был турист.">
+      <audioTime in="17665" out="19901" />
+    </line>
+    <line lang1="Puis il a fouillé dans sa poche et a tiré un guide de conversation." someNumber="None" image="dg\073_005.gif" lang2="Затем он порылся в кармане и достал разговорник.">
+      <audioTime in="19901" out="23470" />
+    </line>
+    <line lang1="Il l'a ouvert et a trouvé la phrase." someNumber="None" image="dg\073_006.gif" lang2="Он его открыл и нашёл фразу.">
+      <audioTime in="23470" out="25577" />
+    </line>
+    <line lang1="Il l'a lue lentement. &quot;Excusez-moi&quot;, a-t-il dit." someNumber="920" image="dg\073_006.gif" lang2="Он её прочитал медленно. &quot;Простите&quot;, - сказал он.">
+      <audioTime in="25577" out="29569" />
+    </line>
+    <line lang1="&quot;Je ne parle pas français." someNumber="920" image="dg\073_006.gif" lang2="&quot;Я не говорю по-французски.&quot;">
+      <audioTime in="29569" out="31817" />
+    </line>
+  </lines>
+</lesson>

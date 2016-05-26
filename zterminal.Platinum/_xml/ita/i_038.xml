@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="i_038.wav" dic="p038" dlgName="Что ты собираешься делать?" dlgFile="exr\ig037.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Che cosa hai intenzione di fare?" someNumber="None" image="dg\038_001.gif" lang2="- Что ты собираешься делать?">
+      <audioTime in="77" out="2143" />
+    </line>
+    <line lang1="- Ho intenzione di farmi la barba." someNumber="None" image="dg\038_001.gif" lang2="- Я собираюсь побриться.">
+      <audioTime in="2033" out="4507" />
+    </line>
+    <line lang1="- Che cosa sta facendo, adesso?" someNumber="None" image="dg\038_002.gif" lang2="- Что Вы делаете сейчас?">
+      <audioTime in="4507" out="6792" />
+    </line>
+    <line lang1="- Mi sto facendo la barba." someNumber="None" image="dg\038_002.gif" lang2="- Сейчас я бреюсь.">
+      <audioTime in="6649" out="8857" />
+    </line>
+    <line lang1="- Che cosa avete intenzione di fare voi due?" someNumber="None" image="dg\038_003.gif" lang2="- Что вы оба собираетесь делать?">
+      <audioTime in="8780" out="11422" />
+    </line>
+    <line lang1="- Abbiamo intenzione di fare i compiti." someNumber="None" image="dg\038_003.gif" lang2="- Мы собираемся делать домашнюю работу.">
+      <audioTime in="11422" out="14142" />
+    </line>
+    <line lang1="- Che cosa state facendo voi due?" someNumber="None" image="dg\038_005.gif" lang2="- Что вы оба делаете сейчас?">
+      <audioTime in="13986" out="16162" />
+    </line>
+    <line lang1="- Stiamo facendo i compiti." someNumber="None" image="dg\038_005.gif" lang2="- Сейчас мы делаем нашу домашнюю работу.">
+      <audioTime in="16123" out="18111" />
+    </line>
+    <line lang1="- Che cosa avete intenzione di fare voi due?" someNumber="None" image="dg\038_006.gif" lang2="- Что вы оба собираетесь делать?">
+      <audioTime in="18111" out="20831" />
+    </line>
+    <line lang1="- Abbiamo intenzione di sentire la radio." someNumber="None" image="dg\038_006.gif" lang2="- Мы собираемся слушать радио.">
+      <audioTime in="20754" out="23397" />
+    </line>
+    <line lang1="- Che cosa state facendo voi due?" someNumber="None" image="dg\038_007.gif" lang2="- Что вы оба делаете сейчас?">
+      <audioTime in="23319" out="25496" />
+    </line>
+    <line lang1="- Sentiamo la radio." someNumber="None" image="dg\038_007.gif" lang2="- Сейчас мы слушаем радио.">
+      <audioTime in="25463" out="26972" />
+    </line>
+    <line lang1="- Che cosa hai intenzione di fare?" someNumber="None" image="dg\038_004.gif" lang2="- Что ты собираешься делать?">
+      <audioTime in="27051" out="29182" />
+    </line>
+    <line lang1="- Ho intenzione d'aspettare l'autobus." someNumber="890" image="dg\038_004.gif" lang2="- Я собираюсь ждать автобус.">
+      <audioTime in="29071" out="31481" />
+    </line>
+    <line lang1="- Cosa stai facendo?" someNumber="None" image="dg\038_004.gif" lang2="- Что ты делаешь сейчас?">
+      <audioTime in="31559" out="33113" />
+    </line>
+    <line lang1="- Sto aspettando l'autobus." someNumber="None" image="dg\038_004.gif" lang2="- Сейчас я жду автобус.">
+      <audioTime in="33035" out="35291" />
+    </line>
+    <line lang1="- Che cosa hai intenzione di fare?" someNumber="None" image="dg\038_009.gif" lang2="- Что ты собираешься делать?">
+      <audioTime in="35213" out="37312" />
+    </line>
+    <line lang1="- Ho intenzione di dipingere la mia libreria." someNumber="890" image="dg\038_009.gif" lang2="- Я собираюсь покрасить этот книжный шкаф.">
+      <audioTime in="37254" out="40142" />
+    </line>
+    <line lang1="- Cosa stai facendo?" someNumber="None" image="dg\038_010.gif" lang2="- Что ты делаешь сейчас?">
+      <audioTime in="40032" out="41742" />
+    </line>
+    <line lang1="- Sto dipingendo la mia libreria." someNumber="None" image="dg\038_010.gif" lang2="- Сейчас я крашу этот книжный шкаф.">
+      <audioTime in="41644" out="44074" />
+    </line>
+    <line lang1="- Che cosa hai intenzione di fare?" someNumber="None" image="dg\038_011.gif" lang2="- Что ты собираешься делать?">
+      <audioTime in="43898" out="45837" />
+    </line>
+    <line lang1="- Ho intenzione di lavare i piatti." someNumber="None" image="dg\038_011.gif" lang2="- Я собираюсь помыть тарелки.">
+      <audioTime in="45738" out="48271" />
+    </line>
+    <line lang1="- Che cosa stai facendo?" someNumber="None" image="dg\038_012.gif" lang2="- Что ты делаешь сейчас?">
+      <audioTime in="48271" out="49780" />
+    </line>
+    <line lang1="- Sto lavando i piatti." someNumber="None" image="dg\038_012.gif" lang2="- Сейчас я мою тарелки.">
+      <audioTime in="49838" out="51646" />
+    </line>
+  </lines>
+</lesson>

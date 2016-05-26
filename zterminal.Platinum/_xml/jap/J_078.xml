@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="j_078.wav" dlgName="Как раз сейчас собиралась выйти" dic="p078" />
+  <lines>
+    <line lang1="ーお母さん、午前*中*出かけます*か。" someNumber="None" image="078_001.jpg" lang2="- Мама, (ты) выйдешь из дома в первой половине дня?">
+      <audioTime in="0" out="4603" />
+    </line>
+    <line lang1="ーちょうど*今*出かけよう*と*していました*が、何*か*あります*か。" someNumber="93" image="078_002.jpg" lang2="- Как раз сейчас собиралась выйти, что-нибудь нужно?">
+      <audioTime in="4603" out="9644" />
+    </line>
+    <line lang1="―頭*が*いたい*から、薬*を*買って*きて*下さい。" someNumber="None" image="078_003.jpg" lang2="- Голова болит. Купи лекарство!">
+      <audioTime in="9644" out="13270" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="078_004.jpg" lang2="- Хорошо.">
+      <audioTime in="13270" out="14448" />
+    </line>
+    <line lang1="ー夕*べ、家*を*出よう*と*した*とき、" someNumber="153" image="078_005.jpg" lang2="- Вчера вечером, когда (я) как раз собирался выйти из дома,">
+      <audioTime in="14448" out="18910" />
+    </line>
+    <line lang1="ドア*の*外*に*大きい*犬*が*座っていた*ん*です。" someNumber="None" image="078_006.jpg" lang2="за дверью сидела большая собака.">
+      <audioTime in="18910" out="21949" />
+    </line>
+    <line lang1="ーこわい*です*ね。誰*の*犬*でした*か。" someNumber="None" image="078_007.jpg" lang2="- Как страшно! Чья была собака?">
+      <audioTime in="21949" out="26056" />
+    </line>
+    <line lang1="ー分かりません。" someNumber="None" image="078_008.jpg" lang2="- Не знаю.">
+      <audioTime in="26056" out="27249" />
+    </line>
+    <line lang1="ーお電話*です。" someNumber="None" image="078_009.jpg" lang2="- (Вас) к телефону!">
+      <audioTime in="27379" out="30595" />
+    </line>
+    <line lang1="ーもしもし、加藤*です。酒井*さん*です*か。" someNumber="None" image="078_010.jpg" lang2="- Алло, говорит Като. Сакаи-сан, это Вы?">
+      <audioTime in="30595" out="34663" />
+    </line>
+    <line lang1="―はい、加藤*さん、今晩*は。" someNumber="None" image="078_011.jpg" lang2="- Да. Добрый вечер, Като-сан!">
+      <audioTime in="34663" out="39317" />
+    </line>
+    <line lang1="ちょうど*加藤*さん*に*電話*を*しよう*と*していた*ところ*です。" someNumber="153" image="078_011.jpg" lang2="Как раз только что собиралась позвонить Вам.">
+      <audioTime in="39317" out="43258" />
+    </line>
+    <line lang1="―はい、管理室*です。" someNumber="None" image="078_013.jpg" lang2="- Слушаю! Комната дежурного.">
+      <audioTime in="43258" out="47328" />
+    </line>
+    <line lang1="―すみません、５２５号室*の*リー*です。" someNumber="None" image="078_014.jpg" lang2="- Простите, говорит Ли из комнаты 525.">
+      <audioTime in="47191" out="52841" />
+    </line>
+    <line lang1="―はい。どうした*ん*です*か。" someNumber="107" image="078_015.jpg" lang2="- Слушаю! Что случилось?">
+      <audioTime in="52841" out="55172" />
+    </line>
+    <line lang1="―ちょっと*エアコン*の*具合*が*悪い*ん*です*が。" someNumber="None" image="078_016.jpg" lang2="- С кондиционером что-то не в порядке.">
+      <audioTime in="55172" out="58830" />
+    </line>
+    <line lang1="寒い*ので、部屋*を*暖めよう*と*した*ん*です*が、" someNumber="93" image="078_016.jpg" lang2="Только собиралась обогреть комнату, так как было холодно,">
+      <audioTime in="58830" out="62713" />
+    </line>
+    <line lang1="冷たい*風*しか*出てきません。" someNumber="None" image="078_016.jpg" lang2="но из него выходит только холодный поток воздуха.">
+      <audioTime in="62713" out="65328" />
+    </line>
+    <line lang1="―それ*は*こしょうした*かもしれません。" someNumber="None" image="078_019.jpg" lang2="- Наверное, это поломка.">
+      <audioTime in="65328" out="67735" />
+    </line>
+    <line lang1="とにかく、今*係り*が*見*に*行きます*から、" someNumber="120" image="078_019.jpg" lang2="Во всяком случае, сейчас служащий придёт посмотреть,">
+      <audioTime in="67735" out="71061" />
+    </line>
+    <line lang1="部屋*で*待っていて*下さい。" someNumber="None" image="078_021.jpg" lang2="так что подождите в комнате.">
+      <audioTime in="71061" out="73265" />
+    </line>
+    <line lang1="―お願い*します。" someNumber="109" image="078_022.jpg" lang2="- Прошу Вас.">
+      <audioTime in="73265" out="74844" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_060.wav" dic="p060" dlgName="Есть у?..." dlgFile="exr\ig059.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Hai del burro?" someNumber="None" image="dg\060_001.gif" lang2="- У тебя есть масло?">
+      <audioTime in="296" out="1702" />
+    </line>
+    <line lang1="- Non ce l'ho, ma ho un po' di formaggio." someNumber="300" image="dg\060_001.gif" lang2="- У меня нет масла, но у меня есть сыр.">
+      <audioTime in="1628" out="4261" />
+    </line>
+    <line lang1="- Voi e Maria avete delle fave?" someNumber="None" image="dg\060_002.gif" lang2="- Есть у вас с Марией бобы?">
+      <audioTime in="4412" out="6514" />
+    </line>
+    <line lang1="- No, non ce le abbiamo, ma abbiamo un po' di patate." someNumber="None" image="dg\060_002.gif" lang2="- У нас нет бобов, но у нас есть картофель.">
+      <audioTime in="6587" out="9919" />
+    </line>
+    <line lang1="- Maria e Paolo hanno del vino?" someNumber="None" image="dg\060_003.gif" lang2="- Есть у Марии с Паоло вино?">
+      <audioTime in="9976" out="12214" />
+    </line>
+    <line lang1="- Non ce l'hanno, però hanno la birra." someNumber="None" image="dg\060_003.gif" lang2="- У них нет вина, но у них есть пиво.">
+      <audioTime in="12288" out="14805" />
+    </line>
+    <line lang1="- Hai del miele?" someNumber="None" image="dg\060_004.gif" lang2="- Есть у тебя мёд?">
+      <audioTime in="14879" out="16211" />
+    </line>
+    <line lang1="- Non ce l'ho, ma ho un poco di marmellata." someNumber="None" image="dg\060_004.gif" lang2="- Я меня нет мёда, но у меня есть джем.">
+      <audioTime in="16211" out="19246" />
+    </line>
+    <line lang1="- Voi e Paolo avete del pane?" someNumber="None" image="dg\060_005.gif" lang2="- Есть у вас с Паоло хлеб?">
+      <audioTime in="19320" out="21290" />
+    </line>
+    <line lang1="- Non ce l'abbiamo, però abbiamo qualche biscotto." someNumber="None" image="dg\060_005.gif" lang2="- У нас нет хлеба, но у нас есть печенье.">
+      <audioTime in="21319" out="24350" />
+    </line>
+    <line lang1="- Paolo e Maria hanno dell'uva?" someNumber="650" image="dg\060_006.gif" lang2="- Есть у Паоло и Марии виноград?">
+      <audioTime in="24502" out="26855" />
+    </line>
+    <line lang1="- No, non ce l'hanno, però hanno un po' di banane." someNumber="None" image="dg\060_006.gif" lang2="- У них нет винограда, но у них есть бананы.">
+      <audioTime in="26797" out="29980" />
+    </line>
+    <line lang1="- Hai della carne tritata?" someNumber="None" image="dg\060_007.gif" lang2="- Есть у тебя фарш?">
+      <audioTime in="30054" out="31892" />
+    </line>
+    <line lang1="- Non ce l'ho, ma ho delle bistecche." someNumber="None" image="dg\060_007.gif" lang2="- У меня нет фарша, но у меня есть вырезка.">
+      <audioTime in="32053" out="34553" />
+    </line>
+    <line lang1="- I bambini hanno del burro?" someNumber="None" image="dg\060_008.gif" lang2="- Имеется ли у детей масло?">
+      <audioTime in="34688" out="36716" />
+    </line>
+    <line lang1="- No, non ce l'hanno, però hanno un po' di uova." someNumber="None" image="dg\060_008.gif" lang2="- Нет, у них нет масла, но имеются яйца.">
+      <audioTime in="36716" out="39751" />
+    </line>
+    <line lang1="- Hai dell'insalata?" someNumber="None" image="dg\060_009.gif" lang2="- Есть у тебя салат?">
+      <audioTime in="39899" out="41380" />
+    </line>
+    <line lang1="- Non ce l'ho, ma ho un pò di cavoli." someNumber="None" image="dg\060_009.gif" lang2="- У меня нет салата, но у меня есть капуста.">
+      <audioTime in="41602" out="43896" />
+    </line>
+    <line lang1="- Tu e Maria avete delle fave?" someNumber="None" image="dg\060_010.gif" lang2="- Есть у тебя и Марии бобы?">
+      <audioTime in="43971" out="46118" />
+    </line>
+    <line lang1="- Non ce l'abbiamo, però abbiamo un po' di piselli." someNumber="None" image="dg\060_010.gif" lang2="- У нас нет бобов, но у нас есть горох.">
+      <audioTime in="46191" out="49005" />
+    </line>
+  </lines>
+</lesson>

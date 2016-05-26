@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="i_057.wav" dic="p057" dlgName="Время." dlgFile="exr\ig057.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Sono le otto." someNumber="None" image="dg\057_001.gif" lang2="- Восемь часов.">
+      <audioTime in="142" out="1707" />
+    </line>
+    <line lang1="- Ogni giorno i bambini vanno a scuola in macchina." someNumber="None" image="dg\057_001.gif" lang2="- Дети едут в школу на машине каждый день.">
+      <audioTime in="1635" out="4791" />
+    </line>
+    <line lang1="Ma oggi vanno a scuola a piedi." someNumber="380" image="dg\057_001.gif" lang2="Но сегодня они идут в школу пешком.">
+      <audioTime in="4836" out="7325" />
+    </line>
+    <line lang1="- Sono le dieci." someNumber="None" image="dg\057_002.gif" lang2="- Десять часов.">
+      <audioTime in="7325" out="9042" />
+    </line>
+    <line lang1="- La signora Righetti di solito la mattina rimane in casa." someNumber="None" image="dg\057_002.gif" lang2="- Утром госпожа Ригетти обычно остаётся дома.">
+      <audioTime in="8961" out="13370" />
+    </line>
+    <line lang1="Ma stamattina va al negozio." someNumber="None" image="dg\057_002.gif" lang2="Но сегодня утром она ходит по магазинам.">
+      <audioTime in="13559" out="15983" />
+    </line>
+    <line lang1="- Sono le quattro." someNumber="None" image="dg\057_003.gif" lang2="- Четыре часа.">
+      <audioTime in="16055" out="17725" />
+    </line>
+    <line lang1="- Di giorno la signora Righetti di solito beve il tè in salotto." someNumber="None" image="dg\057_003.gif" lang2="- Днём госпожа Ригетти обычно пьёт чай в гостиной.">
+      <audioTime in="17754" out="22287" />
+    </line>
+    <line lang1="Ma oggi lei beve il tè in giardino." someNumber="None" image="dg\057_003.gif" lang2="Но сегодня днём она пьёт чай в саду.">
+      <audioTime in="22333" out="24964" />
+    </line>
+    <line lang1="- Sono le sei." someNumber="None" image="dg\057_004.gif" lang2="- Шесть часов.">
+      <audioTime in="25035" out="26322" />
+    </line>
+    <line lang1="- Di sera i bambini di solito fanno i compiti." someNumber="None" image="dg\057_004.gif" lang2="- Вечером дети обычно делают домашние задания.">
+      <audioTime in="26528" out="29661" />
+    </line>
+    <line lang1="Ma stasera non li fanno." someNumber="None" image="dg\057_004.gif" lang2="Но сегодня вечером они не делают домашнее задание.">
+      <audioTime in="29658" out="31391" />
+    </line>
+    <line lang1="In questo momento stanno giocando nel giardino." someNumber="None" image="dg\057_004.gif" lang2="В данный момент они играют в саду.">
+      <audioTime in="31365" out="35135" />
+    </line>
+    <line lang1="- Sono le nove." someNumber="None" image="dg\057_005.gif" lang2="- Девять часов.">
+      <audioTime in="35135" out="36557" />
+    </line>
+    <line lang1="- Il signor Righetti di solito la sera legge il suo giornale." someNumber="None" image="dg\057_005.gif" lang2="- Господин Ригетти обычно читает газету вечером.">
+      <audioTime in="36531" out="40683" />
+    </line>
+    <line lang1="Stasera però lui non legge il giornale." someNumber="None" image="dg\057_005.gif" lang2="Но сегодня вечером он не читает газету.">
+      <audioTime in="40683" out="43605" />
+    </line>
+    <line lang1="In questo momento sta leggendo un interessante libro." someNumber="None" image="dg\057_005.gif" lang2="В данный момент он читает интересную книгу.">
+      <audioTime in="43670" out="47200" />
+    </line>
+  </lines>
+</lesson>

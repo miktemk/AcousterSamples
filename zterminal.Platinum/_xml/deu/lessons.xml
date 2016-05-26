@@ -1,0 +1,148 @@
+<lessons>
+	<category name="Dialogs">
+		<lesson filename="xml/d_001.xml" uiTitle="Извините!"/>
+		<lesson filename="xml/d_002.xml" uiTitle="Это Ваш(а)?.."/>
+		<lesson filename="xml/d_003.xml" uiTitle="B гардеробе."/>
+		<lesson filename="xml/d_004.xml" uiTitle="Это Ваш(а)?.. Нет..."/>
+		<lesson filename="xml/d_005.xml" uiTitle="Знакомство."/>
+		<lesson filename="xml/d_006.xml" uiTitle="Это... машина?"/>
+		<lesson filename="xml/d_007.xml" uiTitle="Кто Вы по национальности?"/>
+		<lesson filename="xml/d_008.xml" uiTitle="Кто он по профессии?"/>
+		<lesson filename="xml/d_009.xml" uiTitle="Встреча."/>
+		<lesson filename="xml/d_010.xml" uiTitle="Мужчина полный или худой?"/>
+		<lesson filename="xml/d_011.xml" uiTitle="Чье это?"/>
+		<lesson filename="xml/d_012.xml" uiTitle="Чей это?.. Это мой..."/>
+		<lesson filename="xml/d_013.xml" uiTitle="Какого цвета твоё платье?"/>
+		<lesson filename="xml/d_014.xml" uiTitle="Какого цвета?.. Он не...  "/>
+		<lesson filename="xml/d_015.xml" uiTitle="Таможня."/>
+		<lesson filename="xml/d_016.xml" uiTitle="Какого цвета Ваши?.. "/>
+		<lesson filename="xml/d_017.xml" uiTitle="Знакомьтесь."/>
+		<lesson filename="xml/d_018.xml" uiTitle="Кто они по профессии?"/>
+		<lesson filename="xml/d_019.xml" uiTitle="Мороженое."/>
+		<lesson filename="xml/d_020.xml" uiTitle="Посмотри(те) на..."/>
+		<lesson filename="xml/d_021.xml" uiTitle="Дай мне книгу, пожалуйста."/>
+		<lesson filename="xml/d_022.xml" uiTitle="Дай(те) мне... Которую? "/>
+		<lesson filename="xml/d_023.xml" uiTitle="Дай мне несколько бокалов."/>
+		<lesson filename="xml/d_024.xml" uiTitle="Дайте мне... Те, которые.."/>
+		<lesson filename="xml/d_025.xml" uiTitle="На кухне."/>
+		<lesson filename="xml/d_026.xml" uiTitle="Есть ли?.. Нет..."/>
+		<lesson filename="xml/d_027.xml" uiTitle="Гостиная."/>
+		<lesson filename="xml/d_028.xml" uiTitle="Где они?"/>
+		<lesson filename="xml/d_029.xml" uiTitle="Спальня."/>
+		<lesson filename="xml/d_030.xml" uiTitle="Что сделать?.."/>
+		<lesson filename="xml/d_031.xml" uiTitle="В саду."/>
+		<lesson filename="xml/d_032.xml" uiTitle="Что он (она) делает?"/>
+		<lesson filename="xml/d_033.xml" uiTitle="Сегодня хорошая погода."/>
+		<lesson filename="xml/d_034.xml" uiTitle="Что они делают? "/>
+		<lesson filename="xml/d_035.xml" uiTitle="Наша деревня."/>
+		<lesson filename="xml/d_036.xml" uiTitle="Куда?.. Где?.."/>
+		<lesson filename="xml/d_037.xml" uiTitle="Что ты делаешь?"/>
+		<lesson filename="xml/d_038.xml" uiTitle="Что ты собираешься делать?"/>
+		<lesson filename="xml/d_039.xml" uiTitle="Ваза."/>
+		<lesson filename="xml/d_040.xml" uiTitle="Что Вы собираетесь?.."/>
+		<lesson filename="xml/d_041.xml" uiTitle="Что в сумке?"/>
+		<lesson filename="xml/d_042.xml" uiTitle="Здесь есть?.."/>
+		<lesson filename="xml/d_043.xml" uiTitle="Ты можешь приготовить чай?"/>
+		<lesson filename="xml/d_044.xml" uiTitle="Есть ли здесь?.."/>
+		<lesson filename="xml/d_045.xml" uiTitle="Письмо."/>
+		<lesson filename="xml/d_046.xml" uiTitle="Можешь ли ты?.. Да..."/>
+		<lesson filename="xml/d_047.xml" uiTitle="Угощение.  "/>
+		<lesson filename="xml/d_048.xml" uiTitle="Вы любите?.. Да..."/>
+		<lesson filename="xml/d_049.xml" uiTitle="В мясном магазине."/>
+		<lesson filename="xml/d_050.xml" uiTitle="Он любит... но он не..."/>
+		<lesson filename="xml/d_051.xml" uiTitle="Я приехал из Греции."/>
+		<lesson filename="xml/d_052.xml" uiTitle="Откуда они приехали?"/>
+		<lesson filename="xml/d_053.xml" uiTitle="Я из Англии."/>
+		<lesson filename="xml/d_054.xml" uiTitle="Откуда Вы родом?"/>
+		<lesson filename="xml/d_055.xml" uiTitle="Семья."/>
+		<lesson filename="xml/d_056.xml" uiTitle="Что они обычно делают?.."/>
+		<lesson filename="xml/d_057.xml" uiTitle="Время."/>
+		<lesson filename="xml/d_058.xml" uiTitle="Они обычно..."/>
+		<lesson filename="xml/d_059.xml" uiTitle="В канцелярском магазине."/>
+		<lesson filename="xml/d_060.xml" uiTitle="Есть у?..."/>
+		<lesson filename="xml/d_061.xml" uiTitle="Больной и доктор."/>
+		<lesson filename="xml/d_062.xml" uiTitle="Что случилось с?.."/>
+		<lesson filename="xml/d_063.xml" uiTitle="Визит врача."/>
+		<lesson filename="xml/d_064.xml" uiTitle="Ты не должен!.."/>
+		<lesson filename="xml/d_065.xml" uiTitle="Она не ребёнок."/>
+		<lesson filename="xml/d_066.xml" uiTitle="Который час?"/>
+		<lesson filename="xml/d_067.xml" uiTitle="Встреча подруг."/>
+		<lesson filename="xml/d_068.xml" uiTitle="Когда Вы были в?.."/>
+		<lesson filename="xml/d_069.xml" uiTitle="Кольцевые гонки."/>
+		<lesson filename="xml/d_070.xml" uiTitle="Когда они были?..."/>
+		<lesson filename="xml/d_071.xml" uiTitle="Обсуждение звонка."/>
+		<lesson filename="xml/d_072.xml" uiTitle="Что Вы делали?.."/>
+		<lesson filename="xml/d_073.xml" uiTitle="На автобусной остановке."/>
+		<lesson filename="xml/d_074.xml" uiTitle="Почему?.. Потому что..."/>
+		<lesson filename="xml/d_075.xml" uiTitle="В обувном магазине."/>
+		<lesson filename="xml/d_076.xml" uiTitle="Когда Вы?.."/>
+		<lesson filename="xml/d_077.xml" uiTitle="Зубная боль."/>
+		<lesson filename="xml/d_078.xml" uiTitle="Когда Вы?.."/>
+		<lesson filename="xml/d_079.xml" uiTitle="Нам нужно... У нас нет..."/>
+		<lesson filename="xml/d_080.xml" uiTitle="У Вас есть?.."/>
+		<lesson filename="xml/d_081.xml" uiTitle="Визит друга."/>
+		<lesson filename="xml/d_082.xml" uiTitle="Что они собираются делать?"/>
+		<lesson filename="xml/d_083.xml" uiTitle="Мы хотим взять отпуск."/>
+		<lesson filename="xml/d_084.xml" uiTitle="У Вас было?.."/>
+		<lesson filename="xml/d_085.xml" uiTitle="Встреча у кинотеатра."/>
+		<lesson filename="xml/d_086.xml" uiTitle="Что она сделала?"/>
+		<lesson filename="xml/d_087.xml" uiTitle="В автомастерской."/>
+		<lesson filename="xml/d_088.xml" uiTitle="Купили ли Вы?.."/>
+		<lesson filename="xml/d_089.xml" uiTitle="Этот дом продаётся?"/>
+		<lesson filename="xml/d_090.xml" uiTitle="Вы уже... "/>
+		<lesson filename="xml/d_091.xml" uiTitle="Новые соседи."/>
+		<lesson filename="xml/d_092.xml" uiTitle="Вчера был..."/>
+		<lesson filename="xml/d_093.xml" uiTitle="Наш новый сосед."/>
+		<lesson filename="xml/d_094.xml" uiTitle="Поедете ли Вы?... Нет..."/>
+		<lesson filename="xml/d_095.xml" uiTitle="На вокзале."/>
+		<lesson filename="xml/d_096.xml" uiTitle="Я ездил в... А как Вы?"/>
+		<lesson filename="xml/d_097.xml" uiTitle="В камере хранения."/>
+		<lesson filename="xml/d_098.xml" uiTitle="Это Ваши?.."/>
+		<lesson filename="xml/d_099.xml" uiTitle="Ты ушибся?"/>
+		<lesson filename="xml/d_100.xml" uiTitle="Он(а) говорит, что..."/>
+		<lesson filename="xml/d_101.xml" uiTitle="Что ещё он говорит?"/>
+		<lesson filename="xml/d_102.xml" uiTitle="Что такое?"/>
+		<lesson filename="xml/d_103.xml" uiTitle="Как ты сдал свой экзамен?"/>
+		<lesson filename="xml/d_104.xml" uiTitle="Смог он?.. Да, смог..."/>
+		<lesson filename="xml/d_105.xml" uiTitle="В письме полно ошибок."/>
+		<lesson filename="xml/d_106.xml" uiTitle="Почему?... Потому что..."/>
+		<lesson filename="xml/d_107.xml" uiTitle="Вам нравится это платье?"/>
+		<lesson filename="xml/d_108.xml" uiTitle="Этот... А тот..."/>
+		<lesson filename="xml/d_109.xml" uiTitle="Хочешь кофе?"/>
+		<lesson filename="xml/d_110.xml" uiTitle="У меня есть ...меньше."/>
+		<lesson filename="xml/d_111.xml" uiTitle="Покупка."/>
+		<lesson filename="xml/d_112.xml" uiTitle="Красное яблоко слаще."/>
+		<lesson filename="xml/d_113.xml" uiTitle="Платите за проезд."/>
+		<lesson filename="xml/d_114.xml" uiTitle="Я... Я тоже."/>
+		<lesson filename="xml/d_115.xml" uiTitle="Дома никого нет."/>
+		<lesson filename="xml/d_116.xml" uiTitle="кого-нибудь,что-нибудь"/>
+		<lesson filename="xml/d_117.xml" uiTitle="Петер нашёл монеты."/>
+		<lesson filename="xml/d_118.xml" uiTitle="Что ты делала, когда?.."/>
+		<lesson filename="xml/d_119.xml" uiTitle="Правдивая история."/>
+		<lesson filename="xml/d_120.xml" uiTitle="Я сделал это после того,.."/>
+		<lesson filename="xml/d_121.xml" uiTitle="В книжном магазине."/>
+		<lesson filename="xml/d_122.xml" uiTitle="Не он ли... ?"/>
+		<lesson filename="xml/d_123.xml" uiTitle="Фотография."/>
+		<lesson filename="xml/d_124.xml" uiTitle="Это не тот ли самый?"/>
+		<lesson filename="xml/d_125.xml" uiTitle="Выпьем чаю."/>
+		<lesson filename="xml/d_126.xml" uiTitle="Я должен... А как ты?"/>
+		<lesson filename="xml/d_127.xml" uiTitle="Он четвёртый или пятый."/>
+		<lesson filename="xml/d_128.xml" uiTitle="Он, должно быть..."/>
+		<lesson filename="xml/d_129.xml" uiTitle="На трассе."/>
+		<lesson filename="xml/d_130.xml" uiTitle="Не может быть, чтобы..."/>
+		<lesson filename="xml/d_131.xml" uiTitle="Отпуск."/>
+		<lesson filename="xml/d_132.xml" uiTitle="Ты думаешь? Я не уверен."/>
+		<lesson filename="xml/d_133.xml" uiTitle="Не хочу сниматься..."/>
+		<lesson filename="xml/d_134.xml" uiTitle="Что он сказал?"/>
+		<lesson filename="xml/d_135.xml" uiTitle="Репортаж."/>
+		<lesson filename="xml/d_136.xml" uiTitle="Она сказала, что..."/>
+		<lesson filename="xml/d_137.xml" uiTitle="Что, если выиграешь."/>
+		<lesson filename="xml/d_138.xml" uiTitle="Что,.. если?.."/>
+		<lesson filename="xml/d_139.xml" uiTitle="Инженер телефонной линии."/>
+		<lesson filename="xml/d_140.xml" uiTitle="Ты ? Что он хочет узнать?"/>
+		<lesson filename="xml/d_141.xml" uiTitle="В купе."/>
+		<lesson filename="xml/d_142.xml" uiTitle="Делает ли кто-либо? Да."/>
+		<lesson filename="xml/d_143.xml" uiTitle="Мусор в лесу."/>
+		<lesson filename="xml/d_144.xml" uiTitle="Кто-нибудь уже?.."/>
+	</category>
+</lessons>

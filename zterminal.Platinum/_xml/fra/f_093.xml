@@ -1,0 +1,32 @@
+<lesson>
+  <header wav="f_093.wav" dic="p093" dlgName="Наш новый сосед." dlgFile="exr\fg093.txt" author="Alexander" />
+  <lines>
+    <line lang1="Monsieur Blanchard est notre nouveau voisin. Il est aviateur." someNumber="None" image="dg\093_001.gif" lang2="Г-н Бланшар наш новый сосед. Он лётчик.">
+      <audioTime in="0" out="3915" />
+    </line>
+    <line lang1="Il fait son service dans le A.F.F." someNumber="None" image="dg\093_002.gif" lang2="Он служит в А.Ф.Ф.">
+      <audioTime in="3915" out="7254" />
+    </line>
+    <line lang1="Il ira à New-York le mois prochain." someNumber="None" image="dg\093_003.gif" lang2="Он полетит в Нью-Йорк в следующем месяце.">
+      <audioTime in="7254" out="9185" />
+    </line>
+    <line lang1="Et encore dans un mois il ira à Tokyo." someNumber="810" image="dg\093_004.gif" lang2="А ещё через месяц он полетит в Токио.">
+      <audioTime in="9185" out="11756" />
+    </line>
+    <line lang1="En ce moment il est à Madrid. Il est parti pour l'Espagne il y a une semaine." someNumber="None" image="dg\093_005.gif" lang2="В данный момент он в Мадриде. Он улетел в Испанию неделю тому назад.">
+      <audioTime in="11756" out="16696" />
+    </line>
+    <line lang1="Il reviendra à Paris dans une semaine." someNumber="60" image="dg\093_005.gif" lang2="Он вернётся в Париж через неделю.">
+      <audioTime in="16696" out="19074" />
+    </line>
+    <line lang1="Il a 41 ans, mais il a visité presque tous les pays du monde." someNumber="None" image="dg\093_006.gif" lang2="Ему 41 год, но он посетил почти все страны мира.">
+      <audioTime in="19074" out="22798" />
+    </line>
+    <line lang1="Monsieur Blanchard est un homme heureux." someNumber="None" image="dg\093_007.gif" lang2="Г-н Бланшар счастливый человек.">
+      <audioTime in="22798" out="24965" />
+    </line>
+    <line lang1="Mais sa femme n'est pas heureuse. D'habitude elle reste seule à la maison." someNumber="610" image="dg\093_008.gif" lang2="Но его жена не счастливая. Обычно она остаётся одна дома.">
+      <audioTime in="24965" out="29777" />
+    </line>
+  </lines>
+</lesson>

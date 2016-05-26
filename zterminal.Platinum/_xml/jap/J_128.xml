@@ -1,0 +1,86 @@
+<lesson>
+  <header wav="j_128.wav" dlgName="Мама заставила меня" dic="p128" />
+  <lines>
+    <line lang1="―野球*の*クラブ*は*どう*です*か。" someNumber="None" image="128_001.jpg" lang2="- Как дела в бейсбольном клубе?">
+      <audioTime in="0" out="2614" />
+    </line>
+    <line lang1="―トーレニング*は*大丈夫*です*が、" someNumber="None" image="128_001.jpg" lang2="- С тренировками всё в порядке,">
+      <audioTime in="2614" out="5480" />
+    </line>
+    <line lang1="先輩*に*いろいろ*の*仕事*を*させらる*ので、それ*が*大変*です。" someNumber="97" image="128_003.jpg" lang2="но старшие товарищи заставляют выполнять различную работу, и это ужасно.">
+      <audioTime in="5480" out="10099" />
+    </line>
+    <line lang1="―あまり*元気*そう*じゃない*わ*ね。" someNumber="None" image="128_004.jpg" lang2="- Вы выглядите не очень здоровым, не так ли?">
+      <audioTime in="10099" out="14545" />
+    </line>
+    <line lang1="どうした*の。" someNumber="None" image="128_004.jpg" lang2="Что случилось?">
+      <audioTime in="14545" out="15468" />
+    </line>
+    <line lang1="ー昨日、胃*が*痛かった*から、医者*に*行った*ん*です。" someNumber="None" image="128_006.jpg" lang2="- Вчера болел желудок, и поэтому я пошёл к врачу.">
+      <audioTime in="15468" out="19410" />
+    </line>
+    <line lang1="胃*の*検査*を*させられて、とても*いや*だった。" someNumber="97" image="128_007.jpg" lang2="Меня заставили пройти обследование желудка, и это было очень противно.">
+      <audioTime in="19410" out="22736" />
+    </line>
+    <line lang1="バリウム*を*飲まされた*ん*です。気持ち*が*悪く*なった。" someNumber="97" image="128_008.jpg" lang2="Заставили выпить барий.Я чувствовал себя ужасно.">
+      <audioTime in="22736" out="26864" />
+    </line>
+    <line lang1="ー夏休み*に*田舎*へ*行ったら、" someNumber="None" image="128_009.jpg" lang2="- На летние каникулы я поехал в деревню,">
+      <audioTime in="26864" out="31467" />
+    </line>
+    <line lang1="伯父*に*農家*の*仕事*を*手伝わされました。" someNumber="None" image="128_010.jpg" lang2="и там дядя заставил меня помогать в сельских работах.">
+      <audioTime in="31467" out="34713" />
+    </line>
+    <line lang1="ーいい*なあ。" someNumber="None" image="128_010.jpg" lang2="- Как хорошо!">
+      <audioTime in="34713" out="36246" />
+    </line>
+    <line lang1="自然*の*中*で*仕事する*の*は*体*に*いい*よ*ね。" someNumber="None" image="128_010.jpg" lang2="Ведь работать на природе полезно для здоровья!">
+      <audioTime in="36246" out="40236" />
+    </line>
+    <line lang1="―昨日*の*映画*を*みました*か。" someNumber="None" image="128_013.jpg" lang2="- Вы смотрели вчерашний фильм?">
+      <audioTime in="40236" out="43449" />
+    </line>
+    <line lang1="ーいいえ。忙しかった*です。" someNumber="None" image="128_014.jpg" lang2="- Нет, я была занята.">
+      <audioTime in="43449" out="46172" />
+    </line>
+    <line lang1="母*に*皿*を*洗わされていました。" someNumber="None" image="128_014.jpg" lang2="Мама заставила меня мыть посуду.">
+      <audioTime in="46172" out="48929" />
+    </line>
+    <line lang1="―ケーキ*は*食べません*か。" someNumber="None" image="128_014.jpg" lang2="- Вы не едите пирожное?">
+      <audioTime in="48929" out="51480" />
+    </line>
+    <line lang1="ーはい、食べません。体重*が*１０*キロ*増えちゃった*ん*です。" someNumber="None" image="128_016.jpg" lang2="- Да, не ем. Мой вес увеличился на 10 кг.">
+      <audioTime in="51480" out="56567" />
+    </line>
+    <line lang1="健康*の*ため*に*医者*に*ダイエット*を*させられています*が、" someNumber="None" image="128_017.jpg" lang2="Врач заставил меня придерживаться диеты ради здоровья,">
+      <audioTime in="56567" out="60588" />
+    </line>
+    <line lang1="全然*減らない*ん*です。" someNumber="None" image="128_017.jpg" lang2="но (вес) совсем не уменьшился.">
+      <audioTime in="60588" out="62191" />
+    </line>
+    <line lang1="ー敬子*さん、新しい*職場*は*どう？" someNumber="None" image="128_019.jpg" lang2="- Кэйко-сан, как тебе новая работа?">
+      <audioTime in="62191" out="67301" />
+    </line>
+    <line lang1="ーあまり*です*ね。" someNumber="None" image="128_019.jpg" lang2="- Не очень.">
+      <audioTime in="67301" out="69105" />
+    </line>
+    <line lang1="以前*から*希望していた*会社*です*が、今*の*仕事*に*は*不満*です。" someNumber="None" image="128_019.jpg" lang2="Я издавна хотела работать на этой фирме, но не удовлетворена теперешней работой.">
+      <audioTime in="69105" out="74560" />
+    </line>
+    <line lang1="余り*大事*な*仕事*を*させて*くれません*から。" someNumber="96" image="128_019.jpg" lang2="Потому что почти не доверяют важной работы.">
+      <audioTime in="74560" out="78929" />
+    </line>
+    <line lang1="部長*に*お茶*を*入れさせられたり、" someNumber="97" image="128_023.jpg" lang2="Начальник отдела заставляет меня наливать чай,">
+      <audioTime in="78929" out="82522" />
+    </line>
+    <line lang1="ワープロ*を*打たせられたり*します。" someNumber="None" image="128_024.jpg" lang2="печатать на текст-процессоре.">
+      <audioTime in="82522" out="85027" />
+    </line>
+    <line lang1="ーそう*か。" someNumber="None" image="128_025.jpg" lang2="- Вот как!">
+      <audioTime in="85027" out="86409" />
+    </line>
+    <line lang1="でも、敬子*さん*は*責任*が*ある*仕事*を*する*に*は*まだ*若い*ん*じゃない*か。" someNumber="None" image="128_025.jpg" lang2="Но разве ты ещё не молода для того, чтобы выполнять ответственную работу?">
+      <audioTime in="86409" out="92452" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_113.wav" dic="p113" dlgName="Платите за проезд." dlgFile="exr\ig113.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Il biglietto, per favore." someNumber="None" image="dg\113_001.gif" lang2="- Плату за проезд, пожалуйста.">
+      <audioTime in="184" out="2214" />
+    </line>
+    <line lang1="- Piazza dei Mille, prego." someNumber="None" image="dg\113_001.gif" lang2="- До Площади Милле, пожалуйста.">
+      <audioTime in="2214" out="3935" />
+    </line>
+    <line lang1="- Mi scusi, signore." someNumber="None" image="dg\113_001.gif" lang2="- Простите, сеньор.">
+      <audioTime in="3997" out="5534" />
+    </line>
+    <line lang1="Non posso cambiare questa banconota." someNumber="None" image="dg\113_001.gif" lang2="Я не могу разменять эту банкноту.">
+      <audioTime in="5657" out="8118" />
+    </line>
+    <line lang1="Non avete spiccioli?" someNumber="None" image="dg\113_001.gif" lang2="Нет ли у Вас мелочи?">
+      <audioTime in="8240" out="10024" />
+    </line>
+    <line lang1="- Non ho spiccioli, purtroppo." someNumber="None" image="dg\113_001.gif" lang2="- Боюсь, что у меня нет мелочи.">
+      <audioTime in="10086" out="12361" />
+    </line>
+    <line lang1="- Chiederò agli altri passeggeri." someNumber="None" image="dg\113_001.gif" lang2="- Пойду спрошу у пассажиров.">
+      <audioTime in="12423" out="14698" />
+    </line>
+    <line lang1="- Lei ha spiccioli, signore?" someNumber="None" image="dg\113_002.gif" lang2="- Нет ли у Вас мелочи, сеньор?">
+      <audioTime in="14821" out="16789" />
+    </line>
+    <line lang1="- Purtroppo no." someNumber="None" image="dg\113_002.gif" lang2="- Извините, у меня нет.">
+      <audioTime in="16850" out="18265" />
+    </line>
+    <line lang1="- Anche io non ce li ho." someNumber="None" image="dg\113_002.gif" lang2="- У меня тоже нет.">
+      <audioTime in="18265" out="19925" />
+    </line>
+    <line lang1="- Lei può cambiare questa banconota, signora?" someNumber="None" image="dg\113_003.gif" lang2="- Не могли бы Вы разменять банкноту, госпожа?">
+      <audioTime in="20048" out="22816" />
+    </line>
+    <line lang1="- Mi dispiace, ma non posso." someNumber="None" image="dg\113_003.gif" lang2="- Боюсь, что нет.">
+      <audioTime in="22877" out="24846" />
+    </line>
+    <line lang1="- Anche io non posso." someNumber="None" image="dg\113_003.gif" lang2="- Я тоже не могу.">
+      <audioTime in="24906" out="26629" />
+    </line>
+    <line lang1="- Mi dispiace molto, signore." someNumber="None" image="dg\113_004.gif" lang2="- Я очень сожалею, сеньор.">
+      <audioTime in="26629" out="28412" />
+    </line>
+    <line lang1="Ma Lei deve scendere dall'autobus." someNumber="None" image="dg\113_004.gif" lang2="Вам придётся сойти с автобуса.">
+      <audioTime in="28412" out="30625" />
+    </line>
+    <line lang1="Nessuno dei nostri passeggeri può cambiare questa banconota." someNumber="890" image="dg\113_004.gif" lang2="Никто из наших пассажиров не может разменять эту банкноту.">
+      <audioTime in="30810" out="34562" />
+    </line>
+    <line lang1="Tutti milionari!" someNumber="None" image="dg\113_004.gif" lang2="Они все миллионеры!">
+      <audioTime in="34623" out="36100" />
+    </line>
+    <line lang1="- Tranne noi, bigliettaio." someNumber="None" image="dg\113_005.gif" lang2="- Кроме нас, кондуктор.">
+      <audioTime in="36100" out="37805" />
+    </line>
+    <line lang1="- Io ho qualche spicciolo." someNumber="None" image="dg\113_005.gif" lang2="- У меня есть мелочь.">
+      <audioTime in="37805" out="39341" />
+    </line>
+    <line lang1="- Anche io ce li ho." someNumber="None" image="dg\113_005.gif" lang2="- У меня тоже.">
+      <audioTime in="39341" out="40785" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="j_090.wav" dlgName="Карточка временного проживания" dic="p090" />
+  <lines>
+    <line lang1="―イリナ*さん、ちょっと*聞きたい*こと*が*あります*が。" someNumber="None" image="090_001.jpg" lang2="- Ирина-сан, хотелось бы спросить Вас...">
+      <audioTime in="0" out="4636" />
+    </line>
+    <line lang1="いい*です*か。" someNumber="None" image="090_001.jpg" lang2="Можно?">
+      <audioTime in="4636" out="5496" />
+    </line>
+    <line lang1="―はい。なん*です*か。" someNumber="None" image="090_001.jpg" lang2="- Пожалуйста. В чем дело?">
+      <audioTime in="5496" out="8205" />
+    </line>
+    <line lang1="―私*は*３ヵ月*以上*日本*に*たいざい*する*ので、" someNumber="154" image="090_004.jpg" lang2="- Моё пребывание в Японии (продлится) более 3 месяцев,">
+      <audioTime in="8205" out="12446" />
+    </line>
+    <line lang1="外国人*登録*証明書*が*必要*です。" someNumber="None" image="090_004.jpg" lang2="поэтому мне нужно удостоверение временного проживания для иностранцев.">
+      <audioTime in="12446" out="15267" />
+    </line>
+    <line lang1="どこ*へ*行けばもらえます*か。" someNumber="084" image="090_004.jpg" lang2="Куда нужно пойти, чтоб получить его?">
+      <audioTime in="15267" out="17583" />
+    </line>
+    <line lang1="―市役所*に*いけば、もらえます。" someNumber="94" image="090_007.jpg" lang2="- Его можно получить, если пойти в мэрию.">
+      <audioTime in="17583" out="21606" />
+    </line>
+    <line lang1="―お金*を*払えば、もらえます*か。" someNumber="156" image="090_008.jpg" lang2="- И можно получить, заплатив деньги?">
+      <audioTime in="21606" out="24093" />
+    </line>
+    <line lang1="―いいえ、お金*は*払わなくても、もらえます*が、" someNumber="157" image="090_009.jpg" lang2="- Нет, можно получить и не платя денег,">
+      <audioTime in="24093" out="28273" />
+    </line>
+    <line lang1="パスポート*と*写真*が*二枚*要ります。" someNumber="None" image="090_010.jpg" lang2="но нужен паспорт и 2 фотографии.">
+      <audioTime in="28273" out="30777" />
+    </line>
+    <line lang1="用紙*に*名前、住所、たいざい*期間、" someNumber="None" image="090_011.jpg" lang2="Если заполнить на бланке имя, адрес, время пребывания,">
+      <audioTime in="30777" out="35905" />
+    </line>
+    <line lang1="来た*目的*を*書き込んで、係の人*に*わたせば、もらえます。" someNumber="None" image="090_011.jpg" lang2="цель приезда и вручить (его) служащему, то можно получить.">
+      <audioTime in="35905" out="40113" />
+    </line>
+    <line lang1="―すぐ*もらえます*か。" someNumber="None" image="090_013.jpg" lang2="- И сразу можно получить?">
+      <audioTime in="40113" out="41897" />
+    </line>
+    <line lang1="―いいえ、２週間*ぐらい*かかります。" someNumber="None" image="090_014.jpg" lang2="- Нет, это займет 2 недели.">
+      <audioTime in="41897" out="45207" />
+    </line>
+    <line lang1="ところ*で、登録*証明書*は" someNumber="153" image="090_015.jpg" lang2="Кстати, удостоверение временного проживания иностранца">
+      <audioTime in="45207" out="48533" />
+    </line>
+    <line lang1="日本*に*いる*間、パスポート*の*代わり*に*使えます*よ。" someNumber="127" image="090_015.jpg" lang2="во время пребывания в Японии можно употреблять вместо паспорта.">
+      <audioTime in="48533" out="51765" />
+    </line>
+    <line lang1="―そう*です*か。それ*から、銀行*の*口座*を*開きたい*ん*です*が。" someNumber="107" image="090_017.jpg" lang2="- Вот как! Мне бы ещё хотелось открыть счет в банке...">
+      <audioTime in="51765" out="57250" />
+    </line>
+    <line lang1="―登録*証明書*と*いんかん*と*お金*を*持って、" someNumber="None" image="090_018.jpg" lang2="- Если взять удостоверение временного проживания, личную печать и деньги">
+      <audioTime in="57446" out="62128" />
+    </line>
+    <line lang1="銀行*へ*行けば、口座*を*開けます。" someNumber="None" image="090_018.jpg" lang2="и пойти в банк, можно открыть счет.">
+      <audioTime in="62128" out="64380" />
+    </line>
+    <line lang1="―いんかん*が*なければ、口座*を*開けません*か。" someNumber="23" image="090_020.jpg" lang2="- А если нет личной печати, то счет открыть нельзя?">
+      <audioTime in="64380" out="68685" />
+    </line>
+    <line lang1="―たぶん、外国人*に*は*サイン*で*も*大丈夫*でしょう。" someNumber="None" image="090_021.jpg" lang2="- Наверное, для иностранцев сойдет и подпись.">
+      <audioTime in="68685" out="72961" />
+    </line>
+    <line lang1="銀行*の*人*に*聞けば、分かる*でしょう。" someNumber="None" image="090_022.jpg" lang2="Об этом можно узнать, если спросить служащего в банке.">
+      <audioTime in="72778" out="76102" />
+    </line>
+    <line lang1="―はい。どうも*ありがとう。" someNumber="None" image="090_023.jpg" lang2="- Большое спасибо.">
+      <audioTime in="76102" out="78986" />
+    </line>
+  </lines>
+</lesson>

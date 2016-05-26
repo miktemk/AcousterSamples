@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="d_037.wav" dic="p037" dlgName="Что ты делаешь?" dlgFile="exr\dg037.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Du #arbeitest fleißig, Hans." someNumber="220" image="dg\037_001.gif" lang2="- Ты усердно работаешь, Ганс.">
+      <audioTime in="0" out="2066" />
+    </line>
+    <line lang1="Was #machst du?" someNumber="220" image="dg\037_001.gif" lang2="Что ты делаешь?">
+      <audioTime in="2066" out="3194" />
+    </line>
+    <line lang1="- Ich #mache einen Bücherschrank." someNumber="None" image="dg\037_001.gif" lang2="- Я делаю книжный шкаф.">
+      <audioTime in="3459" out="5334" />
+    </line>
+    <line lang1="#Gib mir bitte den Hammer dort, Robert." someNumber="200" image="dg\037_002.gif" lang2="Дай мне тот молоток, пожалуйста, Роберт.">
+      <audioTime in="5670" out="7640" />
+    </line>
+    <line lang1="- Welchen Hammer?" someNumber="400" image="dg\037_002.gif" lang2="- Какой молоток?">
+      <audioTime in="7641" out="8769" />
+    </line>
+    <line lang1="Diesen?" someNumber="400" image="dg\037_002.gif" lang2="Этот?">
+      <audioTime in="8769" out="9447" />
+    </line>
+    <line lang1="- Nein, nicht diesen, den großen." someNumber="None" image="dg\037_003.gif" lang2="- Нет, не этот, тот большой.">
+      <audioTime in="9467" out="12142" />
+    </line>
+    <line lang1="Hier #ist er." someNumber="None" image="dg\037_004.gif" lang2="- Вот он.">
+      <audioTime in="12142" out="13271" />
+    </line>
+    <line lang1="- Danke schön, Robert." someNumber="None" image="dg\037_004.gif" lang2="- Спасибо, Роберт.">
+      <audioTime in="13271" out="14851" />
+    </line>
+    <line lang1="- Was #willst du jetzt machen, Hans?" someNumber="720" image="dg\037_005.gif" lang2="- Что ты собираешься сейчас делать, Ганс?">
+      <audioTime in="15041" out="16770" />
+    </line>
+    <line lang1="- Ich #will ihn #anstreichen." someNumber="None" image="dg\037_005.gif" lang2="- Я собираюсь покрасить его.">
+      <audioTime in="17059" out="18885" />
+    </line>
+    <line lang1="- In welcher Farbe #willst du ihn #anstreichen?" someNumber="None" image="dg\037_006.gif" lang2="- Каким цветом ты собираешься покрасить его?">
+      <audioTime in="19029" out="21384" />
+    </line>
+    <line lang1="- Ich #will ihn in rosa #anstreichen." someNumber="680" image="dg\037_006.gif" lang2="- Я собираюсь покрасить его в розовый цвет.">
+      <audioTime in="21528" out="24123" />
+    </line>
+    <line lang1="- Rosa?" someNumber="680" image="dg\037_006.gif" lang2="- Розовый?">
+      <audioTime in="24123" out="25325" />
+    </line>
+    <line lang1="- Dieser Bücherschrank #ist nicht für mich." someNumber="800" image="dg\037_007.gif" lang2="- Этот книжный шкаф не для меня.">
+      <audioTime in="25325" out="27904" />
+    </line>
+    <line lang1="Er #ist für meine Tochter Helga." someNumber="800" image="dg\037_007.gif" lang2="Он для моей дочери Хельги.">
+      <audioTime in="28016" out="29889" />
+    </line>
+    <line lang1="Rosa #ist ihre Lieblingsfarbe." someNumber="None" image="dg\037_007.gif" lang2="Розовый - её любимый цвет.">
+      <audioTime in="29889" out="31921" />
+    </line>
+  </lines>
+</lesson>

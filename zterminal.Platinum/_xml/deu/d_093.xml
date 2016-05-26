@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="d_093.wav" dic="p093" dlgName="Наш новый сосед." dlgFile="exr\dg093.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Herr Braun #ist unser neuer Nachbar." someNumber="210" image="dg\093_001.gif" lang2="- Господин Браун наш новый сосед.">
+      <audioTime in="1109" out="2860" />
+    </line>
+    <line lang1="- Er #ist Flieger." someNumber="210" image="dg\093_001.gif" lang2="- Он лётчик.">
+      <audioTime in="3561" out="4729" />
+    </line>
+    <line lang1="- Er #hat in den Luftstreitkräften #gedient." someNumber="None" image="dg\093_002.gif" lang2="- Он служил в ВВС.">
+      <audioTime in="5371" out="7648" />
+    </line>
+    <line lang1="- Er #wird nächsten Monat nach London #fliegen." someNumber="700" image="dg\093_003.gif" lang2="- Он полетит в Лондон в следующем месяце.">
+      <audioTime in="8115" out="10274" />
+    </line>
+    <line lang1="- Und in einem Monat #wird er nach Tokio #fliegen." someNumber="None" image="dg\093_004.gif" lang2="- А через месяц он полетит в Токио.">
+      <audioTime in="10859" out="14244" />
+    </line>
+    <line lang1="- Jetzt #ist er in Madrid." someNumber="900" image="dg\093_005.gif" lang2="- Сейчас он в Мадриде.">
+      <audioTime in="15061" out="16463" />
+    </line>
+    <line lang1="- Er #ist vor einer Woche nach Spanien #geflogen." someNumber="900" image="dg\093_005.gif" lang2="- Неделю назад он улетел в Испанию.">
+      <audioTime in="16930" out="19790" />
+    </line>
+    <line lang1="- Er #wird in einer Woche zurück #sein." someNumber="None" image="dg\093_005.gif" lang2="- Он вернётся через неделю.">
+      <audioTime in="20491" out="22359" />
+    </line>
+    <line lang1="- Er #ist erst 41 Jahre alt, und er #ist schon fast in allen Ländern der Welt #gewesen." someNumber="None" image="dg\093_006.gif" lang2="- Ему только 41 год, а он уже побывал почти во всех странах мира.">
+      <audioTime in="22650" out="29072" />
+    </line>
+    <line lang1="Herr Braun #ist ein sehr glücklicher Mensch." someNumber="220" image="dg\093_007.gif" lang2="Господин Браун очень счастливый человек.">
+      <audioTime in="30065" out="32342" />
+    </line>
+    <line lang1="- Aber seine Frau #ist nicht sehr glücklich." someNumber="850" image="dg\093_008.gif" lang2="- Но его жена не очень счастливая.">
+      <audioTime in="32809" out="35318" />
+    </line>
+    <line lang1="- Sie #bleibt gewöhnlich zu Hause." someNumber="850" image="dg\093_008.gif" lang2="- Она обычно остаётся дома.">
+      <audioTime in="35844" out="37771" />
+    </line>
+  </lines>
+</lesson>

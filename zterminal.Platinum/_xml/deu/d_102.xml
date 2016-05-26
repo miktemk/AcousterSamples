@@ -1,0 +1,86 @@
+<lesson>
+  <header wav="d_102.wav" dic="p102" dlgName="Что такое?" dlgFile="exr\dg101.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Mir #ist es kalt." someNumber="360" image="dg\102_001.gif" lang2="- Мне холодно.">
+      <audioTime in="481" out="3132" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="360" image="dg\102_001.gif" lang2="- Простите, что Вы сказали?">
+      <audioTime in="3132" out="4261" />
+    </line>
+    <line lang1="- Sie #sagt, dass ihr kalt #ist." someNumber="980" image="dg\102_001.gif" lang2="- Она говорит, что ей холодно.">
+      <audioTime in="4256" out="6183" />
+    </line>
+    <line lang1="- Ich #habe mich #erkältet." someNumber="350" image="dg\102_002.gif" lang2="- Я простудился.">
+      <audioTime in="6585" out="8111" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="350" image="dg\102_002.gif" lang2="- Простите, что Вы сказали?">
+      <audioTime in="8111" out="9240" />
+    </line>
+    <line lang1="- Er #sagt, dass er sich #erkältet #hat." someNumber="None" image="dg\102_002.gif" lang2="- Он говорит, что он простудился.">
+      <audioTime in="9315" out="11404" />
+    </line>
+    <line lang1="- Ich #brauche eine Fahrerlaubnis." someNumber="None" image="dg\102_003.gif" lang2="- Мне нужно водительское удостоверение.">
+      <audioTime in="11966" out="14054" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="None" image="dg\102_003.gif" lang2="- Простите, что Вы сказали?">
+      <audioTime in="14054" out="15183" />
+    </line>
+    <line lang1="- Sie #sagt, dass sie eine Fahrerlaubnis #braucht." someNumber="None" image="dg\102_003.gif" lang2="- Она говорит, что ей нужно водительское удостоверение.">
+      <audioTime in="15500" out="17829" />
+    </line>
+    <line lang1="- Ich #verkaufe dieses Haus." someNumber="550" image="dg\102_004.gif" lang2="- Я продам этот дом.">
+      <audioTime in="18150" out="19756" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="550" image="dg\102_004.gif" lang2="- Простите, что Вы сказали?">
+      <audioTime in="20078" out="21042" />
+    </line>
+    <line lang1="- Er #sagt, dass er dieses Haus #verkauft." someNumber="None" image="dg\102_004.gif" lang2="- Он говорит, что он продаёт этот дом.">
+      <audioTime in="21202" out="23129" />
+    </line>
+    <line lang1="- Ich #habe Ohrenschmerzen." someNumber="None" image="dg\102_005.gif" lang2="- У меня болят уши.">
+      <audioTime in="23611" out="26101" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="None" image="dg\102_005.gif" lang2="- Простите, что Вы сказали?">
+      <audioTime in="26422" out="27385" />
+    </line>
+    <line lang1="- Er #sagt, dass er Ohrenschmerzen #hat." someNumber="None" image="dg\102_005.gif" lang2="- Он говорит, что у него болят уши.">
+      <audioTime in="27547" out="29474" />
+    </line>
+    <line lang1="- Ich #will meine Haare #schneiden." someNumber="680" image="dg\102_006.gif" lang2="- Я хочу подстричься.">
+      <audioTime in="29875" out="31963" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="680" image="dg\102_006.gif" lang2="- Простите, что Вы сказали?">
+      <audioTime in="31963" out="33092" />
+    </line>
+    <line lang1="- Er #sagt, dass er seine Haare #schneiden #will." someNumber="None" image="dg\102_006.gif" lang2="- Он говорит, что он хочет подстричься.">
+      <audioTime in="33249" out="35577" />
+    </line>
+    <line lang1="- Wir #wollen diesen Wagen #reparieren." someNumber="None" image="dg\102_007.gif" lang2="- Мы хотим отремонтировать эту машину.">
+      <audioTime in="36220" out="38308" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="None" image="dg\102_007.gif" lang2="- Простите, что Вы сказали?">
+      <audioTime in="38308" out="39437" />
+    </line>
+    <line lang1="- Sie #sagen, dass sie diesen Wagen #reparieren #wollen." someNumber="370" image="dg\102_007.gif" lang2="- Они говорят, что они хотят отремонтировать эту машину.">
+      <audioTime in="39673" out="42244" />
+    </line>
+    <line lang1="- Ich #habe Kopfschmerzen." someNumber="None" image="dg\102_008.gif" lang2="- У меня болит голова.">
+      <audioTime in="42886" out="44492" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="None" image="dg\102_008.gif" lang2="- Простите, что Вы сказали?">
+      <audioTime in="44492" out="45621" />
+    </line>
+    <line lang1="- Sie #sagt, dass sie Kopfschmerzen #hat." someNumber="None" image="dg\102_008.gif" lang2="- Она говорит, что у неё болит голова.">
+      <audioTime in="45621" out="47879" />
+    </line>
+    <line lang1="- Wir #brauchen Geld." someNumber="None" image="dg\102_009.gif" lang2="- Нам нужны деньги.">
+      <audioTime in="48588" out="49873" />
+    </line>
+    <line lang1="- Wie bitte?" someNumber="None" image="dg\102_009.gif" lang2="- Простите, что Вы сказали?">
+      <audioTime in="49873" out="51002" />
+    </line>
+    <line lang1="- Sie #sagen, dass sie Geld #brauchen." someNumber="980" image="dg\102_009.gif" lang2="- Они говорят, что им нужны деньги.">
+      <audioTime in="51078" out="52684" />
+    </line>
+  </lines>
+</lesson>

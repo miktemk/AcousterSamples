@@ -1,0 +1,32 @@
+<lesson>
+  <header wav="i_023.wav" dic="p023" dlgName="Дай мне несколько бокалов." dlgFile="exr\ig023.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Gianna, dammi alcuni calici." someNumber="None" image="dg\023_001.gif" lang2="- Дай мне несколько бокалов, Джанна.">
+      <audioTime in="52" out="2114" />
+    </line>
+    <line lang1="- Quali calici?" someNumber="None" image="dg\023_002.gif" lang2="- Каких бокалов?">
+      <audioTime in="2153" out="3405" />
+    </line>
+    <line lang1="Questi calici qua?" someNumber="320" image="dg\023_003.gif" lang2="Вот этих бокалов?">
+      <audioTime in="3413" out="4972" />
+    </line>
+    <line lang1="- No, non quelli." someNumber="None" image="dg\023_004.gif" lang2="- Нет, не тех.">
+      <audioTime in="5070" out="6701" />
+    </line>
+    <line lang1="Quelli sulla mensola." someNumber="None" image="dg\023_004.gif" lang2="Тех, что на полке.">
+      <audioTime in="6754" out="8417" />
+    </line>
+    <line lang1="- Questi?" someNumber="None" image="dg\023_005.gif" lang2="- Эти?">
+      <audioTime in="8327" out="9502" />
+    </line>
+    <line lang1="- Sì, per favore." someNumber="None" image="dg\023_005.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="9513" out="11080" />
+    </line>
+    <line lang1="- Eccoli." someNumber="None" image="dg\023_006.gif" lang2="- Вот они.">
+      <audioTime in="11099" out="12117" />
+    </line>
+    <line lang1="- Grazie." someNumber="None" image="dg\023_006.gif" lang2="- Спасибо.">
+      <audioTime in="12033" out="12998" />
+    </line>
+  </lines>
+</lesson>

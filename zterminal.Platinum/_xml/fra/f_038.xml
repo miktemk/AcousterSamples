@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="f_038.wav" dic="p038" dlgName="Что ты собираешься делать?" dlgFile="exr\fg037.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Que vas-tu faire?" someNumber="None" image="dg\038_001.gif" lang2="- Что ты собираешься делать?">
+      <audioTime in="0" out="854" />
+    </line>
+    <line lang1="- Je vais me raser." someNumber="None" image="dg\038_001.gif" lang2="- Я собираюсь бриться.">
+      <audioTime in="854" out="1796" />
+    </line>
+    <line lang1="- Que faites-vous maintenant?" someNumber="780" image="dg\038_002.gif" lang2="- Что вы делаете сейчас?">
+      <audioTime in="1796" out="2943" />
+    </line>
+    <line lang1="- Maintenant je me rase." someNumber="None" image="dg\038_002.gif" lang2="- Сейчас я бреюсь.">
+      <audioTime in="2943" out="4201" />
+    </line>
+    <line lang1="- Qu'allez-vous faire tous les deux?" someNumber="None" image="dg\038_003.gif" lang2="- Что вы оба собираетесь делать?">
+      <audioTime in="4201" out="5364" />
+    </line>
+    <line lang1="- Nous allons faire nos devoirs." someNumber="700" image="dg\038_003.gif" lang2="- Мы собираемся делать свои домашние задания.">
+      <audioTime in="5364" out="6672" />
+    </line>
+    <line lang1="- Que faites-vous maintenant?" someNumber="None" image="dg\038_005.gif" lang2="- Что вы делаете сейчас?">
+      <audioTime in="6672" out="7780" />
+    </line>
+    <line lang1="- Maintenant nous faisons nos devoirs." someNumber="None" image="dg\038_005.gif" lang2="- Сейчас мы делаем свои домашние задания.">
+      <audioTime in="7780" out="9473" />
+    </line>
+    <line lang1="- Qu'allez-vous faire tous les deux?" someNumber="700" image="dg\038_006.gif" lang2="- Что вы оба собираетесь делать?">
+      <audioTime in="9473" out="10624" />
+    </line>
+    <line lang1="- Nous allons écouter la radio." someNumber="None" image="dg\038_006.gif" lang2="- Мы собираемся слушать радио.">
+      <audioTime in="10624" out="12127" />
+    </line>
+    <line lang1="- Que faites-vous maintenant?" someNumber="None" image="dg\038_007.gif" lang2="- Что вы делаете сейчас?">
+      <audioTime in="12127" out="13287" />
+    </line>
+    <line lang1="- Maintenant nous écoutons la radio." someNumber="610" image="dg\038_007.gif" lang2="- Сейчас мы слушаем радио.">
+      <audioTime in="13287" out="15070" />
+    </line>
+    <line lang1="- Que vas-tu faire?" someNumber="None" image="dg\038_004.gif" lang2="- Что ты собираешься делать?">
+      <audioTime in="15070" out="15928" />
+    </line>
+    <line lang1="- Je vais attendre l'autobus." someNumber="None" image="dg\038_004.gif" lang2="- Я собираюсь ждать автобус.">
+      <audioTime in="15928" out="17349" />
+    </line>
+    <line lang1="- Que fais-tu maintenant?" someNumber="None" image="dg\038_004.gif" lang2="- Что ты делаешь сейчас?">
+      <audioTime in="17349" out="18377" />
+    </line>
+    <line lang1="- Maintenant j'attends l'autobus." someNumber="None" image="dg\038_004.gif" lang2="- Сейчас я жду автобус.">
+      <audioTime in="18377" out="20022" />
+    </line>
+    <line lang1="- Que vas-tu faire?" someNumber="700" image="dg\038_009.gif" lang2="- Что ты собираешься делать?">
+      <audioTime in="20022" out="20868" />
+    </line>
+    <line lang1="- Je vais peindre ma bibliothèque." someNumber="None" image="dg\038_009.gif" lang2="- Я собираюсь покрасить свой книжный шкаф.">
+      <audioTime in="20868" out="22531" />
+    </line>
+    <line lang1="- Que fais-tu maintenant?" someNumber="None" image="dg\038_010.gif" lang2="- Что ты делаешь сейчас?">
+      <audioTime in="22531" out="23558" />
+    </line>
+    <line lang1="- Maintenant je peins ma bibliothèque." someNumber="610" image="dg\038_010.gif" lang2="- Сейчас я крашу свой книжный шкаф.">
+      <audioTime in="23558" out="25341" />
+    </line>
+    <line lang1="- Que vas-tu faire?" someNumber="None" image="dg\038_011.gif" lang2="- Что ты собираешься делать?">
+      <audioTime in="25341" out="26201" />
+    </line>
+    <line lang1="- Je vais laver les assiettes." someNumber="None" image="dg\038_011.gif" lang2="- Я собираюсь мыть тарелки.">
+      <audioTime in="26201" out="27577" />
+    </line>
+    <line lang1="- Que fais-tu maintenant?" someNumber="None" image="dg\038_012.gif" lang2="- Что ты делаешь сейчас?">
+      <audioTime in="27577" out="28515" />
+    </line>
+    <line lang1="- Maintenant je lave les assiettes." someNumber="None" image="dg\038_012.gif" lang2="- Сейчас я мою тарелки.">
+      <audioTime in="28515" out="29870" />
+    </line>
+  </lines>
+</lesson>

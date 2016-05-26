@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_092.wav" dic="p092" dlgName="Вчера был..." dlgFile="exr\ig091.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ieri pioveva." someNumber="780" image="dg\092_001.gif" lang2="- Вчера шёл дождь.">
+      <audioTime in="228" out="1603" />
+    </line>
+    <line lang1="- Sì, e pioverà anche domani." someNumber="810" image="dg\092_001.gif" lang2="- Да, завтра снова будет идти дождь.">
+      <audioTime in="1527" out="3971" />
+    </line>
+    <line lang1="- Ieri si è alzato tardi." someNumber="None" image="dg\092_002.gif" lang2="- Он встал поздно вчера.">
+      <audioTime in="3923" out="5887" />
+    </line>
+    <line lang1="- Sì, e si alzerà tardi anche domani." someNumber="None" image="dg\092_002.gif" lang2="- Да, завтра он снова встанет поздно.">
+      <audioTime in="5836" out="8783" />
+    </line>
+    <line lang1="- Lei ha scopato il pavimento." someNumber="None" image="dg\092_003.gif" lang2="- Она подмела пол вчера.">
+      <audioTime in="8991" out="10998" />
+    </line>
+    <line lang1="- Sì, e scoperà il pavimento anche domani." someNumber="None" image="dg\092_003.gif" lang2="- Да, она снова будет подметать пол завтра.">
+      <audioTime in="11022" out="13743" />
+    </line>
+    <line lang1="- Ieri nevicava." someNumber="None" image="dg\092_004.gif" lang2="- Вчера шёл снег.">
+      <audioTime in="13900" out="15428" />
+    </line>
+    <line lang1="- Sì, e nevicherà anche domani." someNumber="None" image="dg\092_004.gif" lang2="- Да, завтра снова будет идти снег.">
+      <audioTime in="15428" out="18101" />
+    </line>
+    <line lang1="- Ieri ha finito tardi il suo lavoro." someNumber="None" image="dg\092_005.gif" lang2="- Вчера он закончил работу поздно.">
+      <audioTime in="18178" out="20546" />
+    </line>
+    <line lang1="- Sì, e finirà il tardi suo lavoro anche domani." someNumber="None" image="dg\092_005.gif" lang2="- Да, завтра он снова закончит работу поздно.">
+      <audioTime in="20546" out="24135" />
+    </line>
+    <line lang1="- Ieri hanno riparato la sua macchina." someNumber="820" image="dg\092_006.gif" lang2="- Вчера они ремонтировали его автомашину.">
+      <audioTime in="24059" out="26579" />
+    </line>
+    <line lang1="- Sì, e ripareranno la sua macchina anche domani." someNumber="None" image="dg\092_006.gif" lang2="- Да, завтра они снова будут ремонтировать его автомашину.">
+      <audioTime in="26579" out="29711" />
+    </line>
+    <line lang1="- Ieri gli ha telefonato." someNumber="None" image="dg\092_007.gif" lang2="- Она звонила ему вчера.">
+      <audioTime in="29590" out="31544" />
+    </line>
+    <line lang1="- Sì, e gli telefonerà anche domani." someNumber="None" image="dg\092_007.gif" lang2="- Да, завтра она позвонит ему снова.">
+      <audioTime in="31544" out="34675" />
+    </line>
+    <line lang1="- Ieri loro sono tornati a casa tardi." someNumber="None" image="dg\092_008.gif" lang2="- Вчера они поехали домой поздно.">
+      <audioTime in="34600" out="37318" />
+    </line>
+    <line lang1="- Sì, e domani torneranno a casa tardi di nuovo." someNumber="None" image="dg\092_008.gif" lang2="- Да, завтра они снова поедут домой поздно.">
+      <audioTime in="37259" out="40449" />
+    </line>
+    <line lang1="- Ieri si è fatto la barba." someNumber="None" image="dg\092_009.gif" lang2="- Вчера он побрился.">
+      <audioTime in="40481" out="42588" />
+    </line>
+    <line lang1="- Sì, e si farà la barba anche domani." someNumber="380" image="dg\092_009.gif" lang2="- Да, завтра он будет бриться снова.">
+      <audioTime in="42498" out="45598" />
+    </line>
+    <line lang1="- Ieri ha fissato un incontro." someNumber="None" image="dg\092_010.gif" lang2="- Он назначил встречу вчера.">
+      <audioTime in="45445" out="47889" />
+    </line>
+    <line lang1="- Sì, e fisserà un incontro anche domani." someNumber="None" image="dg\092_010.gif" lang2="- Да, завтра он снова назначит встречу.">
+      <audioTime in="47737" out="50684" />
+    </line>
+  </lines>
+</lesson>

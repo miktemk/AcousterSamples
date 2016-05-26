@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="j_058.wav" dlgName="Впервые японская еда" dic="p058" />
+  <lines>
+    <line lang1="―じゃ、のりまき*を*作りましょう。" someNumber="083" image="058_001.jpg" lang2="- Ладно, приготовим норимаки.">
+      <audioTime in="0" out="3467" />
+    </line>
+    <line lang1="まず、きゅうり*を*細長く*切って*下さい。" someNumber="23" image="058_002.jpg" lang2="Сначала нарежьте огурец тонко и длинно.">
+      <audioTime in="3467" out="7836" />
+    </line>
+    <line lang1="ーこれ*で*いい*です*か。" someNumber="None" image="058_003.jpg" lang2="- Так хорошо?">
+      <audioTime in="7765" out="9952" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="058_003.jpg" lang2="- Да.">
+      <audioTime in="9952" out="11082" />
+    </line>
+    <line lang1="私*は*この*フライパン*で*厚焼き卵*を*作ります。" someNumber="None" image="058_005.jpg" lang2="Я приготовлю омлет в этой сковороде.">
+      <audioTime in="11082" out="15971" />
+    </line>
+    <line lang1="あつやき卵*もう*すく*切って*下さい。" someNumber="None" image="058_006.jpg" lang2="И омлет нарежьте тонко.">
+      <audioTime in="15971" out="19787" />
+    </line>
+    <line lang1="のり*を*一枚、取って*下さい。" someNumber="34" image="058_007.jpg" lang2="Возьмите один лист нори.">
+      <audioTime in="19787" out="22938" />
+    </line>
+    <line lang1="のり*の*上*に*できた*ご飯*を*のせて、" someNumber="04" image="058_008.jpg" lang2="На лист нори положите готовый рис,">
+      <audioTime in="22938" out="26100" />
+    </line>
+    <line lang1="きゅうり*と*厚焼き卵*を*のせて*ください。" someNumber="None" image="058_009.jpg" lang2="положите огурец и омлет.">
+      <audioTime in="26100" out="29300" />
+    </line>
+    <line lang1="それ*から*丸く*まいて*下さい。" someNumber="None" image="058_010.jpg" lang2="Потом сверните в рулон.">
+      <audioTime in="29300" out="32500" />
+    </line>
+    <line lang1="―どうやって*まく*の*です*か。" someNumber="75" image="058_010.jpg" lang2="- Как нужно сворачивать?">
+      <audioTime in="32500" out="35034" />
+    </line>
+    <line lang1="―こうやって*巻いて*下さい。" someNumber="53" image="058_012.jpg" lang2="- Сверните вот так.">
+      <audioTime in="35034" out="37031" />
+    </line>
+    <line lang1="ーはい。細長い*です*ね。" someNumber="163" image="058_013.jpg" lang2="- Да. Получилось продолговато (тонко и длинно), не так ли.">
+      <audioTime in="37031" out="40846" />
+    </line>
+    <line lang1="ーそう*です。です*から*３センチ*ぐらい*に*切ります。" someNumber="None" image="058_014.jpg" lang2="- Да. Поэтому нарезаем примерно по 3 см.">
+      <audioTime in="40846" out="46119" />
+    </line>
+    <line lang1="これ*は*のりまき*です。" someNumber="None" image="058_015.jpg" lang2="Это норимаки.">
+      <audioTime in="46119" out="48671" />
+    </line>
+    <line lang1="きれい*に*お盆*に*のせて*ください。" someNumber="24" image="058_015.jpg" lang2="Уложите красиво на поднос.">
+      <audioTime in="48671" out="52091" />
+    </line>
+    <line lang1="しょうゆ、はし、皿*を*持って*行きましょう。" someNumber="None" image="058_017.jpg" lang2="Возьмем соевый соус, палочки для еды, тарелки и пойдём.">
+      <audioTime in="52091" out="57694" />
+    </line>
+    <line lang1="じゃ、いただきましょう。" someNumber="128" image="058_017.jpg" lang2="Ну вот, поедим.">
+      <audioTime in="57694" out="59667" />
+    </line>
+    <line lang1="めし*あがって*ください。" someNumber="109" image="058_019.jpg" lang2="Угощайтесь, пожалуйста.">
+      <audioTime in="59667" out="62074" />
+    </line>
+    <line lang1="ー食べ方*を*教えて*下さいません*か。" someNumber="163" image="058_019.jpg" lang2="- (Вы) не научите (меня), как надо есть?">
+      <audioTime in="62074" out="65527" />
+    </line>
+    <line lang1="ー私*の*まね*を*して*下さい。" someNumber="None" image="058_021.jpg" lang2="- Следуйте моему примеру.">
+      <audioTime in="65527" out="69342" />
+    </line>
+  </lines>
+</lesson>

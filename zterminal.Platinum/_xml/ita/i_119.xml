@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="i_119.wav" dic="p119" dlgName="Правдивая история." dlgFile="exr\ig119.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Vi piacciono i racconti?" someNumber="None" image="dg\119_001.gif" lang2="- Любите ли Вы истории?">
+      <audioTime in="81" out="2032" />
+    </line>
+    <line lang1="Vi voglio raccontare una storia vera." someNumber="None" image="dg\119_001.gif" lang2="Я хочу рассказать Вам правдивую историю.">
+      <audioTime in="2113" out="5121" />
+    </line>
+    <line lang1="- È successo a un mio amico un anno fa." someNumber="None" image="dg\119_001.gif" lang2="- Она приключилась с одним моим другом год тому назад.">
+      <audioTime in="5203" out="7722" />
+    </line>
+    <line lang1="- Mentre il mio amico Giorgio stava a letto a leggere," someNumber="None" image="dg\119_002.gif" lang2="- Пока мой друг Джорджио читал, лежа в постели,">
+      <audioTime in="7722" out="11136" />
+    </line>
+    <line lang1="due ladri si sono intrufolati nella sua cucina." someNumber="None" image="dg\119_002.gif" lang2="два вора влезли к нему на кухню.">
+      <audioTime in="11136" out="14388" />
+    </line>
+    <line lang1="- Dopo essere entrati in casa, sono andati in salotto." someNumber="None" image="dg\119_002.gif" lang2="- После того как они вошли в дом, они пошли в столовую.">
+      <audioTime in="14470" out="18416" />
+    </line>
+    <line lang1="- Era assai buio e hanno acceso una lampada." someNumber="None" image="dg\119_003.gif" lang2="- Было очень темно, и они зажгли фонарик.">
+      <audioTime in="18453" out="21623" />
+    </line>
+    <line lang1="- Improvvisamente si è sentita una voce dietro di loro." someNumber="None" image="dg\119_003.gif" lang2="- Вдруг раздался голос позади них.">
+      <audioTime in="21623" out="25118" />
+    </line>
+    <line lang1="- &quot;Che succede qui?" someNumber="None" image="dg\119_003.gif" lang2="- &quot;В чем дело?">
+      <audioTime in="25118" out="26654" />
+    </line>
+    <line lang1="Che succede qui?&quot; ha detto qualcuno." someNumber="None" image="dg\119_003.gif" lang2="В чем дело?&quot; - сказал кто-то.">
+      <audioTime in="26654" out="28957" />
+    </line>
+    <line lang1="- I ladri hanno lasciato cadere la lampada e sono scappati giù a gambe levate." someNumber="None" image="dg\119_004.gif" lang2="- Воры уронили фонарик и пустились бежать со всех ног.">
+      <audioTime in="28940" out="33654" />
+    </line>
+    <line lang1="- Quando Giorgio ha sentito il rumore è sceso subito dalla scala." someNumber="None" image="dg\119_005.gif" lang2="- Как только Джорджио услышал шум, быстро спустился вниз.">
+      <audioTime in="33691" out="37963" />
+    </line>
+    <line lang1="- Ha acceso la luce, ma non c'era più nessuno." someNumber="None" image="dg\119_006.gif" lang2="- Он включил свет, но никого не увидел.">
+      <audioTime in="38077" out="40981" />
+    </line>
+    <line lang1="- I ladri erano già scappati." someNumber="None" image="dg\119_006.gif" lang2="- Воры уже ушли.">
+      <audioTime in="40981" out="43058" />
+    </line>
+    <line lang1="- Ma il suo pappagallo Coco, era ancora lì." someNumber="None" image="dg\119_007.gif" lang2="- Но его попугай Коко был всё ещё там.">
+      <audioTime in="43094" out="45998" />
+    </line>
+    <line lang1="- &quot;Giorgio che succede?&quot; ha chiesto." someNumber="None" image="dg\119_007.gif" lang2="- &quot;В чем дело, Джорджио?&quot; - спросил он.">
+      <audioTime in="46131" out="48726" />
+    </line>
+    <line lang1="- &quot;Tutto a posto Coco&quot;, ha detto Giorgio e ha sorriso." someNumber="None" image="dg\119_007.gif" lang2="- &quot;Все в порядке, Коко&quot;, - сказал Джорджио и улыбнулся.">
+      <audioTime in="48771" out="52468" />
+    </line>
+    <line lang1="- &quot;Ritorna a dormire&quot;." someNumber="None" image="dg\119_007.gif" lang2="- &quot;Спи дальше&quot;.">
+      <audioTime in="52511" out="54052" />
+    </line>
+  </lines>
+</lesson>

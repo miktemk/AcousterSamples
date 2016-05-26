@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_068.wav" dic="p068" dlgName="Когда Вы были в?.." dlgFile="exr\dg067.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wann #waren Sie in der Kirche?" someNumber="570" image="dg\068_001.gif" lang2="- Когда были Вы в церкви?">
+      <audioTime in="0" out="2410" />
+    </line>
+    <line lang1="- Ich #war am Sonntag in der Kirche." someNumber="770" image="dg\068_001.gif" lang2="- Я была в церкви в воскресенье.">
+      <audioTime in="2332" out="4510" />
+    </line>
+    <line lang1="- Wann #war Martin im Friseursalon?" someNumber="None" image="dg\068_002.gif" lang2="- Когда был Мартин в парикмахерской?">
+      <audioTime in="4510" out="6999" />
+    </line>
+    <line lang1="- Er #war am Donnerstag im Friseursalon." someNumber="None" image="dg\068_002.gif" lang2="- Он был в парикмахерской в четверг.">
+      <audioTime in="7076" out="9506" />
+    </line>
+    <line lang1="- Wann #war Frau Richter beim Fleischer im Lebensmittelgeschäft?" someNumber="790" image="dg\068_003.gif" lang2="- Когда была госпожа Рихтер у мясника в гастрономе?">
+      <audioTime in="10031" out="15008" />
+    </line>
+    <line lang1="- Sie #war am Mittwoch beim Fleischer." someNumber="None" image="dg\068_003.gif" lang2="- Она была у мясника в среду.">
+      <audioTime in="15708" out="18274" />
+    </line>
+    <line lang1="- Wann #waren Sie zu Hause?" someNumber="None" image="dg\068_004.gif" lang2="- Когда были Вы дома?">
+      <audioTime in="18274" out="20218" />
+    </line>
+    <line lang1="- Ich #war am Sonntag zu Hause." someNumber="None" image="dg\068_004.gif" lang2="- Я был дома в воскресенье.">
+      <audioTime in="20296" out="22318" />
+    </line>
+    <line lang1="- Wann #war Fräulein Alice im Büro?" someNumber="None" image="dg\068_005.gif" lang2="- Когда была фрейлейн Алис в офисе?">
+      <audioTime in="22628" out="24728" />
+    </line>
+    <line lang1="- Sie #war am Dienstag im Büro." someNumber="None" image="dg\068_005.gif" lang2="- Она была в офисе во вторник.">
+      <audioTime in="24884" out="26672" />
+    </line>
+    <line lang1="- Wann #war Inge beim Bäcker?" someNumber="None" image="dg\068_006.gif" lang2="- Когда была Инга у пекаря?">
+      <audioTime in="26906" out="28928" />
+    </line>
+    <line lang1="- Sie #war am Sonntag beim Bäcker." someNumber="None" image="dg\068_006.gif" lang2="- Она была у пекаря в воскресенье.">
+      <audioTime in="28928" out="30960" />
+    </line>
+    <line lang1="- Wann #waren Sie in der Molkerei?" someNumber="810" image="dg\068_007.gif" lang2="- Когда были Вы в молочном магазине?">
+      <audioTime in="31183" out="33826" />
+    </line>
+    <line lang1="- Ich #war am Sonnabend in der Molkerei." someNumber="None" image="dg\068_007.gif" lang2="- Я была в молочном магазине в субботу.">
+      <audioTime in="33826" out="36355" />
+    </line>
+    <line lang1="- Wann #war Martin beim Tabakhändler?" someNumber="790" image="dg\068_008.gif" lang2="- Когда был Мартин у табачника?">
+      <audioTime in="36470" out="38881" />
+    </line>
+    <line lang1="- Er #war am Mittwoch beim Tabakhändler." someNumber="None" image="dg\068_008.gif" lang2="- Он был у табачника в среду.">
+      <audioTime in="38881" out="41093" />
+    </line>
+    <line lang1="- Wann #war Frau Klein im Lebensmittelgeschäft?" someNumber="None" image="dg\068_009.gif" lang2="- Когда была госпожа Кляйн в продовольственном магазине?">
+      <audioTime in="41291" out="44325" />
+    </line>
+    <line lang1="- Sie #war am Montag im Lebensmittelgeschäft." someNumber="None" image="dg\068_009.gif" lang2="- Она была в продовольственном магазине в понедельник.">
+      <audioTime in="44558" out="46968" />
+    </line>
+    <line lang1="- Wann #waren Sie in der Schule?" someNumber="150" image="dg\068_010.gif" lang2="- Когда были Вы в школе?">
+      <audioTime in="47513" out="49457" />
+    </line>
+    <line lang1="- Ich #war am Montag in der Schule." someNumber="570" image="dg\068_010.gif" lang2="- Я была в школе в понедельник.">
+      <audioTime in="49457" out="51624" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="d_081.wav" dic="p081" dlgName="Визит друга." dlgFile="exr\dg081.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Hallo, Petra!" someNumber="460" image="dg\081_001.gif" lang2="- Привет, Петра!">
+      <audioTime in="620" out="2204" />
+    </line>
+    <line lang1="Wo #ist Ralf?" someNumber="460" image="dg\081_001.gif" lang2="Где Ральф?">
+      <audioTime in="2341" out="3719" />
+    </line>
+    <line lang1="- Er #ist oben." someNumber="610" image="dg\081_002.gif" lang2="- Он наверху.">
+      <audioTime in="3856" out="5096" />
+    </line>
+    <line lang1="Er #nimmt ein Bad. .. Ralf!" someNumber="610" image="dg\081_002.gif" lang2="Он принимает ванну.  .. Ральф!">
+      <audioTime in="5096" out="6225" />
+    </line>
+    <line lang1="- Ja?" someNumber="None" image="dg\081_002.gif" lang2="Да?">
+      <audioTime in="6335" out="8127" />
+    </line>
+    <line lang1="- Martin #ist hier." someNumber="720" image="dg\081_002.gif" lang2="- Мартин здесь.">
+      <audioTime in="8127" out="9481" />
+    </line>
+    <line lang1="- Ich #bin fast fertig." someNumber="720" image="dg\081_002.gif" lang2="- Я почти готов.">
+      <audioTime in="9779" out="11295" />
+    </line>
+    <line lang1="- Hallo, Martin!" someNumber="630" image="dg\081_003.gif" lang2="- Привет Мартин.">
+      <audioTime in="11569" out="12671" />
+    </line>
+    <line lang1="#Nimm eine Zigarette!" someNumber="630" image="dg\081_003.gif" lang2="Возьми сигарету.">
+      <audioTime in="12740" out="14118" />
+    </line>
+    <line lang1="- Ich #will nicht, danke, Ralf." someNumber="630" image="dg\081_003.gif" lang2="- Не хочу, спасибо, Ральф.">
+      <audioTime in="14118" out="16047" />
+    </line>
+    <line lang1="- Dann #1schenke dir ein Glas Whisky #2ein." someNumber="490" image="dg\081_003.gif" lang2="- Налей тогда себе стакан виски.">
+      <audioTime in="16391" out="19215" />
+    </line>
+    <line lang1="- Gut, danke." someNumber="490" image="dg\081_003.gif" lang2="- Хорошо, спасибо.">
+      <audioTime in="19283" out="21143" />
+    </line>
+    <line lang1="- #Ist das Abendessen fertig, Petra?" someNumber="180" image="dg\081_004.gif" lang2="- Обед готов, Петра?">
+      <audioTime in="21694" out="24104" />
+    </line>
+    <line lang1="- Es #ist fast fertig." someNumber="410" image="dg\081_004.gif" lang2="- Он почти готов.">
+      <audioTime in="24104" out="26032" />
+    </line>
+    <line lang1="Wir #essen um sieben Uhr zu Abend." someNumber="410" image="dg\081_004.gif" lang2="Мы ужинаем в семь часов.">
+      <audioTime in="26377" out="28581" />
+    </line>
+    <line lang1="- Martin und ich #gingen heute zu Mittag #essen." someNumber="570" image="dg\081_005.gif" lang2="- Мартин и я ходили сегодня вместе обедать.">
+      <audioTime in="28787" out="31542" />
+    </line>
+    <line lang1="Wir #waren im Restaurant." someNumber="570" image="dg\081_005.gif" lang2="Мы были в ресторане.">
+      <audioTime in="31679" out="33539" />
+    </line>
+    <line lang1="- Was #habt ihr #gegessen?" someNumber="580" image="dg\081_005.gif" lang2="- Что вы ели?">
+      <audioTime in="33539" out="35055" />
+    </line>
+    <line lang1="- Wir #haben Roastbeef mit Kartoffeln #gegessen." someNumber="580" image="dg\081_005.gif" lang2="- Мы ели ростбиф с картофелем.">
+      <audioTime in="35330" out="38430" />
+    </line>
+    <line lang1="- O jeh!" someNumber="870" image="dg\081_006.gif" lang2="- О!">
+      <audioTime in="38704" out="41598" />
+    </line>
+    <line lang1="- Was #ist los, Petra?" someNumber="870" image="dg\081_006.gif" lang2="-  В чем дело, Петра?">
+      <audioTime in="38704" out="41598" />
+    </line>
+    <line lang1="- Es #gibt heute Abend noch mal Roastbeef mit Kartoffeln!" someNumber="360" image="dg\081_006.gif" lang2="- Сегодня вечером снова будет ростбиф с картофелем!">
+      <audioTime in="41735" out="45385" />
+    </line>
+  </lines>
+</lesson>

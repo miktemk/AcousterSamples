@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="f_069.wav" dic="p069" dlgName="Кольцевые гонки." dlgFile="exr\fg069.txt" author="Alexander" />
+  <lines>
+    <line lang1="Près de notre ville on organise chaque année des courses circulaires." someNumber="None" image="dg\069_001.gif" lang2="Рядом с нашим городом организуют каждый год кольцевые гонки.">
+      <audioTime in="0" out="3332" />
+    </line>
+    <line lang1="En 1968 on a organisé une grande course." someNumber="410" image="dg\069_001.gif" lang2="В 1968 году организовали большую гонку.">
+      <audioTime in="3332" out="6506" />
+    </line>
+    <line lang1="Des centaines de personnes y assistaient. Ma femme et moi, nous étions aux courses." someNumber="None" image="dg\069_002.gif" lang2="Сотни людей там присутствовали. Моя жена и я были на гонках.">
+      <audioTime in="6506" out="10844" />
+    </line>
+    <line lang1="Nos amis, Catherine et François y étaient aussi." someNumber="780" image="dg\069_002.gif" lang2="Наши друзья Катрин и Франсуа тоже там были.">
+      <audioTime in="10844" out="13277" />
+    </line>
+    <line lang1="Vous pouvez nous voir dans la foule. Nous sommes à gauche." someNumber="None" image="dg\069_002.gif" lang2="Вы можете нас увидеть в толпе. Мы стоим слева.">
+      <audioTime in="13277" out="15816" />
+    </line>
+    <line lang1="Vingt automobiles participaient à cette course." someNumber="None" image="dg\069_003.gif" lang2="Двадцать автомобилей участвовало в гонке.">
+      <audioTime in="15816" out="17878" />
+    </line>
+    <line lang1="Il y avait là des voitures anglaises, françaises, allemandes, italiennes," someNumber="200" image="dg\069_003.gif" lang2="Там были английские, французские, немецкие, итальянские,">
+      <audioTime in="17878" out="21844" />
+    </line>
+    <line lang1="américaines et japonaises." someNumber="None" image="dg\069_003.gif" lang2="американские и японские машины.">
+      <audioTime in="21844" out="23402" />
+    </line>
+    <line lang1="La fin était passionnante. Le vainqueur était Georges Grandet," someNumber="640" image="dg\069_004.gif" lang2="Был захватывающий финиш. Победителем был Жорж Гранде,">
+      <audioTime in="23402" out="27370" />
+    </line>
+    <line lang1="l'auto numéro 15. Les cinq autres étaient toutes loin derrière." someNumber="None" image="dg\069_004.gif" lang2="в машине номер 15. Пять других (машин) были все далеко позади.">
+      <audioTime in="27370" out="31152" />
+    </line>
+    <line lang1="En rentrant à la maison ma femme m'a dit:" someNumber="None" image="dg\069_005.gif" lang2="По дороге домой моя жена сказала мне:">
+      <audioTime in="31152" out="32950" />
+    </line>
+    <line lang1="&quot;Ne roule pas si vite! Tu n'es pas Georges Grandet!&quot;" someNumber="None" image="dg\069_005.gif" lang2="&quot;Не гони так быстро! Ты не Жорж Гранде!&quot;">
+      <audioTime in="32950" out="35753" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,113 @@
+<lesson>
+  <header wav="FR_025.wav" dlgName="На вершине Эйфелевой башни" dlgFile="exr\frg025.txt" />
+  <lines>
+    <line lang1="- Nous voici au pied de la tour Eiffel." someNumber="None" image="f.jpg" lang2="- Вот мы у подножья Эйфелевой башни.">
+      <audioTime in="0" out="3070" />
+    </line>
+    <line lang1="Sophie, regarde bien ce monument." someNumber="None" image="f.jpg" lang2="Софи, посмотри внимательно на этот памятник.">
+      <audioTime in="3070" out="6244" />
+    </line>
+    <line lang1="Il a la forme d'un A majuscule, la première lettre du mot..." someNumber="None" image="f.jpg" lang2="Он похож на прописную букву А, первую букву слова...">
+      <audioTime in="6244" out="11312" />
+    </line>
+    <line lang1="- Amour!" someNumber="None" image="f.jpg" lang2="- Амур!">
+      <audioTime in="11312" out="12691" />
+    </line>
+    <line lang1="- Oui, c'est ça." someNumber="None" image="f.jpg" lang2="- Да, верно.">
+      <audioTime in="12691" out="14602" />
+    </line>
+    <line lang1="Et maintenant montons au sommet." someNumber="None" image="f.jpg" lang2="А теперь поднимемся на вершину.">
+      <audioTime in="14602" out="17303" />
+    </line>
+    <line lang1="De là-haut, nous verrons tout Paris." someNumber="None" image="f.jpg" lang2="Сверху увидим весь Париж.">
+      <audioTime in="17303" out="20115" />
+    </line>
+    <line lang1="- Permets-moi de regarder encore un peu ce magnifique monument." someNumber="None" image="f.jpg" lang2="- Позволь мне посмотреть ещё немного на этот замечательный памятник.">
+      <audioTime in="20115" out="25384" />
+    </line>
+    <line lang1="En quelle année a-t-il été construit?" someNumber="None" image="f.jpg" lang2="В каком году он был построен?">
+      <audioTime in="25384" out="28263" />
+    </line>
+    <line lang1="- En 1889. Mais sa construction a duré deux ans," someNumber="None" image="f.jpg" lang2="- В 1889. Но её строительство длилось два года,">
+      <audioTime in="28263" out="34296" />
+    </line>
+    <line lang1="elle a été commencée en 1887." someNumber="None" image="f.jpg" lang2="её начали строить в 1887 году.">
+      <audioTime in="34296" out="38459" />
+    </line>
+    <line lang1="- Quelle est sa hauteur?" someNumber="None" image="f.jpg" lang2="- Какова её высота?">
+      <audioTime in="38459" out="40643" />
+    </line>
+    <line lang1="- 306 mètres. C'est le plus haut monument du monde" someNumber="None" image="f.jpg" lang2="- 306 метров. Это самый высокий памятник в мире">
+      <audioTime in="40643" out="45596" />
+    </line>
+    <line lang1="après un gratte-ciel de New York, qui a 403 mètres, avec 102 étages." someNumber="None" image="f.jpg" lang2="после небоскреба в Нью-Йорке высотой в 403 метра и со 102 этажами.">
+      <audioTime in="45596" out="51553" />
+    </line>
+    <line lang1="Mais ne nous attardons pas plus longtemps ici et montons au sommet." someNumber="None" image="f.jpg" lang2="Но давай не задерживаться здесь больше и поднимемся на вершину.">
+      <audioTime in="51553" out="57090" />
+    </line>
+    <line lang1="Un beau panorama nous attend là-haut." someNumber="None" image="f.jpg" lang2="Наверху нас ждёт красивый вид.">
+      <audioTime in="57090" out="60633" />
+    </line>
+    <line lang1="- Enfin, nous voici au sommet." someNumber="None" image="f.jpg" lang2="- Наконец мы на самом верху.">
+      <audioTime in="60633" out="63872" />
+    </line>
+    <line lang1="- Ah! Que Paris est beau." someNumber="None" image="f.jpg" lang2="- Ах! Как Париж прекрасен!">
+      <audioTime in="63872" out="66175" />
+    </line>
+    <line lang1="Et que les gens paraissent petits." someNumber="None" image="f.jpg" lang2="И какими маленькими кажутся люди!">
+      <audioTime in="66175" out="68352" />
+    </line>
+    <line lang1="On dirait des mouches." someNumber="None" image="f.jpg" lang2="Можно сказать, что они выглядят, как мухи.">
+      <audioTime in="68352" out="69975" />
+    </line>
+    <line lang1="- Et les autos ressemblent à des jouets." someNumber="None" image="f.jpg" lang2="- А машины похожи на игрушки.">
+      <audioTime in="69975" out="72996" />
+    </line>
+    <line lang1="Jacques, quels sont ces jardins au pied de la Tour?" someNumber="None" image="f.jpg" lang2="Жак, а что это за сады у подножья башни?">
+      <audioTime in="72996" out="77107" />
+    </line>
+    <line lang1="- Ce sont les jardins du Champ de Mars." someNumber="None" image="f.jpg" lang2="- Это сады Марсова поля.">
+      <audioTime in="77107" out="79497" />
+    </line>
+    <line lang1="De l'autre côté coule la Seine." someNumber="None" image="f.jpg" lang2="С другой стороны - Сена.">
+      <audioTime in="79497" out="82596" />
+    </line>
+    <line lang1="Au milieu de la Seine nous voyons les tours carrées de Notre Dame." someNumber="None" image="f.jpg" lang2="По середине Сены вы видите квадратные башни Нотр-Дам.">
+      <audioTime in="82596" out="86893" />
+    </line>
+    <line lang1="Et là-bas, très loin, le dôme des Invalides tout couvert d'or." someNumber="None" image="f.jpg" lang2="А там, совсем далеко, купол Инвалидов, покрытый золотом.">
+      <audioTime in="86893" out="92059" />
+    </line>
+    <line lang1="- Regarde, Jacques, ce grand jardin, là-bas, derrière cette église." someNumber="None" image="f.jpg" lang2="- Посмотри, Жак, на тот большой сад, там за церковью.">
+      <audioTime in="92059" out="96937" />
+    </line>
+    <line lang1="- Ce n'est pas un jardin, c'est un cimetière." someNumber="None" image="f.jpg" lang2="- Это не сад, это кладбище.">
+      <audioTime in="96937" out="100289" />
+    </line>
+    <line lang1="- Mais, là, un peu plus près, c'est bien un hôpital." someNumber="None" image="f.jpg" lang2="- Но там, чуть ближе, это наверное больница.">
+      <audioTime in="100289" out="104660" />
+    </line>
+    <line lang1="Dans la cour on voit des infirmiers et des infirmières en tabliers blancs." someNumber="None" image="f.jpg" lang2="Во дворе видны санитары и медсёстры в белых халатах.">
+      <audioTime in="104660" out="109637" />
+    </line>
+    <line lang1="- Oui, c'est bien ça, c'est un hôpital." someNumber="None" image="f.jpg" lang2="- Да, это больница.">
+      <audioTime in="109637" out="112338" />
+    </line>
+    <line lang1="Mais il fait froid ici, couvre tes épaules." someNumber="None" image="f.jpg" lang2="Но здесь холодно, накинь что-нибудь на плечи.">
+      <audioTime in="112338" out="116423" />
+    </line>
+    <line lang1="- Ah! quels beaux dessins je pourrais faire d'ici si j'avais mon crayon." someNumber="None" image="f.jpg" lang2="- Ах, какие красивые рисунки я бы смогла сделать здесь, если бы у меня был карандаш.">
+      <audioTime in="116423" out="121236" />
+    </line>
+    <line lang1="- Oui, en effet, la vue est si nette aujourd'hui" someNumber="None" image="f.jpg" lang2="- Да, действительно, видимость сегодня такая хорошая,">
+      <audioTime in="121236" out="125126" />
+    </line>
+    <line lang1="et du sommet de la Tour Eiffel on a une si belle image de Paris." someNumber="None" image="f.jpg" lang2="с вершины Эйфелевой башни открывается прекрасный вид Парижа.">
+      <audioTime in="125126" out="129244" />
+    </line>
+    <line lang1="Mais il faut déjà descendre si nous ne voulons pas être en retard pour le dîner." someNumber="None" image="f.jpg" lang2="Но надо уже спуститься, если мы не хотим опоздать к обеду.">
+      <audioTime in="129244" out="134248" />
+    </line>
+  </lines>
+</lesson>

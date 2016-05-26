@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_024.wav" dic="p024" dlgName="Дайте мне... Те, которые.." dlgFile="exr\dg023.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Geben Sie mir, bitte, die Kugelschreiber!" someNumber="610" image="dg\024_001.gif" lang2="- Дайте мне ручки, пожалуйста.">
+      <audioTime in="360" out="3419" />
+    </line>
+    <line lang1="- Welche?" someNumber="610" image="dg\024_001.gif" lang2="- Которые?">
+      <audioTime in="3419" out="4547" />
+    </line>
+    <line lang1="- Jene, die auf dem Schreibtisch #sind." someNumber="390" image="dg\024_001.gif" lang2="- Те, которые на письменном столе.">
+      <audioTime in="4548" out="6490" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, die Krawatten!" someNumber="630" image="dg\024_002.gif" lang2="- Дайте мне галстуки, пожалуйста.">
+      <audioTime in="6658" out="8728" />
+    </line>
+    <line lang1="- Welche?" someNumber="630" image="dg\024_002.gif" lang2="- Которые?">
+      <audioTime in="8728" out="9766" />
+    </line>
+    <line lang1="- Jene, die auf dem Stuhl #sind." someNumber="810" image="dg\024_002.gif" lang2="- Те, которые на стуле.">
+      <audioTime in="9718" out="11787" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, die Löffel!" someNumber="350" image="dg\024_003.gif" lang2="- Дайте мне ложки, пожалуйста.">
+      <audioTime in="12148" out="14127" />
+    </line>
+    <line lang1="- Welche?" someNumber="350" image="dg\024_003.gif" lang2="- Которые?">
+      <audioTime in="14127" out="15256" />
+    </line>
+    <line lang1="- Jene, die auf dem Tisch #sind." someNumber="370" image="dg\024_003.gif" lang2="- Те, которые на столе.">
+      <audioTime in="15297" out="17187" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, die Teller!" someNumber="190" image="dg\024_004.gif" lang2="- Дайте мне тарелки, пожалуйста.">
+      <audioTime in="17637" out="19526" />
+    </line>
+    <line lang1="- Welche?" someNumber="190" image="dg\024_004.gif" lang2="- Которые?">
+      <audioTime in="19526" out="20655" />
+    </line>
+    <line lang1="- Jene, die auf der Anrichte #sind." someNumber="None" image="dg\024_004.gif" lang2="- Те, которые на серванте.">
+      <audioTime in="20966" out="23575" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, die Zigaretten!" someNumber="400" image="dg\024_005.gif" lang2="- Дайте мне сигареты, пожалуйста.">
+      <audioTime in="23756" out="26005" />
+    </line>
+    <line lang1="- Welche?" someNumber="400" image="dg\024_005.gif" lang2="- Которые?">
+      <audioTime in="26005" out="27134" />
+    </line>
+    <line lang1="- Jene, die auf dem Fernseher #sind." someNumber="None" image="dg\024_005.gif" lang2="- Те, которые на телевизоре.">
+      <audioTime in="27174" out="29155" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, die Schachteln!" someNumber="190" image="dg\024_006.gif" lang2="- Дайте мне коробки, пожалуйста.">
+      <audioTime in="29514" out="31584" />
+    </line>
+    <line lang1="- Welche?" someNumber="190" image="dg\024_006.gif" lang2="- Которые?">
+      <audioTime in="31584" out="32713" />
+    </line>
+    <line lang1="- Jene, die auf dem Fußboden #sind." someNumber="980" image="dg\024_006.gif" lang2="- Те, которые на полу.">
+      <audioTime in="32934" out="35093" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, die Fläschchen!" someNumber="None" image="dg\024_007.gif" lang2="- Дайте мне бутылки, пожалуйста.">
+      <audioTime in="35274" out="37433" />
+    </line>
+    <line lang1="- Welche?" someNumber="None" image="dg\024_007.gif" lang2="- Которые?">
+      <audioTime in="37433" out="38562" />
+    </line>
+    <line lang1="- Jene, die auf dem Toilettentisch #sind." someNumber="760" image="dg\024_007.gif" lang2="- Те, которые на туалетном столике.">
+      <audioTime in="38692" out="41122" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, die Bücher!" someNumber="None" image="dg\024_008.gif" lang2="- Дайте мне книги, пожалуйста.">
+      <audioTime in="41212" out="43372" />
+    </line>
+    <line lang1="- Welche?" someNumber="None" image="dg\024_008.gif" lang2="- Которые?">
+      <audioTime in="43372" out="44501" />
+    </line>
+    <line lang1="- Jene, die auf dem Regal #sind." someNumber="810" image="dg\024_008.gif" lang2="- Те, которые на полке.">
+      <audioTime in="44811" out="47061" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, die Zeitschriften!" someNumber="None" image="dg\024_009.gif" lang2="- Дайте мне журналы, пожалуйста.">
+      <audioTime in="47061" out="50120" />
+    </line>
+    <line lang1="- Welche?" someNumber="None" image="dg\024_009.gif" lang2="- Которые?">
+      <audioTime in="50840" out="52190" />
+    </line>
+    <line lang1="- Jene, die auf dem Bett #sind." someNumber="390" image="dg\024_009.gif" lang2="- Те, которые на постели.">
+      <audioTime in="52190" out="54222" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, die Zeitungen!" someNumber="None" image="dg\024_010.gif" lang2="- Дайте мне газеты, пожалуйста.">
+      <audioTime in="54079" out="56330" />
+    </line>
+    <line lang1="- Welche?" someNumber="None" image="dg\024_010.gif" lang2="- Которые?">
+      <audioTime in="56330" out="57459" />
+    </line>
+    <line lang1="- Jene, die auf dem Radio #sind." someNumber="370" image="dg\024_010.gif" lang2="- Те, которые на радио.">
+      <audioTime in="57459" out="59580" />
+    </line>
+  </lines>
+</lesson>

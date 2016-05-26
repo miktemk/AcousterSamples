@@ -1,0 +1,2 @@
+SRC_ROOT = C:\WS\_archeologicals\ita\dg
+DEST_ROOT = ../../zterminal.Platinum.ita/assets/xml

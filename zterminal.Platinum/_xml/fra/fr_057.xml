@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="FR_057.wav" dlgName="В Шато-Тери" dlgFile="exr\frg057.txt" />
+  <lines>
+    <line lang1="- Nous voici à Château-Thierry." someNumber="None" image="f.jpg" lang2="- Вот мы в Шато-Тери.">
+      <audioTime in="0" out="2871" />
+    </line>
+    <line lang1="Comme tu vois, c'est un petit endroit très tranquille, non loin de Paris." someNumber="None" image="f.jpg" lang2="Как видишь, это местечко очень спокойное, недалеко от Парижа.">
+      <audioTime in="2871" out="8454" />
+    </line>
+    <line lang1="- A combien de kilomètres de Reims sommes-nous?" someNumber="None" image="f.jpg" lang2="- В скольких километрах мы находимся от Ремс?">
+      <audioTime in="8454" out="11747" />
+    </line>
+    <line lang1="- Je ne sais pas, mais je vais le voir sur ma carte." someNumber="None" image="f.jpg" lang2="- Я не знаю, но я посмотрю по своей карте.">
+      <audioTime in="11747" out="15321" />
+    </line>
+    <line lang1="C'est une carte de la région." someNumber="None" image="f.jpg" lang2="У меня есть карта этой области.">
+      <audioTime in="15321" out="18067" />
+    </line>
+    <line lang1="Voici Reims. Cherchons maintenant Château-Thierry, qui se trouve au sud-ouest de Reims." someNumber="None" image="f.jpg" lang2="Вот Ремс. Ищем теперь Шато-Тери, который находится на юго-западе от Ремс.">
+      <audioTime in="18067" out="25900" />
+    </line>
+    <line lang1="Ça y est. J'ai trouvé: nous sommes à peu près à soixante-dix kilomètres de Reims." someNumber="None" image="f.jpg" lang2="Вот. Я нашёл: мы находимся около семидесяти километров от Ремс.">
+      <audioTime in="25900" out="32452" />
+    </line>
+    <line lang1="- Y a-t-il quelque chose d'intéressant à voir à Château-Thierry?" someNumber="None" image="f.jpg" lang2="- Есть что-нибудь интересное в Шато-Тери, чтобы осмотреть?">
+      <audioTime in="32452" out="36515" />
+    </line>
+    <line lang1="- La maison où est né La Fontaine." someNumber="None" image="f.jpg" lang2="- Дом, где родился Ла-Фонтен.">
+      <audioTime in="36515" out="39239" />
+    </line>
+    <line lang1="Voyons, toi, qui aimes tant la poésie, tu devrais le savoir." someNumber="None" image="f.jpg" lang2="Ведь ты, как любительница поэзии, ты должна знать об этом.">
+      <audioTime in="39239" out="44348" />
+    </line>
+    <line lang1="- Si nous allions la voir?" someNumber="None" image="f.jpg" lang2="- А что, если бы мы пошли его посмотреть?">
+      <audioTime in="44348" out="46345" />
+    </line>
+    <line lang1="Qu'en penses-tu?" someNumber="None" image="f.jpg" lang2="Что ты думаешь об этом?">
+      <audioTime in="46345" out="47484" />
+    </line>
+    <line lang1="- Nous n'avons pas le temps." someNumber="None" image="f.jpg" lang2="- У нас нет времени.">
+      <audioTime in="47484" out="49059" />
+    </line>
+    <line lang1="Remarque que nous repartons dans deux minutes." someNumber="None" image="f.jpg" lang2="Заметь, что мы отъезжаем через две минуты.">
+      <audioTime in="49059" out="52384" />
+    </line>
+    <line lang1="Il est même temps de remonter dans l'autocar." someNumber="None" image="f.jpg" lang2="Уже надо занять места в экскурсионном автобусе.">
+      <audioTime in="52384" out="55782" />
+    </line>
+    <line lang1="- Mais si nous continuons ainsi, nous ne verrons pas même le tiers," someNumber="None" image="f.jpg" lang2="- Но если мы будем продолжать так ехать, мы даже не увидим третьей части,">
+      <audioTime in="55782" out="60703" />
+    </line>
+    <line lang1="que dis-je, le quart de ce que nous nous sommes promis de voir." someNumber="None" image="f.jpg" lang2="что я говорю, четверти того, что мы наметили увидеть.">
+      <audioTime in="60703" out="64816" />
+    </line>
+    <line lang1="- Que faire? Le temps presse." someNumber="None" image="f.jpg" lang2="- Что делать? Время торопит.">
+      <audioTime in="64816" out="67468" />
+    </line>
+    <line lang1="Il faut monter. Voilà qui est fait." someNumber="None" image="f.jpg" lang2="Надо садиться. Готово.">
+      <audioTime in="67468" out="71231" />
+    </line>
+    <line lang1="Et maintenant remets ton appareil photographique dans le filet." someNumber="None" image="f.jpg" lang2="А теперь положи обратно на багажную сетку твой фотоаппарат.">
+      <audioTime in="71231" out="75379" />
+    </line>
+    <line lang1="Tiens! C'est curieux." someNumber="None" image="f.jpg" lang2="Смотри! Вот как забавно!">
+      <audioTime in="75379" out="77429" />
+    </line>
+    <line lang1="Je ne retrouve plus mon journal." someNumber="None" image="f.jpg" lang2="Я не могу найти своей газеты.">
+      <audioTime in="77429" out="79553" />
+    </line>
+    <line lang1="- Tu le tiens à la main." someNumber="None" image="f.jpg" lang2="- Ты её держишь в руке.">
+      <audioTime in="79553" out="81000" />
+    </line>
+    <line lang1="- En effet. Je suis toujours dans la lune." someNumber="None" image="f.jpg" lang2="- Действительно. Я всегда витаю в облаках.">
+      <audioTime in="81000" out="84074" />
+    </line>
+  </lines>
+</lesson>

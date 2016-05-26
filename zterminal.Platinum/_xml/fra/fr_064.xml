@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="FR_064.wav" dlgName="Радио" dlgFile="exr\frg064.txt" />
+  <lines>
+    <line lang1="- Qu'est-ce qu'on nous offre aujourd'hui à la radio?" someNumber="None" image="f.jpg" lang2="- Какая сегодня программа радио?">
+      <audioTime in="0" out="3082" />
+    </line>
+    <line lang1="- Je vais te le dire tout de suite." someNumber="None" image="f.jpg" lang2="- Сейчас тебе скажу.">
+      <audioTime in="3082" out="5328" />
+    </line>
+    <line lang1="Mais où est le programme?" someNumber="None" image="f.jpg" lang2="Но где программа?">
+      <audioTime in="5328" out="7351" />
+    </line>
+    <line lang1="Ah, le voici. Voyons..." someNumber="None" image="f.jpg" lang2="Ах, вот она. Посмотрим...">
+      <audioTime in="7351" out="10385" />
+    </line>
+    <line lang1="à 15h. 18, concert de disques," someNumber="None" image="f.jpg" lang2="В 15 часов 18 минут концерт грамзаписей,">
+      <audioTime in="10385" out="14786" />
+    </line>
+    <line lang1="à 18h. 20, émission théâtrale," someNumber="None" image="f.jpg" lang2="в 18 часов 20 минут радиопередача из театра,">
+      <audioTime in="14786" out="19148" />
+    </line>
+    <line lang1="à 19h. 48, orchestre national." someNumber="None" image="f.jpg" lang2="в 19часов 48 минут народный оркестр.">
+      <audioTime in="19148" out="23776" />
+    </line>
+    <line lang1="- Quelle chance! J'aime beaucoup les concerts de disques" someNumber="None" image="f.jpg" lang2="- Как хорошо! Я очень люблю концерты грамзаписей,">
+      <audioTime in="23776" out="27430" />
+    </line>
+    <line lang1="mais j'ai peur qu'il y ait des parasites comme hier soir pendant le concert de jazz." someNumber="None" image="f.jpg" lang2="но боюсь, чтоб не было помех, как вчера вечером во время джазового концерта.">
+      <audioTime in="27430" out="33496" />
+    </line>
+    <line lang1="- Notre poste est déjà vieux." someNumber="None" image="f.jpg" lang2="- Наш радиоприемник уже старый.">
+      <audioTime in="33496" out="35835" />
+    </line>
+    <line lang1="Il est grand temps d'acheter un appareil d'un type moderne" someNumber="None" image="f.jpg" lang2="Время купить радиоприемник более современного типа">
+      <audioTime in="35835" out="40256" />
+    </line>
+    <line lang1="avec les tout derniers perfectionnements techniques." someNumber="None" image="f.jpg" lang2="с самыми последними техническими усовершенствованиями.">
+      <audioTime in="40256" out="43895" />
+    </line>
+    <line lang1="- Tu as raison. Mais quel poste voudrais-tu avoir?" someNumber="None" image="f.jpg" lang2="- Ты прав. А какой радиоприемник хотел бы ты иметь?">
+      <audioTime in="43895" out="48035" />
+    </line>
+    <line lang1="- Je voudrais avoir un récepteur à trois gammes d'ondes," someNumber="None" image="f.jpg" lang2="- Я хотел бы иметь радиоприемник с тремя радиодиапазонами">
+      <audioTime in="48035" out="52384" />
+    </line>
+    <line lang1="et avec une ébénisterie en matière plastique." someNumber="None" image="f.jpg" lang2="и корпусом, сделанным из пластмассы.">
+      <audioTime in="52384" out="56085" />
+    </line>
+    <line lang1="- Mais il est déjà 15h. 18." someNumber="None" image="f.jpg" lang2="- Но уже 15 часов 18 минут.">
+      <audioTime in="56085" out="58989" />
+    </line>
+    <line lang1="Mets vite notre appareil au point, sans cela nous manquerons notre concert." someNumber="None" image="f.jpg" lang2="Включи быстро наш аппарат, иначе мы пропустим наш концерт.">
+      <audioTime in="58989" out="64832" />
+    </line>
+  </lines>
+</lesson>

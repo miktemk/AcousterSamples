@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="J_046.wav" dlgName="Ходил гулять" dic="p046" />
+  <lines>
+    <line lang1="ー学生たち*は*きょうしつ*で*ぶんぽう*を*れんしゅう*します。" someNumber="61" image="046_001.jpg" lang2="- Студенты в аудитории упражняются в грамматике.">
+      <audioTime in="0" out="4713" />
+    </line>
+    <line lang1="学生たち*は*教室*で*ぶんぽう*の*れん習*を*します。" someNumber="05" image="046_001.jpg" lang2="Студенты в аудитории делают упражнения по грамматике.">
+      <audioTime in="4713" out="10898" />
+    </line>
+    <line lang1="ー花子*さん*は*文学*を*べんきょう*します。" someNumber="None" image="046_003.jpg" lang2="- Ханако-сан изучает литературу.">
+      <audioTime in="10898" out="16877" />
+    </line>
+    <line lang1="花子*さん*は*文学*の*べんきょう*を*します。" someNumber="None" image="046_003.jpg" lang2="Ханако-сан занимается изучением литературы.">
+      <audioTime in="16877" out="21908" />
+    </line>
+    <line lang1="ー私*は*日本*へ*化学*の*べんきょう*に*来ました。" someNumber="04" image="046_005.jpg" lang2="- Я приехал в Японию для занятий химией.">
+      <audioTime in="21908" out="27492" />
+    </line>
+    <line lang1="私*は*日本*へ*化学*を*べんきょう*し*に*来ました。" someNumber="65" image="046_005.jpg" lang2="Я приехал в Японию заниматься химией.">
+      <audioTime in="27492" out="33378" />
+    </line>
+    <line lang1="ーかれ*は*リンガホーン*室*に*はつおん*の*ふくしゅう*に*来ました。" someNumber="None" image="046_007.jpg" lang2="- Он пришёл в лингафонный кабинет для повторения фонетических упражнений.">
+      <audioTime in="33378" out="40384" />
+    </line>
+    <line lang1="かれ*は*リンガホーン*室*に*はつおん*を*ふく習*し*に*来ました。" someNumber="None" image="046_007.jpg" lang2="Он пришёл в лингафонный кабинет, повторять фонетические упражнения.">
+      <audioTime in="40384" out="46868" />
+    </line>
+    <line lang1="ーかれ*は、先月*きょうと*へ*けんぶつ*に*行きました。" someNumber="None" image="046_009.jpg" lang2="- В прошлом месяце он поехал в Киото для осмотра достопримечательностей.">
+      <audioTime in="46868" out="52263" />
+    </line>
+    <line lang1="かれ*は、来月*おおさか*へ*けんぶつ*を*し*に*きます。" someNumber="None" image="046_010.jpg" lang2="В следующем месяце он приедет в Осака осматривать достопримечательности.">
+      <audioTime in="52263" out="58668" />
+    </line>
+    <line lang1="ー今日*は*こうえん*へ*さんぽ*に*行きました*か。" someNumber="None" image="046_011.jpg" lang2="- (Вы) сегодня ходили в парк на прогулку?">
+      <audioTime in="58668" out="65088" />
+    </line>
+    <line lang1="―今日*は*いぬ*を*つれて*こうえん*へ*さんぽ*を*し*に*行きました。" someNumber="127" image="046_012.jpg" lang2="- Сегодня ходил в парк погулять с собакой.">
+      <audioTime in="65088" out="72568" />
+    </line>
+    <line lang1="ーあなた*は*明日*の*パーティー*に*来ます*か。" someNumber="None" image="046_013.jpg" lang2="- Вы придёте на завтрашнюю вечеринку?">
+      <audioTime in="72568" out="77837" />
+    </line>
+    <line lang1="ーはい、みんな*に*会い*に*ぜひ*来きます。" someNumber="None" image="046_014.jpg" lang2="- Да, обязательно пойду повидаться со всеми.">
+      <audioTime in="77837" out="81131" />
+    </line>
+    <line lang1="ーイリナ*さん*は*先週*かまくら*へ*行きました*か。" someNumber="None" image="046_015.jpg" lang2="- Ирина-сан, (Вы) ездили в Камакура на прошлой неделе?">
+      <audioTime in="81131" out="87969" />
+    </line>
+    <line lang1="ーはい、だいぶつ*を*見*に*行きました。" someNumber="None" image="046_016.jpg" lang2="- Да, ездила посмотреть на большую статую Будды.">
+      <audioTime in="87969" out="91754" />
+    </line>
+    <line lang1="ーけさ、なに*を*しました*か。" someNumber="None" image="046_017.jpg" lang2="- Что (Вы) делали сегодня утром?">
+      <audioTime in="91754" out="94305" />
+    </line>
+    <line lang1="ーじしょ*を*買い*に*本屋*へ*行きました。" someNumber="None" image="046_018.jpg" lang2="- Ходила в книжный магазин купить словарь.">
+      <audioTime in="94305" out="97425" />
+    </line>
+    <line lang1="ー今晩*おおさか*の*友だち*を*むかえ*に*駅*へ*行きます。" someNumber="63" image="046_019.jpg" lang2="- Сегодня вечером поеду на станцию встретить товарища из Осака.">
+      <audioTime in="97425" out="102599" />
+    </line>
+    <line lang1="―何時*に*行きます*か。" someNumber="None" image="046_020.jpg" lang2="- В котором часу поедете?">
+      <audioTime in="102599" out="105294" />
+    </line>
+    <line lang1="―しんかんせん*が*７時*に*つく*ので、６時*に*でかけます。" someNumber="154" image="046_021.jpg" lang2="- Так как синкансэн прибывает в 7 часов, выйду в 6 часов.">
+      <audioTime in="105294" out="109667" />
+    </line>
+    <line lang1="ー明日*母*を*みおくり*に*くうこう*へ*いきます。" someNumber="None" image="046_022.jpg" lang2="- Завтра (я) еду в аэропорт провожать маму.">
+      <audioTime in="109667" out="115851" />
+    </line>
+    <line lang1="―何時*に*行きます*か。" someNumber="None" image="046_023.jpg" lang2="- В котором часу поедете?">
+      <audioTime in="115851" out="118057" />
+    </line>
+    <line lang1="―しゅっぱつ*は*８時*な*ので、５時*に*でかけます。" someNumber="154" image="046_024.jpg" lang2="- Так как вылет в 8 часов, выеду в 5 часов.">
+      <audioTime in="118057" out="122663" />
+    </line>
+  </lines>
+</lesson>

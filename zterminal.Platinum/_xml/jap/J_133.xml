@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="j_133.wav" dlgName="Ответное письмо" dic="p133" />
+  <lines>
+    <line lang1="１０月*１７日" someNumber="None" image="133_001.jpg" lang2="17 октября">
+      <audioTime in="0" out="4808" />
+    </line>
+    <line lang1="イリナ*パノワ様" someNumber="None" image="133_001.jpg" lang2="Ирине Пановой">
+      <audioTime in="4808" out="6774" />
+    </line>
+    <line lang1="前略" someNumber="300" image="133_001.jpg" lang2="Дорогая Ирина!">
+      <audioTime in="6774" out="9512" />
+    </line>
+    <line lang1="わざわざ、ご*丁寧*な*お手紙*を*いただき*有難う*ございました。" someNumber="None" image="133_001.jpg" lang2="Спасибо за вежливое письмо.">
+      <audioTime in="9512" out="15492" />
+    </line>
+    <line lang1="それ*から、写真、有難う*ございました。" someNumber="None" image="133_005.jpg" lang2="Кроме того, спасибо за фотографии.">
+      <audioTime in="15492" out="19829" />
+    </line>
+    <line lang1="とても*よく*撮れていて、みんな*喜ぶ*こと*でしょう。" someNumber="None" image="133_005.jpg" lang2="Вы очень хорошо их сняли, все будут очень рады.">
+      <audioTime in="19829" out="24292" />
+    </line>
+    <line lang1="先日*は，赤阪*や*六本木*の*華やか*な*表通り*ではなく、" someNumber="None" image="133_007.jpg" lang2="В прошлый день я хотел чтобы Вы увидели не только блестящий фасад улиц Роппонги и Акасака,">
+      <audioTime in="24292" out="31519" />
+    </line>
+    <line lang1="その裏*の*姿*も*見て*いただきたくて，" someNumber="None" image="133_008.jpg" lang2="но и их изнанку, -">
+      <audioTime in="31759" out="34517" />
+    </line>
+    <line lang1="ご案内した*の*です*が，何*か*の*ご参考*に*なった*でしょう*か。" someNumber="None" image="133_008.jpg" lang2="было ли для Вас что-нибудь полезным?">
+      <audioTime in="34517" out="38823" />
+    </line>
+    <line lang1="実*は、赤阪*や*六本木*に*あった*昔*の*住宅*が*消えて" someNumber="None" image="133_010.jpg" lang2="На самом деле, когда в Акасака и Роппонги сносились старые жилые дома,">
+      <audioTime in="38823" out="44991" />
+    </line>
+    <line lang1="ビル*の*街*に*変わる*過程*で、" someNumber="None" image="133_010.jpg" lang2="и они превращались в кварталы небоскребов,">
+      <audioTime in="44991" out="47399" />
+    </line>
+    <line lang1="さまざま*な*ドラマ*が*ありました。" someNumber="None" image="133_010.jpg" lang2="там происходили многочисленные драматические истории.">
+      <audioTime in="47399" out="49634" />
+    </line>
+    <line lang1="いま*も*巨大*な*建設*機械*が*うなり*を*あげる*再開発*の*現場*で，" someNumber="None" image="133_013.jpg" lang2="И сейчас, на месте строительства, где ревут мощные строительные машины,">
+      <audioTime in="49634" out="55363" />
+    </line>
+    <line lang1="昔*ながら*の*生活*を*かたくな*に*守り続ける*一家*が*あります。" someNumber="None" image="133_014.jpg" lang2="есть дом, упрямо продолжающий отстаивать (свои права) на такую жизнь, как в старину.">
+      <audioTime in="55363" out="60412" />
+    </line>
+    <line lang1="日本*に*いる*間，さまざま*な*日本*の*姿*を*見て*欲しい*と*思います。" someNumber="082" image="133_015.jpg" lang2="Мне хочется, чтобы Вы, во время пребывания в Японии, увидели различные лики Японии.">
+      <audioTime in="60412" out="66550" />
+    </line>
+    <line lang1="日本語*の*勉強*は*たいへん*だ*と*思います*が、" someNumber="None" image="133_016.jpg" lang2="Я считаю, что изучать японский язык очень трудно">
+      <audioTime in="66550" out="70730" />
+    </line>
+    <line lang1="いい*成績*が*あげられます*よう、お祈り*いたします。" someNumber="109" image="133_016.jpg" lang2="и желаю Вам больших успехов.">
+      <audioTime in="70730" out="74940" />
+    </line>
+    <line lang1="試験*が*終わりましたら，また*お会いましょう。" someNumber="None" image="133_018.jpg" lang2="Когда закончатся экзамены, встретимся снова.">
+      <audioTime in="74940" out="79167" />
+    </line>
+    <line lang1="では*また。" someNumber="None" image="133_018.jpg" lang2="Ну ладно, до встречи.">
+      <audioTime in="79167" out="81640" />
+    </line>
+    <line lang1="早々" someNumber="None" image="133_020.jpg" lang2="С приветом">
+      <audioTime in="81640" out="83258" />
+    </line>
+    <line lang1="豊田 *薫" someNumber="None" image="133_020.jpg" lang2="Тоёда Каору">
+      <audioTime in="83258" out="86155" />
+    </line>
+  </lines>
+</lesson>

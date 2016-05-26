@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="j_071.wav" dlgName="То читали, то писали" dic="p071" />
+  <lines>
+    <line lang1="ー昨日*の*パーティー*で*何*をしました*か。" someNumber="None" image="071_001.jpg" lang2="- Что (вы) делали на вчерашней вечеринке?">
+      <audioTime in="0" out="4253" />
+    </line>
+    <line lang1="ー歌*を*歌ったり、おどったり*しました。" someNumber="79" image="071_002.jpg" lang2="- То пели песни, то танцевали.">
+      <audioTime in="4253" out="7404" />
+    </line>
+    <line lang1="ー授業*の*とき*何*を*しました*か。" someNumber="153" image="071_003.jpg" lang2="- Что (вы) делали на уроке?">
+      <audioTime in="7404" out="13035" />
+    </line>
+    <line lang1="ーテキスト*を*読んだり、作文*を*書いたり*しました。" someNumber="None" image="071_004.jpg" lang2="- То читали тексты, то писали сочинение.">
+      <audioTime in="13035" out="17009" />
+    </line>
+    <line lang1="ー北海道*の*夏休み*は*どう*でした*か。" someNumber="None" image="071_005.jpg" lang2="- Как было на Хоккайдо на летних каникулах?">
+      <audioTime in="17009" out="22579" />
+    </line>
+    <line lang1="ーすばらしかった*です。" someNumber="26" image="071_005.jpg" lang2="- Было замечательно.">
+      <audioTime in="22579" out="25478" />
+    </line>
+    <line lang1="毎日*泳いだり、" someNumber="None" image="071_007.jpg" lang2="Каждый день то плавали,">
+      <audioTime in="25487" out="27124" />
+    </line>
+    <line lang1="魚*を*つったり*しました。" someNumber="None" image="071_008.jpg" lang2="то ловили рыбу.">
+      <audioTime in="27179" out="29303" />
+    </line>
+    <line lang1="ー明子*さん、日曜日*は*大そうじ*でした*か。" someNumber="None" image="071_009.jpg" lang2="- Акико-сан, в воскресенье (у Вас) была генеральная уборка?">
+      <audioTime in="29303" out="34761" />
+    </line>
+    <line lang1="ーそう*です。せんたく*を*したり、" someNumber="None" image="071_010.jpg" lang2="- Да. (Я) то стирала,">
+      <audioTime in="34746" out="38320" />
+    </line>
+    <line lang1="部屋*を*かたづけたり*しました。" someNumber="None" image="071_011.jpg" lang2="то прибирала комнату.">
+      <audioTime in="38320" out="40072" />
+    </line>
+    <line lang1="たいへん*疲れました。" someNumber="None" image="071_011.jpg" lang2="Очень устала.">
+      <audioTime in="40072" out="42198" />
+    </line>
+    <line lang1="ー台所*で*何*を*しました*か。" someNumber="None" image="071_013.jpg" lang2="- Что (Вы) делали на кухне?">
+      <audioTime in="42198" out="44876" />
+    </line>
+    <line lang1="ー料理*を*作ったり、" someNumber="None" image="071_014.jpg" lang2="- То готовила еду,">
+      <audioTime in="44876" out="47587" />
+    </line>
+    <line lang1="皿*を*洗ったり*しました。" someNumber="None" image="071_015.jpg" lang2="то мыла посуду.">
+      <audioTime in="47587" out="49461" />
+    </line>
+    <line lang1="ー休み*の*日*に*何*を*します*か。" someNumber="None" image="071_016.jpg" lang2="- Что (Вы) делаете в выходной?">
+      <audioTime in="49461" out="52155" />
+    </line>
+    <line lang1="ー主人*は*散歩*を*したりして、" someNumber="None" image="071_017.jpg" lang2="- Муж временами гуляет,">
+      <audioTime in="52155" out="55356" />
+    </line>
+    <line lang1="私*は*テレビ*を*見たり*します。" someNumber="None" image="071_018.jpg" lang2="а я временами смотрю телевизор.">
+      <audioTime in="55356" out="57749" />
+    </line>
+    <line lang1="ー好き*な*授業*は*何*です*か。" someNumber="None" image="071_019.jpg" lang2="- Какой (Ваш) любимый предмет?">
+      <audioTime in="57749" out="60978" />
+    </line>
+    <line lang1="―地理*です。" someNumber="None" image="071_020.jpg" lang2="- География.">
+      <audioTime in="60731" out="62177" />
+    </line>
+    <line lang1="ビデオ*を*見たり、" someNumber="None" image="071_021.jpg" lang2="Потому что (мы) то смотрим видео,">
+      <audioTime in="62177" out="65090" />
+    </line>
+    <line lang1="遠い*国*に*ついて*勉強*したり*する*から*です。" someNumber="None" image="071_022.jpg" lang2="то изучаем дальние страны.">
+      <audioTime in="65090" out="68161" />
+    </line>
+    <line lang1="物理*と*化学*と*数学*が*きらい*です。" someNumber="None" image="071_023.jpg" lang2="Ненавижу физику, химию и математику.">
+      <audioTime in="68161" out="72341" />
+    </line>
+    <line lang1="あなた*は？" someNumber="None" image="071_024.jpg" lang2="А Ваш?">
+      <audioTime in="72341" out="73611" />
+    </line>
+    <line lang1="ー好き*な*科目*は*歴史*です。" someNumber="None" image="071_025.jpg" lang2="- Любимый предмет - история.">
+      <audioTime in="73611" out="76479" />
+    </line>
+    <line lang1="はくぶつ館*に*行ったり*する*から*です。" someNumber="None" image="071_025.jpg" lang2="Потому что временами ходим в музеи.">
+      <audioTime in="76479" out="79324" />
+    </line>
+    <line lang1="―きのう*学校*で*しけん*が*あった*の。" someNumber="124" image="071_027.jpg" lang2="- Вчера в школе был экзамен.">
+      <audioTime in="79324" out="84371" />
+    </line>
+    <line lang1="ーそう。どう*だった？" someNumber="None" image="071_028.jpg" lang2="- Так! Ну и как?">
+      <audioTime in="84371" out="86526" />
+    </line>
+    <line lang1="―あまり*むずかしくなかった。" someNumber="None" image="071_029.jpg" lang2="- Было не очень трудно.">
+      <audioTime in="86526" out="89172" />
+    </line>
+    <line lang1="漢字*を*書いたり、質問*に*答えたり*する*しけん*だった*の。" someNumber="None" image="071_029.jpg" lang2="На экзамене то писали иероглифы, то отвечали на вопросы.">
+      <audioTime in="89172" out="94111" />
+    </line>
+    <line lang1="１００点*だった*わ。" someNumber="None" image="071_031.jpg" lang2="У меня 100 баллов!">
+      <audioTime in="94111" out="96108" />
+    </line>
+    <line lang1="ーおめでとう。" someNumber="None" image="071_031.jpg" lang2="- Поздравляю!">
+      <audioTime in="96108" out="98454" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_108.wav" dic="p108" dlgName="Этот... А тот..." dlgFile="exr\ig107.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Questo poliziotto è alto." someNumber="None" image="dg\108_001.gif" lang2="- Этот полицейский высокий.">
+      <audioTime in="0" out="2156" />
+    </line>
+    <line lang1="- Ma questo poliziotto è più alto di lui." someNumber="None" image="dg\108_001.gif" lang2="- А тот полицейский выше него.">
+      <audioTime in="2222" out="5097" />
+    </line>
+    <line lang1="Lui è il più alto poliziotto che io abbia mai visto." someNumber="None" image="dg\108_001.gif" lang2="Он самый высокий полицейский, которого я когда-либо видел.">
+      <audioTime in="5163" out="8692" />
+    </line>
+    <line lang1="- Questa donna è bassa." someNumber="None" image="dg\108_002.gif" lang2="- Эта женщина низкая.">
+      <audioTime in="8626" out="10718" />
+    </line>
+    <line lang1="- Ma quella donna è più bassa di lei." someNumber="None" image="dg\108_002.gif" lang2="- А та женщина ниже неё.">
+      <audioTime in="10652" out="13332" />
+    </line>
+    <line lang1="Lei è la donna più bassa che io abbia mai visto." someNumber="None" image="dg\108_002.gif" lang2="Она самая низкая женщина, которую я когда-либо видел.">
+      <audioTime in="13332" out="16991" />
+    </line>
+    <line lang1="- Queste macchine sono a buon mercato." someNumber="None" image="dg\108_003.gif" lang2="- Эти автомашины дешёвые.">
+      <audioTime in="16991" out="19475" />
+    </line>
+    <line lang1="- Ma queste sono ancora più a buon mercato." someNumber="None" image="dg\108_003.gif" lang2="- А те машины дешевле.">
+      <audioTime in="19475" out="22351" />
+    </line>
+    <line lang1="Sono le macchine più a buon mercato che io abbia mai visto." someNumber="970" image="dg\108_003.gif" lang2="Они самые дешёвые автомашины, которые я когда-либо видел.">
+      <audioTime in="22351" out="26207" />
+    </line>
+    <line lang1="- Questo coltello è affilato." someNumber="None" image="dg\108_004.gif" lang2="- Этот нож острый.">
+      <audioTime in="26141" out="28494" />
+    </line>
+    <line lang1="- Ma questo coltello è ancora più affilato." someNumber="None" image="dg\108_004.gif" lang2="- А тот нож острее.">
+      <audioTime in="28494" out="31762" />
+    </line>
+    <line lang1="È il coltello più affilato che io abbia mai visto." someNumber="None" image="dg\108_004.gif" lang2="Это самый острый нож, который я когда-либо видел.">
+      <audioTime in="31762" out="35422" />
+    </line>
+    <line lang1="- Questa ragazza è bella." someNumber="None" image="dg\108_005.gif" lang2="- Эта девушка красивая.">
+      <audioTime in="35356" out="37317" />
+    </line>
+    <line lang1="- Ma quest'altra ragazza è più bella." someNumber="None" image="dg\108_005.gif" lang2="- Но та девушка красивее.">
+      <audioTime in="37317" out="39931" />
+    </line>
+    <line lang1="Lei è la più bella ragazza che io abbia mai visto." someNumber="190" image="dg\108_005.gif" lang2="Она самая красивая девушка, которую я когда-либо видел.">
+      <audioTime in="39866" out="43606" />
+    </line>
+    <line lang1="- Questi impiegati sono pigri." someNumber="None" image="dg\108_006.gif" lang2="- Эти служащие ленивы.">
+      <audioTime in="43606" out="45805" />
+    </line>
+    <line lang1="- Ma questi impiegati sono ancora più pigri." someNumber="None" image="dg\108_006.gif" lang2="- А те служащие ленивее их.">
+      <audioTime in="45879" out="48958" />
+    </line>
+    <line lang1="Loro sono gli impiegati più pigri che io abbia mai visto." someNumber="None" image="dg\108_006.gif" lang2="Они самые ленивые служащие, которых я когда-либо видел.">
+      <audioTime in="48958" out="53211" />
+    </line>
+    <line lang1="- Questa chiesa è grande." someNumber="130" image="dg\108_007.gif" lang2="- Эта церковь большая.">
+      <audioTime in="53211" out="55411" />
+    </line>
+    <line lang1="- Ma quella chiesa è più grande." someNumber="None" image="dg\108_007.gif" lang2="- А та церковь больше.">
+      <audioTime in="55411" out="58124" />
+    </line>
+    <line lang1="È la chiesa più grande che io abbia mai visto." someNumber="None" image="dg\108_007.gif" lang2="Это самая большая церковь, которую я когда-либо видел.">
+      <audioTime in="58124" out="61570" />
+    </line>
+    <line lang1="- Questo testo è facile." someNumber="None" image="dg\108_008.gif" lang2="- Этот тест лёгкий.">
+      <audioTime in="61569" out="64128" />
+    </line>
+    <line lang1="- Ma quello è più facile." someNumber="None" image="dg\108_008.gif" lang2="- А тот тест легче.">
+      <audioTime in="64202" out="66395" />
+    </line>
+    <line lang1="È il testo più facile che io abbia mai visto." someNumber="None" image="dg\108_008.gif" lang2="Это самый лёгкий тест, который я когда-либо видел.">
+      <audioTime in="66395" out="70052" />
+    </line>
+    <line lang1="- Questo coltello è spuntato." someNumber="None" image="dg\108_009.gif" lang2="- Этот нож тупой.">
+      <audioTime in="70125" out="72903" />
+    </line>
+    <line lang1="- Ma questo è più spuntato." someNumber="None" image="dg\108_009.gif" lang2="- А тот нож тупее.">
+      <audioTime in="72977" out="75463" />
+    </line>
+    <line lang1="È il coltello più spuntato che io abbia mai visto." someNumber="None" image="dg\108_009.gif" lang2="Это самый тупой нож, который я когда-либо видел.">
+      <audioTime in="75463" out="79265" />
+    </line>
+    <line lang1="- Questo ragazzo è magro." someNumber="None" image="dg\108_010.gif" lang2="- Этот мальчик худой.">
+      <audioTime in="79339" out="81386" />
+    </line>
+    <line lang1="- Ma quello è più magro." someNumber="None" image="dg\108_010.gif" lang2="- А тот мальчик худее.">
+      <audioTime in="81459" out="83726" />
+    </line>
+    <line lang1="Lui è il ragazzo più magro che io abbia mai visto." someNumber="None" image="dg\108_010.gif" lang2="Он самый худой мальчик, которого я когда-либо видел.">
+      <audioTime in="83726" out="88246" />
+    </line>
+  </lines>
+</lesson>

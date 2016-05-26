@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="i_123.wav" dic="p123" dlgName="Фотография." dlgFile="exr\ig123.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Guarda, Paolo." someNumber="None" image="dg\123_001.gif" lang2="- Посмотри, Паоло.">
+      <audioTime in="61" out="1437" />
+    </line>
+    <line lang1="Ho fatto questa foto durante il mio viaggio in Australia." someNumber="None" image="dg\123_001.gif" lang2="Я сделал эту фотографию во время моей поездки в Австралию.">
+      <audioTime in="1415" out="5111" />
+    </line>
+    <line lang1="- Fammela vedere, Pietro." someNumber="930" image="dg\123_001.gif" lang2="- Дай мне её посмотреть, Пьетро.">
+      <audioTime in="5065" out="6593" />
+    </line>
+    <line lang1="- Che bella fotografia." someNumber="None" image="dg\123_002.gif" lang2="- Это хорошая фотография.">
+      <audioTime in="6593" out="8171" />
+    </line>
+    <line lang1="Chi sono queste persone?" someNumber="None" image="dg\123_002.gif" lang2="Кто эти люди?">
+      <audioTime in="8216" out="10007" />
+    </line>
+    <line lang1="- Ho incontrato queste persone durante il viaggio." someNumber="None" image="dg\123_002.gif" lang2="- Я встретил этих людей во время поездки.">
+      <audioTime in="10019" out="12990" />
+    </line>
+    <line lang1="- Questa è la nave sulla quale abbiamo viaggiato." someNumber="None" image="dg\123_003.gif" lang2="- На этом корабле мы путешествовали.">
+      <audioTime in="12990" out="15629" />
+    </line>
+    <line lang1="- Che bella nave!" someNumber="None" image="dg\123_003.gif" lang2="- Какой красивый корабль!">
+      <audioTime in="15506" out="16803" />
+    </line>
+    <line lang1="- E questo chi è?" someNumber="None" image="dg\123_004.gif" lang2="- Кто это?">
+      <audioTime in="16758" out="17977" />
+    </line>
+    <line lang1="- Questo è l'uomo di cui ti ho parlato." someNumber="None" image="dg\123_004.gif" lang2="- Это тот человек, о котором я тебе говорил.">
+      <audioTime in="18101" out="20342" />
+    </line>
+    <line lang1="Ti ricordi?" someNumber="None" image="dg\123_004.gif" lang2="Помнишь?">
+      <audioTime in="20342" out="21380" />
+    </line>
+    <line lang1="- Ah, sì. È quello che ti ha offerto di lavorare in Australia." someNumber="None" image="dg\123_004.gif" lang2="- Ах, да. Тот самый, который предложил тебе работу в Австралии.">
+      <audioTime in="21437" out="25143" />
+    </line>
+    <line lang1="- Sì, è così." someNumber="None" image="dg\123_004.gif" lang2="- Совершенно верно.">
+      <audioTime in="25143" out="26317" />
+    </line>
+    <line lang1="- È chi è questo?" someNumber="170" image="dg\123_005.gif" lang2="- А кто это?">
+      <audioTime in="26317" out="27829" />
+    </line>
+    <line lang1="- Indovina!" someNumber="None" image="dg\123_005.gif" lang2="- Догадайся!">
+      <audioTime in="27829" out="28958" />
+    </line>
+    <line lang1="- Sei tu, non è così?" someNumber="None" image="dg\123_005.gif" lang2="- Но ведь это же не ты?">
+      <audioTime in="28912" out="30394" />
+    </line>
+    <line lang1="- Sì, proprio io." someNumber="None" image="dg\123_005.gif" lang2="- Именно, что я.">
+      <audioTime in="30394" out="31840" />
+    </line>
+    <line lang1="Mi sono lasciato crescere la barba durante il viaggio," someNumber="None" image="dg\123_006.gif" lang2="Я отрастил бороду во время поездки,">
+      <audioTime in="31770" out="34798" />
+    </line>
+    <line lang1="ma quando sono arrivato a casa me la sono tagliata." someNumber="None" image="dg\123_006.gif" lang2="но сбрил её, когда приехал домой.">
+      <audioTime in="34690" out="37622" />
+    </line>
+    <line lang1="- Perché te la sei tagliata?" someNumber="None" image="dg\123_006.gif" lang2="- Почему ты её сбрил?">
+      <audioTime in="37561" out="39336" />
+    </line>
+    <line lang1="- A mia moglie non piaceva!" someNumber="None" image="dg\123_006.gif" lang2="- Она не нравилась моей жене!">
+      <audioTime in="39414" out="41099" />
+    </line>
+  </lines>
+</lesson>

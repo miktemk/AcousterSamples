@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_006.wav" dlgName="Моя семья" dic="p006" />
+  <lines>
+    <line lang1="ーひろし*くん、こん*にち*は、いらっしゃい。" someNumber="15" image="006_001.jpg" lang2="- Хироси, здравствуйте. Добро пожаловать.">
+      <audioTime in="0" out="5550" />
+    </line>
+    <line lang1="私*の*はは*です。" someNumber="None" image="006_001.jpg" lang2="(Это) моя мама.">
+      <audioTime in="5550" out="8370" />
+    </line>
+    <line lang1="ーはじめまして。" someNumber="None" image="006_003.jpg" lang2="- Разрешите представиться.">
+      <audioTime in="8370" out="10509" />
+    </line>
+    <line lang1="私*は*やまもと*ひろし*と*もうします。" someNumber="167" image="006_003.jpg" lang2="Меня зовут Ямамото Хироси.">
+      <audioTime in="10509" out="14513" />
+    </line>
+    <line lang1="よろしく*おねがい*します。" someNumber="None" image="006_003.jpg" lang2="К Вашим услугам.">
+      <audioTime in="14513" out="17358" />
+    </line>
+    <line lang1="ーはじめまして。あきこ*の*はは*です。" someNumber="None" image="006_006.jpg" lang2="- Рада познакомиться. Я мама Акико.">
+      <audioTime in="17358" out="23289" />
+    </line>
+    <line lang1="どうぞ*お*あがり*ください。" someNumber="128" image="006_006.jpg" lang2="Проходите, пожалуйста.">
+      <audioTime in="23289" out="26016" />
+    </line>
+    <line lang1="―ありがとう*ございます。" someNumber="None" image="006_008.jpg" lang2="- Большое спасибо.">
+      <audioTime in="26016" out="29044" />
+    </line>
+    <line lang1="―ひろし*くん、これ*は*私*の*アルバム*です。" someNumber="None" image="006_009.jpg" lang2="- Хироси, это мой альбом.">
+      <audioTime in="29044" out="34406" />
+    </line>
+    <line lang1="これ*は*ちち*と*はは*です。" someNumber="None" image="006_009.jpg" lang2="Это папа и мама.">
+      <audioTime in="34406" out="38080" />
+    </line>
+    <line lang1="―わかい*です*ね。" someNumber="None" image="006_011.jpg" lang2="- Какие молодые!">
+      <audioTime in="38080" out="40410" />
+    </line>
+    <line lang1="―そう*です*ね。" someNumber="None" image="006_011.jpg" lang2="- В самом деле!">
+      <audioTime in="40410" out="42781" />
+    </line>
+    <line lang1="―あきこ*さん*は*きょうだい*が*います*か。" someNumber="74" image="006_011.jpg" lang2="- Акико, а братья и сестры у Вас есть?">
+      <audioTime in="42781" out="46610" />
+    </line>
+    <line lang1="ーはい、あに*と*あね*が*います。" someNumber="02" image="006_014.jpg" lang2="- Да, есть старший брат и старшая сестра.">
+      <audioTime in="46610" out="51783" />
+    </line>
+    <line lang1="これ*は*あに*の*しゃしん*です。" someNumber="None" image="006_015.jpg" lang2="Вот это - фотография старшего брата.">
+      <audioTime in="51783" out="55135" />
+    </line>
+    <line lang1="いま*あに*も*あね*も*学生*です。" someNumber="122" image="006_016.jpg" lang2="Сейчас и брат, и сестра - студенты.">
+      <audioTime in="55135" out="59789" />
+    </line>
+    <line lang1="あに*は*二ねんせい*です。" someNumber="33" image="006_017.jpg" lang2="Брат - второкурсник.">
+      <audioTime in="59789" out="63541" />
+    </line>
+    <line lang1="あね*は*三ねんせい*です。" someNumber="None" image="006_018.jpg" lang2="Сестра - третьекурсница.">
+      <audioTime in="63541" out="67518" />
+    </line>
+    <line lang1="これ*は*私*の*ともだち*です。" someNumber="13" image="006_019.jpg" lang2="А это мои друзья.">
+      <audioTime in="67518" out="71748" />
+    </line>
+    <line lang1="―あきこ*さん*は*ともだち*が*たくさん*います*ね。" someNumber="None" image="006_019.jpg" lang2="- Акико, как много у Вас друзей!">
+      <audioTime in="71748" out="77138" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="006_019.jpg" lang2="- Да.">
+      <audioTime in="77138" out="79593" />
+    </line>
+    <line lang1="ひろし*くん*は*きょうだい*が*います*か。" someNumber="02" image="006_022.jpg" lang2="Хироси, а у Вас есть братья и сестры?">
+      <audioTime in="79593" out="83769" />
+    </line>
+    <line lang1="ー私*は*きょうだい*が*いません。" someNumber="None" image="006_022.jpg" lang2="- У меня нет братьев и сестер.">
+      <audioTime in="83769" out="87158" />
+    </line>
+    <line lang1="ちち*と*はは*が*います。" someNumber="None" image="006_024.jpg" lang2="Есть папа и мама.">
+      <audioTime in="87158" out="90149" />
+    </line>
+    <line lang1="それ*から*いぬ*が*います。" someNumber="120" image="006_025.jpg" lang2="Кроме того, есть собака.">
+      <audioTime in="90149" out="93560" />
+    </line>
+    <line lang1="ともだち*も*たくさん*います。" someNumber="None" image="006_026.jpg" lang2="Друзей тоже много.">
+      <audioTime in="93560" out="96918" />
+    </line>
+  </lines>
+</lesson>

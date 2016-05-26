@@ -1,0 +1,143 @@
+<lesson>
+  <header wav="music01.wav" dic="p144" dlgName="Елисейские поля (песня)" dlgFile="exr\fg144.txt" author="Alexander" />
+  <lines>
+    <line lang1="Je m'baladais sur l'avenue," someNumber="None" image="f.jpg" lang2="Я прогуливался по проспекту,">
+      <audioTime in="0" out="10526" />
+    </line>
+    <line lang1="Le cœur ouvert à l'inconnu," someNumber="None" image="f.jpg" lang2="С сердцем открытым незнакомцу,">
+      <audioTime in="10526" out="12715" />
+    </line>
+    <line lang1="J'avais envie de dire" someNumber="None" image="f.jpg" lang2="У меня было желание сказать">
+      <audioTime in="12715" out="14753" />
+    </line>
+    <line lang1="bonjour à n'importe qui." someNumber="None" image="f.jpg" lang2="здравствуй неважно кому.">
+      <audioTime in="14753" out="16365" />
+    </line>
+    <line lang1="N'importe qui se fut toi," someNumber="None" image="f.jpg" lang2="Неизвестно кто стала ты,">
+      <audioTime in="16365" out="19125" />
+    </line>
+    <line lang1="Je te dis n'importe quoi." someNumber="None" image="f.jpg" lang2="Я тебе говорил неважно что.">
+      <audioTime in="19125" out="21188" />
+    </line>
+    <line lang1="Il suffisait de te parler" someNumber="None" image="f.jpg" lang2="Было достаточно с тобой поговорить">
+      <audioTime in="21188" out="23370" />
+    </line>
+    <line lang1="Pour t'apprivoiser." someNumber="None" image="f.jpg" lang2="Чтобы приручить тебя.">
+      <audioTime in="23370" out="24996" />
+    </line>
+    <line lang1="Oh! Champs-Elysées. Oh! Champs-Elysées." someNumber="None" image="f.jpg" lang2="О, Елисейские поля! О, Елисейские поля!">
+      <audioTime in="24996" out="32680" />
+    </line>
+    <line lang1="Au soleil, sous la pluie," someNumber="None" image="f.jpg" lang2="Под солнцем, под дождем,">
+      <audioTime in="32680" out="36189" />
+    </line>
+    <line lang1="A midi ou à minuit." someNumber="None" image="f.jpg" lang2="В полдень или в полночь.">
+      <audioTime in="36189" out="38304" />
+    </line>
+    <line lang1="Il y a tout ce que vous voulez" someNumber="None" image="f.jpg" lang2="Есть всё что вы пожелаете">
+      <audioTime in="38304" out="40560" />
+    </line>
+    <line lang1="Aux Champs-Elysées." someNumber="None" image="f.jpg" lang2="На Елисейских полях.">
+      <audioTime in="40560" out="42497" />
+    </line>
+    <line lang1="Tu m'avais dit" someNumber="None" image="f.jpg" lang2="Ты мне сказала">
+      <audioTime in="42497" out="43600" />
+    </line>
+    <line lang1="J'ai rendez-vous" someNumber="None" image="f.jpg" lang2="У меня свидание">
+      <audioTime in="43600" out="44745" />
+    </line>
+    <line lang1="Dans une sous-sol" someNumber="None" image="f.jpg" lang2="В подвале">
+      <audioTime in="44745" out="46037" />
+    </line>
+    <line lang1="Avec des foux," someNumber="None" image="f.jpg" lang2="С сумасшедшими,">
+      <audioTime in="46037" out="46936" />
+    </line>
+    <line lang1="Qui vivent la guitare à la main" someNumber="None" image="f.jpg" lang2="Которые живут с гитарой в руке">
+      <audioTime in="46936" out="48866" />
+    </line>
+    <line lang1="Du soir au matin." someNumber="None" image="f.jpg" lang2="С вечера до утра.">
+      <audioTime in="48866" out="50735" />
+    </line>
+    <line lang1="Alors je t'ai accompagnée" someNumber="None" image="f.jpg" lang2="Тогда я тебя проводил">
+      <audioTime in="50735" out="53028" />
+    </line>
+    <line lang1="On a chanté, on a dansé." someNumber="None" image="f.jpg" lang2="Мы спели, мы потанцевали.">
+      <audioTime in="53028" out="55350" />
+    </line>
+    <line lang1="Et on n'a même pas pensé à s'embrasser." someNumber="None" image="f.jpg" lang2="И мы даже не думали целоваться.">
+      <audioTime in="55350" out="59261" />
+    </line>
+    <line lang1="Oh! Champs-Elysées. Oh! Champs-Elysées." someNumber="None" image="f.jpg" lang2="О, Елисейские поля! О, Елисейские поля!">
+      <audioTime in="59261" out="67848" />
+    </line>
+    <line lang1="Au soleil, sous la pluie," someNumber="None" image="f.jpg" lang2="Под солнцем, под дождем,">
+      <audioTime in="67848" out="70304" />
+    </line>
+    <line lang1="A midi ou à minuit." someNumber="None" image="f.jpg" lang2="В полдень или в полночь.">
+      <audioTime in="70304" out="72641" />
+    </line>
+    <line lang1="Il y a tout ce que vous voulez" someNumber="None" image="f.jpg" lang2="Есть всё что вы пожелаете">
+      <audioTime in="72641" out="74772" />
+    </line>
+    <line lang1="Aux Champs-Elysées." someNumber="None" image="f.jpg" lang2="На Елисейских полях.">
+      <audioTime in="74772" out="93599" />
+    </line>
+    <line lang1="Hier au soir deux inconnus," someNumber="None" image="f.jpg" lang2="Вчера вечером два незнакомца,">
+      <audioTime in="93599" out="96129" />
+    </line>
+    <line lang1="Et ce matin sur l'avenue" someNumber="None" image="f.jpg" lang2="А сегодня утром на проспекте">
+      <audioTime in="96129" out="98163" />
+    </line>
+    <line lang1="Deux amoureux tout étourdis," someNumber="None" image="f.jpg" lang2="Два совершенно оглушенных влюбленных,">
+      <audioTime in="98163" out="100468" />
+    </line>
+    <line lang1="Par la longue d'une nuit." someNumber="None" image="f.jpg" lang2="В течение одной ночи.">
+      <audioTime in="100468" out="102208" />
+    </line>
+    <line lang1="Et l'étoile de la Concorde," someNumber="None" image="f.jpg" lang2="И звезда Согласия,">
+      <audioTime in="102208" out="104679" />
+    </line>
+    <line lang1="Un orchestre a mis de corde," someNumber="None" image="f.jpg" lang2="Оркестр из струнных инструментов,">
+      <audioTime in="104679" out="106876" />
+    </line>
+    <line lang1="Tout les oiseaux du point du jour" someNumber="None" image="f.jpg" lang2="Все птицы на рассвете">
+      <audioTime in="106876" out="109021" />
+    </line>
+    <line lang1="Chantaient l'amour." someNumber="None" image="f.jpg" lang2="Пели любовь.">
+      <audioTime in="109021" out="110876" />
+    </line>
+    <line lang1="Oh! Champs-Elysées. Oh! Champs-Elysées." someNumber="None" image="f.jpg" lang2="О, Елисейские поля! О, Елисейские поля!">
+      <audioTime in="110876" out="119843" />
+    </line>
+    <line lang1="Au soleil, sous la pluie," someNumber="None" image="f.jpg" lang2="Под солнцем, под дождем,">
+      <audioTime in="119843" out="121877" />
+    </line>
+    <line lang1="A midi ou à minuit." someNumber="None" image="f.jpg" lang2="В полдень или в полночь.">
+      <audioTime in="121877" out="124133" />
+    </line>
+    <line lang1="Il y a tout ce que vous voulez" someNumber="None" image="f.jpg" lang2="Есть всё что вы пожелаете">
+      <audioTime in="124133" out="126196" />
+    </line>
+    <line lang1="Aux Champs-Elysées." someNumber="None" image="f.jpg" lang2="На Елисейских полях.">
+      <audioTime in="126196" out="128367" />
+    </line>
+    <line lang1="Oh! Champs-Elysées. Oh! Champs-Elysées." someNumber="None" image="f.jpg" lang2="О, Елисейские поля! О, Елисейские поля!">
+      <audioTime in="128367" out="137003" />
+    </line>
+    <line lang1="Au soleil, sous la pluie," someNumber="None" image="f.jpg" lang2="Под солнцем, под дождем,">
+      <audioTime in="137003" out="139392" />
+    </line>
+    <line lang1="A midi ou à minuit." someNumber="None" image="f.jpg" lang2="В полдень или в полночь.">
+      <audioTime in="139392" out="141414" />
+    </line>
+    <line lang1="Il y a tout ce que vous voulez" someNumber="None" image="f.jpg" lang2="Есть всё что вы пожелаете">
+      <audioTime in="141414" out="143462" />
+    </line>
+    <line lang1="Aux Champs-Elysées." someNumber="None" image="f.jpg" lang2="На Елисейских полях.">
+      <audioTime in="143462" out="145346" />
+    </line>
+    <line lang1="Oh! Champs-Elysées. Oh! Champs-Elysées." someNumber="None" image="f.jpg" lang2="О, Елисейские поля! О, Елисейские поля!">
+      <audioTime in="145346" out="159142" />
+    </line>
+  </lines>
+</lesson>

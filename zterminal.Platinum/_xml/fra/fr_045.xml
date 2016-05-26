@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="FR_045.wav" dlgName="У телефона" dlgFile="exr\frg045.txt" />
+  <lines>
+    <line lang1="- Pourez-vous me donner le numéro de téléphone de monsieur Jacques Durand," someNumber="None" image="f.jpg" lang2="- Можете ли дать мне номер телефона господина Жака Дюрана,">
+      <audioTime in="0" out="5826" />
+    </line>
+    <line lang1="professeur au Lycée Henri IV?" someNumber="None" image="f.jpg" lang2="учителя лицея имени Генриха IV-го?">
+      <audioTime in="5826" out="8577" />
+    </line>
+    <line lang1="- Très volontiers, mais quelle est son adresse?" someNumber="None" image="f.jpg" lang2="- Пожалуйста, но какой это адрес?">
+      <audioTime in="8577" out="11940" />
+    </line>
+    <line lang1="- 98, rue Lord Byron." someNumber="None" image="f.jpg" lang2="- Улица Лорда Байрона 98.">
+      <audioTime in="11940" out="16016" />
+    </line>
+    <line lang1="- Attendez un instant, je vais consulter l'annuaire du téléphone." someNumber="None" image="f.jpg" lang2="- Подождите минутку, я проверю в списке телефонов.">
+      <audioTime in="16016" out="21110" />
+    </line>
+    <line lang1="Jacque Durand... A, B, C, D...ça y est!" someNumber="None" image="f.jpg" lang2="Жак Дюран... А, Б, Ц, Д... вот.">
+      <audioTime in="21110" out="29345" />
+    </line>
+    <line lang1="Jacques Durand, professeur, 98, rue Lord Byron." someNumber="None" image="f.jpg" lang2="Жак Дюран, профессор, улица Лорда Байрона 98.">
+      <audioTime in="29345" out="35486" />
+    </line>
+    <line lang1="Vous n'avez qu'a appeler Elysées 34-33." someNumber="None" image="f.jpg" lang2="Надо вызвать только Элизе 34-33.">
+      <audioTime in="35486" out="41281" />
+    </line>
+    <line lang1="- Merci. Allô! Allô!" someNumber="None" image="f.jpg" lang2="- Спасибо. Алло! Алло!">
+      <audioTime in="41281" out="44855" />
+    </line>
+    <line lang1="Donnez-moi s'il vous plaît, Elysées 34-33." someNumber="None" image="f.jpg" lang2="Дайте мне, пожалуйста, Элизе 34-33.">
+      <audioTime in="44855" out="50726" />
+    </line>
+    <line lang1="Bon, je répète: Elysées 34-33... Bien. J'attends." someNumber="None" image="f.jpg" lang2="Хорошо, я повторяю: Элизе 34-33. Хорошо, я жду..">
+      <audioTime in="50726" out="60650" />
+    </line>
+    <line lang1="Tiens, j'ai déjà la communication!" someNumber="None" image="f.jpg" lang2="Ну вот, меня уже соединили!">
+      <audioTime in="60650" out="65200" />
+    </line>
+    <line lang1="Allô! Qui est à l'appareil?..." someNumber="None" image="f.jpg" lang2="Алло! Кто у телефона?">
+      <audioTime in="65200" out="68903" />
+    </line>
+    <line lang1="- C'est vous Jacques..." someNumber="None" image="f.jpg" lang2="- Это вы, Жак?...">
+      <audioTime in="68903" out="71788" />
+    </line>
+    <line lang1="Ici Sophie de Pologne..." someNumber="None" image="f.jpg" lang2="Тут Софи из Польши.">
+      <audioTime in="71788" out="74713" />
+    </line>
+    <line lang1="Je suis arrivée il y a deux jours..." someNumber="None" image="f.jpg" lang2="Я приехала два дня тому назад.">
+      <audioTime in="74713" out="78622" />
+    </line>
+    <line lang1="Venez à l'hôtel..." someNumber="None" image="f.jpg" lang2="Придите в гостиницу...">
+      <audioTime in="78622" out="81224" />
+    </line>
+    <line lang1="Ah! à quelle heure?..." someNumber="None" image="f.jpg" lang2="Во сколько часов?...">
+      <audioTime in="81224" out="85124" />
+    </line>
+    <line lang1="Vers 4 heure si vous voulez bien..." someNumber="None" image="f.jpg" lang2="Если хотите, около 4-х часов...">
+      <audioTime in="85124" out="89074" />
+    </line>
+    <line lang1="Avec qui viendrez-vous?" someNumber="None" image="f.jpg" lang2="С кем придёте?">
+      <audioTime in="89074" out="91909" />
+    </line>
+    <line lang1="Avec in de mes amis." someNumber="None" image="f.jpg" lang2="С одним из моих друзей.">
+      <audioTime in="91909" out="94962" />
+    </line>
+    <line lang1="Très bien." someNumber="None" image="f.jpg" lang2="Очень хорошо.">
+      <audioTime in="94962" out="97182" />
+    </line>
+    <line lang1="Alors je vous attends." someNumber="None" image="f.jpg" lang2="В таком случае я вас жду.">
+      <audioTime in="97182" out="99922" />
+    </line>
+    <line lang1="Au revoir." someNumber="None" image="f.jpg" lang2="До свидания.">
+      <audioTime in="99922" out="102641" />
+    </line>
+  </lines>
+</lesson>

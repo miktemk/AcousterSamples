@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="i_011.wav" dic="p011" dlgName="Чье это?" dlgFile="exr\ig011.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Di chi è questa camicia?" someNumber="None" image="dg\011_001.gif" lang2="- Чья это рубашка?">
+      <audioTime in="323" out="2096" />
+    </line>
+    <line lang1="È tua questa camicia, Pietro?" someNumber="None" image="dg\011_002.gif" lang2="Это твоя рубашка, Пьетро?">
+      <audioTime in="2096" out="4233" />
+    </line>
+    <line lang1="- Nossignore." someNumber="None" image="dg\011_002.gif" lang2="- Нет, господин.">
+      <audioTime in="4266" out="5559" />
+    </line>
+    <line lang1="Quella non è la mia camicia." someNumber="None" image="dg\011_002.gif" lang2="Это не моя рубашка.">
+      <audioTime in="5754" out="7412" />
+    </line>
+    <line lang1="Questa è la mia." someNumber="None" image="dg\011_003.gif" lang2="Эта моя рубашка.">
+      <audioTime in="7644" out="9165" />
+    </line>
+    <line lang1="La mia camicia è blu." someNumber="None" image="dg\011_003.gif" lang2="Моя рубашка синяя.">
+      <audioTime in="9165" out="10873" />
+    </line>
+    <line lang1="- Questa è la camicia di Paolo?" someNumber="500" image="dg\011_004.gif" lang2="- Это рубашка Паоло?">
+      <audioTime in="10990" out="13049" />
+    </line>
+    <line lang1="- Sì, forse è la sua, signore." someNumber="None" image="dg\011_004.gif" lang2="- Да, может быть, его, господин.">
+      <audioTime in="12958" out="15456" />
+    </line>
+    <line lang1="La camicia di Paolo è bianca." someNumber="500" image="dg\011_004.gif" lang2="Рубашка Паоло белая.">
+      <audioTime in="15437" out="17826" />
+    </line>
+    <line lang1="- Paolo!" someNumber="None" image="dg\011_005.gif" lang2="- Паоло!">
+      <audioTime in="17741" out="18764" />
+    </line>
+    <line lang1="- Comandi." someNumber="None" image="dg\011_005.gif" lang2="- Да, господин.">
+      <audioTime in="18673" out="19884" />
+    </line>
+    <line lang1="- È tua questa camicia?" someNumber="None" image="dg\011_006.gif" lang2="- Это твоя рубашка?">
+      <audioTime in="19845" out="21709" />
+    </line>
+    <line lang1="- Sissignore." someNumber="None" image="dg\011_006.gif" lang2="- Да, господин.">
+      <audioTime in="21619" out="23108" />
+    </line>
+    <line lang1="- Eccola, tieni!" someNumber="None" image="dg\011_007.gif" lang2="- Вот она, лови!">
+      <audioTime in="22959" out="24544" />
+    </line>
+    <line lang1="- Grazie, signore." someNumber="None" image="dg\011_007.gif" lang2="- Спасибо, господин.">
+      <audioTime in="24453" out="25808" />
+    </line>
+  </lines>
+</lesson>

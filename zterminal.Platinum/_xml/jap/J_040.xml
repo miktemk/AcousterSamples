@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="j_040.wav" dlgName="Я встретил друга" dic="p040" />
+  <lines>
+    <line lang1="ー花子*さん*は*小林*さん*に*でんわ*を*しました。" someNumber="04" image="040_001.jpg" lang2="- Ханако-сан позвонила Кобаяси-сану.">
+      <audioTime in="0" out="5280" />
+    </line>
+    <line lang1="小林*さん*は*花子*さん*に*花*を*上げました。" someNumber="None" image="040_002.jpg" lang2="Кобаяси-сан подарил цветы Ханако-сан.">
+      <audioTime in="5280" out="10219" />
+    </line>
+    <line lang1="―ゆうべ*花子*さん*は*お母さん*に*手紙*を*書きました。" someNumber="04" image="040_003.jpg" lang2="- Вчера Ханако-сан написала письмо своей матери.">
+      <audioTime in="10219" out="15604" />
+    </line>
+    <line lang1="けさ*花子*さん*は*お母さん*に*手紙*を*出しました。" someNumber="None" image="040_004.jpg" lang2="Сегодня утром Ханако-сан отправила письмо матери.">
+      <audioTime in="15604" out="21797" />
+    </line>
+    <line lang1="ーイリナ*さん*は*中村*さん*と*はなしました。" someNumber="08" image="040_005.jpg" lang2="- Ирина-сан разговаривала с Накамура-сан.">
+      <audioTime in="21797" out="26848" />
+    </line>
+    <line lang1="イリナ*さん*は*中村*さん*と*やくそく*しました。" someNumber="None" image="040_006.jpg" lang2="Ирина-сан договорилась с Накамура-сан.">
+      <audioTime in="26848" out="31642" />
+    </line>
+    <line lang1="イリナ*さん*は*中村*さん*と*こうえん*の*きっさてん*で*会いました。" someNumber="None" image="040_007.jpg" lang2="Ирина-сан встретилась с Накамура-сан в кафе в парке.">
+      <audioTime in="31642" out="38045" />
+    </line>
+    <line lang1="イリナ*さん*は*中村*さん*と*友だち*に*なりました。" someNumber="None" image="040_007.jpg" lang2="Ирина-сан подружилась с Накамура-сан.">
+      <audioTime in="38045" out="44094" />
+    </line>
+    <line lang1="―たろう*は*じろう*と*きょうそう*を*しました。" someNumber="08" image="040_009.jpg" lang2="- Таро соревновался с Дзиро.">
+      <audioTime in="44094" out="48762" />
+    </line>
+    <line lang1="それ*から*たろう*は*じろう*と*けんか*をしました。" someNumber="None" image="040_010.jpg" lang2="Потом Таро подрался с Дзиро.">
+      <audioTime in="48762" out="53456" />
+    </line>
+    <line lang1="ーきょ年*ふじた*先生*は*学校*で*日本語*を*おしえました。" someNumber="07" image="040_011.jpg" lang2="- В прошлом году Фудзита-сэнсэй преподавала в школе.">
+      <audioTime in="53456" out="60597" />
+    </line>
+    <line lang1="今日、先生*と*会いました。" someNumber="08" image="040_012.jpg" lang2="Сегодня (я) встретилась с ней.">
+      <audioTime in="60597" out="63843" />
+    </line>
+    <line lang1="先生*と*すこし*さんぽ*しました。" someNumber="None" image="040_012.jpg" lang2="(Я) немного прогулялась с ней.">
+      <audioTime in="63843" out="67563" />
+    </line>
+    <line lang1="私*は*先生*に*しつもん*しました。" someNumber="04" image="040_014.jpg" lang2="Я задала ей вопросы.">
+      <audioTime in="67563" out="71472" />
+    </line>
+    <line lang1="先生*は*私*に*くわしく*こたえました。" someNumber="None" image="040_014.jpg" lang2="Сэнсэй подробно ответила мне.">
+      <audioTime in="71472" out="75818" />
+    </line>
+    <line lang1="ー昨日*バス*の*中*で*友だち*に*会いました。" someNumber="4" image="040_016.jpg" lang2="- Вчера в автобусе (я) встретил друга.">
+      <audioTime in="75818" out="81321" />
+    </line>
+    <line lang1="友だち*と*そうだん*しました。" someNumber="None" image="040_016.jpg" lang2="Я посоветовался с другом.">
+      <audioTime in="81321" out="84668" />
+    </line>
+    <line lang1="友だち*に*母*の*手紙*について*はなしました。" someNumber="127" image="040_018.jpg" lang2="Я рассказал другу о письме матери.">
+      <audioTime in="84668" out="89567" />
+    </line>
+    <line lang1="それ*から*友だち*と*わかれました。" someNumber="None" image="040_019.jpg" lang2="Потом (я) простился с другом.">
+      <audioTime in="89567" out="93468" />
+    </line>
+    <line lang1="友だち*は*バス*を*おりました。" someNumber="05" image="040_019.jpg" lang2="Друг сошел с автобуса.">
+      <audioTime in="93468" out="97504" />
+    </line>
+    <line lang1="ーまさこ*さん、聞きました*か。" someNumber="None" image="040_021.jpg" lang2="- Масако-сан, (Вы) слышали?">
+      <audioTime in="97504" out="102344" />
+    </line>
+    <line lang1="花子*さん*は*小林*さん*と*けっこん*します。" someNumber="08" image="040_022.jpg" lang2="Ханако выходит замуж за Кобаяси.">
+      <audioTime in="102344" out="105305" />
+    </line>
+    <line lang1="ーそんな*こと*ありません*よ。" someNumber="124" image="040_023.jpg" lang2="- Это неправда.">
+      <audioTime in="105305" out="109544" />
+    </line>
+    <line lang1="花子*さん*は*小林*さん*と*わかれました。" someNumber="None" image="040_024.jpg" lang2="Ханако и Кобаяси расстались.">
+      <audioTime in="109544" out="113247" />
+    </line>
+  </lines>
+</lesson>

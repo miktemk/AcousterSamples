@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="FR_062.wav" dlgName="В самолёте" dlgFile="exr\frg062.txt" />
+  <lines>
+    <line lang1="- Nous faisons quatre cent kilomètres à l'heure." someNumber="None" image="f.jpg" lang2="- Мы летим со скоростью четыреста километров в час.">
+      <audioTime in="0" out="3375" />
+    </line>
+    <line lang1="Dans une demi-heure, peut-être un peu plus tôt, nous serons à Varsovie." someNumber="None" image="f.jpg" lang2="Через полчаса, а может быть немного раньше, мы будем в Варшаве.">
+      <audioTime in="3375" out="9641" />
+    </line>
+    <line lang1="- Heureusement pour moi." someNumber="None" image="f.jpg" lang2="- К счастью для меня.">
+      <audioTime in="9641" out="11540" />
+    </line>
+    <line lang1="Je ne me sens pas très bien, je supporte mal les voyages en avion." someNumber="None" image="f.jpg" lang2="Я чувствую себя не очень хорошо и плохо переношу путешествия на самолёте.">
+      <audioTime in="11540" out="17494" />
+    </line>
+    <line lang1="- Alors appelez l'hôtesse et demandez-lui des pastilles de menthe ou du chewing-gum." someNumber="None" image="f.jpg" lang2="- Тогда позовите стюардессу и попросите у неё мятные таблетки или жевательную резину.">
+      <audioTime in="17494" out="24325" />
+    </line>
+    <line lang1="Ça vous fera du bien." someNumber="None" image="f.jpg" lang2="Это вам сделает хорошо.">
+      <audioTime in="24325" out="26310" />
+    </line>
+    <line lang1="- Oh! Ce n'est pas la peine." someNumber="None" image="f.jpg" lang2="- Ох! Не стоит.">
+      <audioTime in="26310" out="28295" />
+    </line>
+    <line lang1="Nous sommes presque au terme de notre voyage." someNumber="None" image="f.jpg" lang2="Мы почти у цели нашего путешествия.">
+      <audioTime in="28295" out="31794" />
+    </line>
+    <line lang1="- Est-ce que vous voyagez pour la première fois au bord de Convert?" someNumber="None" image="f.jpg" lang2="- Вы впервые путешествуете на борту Конвера?">
+      <audioTime in="31794" out="36983" />
+    </line>
+    <line lang1="- Oh, non. J'ai déjà voyagé plusieurs fois à bord d'appareils de ce type." someNumber="None" image="f.jpg" lang2="- О, нет. Я уже путешествовал несколько раз на самолётах этого типа.">
+      <audioTime in="36983" out="43481" />
+    </line>
+    <line lang1="- Mais nous avons complètement oublié de suivre le trajet" someNumber="None" image="f.jpg" lang2="- Но мы совершенно забыли следить за маршрутом,">
+      <audioTime in="43481" out="48212" />
+    </line>
+    <line lang1="et voici que nous approchons déjà de Varsovie." someNumber="None" image="f.jpg" lang2="и вот мы уже приближаемся к Варшаве.">
+      <audioTime in="48212" out="51936" />
+    </line>
+    <line lang1="- En effet. On distinque déjà les contours de la ville." someNumber="None" image="f.jpg" lang2="- Действительно. Можно различить уже очертания города.">
+      <audioTime in="51936" out="57045" />
+    </line>
+    <line lang1="Il est temps de se préparer à atterrir." someNumber="None" image="f.jpg" lang2="Время подготовиться к приземлению.">
+      <audioTime in="57045" out="61430" />
+    </line>
+  </lines>
+</lesson>

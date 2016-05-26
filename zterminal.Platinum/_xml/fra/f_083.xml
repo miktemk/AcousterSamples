@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="f_083.wav" dic="p083" dlgName="Мы хотим взять отпуск." dlgFile="exr\fg083.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Salut, Alain. Entre." someNumber="None" image="dg\083_001.gif" lang2="- Привет Ален. Заходи.">
+      <audioTime in="0" out="1583" />
+    </line>
+    <line lang1="- Salut, Alain. C'est l'heure de déjeuner. Veux-tu nous rejoindre?" someNumber="930" image="dg\083_002.gif" lang2="- Привет Ален. Время обедать. Ты хочешь к нам присоединиться?">
+      <audioTime in="1583" out="4624" />
+    </line>
+    <line lang1="- Non. Merci. J'ai déjà pris mon déjeuner." someNumber="None" image="dg\083_002.gif" lang2="- Нет, спасибо. Я уже пообедал.">
+      <audioTime in="4624" out="6664" />
+    </line>
+    <line lang1="J'ai pris mon déjeuner à midi et demie." someNumber="None" image="dg\083_003.gif" lang2="Я пообедал в половине первого.">
+      <audioTime in="6664" out="8521" />
+    </line>
+    <line lang1="- Je vais te servir une tasse de café." someNumber="60" image="dg\083_003.gif" lang2="- А тебя угощу чашкой кофе.">
+      <audioTime in="8521" out="10288" />
+    </line>
+    <line lang1="- Ne te dérange pas. Je viens de prendre une tasse de café, merci." someNumber="None" image="dg\083_004.gif" lang2="- Не беспокойся. Я только что выпил чашку кофе, спасибо.">
+      <audioTime in="10288" out="13098" />
+    </line>
+    <line lang1="- Passons au salon, Nicole. Nous y prendrons le café." someNumber="None" image="dg\083_005.gif" lang2="- Давайте пойдём в гостиную, Николь. Мы там выпьем кофе.">
+      <audioTime in="13098" out="15774" />
+    </line>
+    <line lang1="- Excuse-moi pour le désordre. Je n'ai pas fait ma chambre." someNumber="None" image="dg\083_005.gif" lang2="- Извини меня за беспорядок. Я не убрал свою комнату.">
+      <audioTime in="15774" out="19361" />
+    </line>
+    <line lang1="Nous faisons nos valises. Demain nous allons partir." someNumber="530" image="dg\083_005.gif" lang2="Мы упаковываем наши чемоданы. Мы собираемся уезжать завтра.">
+      <audioTime in="19361" out="22038" />
+    </line>
+    <line lang1="Réné et moi, nous voulons prendre nos congés." someNumber="None" image="dg\083_006.gif" lang2="Рене и я, мы хотим взять отпуск.">
+      <audioTime in="22038" out="24350" />
+    </line>
+    <line lang1="- Vous avez de la chance." someNumber="None" image="dg\083_006.gif" lang2="- Вам везет.">
+      <audioTime in="24350" out="25843" />
+    </line>
+    <line lang1="- Et toi quand auras-tu des vacances?" someNumber="210" image="dg\083_006.gif" lang2="- А у тебя когда будут каникулы?">
+      <audioTime in="25843" out="27609" />
+    </line>
+    <line lang1="- Je ne sais pas. J'ai déjà pris mon congé cette année." someNumber="None" image="dg\083_006.gif" lang2="- Я не знаю. У меня уже был отпуск в этом году.">
+      <audioTime in="27609" out="30013" />
+    </line>
+    <line lang1="- Où as-tu passé ton congé?" someNumber="None" image="dg\083_006.gif" lang2="- Где ты провел свой отпуск?">
+      <audioTime in="30013" out="31510" />
+    </line>
+    <line lang1="- Je suis resté chez moi." someNumber="None" image="dg\083_006.gif" lang2="- Я остался дома!">
+      <audioTime in="31510" out="32872" />
+    </line>
+  </lines>
+</lesson>

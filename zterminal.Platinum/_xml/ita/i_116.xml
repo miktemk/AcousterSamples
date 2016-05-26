@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_116.wav" dic="p116" dlgName="кого-нибудь,что-нибудь" dlgFile="exr\ig115.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ieri Hai visto qualcuno?" someNumber="340" image="dg\116_001.gif" lang2="- Видел ли ты кого-нибудь вчера?">
+      <audioTime in="70" out="1920" />
+    </line>
+    <line lang1="- No, ieri non ho visto nessuno." someNumber="None" image="dg\116_001.gif" lang2="- Нет, я никого не видел.">
+      <audioTime in="1920" out="4584" />
+    </line>
+    <line lang1="- Hai sentito qualcosa?" someNumber="None" image="dg\116_002.gif" lang2="- Слышал ли ты что-нибудь?">
+      <audioTime in="4766" out="6545" />
+    </line>
+    <line lang1="- No, non ho sentito niente." someNumber="None" image="dg\116_002.gif" lang2="- Нет, я ничего не слышал.">
+      <audioTime in="6545" out="8847" />
+    </line>
+    <line lang1="- Hai parlato con qualcuno?" someNumber="None" image="dg\116_003.gif" lang2="- Разговаривал ли с тобой кто-нибудь?">
+      <audioTime in="8892" out="10884" />
+    </line>
+    <line lang1="- No, non ho parlato con nessuno." someNumber="820" image="dg\116_003.gif" lang2="- Нет, со мной никто не разговаривал.">
+      <audioTime in="10840" out="13278" />
+    </line>
+    <line lang1="- Sei andato da qualche parte ieri?" someNumber="None" image="dg\116_004.gif" lang2="- Ходил ли ты куда-нибудь вчера?">
+      <audioTime in="13445" out="15864" />
+    </line>
+    <line lang1="- No, non sono andato da nessuna parte." someNumber="None" image="dg\116_004.gif" lang2="- Нет, я никуда не ходил.">
+      <audioTime in="15935" out="18638" />
+    </line>
+    <line lang1="- Hai comprato qualcosa stamattina?" someNumber="None" image="dg\116_005.gif" lang2="- Купил ли ты что-нибудь сегодня утром?">
+      <audioTime in="18780" out="21270" />
+    </line>
+    <line lang1="- No, non ho comprato niente." someNumber="None" image="dg\116_005.gif" lang2="- Нет, я ничего не купил.">
+      <audioTime in="21270" out="23619" />
+    </line>
+    <line lang1="- Hai scritto a qualcuno ieri?" someNumber="None" image="dg\116_006.gif" lang2="- Писал ли ты кому-нибудь вчера?">
+      <audioTime in="23690" out="25921" />
+    </line>
+    <line lang1="- No, non ho scritto a nessuno." someNumber="None" image="dg\116_006.gif" lang2="- Нет, я никому не писал.">
+      <audioTime in="25966" out="28385" />
+    </line>
+    <line lang1="- L'ha incontrata qualcuno alla stazione?" someNumber="None" image="dg\116_007.gif" lang2="- Встретил ли Вас кто-нибудь на станции?">
+      <audioTime in="28385" out="31230" />
+    </line>
+    <line lang1="- No, non mi ha incontrato nessuno." someNumber="None" image="dg\116_007.gif" lang2="- Нет, меня никто не встретил.">
+      <audioTime in="31373" out="33934" />
+    </line>
+    <line lang1="- È successo qualcosa?" someNumber="None" image="dg\116_008.gif" lang2="- Случилось ли что-нибудь?">
+      <audioTime in="34076" out="36140" />
+    </line>
+    <line lang1="- No, non è successo niente." someNumber="None" image="dg\116_008.gif" lang2="- Нет, ничего не случилось.">
+      <audioTime in="36140" out="38558" />
+    </line>
+    <line lang1="- È venuto qualcuno mentre io ero assente?" someNumber="None" image="dg\116_009.gif" lang2="- Приходил ли кто-нибудь, когда я отсутствовал?">
+      <audioTime in="38700" out="41618" />
+    </line>
+    <line lang1="- No, nessuno." someNumber="None" image="dg\116_009.gif" lang2="- Нет, никто не приходил.">
+      <audioTime in="41618" out="43198" />
+    </line>
+    <line lang1="- Qualcuno ti ha detto qualcosa?" someNumber="None" image="dg\116_010.gif" lang2="- Сказал ли тебе кто-нибудь что-то?">
+      <audioTime in="43324" out="45530" />
+    </line>
+    <line lang1="- No, nessuno." someNumber="None" image="dg\116_010.gif" lang2="- Нет, мне никто ничего не говорил.">
+      <audioTime in="45530" out="47246" />
+    </line>
+  </lines>
+</lesson>

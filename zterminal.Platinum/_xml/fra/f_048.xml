@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="f_048.wav" dic="p048" dlgName="Вы любите?.. Да..." dlgFile="exr\fg047.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Aimez-vous les œufs?" someNumber="None" image="dg\048_001.gif" lang2="- Вы любите яйца?">
+      <audioTime in="0" out="1113" />
+    </line>
+    <line lang1="- Oui, Je les aime. J'aime les œufs, mais je n'en veux pas." someNumber="450" image="dg\048_001.gif" lang2="- Да, я их люблю. Я люблю яйца, но я их не хочу.">
+      <audioTime in="1113" out="4098" />
+    </line>
+    <line lang1="- Aimez-vous le beurre?" someNumber="None" image="dg\048_002.gif" lang2="- Вы любите масло?">
+      <audioTime in="4098" out="4975" />
+    </line>
+    <line lang1="- Oui, je l'aime. J'aime le beurre, mais je n'en veux pas." someNumber="None" image="dg\048_002.gif" lang2="- Да, я его люблю. Я люблю масло, но я его не хочу.">
+      <audioTime in="4975" out="7657" />
+    </line>
+    <line lang1="- Aimez-vous le miel?" someNumber="930" image="dg\048_003.gif" lang2="- Вы любите мёд?">
+      <audioTime in="7657" out="8533" />
+    </line>
+    <line lang1="- Oui, je l'aime. J'aime le miel, mais je n'en veux pas." someNumber="None" image="dg\048_003.gif" lang2="- Да, я его люблю. Я люблю мёд, но я его не хочу.">
+      <audioTime in="8533" out="11332" />
+    </line>
+    <line lang1="- Aimez-vous les bananes?" someNumber="None" image="dg\048_004.gif" lang2="- Вы любите бананы?">
+      <audioTime in="11332" out="12336" />
+    </line>
+    <line lang1="- Oui, je les aime. J'aime les bananes, mais je n'en veux pas." someNumber="210" image="dg\048_004.gif" lang2="- Да, я их люблю. Я люблю бананы, но я их не хочу.">
+      <audioTime in="12336" out="15367" />
+    </line>
+    <line lang1="- Aimez-vous la confiture?" someNumber="None" image="dg\048_005.gif" lang2="- Вы любите джем?">
+      <audioTime in="15367" out="16447" />
+    </line>
+    <line lang1="- Oui, je l'aime. J'aime la coufiture, mais je n'en veux pas." someNumber="None" image="dg\048_005.gif" lang2="- Да, я его люблю. Я люблю джем, но я его не хочу.">
+      <audioTime in="16447" out="19493" />
+    </line>
+    <line lang1="- Aimez-vous les oranges?" someNumber="None" image="dg\048_006.gif" lang2="- Вы любите апельсины?">
+      <audioTime in="19493" out="20472" />
+    </line>
+    <line lang1="- Oui, je les aime bien. J'aime les oranges mais je n'en veux pas." someNumber="None" image="dg\048_006.gif" lang2="- Да, я их очень люблю. Я люблю апельсины, но я их не хочу.">
+      <audioTime in="20472" out="23631" />
+    </line>
+    <line lang1="- Aimez-vous les glaces?" someNumber="530" image="dg\048_007.gif" lang2="- Вы любите мороженое?">
+      <audioTime in="23631" out="24425" />
+    </line>
+    <line lang1="- Oui, je les aime. J'aime les glaces, mais je n'en veux pas." someNumber="None" image="dg\048_007.gif" lang2="- Да, я его люблю. Я люблю мороженое, но я его не хочу.">
+      <audioTime in="24425" out="27514" />
+    </line>
+    <line lang1="- Aimez-vous le whisky?" someNumber="None" image="dg\048_008.gif" lang2="- Вы любите виски?">
+      <audioTime in="27514" out="28462" />
+    </line>
+    <line lang1="- Oui, je l'aime. J'aime le whisky, mais je n'en veux pas." someNumber="200" image="dg\048_008.gif" lang2="- Да, я его люблю. Я люблю виски, но я его не хочу.">
+      <audioTime in="28462" out="31185" />
+    </line>
+    <line lang1="- Aimez-vous les pommes?" someNumber="None" image="dg\048_009.gif" lang2="- Вы любите яблоки?">
+      <audioTime in="31185" out="32028" />
+    </line>
+    <line lang1="- Oui, je les aime. J'aime les pommes, mais je n'en veux pas." someNumber="None" image="dg\048_009.gif" lang2="- Да, я их люблю. Я люблю яблоки, но я их не хочу.">
+      <audioTime in="32028" out="34781" />
+    </line>
+    <line lang1="- Aimez-vous le vin?" someNumber="None" image="dg\048_010.gif" lang2="- Вы любите вино?">
+      <audioTime in="34781" out="35584" />
+    </line>
+    <line lang1="- Oui, je l'aime. J'aime le vin, mais je n'en veux pas." someNumber="None" image="dg\048_010.gif" lang2="- Да, я его люблю. Я люблю вино, но я его не хочу.">
+      <audioTime in="35584" out="38365" />
+    </line>
+    <line lang1="- Aimez-vous les gâteaux?" someNumber="None" image="dg\048_011.gif" lang2="- Вы любите пирожные?">
+      <audioTime in="38365" out="39228" />
+    </line>
+    <line lang1="- Oui, je les aime. J'aime les gâteaux, mais je n'en veux pas." someNumber="None" image="dg\048_011.gif" lang2="- Да, я их люблю. Я люблю пирожные, но я их не хочу.">
+      <audioTime in="39228" out="41950" />
+    </line>
+    <line lang1="- Aimez-vous la bière?" someNumber="None" image="dg\048_012.gif" lang2="- Вы любите пиво?">
+      <audioTime in="41950" out="42807" />
+    </line>
+    <line lang1="- Oui, je l'aime. Je l'aime, mais je n'en veux pas." someNumber="610" image="dg\048_012.gif" lang2="- Да, я его люблю. Я люблю пиво, но я его не хочу.">
+      <audioTime in="42807" out="44922" />
+    </line>
+  </lines>
+</lesson>

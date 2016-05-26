@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="f_055.wav" dic="p055" dlgName="Семья." dlgFile="exr\fg055.txt" author="Alexander" />
+  <lines>
+    <line lang1="Les Pichon habitent 87, rue de Rivoli." someNumber="210" image="dg\055_001.gif" lang2="Пишоны живут на улице Риволи, 87.">
+      <audioTime in="0" out="2858" />
+    </line>
+    <line lang1="Le matin monsieur Pichon va au travail et les enfants vont à l'école." someNumber="None" image="dg\055_002.gif" lang2="Утром господин Пишон идёт на работу, а дети идут в школу.">
+      <audioTime in="2858" out="6268" />
+    </line>
+    <line lang1="Chaque jour leur père les accompagne à l'école." someNumber="None" image="dg\055_002.gif" lang2="Каждый день их отец провожает их в школу.">
+      <audioTime in="6268" out="8924" />
+    </line>
+    <line lang1="Chaque jour Madame Pichon reste à la maison. Elle fait le ménage." someNumber="200" image="dg\055_003.gif" lang2="Каждый день г-жа Пишон остаётся дома. Она занимается хозяйством.">
+      <audioTime in="8924" out="12194" />
+    </line>
+    <line lang1="Elle prend son déjeuner à midi." someNumber="None" image="dg\055_004.gif" lang2="Она обедает в полдень.">
+      <audioTime in="12194" out="13695" />
+    </line>
+    <line lang1="Après midi d'habitude, elle se rencontre avec ses amis. Souvent ils prennent du thé." someNumber="None" image="dg\055_004.gif" lang2="Днём она обычно встречается со своими друзьями. Часто они пьют чай.">
+      <audioTime in="13695" out="18520" />
+    </line>
+    <line lang1="Le soir les enfants reviennent de l'école. Ils rentrent assez tôt." someNumber="780" image="dg\055_005.gif" lang2="Вечером дети приходят домой из школы. Они возвращаются довольно рано.">
+      <audioTime in="18520" out="22355" />
+    </line>
+    <line lang1="Monsieur Pichon revient de son travail. Il revient à la maison assez tard." someNumber="None" image="dg\055_006.gif" lang2="Господин Пишон возвращается домой с работы. Он возвращается домой довольно поздно.">
+      <audioTime in="22355" out="25906" />
+    </line>
+    <line lang1="Le soir les enfants font leurs devoirs. Puis ils se couchent." someNumber="None" image="dg\055_007.gif" lang2="Вечером дети обычно делают свои домашние задания. Затем они ложатся спать.">
+      <audioTime in="25906" out="30448" />
+    </line>
+    <line lang1="Monsieur Pichon lit son journal, mais parfois lui et sa femme regardent la télé." someNumber="None" image="dg\055_007.gif" lang2="Господин Пишон читает свою газету, но иногда он и его жена смотрят телевизор.">
+      <audioTime in="30448" out="34400" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="j_033.wav" dlgName="Приглашение" dic="p033" />
+  <lines>
+    <line lang1="ー昨日*は*天気*が*わるかった*です*ね。" someNumber="26" image="033_001.jpg" lang2="- Какая вчера была плохая погода, не правда ли!">
+      <audioTime in="0" out="3860" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="033_001.jpg" lang2="- В самом деле.">
+      <audioTime in="3860" out="5402" />
+    </line>
+    <line lang1="ゆうべ、えいがかん*へ*行きました。" someNumber="69" image="033_003.jpg" lang2="Вчера вечером (я) ходил в кино.">
+      <audioTime in="5402" out="7856" />
+    </line>
+    <line lang1="かえり*みち*は*たいへん*さむかった*です。" someNumber="None" image="033_004.jpg" lang2="На обратном пути было очень холодно.">
+      <audioTime in="7856" out="10545" />
+    </line>
+    <line lang1="ー何*の*えいが*を*見ました*か。" someNumber="None" image="033_005.jpg" lang2="- Что за фильм Вы смотрели?">
+      <audioTime in="10545" out="14516" />
+    </line>
+    <line lang1="―イギリス*の*えいが*です。" someNumber="None" image="033_006.jpg" lang2="- Английский фильм.">
+      <audioTime in="14516" out="16553" />
+    </line>
+    <line lang1="イギリス*の*えいが*の*フェスティバル*です。" someNumber="None" image="033_007.jpg" lang2="(Сейчас) фестиваль английских фильмов.">
+      <audioTime in="16553" out="19569" />
+    </line>
+    <line lang1="ぼく*は、今ばん*も*えいがかん*へ*行きます。" someNumber="None" image="033_008.jpg" lang2="Я и сегодня вечером пойду в кино.">
+      <audioTime in="19569" out="23889" />
+    </line>
+    <line lang1="いっしょに*行きましょう。" someNumber="083" image="033_009.jpg" lang2="Может, пойдём вместе.">
+      <audioTime in="23889" out="27165" />
+    </line>
+    <line lang1="ーそう*です*ね。今日*は*ちょっと*いそがしい*です。" someNumber="None" image="033_010.jpg" lang2="- Можно. Но сегодня я немного занята.">
+      <audioTime in="27165" out="31972" />
+    </line>
+    <line lang1="明日*は*どう*です*か。明日*も*行きます*か。" someNumber="165" image="033_011.jpg" lang2="Как насчёт завтра? Вы и завтра пойдёте?">
+      <audioTime in="31972" out="36375" />
+    </line>
+    <line lang1="ーぼく*は*ほとんど*毎ばん*行きます。" someNumber="None" image="033_011.jpg" lang2="- Я хожу почти каждый вечер.">
+      <audioTime in="36375" out="39545" />
+    </line>
+    <line lang1="ーどこ*の*えいがかん*です*か。" someNumber="03" image="033_013.jpg" lang2="- В каком (это) кинотеатре?">
+      <audioTime in="39545" out="42441" />
+    </line>
+    <line lang1="ーしんじゅく*です。" someNumber="None" image="033_014.jpg" lang2="- В Синдзюку.">
+      <audioTime in="42441" out="44041" />
+    </line>
+    <line lang1="ーフェスティバル*は*いつ*はじまりました*か。" someNumber="54" image="033_015.jpg" lang2="- Когда начался фестиваль?">
+      <audioTime in="44041" out="47254" />
+    </line>
+    <line lang1="―先週*から*はじまりました。" someNumber="None" image="033_015.jpg" lang2="- C прошлой недели.">
+      <audioTime in="47254" out="49376" />
+    </line>
+    <line lang1="―いつ*おわります*か。" someNumber="None" image="033_017.jpg" lang2="- И когда закончится?">
+      <audioTime in="49376" out="52071" />
+    </line>
+    <line lang1="―来週*の*月よう日*に*おわります。" someNumber="None" image="033_018.jpg" lang2="- Закончится в следующий понедельник.">
+      <audioTime in="52071" out="55404" />
+    </line>
+    <line lang1="ーじゃ、あした*に*しましょう。" someNumber="083" image="033_019.jpg" lang2="- Ладно, договоримся на завтра.">
+      <audioTime in="55404" out="58350" />
+    </line>
+    <line lang1="明日*は*たぶん*あたたかい*でしょう。" someNumber="105" image="033_020.jpg" lang2="Завтра, наверное, будет тепло.">
+      <audioTime in="58350" out="61293" />
+    </line>
+    <line lang1="ー天気*よほう*を*ききました*か。" someNumber="174" image="033_021.jpg" lang2="- Вы слышали прогноз погоды?">
+      <audioTime in="61293" out="63919" />
+    </line>
+    <line lang1="ーはい、けさ*聞きました。" someNumber="None" image="033_022.jpg" lang2="- Да слышала сегодня утром.">
+      <audioTime in="63919" out="66779" />
+    </line>
+    <line lang1="―何時*に*あいましょう*か。" someNumber="None" image="033_023.jpg" lang2="- В котором часу встретимся?">
+      <audioTime in="66779" out="69568" />
+    </line>
+    <line lang1="―６時*半*に*あいましょう。" someNumber="None" image="033_024.jpg" lang2="- Встретимся в половине седьмого.">
+      <audioTime in="69568" out="72066" />
+    </line>
+    <line lang1="―どこ*で*あいましょう*か。" someNumber="07" image="033_025.jpg" lang2="- Где встретимся?">
+      <audioTime in="72066" out="74482" />
+    </line>
+    <line lang1="―しんじゅく*えき*で*あいましょう。" someNumber="None" image="033_026.jpg" lang2="- Встретимся на станции Синдзюку.">
+      <audioTime in="74482" out="77857" />
+    </line>
+    <line lang1="―しんじゅく*えき*は*むずかしい*です*ね。" someNumber="None" image="033_026.jpg" lang2="- На станции Синдзюку сложно, не правда ли.">
+      <audioTime in="77857" out="81595" />
+    </line>
+    <line lang1="ホーム*が*いちばん*かんたん*でしょう。" someNumber="None" image="033_028.jpg" lang2="Легче всего (встретиться) на платформе.">
+      <audioTime in="81595" out="84254" />
+    </line>
+    <line lang1="―じゃ、３ばんせん*の*ホーム*の*まん中*で*会いましょう。" someNumber="None" image="033_028.jpg" lang2="- Ладно встретимся в центре платформы третьей линии.">
+      <audioTime in="84254" out="89039" />
+    </line>
+    <line lang1="―そう*しましょう。じゃ、また*明日。" someNumber="None" image="033_028.jpg" lang2="- Так и сделаем. Ладно, до завтра.">
+      <audioTime in="89039" out="92285" />
+    </line>
+  </lines>
+</lesson>

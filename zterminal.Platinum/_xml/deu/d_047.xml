@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="d_047.wav" dic="p047" dlgName="Угощение.  " dlgFile="exr\dg047.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Mögen Sie Kaffee, Frau Müller?" someNumber="680" image="dg\047_001.gif" lang2="- Вы любите кофе, госпожа Мюллер?">
+      <audioTime in="65" out="2216" />
+    </line>
+    <line lang1="- Ja." someNumber="680" image="dg\047_001.gif" lang2="- Да.">
+      <audioTime in="2673" out="3193" />
+    </line>
+    <line lang1="- #Möchten Sie eine Tasse?" someNumber="70" image="dg\047_002.gif" lang2="- Хотите чашечку?">
+      <audioTime in="3553" out="4791" />
+    </line>
+    <line lang1="- Ja, bitte schön, Frau Richter." someNumber="70" image="dg\047_002.gif" lang2="- Да, пожалуйста, госпожа Рихтер.">
+      <audioTime in="5247" out="7171" />
+    </line>
+    <line lang1="- #Möchten Sie Zucker?" someNumber="680" image="dg\047_003.gif" lang2="- Хотите сахару?">
+      <audioTime in="7822" out="8963" />
+    </line>
+    <line lang1="- Ja, bitte schön." someNumber="680" image="dg\047_003.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="9191" out="10071" />
+    </line>
+    <line lang1="- #Möchten Sie Milch?" someNumber="None" image="dg\047_004.gif" lang2="- Хотите молока?">
+      <audioTime in="10723" out="11766" />
+    </line>
+    <line lang1="- Nein, danke." someNumber="None" image="dg\047_004.gif" lang2="- Нет, спасибо.">
+      <audioTime in="11962" out="12875" />
+    </line>
+    <line lang1="Ich #mag keine Milch im Kaffee." someNumber="None" image="dg\047_004.gif" lang2="Я не люблю молоко в кофе.">
+      <audioTime in="13103" out="14668" />
+    </line>
+    <line lang1="Ich #mag schwarzen Kaffee." someNumber="None" image="dg\047_004.gif" lang2="Мне нравится чёрный кофе.">
+      <audioTime in="15058" out="16525" />
+    </line>
+    <line lang1="- #Mögen Sie Kekse?" someNumber="None" image="dg\047_005.gif" lang2="- Вы любите печенье?">
+      <audioTime in="16949" out="17959" />
+    </line>
+    <line lang1="- Ja." someNumber="None" image="dg\047_005.gif" lang2="- Да.">
+      <audioTime in="18350" out="18775" />
+    </line>
+    <line lang1="- #Möchten Sie ein paar?" someNumber="80" image="dg\047_006.gif" lang2="- Хотите одно?">
+      <audioTime in="19231" out="20143" />
+    </line>
+    <line lang1="- Ja, danke schön." someNumber="80" image="dg\047_006.gif" lang2="- Да, спасибо.">
+      <audioTime in="20469" out="21284" />
+    </line>
+  </lines>
+</lesson>

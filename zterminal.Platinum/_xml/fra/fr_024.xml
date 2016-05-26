@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="FR_024.wav" dlgName="Французский язык" dlgFile="exr\frg024.txt" />
+  <lines>
+    <line lang1="- Oui, j'aime la langue française." someNumber="None" image="f.jpg" lang2="- Да, я люблю французский язык.">
+      <audioTime in="0" out="3932" />
+    </line>
+    <line lang1="- Mais, qu'est-ce qui vous plaît surtout dans notre langue?" someNumber="None" image="f.jpg" lang2="- А, что вам особенно нравится в нашем языке?">
+      <audioTime in="3932" out="7314" />
+    </line>
+    <line lang1="- Pour répondre à cette question, je suis amenée à faire les mêmes constatations" someNumber="None" image="f.jpg" lang2="- Чтоб ответить на этот вопрос, я должна отметить те же качества,">
+      <audioTime in="7314" out="14630" />
+    </line>
+    <line lang1="que beaucoup d'autres ont déjà faites avant moi." someNumber="None" image="f.jpg" lang2="которые были отмечены уже многими передо мной.">
+      <audioTime in="14630" out="18254" />
+    </line>
+    <line lang1="Et bien, ce qui me plaît surtout dans le français," someNumber="None" image="f.jpg" lang2="Итак, то, что мне особенно нравится во французском языке -">
+      <audioTime in="18254" out="23251" />
+    </line>
+    <line lang1="c'est la précision et la simplicité de l'expression." someNumber="None" image="f.jpg" lang2="это точность и простота выражения.">
+      <audioTime in="23251" out="28359" />
+    </line>
+    <line lang1="- En effet, quand on parle de la langue française," someNumber="None" image="f.jpg" lang2="- Действительно, когда говорят о французском языке,">
+      <audioTime in="28359" out="32206" />
+    </line>
+    <line lang1="on pense toujours à la clarté, à la précision, à la grâce," someNumber="None" image="f.jpg" lang2="думают всегда о ясности, точности, прелести,">
+      <audioTime in="32206" out="37500" />
+    </line>
+    <line lang1="à la majesté et à la finesse de cette langue." someNumber="None" image="f.jpg" lang2="богатстве и остроумии этого языка.">
+      <audioTime in="37500" out="41781" />
+    </line>
+    <line lang1="- Oui, ce sont là des formules devenues proverbiales." someNumber="None" image="f.jpg" lang2="- Да, это определения, которые стали общеизвестными.">
+      <audioTime in="41781" out="46629" />
+    </line>
+    <line lang1="Mais j'aime aussi le français" someNumber="None" image="f.jpg" lang2="Но я люблю также французский язык,">
+      <audioTime in="46629" out="50055" />
+    </line>
+    <line lang1="parce que c'était la langue des hommes tels que Louis Pasteur," someNumber="None" image="f.jpg" lang2="потому, что это язык таких людей, как Луи Пастер,">
+      <audioTime in="50055" out="55601" />
+    </line>
+    <line lang1="Pierre Curie et Frédéric Joliot." someNumber="None" image="f.jpg" lang2="Пьер Кюри и Фридерик Жолио.">
+      <audioTime in="55601" out="59623" />
+    </line>
+    <line lang1="J'aime le français pour sa poésie, sa prose et son théâtre." someNumber="None" image="f.jpg" lang2="Люблю французский из-за его поэзии, прозы и его театра.">
+      <audioTime in="59623" out="66717" />
+    </line>
+    <line lang1="- Quels sont vos auteurs français préférés?" someNumber="None" image="f.jpg" lang2="- Какие французске писатели ваши любимые?">
+      <audioTime in="66717" out="70090" />
+    </line>
+    <line lang1="- Ce sont Balzac, Stendhal et Anatole France." someNumber="None" image="f.jpg" lang2="- Бальзак, Стендаль, Анатоль Франс.">
+      <audioTime in="70090" out="76152" />
+    </line>
+    <line lang1="Grâce à ma connaissance du français, j'ai pu lire dans leur original presque toutes les œuvres de ces auteurs." someNumber="None" image="f.jpg" lang2="Благодаря своему знанию французского я могла читать в оригинале почти все произведения этих авторов.">
+      <audioTime in="76152" out="85625" />
+    </line>
+    <line lang1="- Mes félicitations." someNumber="None" image="f.jpg" lang2="- Поздравляю.">
+      <audioTime in="85625" out="87337" />
+    </line>
+    <line lang1="Vous avez été bien récompensée de la peine" someNumber="None" image="f.jpg" lang2="Вы были хорошо вознаграждены за свой труд,">
+      <audioTime in="87337" out="91040" />
+    </line>
+    <line lang1="que vous vous êtes donnée pour apprendre notre langue." someNumber="None" image="f.jpg" lang2="который вы вложили в то, чтобы освоить наш язык.">
+      <audioTime in="91040" out="94505" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="d_013.wav" dic="p013" dlgName="Какого цвета твоё платье?" dlgFile="exr\dg013.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Welche Farbe #hat dein neues Kleid?" someNumber="510" image="dg\013_001.gif" lang2="- Какого цвета твоё новое платье?">
+      <audioTime in="138" out="2696" />
+    </line>
+    <line lang1="- Es #ist grün." someNumber="510" image="dg\013_001.gif" lang2="- Оно зелёное.">
+      <audioTime in="2938" out="4148" />
+    </line>
+    <line lang1="#Komm nach oben und #1schau es #2an." someNumber="630" image="dg\013_002.gif" lang2="Приходи наверх и посмотри.">
+      <audioTime in="4355" out="6049" />
+    </line>
+    <line lang1="- Danke schön." someNumber="630" image="dg\013_002.gif" lang2="- Спасибо.">
+      <audioTime in="6049" out="7178" />
+    </line>
+    <line lang1="- #Schau, das #ist es." someNumber="290" image="dg\013_003.gif" lang2="- Смотри, вот оно!">
+      <audioTime in="7501" out="8883" />
+    </line>
+    <line lang1="- Das #ist ein schönes Kleid." someNumber="290" image="dg\013_003.gif" lang2="- Это красивое платье.">
+      <audioTime in="9505" out="11062" />
+    </line>
+    <line lang1="Es #ist sehr elegant." someNumber="290" image="dg\013_003.gif" lang2="Оно очень нарядное.">
+      <audioTime in="11304" out="13204" />
+    </line>
+    <line lang1="- Mein Hut #ist auch neu." someNumber="340" image="dg\013_004.gif" lang2="- Моя шляпа новая тоже.">
+      <audioTime in="13688" out="15175" />
+    </line>
+    <line lang1="- Welche Farbe #hat er?" someNumber="340" image="dg\013_004.gif" lang2="- Какого она цвета?">
+      <audioTime in="15555" out="17041" />
+    </line>
+    <line lang1="- Er #hat dieselbe Farbe." someNumber="370" image="dg\013_005.gif" lang2="- Она того же самого цвета.">
+      <audioTime in="17214" out="18978" />
+    </line>
+    <line lang1="Er #ist auch grün." someNumber="370" image="dg\013_005.gif" lang2="Она зелёная тоже.">
+      <audioTime in="19081" out="20326" />
+    </line>
+    <line lang1="- Das #ist ein entzückender Hut." someNumber="290" image="dg\013_006.gif" lang2="- Это прелестная шляпа!">
+      <audioTime in="20983" out="22780" />
+    </line>
+  </lines>
+</lesson>

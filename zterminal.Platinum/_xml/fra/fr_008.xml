@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="FR_008.wav" dlgName="План Парижа" dlgFile="exr\frg008.txt" />
+  <lines>
+    <line lang1="- Que regardez-vous?" someNumber="None" image="f.jpg" lang2="- На что вы смотрите?">
+      <audioTime in="0" out="1696" />
+    </line>
+    <line lang1="- Je regarde le plan de Paris." someNumber="None" image="f.jpg" lang2="- Я изучаю план Парижа.">
+      <audioTime in="1696" out="5136" />
+    </line>
+    <line lang1="N'oubliez pas que la semaine prochaine je pars pour la capitale de la France." someNumber="None" image="f.jpg" lang2="Не забывайте, что на будущей неделе я еду в столицу Франции.">
+      <audioTime in="5136" out="11828" />
+    </line>
+    <line lang1="- En attendant vous visitez la ville en déplaçant votre doigt sur ce plan." someNumber="None" image="f.jpg" lang2="- Пока что вы посещаете город, водя пальцем по плану.">
+      <audioTime in="11828" out="17220" />
+    </line>
+    <line lang1="- Oui, c'est bien ça." someNumber="None" image="f.jpg" lang2="- Да, действительно.">
+      <audioTime in="17220" out="19800" />
+    </line>
+    <line lang1="Mais regardez ce petit plan des monuments de Paris." someNumber="None" image="f.jpg" lang2="Но посмотрите на этот маленький план памятников Парижа.">
+      <audioTime in="19800" out="24140" />
+    </line>
+    <line lang1="Nous allons parcourir ensemble les rues et les places de la capitale de la douce France." someNumber="None" image="f.jpg" lang2="Мы вместе посетим улицы и площади столицы милой Франции.">
+      <audioTime in="24140" out="32578" />
+    </line>
+    <line lang1="- Avec plaisir!" someNumber="None" image="f.jpg" lang2="- С удовольствием!">
+      <audioTime in="32578" out="34520" />
+    </line>
+    <line lang1="- Nous voici donc sur la place de l'Opéra." someNumber="None" image="f.jpg" lang2="- Вот мы на площади Оперы.">
+      <audioTime in="34520" out="38092" />
+    </line>
+    <line lang1="Devant nous, nous avons la colonne Vendôme et à gauche l'église de la Madelaine." someNumber="None" image="f.jpg" lang2="Перед нами колонна Вандом, а налево церковь Мадлэн.">
+      <audioTime in="38092" out="46168" />
+    </line>
+    <line lang1="- Ah! Que de merveilles! Paris est vraiment une ville magnifique!" someNumber="None" image="f.jpg" lang2="- Ах! Что за чудеса! Париж - это действительно замечательный город.">
+      <audioTime in="46168" out="52090" />
+    </line>
+    <line lang1="- Et dire que je vais voir tout cela!" someNumber="None" image="f.jpg" lang2="- Подумайте только, что я увижу всё это!">
+      <audioTime in="52090" out="56497" />
+    </line>
+  </lines>
+</lesson>

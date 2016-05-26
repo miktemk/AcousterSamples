@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="j_101.wav" dlgName="Похоже, кто-то есть!" dic="p101" />
+  <lines>
+    <line lang1="ー楽しい*パーティー*な*のに、山田*さん*は*どうして*来ない*ん*です*か。" someNumber="157" image="101_001.jpg" lang2="- Почему Ямада-сан не пришёл на такую приятную вечеринку?">
+      <audioTime in="0" out="5281" />
+    </line>
+    <line lang1="ー用事*が*ある*ん*だ*そう*です。" someNumber="106" image="101_002.jpg" lang2="- Сказал, что у него есть дела.">
+      <audioTime in="5281" out="7244" />
+    </line>
+    <line lang1="ー斉藤*さん*は*どうして*病院*へ*行く*ん*です*か。" someNumber="None" image="101_003.jpg" lang2="- Почему Сайто-сан идёт в больницу?">
+      <audioTime in="7244" out="12527" />
+    </line>
+    <line lang1="ー友達*の*見舞い*に*行く*ん*だ*そう*です。" someNumber="None" image="101_004.jpg" lang2="- Сказал, что идёт навестить товарища.">
+      <audioTime in="12527" out="15458" />
+    </line>
+    <line lang1="ー隣*の*へや*に*誰*か*いる*よう*です。話し声*が*聞こえます。" someNumber="106" image="101_005.jpg" lang2="- В соседней комнате, похоже, кто-то есть! Слышны голоса.">
+      <audioTime in="15458" out="22417" />
+    </line>
+    <line lang1="隣*の*へや*に*誰*か*いる*らしい*です。" someNumber="None" image="101_005.jpg" lang2="В соседней комнате, по-видимому, кто-то есть!">
+      <audioTime in="22417" out="26141" />
+    </line>
+    <line lang1="ーあの人たち*は*皆、ひま*な*よう*です。" someNumber="106" image="101_007.jpg" lang2="- Они все, похоже, ничем не заняты.">
+      <audioTime in="26141" out="31756" />
+    </line>
+    <line lang1="テレビ*を*見て*ばかり*います。" someNumber="123" image="101_007.jpg" lang2="Только и делают, что смотрят телевизор.">
+      <audioTime in="31756" out="33882" />
+    </line>
+    <line lang1="あの人たち*は*皆、暇*らしい*です。" someNumber="None" image="101_007.jpg" lang2="Они все, по-видимому, ничем не заняты.">
+      <audioTime in="33882" out="38509" />
+    </line>
+    <line lang1="―中島*さん*の*奥さん*は*顔*が*日本人*の*よう*です*ね。" someNumber="None" image="101_010.jpg" lang2="- Супруга господина Накадзима похожа лицом на японку, не так ли?">
+      <audioTime in="38509" out="44409" />
+    </line>
+    <line lang1="―そう*です*ね。" someNumber="None" image="101_011.jpg" lang2="- В самом деле!">
+      <audioTime in="44409" out="46315" />
+    </line>
+    <line lang1="この*５年間*で*考え方*も*日本人*らしく*なりました。" someNumber="106" image="101_011.jpg" lang2="За эти пять лет и образ мыслей у неё стал таким, как у японцев.">
+      <audioTime in="46315" out="50977" />
+    </line>
+    <line lang1="ー東京*の*近く*に*は*成田*空港*の*よう*な*大き*な*空港*が*他*に*も*あります*か。" someNumber="None" image="101_013.jpg" lang2="- Есть ли рядом с Токио другой такой же большой аэропорт, как Нарита?">
+      <audioTime in="50977" out="57810" />
+    </line>
+    <line lang1="ー羽田*空港*が*あります。" someNumber="None" image="101_014.jpg" lang2="- Есть аэропорт Ханэда.">
+      <audioTime in="57810" out="61383" />
+    </line>
+    <line lang1="ー日本人*は*働き蜂*だ*と*言われています。なぜ*です*か。" someNumber="95" image="101_015.jpg" lang2="- Японцев называют рабочими пчелками. Почему?">
+      <audioTime in="61383" out="66936" />
+    </line>
+    <line lang1="―蜂*の*よう*に*いっしょうけんめい*働いている*から*です。" someNumber="None" image="101_016.jpg" lang2="- Потому что они работают старательно, как пчелы.">
+      <audioTime in="66936" out="72677" />
+    </line>
+    <line lang1="ー人の物*を*盗む*よう*な*悪い*こと*を*して*は*いけません。" someNumber="None" image="101_017.jpg" lang2="- Нельзя совершать дурных поступков, таких, как воровство.">
+      <audioTime in="72677" out="77488" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="101_017.jpg" lang2="- Ясно.">
+      <audioTime in="77488" out="78253" />
+    </line>
+    <line lang1="ー火事*の*よう*な*危ない*時*に*は、この*出口*から*逃げて*下さい。" someNumber="None" image="101_019.jpg" lang2="- В опасных случаях, таких как пожар, выбегайте из этого выхода.">
+      <audioTime in="78253" out="84009" />
+    </line>
+    <line lang1="―わかりました。" someNumber="None" image="101_020.jpg" lang2="- Понятно.">
+      <audioTime in="84009" out="86609" />
+    </line>
+  </lines>
+</lesson>

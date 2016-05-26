@@ -1,0 +1,110 @@
+<lesson>
+  <header wav="FR_015.wav" dlgName="На почте" dlgFile="exr\frg015.txt" />
+  <lines>
+    <line lang1="- Où allez-vous Sophie?" someNumber="None" image="f.jpg" lang2="- Куда вы идёте, Софи?">
+      <audioTime in="0" out="2250" />
+    </line>
+    <line lang1="- Au bureau de poste." someNumber="None" image="f.jpg" lang2="- На почту.">
+      <audioTime in="2250" out="4405" />
+    </line>
+    <line lang1="Je vais téléphoner à notre ami André pour l'inviter à venir chez nous." someNumber="None" image="f.jpg" lang2="Я иду позвонить нашему другу Андрэ, чтобы его пригласить к нам.">
+      <audioTime in="4405" out="10119" />
+    </line>
+    <line lang1="Nous organisons une partie de bridge et il nous manque un joueur." someNumber="None" image="f.jpg" lang2="Мы организуем игру в бридж, и нам не хватает одного игрока.">
+      <audioTime in="10119" out="15441" />
+    </line>
+    <line lang1="- André aime beaucoup les cartes." someNumber="None" image="f.jpg" lang2="- Андрэ очень любит карты.">
+      <audioTime in="15441" out="17870" />
+    </line>
+    <line lang1="- Et c'est pourquoi je veux l'inviter à venir jouer avec nous." someNumber="None" image="f.jpg" lang2="- Вот именно, потому я и хочу его пригласить поиграть с нами.">
+      <audioTime in="17870" out="21848" />
+    </line>
+    <line lang1="- Est-ce que je peux vous accompagner à la poste?" someNumber="None" image="f.jpg" lang2="- Могу ли вас проводить на почту?">
+      <audioTime in="21848" out="24453" />
+    </line>
+    <line lang1="- Vous me ferez grand plaisir." someNumber="None" image="f.jpg" lang2="- Мне будет очень приятно.">
+      <audioTime in="24453" out="27111" />
+    </line>
+    <line lang1="- Est-ce que le bureau de poste est loin d'ici?" someNumber="None" image="f.jpg" lang2="- Почта далеко отсюда?">
+      <audioTime in="27111" out="30166" />
+    </line>
+    <line lang1="- Non, c'est tout près." someNumber="None" image="f.jpg" lang2="- Нет, это совсем близко.">
+      <audioTime in="30166" out="32240" />
+    </line>
+    <line lang1="Regardez, c'est justement cette maison blanche en face de nous." someNumber="None" image="f.jpg" lang2="Смотрите, это вот этот белый дом, напротив нас.">
+      <audioTime in="32240" out="36817" />
+    </line>
+    <line lang1="Il n'y a qu'à traverser la rue." someNumber="None" image="f.jpg" lang2="Надо только перейти улицу.">
+      <audioTime in="36817" out="39452" />
+    </line>
+    <line lang1="- Alors, prenons le passage clouté qui est là-bas." someNumber="None" image="f.jpg" lang2="- В таком случае перейдем там, где переход.">
+      <audioTime in="39452" out="42640" />
+    </line>
+    <line lang1="- Le signal est justement au rouge, dépêchons-nous." someNumber="None" image="f.jpg" lang2="- Как раз красный сигнал, надо торопиться.">
+      <audioTime in="42640" out="46891" />
+    </line>
+    <line lang1="- Enfin, nous y voilà." someNumber="None" image="f.jpg" lang2="- Наконец, мы пришли.">
+      <audioTime in="46891" out="50087" />
+    </line>
+    <line lang1="Attendez-moi devant la cabine, je vais prendre un jeton." someNumber="None" image="f.jpg" lang2="Подождите меня возле телефонной будки, я сейчас возьму жетон.">
+      <audioTime in="50087" out="54768" />
+    </line>
+    <line lang1="- Donnez-moi un jeton pour le téléphone, s'il vous plaît." someNumber="None" image="f.jpg" lang2="- Дайте мне, пожалуйста, один жетон для телефона.">
+      <audioTime in="54768" out="59552" />
+    </line>
+    <line lang1="- Voilà, mademoiselle." someNumber="None" image="f.jpg" lang2="- Пожалуйста, мадмуазель.">
+      <audioTime in="59552" out="61124" />
+    </line>
+    <line lang1="- Merci. A propos est-ce que la cabine est libre?" someNumber="None" image="f.jpg" lang2="- Спасибо. Кстати, телефонная будка свободна?">
+      <audioTime in="61124" out="65716" />
+    </line>
+    <line lang1="- Oui, vous pouvez téléphoner." someNumber="None" image="f.jpg" lang2="- Да можете звонить.">
+      <audioTime in="65716" out="67974" />
+    </line>
+    <line lang1="- Allô! Allô! Je veux parler à monsieur André." someNumber="None" image="f.jpg" lang2="- Алло. Алло. Я хочу говорить с Андрэ.">
+      <audioTime in="67974" out="73643" />
+    </line>
+    <line lang1="- Ne quittez pas, je vous prie." someNumber="None" image="f.jpg" lang2="- Подождите, пожалуйста.">
+      <audioTime in="73643" out="75281" />
+    </line>
+    <line lang1="- Allô! C'est vous André?" someNumber="None" image="f.jpg" lang2="- Алло. Это вы Андрэ?">
+      <audioTime in="75281" out="78460" />
+    </line>
+    <line lang1="- Oui, c'est moi! Bonjour, Sophie." someNumber="None" image="f.jpg" lang2="- Да это я. Здравствуй, Софи.">
+      <audioTime in="78460" out="81627" />
+    </line>
+    <line lang1="Parlez un peu plus fort, je ne vous entends pas bien." someNumber="None" image="f.jpg" lang2="Говорите немного громче, я вас плохо слышу.">
+      <audioTime in="81627" out="85889" />
+    </line>
+    <line lang1="- Et maintenant vous m'entendez?" someNumber="None" image="f.jpg" lang2="- А теперь вы меня слышите?">
+      <audioTime in="85889" out="89063" />
+    </line>
+    <line lang1="- Oui, très bien. Comment allez-vous?" someNumber="None" image="f.jpg" lang2="- Да, очень хорошо. Как вы себя чувствуете?">
+      <audioTime in="89063" out="91994" />
+    </line>
+    <line lang1="- Très bien, merci." someNumber="None" image="f.jpg" lang2="- Очень хорошо, спасибо.">
+      <audioTime in="91994" out="94246" />
+    </line>
+    <line lang1="Ecoutez, Andrè, pouvez-vous venir chez nous ce soir?" someNumber="None" image="f.jpg" lang2="Слушайте, Андрэ, можете вы прийти к нам сегодня вечером?">
+      <audioTime in="94246" out="98666" />
+    </line>
+    <line lang1="Nous organisons une partie de bridge." someNumber="None" image="f.jpg" lang2="Мы организуем игру в бридж.">
+      <audioTime in="98666" out="101434" />
+    </line>
+    <line lang1="- Très volontiers, mais à quelle heure?" someNumber="None" image="f.jpg" lang2="- Охотно, но во сколько часов?">
+      <audioTime in="101434" out="104040" />
+    </line>
+    <line lang1="- Vers sept heures." someNumber="None" image="f.jpg" lang2="- Около семи часов.">
+      <audioTime in="104040" out="106135" />
+    </line>
+    <line lang1="- Avec plaisir." someNumber="None" image="f.jpg" lang2="- С удовольствием.">
+      <audioTime in="106135" out="107796" />
+    </line>
+    <line lang1="- Alors, à ce soir!" someNumber="None" image="f.jpg" lang2="- Тогда, до встречи сегодня вечером.">
+      <audioTime in="107796" out="109906" />
+    </line>
+    <line lang1="- A bientôt, Sophie." someNumber="None" image="f.jpg" lang2="- Пока, Софи.">
+      <audioTime in="109906" out="112121" />
+    </line>
+  </lines>
+</lesson>

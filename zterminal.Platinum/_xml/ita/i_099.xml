@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="i_099.wav" dic="p099" dlgName="Ты ушибся?" dlgFile="exr\ig099.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Oh!" someNumber="660" image="dg\099_001.gif" lang2="- Ой!">
+      <audioTime in="84" out="927" />
+    </line>
+    <line lang1="- Claudio, cos'è successo?" someNumber="None" image="dg\099_002.gif" lang2="- Что случилось, Клаудио?">
+      <audioTime in="970" out="2741" />
+    </line>
+    <line lang1="- Sono scivolato e sono caduto dalle scale." someNumber="None" image="dg\099_002.gif" lang2="- Я поскользнулся и упал с лестницы.">
+      <audioTime in="2741" out="5273" />
+    </line>
+    <line lang1="- Ti sei fatto male?" someNumber="None" image="dg\099_002.gif" lang2="- Ты ушибся?">
+      <audioTime in="5230" out="6574" />
+    </line>
+    <line lang1="- Sì." someNumber="None" image="dg\099_003.gif" lang2="- Да.">
+      <audioTime in="6530" out="7071" />
+    </line>
+    <line lang1="Penso di essermi fatto male alla schiena." someNumber="None" image="dg\099_003.gif" lang2="Я думаю, что я ушиб спину.">
+      <audioTime in="7044" out="9612" />
+    </line>
+    <line lang1="- Prova ad alzarti." someNumber="None" image="dg\099_004.gif" lang2="- Попробуй встать.">
+      <audioTime in="9618" out="10926" />
+    </line>
+    <line lang1="Puoi alzarti?" someNumber="890" image="dg\099_004.gif" lang2="Ты можешь встать?">
+      <audioTime in="10920" out="12276" />
+    </line>
+    <line lang1="Aspetta." someNumber="930" image="dg\099_004.gif" lang2="Вот так.">
+      <audioTime in="12403" out="13583" />
+    </line>
+    <line lang1="Adesso ti aiuto." someNumber="None" image="dg\099_004.gif" lang2="Давай я тебе помогу.">
+      <audioTime in="13500" out="14807" />
+    </line>
+    <line lang1="- Scusami, Patrizia." someNumber="None" image="dg\099_005.gif" lang2="- Извини, Патриция.">
+      <audioTime in="14934" out="16408" />
+    </line>
+    <line lang1="Temo di non potermi alzare." someNumber="None" image="dg\099_005.gif" lang2="Боюсь, что я не могу встать.">
+      <audioTime in="16453" out="18309" />
+    </line>
+    <line lang1="- Penso che sia meglio che ti visiti un dottore." someNumber="None" image="dg\099_006.gif" lang2="- Я думаю, что будет лучше, если тебя осмотрит доктор.">
+      <audioTime in="18351" out="20882" />
+    </line>
+    <line lang1="Telefonerò al dottore Grossi." someNumber="None" image="dg\099_006.gif" lang2="Я позвоню доктору Гросси.">
+      <audioTime in="20967" out="22992" />
+    </line>
+    <line lang1="- Il dottore ha detto che viene subito." someNumber="None" image="dg\099_007.gif" lang2="- Доктор сказал, что немедленно приедет.">
+      <audioTime in="23118" out="25439" />
+    </line>
+    <line lang1="Sono sicura che hai bisogno di una lastra." someNumber="None" image="dg\099_007.gif" lang2="Я уверена, что тебе надо сделать рентген.">
+      <audioTime in="25523" out="28021" />
+    </line>
+  </lines>
+</lesson>

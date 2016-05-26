@@ -1,0 +1,125 @@
+<lesson>
+  <header wav="i_012.wav" dic="p012" dlgName="Чей это?.. Это мой..." dlgFile="exr\ig011.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Di chi è questa borsa?" someNumber="500" image="dg\012_001.gif" lang2="- Чья это сумка?">
+      <audioTime in="493" out="1977" />
+    </line>
+    <line lang1="È della signora Verdini?" someNumber="None" image="dg\012_001.gif" lang2="Это госпожи Вердини?">
+      <audioTime in="2613" out="5004" />
+    </line>
+    <line lang1="- No, non è della signora Verdini." someNumber="None" image="dg\012_001.gif" lang2="- Нет, это не госпожи Вердини.">
+      <audioTime in="4883" out="7507" />
+    </line>
+    <line lang1="È di Stella." someNumber="None" image="dg\012_001.gif" lang2="Это Стэллы.">
+      <audioTime in="7351" out="8974" />
+    </line>
+    <line lang1="- Di chi è questa macchina?" someNumber="320" image="dg\012_002.gif" lang2="- Чья это машина?">
+      <audioTime in="9020" out="11122" />
+    </line>
+    <line lang1="È del signor Fortini?" someNumber="None" image="dg\012_002.gif" lang2="Это господина Фортини?">
+      <audioTime in="11132" out="13256" />
+    </line>
+    <line lang1="- No, non è del signor Fortini." someNumber="None" image="dg\012_002.gif" lang2="- Нет, это не господина Фортини.">
+      <audioTime in="13235" out="16006" />
+    </line>
+    <line lang1="È la macchina di Paolo." someNumber="None" image="dg\012_002.gif" lang2="Это машина Паоло.">
+      <audioTime in="15859" out="17684" />
+    </line>
+    <line lang1="- Di chi è questo cappotto?" someNumber="None" image="dg\012_003.gif" lang2="- Чьё это пальто?">
+      <audioTime in="17629" out="19641" />
+    </line>
+    <line lang1="È di Stella?" someNumber="None" image="dg\012_003.gif" lang2="Это Стэллы?">
+      <audioTime in="19596" out="20996" />
+    </line>
+    <line lang1="- No, non è di Stella." someNumber="None" image="dg\012_003.gif" lang2="- Нет, это не Стэллы.">
+      <audioTime in="20910" out="23246" />
+    </line>
+    <line lang1="È della signora Bianchi." someNumber="None" image="dg\012_003.gif" lang2="Это госпожи Бианки.">
+      <audioTime in="23144" out="25303" />
+    </line>
+    <line lang1="- Di chi è quest'ombrello?" someNumber="None" image="dg\012_004.gif" lang2="- Чей это зонтик?">
+      <audioTime in="25237" out="27260" />
+    </line>
+    <line lang1="È di Paolo?" someNumber="None" image="dg\012_004.gif" lang2="Это Паоло?">
+      <audioTime in="27169" out="28524" />
+    </line>
+    <line lang1="- No, non è di Paolo." someNumber="None" image="dg\012_004.gif" lang2="- Нет, это не Паоло.">
+      <audioTime in="28473" out="30409" />
+    </line>
+    <line lang1="È del signor Fortini." someNumber="None" image="dg\012_004.gif" lang2="Это господина Фортини.">
+      <audioTime in="30253" out="32199" />
+    </line>
+    <line lang1="- Di chi è questa penna?" someNumber="None" image="dg\012_005.gif" lang2="- Чья это ручка?">
+      <audioTime in="32143" out="34135" />
+    </line>
+    <line lang1="È di tuo padre?" someNumber="None" image="dg\012_005.gif" lang2="Это твоего отца?">
+      <audioTime in="34079" out="35546" />
+    </line>
+    <line lang1="- No, non è di mio padre." someNumber="None" image="dg\012_005.gif" lang2="- Нет, это не моего отца.">
+      <audioTime in="35466" out="38001" />
+    </line>
+    <line lang1="È di mio figlio." someNumber="None" image="dg\012_005.gif" lang2="Это моего сына.">
+      <audioTime in="37865" out="39400" />
+    </line>
+    <line lang1="- Di chi è questo vestito?" someNumber="None" image="dg\012_006.gif" lang2="- Чьё это платье?">
+      <audioTime in="39268" out="41350" />
+    </line>
+    <line lang1="È di Sua madre?" someNumber="None" image="dg\012_006.gif" lang2="Это Вашей матери?">
+      <audioTime in="41455" out="42949" />
+    </line>
+    <line lang1="- No, non è di mia madre." someNumber="None" image="dg\012_006.gif" lang2="- Нет, это не моей матери.">
+      <audioTime in="42873" out="44895" />
+    </line>
+    <line lang1="È di mia figlia." someNumber="None" image="dg\012_006.gif" lang2="Это моей дочери.">
+      <audioTime in="44760" out="46204" />
+    </line>
+    <line lang1="- Di chi è quest' abito?" someNumber="None" image="dg\012_007.gif" lang2="- Чей это костюм?">
+      <audioTime in="46132" out="48154" />
+    </line>
+    <line lang1="È di Suo figlio?" someNumber="None" image="dg\012_007.gif" lang2="Это Вашего сына?">
+      <audioTime in="48093" out="49708" />
+    </line>
+    <line lang1="- No, non è di mio figlio." someNumber="None" image="dg\012_007.gif" lang2="- Нет, это не моего сына.">
+      <audioTime in="49753" out="52001" />
+    </line>
+    <line lang1="È di mio padre." someNumber="None" image="dg\012_007.gif" lang2="Это моего отца.">
+      <audioTime in="51986" out="53570" />
+    </line>
+    <line lang1="- Di chi è questa gonna?" someNumber="None" image="dg\012_008.gif" lang2="- Чья это юбка?">
+      <audioTime in="53494" out="55440" />
+    </line>
+    <line lang1="È di Sua figlia?" someNumber="None" image="dg\012_008.gif" lang2="Это Вашей дочери?">
+      <audioTime in="55395" out="56949" />
+    </line>
+    <line lang1="- No, non è di mia figlia." someNumber="None" image="dg\012_008.gif" lang2="- Нет, это не моей дочери.">
+      <audioTime in="56828" out="59076" />
+    </line>
+    <line lang1="È di mia madre." someNumber="None" image="dg\012_008.gif" lang2="Это моей матери.">
+      <audioTime in="58986" out="60521" />
+    </line>
+    <line lang1="- Di chi è questa camicetta?" someNumber="None" image="dg\012_009.gif" lang2="- Чья это блузка?">
+      <audioTime in="60630" out="62802" />
+    </line>
+    <line lang1="È di Sua madre?" someNumber="None" image="dg\012_009.gif" lang2="Это Вашей матери?">
+      <audioTime in="62757" out="64202" />
+    </line>
+    <line lang1="- No, non è di mia madre." someNumber="None" image="dg\012_009.gif" lang2="- Нет, это не моей матери.">
+      <audioTime in="64189" out="66217" />
+    </line>
+    <line lang1="È di mia sorella." someNumber="None" image="dg\012_009.gif" lang2="Это моей сестры.">
+      <audioTime in="66217" out="67729" />
+    </line>
+    <line lang1="- Di chi è questa cravatta?" someNumber="None" image="dg\012_010.gif" lang2="- Чей это галстук?">
+      <audioTime in="67872" out="69922" />
+    </line>
+    <line lang1="È di Suo padre?" someNumber="None" image="dg\012_010.gif" lang2="Это Вашего отца?">
+      <audioTime in="69863" out="71326" />
+    </line>
+    <line lang1="- No, non è di mio padre." someNumber="None" image="dg\012_010.gif" lang2="- Нет, это не моего отца.">
+      <audioTime in="71314" out="73204" />
+    </line>
+    <line lang1="È di mio fratello." someNumber="None" image="dg\012_010.gif" lang2="Это моего брата.">
+      <audioTime in="73204" out="74649" />
+    </line>
+  </lines>
+</lesson>

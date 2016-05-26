@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="J_042.wav" dlgName="Мыть лицо" dic="p042" />
+  <lines>
+    <line lang1="かお*を*あらう。" someNumber="62" image="042_001.jpg" lang2="- Мыть лицо.">
+      <audioTime in="0" out="2644" />
+    </line>
+    <line lang1="うた*を*うたう。" someNumber="66" image="042_002.jpg" lang2="Петь песню.">
+      <audioTime in="2644" out="5132" />
+    </line>
+    <line lang1="先生*に*言う。" someNumber="04" image="042_003.jpg" lang2="Сказать учителю.">
+      <audioTime in="5132" out="7866" />
+    </line>
+    <line lang1="せんぱい*と*会う。" someNumber="08" image="042_004.jpg" lang2="Встретиться со старшим товарищем.">
+      <audioTime in="7866" out="10701" />
+    </line>
+    <line lang1="生け花*を*ならう。" someNumber="05" image="042_005.jpg" lang2="Изучать икебану.">
+      <audioTime in="10701" out="13963" />
+    </line>
+    <line lang1="パン*を*買う。" someNumber="None" image="042_006.jpg" lang2="Купить хлеб.">
+      <audioTime in="13963" out="16528" />
+    </line>
+    <line lang1="ぎんざ*の*店*で*買う。" someNumber="07" image="042_006.jpg" lang2="Купить в магазине на Гиндзе.">
+      <audioTime in="16528" out="19735" />
+    </line>
+    <line lang1="わらう。" someNumber="None" image="042_008.jpg" lang2="Смеяться.">
+      <audioTime in="19735" out="22270" />
+    </line>
+    <line lang1="ホテル*の*ホール*で*まつ。" someNumber="07" image="042_009.jpg" lang2="- Ждать в холле гостиницы.">
+      <audioTime in="22270" out="26776" />
+    </line>
+    <line lang1="まど*の*そば*に*立つ。" someNumber="126" image="042_010.jpg" lang2="Стоять у окна.">
+      <audioTime in="26776" out="30132" />
+    </line>
+    <line lang1="手紙*を*出す。" someNumber="None" image="042_011.jpg" lang2="Отправить письмо.">
+      <audioTime in="30132" out="33063" />
+    </line>
+    <line lang1="日本語*を*話す。" someNumber="05" image="042_012.jpg" lang2="Говорить по-японски.">
+      <audioTime in="33063" out="35977" />
+    </line>
+    <line lang1="さいふ*を*おとす。" someNumber="None" image="042_013.jpg" lang2="Уронить кошелек.">
+      <audioTime in="35977" out="38827" />
+    </line>
+  </lines>
+</lesson>

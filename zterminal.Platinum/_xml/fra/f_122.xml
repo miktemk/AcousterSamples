@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_122.wav" dic="p122" dlgName="Не он ли... ?" dlgFile="exr\fg121.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Est-il mécanicien? C'est lui qui a réparé votre voiture?" someNumber="90" image="dg\122_001.gif" lang2="- Он механик? Это он отремонтировал вашу машину?">
+      <audioTime in="0" out="3494" />
+    </line>
+    <line lang1="- Oui, c'est justement ce mécanicien qui a réparé ma voiture." someNumber="None" image="dg\122_001.gif" lang2="- Да, он именно тот механик, который отремонтировал мою машину.">
+      <audioTime in="3494" out="7265" />
+    </line>
+    <line lang1="- Sont-ils des voleurs? La police ne les a-t-elle pas arrêtés?" someNumber="None" image="dg\122_002.gif" lang2="- Они воры? Не их ли поймала полиция?">
+      <audioTime in="7265" out="11087" />
+    </line>
+    <line lang1="- Oui, ce sont justement ces voleurs que la police a arrêtés." someNumber="470" image="dg\122_002.gif" lang2="- Да, они именно те воры, которых поймала полиция.">
+      <audioTime in="11087" out="14466" />
+    </line>
+    <line lang1="- Est-ce votre voiture? Ne l'avez-vous pas vendue l'année passée?" someNumber="None" image="dg\122_003.gif" lang2="- Это Ваша автомашина? Не продали ли вы её в прошлом году?">
+      <audioTime in="14466" out="18670" />
+    </line>
+    <line lang1="- Oui, c'est justement cette voiture que vous avez vendue l'année passée." someNumber="None" image="dg\122_003.gif" lang2="- Да, это именно та машина, которую вы продали в прошлом году.">
+      <audioTime in="18670" out="22320" />
+    </line>
+    <line lang1="- Est-ce que ce sont ces enfants? N'habitent-ils pas non loin de chez nous?" someNumber="780" image="dg\122_004.gif" lang2="- Это те дети? Не живут ли они недалеко от нас?">
+      <audioTime in="22320" out="26475" />
+    </line>
+    <line lang1="- Oui, ce sont justement ces enfants qui habitent non loin de chez nous." someNumber="None" image="dg\122_004.gif" lang2="- Да, это именно те дети, которые живут недалеко от нас.">
+      <audioTime in="26475" out="30271" />
+    </line>
+    <line lang1="- Est-il porteur? Est-ce lui qui portait ma valise?" someNumber="460" image="dg\122_005.gif" lang2="- Он носильщик? Не он ли нёс мой чемодан?">
+      <audioTime in="30271" out="33476" />
+    </line>
+    <line lang1="- Oui, c'est justement ce porteur qui portait ma valise." someNumber="None" image="dg\122_005.gif" lang2="- Да, это именно тот носильщик, который нёс мой чемодан.">
+      <audioTime in="33476" out="36428" />
+    </line>
+    <line lang1="- Est-ce que ce sont ces fenêtres? Est-ce qu'on les a cassées hier?" someNumber="None" image="dg\122_006.gif" lang2="- Разве это эти окна? Не разбили ли их вчера?">
+      <audioTime in="36428" out="39928" />
+    </line>
+    <line lang1="- Oui, ce sont justement ces fenêtres qu'on a cassées hier." someNumber="None" image="dg\122_006.gif" lang2="- Да, это именно те окна, которые вчера разбили.">
+      <audioTime in="39928" out="43069" />
+    </line>
+    <line lang1="- Est-ce cette pièce de monnaie? Ne l'avez-vous pas trouvée au jardin?" someNumber="70" image="dg\122_007.gif" lang2="- Это та монета? Не нашли ли вы её в саду?">
+      <audioTime in="43069" out="46890" />
+    </line>
+    <line lang1="- Oui, justement c'est cette pièce de monnaie que j'ai trouvée au jardin." someNumber="None" image="dg\122_007.gif" lang2="- Да, это именно та монета, которую я нашёл в саду.">
+      <audioTime in="46890" out="50159" />
+    </line>
+    <line lang1="- Est-ce cette femme? Ne l'avez-vous pas accompagnée à Londres?" someNumber="None" image="dg\122_008.gif" lang2="- Это та (самая) женщина? Не сопровождали ли вы её в Лондон?">
+      <audioTime in="50159" out="53666" />
+    </line>
+    <line lang1="- Oui, c'est justement cette femme que j'ai accompagnée à Londres." someNumber="810" image="dg\122_008.gif" lang2="- Да, это именно та женщина, которую я сопровождал в Лондон.">
+      <audioTime in="53666" out="56633" />
+    </line>
+    <line lang1="- Est-ce que ce sont ces livres? Ne les avez-vous pas achetés hier?" someNumber="None" image="dg\122_009.gif" lang2="- Это те книги? Не купили ли вы их вчера?">
+      <audioTime in="56633" out="60137" />
+    </line>
+    <line lang1="- Oui, ce sont justement ces livres que j'ai achetés hier." someNumber="None" image="dg\122_009.gif" lang2="- Да, это именно те книги, которые я купил вчера.">
+      <audioTime in="60137" out="63201" />
+    </line>
+    <line lang1="- Est-ce que ce sont ces gens? Est-ce que je les ai invités à la soirée?" someNumber="50" image="dg\122_010.gif" lang2="- Это те люди? Это их я пригласил на вечеринку?">
+      <audioTime in="63201" out="66738" />
+    </line>
+    <line lang1="- Oui, ce sont justement ces gens que j'ai invités à la soirée." someNumber="None" image="dg\122_010.gif" lang2="- Да, это именно те люди, которых я пригласил на вечеринку.">
+      <audioTime in="66738" out="69893" />
+    </line>
+  </lines>
+</lesson>

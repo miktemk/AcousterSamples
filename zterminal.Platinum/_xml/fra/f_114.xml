@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="f_114.wav" dic="p114" dlgName="Я... Я тоже." dlgFile="exr\fg113.txt" author="Alexander" />
+  <lines>
+    <line lang1="- J'ai faim." someNumber="None" image="dg\114_001.gif" lang2="- Я голоден.">
+      <audioTime in="0" out="574" />
+    </line>
+    <line lang1="- Moi aussi." someNumber="780" image="dg\114_001.gif" lang2="- Я тоже.">
+      <audioTime in="574" out="1220" />
+    </line>
+    <line lang1="- Je ne suis pas fatigué." someNumber="None" image="dg\114_002.gif" lang2="- Я не устал.">
+      <audioTime in="1220" out="2780" />
+    </line>
+    <line lang1="- Moi non plus." someNumber="None" image="dg\114_002.gif" lang2="- Я тоже нет.">
+      <audioTime in="2780" out="3498" />
+    </line>
+    <line lang1="- Je veux du café." someNumber="70" image="dg\114_003.gif" lang2="- Я хочу кофе.">
+      <audioTime in="3498" out="4666" />
+    </line>
+    <line lang1="- Moi aussi." someNumber="None" image="dg\114_003.gif" lang2="- Я тоже.">
+      <audioTime in="4666" out="5314" />
+    </line>
+    <line lang1="- Je ne veux pas de thé." someNumber="None" image="dg\114_004.gif" lang2="- Я не хочу чаю.">
+      <audioTime in="5314" out="6548" />
+    </line>
+    <line lang1="- Moi non plus." someNumber="None" image="dg\114_004.gif" lang2="- Я тоже.">
+      <audioTime in="6548" out="7212" />
+    </line>
+    <line lang1="- Hier j'ai été à une soirée." someNumber="680" image="dg\114_005.gif" lang2="- Вчера я был на вечеринке.">
+      <audioTime in="7212" out="8984" />
+    </line>
+    <line lang1="- Moi aussi." someNumber="None" image="dg\114_005.gif" lang2="- Я тоже.">
+      <audioTime in="8984" out="9668" />
+    </line>
+    <line lang1="- Aujourd'hui je ne suis pas fatigué." someNumber="None" image="dg\114_006.gif" lang2="- Сегодня (утром) я не устал.">
+      <audioTime in="9668" out="11467" />
+    </line>
+    <line lang1="- Moi non plus." someNumber="None" image="dg\114_006.gif" lang2="- Я тоже.">
+      <audioTime in="11467" out="12133" />
+    </line>
+    <line lang1="- Je nage bien." someNumber="610" image="dg\114_007.gif" lang2="- Я хорошо плаваю.">
+      <audioTime in="12133" out="12981" />
+    </line>
+    <line lang1="- Moi aussi." someNumber="None" image="dg\114_007.gif" lang2="- Я тоже.">
+      <audioTime in="12981" out="13602" />
+    </line>
+    <line lang1="- Je ne parle pas chinois." someNumber="None" image="dg\114_008.gif" lang2="- Я не могу говорить по-китайски.">
+      <audioTime in="13602" out="14722" />
+    </line>
+    <line lang1="- Moi non plus." someNumber="None" image="dg\114_008.gif" lang2="- Я тоже.">
+      <audioTime in="14722" out="15410" />
+    </line>
+    <line lang1="- J'ai vu Georges hier soir." someNumber="None" image="dg\114_009.gif" lang2="- Я видел Жоржа вчера вечером.">
+      <audioTime in="15410" out="17040" />
+    </line>
+    <line lang1="- Moi aussi." someNumber="None" image="dg\114_009.gif" lang2="- Я тоже.">
+      <audioTime in="17040" out="17648" />
+    </line>
+    <line lang1="- Je n'ai pas acheté la nouvelle voiture hier soir." someNumber="50" image="dg\114_010.gif" lang2="- Я не купил новой машины вчера вечером.">
+      <audioTime in="17648" out="20001" />
+    </line>
+    <line lang1="- Moi non plus." someNumber="None" image="dg\114_010.gif" lang2="- Я тоже.">
+      <audioTime in="20001" out="20685" />
+    </line>
+    <line lang1="- J'ai pris froid." someNumber="None" image="dg\114_011.gif" lang2="- Я простудилась.">
+      <audioTime in="20685" out="21606" />
+    </line>
+    <line lang1="- Moi aussi." someNumber="None" image="dg\114_011.gif" lang2="- Я тоже.">
+      <audioTime in="21606" out="22210" />
+    </line>
+    <line lang1="- Je n'ai pas mal à la tête." someNumber="810" image="dg\114_012.gif" lang2="- У меня голова не болит.">
+      <audioTime in="22210" out="23475" />
+    </line>
+    <line lang1="- Moi non plus." someNumber="None" image="dg\114_012.gif" lang2="- У меня тоже.">
+      <audioTime in="23475" out="24120" />
+    </line>
+  </lines>
+</lesson>

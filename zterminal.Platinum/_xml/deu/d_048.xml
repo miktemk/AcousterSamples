@@ -1,0 +1,113 @@
+<lesson>
+  <header wav="d_048.wav" dic="p048" dlgName="Вы любите?.. Да..." dlgFile="exr\dg047.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Mögen Sie Eier?" someNumber="190" image="dg\048_001.gif" lang2="- Вы любите яйца?">
+      <audioTime in="0" out="1331" />
+    </line>
+    <line lang1="- Ja, ich #mag sie." someNumber="960" image="dg\048_001.gif" lang2="- Да, я люблю их.">
+      <audioTime in="1730" out="3459" />
+    </line>
+    <line lang1="Ich #esse Eier gern, aber ich #will gar keine." someNumber="960" image="dg\048_001.gif" lang2="Я люблю есть яйца, но я совсем не хочу.">
+      <audioTime in="3593" out="6520" />
+    </line>
+    <line lang1="- #Mögen Sie Butter?" someNumber="None" image="dg\048_002.gif" lang2="- Вы любите масло?">
+      <audioTime in="6520" out="7983" />
+    </line>
+    <line lang1="- Ja, ich #mag sie." someNumber="680" image="dg\048_002.gif" lang2="- Да, я люблю его.">
+      <audioTime in="8117" out="9979" />
+    </line>
+    <line lang1="Ich #esse Butter gern, aber ich #will gar keine." someNumber="680" image="dg\048_002.gif" lang2="Я люблю есть масло, но я совсем не хочу.">
+      <audioTime in="9979" out="13173" />
+    </line>
+    <line lang1="- #Mögen Sie Honig?" someNumber="330" image="dg\048_003.gif" lang2="- Вы любите мёд?">
+      <audioTime in="13306" out="14769" />
+    </line>
+    <line lang1="- Ja, ich #mag ihn." someNumber="None" image="dg\048_003.gif" lang2="- Да, я люблю его.">
+      <audioTime in="14903" out="16500" />
+    </line>
+    <line lang1="Ich #esse Honig gern, aber ich #will gar keinen." someNumber="None" image="dg\048_003.gif" lang2="Я люблю есть мёд, но я совсем не хочу.">
+      <audioTime in="16500" out="19692" />
+    </line>
+    <line lang1="- #Mögen Sie Bananen?" someNumber="None" image="dg\048_004.gif" lang2="- Вы любите бананы?">
+      <audioTime in="19692" out="21556" />
+    </line>
+    <line lang1="- Ja, ich #mag sie." someNumber="380" image="dg\048_004.gif" lang2="- Да, я люблю их.">
+      <audioTime in="21556" out="23020" />
+    </line>
+    <line lang1="Ich #mag Bananen gern, aber ich #will gar keine." someNumber="380" image="dg\048_004.gif" lang2="Я люблю бананы, но я совсем не хочу.">
+      <audioTime in="23020" out="26346" />
+    </line>
+    <line lang1="- #Mögen Sie Konfitüre?" someNumber="None" image="dg\048_005.gif" lang2="- Вы любите джем?">
+      <audioTime in="26745" out="28608" />
+    </line>
+    <line lang1="- Ja, ich #mag sie." someNumber="None" image="dg\048_005.gif" lang2="- Да, я люблю его.">
+      <audioTime in="28741" out="30205" />
+    </line>
+    <line lang1="Ich #esse Konfitüre gern, aber ich #will gar keine." someNumber="None" image="dg\048_005.gif" lang2="Я люблю есть джем, но я совсем не хочу.">
+      <audioTime in="30205" out="34197" />
+    </line>
+    <line lang1="- #Mögen Sie Apfelsinen?" someNumber="None" image="dg\048_006.gif" lang2="- Вы любите апельсины?">
+      <audioTime in="34463" out="36193" />
+    </line>
+    <line lang1="- Ja, ich #mag sie." someNumber="820" image="dg\048_006.gif" lang2="- Да, я люблю их.">
+      <audioTime in="36459" out="37923" />
+    </line>
+    <line lang1="Ich #esse Apfelsinen gern, aber ich #will gar keine." someNumber="820" image="dg\048_006.gif" lang2="Я люблю есть апельсины, но я совсем не хочу.">
+      <audioTime in="38055" out="41782" />
+    </line>
+    <line lang1="- #Mögen Sie Speiseeis?" someNumber="None" image="dg\048_007.gif" lang2="- Вы любите мороженое?">
+      <audioTime in="42447" out="44044" />
+    </line>
+    <line lang1="- Ja, ich #mag es." someNumber="None" image="dg\048_007.gif" lang2="- Да, я люблю его.">
+      <audioTime in="44177" out="46040" />
+    </line>
+    <line lang1="Ich #esse Speiseeis gern, aber ich #will gar keines." someNumber="None" image="dg\048_007.gif" lang2="Я люблю есть мороженое, но я совсем не хочу.">
+      <audioTime in="46040" out="49766" />
+    </line>
+    <line lang1="- #Mögen Sie Whisky?" someNumber="None" image="dg\048_008.gif" lang2="- Вы любите виски?">
+      <audioTime in="50297" out="51628" />
+    </line>
+    <line lang1="- Ja, ich #mag ihn." someNumber="None" image="dg\048_008.gif" lang2="- Да, я люблю его.">
+      <audioTime in="51894" out="53491" />
+    </line>
+    <line lang1="Ich #trinke Whisky gern, aber ich #will gar keinen." someNumber="None" image="dg\048_008.gif" lang2="Я люблю пить виски, но я совсем не хочу.">
+      <audioTime in="53757" out="57883" />
+    </line>
+    <line lang1="- #Mögen Sie Apfel?" someNumber="None" image="dg\048_009.gif" lang2="- Вы любите яблоки?">
+      <audioTime in="58282" out="60011" />
+    </line>
+    <line lang1="- Ja, ich #mag sie." someNumber="850" image="dg\048_009.gif" lang2="- Да, я люблю их.">
+      <audioTime in="60145" out="62007" />
+    </line>
+    <line lang1="Ich #esse die Apfel gern, aber ich #will gar keine." someNumber="850" image="dg\048_009.gif" lang2="Я люблю есть яблоки, но я совсем не хочу.">
+      <audioTime in="62141" out="66531" />
+    </line>
+    <line lang1="- #Mögen Sie Wein?" someNumber="None" image="dg\048_010.gif" lang2="- Вы любите вино?">
+      <audioTime in="67064" out="68394" />
+    </line>
+    <line lang1="- Ja, ich #mag ihn." someNumber="750" image="dg\048_010.gif" lang2="- Да, я люблю его.">
+      <audioTime in="68660" out="69991" />
+    </line>
+    <line lang1="Ich #trinke Wein gern, aber ich #will gar keinen." someNumber="750" image="dg\048_010.gif" lang2="Я люблю пить вино, но я совсем не хочу.">
+      <audioTime in="70125" out="73850" />
+    </line>
+    <line lang1="- #Mögen Sie Kuchen?" someNumber="None" image="dg\048_011.gif" lang2="- Вы любите пирожное?">
+      <audioTime in="73983" out="75713" />
+    </line>
+    <line lang1="- Ja, ich #mag ihn." someNumber="None" image="dg\048_011.gif" lang2="- Да, я люблю его.">
+      <audioTime in="75846" out="77043" />
+    </line>
+    <line lang1="Ich #esse Kuchen gern, aber ich #will gar keinen." someNumber="None" image="dg\048_011.gif" lang2="Я люблю есть пирожное, но я совсем не хочу.">
+      <audioTime in="77043" out="80636" />
+    </line>
+    <line lang1="- #Mögen Sie Bier?" someNumber="None" image="dg\048_012.gif" lang2="- Вы любите пиво?">
+      <audioTime in="81035" out="82766" />
+    </line>
+    <line lang1="- Ja, ich #mag es." someNumber="720" image="dg\048_012.gif" lang2="- Да, я люблю его.">
+      <audioTime in="82766" out="84628" />
+    </line>
+    <line lang1="Ich #trinke Bier gern, aber ich #will gar keines." someNumber="720" image="dg\048_012.gif" lang2="Я люблю пить пиво, но я совсем не хочу.">
+      <audioTime in="84761" out="88620" />
+    </line>
+  </lines>
+</lesson>

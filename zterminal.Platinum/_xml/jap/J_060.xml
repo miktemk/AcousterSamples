@@ -1,0 +1,80 @@
+<lesson>
+  <header wav="j_060.wav" dlgName="Что изготовляют из сои?" dic="p060" />
+  <lines>
+    <line lang1="ーお酒*は*何*から*作ります*か。" someNumber="09" image="060_001.jpg" lang2="- Из чего изготовляют сакэ?">
+      <audioTime in="0" out="2934" />
+    </line>
+    <line lang1="ーお米*から*作ります。" someNumber="None" image="060_002.jpg" lang2="- Изготовляют из риса.">
+      <audioTime in="2934" out="4989" />
+    </line>
+    <line lang1="ーぶどう*から*何*を*作ります*か。" someNumber="None" image="060_003.jpg" lang2="- Что изготовляют из винограда?">
+      <audioTime in="4989" out="9836" />
+    </line>
+    <line lang1="ーぶどう酒*を*作ります。" someNumber="None" image="060_004.jpg" lang2="- Изготовляют вино.">
+      <audioTime in="9856" out="11904" />
+    </line>
+    <line lang1="ー牛乳*から*何*を*作ります*か。" someNumber="None" image="060_005.jpg" lang2="- Что изготовляют из молока?">
+      <audioTime in="11904" out="16076" />
+    </line>
+    <line lang1="ーバター*と*チーズ*を*作ります。" someNumber="None" image="060_006.jpg" lang2="- Изготовляют масло и сыр.">
+      <audioTime in="16076" out="18762" />
+    </line>
+    <line lang1="―大豆*から*なに*を*作ります*か。" someNumber="None" image="060_007.jpg" lang2="- Что изготовляют из сои?">
+      <audioTime in="18762" out="23217" />
+    </line>
+    <line lang1="ー大豆*から*とうふ*と*みそ*を*作ります。" someNumber="None" image="060_008.jpg" lang2="- Из сои изготовляют тофу и пасту-мисо.">
+      <audioTime in="23217" out="28005" />
+    </line>
+    <line lang1="しょうゆ*も*大豆*から*作ります。" someNumber="None" image="060_009.jpg" lang2="Соевый соус также изготовляют из сои.">
+      <audioTime in="28005" out="31395" />
+    </line>
+    <line lang1="しょう油*と*みそ*は*日本*料理*に*味*を*付ける*ため*使います。" someNumber="None" image="060_010.jpg" lang2="Соевый соус и пасту-мисо употребляют для приправления японских блюд.">
+      <audioTime in="31395" out="37057" />
+    </line>
+    <line lang1="ーこの*人*は*何*を*しています*か。" someNumber="None" image="060_011.jpg" lang2="- Что делает этот человек?">
+      <audioTime in="37057" out="41424" />
+    </line>
+    <line lang1="ー木*で*つくえ、いす、など*の*家具*を*作っています。" someNumber="07" image="060_012.jpg" lang2="- Он делает из дерева столы, стулья и другую мебель.">
+      <audioTime in="41424" out="46079" />
+    </line>
+    <line lang1="ーこれ*は*何*です*か。" someNumber="None" image="060_013.jpg" lang2="- Что это?">
+      <audioTime in="46079" out="49067" />
+    </line>
+    <line lang1="ーふえ*です。竹*で*ふえ*を*作ります。" someNumber="None" image="060_014.jpg" lang2="- Свирель. Свирель изготовляют из бамбука.">
+      <audioTime in="49182" out="52808" />
+    </line>
+    <line lang1="―皮*で*なに*を*作ります*か。" someNumber="None" image="060_015.jpg" lang2="- Что изготовляют из кожи?">
+      <audioTime in="52808" out="56904" />
+    </line>
+    <line lang1="―皮*で*くつ*や*さいふ*を*作ります。" someNumber="None" image="060_016.jpg" lang2="- Из кожи изготовляют обувь и кошельки.">
+      <audioTime in="56904" out="60815" />
+    </line>
+    <line lang1="ーお母さん*は*なに*を*しています*か。" someNumber="None" image="060_017.jpg" lang2="- Что делает Ваша мама?">
+      <audioTime in="60815" out="64857" />
+    </line>
+    <line lang1="ー毛糸*で*セーター*を*あんでいます。" someNumber="None" image="060_017.jpg" lang2="- Вяжет свитер из шерстяных ниток.">
+      <audioTime in="64857" out="70057" />
+    </line>
+    <line lang1="ーお姉さん*は*台所*で*何*を*しています*か。" someNumber="None" image="060_019.jpg" lang2="- Что делает на кухне Ваша старшая сестра?">
+      <audioTime in="70057" out="75213" />
+    </line>
+    <line lang1="ー卵*と*さとう*と*こむぎこ*で*ケーキ*を*作っています。" someNumber="None" image="060_019.jpg" lang2="- Готовит торт из яиц, сахара и муки.">
+      <audioTime in="75213" out="80672" />
+    </line>
+    <line lang1="ーかわいい*つる*です*ね。" someNumber="None" image="060_021.jpg" lang2="- Какой хорошенький журавлик!">
+      <audioTime in="80672" out="85078" />
+    </line>
+    <line lang1="何*で*折り紙*を*作ります*か。" someNumber="None" image="060_022.jpg" lang2="Из чего делают оригами?">
+      <audioTime in="85078" out="88490" />
+    </line>
+    <line lang1="ー和紙*で*作ります。" someNumber="None" image="060_023.jpg" lang2="- Делают из японской бумаги.">
+      <audioTime in="88490" out="90882" />
+    </line>
+    <line lang1="ーそれ*です*か。きれい。どこ*で*売っています*か。" someNumber="None" image="060_024.jpg" lang2="- Вот эта? Какая красивая! Где (ее) продают?">
+      <audioTime in="90882" out="96916" />
+    </line>
+    <line lang1="ーりょう*の*売店*で*売っています。" someNumber="None" image="060_025.jpg" lang2="- В киоске общежития.">
+      <audioTime in="96916" out="99660" />
+    </line>
+  </lines>
+</lesson>

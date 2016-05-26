@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_014.wav" dic="p014" dlgName="Какого цвета?.. Он не..." dlgFile="exr\fg013.txt" author="Alexander" />
+  <lines>
+    <line lang1="- De quelle couleur est le parapluie de monsieur Vincent? Est-il brun?" someNumber="930" image="dg\014_001.gif" lang2="- Какого цвета зонтик г-на Венсана? Он коричневый?">
+      <audioTime in="0" out="3610" />
+    </line>
+    <line lang1="- Il n'est pas brun. Il est noir." someNumber="None" image="dg\014_001.gif" lang2="- Он не коричневый. Он чёрный.">
+      <audioTime in="3610" out="5535" />
+    </line>
+    <line lang1="- De quelle couleur est le manteau de madame Dupont? Est-il blanc?" someNumber="None" image="dg\014_002.gif" lang2="- Какого цвета пальто г-жи Дюпон? Оно белое?">
+      <audioTime in="5535" out="9040" />
+    </line>
+    <line lang1="- Il n'est pas blanc. Il est gris." someNumber="None" image="dg\014_002.gif" lang2="- Оно не белое. Оно серое.">
+      <audioTime in="9040" out="10589" />
+    </line>
+    <line lang1="- De quelle couleur est la cravate de ce garçon? Est-elle jaune?" someNumber="None" image="dg\014_003.gif" lang2="- Какого цвета галстук этого мальчика? Он жёлтый?">
+      <audioTime in="10589" out="13885" />
+    </line>
+    <line lang1="- Elle n'est pas jaune. Elle est orange." someNumber="None" image="dg\014_003.gif" lang2="- Он не жёлтый. Он оранжевый.">
+      <audioTime in="13885" out="15928" />
+    </line>
+    <line lang1="- De quelle couleur est la voiture de Paul? Est-elle rouge?" someNumber="None" image="dg\014_004.gif" lang2="- Какого цвета машина Поля? Она красная?">
+      <audioTime in="15928" out="18969" />
+    </line>
+    <line lang1="- Elle n'est pas rouge. Elle est bleue." someNumber="None" image="dg\014_004.gif" lang2="- Она не красная. Она голубая.">
+      <audioTime in="18969" out="20651" />
+    </line>
+    <line lang1="- De quelle couleur est la blouse de madame Legrand? Est-elle orange?" someNumber="810" image="dg\014_005.gif" lang2="- Какого цвета блузка г-жи Легран? Она оранжевая?">
+      <audioTime in="20651" out="24231" />
+    </line>
+    <line lang1="- Elle n'est pas orange. Elle est jaune." someNumber="None" image="dg\014_005.gif" lang2="- Она не оранжевая. Она жёлтая.">
+      <audioTime in="24231" out="26248" />
+    </line>
+    <line lang1="- De quelle couleur est la chemise de Pierre? Est-elle bleue?" someNumber="810" image="dg\014_006.gif" lang2="- Какого цвета рубашка Пьера? Она голубая?">
+      <audioTime in="26248" out="29138" />
+    </line>
+    <line lang1="- Elle n'est pas bleue. Elle est blanche." someNumber="None" image="dg\014_006.gif" lang2="- Она не голубая. Она белая.">
+      <audioTime in="29138" out="30972" />
+    </line>
+    <line lang1="- De quelle couleur est le chapeau de monsieur Vincent? Est-il vert et rouge?" someNumber="None" image="dg\014_007.gif" lang2="- Какого цвета шляпа г-на Венсана? Она зелёная и красная?">
+      <audioTime in="30972" out="34707" />
+    </line>
+    <line lang1="- Il n'est ni vert, ni rouge. Il est gris et noir." someNumber="None" image="dg\014_007.gif" lang2="- Она не зелёная и не красная. Она серая и чёрная.">
+      <audioTime in="34707" out="37422" />
+    </line>
+    <line lang1="- De quelle couleur est l'étui de cette femme? Est-il gris?" someNumber="None" image="dg\014_008.gif" lang2="- Какого цвета футляр у этой женщины? Он серый?">
+      <audioTime in="37422" out="40441" />
+    </line>
+    <line lang1="- Il n'est pas gris, il est brun." someNumber="None" image="dg\014_008.gif" lang2="- Он не серый. Он коричневый.">
+      <audioTime in="40441" out="41940" />
+    </line>
+    <line lang1="- De quelle couleur est le chien de Mme Legrand? Est-il gris et noir?" someNumber="350" image="dg\014_009.gif" lang2="- Какого цвета собака г-жи Легран? Она серая и чёрная?">
+      <audioTime in="41940" out="45876" />
+    </line>
+    <line lang1="- Il n'est ni gris, ni noir. Il est brun et blanc." someNumber="None" image="dg\014_009.gif" lang2="- Она не серая и не чёрная. Она коричневая и белая.">
+      <audioTime in="45876" out="48482" />
+    </line>
+    <line lang1="- De quelle couleur est le tapis de Mme Vincent? Est-il vert?" someNumber="None" image="dg\014_010.gif" lang2="- Какого цвета ковер г-жи Венсан? Он зелёный?">
+      <audioTime in="48482" out="51772" />
+    </line>
+    <line lang1="- Il n'est pas vert. Il est rouge." someNumber="360" image="dg\014_010.gif" lang2="- Он не зелёный. Он красный.">
+      <audioTime in="51772" out="53651" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="j_057.wav" dlgName="На кухне" dic="p057" />
+  <lines>
+    <line lang1="ー幸子*さん、" someNumber="None" image="057_001.jpg" lang2="- Сатико-сан,">
+      <audioTime in="0" out="1698" />
+    </line>
+    <line lang1="日本*りょうり*の*作り方*を*教えて*下さいません*か。" someNumber="083" image="057_001.jpg" lang2="Вы не научите меня готовить японскую еду?">
+      <audioTime in="1698" out="5498" />
+    </line>
+    <line lang1="ー和食*です*か。いい*です*よ。" someNumber="124" image="057_003.jpg" lang2="- Японскую еду? Хорошо.">
+      <audioTime in="5498" out="8682" />
+    </line>
+    <line lang1="スミス*さん*は*台所*の*仕事*が*すき*です*か。" someNumber="02" image="057_004.jpg" lang2="Смит-сан, Вы любите работать на кухне?">
+      <audioTime in="8682" out="12592" />
+    </line>
+    <line lang1="ー大好き*です。" someNumber="None" image="057_004.jpg" lang2="- Люблю.">
+      <audioTime in="12592" out="13770" />
+    </line>
+    <line lang1="ーじゃ、これ*は*ご飯*を*たくすいはん器*です。" someNumber="143" image="057_006.jpg" lang2="- Ладно. Вот это рисоварка для варки риса.">
+      <audioTime in="13770" out="18059" />
+    </line>
+    <line lang1="それ*は*おゆ*を*わかすやかん*です。" someNumber="65" image="057_007.jpg" lang2="Это - чайник для кипячения воды.">
+      <audioTime in="18059" out="22190" />
+    </line>
+    <line lang1="それ*は*てんぷら*を*あげる*なべ*です。" someNumber="None" image="057_008.jpg" lang2="Это - кастрюля для жарки тэмпуры.">
+      <audioTime in="22190" out="24868" />
+    </line>
+    <line lang1="それ*は*魚*を*切る*包丁*です。" someNumber="None" image="057_009.jpg" lang2="Это - кухонный нож для разделывания рыбы.">
+      <audioTime in="24868" out="28605" />
+    </line>
+    <line lang1="ーこの*大きい*ナイフ*です*か。" someNumber="None" image="057_009.jpg" lang2="- Этот большой нож?">
+      <audioTime in="28605" out="31486" />
+    </line>
+    <line lang1="ーはい、それ*は*包丁*です。" someNumber="None" image="057_009.jpg" lang2="- Да. Это нож &quot;хотё&quot;.">
+      <audioTime in="31486" out="34227" />
+    </line>
+    <line lang1="ー色々*な*言い方*が*あります*ね。" someNumber="None" image="057_012.jpg" lang2="- Как много наименований, не правда ли!">
+      <audioTime in="34227" out="36667" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="057_012.jpg" lang2="- В самом деле!">
+      <audioTime in="36667" out="38049" />
+    </line>
+    <line lang1="卵*を*ゆでます。" someNumber="None" image="057_014.jpg" lang2="Яйца отваривают.">
+      <audioTime in="38049" out="40239" />
+    </line>
+    <line lang1="玉ねぎ*を*いためます。" someNumber="None" image="057_015.jpg" lang2="Лук тушат.">
+      <audioTime in="40239" out="42379" />
+    </line>
+    <line lang1="野菜*を*にます。" someNumber="None" image="057_016.jpg" lang2="Овощи варят в большом количестве воды.">
+      <audioTime in="42379" out="44552" />
+    </line>
+    <line lang1="ご飯*を*たきます。" someNumber="None" image="057_017.jpg" lang2="Рис (плов) варят до испарения воды.">
+      <audioTime in="44552" out="46802" />
+    </line>
+    <line lang1="鳥肉*を*焼きます。" someNumber="None" image="057_018.jpg" lang2="Куриное мясо жарят (на огне).">
+      <audioTime in="46802" out="48943" />
+    </line>
+    <line lang1="スミス*さん*は*焼き鳥*を*食べた*こと*が*あります*か。" someNumber="110" image="057_018.jpg" lang2="Смит-сан, Вам приходилось есть шашлычки из куриного мяса?">
+      <audioTime in="48983" out="53321" />
+    </line>
+    <line lang1="ーはい、あります。" someNumber="None" image="057_020.jpg" lang2="- Да, приходилось.">
+      <audioTime in="53321" out="54907" />
+    </line>
+    <line lang1="ー口*に*合いました*か。" someNumber="None" image="057_020.jpg" lang2="- Понравилось?">
+      <audioTime in="54758" out="56660" />
+    </line>
+    <line lang1="ーええ、とても*おいしかった*です。" someNumber="26" image="057_022.jpg" lang2="- Да, было очень вкусно.">
+      <audioTime in="56660" out="59432" />
+    </line>
+  </lines>
+</lesson>

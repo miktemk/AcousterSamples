@@ -1,0 +1,80 @@
+<lesson>
+  <header wav="j_013.wav" dlgName="Сколько листов?" dic="p013" />
+  <lines>
+    <line lang1="ーテーブル*の*上*に*かみ*が*あります。" someNumber="None" image="013_001.jpg" lang2="- На столе - бумага.">
+      <audioTime in="0" out="4679" />
+    </line>
+    <line lang1="なん*まい*あります*か。" someNumber="34" image="013_001.jpg" lang2="Сколько листов?">
+      <audioTime in="4679" out="8376" />
+    </line>
+    <line lang1="―一まい、二まい、三まい、四まい、五まい、" someNumber="34" image="013_003.jpg" lang2="- Один, два, три, четыре, пять,">
+      <audioTime in="8376" out="17943" />
+    </line>
+    <line lang1="六まい、七まい、八まい、九まい、十まい。" someNumber="None" image="013_003.jpg" lang2="шесть, семь, восемь, девять, десять.">
+      <audioTime in="17943" out="26881" />
+    </line>
+    <line lang1="しろい*かみ*が*十*まい*あります。" someNumber="None" image="013_003.jpg" lang2="Белой бумаги - десять листов.">
+      <audioTime in="27279" out="31443" />
+    </line>
+    <line lang1="きいろい*かみ*が*五*まい*あります。" someNumber="None" image="013_006.jpg" lang2="Жёлтой бумаги - пять листов.">
+      <audioTime in="31443" out="35777" />
+    </line>
+    <line lang1="ぜんぶ*で*十五*まい*です。" someNumber="None" image="013_006.jpg" lang2="Всего пятнадцать листов.">
+      <audioTime in="35777" out="41221" />
+    </line>
+    <line lang1="ー本だな*に*本*が*あります。" someNumber="None" image="013_008.jpg" lang2="- На полке - книги.">
+      <audioTime in="41221" out="46414" />
+    </line>
+    <line lang1="何*さつ*あります*か。" someNumber="None" image="013_008.jpg" lang2="Сколько томов?">
+      <audioTime in="46414" out="49069" />
+    </line>
+    <line lang1="ー一さつ、二さつ、三さつ、四さつ、五さつ、六さつあります。" someNumber="None" image="013_008.jpg" lang2="- Один, два, три, четыре, пять, шесть томов.">
+      <audioTime in="49069" out="62746" />
+    </line>
+    <line lang1="―ぜんぶ*日本ご*の*本*です*か。" someNumber="None" image="013_008.jpg" lang2="- Все книги на японском языке?">
+      <audioTime in="62746" out="67172" />
+    </line>
+    <line lang1="ーええ、ぜんぶ*日本語*の*きょうかしょ*です。" someNumber="None" image="013_008.jpg" lang2="- Да, все они - учебники японского языка.">
+      <audioTime in="67172" out="73419" />
+    </line>
+    <line lang1="ーここ*に*ボールペン*が*あります。" someNumber="None" image="013_013.jpg" lang2="- Здесь есть шариковые ручки.">
+      <audioTime in="73419" out="80465" />
+    </line>
+    <line lang1="何*本*あります*か。" someNumber="None" image="013_013.jpg" lang2="Сколько их?">
+      <audioTime in="80465" out="83301" />
+    </line>
+    <line lang1="―一本、二本、三本、四本、五本、" someNumber="None" image="013_013.jpg" lang2="- Одна, две, три, четыре, пять,">
+      <audioTime in="82940" out="92524" />
+    </line>
+    <line lang1="六本、七本、八本、九本、十本。" someNumber="None" image="013_013.jpg" lang2="шесть, семь, восемь, девять, десять.">
+      <audioTime in="92524" out="101633" />
+    </line>
+    <line lang1="あかい*ボールペン*が*三*本*と*あおい*ボールペン*が*七*本*あります。" someNumber="None" image="013_013.jpg" lang2="Три красные и семь синих ручек.">
+      <audioTime in="101633" out="109423" />
+    </line>
+    <line lang1="ーがっこう*に*コンピュータ*が*あります*か。" someNumber="None" image="013_018.jpg" lang2="- В школе есть компьютеры?">
+      <audioTime in="109423" out="114763" />
+    </line>
+    <line lang1="ーあります。" someNumber="None" image="013_018.jpg" lang2="- Есть.">
+      <audioTime in="114763" out="117482" />
+    </line>
+    <line lang1="ー何*だい*あります*か。" someNumber="None" image="013_018.jpg" lang2="- Сколько их?">
+      <audioTime in="117482" out="120158" />
+    </line>
+    <line lang1="ー四*だい*あります。" someNumber="None" image="013_018.jpg" lang2="- Четыре машины.">
+      <audioTime in="120158" out="123005" />
+    </line>
+    <line lang1="ーたなか*さん*の*めいし*が*あります*か。" someNumber="None" image="013_022.jpg" lang2="- (У Вас) есть визитная карточка Танаки-сана?">
+      <audioTime in="123005" out="127696" />
+    </line>
+    <line lang1="―あります。" someNumber="None" image="013_023.jpg" lang2="- Есть.">
+      <audioTime in="127696" out="130156" />
+    </line>
+    <line lang1="―でんわ*ばんごう*は*なん*です*か。" someNumber="None" image="013_023.jpg" lang2="- Какой (у него) номер телефона?">
+      <audioTime in="130156" out="133851" />
+    </line>
+    <line lang1="― ０４８ー５２１ー３７９６です。" someNumber="33" image="013_023.jpg" lang2="- 048-521-3796.">
+      <audioTime in="133851" out="143617" />
+    </line>
+  </lines>
+</lesson>

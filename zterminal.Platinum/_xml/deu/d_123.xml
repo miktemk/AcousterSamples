@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="d_123.wav" dic="p123" dlgName="Фотография." dlgFile="exr\dg123.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Sieh mal her, Dieter." someNumber="780" image="dg\123_001.gif" lang2="- Смотри-ка, Дитер.">
+      <audioTime in="928" out="2553" />
+    </line>
+    <line lang1="Das #ist das Photo, das ich während meiner Reise nach Australien #gemacht #habe." someNumber="780" image="dg\123_001.gif" lang2="Это фотография, которую я сделал во время моего путешествия в Австралию.">
+      <audioTime in="2709" out="6809" />
+    </line>
+    <line lang1="- #Gib mal her, Jörg!" someNumber="630" image="dg\123_001.gif" lang2="- Дай-ка мне, Йорг!">
+      <audioTime in="7041" out="8358" />
+    </line>
+    <line lang1="Das #ist ein gutes Photo." someNumber="None" image="dg\123_002.gif" lang2="Это хорошая фотография.">
+      <audioTime in="8435" out="10292" />
+    </line>
+    <line lang1="Wer #sind diese Leute?" someNumber="None" image="dg\123_002.gif" lang2="Кто эти люди?">
+      <audioTime in="10911" out="12768" />
+    </line>
+    <line lang1="- Diesen Leuten #bin ich während meiner Reise #begegnet." someNumber="None" image="dg\123_002.gif" lang2="- Этих людей я встретил во время моего путешествия.">
+      <audioTime in="13078" out="16870" />
+    </line>
+    <line lang1="Das #ist das Schiff, womit wir #reisten." someNumber="None" image="dg\123_003.gif" lang2="Это корабль, на котором мы плавали.">
+      <audioTime in="16948" out="19269" />
+    </line>
+    <line lang1="- Was für ein schönes Schiff das #ist!" someNumber="400" image="dg\123_003.gif" lang2="- Какой красивый корабль!">
+      <audioTime in="19579" out="21358" />
+    </line>
+    <line lang1="Wer #ist das?" someNumber="None" image="dg\123_004.gif" lang2="Кто это?">
+      <audioTime in="21823" out="23138" />
+    </line>
+    <line lang1="- Das #ist der Mann, von dem ich dir #erzählte." someNumber="None" image="dg\123_004.gif" lang2="- Это мужчина, о котором я тебе рассказывал.">
+      <audioTime in="23216" out="25692" />
+    </line>
+    <line lang1="#Erinnerst du dich daran?" someNumber="None" image="dg\123_004.gif" lang2="Помнишь?">
+      <audioTime in="25770" out="27162" />
+    </line>
+    <line lang1="- Ach ja." someNumber="870" image="dg\123_004.gif" lang2="- Ах, да.">
+      <audioTime in="27162" out="28065" />
+    </line>
+    <line lang1="Das #ist der Mann, der euch eine Arbeit in Australien #vorgeschlagen #hat." someNumber="870" image="dg\123_004.gif" lang2="Это тот человек, который предложил вам работу в Австралии.">
+      <audioTime in="28156" out="32085" />
+    </line>
+    <line lang1="- Ganz richtig." someNumber="None" image="dg\123_004.gif" lang2="- Правильно.">
+      <audioTime in="32193" out="33664" />
+    </line>
+    <line lang1="- Wer #ist das?" someNumber="400" image="dg\123_005.gif" lang2="- Кто это?">
+      <audioTime in="33664" out="34792" />
+    </line>
+    <line lang1="- #Rate mal!" someNumber="400" image="dg\123_005.gif" lang2="- Догадайся-ка!">
+      <audioTime in="35057" out="36294" />
+    </line>
+    <line lang1="- Das #bist du, nicht wahr?" someNumber="None" image="dg\123_005.gif" lang2="- Это ты, не так ли?">
+      <audioTime in="36449" out="38152" />
+    </line>
+    <line lang1="- Du #hast recht." someNumber="None" image="dg\123_005.gif" lang2="- Ты прав.">
+      <audioTime in="38152" out="39622" />
+    </line>
+    <line lang1="Während der Reise #habe ich mir einen Bart #wachsen #lassen." someNumber="590" image="dg\123_006.gif" lang2="Я отрастил бороду во время путешествия.">
+      <audioTime in="39854" out="43259" />
+    </line>
+    <line lang1="Aber ich #hatte ihn #abrasiert, als ich nach Hause #kam." someNumber="590" image="dg\123_006.gif" lang2="Но я сбрил её, когда приехал домой.">
+      <audioTime in="43259" out="46974" />
+    </line>
+    <line lang1="- Warum #hast du ihn #abrasiert?" someNumber="None" image="dg\123_006.gif" lang2="- Почему ты сбрил её?">
+      <audioTime in="47284" out="48908" />
+    </line>
+    <line lang1="- Meiner Frau #hat er nicht #gefallen." someNumber="None" image="dg\123_006.gif" lang2="- Моей жене она не понравилась.">
+      <audioTime in="48986" out="51230" />
+    </line>
+  </lines>
+</lesson>

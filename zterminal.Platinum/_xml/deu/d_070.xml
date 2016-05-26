@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_070.wav" dic="p070" dlgName="Когда они были?..." dlgFile="exr\dg069.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wann #waren Martin und Inge im Schreibwarengeschäft?" someNumber="None" image="dg\070_001.gif" lang2="- Когда были Мартин и Инга у торговца канцелярскими принадлежностями?">
+      <audioTime in="339" out="3739" />
+    </line>
+    <line lang1="- Sie #waren am Montag dort." someNumber="720" image="dg\070_001.gif" lang2="- Они там были в понедельник.">
+      <audioTime in="3908" out="5693" />
+    </line>
+    <line lang1="- Wann #waren Sie und Alice im Büro?" someNumber="820" image="dg\070_002.gif" lang2="- Когда были вы и Алис в офисе?">
+      <audioTime in="6033" out="8328" />
+    </line>
+    <line lang1="- Wir #waren am 23. März im Büro." someNumber="None" image="dg\070_002.gif" lang2="- Мы были в офисе 23-его марта.">
+      <audioTime in="8498" out="11557" />
+    </line>
+    <line lang1="- Wann #war ich in Indien?" someNumber="None" image="dg\070_003.gif" lang2="- Когда был я в Индии?">
+      <audioTime in="11812" out="13851" />
+    </line>
+    <line lang1="- Du #warst 1991 in Indien." someNumber="450" image="dg\070_003.gif" lang2="- Ты был в Индии в 1991.">
+      <audioTime in="13851" out="16516" />
+    </line>
+    <line lang1="- Wann #waren Sie und Alice in Australien?" someNumber="None" image="dg\070_004.gif" lang2="- Когда были вы и Алис в Австралии?">
+      <audioTime in="16826" out="19460" />
+    </line>
+    <line lang1="- Wir #waren im Juli in Australien." someNumber="None" image="dg\070_004.gif" lang2="- Мы были в Австралии в июле.">
+      <audioTime in="19630" out="21754" />
+    </line>
+    <line lang1="- Wann #waren Sie in der Molkerei?" someNumber="None" image="dg\070_005.gif" lang2="- Когда вы были в молочном магазине?">
+      <audioTime in="22264" out="24644" />
+    </line>
+    <line lang1="- Ich #war am Sonnabend in der Molkerei." someNumber="900" image="dg\070_005.gif" lang2="- Я был в молочном магазине в субботу.">
+      <audioTime in="24729" out="27279" />
+    </line>
+    <line lang1="- Wann #waren Martin und Alice in Jugoslawien?" someNumber="None" image="dg\070_006.gif" lang2="- Когда были Мартин и Алис в Югославии?">
+      <audioTime in="27618" out="30508" />
+    </line>
+    <line lang1="- Sie #waren 1967 in Jugoslawien." someNumber="None" image="dg\070_006.gif" lang2="- Они были в Югославии в 1967 году.">
+      <audioTime in="30592" out="34162" />
+    </line>
+    <line lang1="- Wann #waren wir, Georg und ich in Österreich?" someNumber="None" image="dg\070_007.gif" lang2="- Когда мы, Георг и я, были в Австрии?">
+      <audioTime in="34332" out="38114" />
+    </line>
+    <line lang1="- Sie #waren im August in Österreich." someNumber="None" image="dg\070_007.gif" lang2="- Они были в Австрии в августе.">
+      <audioTime in="38241" out="40706" />
+    </line>
+    <line lang1="- Wann #waren sie alle zu Hause?" someNumber="None" image="dg\070_008.gif" lang2="- Когда были они все дома?">
+      <audioTime in="40876" out="42999" />
+    </line>
+    <line lang1="- Sie #waren am 25. Mai zu Hause." someNumber="None" image="dg\070_008.gif" lang2="- Они были дома 25-го мая.">
+      <audioTime in="43170" out="46059" />
+    </line>
+    <line lang1="- Wann #war ich beim Friseur?" someNumber="790" image="dg\070_009.gif" lang2="- Когда был я у парикмахера?">
+      <audioTime in="46484" out="48354" />
+    </line>
+    <line lang1="- Sie #waren am Sonnabend beim Friseur." someNumber="None" image="dg\070_009.gif" lang2="- Вы были у парикмахера в субботу.">
+      <audioTime in="48354" out="50649" />
+    </line>
+    <line lang1="- Wann #waren Martin und Sie in Finnland?" someNumber="None" image="dg\070_010.gif" lang2="- Когда были вы и Мартин в Финляндии?">
+      <audioTime in="50988" out="53452" />
+    </line>
+    <line lang1="- Wir #waren im Dezember in Finnland." someNumber="None" image="dg\070_010.gif" lang2="- Мы были в Финляндии в декабре.">
+      <audioTime in="53538" out="55832" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="d_127.wav" dic="p127" dlgName="Он четвёртый или пятый." dlgFile="exr\dg127.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Kannst du jene Frau #erkennen, Jutta?" someNumber="None" image="dg\127_001.gif" lang2="- Можешь ты узнать ту женщину, Ютта?">
+      <audioTime in="166" out="3069" />
+    </line>
+    <line lang1="- Ich #glaube, ich kann, Petra." someNumber="None" image="dg\127_001.gif" lang2="- Я думаю, я могу, Петра.">
+      <audioTime in="3484" out="5723" />
+    </line>
+    <line lang1="Das #ist vielleicht Bettina Schön, die Schauspielerin." someNumber="None" image="dg\127_001.gif" lang2="Это, должно быть, Бетина Шен, актриса.">
+      <audioTime in="5972" out="9290" />
+    </line>
+    <line lang1="- Ich #glaube auch." someNumber="810" image="dg\127_001.gif" lang2="- Я тоже так думаю.">
+      <audioTime in="9622" out="10700" />
+    </line>
+    <line lang1="Wer #ist neben ihr?" someNumber="810" image="dg\127_001.gif" lang2="Кто это рядом с ней?">
+      <audioTime in="11033" out="12525" />
+    </line>
+    <line lang1="- Das #ist vielleicht Konrad Rivers." someNumber="None" image="dg\127_001.gif" lang2="- Это, должно быть, Конрад Риверс.">
+      <audioTime in="12774" out="14765" />
+    </line>
+    <line lang1="- Konrad Rivers?" someNumber="950" image="dg\127_001.gif" lang2="- Конрад Риверс?">
+      <audioTime in="14932" out="16259" />
+    </line>
+    <line lang1="Der Schauspieler?" someNumber="950" image="dg\127_001.gif" lang2="Актёр?">
+      <audioTime in="16341" out="18001" />
+    </line>
+    <line lang1="Das #kann nicht #sein!" someNumber="950" image="dg\127_001.gif" lang2="Этого не может быть!">
+      <audioTime in="18250" out="19660" />
+    </line>
+    <line lang1="#Lass mich ihn noch einmal #anschauen." someNumber="630" image="dg\127_001.gif" lang2="Дай мне ещё раз посмотреть на него.">
+      <audioTime in="19660" out="21918" />
+    </line>
+    <line lang1="Ich #glaube, du #hast recht." someNumber="630" image="dg\127_001.gif" lang2="Я думаю, ты права.">
+      <audioTime in="22314" out="23974" />
+    </line>
+    <line lang1="#Ist er denn nicht ihr dritter Mann?" someNumber="None" image="dg\127_001.gif" lang2="Разве он не её третий муж?">
+      <audioTime in="24056" out="26214" />
+    </line>
+    <line lang1="- Nein." someNumber="None" image="dg\127_001.gif" lang2="- Нет.">
+      <audioTime in="26214" out="27071" />
+    </line>
+    <line lang1="Er #soll ihr vierter oder fünfter Mann #sein." someNumber="None" image="dg\127_001.gif" lang2="Он, должно быть, её четвёртый или пятый муж.">
+      <audioTime in="27071" out="29329" />
+    </line>
+    <line lang1="- Bettina Schön #1sieht alt #2aus, nicht wahr?" someNumber="550" image="dg\127_001.gif" lang2="- Бетина Шен выглядит старой, не так ли?">
+      <audioTime in="29615" out="32103" />
+    </line>
+    <line lang1="- Ja, das #stimmt." someNumber="550" image="dg\127_001.gif" lang2="- Да, это так.">
+      <audioTime in="32269" out="33679" />
+    </line>
+    <line lang1="Ich #habe #gelesen, dass sie 29 Jahre alt #ist, aber sie #muss mindestens 40 Jahre alt #sein." someNumber="580" image="dg\127_001.gif" lang2="Я читала, что ей 29, но ей должно быть минимум 40.">
+      <audioTime in="33845" out="40149" />
+    </line>
+    <line lang1="- Ich #bin sicher, sie #ist so alt." someNumber="550" image="dg\127_001.gif" lang2="- Я уверена, ей именно столько.">
+      <audioTime in="40482" out="42307" />
+    </line>
+    <line lang1="- Sie #war eine berühmte Schauspielerin, als ich noch Schülerin #war." someNumber="570" image="dg\127_001.gif" lang2="- Она была знаменитой актрисой, когда я была ещё школьницей.">
+      <audioTime in="42721" out="46123" />
+    </line>
+    <line lang1="- Das #ist schon lange her, nicht wahr?" someNumber="None" image="dg\127_001.gif" lang2="- Это было давно, не так ли?">
+      <audioTime in="46372" out="49026" />
+    </line>
+    <line lang1="- Nein, das #ist nicht lange her!" someNumber="310" image="dg\127_001.gif" lang2="- Нет, это было не так давно!">
+      <audioTime in="49191" out="51349" />
+    </line>
+    <line lang1="Ich #bin selbst nicht älter als 29 Jahre." someNumber="310" image="dg\127_001.gif" lang2="Мне самой не больше 29 лет.">
+      <audioTime in="51514" out="54252" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="f_105.wav" dic="p105" dlgName="В письме полно ошибок." dlgFile="exr\fg105.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Où est madame Noiret, Jean? Je veux la voir." someNumber="None" image="dg\105_001.gif" lang2="- Где г-жа Нуарэ, Жан? Я хочу её видеть.">
+      <audioTime in="0" out="3017" />
+    </line>
+    <line lang1="- Vous voulez lui parler?" someNumber="None" image="dg\105_001.gif" lang2="- Вы хотите с ней поговорить?">
+      <audioTime in="3017" out="4231" />
+    </line>
+    <line lang1="- Oui. Je veux qu'elle vienne à mon bureau." someNumber="None" image="dg\105_001.gif" lang2="- Да. Я хочу, чтобы она пришла в мой кабинет.">
+      <audioTime in="4231" out="6636" />
+    </line>
+    <line lang1="Dites-lui qu'elle vienne tout de suite." someNumber="None" image="dg\105_001.gif" lang2="Скажите ей, чтобы она пришла сейчас же.">
+      <audioTime in="6636" out="8236" />
+    </line>
+    <line lang1="- Vous voulez me voir, monsieur?" someNumber="610" image="dg\105_002.gif" lang2="- Вы хотите видеть меня?">
+      <audioTime in="8236" out="9926" />
+    </line>
+    <line lang1="- Oui, madame." someNumber="610" image="dg\105_002.gif" lang2="- Да, мадам.">
+      <audioTime in="9926" out="10859" />
+    </line>
+    <line lang1="Pouvez-vous épeler le mot &quot;intellectuel&quot;?" someNumber="None" image="dg\105_002.gif" lang2="Вы можете сказать по буквам слово &quot;интеллигент&quot;?">
+      <audioTime in="10859" out="13147" />
+    </line>
+    <line lang1="- &quot;I-n-t-e-l-l-e-c-t-u-e-l&quot;" someNumber="None" image="dg\105_002.gif" lang2="- И-Н-Т-Е-Л-Л-И-Г-Е-Н-Т.">
+      <audioTime in="13147" out="24699" />
+    </line>
+    <line lang1="- C'est juste. Mais vous avez tapé ce mot avec un seul &quot;l&quot;." someNumber="470" image="dg\105_003.gif" lang2="- Это правильно. Но вы напечатали это слово только с одним &quot;Л&quot;.">
+      <audioTime in="24699" out="28868" />
+    </line>
+    <line lang1="Il y a beaucoup de fautes dans cette lettre. Je veux que vous la retapiez." someNumber="None" image="dg\105_003.gif" lang2="В этом письме много ошибок. Я хочу, чтобы вы его перепечатали.">
+      <audioTime in="28868" out="32977" />
+    </line>
+    <line lang1="- Oui, monsieur. Excusez-moi." someNumber="None" image="dg\105_003.gif" lang2="- Да, извините.">
+      <audioTime in="32977" out="34857" />
+    </line>
+    <line lang1="- Voilà un petit cadeau pour vous." someNumber="60" image="dg\105_004.gif" lang2="- Вот маленький подарок для вас.">
+      <audioTime in="34857" out="36837" />
+    </line>
+    <line lang1="- Qu'est-ce que c'est?" someNumber="60" image="dg\105_004.gif" lang2="- Что это?">
+      <audioTime in="36837" out="37989" />
+    </line>
+    <line lang1="- C'est un dictionnaire. Je crois qu'il vous aidera." someNumber="None" image="dg\105_004.gif" lang2="- Это словарь. Я думаю, что он вам поможет.">
+      <audioTime in="37989" out="40324" />
+    </line>
+  </lines>
+</lesson>

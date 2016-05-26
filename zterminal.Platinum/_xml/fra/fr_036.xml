@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="FR_036.wav" dlgName="Такси" dlgFile="exr\frg036.txt" />
+  <lines>
+    <line lang1="- Prenons un taxi." someNumber="None" image="f.jpg" lang2="- Возьмем такси!">
+      <audioTime in="0" out="2317" />
+    </line>
+    <line lang1="- Très volontiers! Nous avons trop de bagages pour aller à pied." someNumber="None" image="f.jpg" lang2="- С удовольствием! У нас слишком много вещей, чтобы идти пешком.">
+      <audioTime in="2317" out="8563" />
+    </line>
+    <line lang1="Hé! chauffeur! chauffeur!" someNumber="None" image="f.jpg" lang2="Эй, шофер, шофер!">
+      <audioTime in="8563" out="12004" />
+    </line>
+    <line lang1="- Hé! là-bas! chauffeur!" someNumber="None" image="f.jpg" lang2="- Эй там! Шофер!">
+      <audioTime in="12004" out="14349" />
+    </line>
+    <line lang1="- Tiens, voici enfin un taxi. Montons." someNumber="None" image="f.jpg" lang2="- Вот, наконец, и такси. Садимся.">
+      <audioTime in="14349" out="20198" />
+    </line>
+    <line lang1="- Il y a beaucoup la place ici." someNumber="None" image="f.jpg" lang2="- Здесь много места.">
+      <audioTime in="20198" out="23968" />
+    </line>
+    <line lang1="Mettez les valises sur le siège." someNumber="None" image="f.jpg" lang2="Положите чемоданы на сидение.">
+      <audioTime in="23968" out="27232" />
+    </line>
+    <line lang1="- Voilà qui est fait." someNumber="None" image="f.jpg" lang2="- Сделано.">
+      <audioTime in="27232" out="29753" />
+    </line>
+    <line lang1="Et maintenant à la gare, s'il vous plaît." someNumber="None" image="f.jpg" lang2="А сейчас пожалуйста на вокзал.">
+      <audioTime in="29753" out="33548" />
+    </line>
+    <line lang1="Passez par la place de la Constitution." someNumber="None" image="f.jpg" lang2="Пожалуйста, поезжайте через площадь Конституции.">
+      <audioTime in="33548" out="37755" />
+    </line>
+    <line lang1="N'allez pas trop vite, nous avons encore beaucoup de temps et la gare n'est pas loin." someNumber="None" image="f.jpg" lang2="Если можно, не слишком быстро, у нас ещё много времени, а вокзал недалеко.">
+      <audioTime in="37755" out="45732" />
+    </line>
+    <line lang1="- Mais regarde! Nous y sommes déjà." someNumber="None" image="f.jpg" lang2="- Смотри! Мы уже приехали.">
+      <audioTime in="45732" out="49352" />
+    </line>
+    <line lang1="- Alors, payons le taxi et déchargeons les valises." someNumber="None" image="f.jpg" lang2="- Тогда заплатим за такси и выгрузим чемоданы.">
+      <audioTime in="49352" out="55201" />
+    </line>
+  </lines>
+</lesson>

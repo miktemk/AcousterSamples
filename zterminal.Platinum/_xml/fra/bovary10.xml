@@ -1,0 +1,317 @@
+<lesson>
+  <header wav="bovary10.wav" dlgName="&quot;Мадам Бовари&quot; Часть 10" />
+  <lines>
+    <line lang1="- Je lui ai dit que je voulais prendre des leçons de piano deux fois par semaine." someNumber="None" image="f\f10_002.jpg" lang2="- Я скажу, что я хочу брать уроки музыки два раза в неделю.">
+      <audioTime in="226" out="3140" />
+    </line>
+    <line lang1="- Mais c'est très cher, des leçons de piano!" someNumber="None" image="f\f10_002.jpg" lang2="- Но это слишком дорого, уроки фортепьяно.">
+      <audioTime in="3291" out="4636" />
+    </line>
+    <line lang1="- Mais je suis riche." someNumber="None" image="f\f10_002.jpg" lang2="- Но я богата!">
+      <audioTime in="4636" out="6351" />
+    </line>
+    <line lang1="Il ne discutait pas ses idées; il acceptait tous ses goûts; il devenait sa maîtresse plutôt qu'elle n'était la sienne." someNumber="None" image="f\f10_003.jpg" lang2="Он не спорил с ней о её взглядах, он соглашался со всеми её вкусами, в сущности не она, а он был её любовницей.">
+      <audioTime in="6836" out="13111" />
+    </line>
+    <line lang1="Elle avait des paroles tendues avec des baisers qui lui emportaient l'âme." someNumber="None" image="f\f10_003.jpg" lang2="У неё были нежные слова, такие поцелуи, от которых у него замирала душа.">
+      <audioTime in="13218" out="16909" />
+    </line>
+    <line lang1="Où donc avait-elle appris cette corruption, presque immatérielle à force d'être profonde et dissimulée?" someNumber="None" image="f\f10_004.jpg" lang2="Где научилась она этой порочности, почти бесплотной, глубокой и скрытой.">
+      <audioTime in="16966" out="23184" />
+    </line>
+    <line lang1="Un jour qu'ils s'étaient quittés de bonne heure, et qu'elle s'en revenait seule par le boulevard," someNumber="None" image="f\f10_004.jpg" lang2="Однажды, когда они расстались рано и когда она одна возвращалась по бульвару,">
+      <audioTime in="23866" out="29321" />
+    </line>
+    <line lang1="elle aperçut les murs de son couvent." someNumber="None" image="f\f10_004.jpg" lang2="она заметила стены монастыря.">
+      <audioTime in="29011" out="31336" />
+    </line>
+    <line lang1="Les premiers mois de son mariage, ses promenades en forêt, le vicomte qui valsait, tout repassa devant ses yeux." someNumber="None" image="f\f10_005.jpg" lang2="Первые месяцы замужества, прогулки в лесу, виконт, танцующий с ней, - всё прошло перед её глазами.">
+      <audioTime in="31749" out="37990" />
+    </line>
+    <line lang1="Et Léon lui parut soudain dans le même éloignement que les autres." someNumber="None" image="f\f10_005.jpg" lang2="И вдруг ей явился Леон - в таком же отдалении, как и прочие.">
+      <audioTime in="38093" out="41208" />
+    </line>
+    <line lang1="- Je l'aime pourtant." someNumber="None" image="f\f10_007.jpg" lang2="- Но ведь я его люблю.">
+      <audioTime in="42963" out="44178" />
+    </line>
+    <line lang1="Qu'importe! Elle n'était pas heureuse, ne l'avait jamais été. Rien ne valait la peine d'une recherche: tout mentait!" someNumber="None" image="f\f10_007.jpg" lang2="Всё равно. Она не была никогда счастлива и не будет. Нет ничего, что стоило бы искать, всё ложь!">
+      <audioTime in="45495" out="54611" />
+    </line>
+    <line lang1="En vertu de la grosse, en forme exécutoire d'un jugement. - Qui est ce? Un monsieur sombre l'a apporté ce midi, disant que c'était d'une extrême urgence." someNumber="None" image="f\f10_012.jpg" lang2="- На основании исполнительного постановления. - Кто это? - Один угрюмый человек принес это днём, сказав, что это крайне срочно.">
+      <audioTime in="54785" out="62017" />
+    </line>
+    <line lang1="La loi et la justice, à M-me Bovary." someNumber="None" image="f\f10_008.jpg" lang2="- Именем закона и правосудия повелевается мадам Бовари.">
+      <audioTime in="62017" out="64275" />
+    </line>
+    <line lang1="- Quel jugement?" someNumber="None" image="f\f10_009.jpg" lang2="- Каким судом?">
+      <audioTime in="64275" out="65088" />
+    </line>
+    <line lang1="Dans vingt-quatre heures pour tout délai, payer la somme totale de huit mille francs." someNumber="None" image="f\f10_010.jpg" lang2="Не позднее 24 часов уплатить всю сумму в восемь тысяч франков.">
+      <audioTime in="66284" out="71638" />
+    </line>
+    <line lang1="Elle y sera contrainte par toute voie de droit, et notamment par la saisie exécutoire de ses meubles et ses effets." someNumber="None" image="f\f10_011.jpg" lang2="К чему она будет принуждена всеми законными средствами, в частности, наложением ареста на движимое и недвижимое имущество.">
+      <audioTime in="72010" out="79244" />
+    </line>
+    <line lang1="A force d'acheter, de ne pas payer, d'emprunter, de souscrire des billets," someNumber="None" image="f\f10_012.jpg" lang2="Покупая вещи и не платя за них, занимая деньги, подписывая и переписывая векселя,">
+      <audioTime in="79113" out="84249" />
+    </line>
+    <line lang1="elle avait fini par préparer au M. Lheureux un capital qu'il attendait impatiemment." someNumber="None" image="f\f10_012.jpg" lang2="она подготовила господину Лере целый капитал, который он ждал с нетерпением.">
+      <audioTime in="84067" out="89117" />
+    </line>
+    <line lang1="- Mme Bovary." someNumber="None" image="f\f10_013.jpg" lang2="- Госпожа Бовари.">
+      <audioTime in="94442" out="95428" />
+    </line>
+    <line lang1="- Vous savez ce qui m'arrive? C'est une plaisanterie, sans doute!" someNumber="None" image="f\f10_014.jpg" lang2="- Вы знаете, что со мной случилось? Это, конечно, шутки!">
+      <audioTime in="95433" out="100617" />
+    </line>
+    <line lang1="- Et non." someNumber="None" image="f\f10_015.jpg" lang2="- Нет.">
+      <audioTime in="102160" out="103081" />
+    </line>
+    <line lang1="- Comment cela?" someNumber="None" image="f\f10_015.jpg" lang2="- Как так?">
+      <audioTime in="103657" out="104449" />
+    </line>
+    <line lang1="- Mais ma petite dame est-ce que vous pensiez que j'allais être votre fournisseur" someNumber="None" image="f\f10_016.jpg" lang2="- Моя милая дама, не думаете ли вы, что я буду вашим поставщиком">
+      <audioTime in="104949" out="110728" />
+    </line>
+    <line lang1="et votre banquier pour l'amour de Dieu jusqu'à la consommation des siècles." someNumber="None" image="f\f10_016.jpg" lang2="и банкиром во имя любви к Господу до окончания веков.">
+      <audioTime in="110503" out="114979" />
+    </line>
+    <line lang1="Mais il faut bien que je rentre dans mes fonds, soyons justes!" someNumber="None" image="f\f10_017.jpg" lang2="Но надо же, чтобы вы вернули мне мои деньги. Будем правдивы.">
+      <audioTime in="114934" out="117959" />
+    </line>
+    <line lang1="- Vous vous rendez comptes? Huit mille francs!" someNumber="None" image="f\f10_018.jpg" lang2="- Но вы представляете себе? 8 тысяч франков?">
+      <audioTime in="118951" out="121575" />
+    </line>
+    <line lang1="- C'est ce que le tribunal a reconnu! Il y a jugement. D'ailleurs vous savez ce n'est pas moi. C'est mon escompteur Vinçart." someNumber="None" image="f\f10_019.jpg" lang2="- Эта сумма признана судом. И вы знаете, что это не я, а мой учетчик Венсар.">
+      <audioTime in="121947" out="132159" />
+    </line>
+    <line lang1="- Est-ce que vous ne pourriez pas faire en sorte..." someNumber="None" image="f\f10_018.jpg" lang2="- А разве вы не могли бы сделать...">
+      <audioTime in="134404" out="137466" />
+    </line>
+    <line lang1="- Oh, moi je ne peux rien. Vous ne connaissez pas Vinçart, il est plus féroce qu'un Arabe!" someNumber="None" image="f\f10_021.jpg" lang2="- О, я не могу ничего. Вы не знаете Венсара, он кровожаднее араба.">
+      <audioTime in="137494" out="142445" />
+    </line>
+    <line lang1="- Ecoutez, je ne savais pas, moi! C'est une telle surprise." someNumber="None" image="f\f10_020.jpg" lang2="- Но послушайте, я не знала! Это такой сюрприз.">
+      <audioTime in="143719" out="146710" />
+    </line>
+    <line lang1="- Oui, mais à qui est la faute? Je travaille comme un nègre, moi, et vous, vous vous payez du bon temps." someNumber="None" image="f\f10_022.jpg" lang2="- А чья вина? Я работаю, как негр, а вы в это время развлекаетесь.">
+      <audioTime in="146726" out="152405" />
+    </line>
+    <line lang1="- Ah! Vous n'allez pas me faire la morale!" someNumber="None" image="f\f10_023.jpg" lang2="- Ах, без нравоучений!">
+      <audioTime in="152813" out="154104" />
+    </line>
+    <line lang1="- Ça ne fait jamais de mal." someNumber="None" image="f\f10_021.jpg" lang2="- Это никогда не вредит.">
+      <audioTime in="154995" out="156345" />
+    </line>
+    <line lang1="- Je vous supplie de faire quelque chose." someNumber="None" image="f\f10_027.jpg" lang2="- Я вас умоляю сделать что-нибудь.">
+      <audioTime in="160623" out="162472" />
+    </line>
+    <line lang1="- Mais, laissez-moi, donc! On dirait que vous voulez me séduire!" someNumber="None" image="f\f10_027.jpg" lang2="- Оставьте меня наконец! Подумают, что вы хотите меня соблазнить.">
+      <audioTime in="163905" out="167036" />
+    </line>
+    <line lang1="- Vous êtes un misérable!" someNumber="None" image="f\f10_029.jpg" lang2="- Негодяй!">
+      <audioTime in="167949" out="168997" />
+    </line>
+    <line lang1="- Oh! Comme vous y allez!" someNumber="None" image="f\f10_027.jpg" lang2="- О, куда вы!">
+      <audioTime in="168997" out="170848" />
+    </line>
+    <line lang1="- Je ferai savoir qui vous êtes. Je dirai qui vous êtes. Je dirai à mon mari..." someNumber="None" image="f\f10_029.jpg" lang2="- Я буду знать, кто вы! Я скажу, кто вы. Я скажу мужу!">
+      <audioTime in="171457" out="175618" />
+    </line>
+    <line lang1="- Laissez-le donc tranquille votre pauvre mari. Moi aussi je peux lui parler, que croyez vous." someNumber="None" image="f\f10_027.jpg" lang2="- Оставьте в покое вашего бедного мужа. Я тоже могу с ним поговорить, поверьте.">
+      <audioTime in="175618" out="181770" />
+    </line>
+    <line lang1="Ce n'est pas amusant, je le sais mais payer d'argent n'est pas mortel, quand on a comme vous des amis!" someNumber="None" image="f\f10_024.jpg" lang2="Я знаю, что это не забавно, но платить - это не смертельно, тем более тогда, когда имеешь таких, как вы, друзей.">
+      <audioTime in="183855" out="192380" />
+    </line>
+    <line lang1="- Mais où puis-je trouver cet argent?" someNumber="None" image="f\f10_025.jpg" lang2="- Где я смогу найти эти деньги?">
+      <audioTime in="193544" out="195562" />
+    </line>
+    <line lang1="- Vous avez des amis, vous dis-je." someNumber="None" image="f\f10_025.jpg" lang2="- У вас есть друзья! Я говорю.">
+      <audioTime in="195562" out="198768" />
+    </line>
+    <line lang1="- Je vous promets, je signerai." someNumber="None" image="f\f10_025.jpg" lang2="- Я вам обещаю. Я подпишу.">
+      <audioTime in="203843" out="205478" />
+    </line>
+    <line lang1="- J'en ai déjà trop de vos signatures!" someNumber="None" image="f\f10_025.jpg" lang2="- Мне надоели ваши подписи!">
+      <audioTime in="205479" out="206789" />
+    </line>
+    <line lang1="- Je vendrai." someNumber="None" image="f\f10_031.jpg" lang2="- Я продам.">
+      <audioTime in="207195" out="207969" />
+    </line>
+    <line lang1="- Mais vous n'avez plus rien à vendre!" someNumber="None" image="f\f10_031.jpg" lang2="- Но вам нечего продавать!">
+      <audioTime in="208060" out="209414" />
+    </line>
+    <line lang1="- Je vous en conjure laissez-moi quelques jours! Vous me désespérez!" someNumber="None" image="f\f10_031.jpg" lang2="- Я клянусь, дайте мне несколько дней ещё! Вы приводите меня в отчаяние!">
+      <audioTime in="209505" out="212499" />
+    </line>
+    <line lang1="- Je m'en moque pas mal!" someNumber="None" image="f\f10_031.jpg" lang2="- Я смеюсь над этим.">
+      <audioTime in="212499" out="214170" />
+    </line>
+    <line lang1="- Bonjour, madame. Je suis maître Hareng, huissier, et je viens pour opérer le procès-verbal de la saisie, dont vous faites l'objet." someNumber="None" image="f\f10_032.jpg" lang2="- Здравствуйте, госпожа. Я мэтр Аран, пристав, и пришёл, чтобы описать имущество.">
+      <audioTime in="222101" out="231071" />
+    </line>
+    <line lang1="Voici mes deux témoins, Ms Latour et Paspoil." someNumber="None" image="f\f10_032.jpg" lang2="Вот мои два свидетеля, г-да Латур и Паспуаль.">
+      <audioTime in="231643" out="234386" />
+    </line>
+    <line lang1="Je n'insris pas cette tête phrénologique, qui doit être considérée comme un instrument de la profession." someNumber="None" image="f\f10_033.jpg" lang2="Я не буду накладывать арест на френологическую голову, отнеся её к орудиям профессиональной деятельности.">
+      <audioTime in="241214" out="246498" />
+    </line>
+    <line lang1="Nous disons neuf casseroles, cinq plats, trois marmites, quatre chaises, deux flambeaux." someNumber="None" image="f\f10_034.jpg" lang2="Скажем: 5 кастрюль, 9 блюд, 3 горшка, 4 стула, 2 подсвечника.">
+      <audioTime in="246605" out="254804" />
+    </line>
+    <line lang1="Ah, très joli, charmant. La loi nous permetrait de laisser sur la place un gardien de la saisie mais je prends sur moi Mme, de vous faire confiance." someNumber="None" image="f\f10_036.jpg" lang2="О, прекрасно, очаровательно. Закон нам разрешает оставить на месте наложения ареста надзирателя, но я надеюсь на вашу совесть, госпожа.">
+      <audioTime in="258259" out="272669" />
+    </line>
+    <line lang1="Ms. Latour et Paspoil se porteront garants de la régularité de l'opération. Madame..." someNumber="None" image="f\f10_035.jpg" lang2="Г-да Латур и Паспуаль гарантируют строгое соблюдение правил операции. Госпожа...">
+      <audioTime in="272715" out="279400" />
+    </line>
+    <line lang1="- Félicité. Tu ne dis pas un mot de tout cela à mon mari, tu comprends? Tu ne dis pas un mot." someNumber="None" image="f\f10_037.jpg" lang2="- Фелисите! Ты ничего не скажешь об этом моему мужу, ты поняла? Ни слова.">
+      <audioTime in="281804" out="289925" />
+    </line>
+    <line lang1="- Mais Madame je ne parle jamais de rien." someNumber="None" image="f\f10_038.jpg" lang2="- Но госпожа, я никогда ни о чем не говорю!">
+      <audioTime in="290132" out="292265" />
+    </line>
+    <line lang1="- Le temps s'est rafraîchi." someNumber="None" image="f\f10_039.jpg" lang2="- Становится прохладно.">
+      <audioTime in="296670" out="298322" />
+    </line>
+    <line lang1="- Je dois aller à Rouen, demain." someNumber="None" image="f\f10_040.jpg" lang2="- Я должна поехать завтра в Руан.">
+      <audioTime in="303047" out="304310" />
+    </line>
+    <line lang1="- Ah bon." someNumber="None" image="f\f10_041.jpg" lang2="- Хорошо.">
+      <audioTime in="304626" out="305439" />
+    </line>
+    <line lang1="- Qui t'amène?" someNumber="None" image="f\f10_042.jpg" lang2="- Кто тебя привез?">
+      <audioTime in="319658" out="320621" />
+    </line>
+    <line lang1="- Je te dérange?" someNumber="None" image="f\f10_043.jpg" lang2="- Я тебе помешала?">
+      <audioTime in="320564" out="321482" />
+    </line>
+    <line lang1="- Non, bien sûr que non, mais je ne t'attendais pas aujourd'hui." someNumber="None" image="f\f10_043.jpg" lang2="- Нет, конечно нет, но я тебя не ждал сегодня.">
+      <audioTime in="321413" out="323547" />
+    </line>
+    <line lang1="- J'ai à te parler, c'est urgent. J'ai besoin de toi. Il me faut huit mille francs." someNumber="None" image="f\f10_044.jpg" lang2="- Я должна с тобой поговорить, это неотложно. Ты мне нужен. Мне надо 8 тысяч франков.">
+      <audioTime in="324097" out="329259" />
+    </line>
+    <line lang1="- Quoi? Mais tu es folle!" someNumber="None" image="f\f10_045.jpg" lang2="- Что? Ты сошла с ума!">
+      <audioTime in="329259" out="331032" />
+    </line>
+    <line lang1="- Non pas encore, pas complètement. Ecoute. Il faut que tu me trouves cet argent." someNumber="None" image="f\f10_046.jpg" lang2="- Пока нет, не совсем. Слушай. Ты должен достать мне эти деньги.">
+      <audioTime in="331530" out="338852" />
+    </line>
+    <line lang1="- Comment veux-tu?" someNumber="None" image="f\f10_047.jpg" lang2="- Как это?">
+      <audioTime in="339377" out="340408" />
+    </line>
+    <line lang1="- Oh, quel lâche tu fais!" someNumber="None" image="f\f10_047.jpg" lang2="- О, как ты труслив!">
+      <audioTime in="340409" out="342034" />
+    </line>
+    <line lang1="- Je suis sûr que tu t'affoles. Peut-être qu'avec un millier d'écus tu calmerais ton bonhomme." someNumber="None" image="f\f10_050.jpg" lang2="- Я уверен, что ты сумасшедшая. Может быть, какой-нибудь тысячей ты его успокоишь, твоего старичка.">
+      <audioTime in="342102" out="346411" />
+    </line>
+    <line lang1="- Et bien raison de plus. Trois mille francs tu doit pouvoir les trouver? Oh, tâche, je t'aimerai bien!" someNumber="None" image="f\f10_049.jpg" lang2="- Ну ладно, лишний повод. Хотя бы 3 тысячи франков ты сможешь найти? О, постарайся, я буду так любить тебя!">
+      <audioTime in="346411" out="353996" />
+    </line>
+    <line lang1="- Mais où, comment?" someNumber="None" image="f\f10_050.jpg" lang2="- Но где и как?">
+      <audioTime in="354364" out="355528" />
+    </line>
+    <line lang1="- Moi, à ta place je saurais les trouver." someNumber="None" image="f\f10_050.jpg" lang2="- Если бы я была на твоём месте, я бы нашла.">
+      <audioTime in="357127" out="358645" />
+    </line>
+    <line lang1="- Où donc?" someNumber="None" image="f\f10_051.jpg" lang2="- Где же?">
+      <audioTime in="358916" out="359459" />
+    </line>
+    <line lang1="- A ton étude!" someNumber="None" image="f\f10_051.jpg" lang2="- У себя в конторе!">
+      <audioTime in="360809" out="361845" />
+    </line>
+    <line lang1="Une hardiesse infernale s'échappait de ses prunelles enflammées, et les paupières se rapprochaient d'une façon lascive et encourageante -" someNumber="None" image="f\f10_053.jpg" lang2="Адская смелость лучилась из её горящих глаз, веки смыкались сладострастно, и она его подстрекала так,">
+      <audioTime in="362209" out="369455" />
+    </line>
+    <line lang1="si bien que le jeune homme se sentit faiblir sous la muette volonté de cette femme qui lui conseillait un crime." someNumber="None" image="f\f10_053.jpg" lang2="что молодой человек почувствовал, что его воля слабеет под немым воздействием этой женщины, которая толкала его на преступление.">
+      <audioTime in="369455" out="375640" />
+    </line>
+    <line lang1="Alors il eut peur." someNumber="None" image="f\f10_048.jpg" lang2="Тогда он испугался.">
+      <audioTime in="376080" out="377544" />
+    </line>
+    <line lang1="- Que je suis bête! Mon ami Morel revient cette nuit, son père est très riche. Je t'apporterai ça demain, demain à trois heures chez la mère Rollet." someNumber="None" image="f\f10_052.jpg" lang2="- Какой я дурак! Мой друг Морель приезжает этой ночью, его отец очень богатый. Я тебе принесу это завтра, завтра в 3 часа у тетушки Ролле.">
+      <audioTime in="378807" out="387170" />
+    </line>
+    <line lang1="Je suis certain qu'il me les prêtera, mon ami, Morel." someNumber="None" image="f\f10_052.jpg" lang2="Я уверен, что он мне их даст, мой друг Морель.">
+      <audioTime in="387409" out="390695" />
+    </line>
+    <line lang1="Mais, chérie, il faut que je m'en aille, excuse-moi!" someNumber="None" image="f\f10_054.jpg" lang2="Но извини, любимая, я должен уйти.">
+      <audioTime in="392786" out="394501" />
+    </line>
+    <line lang1="- Fais très attention, mon ami, ce sont là des médicaments!" someNumber="None" image="f\f10_055.jpg" lang2="- Будь осторожен, мой друг, это медикаменты!">
+      <audioTime in="426196" out="428794" />
+    </line>
+    <line lang1="- Oh! Oh, que je suis charmé de vous voir! J'ignorais votre présence en ces lieux mais vous serez l'agrément du voyage." someNumber="None" image="f\f10_056.jpg" lang2="- О! О, я очарован, видя вас. Ваше присутствие здесь сделает приятным наше путешествие.">
+      <audioTime in="429175" out="437102" />
+    </line>
+    <line lang1="On devrait enfermer ces malheureux, et les forcer à quelque travail!" someNumber="None" image="f\f10_057.jpg" lang2="Таких несчастных следует изолировать и принуждать к труду.">
+      <audioTime in="444610" out="447573" />
+    </line>
+    <line lang1="Décidément le progrès marche à pas de tortue! nous pataugeons dans la barbarie!" someNumber="None" image="f\f10_057.jpg" lang2="Прогресс идёт черепашьим шагом, а мы коснеем в полном варварстве.">
+      <audioTime in="447646" out="451718" />
+    </line>
+    <line lang1="Et bien voilà, une belle infection scrofuleuse!" someNumber="None" image="f\f10_058.jpg" lang2="Характерная золотуха!">
+      <audioTime in="452446" out="456663" />
+    </line>
+    <line lang1="- Dis-moi, mon ami au lieu de t'enivrer au cabaret, tu ferais mieux de suivre un régime." someNumber="None" image="f\f10_058.jpg" lang2="- Скажи мне, мой друг, вместо того, чтобы пить в кабаках, ты лучше бы придерживался режима.">
+      <audioTime in="457172" out="460600" />
+    </line>
+    <line lang1="- Je connais une pommade qui pourrait te faire du bien!" someNumber="None" image="f\f10_059.jpg" lang2="- Я знаю мазь, которая тебе поможет.">
+      <audioTime in="461498" out="463572" />
+    </line>
+    <line lang1="- Et bien dis donc, j'espère que pour la peine, tu vas nous montrer la comédie." someNumber="None" image="f\f10_060.jpg" lang2="- Скажи-ка, что за все беспокойства ты нам разыграешь комедию.">
+      <audioTime in="463995" out="467881" />
+    </line>
+    <line lang1="- Madame, madame. C'est une abomination!" someNumber="None" image="f\f10_061.jpg" lang2="- Госпожа, госпожа, беда!">
+      <audioTime in="482267" out="484640" />
+    </line>
+    <line lang1="- Qu'y a-t-il?" someNumber="None" image="f\f10_061.jpg" lang2="- Что случилось?">
+      <audioTime in="484865" out="485768" />
+    </line>
+    <line lang1="- C'était sur la place, Madame il y a des affiches partout!" someNumber="None" image="f\f10_062.jpg" lang2="- На площади, госпожа, повсюду афиши!">
+      <audioTime in="485802" out="488139" />
+    </line>
+    <line lang1="- Mon mari le sait?" someNumber="None" image="f\f10_062.jpg" lang2="- Мой муж знает?">
+      <audioTime in="489840" out="490769" />
+    </line>
+    <line lang1="- Non, il est parti bien tôt ce matin. J'étais à peine descendue. Si j'étais vous, Madame, j'irais chez le notaire, chez M. Guillaumin." someNumber="None" image="f\f10_063.jpg" lang2="- Нет, он уехал очень рано утром. Я тут же спустилась. Если бы я была на вашем месте, я пошла бы к нотариусу, к господину Гийомену.">
+      <audioTime in="490977" out="498833" />
+    </line>
+    <line lang1="- Tu crois? Mais nous n'avons pas de relations avec lui? - Quand même, j'irais. - Cet après-midi je pense que je vais avoir de l'argent." someNumber="None" image="f\f10_063.jpg" lang2="- Ты думаешь? Но у нас с ним никаких отношений? - Тем не менее я пойду. - Я думаю, что после полудня у меня будут деньги.">
+      <audioTime in="498735" out="509092" />
+    </line>
+    <line lang1="- Mais cela ne peut pas faire de mal, d'aller voir M. Guillaumin." someNumber="None" image="f\f10_064.jpg" lang2="- Но разве помешает пойти к Гийомену.">
+      <audioTime in="509092" out="511711" />
+    </line>
+    <line lang1="- Tu crois, vraiment? Prépare ma robe noire. Je passerai par derrière je ne veux pas qu'on me voie." someNumber="None" image="f\f10_064.jpg" lang2="- Ты так думаешь? Подготовь моё чёрное платье. Я пройду чёрным ходом, чтобы меня не видели.">
+      <audioTime in="513592" out="521091" />
+    </line>
+    <line lang1="- Mille écus!" someNumber="None" image="f\f10_065.jpg" lang2="- Тысяча экю!">
+      <audioTime in="529090" out="529946" />
+    </line>
+    <line lang1="- Comment se fait-il que vous ayez besoin de cette somme, chère madame?" someNumber="None" image="f\f10_068.jpg" lang2="- Как случилось, что вам необходима эта сумма, дорогая госпожа.">
+      <audioTime in="533435" out="536007" />
+    </line>
+    <line lang1="Vous auriez dû me charger de la gestion de vos biens." someNumber="None" image="f\f10_066.jpg" lang2="Вы должны были бы обременить меня ведением Вашего имущества.">
+      <audioTime in="538148" out="540480" />
+    </line>
+    <line lang1="Il y a cent moyens commodes, savez-vous, de faire valoir son argent. D'où vient, que vous n'êtes pas venue chez moi?" someNumber="None" image="f\f10_068.jpg" lang2="Есть сто способов, вполне удобных, знаете ли вы, чтобы заработать деньги. Как случилось, что вы не обратились ко мне?">
+      <audioTime in="540954" out="550165" />
+    </line>
+    <line lang1="Je ne sais trop!" someNumber="None" image="f\f10_066.jpg" lang2="- Я не знаю.">
+      <audioTime in="552454" out="553821" />
+    </line>
+    <line lang1="- Je vous faisais donc bien peur?" someNumber="None" image="f\f10_068.jpg" lang2="- Я вас испугал?">
+      <audioTime in="554412" out="555865" />
+    </line>
+    <line lang1="Je ne vous savez pas peureuse. Je vous suis pourtant tout dévoué. Vous ne l'ignorez pas, j'éspère?" someNumber="None" image="f\f10_068.jpg" lang2="Не думал я, что вы трусиха. А между тем я вам предан. Вы не сомневаетесь, я надеюсь?">
+      <audioTime in="555961" out="562646" />
+    </line>
+    <line lang1="Vous êtes une jeune femme charmante, le soleil de notre ville, et puis je suis très sensible à la grâce, à la beauté..." someNumber="None" image="f\f10_068.jpg" lang2="Вы молодая очаровательная женщина, солнце нашего города, а я очень чувствителен к такой грации, красоте...">
+      <audioTime in="564402" out="571221" />
+    </line>
+  </lines>
+</lesson>

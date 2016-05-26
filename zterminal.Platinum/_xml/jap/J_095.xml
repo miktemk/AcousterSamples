@@ -1,0 +1,119 @@
+<lesson>
+  <header wav="j_095.wav" dlgName="География Японии" dic="p095" />
+  <lines>
+    <line lang1="―さあ、小山*さん、この*地図*で*日本*に*ついて、説明して*ごらん*なさい。" someNumber="None" image="095_001.jpg" lang2="- Ну, Кояма-сан, попробуйте подойти к карте и рассказать о Японии!">
+      <audioTime in="0" out="6357" />
+    </line>
+    <line lang1="ーはい。日本*は*アジア大陸*の*東*に*ある*国*です。" someNumber="None" image="095_002.jpg" lang2="- Да. Япония - страна, расположенная на востоке азиатского континента.">
+      <audioTime in="6357" out="11846" />
+    </line>
+    <line lang1="南北*約*３０００*キロメートル*以上*に*わたって*つらなっている*島国*です。" someNumber="143" image="095_003.jpg" lang2="Это островная страна, простирающаяся с Юга на Север более, чем на 3000 км.">
+      <audioTime in="11846" out="18031" />
+    </line>
+    <line lang1="大きい*島*は*北*から*北海道、本州、四国、九州*の*４島*です。" someNumber="None" image="095_003.jpg" lang2="Крупнейшие 4 острова, начиная с Севера, - Хоккайдо, Хонсю, Сикоку, Кюсю.">
+      <audioTime in="18031" out="26395" />
+    </line>
+    <line lang1="日本*は*まわり*を*海*に*囲まれています。" someNumber="95" image="095_005.jpg" lang2="Япония окружена морями.">
+      <audioTime in="26395" out="29706" />
+    </line>
+    <line lang1="東*は*太平洋*で、" someNumber="None" image="095_006.jpg" lang2="На Востоке - Тихий океан,">
+      <audioTime in="29706" out="32731" />
+    </line>
+    <line lang1="西*は*日本海*です。" someNumber="None" image="095_007.jpg" lang2="на Западе - японское море.">
+      <audioTime in="32731" out="34302" />
+    </line>
+    <line lang1="日本*列島*は*太平洋*を*囲む*火山帯*に*あり、" someNumber="148" image="095_008.jpg" lang2="На Японском архипелаге со стороны Тихого океана есть вулканический пояс;">
+      <audioTime in="34302" out="39050" />
+    </line>
+    <line lang1="火山*と*じしん*の*多い*国*です。" someNumber="None" image="095_009.jpg" lang2="это страна, где бывает много извержений вулканов и землетрясений.">
+      <audioTime in="39050" out="41395" />
+    </line>
+    <line lang1="しかし、火山*は*いつも*噴火している*と*言う*わけ*ではありません。" someNumber="110" image="095_010.jpg" lang2="Однако, нет причин считать, что вулканы постоянно действуют.">
+      <audioTime in="41395" out="46441" />
+    </line>
+    <line lang1="例えば、日本*一高い*富士山*は*今*は*噴火*を*していない*休火山*です。" someNumber="None" image="095_011.jpg" lang2="Например, высочайшая гора Японии, Фудзи - недействующий спящий вулкан.">
+      <audioTime in="46441" out="53108" />
+    </line>
+    <line lang1="富士山*は*高さ*が*３７６６*メートル*です。" someNumber="None" image="095_012.jpg" lang2="Высота Фудзиямы 3766 метров.">
+      <audioTime in="53108" out="58491" />
+    </line>
+    <line lang1="日本*の*川*は*短くて、流れ*が*速い*です。" someNumber="None" image="095_013.jpg" lang2="Реки в Японии короткие, а течение их быстрое.">
+      <audioTime in="58491" out="63674" />
+    </line>
+    <line lang1="一番*長い*川*は*しなの川*です。" someNumber="None" image="095_014.jpg" lang2="Самая длинная река - Синаногава.">
+      <audioTime in="63674" out="68318" />
+    </line>
+    <line lang1="日本*で*は*毎年*夏*は*南東、冬*は*北西*の*きせつ*風*が*吹きます。" someNumber="None" image="095_015.jpg" lang2="В Японии каждый год, летом с Юго-Востока, а зимой с Северо-Запада дуют сезонные ветра.">
+      <audioTime in="68318" out="75104" />
+    </line>
+    <line lang1="冬*の*北西*の*きせつ*風*は*よく*雪*を*降らせて、" someNumber="None" image="095_016.jpg" lang2="Зимние северо-западные муссоны часто способствуют выпаданию снега,">
+      <audioTime in="75104" out="81351" />
+    </line>
+    <line lang1="夏*の*南東*の*季節*風*は*よく*雨*を*降らせます。" someNumber="None" image="095_017.jpg" lang2="а летние юго-восточные муссоны часто способствуют выпаданию дождей.">
+      <audioTime in="81351" out="85649" />
+    </line>
+    <line lang1="―良く*できました。座って*下さい。" someNumber="None" image="095_018.jpg" lang2="- Молодчина! Садитесь!">
+      <audioTime in="85649" out="89464" />
+    </line>
+    <line lang1="では、小林*さん、" someNumber="None" image="095_018.jpg" lang2="Теперь Вы, Кобаяси-сан,">
+      <audioTime in="89464" out="91461" />
+    </line>
+    <line lang1="日本*の*行政*区画*と*都市*に*関*して、何*か*知っている*こと*を*言って*ごらん*なさい。" someNumber="127" image="095_018.jpg" lang2="расскажите, что Вы знаете об административном делении Японии и о городах.">
+      <audioTime in="91461" out="97235" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="095_021.jpg" lang2="- Ясно!">
+      <audioTime in="97550" out="99487" />
+    </line>
+    <line lang1="日本*は*１都、" someNumber="None" image="095_022.jpg" lang2="Япония состоит из одной столичной префектуры,">
+      <audioTime in="99261" out="100801" />
+    </line>
+    <line lang1="１道、" someNumber="None" image="095_023.jpg" lang2="одной островной префектуры,">
+      <audioTime in="100801" out="101424" />
+    </line>
+    <line lang1="２府、" someNumber="None" image="095_024.jpg" lang2="двух городских префектур">
+      <audioTime in="101551" out="102031" />
+    </line>
+    <line lang1="４３県*から*なり、" someNumber="None" image="095_025.jpg" lang2="и 43 (обычных) префектур.">
+      <audioTime in="102031" out="104030" />
+    </line>
+    <line lang1="首都*は*東京*です。" someNumber="None" image="095_026.jpg" lang2="Столицей является Токио.">
+      <audioTime in="104030" out="105869" />
+    </line>
+    <line lang1="人口*１００万*以上*の*大都市*は*東京都、" someNumber="167" image="095_026.jpg" lang2="Крупными городами с населением более миллиона, являются Токио,">
+      <audioTime in="106110" out="112841" />
+    </line>
+    <line lang1="大阪市、" someNumber="None" image="095_028.jpg" lang2="Осака,">
+      <audioTime in="112841" out="114064" />
+    </line>
+    <line lang1="京都市、" someNumber="None" image="095_029.jpg" lang2="Киото,">
+      <audioTime in="114064" out="115258" />
+    </line>
+    <line lang1="横浜市、" someNumber="None" image="095_030.jpg" lang2="Йокогама,">
+      <audioTime in="115258" out="116562" />
+    </line>
+    <line lang1="神戸市、" someNumber="None" image="095_031.jpg" lang2="Кобе,">
+      <audioTime in="116562" out="117755" />
+    </line>
+    <line lang1="名古屋市、" someNumber="None" image="095_032.jpg" lang2="Нагоя,">
+      <audioTime in="117755" out="118965" />
+    </line>
+    <line lang1="さっぽろ市、" someNumber="None" image="095_033.jpg" lang2="Саппоро,">
+      <audioTime in="118965" out="120395" />
+    </line>
+    <line lang1="せんだい市、" someNumber="None" image="095_034.jpg" lang2="Сэндай,">
+      <audioTime in="120395" out="121605" />
+    </line>
+    <line lang1="川崎市、" someNumber="None" image="095_035.jpg" lang2="Кавасаки,">
+      <audioTime in="121605" out="122749" />
+    </line>
+    <line lang1="広島市、" someNumber="None" image="095_036.jpg" lang2="Хиросима,">
+      <audioTime in="122749" out="124068" />
+    </line>
+    <line lang1="ふくおか市、" someNumber="None" image="095_037.jpg" lang2="Фукуока,">
+      <audioTime in="124068" out="125324" />
+    </line>
+    <line lang1="北九州市*です。" someNumber="None" image="095_038.jpg" lang2="Китакюсю.">
+      <audioTime in="125324" out="127516" />
+    </line>
+  </lines>
+</lesson>

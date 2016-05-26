@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="f_017.wav" dic="p017" dlgName="Знакомьтесь." dlgFile="exr\fg017.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Entrez et faites connaissance avec nos employés, monsieur Noirot." someNumber="None" image="dg\017_001.gif" lang2="- Входите и знакомьтесь с нашими служащими, г-н Нуаро.">
+      <audioTime in="0" out="3285" />
+    </line>
+    <line lang1="- Merci, monsieur Gabin." someNumber="None" image="dg\017_001.gif" lang2="- Спасибо, г-н Габен.">
+      <audioTime in="3285" out="5051" />
+    </line>
+    <line lang1="- C'est madame Dubois, et ça c'est Mme Bernard." someNumber="610" image="dg\017_002.gif" lang2="- Это - г-жа Дюбуа, а это - г-жа Бернар.">
+      <audioTime in="5051" out="8064" />
+    </line>
+    <line lang1="- Bonjour." someNumber="610" image="dg\017_002.gif" lang2="- Здравствуйте.">
+      <audioTime in="8064" out="9259" />
+    </line>
+    <line lang1="- Quelles jolies filles! Que font-elles?" someNumber="None" image="dg\017_003.gif" lang2="- Какие хорошенькие девушки. Что они делают?">
+      <audioTime in="9259" out="11748" />
+    </line>
+    <line lang1="- Elles sont dactylos." someNumber="None" image="dg\017_003.gif" lang2="- Они машинистки.">
+      <audioTime in="11748" out="14037" />
+    </line>
+    <line lang1="- C'est monsieur Cocteau, et ça, c'est monsieur Verdier." someNumber="None" image="dg\017_004.gif" lang2="- Это - г-н Кокто, а это - г-н Вердье.">
+      <audioTime in="14037" out="17024" />
+    </line>
+    <line lang1="- Bonjour." someNumber="None" image="dg\017_004.gif" lang2="- Здравствуйте.">
+      <audioTime in="17024" out="18518" />
+    </line>
+    <line lang1="- Ils ne sont pas très occupés. Que font-ils?" someNumber="730" image="dg\017_005.gif" lang2="- Они не очень заняты! Что они делают?">
+      <audioTime in="18518" out="21704" />
+    </line>
+    <line lang1="- Ils sont clercs. Ils sont paresseux." someNumber="730" image="dg\017_005.gif" lang2="- Они клерки. Они ленивы.">
+      <audioTime in="21704" out="24666" />
+    </line>
+    <line lang1="- Et qui est ce jeune homme?" someNumber="None" image="dg\017_006.gif" lang2="- Кто этот молодой человек?">
+      <audioTime in="24666" out="26682" />
+    </line>
+    <line lang1="- C'est Jean. Il est employé." someNumber="None" image="dg\017_006.gif" lang2="- Это Жан. Он служащий.">
+      <audioTime in="26682" out="28530" />
+    </line>
+  </lines>
+</lesson>

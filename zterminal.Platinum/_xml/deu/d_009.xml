@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="d_009.wav" dic="p009" dlgName="Встреча." dlgFile="exr\dg009.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Guten Tag, Frau Müller." someNumber="140" image="dg\009_001.gif" lang2="- Добрый день, госпожа Мюллер.">
+      <audioTime in="87" out="1451" />
+    </line>
+    <line lang1="- Guten Tag, Herr Braun." someNumber="140" image="dg\009_001.gif" lang2="- Добрый день, господин Браун.">
+      <audioTime in="1759" out="3034" />
+    </line>
+    <line lang1="- Wie #geht es Ihnen heute?" someNumber="360" image="dg\009_002.gif" lang2="- Как Вы себя чувствуете сегодня?">
+      <audioTime in="3430" out="4881" />
+    </line>
+    <line lang1="- Oh, es #geht ganz gut, danke schön." someNumber="360" image="dg\009_002.gif" lang2="- Очень хорошо, спасибо.">
+      <audioTime in="5541" out="7300" />
+    </line>
+    <line lang1="Und wie #geht es Ihnen?" someNumber="360" image="dg\009_002.gif" lang2="А Вы?">
+      <audioTime in="7388" out="8751" />
+    </line>
+    <line lang1="- Ach, mir #geht es ganz gut, danke sehr." someNumber="870" image="dg\009_003.gif" lang2="- Я в порядке, спасибо.">
+      <audioTime in="9147" out="11654" />
+    </line>
+    <line lang1="Wie #geht's Herrn Müller?" someNumber="200" image="dg\009_004.gif" lang2="Как господин Мюллер?">
+      <audioTime in="12093" out="13149" />
+    </line>
+    <line lang1="- Ach, dem #geht's ganz gut, danke schön." someNumber="None" image="dg\009_004.gif" lang2="- Хорошо, спасибо.">
+      <audioTime in="13897" out="15919" />
+    </line>
+    <line lang1="Wie #geht es Frau Braun?" someNumber="200" image="dg\009_004.gif" lang2="Как госпожа Браун?">
+      <audioTime in="16228" out="17723" />
+    </line>
+    <line lang1="- Ihr #geht es auch ganz gut, Frau Müller." someNumber="None" image="dg\009_004.gif" lang2="- Очень хорошо, также, госпожа Мюллер.">
+      <audioTime in="18075" out="20713" />
+    </line>
+    <line lang1="Auf Wiedersehen, Frau Müller." someNumber="700" image="dg\009_005.gif" lang2="До свидания, госпожа Мюллер.">
+      <audioTime in="21241" out="22560" />
+    </line>
+    <line lang1="Es #war sehr angenehm, Sie zu #sehen." someNumber="700" image="dg\009_005.gif" lang2="Приятно было увидеть Вас.">
+      <audioTime in="22868" out="25067" />
+    </line>
+    <line lang1="- Auch mir #war es angenehm, Sie zu #sehen, Herr Braun." someNumber="700" image="dg\009_005.gif" lang2="- Мне также было приятно увидеть Вас, господин Браун.">
+      <audioTime in="25023" out="27574" />
+    </line>
+    <line lang1="Auf Wiedersehen." someNumber="700" image="dg\009_005.gif" lang2="До свидания.">
+      <audioTime in="27574" out="28703" />
+    </line>
+  </lines>
+</lesson>

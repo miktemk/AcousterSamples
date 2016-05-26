@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_040.wav" dic="p040" dlgName="Что Вы собираетесь?.." dlgFile="exr\ig039.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Lei ha intenzione di mettersi il cappello?" someNumber="None" image="dg\040_001.gif" lang2="- Вы собираетесь надеть Вашу шляпу?">
+      <audioTime in="119" out="2678" />
+    </line>
+    <line lang1="- Sì, ho intenzione di mettermelo." someNumber="None" image="dg\040_001.gif" lang2="- Да, я собираюсь надеть её.">
+      <audioTime in="2752" out="5266" />
+    </line>
+    <line lang1="- Lei ha intenzione di levarsi le scarpe?" someNumber="None" image="dg\040_002.gif" lang2="- Вы собираетесь снять Ваши туфли?">
+      <audioTime in="5212" out="8064" />
+    </line>
+    <line lang1="- Sì, ho intenzione di levarmele." someNumber="None" image="dg\040_002.gif" lang2="- Да, я собираюсь их снять.">
+      <audioTime in="8026" out="10861" />
+    </line>
+    <line lang1="- Lei ha intenzione di accendere la luce?" someNumber="None" image="dg\040_003.gif" lang2="- Вы собираетесь включить свет?">
+      <audioTime in="10758" out="13898" />
+    </line>
+    <line lang1="- Sì, ho intenzione di accenderla." someNumber="None" image="dg\040_003.gif" lang2="- Да, я собираюсь включить его.">
+      <audioTime in="13823" out="16704" />
+    </line>
+    <line lang1="- Lei ha intenzione di chiudere i rubinetti?" someNumber="None" image="dg\040_004.gif" lang2="- Вы собираетесь закрыть краны?">
+      <audioTime in="16621" out="19666" />
+    </line>
+    <line lang1="- Sì, ho intenzione di chiuderli." someNumber="None" image="dg\040_004.gif" lang2="- Да, я собираюсь закрыть их.">
+      <audioTime in="19501" out="22052" />
+    </line>
+    <line lang1="- Lei ha intenzione di mettersi l'abito?" someNumber="None" image="dg\040_005.gif" lang2="- Вы собираетесь одеть Ваш костюм?">
+      <audioTime in="21999" out="24805" />
+    </line>
+    <line lang1="- Sì, ho intenzione di mettermelo." someNumber="None" image="dg\040_005.gif" lang2="- Да, я собираюсь одеть его.">
+      <audioTime in="24767" out="27153" />
+    </line>
+    <line lang1="- Lei ha intenzione di togliersi il cappello?" someNumber="None" image="dg\040_006.gif" lang2="- Вы собираетесь снять Вашу шляпу?">
+      <audioTime in="27153" out="30034" />
+    </line>
+    <line lang1="- Sì, ho intenzione di togliermelo." someNumber="None" image="dg\040_006.gif" lang2="- Да, я собираюсь снять её.">
+      <audioTime in="29951" out="32584" />
+    </line>
+    <line lang1="- Lei ha intenzione di accendere la luce?" someNumber="None" image="dg\040_003.gif" lang2="- Вы собираетесь включить свет?">
+      <audioTime in="32502" out="35300" />
+    </line>
+    <line lang1="- Sì, ho intenzione di accendere la luce." someNumber="None" image="dg\040_003.gif" lang2="- Да, я собираюсь включить свет.">
+      <audioTime in="35263" out="38344" />
+    </line>
+    <line lang1="- Lei ha intenzione di spegnere la TV?" someNumber="None" image="dg\040_007.gif" lang2="- Вы собираетесь выключить телевизор?">
+      <audioTime in="38262" out="41075" />
+    </line>
+    <line lang1="- Sì, ho intenzione di spegnerla." someNumber="None" image="dg\040_007.gif" lang2="- Да, я собираюсь выключить его.">
+      <audioTime in="41083" out="43693" />
+    </line>
+    <line lang1="- Lei ha intenzione di spegnere la luce?" someNumber="None" image="dg\040_008.gif" lang2="- Вы собираетесь выключить свет?">
+      <audioTime in="43738" out="46520" />
+    </line>
+    <line lang1="- Sì, ho intenzione di spegnerla." someNumber="None" image="dg\040_008.gif" lang2="- Да, я собираюсь выключить его.">
+      <audioTime in="46454" out="49123" />
+    </line>
+    <line lang1="- Lei ha intenzione di spegnere la radio?" someNumber="None" image="dg\040_009.gif" lang2="- Вы собираетесь выключить радио?">
+      <audioTime in="49050" out="52086" />
+    </line>
+    <line lang1="- Sì, ho intenzione di spegnerla." someNumber="None" image="dg\040_009.gif" lang2="- Да, я собираюсь выключить его.">
+      <audioTime in="52004" out="54473" />
+    </line>
+  </lines>
+</lesson>

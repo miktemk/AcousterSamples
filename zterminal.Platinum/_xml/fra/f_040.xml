@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_040.wav" dic="p040" dlgName="Что Вы собираетесь?.." dlgFile="exr\fg039.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Allez-vous mettre votre chapeau?" someNumber="930" image="dg\040_001.gif" lang2="- Вы собираетесь надеть вашу шляпу?">
+      <audioTime in="0" out="1410" />
+    </line>
+    <line lang1="- Oui, je vais le mettre." someNumber="None" image="dg\040_001.gif" lang2="- Да, я собираюсь надеть её.">
+      <audioTime in="1410" out="2370" />
+    </line>
+    <line lang1="- Allez-vous enlever vos souliers?" someNumber="210" image="dg\040_002.gif" lang2="- Вы собираетесь снять ваши туфли?">
+      <audioTime in="2370" out="3712" />
+    </line>
+    <line lang1="- Oui, je vais les enlever." someNumber="None" image="dg\040_002.gif" lang2="- Да, я собираюсь их снять.">
+      <audioTime in="3712" out="5064" />
+    </line>
+    <line lang1="- Allez-vous allumer la lumière?" someNumber="200" image="dg\040_003.gif" lang2="- Вы собираетесь включить свет?">
+      <audioTime in="5064" out="6418" />
+    </line>
+    <line lang1="- Oui, je vais l'allumer." someNumber="None" image="dg\040_003.gif" lang2="- Да, я собираюсь включить его.">
+      <audioTime in="6418" out="7644" />
+    </line>
+    <line lang1="- Allez-vous fermer les robinets?" someNumber="None" image="dg\040_004.gif" lang2="- Вы собираетесь закрыть краны?">
+      <audioTime in="7644" out="8950" />
+    </line>
+    <line lang1="- Oui, je vais les fermer." someNumber="None" image="dg\040_004.gif" lang2="- Да, я собираюсь закрыть их.">
+      <audioTime in="8950" out="10214" />
+    </line>
+    <line lang1="- Allez-vous mettre votre costume?" someNumber="None" image="dg\040_005.gif" lang2="- Вы собираетесь одеть ваш костюм?">
+      <audioTime in="10214" out="11666" />
+    </line>
+    <line lang1="- Oui, je vais le mettre." someNumber="None" image="dg\040_005.gif" lang2="- Да, я собираюсь одеть его.">
+      <audioTime in="11666" out="12774" />
+    </line>
+    <line lang1="- Allez-vous enlever votre chapeau?" someNumber="None" image="dg\040_006.gif" lang2="- Вы собираетесь снять вашу шляпу?">
+      <audioTime in="12774" out="14217" />
+    </line>
+    <line lang1="- Oui, je vais l'enlever." someNumber="700" image="dg\040_006.gif" lang2="- Да, я собираюсь снять её.">
+      <audioTime in="14217" out="15346" />
+    </line>
+    <line lang1="- Allez-vous brancher la lumière?" someNumber="None" image="dg\040_008.gif" lang2="- Вы собираетесь включить свет?">
+      <audioTime in="15346" out="16701" />
+    </line>
+    <line lang1="- Oui, je vais brancher la lumière." someNumber="None" image="dg\040_008.gif" lang2="- Да, я собираюсь включить свет.">
+      <audioTime in="16701" out="18231" />
+    </line>
+    <line lang1="- Allez-vous fermer la télé?" someNumber="None" image="dg\040_007.gif" lang2="- Вы собираетесь выключить телевизор?">
+      <audioTime in="18231" out="19372" />
+    </line>
+    <line lang1="- Oui, je vais la fermer." someNumber="None" image="dg\040_007.gif" lang2="- Да, я собираюсь выключить его.">
+      <audioTime in="19372" out="20636" />
+    </line>
+    <line lang1="- Allez-vous éteindre la lumière?" someNumber="None" image="dg\040_008.gif" lang2="- Вы собираетесь выключить свет?">
+      <audioTime in="20636" out="21893" />
+    </line>
+    <line lang1="- Oui, je vais l'éteindre." someNumber="None" image="dg\040_008.gif" lang2="- Да, я собираюсь выключить его.">
+      <audioTime in="21893" out="23085" />
+    </line>
+    <line lang1="- Allez-vous fermer la radio?" someNumber="None" image="dg\040_009.gif" lang2="- Вы собираетесь выключить радио?">
+      <audioTime in="23085" out="24242" />
+    </line>
+    <line lang1="- Oui, je vais la fermer." someNumber="None" image="dg\040_009.gif" lang2="- Да, я собираюсь выключить его.">
+      <audioTime in="24242" out="25477" />
+    </line>
+  </lines>
+</lesson>

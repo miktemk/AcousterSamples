@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_070.wav" dic="p070" dlgName="Когда они были?..." dlgFile="exr\fg069.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Quand Réné et Marie sont-ils allés chez le marchand de fournitures de bureau?" someNumber="810" image="dg\070_001.gif" lang2="- Когда Рене и Мари ходили к торговцу канцтоварами?">
+      <audioTime in="0" out="3303" />
+    </line>
+    <line lang1="- Ils y sont allés lundi." someNumber="None" image="dg\070_001.gif" lang2="- Они туда ходили в понедельник.">
+      <audioTime in="3303" out="4556" />
+    </line>
+    <line lang1="- Quand Suzanne et vous, êtes-vous allés au bureau?" someNumber="None" image="dg\070_002.gif" lang2="- Когда Сюзанн и вы ездили в офис?">
+      <audioTime in="4556" out="6429" />
+    </line>
+    <line lang1="- Nous y sommes allées le 23 mars." someNumber="None" image="dg\070_002.gif" lang2="- Мы туда ездили 23-го марта.">
+      <audioTime in="6429" out="8301" />
+    </line>
+    <line lang1="- Quand suis-je allé en Inde?" someNumber="None" image="dg\070_003.gif" lang2="- Когда я ездил в Индию?">
+      <audioTime in="8301" out="9508" />
+    </line>
+    <line lang1="- Vous y étiez en 1931." someNumber="None" image="dg\070_003.gif" lang2="- Вы там были в 1931.">
+      <audioTime in="9508" out="11459" />
+    </line>
+    <line lang1="- Marie et vous, quand êtes-vous allés en Australie?" someNumber="None" image="dg\070_004.gif" lang2="- Мари и вы, когда вы ездили в Австралию?">
+      <audioTime in="11459" out="13893" />
+    </line>
+    <line lang1="- Nous y sommes allés en juillet." someNumber="None" image="dg\070_004.gif" lang2="- Мы туда ездили в июле.">
+      <audioTime in="13893" out="15431" />
+    </line>
+    <line lang1="- Quand suis-je allé à la crémerie?" someNumber="None" image="dg\070_005.gif" lang2="- Когда я ходил в молочный магазин?">
+      <audioTime in="15431" out="16813" />
+    </line>
+    <line lang1="- Tu y es allé samedi." someNumber="None" image="dg\070_005.gif" lang2="- Ты туда ходил в субботу.">
+      <audioTime in="16813" out="18507" />
+    </line>
+    <line lang1="- Quand Alice et Claire sont-elles allées en Yougoslavie?" someNumber="530" image="dg\070_006.gif" lang2="- Когда Алис и Клара ездили в Югославию?">
+      <audioTime in="18507" out="20975" />
+    </line>
+    <line lang1="- Elles y sont allées en 1967." someNumber="None" image="dg\070_006.gif" lang2="- Они туда ездили в 1967 году.">
+      <audioTime in="20975" out="23076" />
+    </line>
+    <line lang1="- Quand Georges et moi, sommes-nous allés en Autriche?" someNumber="None" image="dg\070_007.gif" lang2="- Когда Жорж и я ездили в Австрию?">
+      <audioTime in="23076" out="25148" />
+    </line>
+    <line lang1="- Nous y sommes allés en août." someNumber="None" image="dg\070_007.gif" lang2="- Мы туда ездили в августе.">
+      <audioTime in="25148" out="26540" />
+    </line>
+    <line lang1="- Quand sont-ils tous allés à la maison?" someNumber="50" image="dg\070_008.gif" lang2="- Когда все они ездили домой?">
+      <audioTime in="26540" out="28071" />
+    </line>
+    <line lang1="- Ils y sont allés le 25 mai." someNumber="None" image="dg\070_008.gif" lang2="- Они туда ездили 25-го мая.">
+      <audioTime in="28071" out="29657" />
+    </line>
+    <line lang1="- Quand suis-je allé chez le coiffeur?" someNumber="None" image="dg\070_009.gif" lang2="- Когда я ходил к парикмахеру?">
+      <audioTime in="29657" out="31164" />
+    </line>
+    <line lang1="- Vous y êtes allés samedi." someNumber="None" image="dg\070_009.gif" lang2="- Вы туда ходили в субботу.">
+      <audioTime in="31164" out="32657" />
+    </line>
+    <line lang1="- Quand David et vous, êtes-vous allés en Finlande?" someNumber="190" image="dg\070_010.gif" lang2="- Когда Давид и вы ездили в Финляндию?">
+      <audioTime in="32657" out="34767" />
+    </line>
+    <line lang1="- Nous y sommes allés en décembre." someNumber="None" image="dg\070_010.gif" lang2="- Мы туда ездили в декабре.">
+      <audioTime in="34767" out="36319" />
+    </line>
+  </lines>
+</lesson>

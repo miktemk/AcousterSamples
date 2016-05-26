@@ -1,0 +1,215 @@
+<lesson>
+   <header wav="glag06.mp3" dic="dic" dlgName="glag06.mp3" dlgFile="glag06.xml" author="acouster"/>
+   <lines class="java.util.Vector">
+      <line lang1="Мен тазалайын" lang2="Давай я почищу." image="default.jpg" someNumber="None">
+         <audioTime in="302" out="2583"/>
+      </line>
+      <line lang1="Мен ойлайын" lang2="Дай подумаю." image="default.jpg" someNumber="None">
+         <audioTime in="2583" out="5731"/>
+      </line>
+      <line lang1="Мен билейін" lang2="Давайте я станцую." image="default.jpg" someNumber="None">
+         <audioTime in="5731" out="7583"/>
+      </line>
+      <line lang1="Мен жасайын" lang2="Давай я приготовлю." image="default.jpg" someNumber="None">
+         <audioTime in="7583" out="10372"/>
+      </line>
+      <line lang1="Санайын." lang2="Дай~ка я посчитаю." image="default.jpg" someNumber="None">
+         <audioTime in="10372" out="11567"/>
+      </line>
+      <line lang1="Алманы жейiн." lang2="Дай я съем яблоко." image="default.jpg" someNumber="None">
+         <audioTime in="11567" out="15322"/>
+      </line>
+      <line lang1="Мен жазайын." lang2="Давай я напишу." image="default.jpg" someNumber="None">
+         <audioTime in="15322" out="17713"/>
+      </line>
+      <line lang1="Мен апарайын." lang2="Давай я унесу." image="default.jpg" someNumber="None">
+         <audioTime in="17713" out="20113"/>
+      </line>
+      <line lang1="Шай iшейiн." lang2="Дай я чай выпью." image="default.jpg" someNumber="None">
+         <audioTime in="20113" out="22095"/>
+      </line>
+      <line lang1="Нан кесейiн." lang2="Дай~ка я хлеб порежу." image="default.jpg" someNumber="None">
+         <audioTime in="22095" out="24446"/>
+      </line>
+      <line lang1="Теледидар көрейiн." lang2="Дай телевизор посмотрю." image="default.jpg" someNumber="None">
+         <audioTime in="24446" out="26637"/>
+      </line>
+      <line lang1="Демалайын." lang2="Дай отдохну." image="default.jpg" someNumber="None">
+         <audioTime in="26637" out="29496"/>
+      </line>
+      <line lang1="Бiз жинайық." lang2="Давайте мы соберём." image="default.jpg" someNumber="None">
+         <audioTime in="29496" out="31448"/>
+      </line>
+      <line lang1="Бiз жейiк." lang2="Давайте мы съедим." image="default.jpg" someNumber="None">
+         <audioTime in="31448" out="33988"/>
+      </line>
+      <line lang1="Қазiр кездесейік." lang2="Давайте сейчас встретимся." image="default.jpg" someNumber="None">
+         <audioTime in="33988" out="36079"/>
+      </line>
+      <line lang1="Дастарқан жасайық." lang2="Давайте дастархан приготовим." image="default.jpg" someNumber="None">
+         <audioTime in="36079" out="38709"/>
+      </line>
+      <line lang1="Мақаланы жазайық." lang2="Давайте статью напишем." image="default.jpg" someNumber="None">
+         <audioTime in="38709" out="40681"/>
+      </line>
+      <line lang1="Ойлайық." lang2="Давайте подумаем." image="default.jpg" someNumber="None">
+         <audioTime in="40681" out="42972"/>
+      </line>
+      <line lang1="Демалайық." lang2="Давайте отдохнём." image="default.jpg" someNumber="None">
+         <audioTime in="42972" out="44525"/>
+      </line>
+      <line lang1="Теледидар көрейiк." lang2="Давайте телевизор посмотрим." image="default.jpg" someNumber="None">
+         <audioTime in="44525" out="47703"/>
+      </line>
+      <line lang1="Тоқта." lang2="Стой." image="default.jpg" someNumber="None">
+         <audioTime in="47703" out="48948"/>
+      </line>
+      <line lang1="Нан кес." lang2="Хлеб порежь." image="default.jpg" someNumber="None">
+         <audioTime in="48948" out="51657"/>
+      </line>
+      <line lang1="Сурет сал." lang2="Картину нарисуй." image="default.jpg" someNumber="None">
+         <audioTime in="51657" out="54237"/>
+      </line>
+      <line lang1="Терезені жу." lang2="Окно помой." image="default.jpg" someNumber="None">
+         <audioTime in="54237" out="56079"/>
+      </line>
+      <line lang1="Би биле." lang2="Танцуй." image="default.jpg" someNumber="None">
+         <audioTime in="56079" out="58868"/>
+      </line>
+      <line lang1="Демал." lang2="Отдыхай." image="default.jpg" someNumber="None">
+         <audioTime in="58868" out="61089"/>
+      </line>
+      <line lang1="Қазақша айт." lang2="По~казахски говори." image="default.jpg" someNumber="None">
+         <audioTime in="61089" out="62324"/>
+      </line>
+      <line lang1="Жауап бер." lang2="Ответ дай." image="default.jpg" someNumber="None">
+         <audioTime in="62324" out="64834"/>
+      </line>
+      <line lang1="Орындықты апар." lang2="Стул унеси." image="default.jpg" someNumber="None">
+         <audioTime in="64834" out="66527"/>
+      </line>
+      <line lang1="Алма же." lang2="Яблоко ешь." image="default.jpg" someNumber="None">
+         <audioTime in="66527" out="69087"/>
+      </line>
+      <line lang1="Би билеңдер." lang2="Танцуйте." image="default.jpg" someNumber="None">
+         <audioTime in="69087" out="70511"/>
+      </line>
+      <line lang1="Дастарқан жасаңдар." lang2="Дастархан приготовьте." image="default.jpg" someNumber="None">
+         <audioTime in="70511" out="73460"/>
+      </line>
+      <line lang1="Терезені жуыңдар." lang2="Окно помойте (у ~ сонорная)." image="default.jpg" someNumber="None">
+         <audioTime in="73460" out="75382"/>
+      </line>
+      <line lang1="Жауап беріңдер." lang2="Ответ дайте." image="default.jpg" someNumber="None">
+         <audioTime in="75382" out="78579"/>
+      </line>
+      <line lang1="Қазақша айтыңдар." lang2="По~казахски говорите." image="default.jpg" someNumber="None">
+         <audioTime in="78579" out="80312"/>
+      </line>
+      <line lang1="Орындықты апарыңдар." lang2="Стул унесите." image="default.jpg" someNumber="None">
+         <audioTime in="80312" out="83051"/>
+      </line>
+      <line lang1="Би билеңiз." lang2="Танцуйте." image="default.jpg" someNumber="None">
+         <audioTime in="83051" out="84366"/>
+      </line>
+      <line lang1="Дастарқан жасаңыз." lang2="Дастархан приготовьте." image="default.jpg" someNumber="None">
+         <audioTime in="84366" out="87055"/>
+      </line>
+      <line lang1="Терезені жуыңыз." lang2="Окно помойте." image="default.jpg" someNumber="None">
+         <audioTime in="87055" out="89097"/>
+      </line>
+      <line lang1="Жауап беріңiз." lang2="Ответ дайте." image="default.jpg" someNumber="None">
+         <audioTime in="89097" out="91627"/>
+      </line>
+      <line lang1="Қазақша айтыңыз." lang2="По~казахски говорите." image="default.jpg" someNumber="None">
+         <audioTime in="91627" out="93320"/>
+      </line>
+      <line lang1="Орындықты апарыңыз." lang2="Стул унесите." image="default.jpg" someNumber="None">
+         <audioTime in="93320" out="96398"/>
+      </line>
+      <line lang1="Би билеңiздер." lang2="Танцуйте." image="default.jpg" someNumber="None">
+         <audioTime in="96398" out="97812"/>
+      </line>
+      <line lang1="Дастарқан жасаңыздар." lang2="Дастархан приготовьте." image="default.jpg" someNumber="None">
+         <audioTime in="97812" out="100591"/>
+      </line>
+      <line lang1="Терезені жуыңыздар." lang2="Окно помойте." image="default.jpg" someNumber="None">
+         <audioTime in="100591" out="102822"/>
+      </line>
+      <line lang1="Жауап беріңiздер." lang2="Ответ дайте." image="default.jpg" someNumber="None">
+         <audioTime in="102822" out="105960"/>
+      </line>
+      <line lang1="Қазақша айтыңыздар." lang2="По~казахски говорите." image="default.jpg" someNumber="None">
+         <audioTime in="105960" out="107474"/>
+      </line>
+      <line lang1="Орындықты апарыңыздар." lang2="Стул унесите." image="default.jpg" someNumber="None">
+         <audioTime in="107474" out="110203"/>
+      </line>
+      <line lang1="Ол гүл әкелсiн." lang2="Пусть он цветок принесёт." image="default.jpg" someNumber="None">
+         <audioTime in="110203" out="113031"/>
+      </line>
+      <line lang1="Серiк хат жазсын." lang2="Пусть Серик письмо напишет." image="default.jpg" someNumber="None">
+         <audioTime in="113031" out="116557"/>
+      </line>
+      <line lang1="Жұмыртқаны жесiн." lang2="Пусть он яйцо съест." image="default.jpg" someNumber="None">
+         <audioTime in="116557" out="118848"/>
+      </line>
+      <line lang1="Ойыншықтарды жинасын." lang2="Пусть он игрушки уберёт." image="default.jpg" someNumber="None">
+         <audioTime in="118848" out="123280"/>
+      </line>
+      <line lang1="Олар диванда жатсын." lang2="Пусть они на диване лежат." image="default.jpg" someNumber="None">
+         <audioTime in="123280" out="126268"/>
+      </line>
+      <line lang1="Демалсын." lang2="Пусть отдыхает (отдыхают)." image="default.jpg" someNumber="None">
+         <audioTime in="126268" out="128629"/>
+      </line>
+      <line lang1="Мен жасайыншы." lang2="Пожалуйста, давай я приготовлю." image="default.jpg" someNumber="None">
+         <audioTime in="128629" out="130243"/>
+      </line>
+      <line lang1="Кездесейікшi." lang2="Пожалуйста, давайте встретимся." image="default.jpg" someNumber="None">
+         <audioTime in="130243" out="132962"/>
+      </line>
+      <line lang1="Нан кесшi." lang2="Хлеб порежь, пожалуйста." image="default.jpg" someNumber="None">
+         <audioTime in="132962" out="135083"/>
+      </line>
+      <line lang1="Би билеңдершi." lang2="Станцуйте, пожалуйста." image="default.jpg" someNumber="None">
+         <audioTime in="135083" out="138410"/>
+      </line>
+      <line lang1="Жауап беріңiзшi." lang2="Ответ дайте, пожалуйста." image="default.jpg" someNumber="None">
+         <audioTime in="138410" out="140442"/>
+      </line>
+      <line lang1="Қазақша айтыңыздаршы." lang2="По~казахски говорите, пожалуйста." image="default.jpg" someNumber="None">
+         <audioTime in="140442" out="144376"/>
+      </line>
+      <line lang1="Ойыншықтарды жинасыншы." lang2="Пожалуйста, пусть он игрушки уберёт." image="default.jpg" someNumber="None">
+         <audioTime in="144376" out="146747"/>
+      </line>
+      <line lang1="Олар диванда жатсыншы." lang2="Пожалуйста, пусть они на диване лежат." image="default.jpg" someNumber="None">
+         <audioTime in="146747" out="148998"/>
+      </line>
+      <line lang1="Мен жазбайын." lang2="Давай я не буду писать." image="default.jpg" someNumber="None">
+         <audioTime in="148998" out="151139"/>
+      </line>
+      <line lang1="Демалмайық." lang2="Давайте не будем отдыхать." image="default.jpg" someNumber="None">
+         <audioTime in="151139" out="154296"/>
+      </line>
+      <line lang1="Есiк ашпа." lang2="Дверь не открывай." image="default.jpg" someNumber="None">
+         <audioTime in="154296" out="156199"/>
+      </line>
+      <line lang1="Теледидар көрмеңдер." lang2="Телевизор не смотрите." image="default.jpg" someNumber="None">
+         <audioTime in="156199" out="159754"/>
+      </line>
+      <line lang1="Терезені жумаңыз." lang2="Окно не мойте." image="default.jpg" someNumber="None">
+         <audioTime in="159754" out="162185"/>
+      </line>
+      <line lang1="Сөйлеспеңiздершi." lang2="Не разговаривайте, пожалуйста." image="default.jpg" someNumber="None">
+         <audioTime in="162185" out="165531"/>
+      </line>
+      <line lang1="Орындықта отырмасын." lang2="На стул пусть не садится." image="default.jpg" someNumber="None">
+         <audioTime in="165531" out="167752"/>
+      </line>
+      <line lang1="Олар би билемесiн." lang2="Пусть они не танцуют." image="default.jpg" someNumber="None">
+         <audioTime in="167752" out="170890"/>
+      </line>
+   </lines>
+</lesson>

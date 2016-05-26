@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="FR_022.wav" dlgName="В парикмахерской - 2" dlgFile="exr\frg022.txt" />
+  <lines>
+    <line lang1="- Bonjour, monsieur." someNumber="None" image="f.jpg" lang2="- Здравствуйте.">
+      <audioTime in="0" out="1622" />
+    </line>
+    <line lang1="- Bonjour, mademoiselle. Que désirez-vous?" someNumber="None" image="f.jpg" lang2="- Здравствуйте. Что вам угодно?">
+      <audioTime in="1622" out="5062" />
+    </line>
+    <line lang1="- Pouvez-vous me faire un shampooing?" someNumber="None" image="f.jpg" lang2="- Можете ли мне вымыть голову?">
+      <audioTime in="5062" out="7180" />
+    </line>
+    <line lang1="- Certainement, mademoiselle. Asseyez-vous dans ce fauteuil." someNumber="None" image="f.jpg" lang2="- Конечно. Садитесь в это кресло.">
+      <audioTime in="7180" out="11011" />
+    </line>
+    <line lang1="Dans une seconde je suis à votre disposition." someNumber="None" image="f.jpg" lang2="Через минутку я буду в вашем распоряжении.">
+      <audioTime in="11011" out="14464" />
+    </line>
+    <line lang1="Ferons-nous une ondulation?" someNumber="None" image="f.jpg" lang2="Сделаем завивку?">
+      <audioTime in="14464" out="17342" />
+    </line>
+    <line lang1="- Non, merci." someNumber="None" image="f.jpg" lang2="- Нет, спасибо.">
+      <audioTime in="17342" out="18919" />
+    </line>
+    <line lang1="Je porte les cheveux longs et ils ne seront pas suffisamment secs." someNumber="None" image="f.jpg" lang2="У меня длинные волосы, и они не будут достаточно сухими.">
+      <audioTime in="18919" out="23147" />
+    </line>
+    <line lang1="- Bien au contraire! Sous le séchoir électrique ils sécheront très vite." someNumber="None" image="f.jpg" lang2="- Наоборот. Под электрической сушилкой волосы очень быстро сохнут.">
+      <audioTime in="23147" out="29157" />
+    </line>
+    <line lang1="- Alors, dans ce cas, faites-moi une permanente." someNumber="None" image="f.jpg" lang2="- В таком случае сделайте мне перманент.">
+      <audioTime in="29157" out="33081" />
+    </line>
+    <line lang1="- Regardez ce modèle." someNumber="None" image="f.jpg" lang2="- Посмотрите на эту модель.">
+      <audioTime in="33081" out="35251" />
+    </line>
+    <line lang1="Est-ce que cette mise en plis vous plaît?" someNumber="None" image="f.jpg" lang2="Эта укладка волос вам нравится?">
+      <audioTime in="35251" out="37765" />
+    </line>
+    <line lang1="- Oui, elle est assez jolie, mais je préfère cette autre." someNumber="None" image="f.jpg" lang2="- Да, она довольно красивая, но я предпочитаю вот эту, другую.">
+      <audioTime in="37765" out="41730" />
+    </line>
+    <line lang1="Seulement ne me relevez pas trop les cheveux." someNumber="None" image="f.jpg" lang2="Только не поднимайте волосы слишком высоко.">
+      <audioTime in="41730" out="45029" />
+    </line>
+    <line lang1="- Non. Et ferons-nous une teinture?" someNumber="None" image="f.jpg" lang2="- Нет! Будем красить волосы?">
+      <audioTime in="45029" out="47828" />
+    </line>
+    <line lang1="- Non, merci." someNumber="None" image="f.jpg" lang2="- Нет, спасибо.">
+      <audioTime in="47828" out="49379" />
+    </line>
+  </lines>
+</lesson>

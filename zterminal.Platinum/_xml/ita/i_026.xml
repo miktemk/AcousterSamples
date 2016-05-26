@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="i_026.wav" dic="p026" dlgName="Есть ли?.. Нет..." dlgFile="exr\ig025.txt" author="Alexander" />
+  <lines>
+    <line lang1="- C'è una tazza pulita sul pavimento?" someNumber="None" image="dg\026_001.gif" lang2="- Есть ли чистая чашка на полу?">
+      <audioTime in="157" out="2514" />
+    </line>
+    <line lang1="- No, lì non c'è." someNumber="None" image="dg\026_001.gif" lang2="- Нет, на полу нет.">
+      <audioTime in="2622" out="4237" />
+    </line>
+    <line lang1="Ce n'è una sul tavolo." someNumber="None" image="dg\026_001.gif" lang2="На столе есть чистая.">
+      <audioTime in="4276" out="6126" />
+    </line>
+    <line lang1="- C'è una scatola grande sulla mensola?" someNumber="None" image="dg\026_002.gif" lang2="- На полке есть большая коробка?">
+      <audioTime in="6126" out="8835" />
+    </line>
+    <line lang1="- No, lì non c'è." someNumber="None" image="dg\026_002.gif" lang2="- Нет, на полке нет.">
+      <audioTime in="8886" out="10477" />
+    </line>
+    <line lang1="Ce n'è una sul pavimento." someNumber="None" image="dg\026_002.gif" lang2="На полу есть большая.">
+      <audioTime in="10578" out="12345" />
+    </line>
+    <line lang1="- C'è un bicchiere vuoto nel frigorifero?" someNumber="None" image="dg\026_003.gif" lang2="- В холодильнике есть пустой стакан?">
+      <audioTime in="12313" out="14932" />
+    </line>
+    <line lang1="- No, lì non c'è." someNumber="None" image="dg\026_003.gif" lang2="- Нет, в холодильнике нет.">
+      <audioTime in="14932" out="16693" />
+    </line>
+    <line lang1="Ce n'è uno nell'armadio." someNumber="None" image="dg\026_003.gif" lang2="В шкафу есть пустой.">
+      <audioTime in="16693" out="18725" />
+    </line>
+    <line lang1="- C'è un coltello affilato sulla scatola di conserva?" someNumber="None" image="dg\026_004.gif" lang2="- На консервной банке есть острый нож?">
+      <audioTime in="18856" out="22164" />
+    </line>
+    <line lang1="- No, lì non c'è." someNumber="None" image="dg\026_004.gif" lang2="- Нет, на консервной банке нет.">
+      <audioTime in="22366" out="24051" />
+    </line>
+    <line lang1="Ce n'è uno nel piatto." someNumber="None" image="dg\026_004.gif" lang2="На тарелке есть острый.">
+      <audioTime in="24079" out="25662" />
+    </line>
+    <line lang1="- C'è una forchetta sporca sul piatto?" someNumber="None" image="dg\026_005.gif" lang2="- На тарелке есть грязная вилка?">
+      <audioTime in="26088" out="28434" />
+    </line>
+    <line lang1="- No, lì non c'è." someNumber="None" image="dg\026_005.gif" lang2="- Нет, на тарелке нет.">
+      <audioTime in="28613" out="30374" />
+    </line>
+    <line lang1="Ce n'è una sulla scatola di conserva." someNumber="500" image="dg\026_005.gif" lang2="На консервной банке есть грязная.">
+      <audioTime in="30374" out="33083" />
+    </line>
+    <line lang1="- C'è una bottiglia piena nell'armadio?" someNumber="None" image="dg\026_006.gif" lang2="- В шкафу есть полная бутылка?">
+      <audioTime in="33083" out="35206" />
+    </line>
+    <line lang1="- No, lì non c'è." someNumber="None" image="dg\026_006.gif" lang2="- Нет, в шкафу нет.">
+      <audioTime in="35206" out="37102" />
+    </line>
+    <line lang1="Ce n'è una nel frigorifero." someNumber="None" image="dg\026_006.gif" lang2="В холодильнике есть полная.">
+      <audioTime in="37103" out="39089" />
+    </line>
+    <line lang1="- C'è una matita spuntata sul tavolo?" someNumber="570" image="dg\026_007.gif" lang2="- На столе есть тупой карандаш?">
+      <audioTime in="39089" out="42024" />
+    </line>
+    <line lang1="- No, lì non c'è." someNumber="None" image="dg\026_007.gif" lang2="- Нет, на столе нет.">
+      <audioTime in="42024" out="43604" />
+    </line>
+    <line lang1="Ce n'è una sulla scrivania." someNumber="None" image="dg\026_007.gif" lang2="На письменном столе есть тупой.">
+      <audioTime in="43604" out="45862" />
+    </line>
+    <line lang1="- C'è un piccolo cucchiaio nel bicchiere?" someNumber="620" image="dg\026_008.gif" lang2="- В стакане есть маленькая ложка?">
+      <audioTime in="45862" out="48526" />
+    </line>
+    <line lang1="- No, lì non c'è." someNumber="None" image="dg\026_008.gif" lang2="- Нет, в стакане нет.">
+      <audioTime in="48526" out="50061" />
+    </line>
+    <line lang1="Ce n'è uno nella tazza." someNumber="None" image="dg\026_008.gif" lang2="В чашке есть маленькая.">
+      <audioTime in="50182" out="51789" />
+    </line>
+  </lines>
+</lesson>

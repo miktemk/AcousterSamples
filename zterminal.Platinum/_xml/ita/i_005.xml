@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_005.wav" dic="p005" dlgName="Знакомство." dlgFile="exr\ig005.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Buon giorno." someNumber="None" image="dg\005_001.gif" lang2="- Доброе утро.">
+      <audioTime in="138" out="1154" />
+    </line>
+    <line lang1="- Buon giorno, signor Rossi." someNumber="None" image="dg\005_001.gif" lang2="- Доброе утро, господин Росси.">
+      <audioTime in="1200" out="2955" />
+    </line>
+    <line lang1="- Questa è la signora Alisa Dupont." someNumber="None" image="dg\005_002.gif" lang2="- Это госпожа Алиса Дюпон.">
+      <audioTime in="2955" out="5310" />
+    </line>
+    <line lang1="Alis è una nuova studentessa." someNumber="None" image="dg\005_002.gif" lang2="Алис новая студентка.">
+      <audioTime in="5310" out="8127" />
+    </line>
+    <line lang1="Lei è francese." someNumber="None" image="dg\005_002.gif" lang2="Она француженка.">
+      <audioTime in="8173" out="9743" />
+    </line>
+    <line lang1="- Alis, questo è Hans." someNumber="None" image="dg\005_003.gif" lang2="- Алис, это Ганс.">
+      <audioTime in="9835" out="11683" />
+    </line>
+    <line lang1="Lui è tedesco." someNumber="None" image="dg\005_003.gif" lang2="Он немец.">
+      <audioTime in="11685" out="13300" />
+    </line>
+    <line lang1="- Salve." someNumber="None" image="dg\005_003.gif" lang2="- Здравствуйте.">
+      <audioTime in="13346" out="14338" />
+    </line>
+    <line lang1="- E lei è Brit." someNumber="None" image="dg\005_004.gif" lang2="- А это Брит.">
+      <audioTime in="14361" out="15793" />
+    </line>
+    <line lang1="Lei è svedese." someNumber="None" image="dg\005_004.gif" lang2="Она шведка.">
+      <audioTime in="15882" out="17409" />
+    </line>
+    <line lang1="- Salve." someNumber="None" image="dg\005_004.gif" lang2="- Здравствуйте.">
+      <audioTime in="17409" out="18424" />
+    </line>
+    <line lang1="- E questo è Dimitri." someNumber="None" image="dg\005_005.gif" lang2="- А это Димитрий.">
+      <audioTime in="18424" out="20087" />
+    </line>
+    <line lang1="Lui è greco." someNumber="None" image="dg\005_005.gif" lang2="Он грек.">
+      <audioTime in="20134" out="21517" />
+    </line>
+    <line lang1="- Salve." someNumber="None" image="dg\005_005.gif" lang2="- Здравствуйте.">
+      <audioTime in="21564" out="22488" />
+    </line>
+    <line lang1="- Questo è Paolo." someNumber="None" image="dg\005_006.gif" lang2="- А это Паоло.">
+      <audioTime in="22536" out="23920" />
+    </line>
+    <line lang1="Lui è brasiliano." someNumber="None" image="dg\005_006.gif" lang2="Он бразилец.">
+      <audioTime in="23966" out="25628" />
+    </line>
+    <line lang1="- Salve." someNumber="None" image="dg\005_006.gif" lang2="- Здравствуйте.">
+      <audioTime in="25630" out="26552" />
+    </line>
+    <line lang1="- E lei è Stella." someNumber="None" image="dg\005_007.gif" lang2="- А это Стэлла.">
+      <audioTime in="26598" out="28214" />
+    </line>
+    <line lang1="Lei è spagnola." someNumber="None" image="dg\005_007.gif" lang2="Она испанка.">
+      <audioTime in="28216" out="29876" />
+    </line>
+    <line lang1="- Salve." someNumber="None" image="dg\005_007.gif" lang2="- Здравствуйте.">
+      <audioTime in="29831" out="30709" />
+    </line>
+  </lines>
+</lesson>

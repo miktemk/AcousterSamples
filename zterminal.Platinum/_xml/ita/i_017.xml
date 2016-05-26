@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="i_017.wav" dic="p017" dlgName="Знакомьтесь." dlgFile="exr\ig017.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Entri e faccia conoscenza con i nostri impiegati, signor Paolucci." someNumber="None" image="dg\017_001.gif" lang2="- Проходите и познакомьтесь с нашими служащими, господин Паолучи.">
+      <audioTime in="44" out="4394" />
+    </line>
+    <line lang1="- Grazie, signor Mancini." someNumber="None" image="dg\017_001.gif" lang2="- Спасибо, господин Манчини.">
+      <audioTime in="4394" out="6314" />
+    </line>
+    <line lang1="- Questa è la signorina Parodi, e questa la signorina Galli." someNumber="None" image="dg\017_002.gif" lang2="- Это госпожа Пароди, а это госпожа Галли.">
+      <audioTime in="6269" out="10097" />
+    </line>
+    <line lang1="- Buon giorno." someNumber="None" image="dg\017_002.gif" lang2="- Здравствуйте.">
+      <audioTime in="10001" out="11214" />
+    </line>
+    <line lang1="- Quelle ragazze sono piuttosto carine." someNumber="None" image="dg\017_003.gif" lang2="- Те девушки очень симпатичные.">
+      <audioTime in="11214" out="14096" />
+    </line>
+    <line lang1="Loro che cosa fanno?" someNumber="None" image="dg\017_003.gif" lang2="Кем они работают?">
+      <audioTime in="14149" out="15768" />
+    </line>
+    <line lang1="- Sono dattilografe." someNumber="None" image="dg\017_003.gif" lang2="- Они машинистки.">
+      <audioTime in="16029" out="17490" />
+    </line>
+    <line lang1="- Questo è il signor Esposito, e questo il signor Familio." someNumber="None" image="dg\017_004.gif" lang2="- Это господин Эспосито, а это господин Фамилио.">
+      <audioTime in="17856" out="21406" />
+    </line>
+    <line lang1="- Salve." someNumber="None" image="dg\017_004.gif" lang2="- Здравствуйте.">
+      <audioTime in="21406" out="22241" />
+    </line>
+    <line lang1="- Loro non sono troppo occupati!" someNumber="None" image="dg\017_005.gif" lang2="- Они не слишком заняты!">
+      <audioTime in="22555" out="24695" />
+    </line>
+    <line lang1="Che cosa fanno?" someNumber="None" image="dg\017_005.gif" lang2="Кем они работают?">
+      <audioTime in="24853" out="26105" />
+    </line>
+    <line lang1="- Sono scrivani." someNumber="None" image="dg\017_005.gif" lang2="- Они клерки.">
+      <audioTime in="26262" out="27672" />
+    </line>
+    <line lang1="Sono molto pigri." someNumber="None" image="dg\017_005.gif" lang2="Они очень ленивые.">
+      <audioTime in="27724" out="29186" />
+    </line>
+    <line lang1="- Chi è questo giovanotto?" someNumber="None" image="dg\017_006.gif" lang2="- Кто этот молодой человек?">
+      <audioTime in="29655" out="31379" />
+    </line>
+    <line lang1="- È Gianni." someNumber="None" image="dg\017_006.gif" lang2="- Это Джанни.">
+      <audioTime in="31326" out="32370" />
+    </line>
+    <line lang1="Lui è il nostro fattorino." someNumber="None" image="dg\017_006.gif" lang2="Он наш рассыльный.">
+      <audioTime in="32475" out="34303" />
+    </line>
+  </lines>
+</lesson>

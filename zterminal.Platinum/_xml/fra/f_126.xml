@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_126.wav" dic="p126" dlgName="Я должен... А как ты?" dlgFile="exr\fg125.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Je vais sortir. Et toi?" someNumber="None" image="dg\126_001.gif" lang2="- Я собираюсь выходить. А ты?">
+      <audioTime in="0" out="1466" />
+    </line>
+    <line lang1="- Moi aussi, je vais sortir." someNumber="None" image="dg\126_001.gif" lang2="- Я тоже собираюсь выходить.">
+      <audioTime in="1466" out="3019" />
+    </line>
+    <line lang1="- Demain, je ne vais pas me lever tôt. Et toi?" someNumber="None" image="dg\126_002.gif" lang2="- Завтра я не собираюсь рано вставать. А ты?">
+      <audioTime in="3019" out="5430" />
+    </line>
+    <line lang1="- Demain, je ne vais pas me lever tôt, non plus." someNumber="530" image="dg\126_002.gif" lang2="- Завтра я тоже не собираюсь рано вставать.">
+      <audioTime in="5430" out="7613" />
+    </line>
+    <line lang1="- Réné va changer de l'argent. Et Marie?" someNumber="None" image="dg\126_003.gif" lang2="- Рене собирается поменять деньги. А Мари?">
+      <audioTime in="7613" out="10106" />
+    </line>
+    <line lang1="- Elle-aussi, va changer de l'argent." someNumber="None" image="dg\126_003.gif" lang2="- Она тоже собирается поменять деньги.">
+      <audioTime in="10106" out="11589" />
+    </line>
+    <line lang1="- Demain, Marie va-t-elle partir pour Londres? Et Paul?" someNumber="190" image="dg\126_004.gif" lang2="- Завтра Мари собирается уехать в Лондон? А Поль?">
+      <audioTime in="11589" out="15127" />
+    </line>
+    <line lang1="- Lui aussi va partir demain pour Londres." someNumber="None" image="dg\126_004.gif" lang2="- Он тоже собирается уехать завтра в Лондон.">
+      <audioTime in="15127" out="16970" />
+    </line>
+    <line lang1="- Je vais aller en avion. Et toi?" someNumber="None" image="dg\126_005.gif" lang2="- Я собираюсь лететь самолётом. А ты?">
+      <audioTime in="16970" out="18881" />
+    </line>
+    <line lang1="- Moi aussi, je vais aller en avion." someNumber="460" image="dg\126_005.gif" lang2="- Я тоже собираюсь лететь самолётом.">
+      <audioTime in="18881" out="20503" />
+    </line>
+    <line lang1="- Demain, je ne la rencontrerai pas à la station. Et toi?" someNumber="None" image="dg\126_006.gif" lang2="- Завтра я не встречу её на станции. А ты?">
+      <audioTime in="20503" out="23774" />
+    </line>
+    <line lang1="- Moi non plus, je ne la rencontrerai pas demain." someNumber="None" image="dg\126_006.gif" lang2="- Я тоже не встречу её завтра.">
+      <audioTime in="23774" out="26108" />
+    </line>
+    <line lang1="- Réné ne devra pas venir si tôt. Et Alice?" someNumber="None" image="dg\126_007.gif" lang2="- Рене не должен будет вернуться так рано. А Алиса?">
+      <audioTime in="26108" out="28977" />
+    </line>
+    <line lang1="- Elle aussi ne devra pas venir si tôt." someNumber="None" image="dg\126_007.gif" lang2="- Она тоже не должна будет вернуться так рано.">
+      <audioTime in="28977" out="30649" />
+    </line>
+    <line lang1="- Alain devra décider immédiatement. Et Georges?" someNumber="None" image="dg\126_008.gif" lang2="- Ален должен будет решать немедленно. А Жорж?">
+      <audioTime in="30649" out="33754" />
+    </line>
+    <line lang1="- Lui-aussi devra décider immédiatement." someNumber="None" image="dg\126_008.gif" lang2="- Он тоже должен будет решать немедленно.">
+      <audioTime in="33754" out="35681" />
+    </line>
+    <line lang1="- Je ne prendrai pas le taxi. Et toi?" someNumber="None" image="dg\126_009.gif" lang2="- Я не возьму такси. А ты?">
+      <audioTime in="35681" out="37888" />
+    </line>
+    <line lang1="- Moi non plus, je ne prendrai pas le taxi." someNumber="50" image="dg\126_009.gif" lang2="- Я тоже не возьму такси.">
+      <audioTime in="37888" out="39594" />
+    </line>
+    <line lang1="- Je devrai réussir à prendre cet autobus. Et toi?" someNumber="None" image="dg\126_010.gif" lang2="- Я должен буду успеть на этот автобус. А ты?">
+      <audioTime in="39594" out="42784" />
+    </line>
+    <line lang1="- Moi aussi, je devrai réussir à prendre cet autobus." someNumber="None" image="dg\126_010.gif" lang2="- Я тоже должен буду успеть на этот автобус.">
+      <audioTime in="42784" out="45260" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,155 @@
+<lesson>
+  <header wav="FR_052.wav" dlgName="Визит" dlgFile="exr\frg052.txt" />
+  <lines>
+    <line lang1="- Bonjour, madame." someNumber="None" image="f.jpg" lang2="- Здравствуйте.">
+      <audioTime in="0" out="1734" />
+    </line>
+    <line lang1="Quelle joie de vous revoir!" someNumber="None" image="f.jpg" lang2="Как я рада видеть вас!">
+      <audioTime in="1734" out="3710" />
+    </line>
+    <line lang1="Comment allez-vous?" someNumber="None" image="f.jpg" lang2="Как вы себя чувствуете?">
+      <audioTime in="3710" out="5280" />
+    </line>
+    <line lang1="- Très bien, et vous-même, madame?" someNumber="None" image="f.jpg" lang2="- Очень хорошо, а как вы, мадам?">
+      <audioTime in="5280" out="8142" />
+    </line>
+    <line lang1="- Assez bien, merci." someNumber="None" image="f.jpg" lang2="- Спасибо, довольно хорошо.">
+      <audioTime in="8142" out="9761" />
+    </line>
+    <line lang1="- Comment vont vos enfants?" someNumber="None" image="f.jpg" lang2="- Как чувствуют себя ваши дети?">
+      <audioTime in="9761" out="11903" />
+    </line>
+    <line lang1="- Toute la famille va bien, merci." someNumber="None" image="f.jpg" lang2="- Вся семья чувствует себя хорошо. Спасибо.">
+      <audioTime in="11903" out="14419" />
+    </line>
+    <line lang1="- Mais prenez place." someNumber="None" image="f.jpg" lang2="- Ну, садитесь, пожалуйста.">
+      <audioTime in="14419" out="16199" />
+    </line>
+    <line lang1="Mettez-vous dans ce fauteuil." someNumber="None" image="f.jpg" lang2="Садитесь в это кресло.">
+      <audioTime in="16199" out="18492" />
+    </line>
+    <line lang1="Je vais vous servir une tasse de thé." someNumber="None" image="f.jpg" lang2="Я угощу вас чашкой чаю.">
+      <audioTime in="18492" out="21218" />
+    </line>
+    <line lang1="- Ne vous dérangez pas." someNumber="None" image="f.jpg" lang2="- Не беспокойтесь.">
+      <audioTime in="21218" out="22930" />
+    </line>
+    <line lang1="- Cela ne me dérange pas, tout est prêt." someNumber="None" image="f.jpg" lang2="- Ничего, ничего, всё готово.">
+      <audioTime in="22930" out="26040" />
+    </line>
+    <line lang1="- Voulez-vous du thé, du café ou du chocolat?" someNumber="None" image="f.jpg" lang2="- Хотите чай, кофе или шоколад?">
+      <audioTime in="26040" out="29488" />
+    </line>
+    <line lang1="- Je préfère du thé." someNumber="None" image="f.jpg" lang2="- Я предпочитаю чай.">
+      <audioTime in="29488" out="31780" />
+    </line>
+    <line lang1="- Comment aimez-vous le thé? Fort ou léger?" someNumber="None" image="f.jpg" lang2="- Какой вы любите чай? Крепкий или слабый?">
+      <audioTime in="31780" out="35684" />
+    </line>
+    <line lang1="- Ni trop fort ni trop léger." someNumber="None" image="f.jpg" lang2="- Не слишком крепкий, не слишком слабый.">
+      <audioTime in="35684" out="38053" />
+    </line>
+    <line lang1="- Est-ce que vous prenez du lait ou du citron?" someNumber="None" image="f.jpg" lang2="- Вы пьёте с молоком или с лимоном?">
+      <audioTime in="38053" out="41767" />
+    </line>
+    <line lang1="- Du citron, s'il vous plaît." someNumber="None" image="f.jpg" lang2="- С лимоном, пожалуйста.">
+      <audioTime in="41767" out="43620" />
+    </line>
+    <line lang1="- Aimez-vous le thé bien sucré?" someNumber="None" image="f.jpg" lang2="- Вы любите очень сладкий чай?">
+      <audioTime in="43620" out="46197" />
+    </line>
+    <line lang1="- Non. En général je ne prends qu'un morceau de sucre." someNumber="None" image="f.jpg" lang2="- Нет. Обычно я кладу только один кусочек сахару.">
+      <audioTime in="46197" out="50054" />
+    </line>
+    <line lang1="- Coûtez donc mes petits gâteaux." someNumber="None" image="f.jpg" lang2="- Попробуйте моё печенье.">
+      <audioTime in="50054" out="52259" />
+    </line>
+    <line lang1="C'est ma spécialité et mes amis les trouvent délicieux." someNumber="None" image="f.jpg" lang2="Это моя специальность, и мои друзья находят его замечательным.">
+      <audioTime in="52259" out="56509" />
+    </line>
+    <line lang1="- En effet! Ils sont exquis." someNumber="None" image="f.jpg" lang2="- Действительно! Оно превосходно.">
+      <audioTime in="56509" out="60141" />
+    </line>
+    <line lang1="- Alors, encore un petit gâteau." someNumber="None" image="f.jpg" lang2="- Тогда, может быть, ещё одно печенье.">
+      <audioTime in="60141" out="62747" />
+    </line>
+    <line lang1="- Merci. Décidément je deviens gourmande et la gourmandise, c'est un péché." someNumber="None" image="f.jpg" lang2="- Спасибо. Я становлюсь лакомкой, а лакомство это грех.">
+      <audioTime in="62747" out="69459" />
+    </line>
+    <line lang1="- Ne vous en faites pas." someNumber="None" image="f.jpg" lang2="- Не принимайте это близко к сердцу.">
+      <audioTime in="69459" out="71128" />
+    </line>
+    <line lang1="Pour un péché, c'est un péché mignon." someNumber="None" image="f.jpg" lang2="Если даже это грех, то совсем невинный грешок.">
+      <audioTime in="71128" out="74211" />
+    </line>
+    <line lang1="- Passons maintenant au salon." someNumber="None" image="f.jpg" lang2="- Пройдемте сейчас в гостиную.">
+      <audioTime in="74211" out="77424" />
+    </line>
+    <line lang1="- C'est la première fois que je vois votre nouvel appartement." someNumber="None" image="f.jpg" lang2="- Я вижу впервые вашу новую квартиру.">
+      <audioTime in="77424" out="81410" />
+    </line>
+    <line lang1="Combien de pièces avez-vous?" someNumber="None" image="f.jpg" lang2="Сколько у вас комнат?">
+      <audioTime in="81410" out="83937" />
+    </line>
+    <line lang1="- Quatre grande pièces." someNumber="None" image="f.jpg" lang2="- Четыре большие комнаты.">
+      <audioTime in="83937" out="85809" />
+    </line>
+    <line lang1="- Je vois que vous avez de très jolis meubles et même un poste de télévision." someNumber="None" image="f.jpg" lang2="- Я вижу, что у вас очень красивая мебель и даже телевизор.">
+      <audioTime in="85809" out="91597" />
+    </line>
+    <line lang1="- C'est mon mari qui m'a offert ce poste pour le Nouvel An." someNumber="None" image="f.jpg" lang2="- Это мой муж подарил мне на Новый год этот телевизор.">
+      <audioTime in="91597" out="95676" />
+    </line>
+    <line lang1="Voulez-vous voir le cabinet de travail de mon mari?" someNumber="None" image="f.jpg" lang2="Хотите посмотреть кабинет моего мужа?">
+      <audioTime in="95676" out="99548" />
+    </line>
+    <line lang1="- Très volontiers." someNumber="None" image="f.jpg" lang2="- Охотно.">
+      <audioTime in="99548" out="101397" />
+    </line>
+    <line lang1="- Alors, suivez-moi, s'il vous plaît." someNumber="None" image="f.jpg" lang2="- В таком случае, идите за мной, пожалуйста.">
+      <audioTime in="101397" out="103750" />
+    </line>
+    <line lang1="- Ah! quels jolis tableaux vous avez là!" someNumber="None" image="f.jpg" lang2="- Ах, какие у вас красивые картины!">
+      <audioTime in="103750" out="107501" />
+    </line>
+    <line lang1="Mais que représentent-ils?" someNumber="None" image="f.jpg" lang2="А что они представляют?">
+      <audioTime in="107501" out="109876" />
+    </line>
+    <line lang1="- Celui-ci représente un cheval, et celui-là un chien ou une chèvre." someNumber="None" image="f.jpg" lang2="- Эта представляет коня, а та собаку или козу.">
+      <audioTime in="109876" out="116648" />
+    </line>
+    <line lang1="C'est de l'art moderne." someNumber="None" image="f.jpg" lang2="Это современное искусство.">
+      <audioTime in="116648" out="118477" />
+    </line>
+    <line lang1="Et maintenant si vous voulez bien, passons à la cuisine." someNumber="None" image="f.jpg" lang2="А теперь, если хотите, пройдем в кухню.">
+      <audioTime in="118477" out="122889" />
+    </line>
+    <line lang1="- Vous avez un riche matériel ménager." someNumber="None" image="f.jpg" lang2="- У вас богато оборудованное хозяйство.">
+      <audioTime in="122889" out="126632" />
+    </line>
+    <line lang1="Que de machines! A quoi servent-elles?" someNumber="None" image="f.jpg" lang2="Сколько машинок! Для чего они служат?">
+      <audioTime in="126632" out="130692" />
+    </line>
+    <line lang1="- Celle-ci sert à éplucher les légumes," someNumber="None" image="f.jpg" lang2="- Эта служит для очистки овощей,">
+      <audioTime in="130692" out="134208" />
+    </line>
+    <line lang1="et celle-là à droite, c'est une machine universelle." someNumber="None" image="f.jpg" lang2="а та направо - это универсальная кухонная машинка.">
+      <audioTime in="134208" out="138309" />
+    </line>
+    <line lang1="- Vous avez aussi plusieurs fourneaux." someNumber="None" image="f.jpg" lang2="- У вас также несколько плиток.">
+      <audioTime in="138309" out="141178" />
+    </line>
+    <line lang1="- Oui, ce fourneau-ci est à gaz et ce fourneau-là à côté de la fenêtre, à charbon." someNumber="None" image="f.jpg" lang2="- Да, это газовая плита, а та плита, около окна - угольная.">
+      <audioTime in="141178" out="148282" />
+    </line>
+    <line lang1="Comme vous voyez, je ne me fatigue pas beaucoup pour faire du feu." someNumber="None" image="f.jpg" lang2="Как видите, я не слишком мучаюсь, чтобы разжечь огонь.">
+      <audioTime in="148282" out="152855" />
+    </line>
+    <line lang1="Et cette machine que vous voyez là-bas, c'est une machine à laver." someNumber="None" image="f.jpg" lang2="А эта машина, которую видите там, - это стиральная машина.">
+      <audioTime in="152855" out="157638" />
+    </line>
+    <line lang1="Mais revenons à la salle à manger." someNumber="None" image="f.jpg" lang2="Но вернёмся в столовую.">
+      <audioTime in="157638" out="160452" />
+    </line>
+  </lines>
+</lesson>

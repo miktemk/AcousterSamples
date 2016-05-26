@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="FR_017.wav" dlgName="В мясном магазине" dlgFile="exr\frg017.txt" />
+  <lines>
+    <line lang1="- Bonjour, monsieur." someNumber="None" image="f.jpg" lang2="- Здравствуйте, господин.">
+      <audioTime in="0" out="1621" />
+    </line>
+    <line lang1="- Bonjour, mademoiselle." someNumber="None" image="f.jpg" lang2="- Здравствуйте, мадмуазель.">
+      <audioTime in="1621" out="3326" />
+    </line>
+    <line lang1="Qu'est-ce que vous désirez aujourd'hui?" someNumber="None" image="f.jpg" lang2="Что вы желаете сегодня?">
+      <audioTime in="3326" out="5813" />
+    </line>
+    <line lang1="- Donnez-moi un gigot de mouton." someNumber="None" image="f.jpg" lang2="- Дайте мне баранью ляжку.">
+      <audioTime in="5813" out="8816" />
+    </line>
+    <line lang1="- Un morceau d'un kilo et demi vous suffira-t-il?" someNumber="None" image="f.jpg" lang2="- Хватит ли вам кусок в полтора кило?">
+      <audioTime in="8816" out="12794" />
+    </line>
+    <line lang1="- Largement." someNumber="None" image="f.jpg" lang2="- Вполне достаточно.">
+      <audioTime in="12794" out="14204" />
+    </line>
+    <line lang1="- Que vous faut-il encore?" someNumber="None" image="f.jpg" lang2="- Что вам надо ещё?">
+      <audioTime in="14204" out="16331" />
+    </line>
+    <line lang1="- Voyons... avez-vous des côtes de veau?" someNumber="None" image="f.jpg" lang2="- Подождите... есть ли у вас телячьи ребра?">
+      <audioTime in="16331" out="19462" />
+    </line>
+    <line lang1="- Non, mademoiselle." someNumber="None" image="f.jpg" lang2="- Нет, мадемуазель.">
+      <audioTime in="19462" out="20953" />
+    </line>
+    <line lang1="- Alors, c'est tout pour aujourd'hui." someNumber="None" image="f.jpg" lang2="- Тогда, на сегодня хватит.">
+      <audioTime in="20953" out="24006" />
+    </line>
+  </lines>
+</lesson>

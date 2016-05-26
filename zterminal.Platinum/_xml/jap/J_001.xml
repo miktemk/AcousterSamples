@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="J_001.wav" dlgName="Знакомство " dic="p001" />
+  <lines>
+    <line lang1="ーこん*にち*は。" someNumber="128" image="001_001.jpg" lang2="- Здравствуйте.">
+      <audioTime in="0" out="1897" />
+    </line>
+    <line lang1="わたし*は*やまだ*です。" someNumber="141" image="001_002.jpg" lang2="Я Ямада.">
+      <audioTime in="1897" out="4236" />
+    </line>
+    <line lang1="わたし*は*せんせい*です。" someNumber="73" image="001_003.jpg" lang2="Я учитель.">
+      <audioTime in="4236" out="6980" />
+    </line>
+    <line lang1="ーこん*にち*は。" someNumber="None" image="001_004.jpg" lang2="- Здравствуйте.">
+      <audioTime in="6980" out="9004" />
+    </line>
+    <line lang1="わたし*は*ロバノフ*です。" someNumber="131" image="001_005.jpg" lang2="Я Лобанов.">
+      <audioTime in="9004" out="11707" />
+    </line>
+    <line lang1="ーロバノフ*さん*です*か。" someNumber="132" image="001_006.jpg" lang2="- Господин Лобанов?">
+      <audioTime in="11707" out="14717" />
+    </line>
+    <line lang1="ーはい、そう*です。" someNumber="125" image="001_007.jpg" lang2="- Да, это так.">
+      <audioTime in="14717" out="16905" />
+    </line>
+    <line lang1="わたし*は*がくせい*です。" someNumber="01" image="001_008.jpg" lang2="Я студент.">
+      <audioTime in="16905" out="19722" />
+    </line>
+    <line lang1="ーはじめまして。" someNumber="128" image="001_009.jpg" lang2="- Разрешите представиться.">
+      <audioTime in="20409" out="23040" />
+    </line>
+    <line lang1="わたし*は*たなか*です。" someNumber="52" image="001_009.jpg" lang2="Я Танака.">
+      <audioTime in="23040" out="25225" />
+    </line>
+    <line lang1="どうぞ*よろしく。" someNumber="None" image="001_009.jpg" lang2="Прошу любить и жаловать.">
+      <audioTime in="25225" out="27581" />
+    </line>
+    <line lang1="ーはじめまして。" someNumber="None" image="001_012.jpg" lang2="- Разрешите представиться.">
+      <audioTime in="27581" out="30115" />
+    </line>
+    <line lang1="わたし*は*ムヒナ*です。" someNumber="166" image="001_012.jpg" lang2="Я Мухина.">
+      <audioTime in="30115" out="32216" />
+    </line>
+    <line lang1="よろしく*おねがい*します。" someNumber="None" image="001_012.jpg" lang2="К Вашим услугам.">
+      <audioTime in="32216" out="34816" />
+    </line>
+    <line lang1="ームヒナ*さん*は*がくせい*です*か。" someNumber="15" image="001_012.jpg" lang2="- Госпожа Мухина, Вы студентка?">
+      <audioTime in="34816" out="37998" />
+    </line>
+    <line lang1="ーいいえ、わたし*は*がくせい*ではありません。" someNumber="73" image="001_016.jpg" lang2="Нет, я не студентка.">
+      <audioTime in="37998" out="42427" />
+    </line>
+    <line lang1="わたし*は*いしゃ*です。" someNumber="None" image="001_017.jpg" lang2="Я врач.">
+      <audioTime in="42427" out="45406" />
+    </line>
+  </lines>
+</lesson>

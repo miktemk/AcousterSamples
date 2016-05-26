@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_086.wav" dic="p086" dlgName="Что она сделала?" dlgFile="exr\ig085.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Che ha appena fatto?" someNumber="380" image="dg\086_001.gif" lang2="- Что она только что сделала?">
+      <audioTime in="0" out="1463" />
+    </line>
+    <line lang1="- Ha appena dato aria alla stanza." someNumber="None" image="dg\086_001.gif" lang2="- Она только что проветрила комнату.">
+      <audioTime in="1463" out="3822" />
+    </line>
+    <line lang1="- Che hanno appena fatto?" someNumber="None" image="dg\086_002.gif" lang2="- Что они только что сделали?">
+      <audioTime in="3861" out="5488" />
+    </line>
+    <line lang1="- Hanno appena pulito le loro scarpe." someNumber="None" image="dg\086_002.gif" lang2="- Они только что почистили свои туфли.">
+      <audioTime in="5443" out="7643" />
+    </line>
+    <line lang1="- Che ha appena fatto?" someNumber="None" image="dg\086_003.gif" lang2="- Что он только что сделал?">
+      <audioTime in="7802" out="9338" />
+    </line>
+    <line lang1="- Ha appena aperto la finestra." someNumber="None" image="dg\086_003.gif" lang2="- Он только что открыл окно.">
+      <audioTime in="9391" out="11424" />
+    </line>
+    <line lang1="- Che ha appena fatto lui?" someNumber="None" image="dg\086_004.gif" lang2="- Что он только что сделал?">
+      <audioTime in="11424" out="13010" />
+    </line>
+    <line lang1="- Lui ha appena affilato la sua matita." someNumber="820" image="dg\086_004.gif" lang2="- Он только что поточил свой карандаш.">
+      <audioTime in="12969" out="15286" />
+    </line>
+    <line lang1="- Cosa ha appena fatto?" someNumber="None" image="dg\086_005.gif" lang2="- Что она только что сделала?">
+      <audioTime in="15368" out="17157" />
+    </line>
+    <line lang1="- Ha appena acceso il televisore." someNumber="None" image="dg\086_005.gif" lang2="- Она только что включила телевизор.">
+      <audioTime in="17021" out="19108" />
+    </line>
+    <line lang1="- Che hanno appena fatto?" someNumber="None" image="dg\086_006.gif" lang2="- Что они только что сделали?">
+      <audioTime in="19352" out="20897" />
+    </line>
+    <line lang1="- Hanno appena sentito le notizie." someNumber="None" image="dg\086_006.gif" lang2="- Они только что слушали новости.">
+      <audioTime in="20897" out="22930" />
+    </line>
+    <line lang1="- Che ha appena fatto?" someNumber="None" image="dg\086_007.gif" lang2="- Что она только что сделала?">
+      <audioTime in="23043" out="24882" />
+    </line>
+    <line lang1="- Ha appena fatto bollire un pò di latte." someNumber="None" image="dg\086_007.gif" lang2="- Она только что вскипятила немного молока.">
+      <audioTime in="24787" out="27327" />
+    </line>
+    <line lang1="- Che ha appena fatto?" someNumber="None" image="dg\086_008.gif" lang2="- Что он только что сделал?">
+      <audioTime in="27382" out="29039" />
+    </line>
+    <line lang1="- Ha appena risposto al telefono." someNumber="None" image="dg\086_008.gif" lang2="- Он только что ответил по телефону.">
+      <audioTime in="29039" out="31469" />
+    </line>
+    <line lang1="- Che ha appena fatto?" someNumber="None" image="dg\086_009.gif" lang2="- Что она только что сделала?">
+      <audioTime in="31435" out="33182" />
+    </line>
+    <line lang1="- Ha appena vuotato la cesta." someNumber="None" image="dg\086_009.gif" lang2="- Она только что опорожнила корзину.">
+      <audioTime in="33182" out="35336" />
+    </line>
+    <line lang1="- Che ha appena fatto?" someNumber="None" image="dg\086_010.gif" lang2="- Что она только что сделала?">
+      <audioTime in="35281" out="36828" />
+    </line>
+    <line lang1="- Ha appena fatto una domanda." someNumber="None" image="dg\086_010.gif" lang2="- Она только что задала вопрос.">
+      <audioTime in="36782" out="38760" />
+    </line>
+    <line lang1="- Che ha appena fatto?" someNumber="None" image="dg\086_011.gif" lang2="- Что она только что сделала?">
+      <audioTime in="38926" out="40639" />
+    </line>
+    <line lang1="- Ha appena battuto a macchina una lettera." someNumber="None" image="dg\086_011.gif" lang2="- Она только что напечатала письмо.">
+      <audioTime in="40639" out="43455" />
+    </line>
+    <line lang1="- Che ha appena fatto?" someNumber="None" image="dg\086_012.gif" lang2="- Что она только что сделала?">
+      <audioTime in="43455" out="45223" />
+    </line>
+    <line lang1="- È appena lavata le mani." someNumber="None" image="dg\086_012.gif" lang2="- Она только что помыла свои руки.">
+      <audioTime in="45168" out="47046" />
+    </line>
+    <line lang1="- Che ha appena fatto?" someNumber="None" image="dg\086_013.gif" lang2="- Что только что он сделал?">
+      <audioTime in="47212" out="49080" />
+    </line>
+    <line lang1="- Ha appena attraversato il parco." someNumber="None" image="dg\086_013.gif" lang2="- Он только что прошёл через парк.">
+      <audioTime in="48979" out="51299" />
+    </line>
+    <line lang1="- Che ha appena fatto?" someNumber="None" image="dg\086_014.gif" lang2="- Что он только что сделал?">
+      <audioTime in="51299" out="53011" />
+    </line>
+    <line lang1="- Ha appena verniciato la libreria." someNumber="None" image="dg\086_014.gif" lang2="- Он только что покрасил книжный шкаф.">
+      <audioTime in="52955" out="55275" />
+    </line>
+    <line lang1="- Che cosa ha appena fatto?" someNumber="None" image="dg\086_015.gif" lang2="- Что только что она сделала?">
+      <audioTime in="55331" out="57209" />
+    </line>
+    <line lang1="- Ha appena spolverato la credenza." someNumber="None" image="dg\086_015.gif" lang2="- Она только что вытерла пыль с серванта.">
+      <audioTime in="57209" out="59186" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_113.wav" dlgName="Поите его молоком!" dic="p113" />
+  <lines>
+    <line lang1="ーうち*で*息子*に*なに*を*勉強*を*させれば*いい*です*か。" someNumber="96" image="113_001.jpg" lang2="- Чем заставлять заниматься сына дома?">
+      <audioTime in="0" out="5234" />
+    </line>
+    <line lang1="ー宿題*を*ちゃんと*やらせて*下さい。" someNumber="112" image="113_002.jpg" lang2="- Заставляйте его аккуратно выполнять домашние задания.">
+      <audioTime in="5234" out="9431" />
+    </line>
+    <line lang1="漢字*の*復習*も*させて*ください。" someNumber="None" image="113_003.jpg" lang2="Заставляйте его также повторять иероглифы.">
+      <audioTime in="9431" out="12646" />
+    </line>
+    <line lang1="それ*に、毎日*遅刻します*から、" someNumber="None" image="113_004.jpg" lang2="Кроме того, он опаздывает каждый день,">
+      <audioTime in="12646" out="15812" />
+    </line>
+    <line lang1="家*を*早く*出る*よう*に*させて*下さい。" someNumber="155" image="113_004.jpg" lang2="поэтому заставляйте его выходить из дома пораньше.">
+      <audioTime in="15812" out="18506" />
+    </line>
+    <line lang1="ー今年*の*お正月*は*久しぶり*に*家*へ*帰って、母*を*驚かせたい*と*思います。" someNumber="96" image="113_006.jpg" lang2="- В этом году собираюсь после долгой разлуки поехать домой и удивить маму.">
+      <audioTime in="18506" out="27489" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="113_006.jpg" lang2="- Вот как!">
+      <audioTime in="27489" out="28682" />
+    </line>
+    <line lang1="―今晩、寮*の*学生達*が*いつも*より*静か*です*が、" someNumber="10" image="113_008.jpg" lang2="- Сегодня вечером студенты общежития (ведут себя) тише, чем обычно.">
+      <audioTime in="28682" out="34944" />
+    </line>
+    <line lang1="どうした*ん*でしょう。" someNumber="None" image="113_008.jpg" lang2="В чем дело?">
+      <audioTime in="34944" out="36269" />
+    </line>
+    <line lang1="ーたぶん、レポート*の*準備*で*忙しい*ん*です。" someNumber="07" image="113_008.jpg" lang2="- Наверное, они заняты подготовкой к репортажу.">
+      <audioTime in="36269" out="39673" />
+    </line>
+    <line lang1="先生*が*明日*皆*に*レポート*を*書かせます。" someNumber="None" image="113_011.jpg" lang2="Завтра учитель заставит их всех писать репортаж.">
+      <audioTime in="39673" out="43736" />
+    </line>
+    <line lang1="ー子供*の*骨*が*強く*なる*よう*に*する*には、何*を*食べさせたら*いい*です*か。" someNumber="None" image="113_012.jpg" lang2="- Чем надо кормить ребёнка, чтобы кости были крепкими?">
+      <audioTime in="43736" out="51343" />
+    </line>
+    <line lang1="―ミルク*を*たくさん*飲ませて*下さい。" someNumber="None" image="113_013.jpg" lang2="- Давайте ему пить много молока.">
+      <audioTime in="51343" out="54269" />
+    </line>
+    <line lang1="ー中島*さん、息子さん*を*ロンドン*へ*留学させました*か。" someNumber="None" image="113_014.jpg" lang2="- Накадзима-сан, Вы дали возможность сыну учиться в Лондоне?">
+      <audioTime in="54269" out="61845" />
+    </line>
+    <line lang1="ーはい。「かわいい*子*に*は*旅*をさせろ」と*言われています*から*ね。" someNumber="083" image="113_015.jpg" lang2="- Да. Ведь говорится же: &quot;Любимое дитя отправь в дорогу!&quot;">
+      <audioTime in="61845" out="66767" />
+    </line>
+    <line lang1="ーさっき*娘*が*変*な*洋服*を*着て*来て、私*を*困らせました。" someNumber="None" image="113_016.jpg" lang2="- Недавно дочь оделась в нелепую одежду и поставила меня в неловкое положение.">
+      <audioTime in="66767" out="75132" />
+    </line>
+    <line lang1="―いろいろ*大変*です*ね。" someNumber="None" image="113_016.jpg" lang2="- Какой ужас!">
+      <audioTime in="75132" out="78500" />
+    </line>
+    <line lang1="ー文部省*の*世論*調査*です。" someNumber="174" image="113_018.jpg" lang2="- Это опрос общественного мнения Министерства просвещения.">
+      <audioTime in="78500" out="83627" />
+    </line>
+    <line lang1="早速*です*が、ちょっと*質問させて*下さいません*か。" someNumber="None" image="113_018.jpg" lang2="Простите за неожиданность, не позволите ли задать Вам несколько вопросов?">
+      <audioTime in="83627" out="88643" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="113_020.jpg" lang2="- Пожалуйста.">
+      <audioTime in="88643" out="89707" />
+    </line>
+    <line lang1="ーまず*中村*さん*より*ご挨拶して*いただきます。" someNumber="103" image="113_021.jpg" lang2="- Прежде всего, позвольте заслушать приветствие госпожи Накамура.">
+      <audioTime in="89707" out="95148" />
+    </line>
+    <line lang1="―同僚*の*皆さん。簡単*な*ご挨拶*を*させて*いただきます。" someNumber="96" image="113_022.jpg" lang2="- Дорогие коллеги! Позвольте мне кратко поприветствовать Вас!">
+      <audioTime in="95148" out="101192" />
+    </line>
+    <line lang1="ー韓国*旅行*の*とき*どこ*に*泊まりました*か。" someNumber="None" image="113_023.jpg" lang2="- Где Вы остановились во время путешествия по Корее?">
+      <audioTime in="101192" out="105591" />
+    </line>
+    <line lang1="ー大学*の*寮*に*泊まらせて*もらいました。" someNumber="96" image="113_024.jpg" lang2="- Мне разрешили остановиться в общежитии университета.">
+      <audioTime in="105591" out="109902" />
+    </line>
+    <line lang1="ー明日*の*試合*は*どこ？" someNumber="None" image="113_025.jpg" lang2="- Где пройдет завтрашний матч?">
+      <audioTime in="109902" out="114903" />
+    </line>
+    <line lang1="ー学校*の*競技場*を*使わせて*もらう*ん*だ。" someNumber="None" image="113_026.jpg" lang2="- Нам позволили воспользоваться школьной спортплощадкой.">
+      <audioTime in="114903" out="119302" />
+    </line>
+  </lines>
+</lesson>

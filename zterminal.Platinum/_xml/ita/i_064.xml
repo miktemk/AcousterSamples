@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="i_064.wav" dic="p064" dlgName="Ты не должен!.." dlgFile="exr\ig063.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Non prendere l'aspirina!" someNumber="930" image="dg\064_001.gif" lang2="- Не принимай аспирин!">
+      <audioTime in="342" out="2108" />
+    </line>
+    <line lang1="- Non devi prendere l'aspirina." someNumber="None" image="dg\064_001.gif" lang2="- Ты не должен принимать аспирин.">
+      <audioTime in="2073" out="4047" />
+    </line>
+    <line lang1="- Non prendere questa medicina!" someNumber="None" image="dg\064_002.gif" lang2="- Не пей это лекарство!">
+      <audioTime in="4047" out="5972" />
+    </line>
+    <line lang1="- Non devi prendere questa medicina." someNumber="None" image="dg\064_002.gif" lang2="- Ты не должен пить это лекарство.">
+      <audioTime in="5927" out="8149" />
+    </line>
+    <line lang1="- Non chiamate il dottore!" someNumber="None" image="dg\064_003.gif" lang2="- Не вызывайте доктора!">
+      <audioTime in="8149" out="9973" />
+    </line>
+    <line lang1="- Non dovete chiamare il dottore." someNumber="None" image="dg\064_003.gif" lang2="- Вы не должны вызывать доктора.">
+      <audioTime in="10088" out="11969" />
+    </line>
+    <line lang1="- Non giocare con i fiammiferi!" someNumber="None" image="dg\064_004.gif" lang2="- Не играй со спичками!">
+      <audioTime in="12197" out="14077" />
+    </line>
+    <line lang1="- Non devi giocare con i fiammiferi." someNumber="None" image="dg\064_004.gif" lang2="- Ты не должен играть со спичками.">
+      <audioTime in="14249" out="16357" />
+    </line>
+    <line lang1="- Non parlare in biblioteca!" someNumber="None" image="dg\064_005.gif" lang2="- Не разговаривай в библиотеке!">
+      <audioTime in="16357" out="18409" />
+    </line>
+    <line lang1="- Non dovete parlare in biblioteca." someNumber="None" image="dg\064_005.gif" lang2="- Вы не должны разговаривать в библиотеке.">
+      <audioTime in="18466" out="20632" />
+    </line>
+    <line lang1="- Non fare rumore!" someNumber="None" image="dg\064_006.gif" lang2="- Не производи шума!">
+      <audioTime in="20632" out="22285" />
+    </line>
+    <line lang1="- Non dovete fare rumore." someNumber="None" image="dg\064_006.gif" lang2="- Вы не должны производить шума.">
+      <audioTime in="22399" out="24052" />
+    </line>
+    <line lang1="- Non guidare così velocemente!" someNumber="None" image="dg\064_007.gif" lang2="- Не езжай так быстро!">
+      <audioTime in="24166" out="26389" />
+    </line>
+    <line lang1="- Non dovete guidare così velocemente." someNumber="None" image="dg\064_007.gif" lang2="- Вы не должны ехать так быстро.">
+      <audioTime in="26559" out="29067" />
+    </line>
+    <line lang1="- Non sporgerti fuori dalla finestra!" someNumber="None" image="dg\064_008.gif" lang2="- Не высовывайся из окна!">
+      <audioTime in="29125" out="31575" />
+    </line>
+    <line lang1="- Non dovete sporgervi dalla finestra." someNumber="None" image="dg\064_008.gif" lang2="- Вы не должны высовываться из окна.">
+      <audioTime in="31713" out="34083" />
+    </line>
+    <line lang1="- Non rompere questo vaso!" someNumber="None" image="dg\064_009.gif" lang2="- Не разбивай ту вазу!">
+      <audioTime in="34140" out="35850" />
+    </line>
+    <line lang1="- Non devi rompere questo vaso." someNumber="None" image="dg\064_009.gif" lang2="- Ты не должен разбивать ту вазу.">
+      <audioTime in="35907" out="37731" />
+    </line>
+  </lines>
+</lesson>

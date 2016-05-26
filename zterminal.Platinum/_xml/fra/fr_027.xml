@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="FR_027.wav" dlgName="Через деревню" dlgFile="exr\frg027.txt" />
+  <lines>
+    <line lang1="- Qu'il fait bon rouler à travers la campagne!" someNumber="None" image="f.jpg" lang2="- Как хорошо ехать через деревню!">
+      <audioTime in="0" out="3207" />
+    </line>
+    <line lang1="Regarde les champs, le blé est haut et jaune," someNumber="None" image="f.jpg" lang2="Смотри на поля, на высокие, жёлтые хлеба,">
+      <audioTime in="3207" out="8185" />
+    </line>
+    <line lang1="il est déjà mûr." someNumber="None" image="f.jpg" lang2="уже спелые.">
+      <audioTime in="8185" out="9584" />
+    </line>
+    <line lang1="C'est certainement du blé d'hiver." someNumber="None" image="f.jpg" lang2="Это наверное озимые хлеба.">
+      <audioTime in="9584" out="12049" />
+    </line>
+    <line lang1="On a dû le semer en novembre et bientôt on le coupera." someNumber="None" image="f.jpg" lang2="Должно быть, их сеяли в ноябре и скоро будут жать.">
+      <audioTime in="12049" out="16573" />
+    </line>
+    <line lang1="- A propos, en quelle saison se font les semailles d'été?" someNumber="None" image="f.jpg" lang2="- Кстати, в какое время года происходит летний сев?">
+      <audioTime in="16573" out="20451" />
+    </line>
+    <line lang1="- Au printemps, fin mars ou avril." someNumber="None" image="f.jpg" lang2="- Весной, в конце марта или в апреле.">
+      <audioTime in="20451" out="23675" />
+    </line>
+    <line lang1="- Regarde cette ferme là-bas, au milieu des champs, avec sa maison en briques." someNumber="None" image="f.jpg" lang2="- Смотри на эту ферму там, среди полей, с домом из кирпича.">
+      <audioTime in="23675" out="29056" />
+    </line>
+    <line lang1="Comme elle est jolie, n'est-ce pas?" someNumber="None" image="f.jpg" lang2="Какая она красивая, не правда ли?">
+      <audioTime in="29056" out="30800" />
+    </line>
+    <line lang1="- En effet. Elle n'est pas mal." someNumber="None" image="f.jpg" lang2="- Действительно. Она ничего себе.">
+      <audioTime in="30800" out="32645" />
+    </line>
+    <line lang1="Et à l'autre bout de la cour on voit un petit âne qui mange du foin." someNumber="None" image="f.jpg" lang2="А на другом конце двора видно осла, который ест сено.">
+      <audioTime in="32645" out="37741" />
+    </line>
+    <line lang1="- Tu te trompes: c'est de la paille." someNumber="None" image="f.jpg" lang2="- Ты ошибаешься: это солома.">
+      <audioTime in="37741" out="40589" />
+    </line>
+    <line lang1="Mais cela ne m'étonne pas, à travers tes lunettes la paille ressemble à du foin." someNumber="None" image="f.jpg" lang2="Но это меня не удивляет, из-за твоих очков солома похожа на сено.">
+      <audioTime in="40589" out="46455" />
+    </line>
+    <line lang1="Comme elle est maigre, la pauvre bête!" someNumber="None" image="f.jpg" lang2="Бедное животное, какое оно худое!">
+      <audioTime in="46455" out="49146" />
+    </line>
+    <line lang1="- On l'a attachée à la branche d'un arbre pour l'empêcher d'aller manger l'herbe du jardin." someNumber="None" image="f.jpg" lang2="- Он привязан к (ветви) дереву, чтобы не мог есть траву в саду.">
+      <audioTime in="49146" out="55782" />
+    </line>
+    <line lang1="Ah, que les hommes sont méchants pour les animaux!" someNumber="None" image="f.jpg" lang2="Ах, какие злые бывают люди для зверей!">
+      <audioTime in="55782" out="59053" />
+    </line>
+    <line lang1="- Je te conseille de mettre des lunettes roses, tu verrais la vie en rose." someNumber="None" image="f.jpg" lang2="- Я тебе советую надеть розовые очки, ты увидела бы жизнь в розовом тоне.">
+      <audioTime in="59053" out="64966" />
+    </line>
+  </lines>
+</lesson>

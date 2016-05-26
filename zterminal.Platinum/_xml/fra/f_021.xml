@@ -1,0 +1,29 @@
+<lesson>
+  <header wav="f_021.wav" dic="p021" dlgName="Дай мне книгу, пожалуйста." dlgFile="exr\fg021.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Jeanne, donne-moi un livre, s'il te plaît." someNumber="None" image="dg\021_001.gif" lang2="- Жанна, дай мне книгу, пожалуйста.">
+      <audioTime in="0" out="1991" />
+    </line>
+    <line lang1="- Lequel?" someNumber="None" image="dg\021_002.gif" lang2="- Какую книгу?">
+      <audioTime in="2008" out="2535" />
+    </line>
+    <line lang1="Celui-ci?" someNumber="490" image="dg\021_003.gif" lang2="Эту?">
+      <audioTime in="2535" out="3058" />
+    </line>
+    <line lang1="- Non pas celui-ci. Celui-là, qui est rouge." someNumber="None" image="dg\021_004.gif" lang2="- Нет не эту. Ту красную.">
+      <audioTime in="3058" out="5671" />
+    </line>
+    <line lang1="- Celui-là?" someNumber="None" image="dg\021_005.gif" lang2="- Ту?">
+      <audioTime in="5671" out="6272" />
+    </line>
+    <line lang1="- C'est bien ça." someNumber="None" image="dg\021_005.gif" lang2="- Да, вот эту.">
+      <audioTime in="6272" out="7263" />
+    </line>
+    <line lang1="- Le voilà." someNumber="780" image="dg\021_006.gif" lang2="- Вот она.">
+      <audioTime in="7263" out="8014" />
+    </line>
+    <line lang1="- Merci bien." someNumber="780" image="dg\021_006.gif" lang2="- Спасибо.">
+      <audioTime in="8014" out="8865" />
+    </line>
+  </lines>
+</lesson>

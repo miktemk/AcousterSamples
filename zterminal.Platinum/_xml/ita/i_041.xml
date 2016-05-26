@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="i_041.wav" dic="p041" dlgName="Что в сумке?" dlgFile="exr\ig041.txt" author="Alexander" />
+  <lines>
+    <line lang1="- È pesante questa borsa, Maria?" someNumber="None" image="dg\041_001.gif" lang2="- Эта сумка тяжёлая, Мария?">
+      <audioTime in="46" out="2468" />
+    </line>
+    <line lang1="- Non molto." someNumber="None" image="dg\041_001.gif" lang2="- Не очень.">
+      <audioTime in="2374" out="3724" />
+    </line>
+    <line lang1="- Ecco!" someNumber="None" image="dg\041_001.gif" lang2="- Вот!">
+      <audioTime in="3679" out="4899" />
+    </line>
+    <line lang1="Mettila sulla sedia." someNumber="None" image="dg\041_001.gif" lang2="Поставь её на этот стул.">
+      <audioTime in="4795" out="6891" />
+    </line>
+    <line lang1="Che cosa c'è dentro?" someNumber="None" image="dg\041_001.gif" lang2="Что в ней?">
+      <audioTime in="6754" out="8805" />
+    </line>
+    <line lang1="- Un pezzo di formaggio." someNumber="None" image="dg\041_002.gif" lang2="- Кусок сыра.">
+      <audioTime in="8731" out="10756" />
+    </line>
+    <line lang1="Un filone di pane." someNumber="None" image="dg\041_003.gif" lang2="Батон хлеба.">
+      <audioTime in="10756" out="12385" />
+    </line>
+    <line lang1="Un pezzo di sapone." someNumber="500" image="dg\041_004.gif" lang2="Кусок мыла.">
+      <audioTime in="12478" out="14387" />
+    </line>
+    <line lang1="Una tavoletta di cioccolata." someNumber="None" image="dg\041_005.gif" lang2="Плитка шоколада.">
+      <audioTime in="14434" out="16529" />
+    </line>
+    <line lang1="Una bottiglia di latte." someNumber="None" image="dg\041_006.gif" lang2="Бутылка молока.">
+      <audioTime in="16622" out="18765" />
+    </line>
+    <line lang1="Un chilo di zucchero." someNumber="None" image="dg\041_007.gif" lang2="Килограмм сахара.">
+      <audioTime in="18760" out="20673" />
+    </line>
+    <line lang1="Mezzo chilo di caffè." someNumber="None" image="dg\041_008.gif" lang2="Полкилограмма кофе.">
+      <audioTime in="20626" out="22303" />
+    </line>
+    <line lang1="Un etto di tè." someNumber="None" image="dg\041_009.gif" lang2="Сто граммов чая.">
+      <audioTime in="22442" out="23886" />
+    </line>
+    <line lang1="E una scatola di tabacco." someNumber="None" image="dg\041_010.gif" lang2="И жестянка табака.">
+      <audioTime in="23973" out="26215" />
+    </line>
+    <line lang1="- È per me questa scatola di tabacco?" someNumber="None" image="dg\041_010.gif" lang2="- Эта жестянка табака для меня?">
+      <audioTime in="26168" out="28729" />
+    </line>
+    <line lang1="- Bè, di sicuro non è per me!" someNumber="None" image="dg\041_010.gif" lang2="- Ну, уж конечно не для меня!">
+      <audioTime in="28589" out="30777" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="d_113.wav" dic="p113" dlgName="Платите за проезд." dlgFile="exr\dg113.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Zahlen Sie das Fahrgeld, bitte!" someNumber="None" image="dg\113_001.gif" lang2="- Платите за проезд, пожалуйста!">
+      <audioTime in="490" out="2455" />
+    </line>
+    <line lang1="- Hauptbahnhof, bitte." someNumber="None" image="dg\113_001.gif" lang2="- Главный вокзал, пожалуйста.">
+      <audioTime in="2578" out="4051" />
+    </line>
+    <line lang1="- #Entschuldigen Sie, mein Herr." someNumber="None" image="dg\113_001.gif" lang2="- Простите, господин.">
+      <audioTime in="4297" out="5524" />
+    </line>
+    <line lang1="Ich #kann soviel Geld nicht #wechseln." someNumber="None" image="dg\113_001.gif" lang2="Я не могу разменять столько денег.">
+      <audioTime in="5463" out="7304" />
+    </line>
+    <line lang1="Ich #kann nur 50 Markscheine #wechseln." someNumber="None" image="dg\113_001.gif" lang2="Я могу разменять только 50 марок.">
+      <audioTime in="7243" out="9637" />
+    </line>
+    <line lang1="- Ich #habe kein Kleingeld." someNumber="None" image="dg\113_001.gif" lang2="- У меня нет мелочи.">
+      <audioTime in="9821" out="11233" />
+    </line>
+    <line lang1="- #Entschuldigen Sie!" someNumber="None" image="dg\113_001.gif" lang2="- Извините!">
+      <audioTime in="11233" out="12362" />
+    </line>
+    <line lang1="Ich #frage einige Fahrgäste." someNumber="None" image="dg\113_002.gif" lang2="Я спрошу у некоторых пассажиров.">
+      <audioTime in="12461" out="14180" />
+    </line>
+    <line lang1="- #Haben Sie etwas Kleingeld, mein Herr?" someNumber="380" image="dg\113_002.gif" lang2="- У Вас есть немного мелочи, господин?">
+      <audioTime in="14426" out="16451" />
+    </line>
+    <line lang1="- #Entschuldigen Sie, ich #habe keines." someNumber="380" image="dg\113_002.gif" lang2="- Простите, у меня нет.">
+      <audioTime in="16635" out="18783" />
+    </line>
+    <line lang1="- Ich #habe auch keines." someNumber="None" image="dg\113_002.gif" lang2="- У меня тоже нет.">
+      <audioTime in="18907" out="20379" />
+    </line>
+    <line lang1="- #Können Sie diesen Hundertmarkschein #wechseln, meine Dame?" someNumber="370" image="dg\113_003.gif" lang2="- Можете ли Вы разменять эту стомарковую банкноту, госпожа?">
+      <audioTime in="20687" out="23940" />
+    </line>
+    <line lang1="- Ich #glaube, ich #kann das nicht." someNumber="370" image="dg\113_003.gif" lang2="- Я боюсь, что я не смогу.">
+      <audioTime in="23940" out="25597" />
+    </line>
+    <line lang1="- Ich #kann das auch nicht." someNumber="None" image="dg\113_003.gif" lang2="- И я тоже не смогу.">
+      <audioTime in="25905" out="27317" />
+    </line>
+    <line lang1="- Es #tut mir Leid." someNumber="None" image="dg\113_004.gif" lang2="- Мне очень жаль.">
+      <audioTime in="27623" out="28729" />
+    </line>
+    <line lang1="Aber Sie #müssen #aussteigen." someNumber="None" image="dg\113_004.gif" lang2="Но вы должны выйти.">
+      <audioTime in="28729" out="30354" />
+    </line>
+    <line lang1="#Kann niemand von den Fahrgästen diesen Geldschein #wechseln?" someNumber="790" image="dg\113_004.gif" lang2="Никто из пассажиров не может разменять эту банкноту?">
+      <audioTime in="30569" out="34131" />
+    </line>
+    <line lang1="Alle #sind Millionäre!" someNumber="None" image="dg\113_004.gif" lang2="Все миллионеры!">
+      <audioTime in="34131" out="35440" />
+    </line>
+    <line lang1="- Außer uns, Herr Schaffner." someNumber="790" image="dg\113_005.gif" lang2="- Кроме нас, господин кондуктор.">
+      <audioTime in="35440" out="37155" />
+    </line>
+    <line lang1="- Ich #habe etwas Kleingeld." someNumber="790" image="dg\113_005.gif" lang2="- У меня есть немного мелочи.">
+      <audioTime in="37155" out="38601" />
+    </line>
+    <line lang1="- Ich #habe auch etwas." someNumber="550" image="dg\113_005.gif" lang2="- У меня тоже есть немного.">
+      <audioTime in="38796" out="40208" />
+    </line>
+  </lines>
+</lesson>

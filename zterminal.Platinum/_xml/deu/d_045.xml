@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="d_045.wav" dic="p045" dlgName="Письмо." dlgFile="exr\dg045.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Kannst du für einen Augenblick zu mir #kommen?" someNumber="770" image="dg\045_001.gif" lang2="- Ты можешь подойти ко мне на минуту?">
+      <audioTime in="335" out="3206" />
+    </line>
+    <line lang1="- Ja, Chef." someNumber="770" image="dg\045_001.gif" lang2="- Да, шеф.">
+      <audioTime in="3206" out="4335" />
+    </line>
+    <line lang1="- Wo #ist Fräulein Inge?" someNumber="810" image="dg\045_002.gif" lang2="- Где фрейлейн Инга?">
+      <audioTime in="4499" out="5982" />
+    </line>
+    <line lang1="- Sie #ist im Nebenzimmer." someNumber="810" image="dg\045_002.gif" lang2="- Она в соседней комнате.">
+      <audioTime in="6173" out="7801" />
+    </line>
+    <line lang1="Sie #ist in ihrem Büro." someNumber="810" image="dg\045_002.gif" lang2="Она в своём офисе.">
+      <audioTime in="7897" out="9716" />
+    </line>
+    <line lang1="- #Kann sie mir diesen Brief #tippen?" someNumber="370" image="dg\045_003.gif" lang2="- Может ли она напечатать это письмо для меня?">
+      <audioTime in="10098" out="12060" />
+    </line>
+    <line lang1="#Fragen Sie, bitte." someNumber="370" image="dg\045_003.gif" lang2="Спросите, пожалуйста.">
+      <audioTime in="12299" out="13496" />
+    </line>
+    <line lang1="- Ja, Chef." someNumber="370" image="dg\045_003.gif" lang2="- Да, шеф.">
+      <audioTime in="13496" out="14549" />
+    </line>
+    <line lang1="- #Können Sie diesen Brief für Herrn Braun #tippen, bitte, Fräulein Inge?" someNumber="680" image="dg\045_004.gif" lang2="- Вы можете напечатать это письмо для господина Брауна, пожалуйста, фрейлейн Инга?">
+      <audioTime in="14932" out="18665" />
+    </line>
+    <line lang1="- Ja, gewiss." someNumber="680" image="dg\045_004.gif" lang2="- Да, конечно.">
+      <audioTime in="18665" out="19794" />
+    </line>
+    <line lang1="- Hier #ist er." someNumber="None" image="dg\045_005.gif" lang2="- Вот оно.">
+      <audioTime in="19794" out="20923" />
+    </line>
+    <line lang1="- Danke, Hans." someNumber="None" image="dg\045_005.gif" lang2="- Спасибо, Ганс.">
+      <audioTime in="20923" out="22051" />
+    </line>
+    <line lang1="- Hans!" someNumber="950" image="dg\045_006.gif" lang2="- Ганс!">
+      <audioTime in="22398" out="23212" />
+    </line>
+    <line lang1="- Ja?" someNumber="950" image="dg\045_006.gif" lang2="- Да?">
+      <audioTime in="23212" out="23978" />
+    </line>
+    <line lang1="Was #ist los?" someNumber="950" image="dg\045_006.gif" lang2="Что случилось?">
+      <audioTime in="23978" out="24887" />
+    </line>
+    <line lang1="- Ich #kann diesen Brief nicht #tippen." someNumber="950" image="dg\045_006.gif" lang2="- Я не могу напечатать это письмо.">
+      <audioTime in="24887" out="26693" />
+    </line>
+    <line lang1="- Ich #kann ihn nicht #lesen." someNumber="200" image="dg\045_007.gif" lang2="- Я не могу прочитать его!">
+      <audioTime in="26693" out="28228" />
+    </line>
+    <line lang1="Die Handschrift des Chefs #ist schrecklich." someNumber="200" image="dg\045_007.gif" lang2="Почерк шефа ужасный!">
+      <audioTime in="28228" out="31073" />
+    </line>
+  </lines>
+</lesson>

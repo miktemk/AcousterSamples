@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="FR_019.wav" dlgName="Визит врача" dlgFile="exr\frg019.txt" />
+  <lines>
+    <line lang1="- Jacques, voici le docteur qui vient te voir." someNumber="None" image="f.jpg" lang2="- Жак, вот врач, который пришёл тебя посмотреть.">
+      <audioTime in="0" out="3730" />
+    </line>
+    <line lang1="- Oh! ce n'est rien, docteur." someNumber="None" image="f.jpg" lang2="- Ох! Ничего страшного, доктор.">
+      <audioTime in="3730" out="6240" />
+    </line>
+    <line lang1="Hier j'ai pris froid et j'ai un peu de fièvre." someNumber="None" image="f.jpg" lang2="Вчера я простудился, и у меня немножко повышена температура.">
+      <audioTime in="6240" out="9377" />
+    </line>
+    <line lang1="- Nous allons voir ça." someNumber="None" image="f.jpg" lang2="- Сейчас увидим.">
+      <audioTime in="9377" out="11219" />
+    </line>
+    <line lang1="Asseyez-vous sur votre lit." someNumber="None" image="f.jpg" lang2="Сядьте на кровать.">
+      <audioTime in="11219" out="13507" />
+    </line>
+    <line lang1="Oui, comme ça." someNumber="None" image="f.jpg" lang2="Да, вот так.">
+      <audioTime in="13507" out="15352" />
+    </line>
+    <line lang1="Et maintenant tirez la langue." someNumber="None" image="f.jpg" lang2="А теперь покажите язык.">
+      <audioTime in="15352" out="17684" />
+    </line>
+    <line lang1="Où avez-vous mal?" someNumber="None" image="f.jpg" lang2="Что у вас болит?">
+      <audioTime in="17684" out="19566" />
+    </line>
+    <line lang1="- J'ai mal à la tête." someNumber="None" image="f.jpg" lang2="- У меня болит голова.">
+      <audioTime in="19566" out="22017" />
+    </line>
+    <line lang1="- Vous n'avez pas mal au ventre?" someNumber="None" image="f.jpg" lang2="- А живот у вас не болит?">
+      <audioTime in="22017" out="24106" />
+    </line>
+    <line lang1="- Non, mais je ne peux remuer ni les bras, ni le cou." someNumber="None" image="f.jpg" lang2="- Нет, но я не могу шевелить ни руками, ни шеей.">
+      <audioTime in="24106" out="28114" />
+    </line>
+    <line lang1="- Etendez-vous sur le dos, je vais vous ausculter. Bon!" someNumber="None" image="f.jpg" lang2="- Ложитесь на спину, я вас послушаю.">
+      <audioTime in="28114" out="33968" />
+    </line>
+    <line lang1="Et maintenant asseyez-vous et respirez profondément." someNumber="None" image="f.jpg" lang2="Хорошо! А теперь садитесь и дышите глубоко.">
+      <audioTime in="33968" out="38154" />
+    </line>
+    <line lang1="Oui, comme ça. Très bien, merci." someNumber="None" image="f.jpg" lang2="Да, вот так. Очень хорошо. Спасибо.">
+      <audioTime in="38154" out="43388" />
+    </line>
+    <line lang1="Alors, cette fois-ci, ce n'est rien." someNumber="None" image="f.jpg" lang2="На этот раз ничего страшного.">
+      <audioTime in="43388" out="46067" />
+    </line>
+    <line lang1="Vous avez pris froid." someNumber="None" image="f.jpg" lang2="Вы простудились!">
+      <audioTime in="46067" out="47587" />
+    </line>
+    <line lang1="Mais comment avez-vous fait pour vous enrhumer comme ça?" someNumber="None" image="f.jpg" lang2="Но как же вы так простудились?">
+      <audioTime in="47587" out="50997" />
+    </line>
+    <line lang1="- Hier, je me suis promené malgré le mauvais temps." someNumber="None" image="f.jpg" lang2="- Вчера я гулял, несмотря на плохую погоду.">
+      <audioTime in="50997" out="54859" />
+    </line>
+    <line lang1="Je suis allé au jardin du Luxembourg." someNumber="None" image="f.jpg" lang2="Я пошёл в Люксембургский сад">
+      <audioTime in="54859" out="58240" />
+    </line>
+    <line lang1="Je suis revenu à la maison tard dans la nuit." someNumber="None" image="f.jpg" lang2="И возвратился домой поздно ночью.">
+      <audioTime in="58240" out="62340" />
+    </line>
+    <line lang1="Je me suis couché comme d'habitude, mais je ne me suis pas endormi:" someNumber="None" image="f.jpg" lang2="Я лег как всегда, но не мог заснуть,">
+      <audioTime in="62340" out="67241" />
+    </line>
+    <line lang1="j'ai passé toute une nuit blanche." someNumber="None" image="f.jpg" lang2="я провел бессонную ночь.">
+      <audioTime in="67241" out="70218" />
+    </line>
+    <line lang1="- Je m'aperçois que vous n'aimez pas être malade," someNumber="None" image="f.jpg" lang2="- Я вижу, что вы не любите болеть,">
+      <audioTime in="70218" out="73466" />
+    </line>
+    <line lang1="mais il faudra garder le lit pendant quelques jours." someNumber="None" image="f.jpg" lang2="но придётся полежать в кровати несколько дней.">
+      <audioTime in="73466" out="76689" />
+    </line>
+    <line lang1="Vous avez besoin de vous reposer." someNumber="None" image="f.jpg" lang2="Вы нуждаетесь в отдыхе.">
+      <audioTime in="76689" out="79160" />
+    </line>
+    <line lang1="Suivez mes conseils et vous reprendrez vite vos forces." someNumber="None" image="f.jpg" lang2="Прислушивайтесь к моим советам, и вы скоро поправитесь.">
+      <audioTime in="79160" out="82887" />
+    </line>
+    <line lang1="Voici l'ordonnance, vous la porterez chez le pharmacien." someNumber="None" image="f.jpg" lang2="Вот рецепт, вы его отнесете в аптеку.">
+      <audioTime in="82887" out="87449" />
+    </line>
+    <line lang1="- C'est tout, docteur?" someNumber="None" image="f.jpg" lang2="- Это всё, доктор?">
+      <audioTime in="87449" out="89058" />
+    </line>
+    <line lang1="- Je reviendrai vous voir vendredi prochain." someNumber="None" image="f.jpg" lang2="- Я приеду вас осмотреть в будущую пятницу.">
+      <audioTime in="89058" out="91597" />
+    </line>
+    <line lang1="D'ici là, soignez-vous bien." someNumber="None" image="f.jpg" lang2="До тех пор лечитесь хорошенько.">
+      <audioTime in="91597" out="93368" />
+    </line>
+    <line lang1="- Merci, docteur." someNumber="None" image="f.jpg" lang2="- Спасибо, доктор.">
+      <audioTime in="93368" out="94873" />
+    </line>
+    <line lang1="- Vous réglerez la note de mes honoraires vendredi prochain." someNumber="None" image="f.jpg" lang2="- Вознаграждение за мой визит вы заплатите в следующую пятницу.">
+      <audioTime in="94873" out="98381" />
+    </line>
+  </lines>
+</lesson>

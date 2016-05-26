@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_097.wav" dic="p097" dlgName="В камере хранения." dlgFile="exr\ig097.txt" author="Alexander" />
+  <lines>
+    <line lang1="- L'altro giorno ho lasciato la valigia nel treno per Firenze." someNumber="None" image="dg\097_001.gif" lang2="- Я на днях оставил чемодан в поезде на Флоренцию.">
+      <audioTime in="226" out="4816" />
+    </line>
+    <line lang1="- Può descriverla, signore?" someNumber="None" image="dg\097_001.gif" lang2="- Вы можете его описать, господин?">
+      <audioTime in="4816" out="6863" />
+    </line>
+    <line lang1="- È una piccola valigia blu con la chiusura lampo." someNumber="None" image="dg\097_002.gif" lang2="- Это маленький синий чемодан с застежкой-молнией.">
+      <audioTime in="6863" out="10114" />
+    </line>
+    <line lang1="Sul manico c'è un cartellino con il mio nome e l'indirizzo." someNumber="None" image="dg\097_002.gif" lang2="На ручке имеется бирка с указанием моего имени и адреса.">
+      <audioTime in="10114" out="13696" />
+    </line>
+    <line lang1="- È questa la Sua valigia?" someNumber="None" image="dg\097_003.gif" lang2="- Это Ваш чемодан?">
+      <audioTime in="13787" out="15532" />
+    </line>
+    <line lang1="- No, non è la mia." someNumber="None" image="dg\097_003.gif" lang2="- Нет, это не мой.">
+      <audioTime in="15517" out="17128" />
+    </line>
+    <line lang1="- Cosa ne dice di questa?" someNumber="None" image="dg\097_004.gif" lang2="- А как насчёт этого?">
+      <audioTime in="17158" out="18874" />
+    </line>
+    <line lang1="Su questa c'è un cartellino." someNumber="410" image="dg\097_004.gif" lang2="На этом есть бирка.">
+      <audioTime in="18919" out="20770" />
+    </line>
+    <line lang1="- Posso guardarlo." someNumber="None" image="dg\097_004.gif" lang2="- Дайте мне посмотреть.">
+      <audioTime in="20890" out="22275" />
+    </line>
+    <line lang1="- Qual è il Suo nome e indirizzo?" someNumber="None" image="dg\097_005.gif" lang2="- Как Ваше имя и адрес?">
+      <audioTime in="22336" out="24262" />
+    </line>
+    <line lang1="- Mario Rossi, via Roma, ottantatre." someNumber="None" image="dg\097_005.gif" lang2="- Марио Росси, дом восемьдесят три по улице Рима.">
+      <audioTime in="24292" out="26625" />
+    </line>
+    <line lang1="- Esatto." someNumber="None" image="dg\097_005.gif" lang2="- Всё верно.">
+      <audioTime in="26671" out="27678" />
+    </line>
+    <line lang1="Mario Rossi, via Roma, ottantatre." someNumber="None" image="dg\097_005.gif" lang2="Марио Росси, дом восемьдесят три по улице Рима.">
+      <audioTime in="27618" out="29921" />
+    </line>
+    <line lang1="- Duemila lire, per favore." someNumber="None" image="dg\097_006.gif" lang2="- Две тысячи лир, пожалуйста.">
+      <audioTime in="29981" out="31727" />
+    </line>
+    <line lang1="- Eccoli, grazie." someNumber="None" image="dg\097_006.gif" lang2="- Пожалуйста, получите.">
+      <audioTime in="31727" out="33292" />
+    </line>
+    <line lang1="- Grazie." someNumber="None" image="dg\097_006.gif" lang2="- Спасибо.">
+      <audioTime in="33353" out="34377" />
+    </line>
+    <line lang1="- Ehi!" someNumber="660" image="dg\097_007.gif" lang2="- Эй!">
+      <audioTime in="34467" out="35415" />
+    </line>
+    <line lang1="- Cosa c'è?" someNumber="None" image="dg\097_007.gif" lang2="- В чем дело?">
+      <audioTime in="35415" out="36453" />
+    </line>
+    <line lang1="- Questa valigia non appartiene a me!" someNumber="320" image="dg\097_008.gif" lang2="- Этот чемодан мне не принадлежит!">
+      <audioTime in="36390" out="38452" />
+    </line>
+    <line lang1="Lei mi ha dato un'altra valigia!" someNumber="None" image="dg\097_008.gif" lang2="Вы дали мне не тот чемодан!">
+      <audioTime in="38453" out="40168" />
+    </line>
+  </lines>
+</lesson>

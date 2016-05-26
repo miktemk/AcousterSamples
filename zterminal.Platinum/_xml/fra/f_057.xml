@@ -1,0 +1,38 @@
+<lesson>
+  <header wav="f_057.wav" dic="p057" dlgName="Время." dlgFile="exr\fg057.txt" author="Alexander" />
+  <lines>
+    <line lang1="Il est 8 heures. (huit heures) Chaque jour les enfants vont à l'école en voiture," someNumber="None" image="dg\057_001.gif" lang2="Восемь часов. Каждый день дети едут в школу на машине,">
+      <audioTime in="0" out="4286" />
+    </line>
+    <line lang1="mais aujourd'hui ils y vont à pied." someNumber="None" image="dg\057_001.gif" lang2="но сегодня они идут туда пешком.">
+      <audioTime in="4286" out="6715" />
+    </line>
+    <line lang1="Il est 10 heures. (dix heures) D'habitude, mme Pichon reste à la maison le matin," someNumber="None" image="dg\057_002.gif" lang2="Десять часов. Обычно госпожа Пишон остаётся дома утром,">
+      <audioTime in="6715" out="11324" />
+    </line>
+    <line lang1="mais ce matin elle va au magasin." someNumber="70" image="dg\057_002.gif" lang2="но этим утром она идёт в магазин.">
+      <audioTime in="11324" out="13311" />
+    </line>
+    <line lang1="Il est 16 heures. (seize heures) D'habitude, madame Pichon boit son thé dans le salon," someNumber="None" image="dg\057_003.gif" lang2="Четыре часа. Обычно госпожа Пишон пьёт чай в гостиной,">
+      <audioTime in="13311" out="18241" />
+    </line>
+    <line lang1="mais ce jour-là elle boit du thé dans le jardin." someNumber="None" image="dg\057_003.gif" lang2="но в этот день она пьёт чай в саду.">
+      <audioTime in="18241" out="20771" />
+    </line>
+    <line lang1="Il est 18 heures. (dix huit heures) Le soir, d'habitude les enfants font leurs devoirs," someNumber="None" image="dg\057_004.gif" lang2="Шесть часов. Вечером обычно дети делают свои домашние задания,">
+      <audioTime in="20771" out="25314" />
+    </line>
+    <line lang1="mais ce soir ils ne font pas leurs devoirs." someNumber="None" image="dg\057_004.gif" lang2="но в этот вечер они не делают домашние задания.">
+      <audioTime in="25314" out="27413" />
+    </line>
+    <line lang1="En ce moment ils jouent dans le jardin." someNumber="None" image="dg\057_004.gif" lang2="В данный момент они играют в саду.">
+      <audioTime in="27413" out="29449" />
+    </line>
+    <line lang1="Il est 21 heures. (vingt-et-une heures) D'habitude le soir monsieur Pichon lit son journal." someNumber="200" image="dg\057_005.gif" lang2="Девять часов. Обычно вечером господин Пишон читает свою газету.">
+      <audioTime in="29449" out="33958" />
+    </line>
+    <line lang1="Mais ce soir il ne lit pas son journal. En ce moment il lit un livre intéressant." someNumber="None" image="dg\057_005.gif" lang2="Но сегодня вечером он не читает свою газету. В данный момент он читает интересную книгу.">
+      <audioTime in="33958" out="38632" />
+    </line>
+  </lines>
+</lesson>

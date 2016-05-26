@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="j_094.wav" dlgName="Был написан Нацумэ Сосэки" dic="p094" />
+  <lines>
+    <line lang1="ー知ってる、田中*さん*が*鈴木*さん*に*なぐられた*ん*だ。" someNumber="95" image="094_001.jpg" lang2="- Слышал? Танака-сан был побит Судзуки-саном.">
+      <audioTime in="0" out="4918" />
+    </line>
+    <line lang1="ーええ、なぜ？" someNumber="None" image="094_002.jpg" lang2="- Что?! За что?">
+      <audioTime in="4918" out="6584" />
+    </line>
+    <line lang1="ー私*は*社長*に*給料*を*へらされた。" someNumber="None" image="094_003.jpg" lang2="- Начальник понизил мне зарплату.">
+      <audioTime in="6584" out="11459" />
+    </line>
+    <line lang1="ー気*の*毒ね。" someNumber="None" image="094_003.jpg" lang2="- Как жаль!">
+      <audioTime in="11459" out="13378" />
+    </line>
+    <line lang1="ー先生*に*紹介された*本*を*図書館*へ*さがし*に*行った。" someNumber="09" image="094_005.jpg" lang2="- Я пошёл в библиотеку на поиски книг, с которыми меня ознакомил учитель.">
+      <audioTime in="13378" out="19847" />
+    </line>
+    <line lang1="ー先生*から*紹介された*本*を*図書館*へ*さがし*に*行った。" someNumber="04" image="094_005.jpg" lang2="- Я пошёл в библиотеку на поиски книг, о которых узнал от учителя.">
+      <audioTime in="19847" out="25387" />
+    </line>
+    <line lang1="ー卒業生*に*贈られた*木*は*校庭*の*真ん中*に*ある。" someNumber="None" image="094_007.jpg" lang2="- Деревья, подаренные выпускниками, (растут) в центре школьного сада.">
+      <audioTime in="25387" out="32237" />
+    </line>
+    <line lang1="ー卒業生*から*贈られた*木*は*校庭*の*真ん中*に*ある。" someNumber="None" image="094_007.jpg" lang2="- Деревья, полученные от выпускников, (растут) в центре школьного сада.">
+      <audioTime in="32237" out="37474" />
+    </line>
+    <line lang1="ーこの*選手*は*人気者*で、若者*から*愛されている。" someNumber="None" image="094_009.jpg" lang2="- Этот спортсмен популярен и любим молодежью.">
+      <audioTime in="37474" out="42945" />
+    </line>
+    <line lang1="ー「こころ」と*いう*小説*は*夏目*漱石*に*よって*書かれた。" someNumber="127" image="094_010.jpg" lang2="- Роман &quot;Сердце&quot; написан Нацумэ Сосэки.">
+      <audioTime in="42945" out="49192" />
+    </line>
+    <line lang1="ーこの*法律*は*日本*政府*に*よって*定められた。" someNumber="None" image="094_011.jpg" lang2="- Этот закон принят японским правительством.">
+      <audioTime in="49192" out="54873" />
+    </line>
+    <line lang1="ーこの*薬*は*有名*な*化学者*に*よって*発明された。" someNumber="None" image="094_012.jpg" lang2="- Это лекарство изобретено известным химиком.">
+      <audioTime in="54873" out="60710" />
+    </line>
+    <line lang1="―「冨嶽*三十六*景」と*いう*浮世絵*は*北斎*に*よって*かかれました。" someNumber="None" image="094_013.jpg" lang2="- Серия гравюр &quot;36 видов горы Фудзи&quot; была написана Хокусаем.">
+      <audioTime in="60710" out="68586" />
+    </line>
+    <line lang1="―私*は*子供*に*ノート*に*絵*を*かかれて、困りました。" someNumber="None" image="094_014.jpg" lang2="- Мне было неловко, так как моя тетрадь была разрисована ребёнком.">
+      <audioTime in="68586" out="74503" />
+    </line>
+    <line lang1="ーこの*製品*は*工場*を*出る*とき、ロボット*を*使ってけんさされている。" someNumber="None" image="094_015.jpg" lang2="- Эти изделия при выходе из завода проверяются с помощью роботов.">
+      <audioTime in="74503" out="82900" />
+    </line>
+    <line lang1="この*製品*は*工場*を*出る*とき、ロボット*で*けんさされている。" someNumber="None" image="094_015.jpg" lang2="Эти изделия при выходе из завода проверяются роботами.">
+      <audioTime in="82900" out="88973" />
+    </line>
+    <line lang1="ーこの*牛乳*は*しんせん*です*よ。" someNumber="None" image="094_017.jpg" lang2="- Это молоко свежее!">
+      <audioTime in="88973" out="92805" />
+    </line>
+    <line lang1="けさ*トラック*で*運ばれて*きた*ん*です。" someNumber="07" image="094_017.jpg" lang2="Оно привезено сегодня утром на грузовике.">
+      <audioTime in="92805" out="95564" />
+    </line>
+    <line lang1="ーこの*牛乳*は*しんせん*です*よ。" someNumber="None" image="094_017.jpg" lang2="- Это молоко свежее!">
+      <audioTime in="95564" out="99332" />
+    </line>
+    <line lang1="けさ*トラック*に*運ばれて*きた*ん*です。" someNumber="None" image="094_017.jpg" lang2="Его привезли к грузовику сегодня утром.">
+      <audioTime in="99332" out="102723" />
+    </line>
+  </lines>
+</lesson>

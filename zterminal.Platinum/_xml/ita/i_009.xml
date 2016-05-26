@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="i_009.wav" dic="p009" dlgName="Встреча." dlgFile="exr\ig009.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Buon giorno, signora Bianchi." someNumber="None" image="dg\009_001.gif" lang2="- Добрый день, госпожа Бианки.">
+      <audioTime in="214" out="1928" />
+    </line>
+    <line lang1="- Buon giorno, signor Fortini." someNumber="None" image="dg\009_001.gif" lang2="- Добрый день, господин Фортини.">
+      <audioTime in="1928" out="3959" />
+    </line>
+    <line lang1="- Come sta oggi?" someNumber="None" image="dg\009_002.gif" lang2="- Как у Вас дела сегодня?">
+      <audioTime in="3960" out="5540" />
+    </line>
+    <line lang1="- Molto bene, grazie." someNumber="None" image="dg\009_002.gif" lang2="- Отлично, спасибо.">
+      <audioTime in="5540" out="7255" />
+    </line>
+    <line lang1="E Lei?" someNumber="None" image="dg\009_002.gif" lang2="А у Вас?">
+      <audioTime in="7255" out="8384" />
+    </line>
+    <line lang1="- Bene, grazie." someNumber="None" image="dg\009_003.gif" lang2="- Прекрасно, спасибо.">
+      <audioTime in="8384" out="9965" />
+    </line>
+    <line lang1="E come sta il signor Bianchi?" someNumber="None" image="dg\009_003.gif" lang2="Как поживает господин Бианки?">
+      <audioTime in="9965" out="12358" />
+    </line>
+    <line lang1="- Bene, grazie." someNumber="None" image="dg\009_004.gif" lang2="- Прекрасно, спасибо.">
+      <audioTime in="12358" out="14119" />
+    </line>
+    <line lang1="E la signora Fortini come sta?" someNumber="None" image="dg\009_004.gif" lang2="Как поживает госпожа Фортини?">
+      <audioTime in="14119" out="16242" />
+    </line>
+    <line lang1="- Bene anche lei, signora Bianchi." someNumber="None" image="dg\009_004.gif" lang2="- У неё тоже всё отлично, госпожа Бианки.">
+      <audioTime in="16242" out="19312" />
+    </line>
+    <line lang1="Arrivederci, signora Bianchi." someNumber="None" image="dg\009_005.gif" lang2="До свидания, госпожа Бианки.">
+      <audioTime in="19312" out="21615" />
+    </line>
+    <line lang1="È stato un piacere vederLa." someNumber="None" image="dg\009_005.gif" lang2="Приятно было с Вами повидаться.">
+      <audioTime in="21615" out="23737" />
+    </line>
+    <line lang1="- Anche per me è stato un piacere, signor Fortini." someNumber="560" image="dg\009_005.gif" lang2="- Мне тоже было приятно Вас увидеть, господин Фортини.">
+      <audioTime in="24121" out="26692" />
+    </line>
+    <line lang1="Arrivederci." someNumber="None" image="dg\009_005.gif" lang2="До свидания.">
+      <audioTime in="27162" out="28319" />
+    </line>
+  </lines>
+</lesson>

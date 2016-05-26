@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_111.wav" dic="p111" dlgName="Покупка." dlgFile="exr\ig111.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Questo giradischi mi piace molto." someNumber="None" image="dg\111_001.gif" lang2="- Мне очень нравится этот проигрыватель.">
+      <audioTime in="201" out="2693" />
+    </line>
+    <line lang1="Quanto costa, per favore?" someNumber="None" image="dg\111_001.gif" lang2="Скажите, пожалуйста, сколько он стоит?">
+      <audioTime in="2732" out="4621" />
+    </line>
+    <line lang1="- Questo è il modello più caro del negozio." someNumber="None" image="dg\111_001.gif" lang2="- Это самая дорогая модель в магазине.">
+      <audioTime in="4662" out="8118" />
+    </line>
+    <line lang1="Costa duecentomila lire." someNumber="None" image="dg\111_001.gif" lang2="Он стоит 200 000 лир.">
+      <audioTime in="8198" out="10408" />
+    </line>
+    <line lang1="- È troppo caro per noi." someNumber="None" image="dg\111_002.gif" lang2="- Для нас это слишком дорого.">
+      <audioTime in="10408" out="12338" />
+    </line>
+    <line lang1="Non ci possiamo permettere una spesa simile." someNumber="None" image="dg\111_002.gif" lang2="Мы не можем позволить себе тратить так много денег.">
+      <audioTime in="12378" out="15231" />
+    </line>
+    <line lang1="- Questo modello è meno caro di quello." someNumber="None" image="dg\111_003.gif" lang2="- Эта модель не такая дорогая, как та.">
+      <audioTime in="15271" out="17763" />
+    </line>
+    <line lang1="Questo costa ottantamila lire." someNumber="None" image="dg\111_003.gif" lang2="Она стоит всего 80 000 лир.">
+      <audioTime in="17803" out="20335" />
+    </line>
+    <line lang1="Però, chiaro, non è cosi bello come l'altro." someNumber="590" image="dg\111_003.gif" lang2="Но, конечно, она не такая хорошая, как та дорогая.">
+      <audioTime in="20456" out="23511" />
+    </line>
+    <line lang1="- Non mi piace questo modello." someNumber="None" image="dg\111_004.gif" lang2="- Мне не нравится эта модель.">
+      <audioTime in="23631" out="25680" />
+    </line>
+    <line lang1="Questo modello è più caro, ma questi soldi li vale." someNumber="190" image="dg\111_004.gif" lang2="Та модель более дорогая, но она стоит этих денег.">
+      <audioTime in="25616" out="28858" />
+    </line>
+    <line lang1="- È possibile comprarlo a rate?" someNumber="None" image="dg\111_005.gif" lang2="- Её можно купить в рассрочку?">
+      <audioTime in="28904" out="31277" />
+    </line>
+    <line lang1="- Certo." someNumber="None" image="dg\111_005.gif" lang2="- Конечно.">
+      <audioTime in="31277" out="32226" />
+    </line>
+    <line lang1="Potete pagare un anticipo di diecimila lire," someNumber="220" image="dg\111_005.gif" lang2="Вы можете заплатить задаток в 10 000 лир,">
+      <audioTime in="32328" out="35478" />
+    </line>
+    <line lang1="e poi pagare cinquemila lire alla settimana per trentotto settimane." someNumber="None" image="dg\111_005.gif" lang2="а затем платить по фунту в неделю в течение 38 недель.">
+      <audioTime in="35478" out="40362" />
+    </line>
+    <line lang1="- Ti piace questo, cara?" someNumber="None" image="dg\111_006.gif" lang2="- Тебе он нравится, дорогая?">
+      <audioTime in="40408" out="42280" />
+    </line>
+    <line lang1="- Certo, ma non mi piace il prezzo." someNumber="None" image="dg\111_006.gif" lang2="- Конечно, нравится, но мне не нравится цена.">
+      <audioTime in="42280" out="44974" />
+    </line>
+    <line lang1="Tu vuoi sempre la cosa migliore, ma non ce la possiamo permettere." someNumber="None" image="dg\111_006.gif" lang2="Тебе всегда нужно всё самое лучшее, но мы не можем себе это позволить.">
+      <audioTime in="44928" out="48854" />
+    </line>
+    <line lang1="Pensi di essere un milionario!" someNumber="None" image="dg\111_006.gif" lang2="Иногда ты думаешь, что ты миллионер!">
+      <audioTime in="48854" out="50886" />
+    </line>
+    <line lang1="- I milionari non comprano le cose a rate!" someNumber="None" image="dg\111_006.gif" lang2="- Миллионеры не покупают вещи в рассрочку!">
+      <audioTime in="50863" out="53602" />
+    </line>
+  </lines>
+</lesson>

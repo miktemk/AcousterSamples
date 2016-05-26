@@ -1,0 +1,98 @@
+<lesson>
+  <header wav="j_067.wav" dlgName="У врача" dic="p067" />
+  <lines>
+    <line lang1="ーどうした*ん*です*か。" someNumber="107" image="067_001.jpg" lang2="- Что случилось?">
+      <audioTime in="0" out="2472" />
+    </line>
+    <line lang1="ーさむけ*が*する*ん*です。" someNumber="None" image="067_002.jpg" lang2="- (У меня) озноб.">
+      <audioTime in="2472" out="5432" />
+    </line>
+    <line lang1="―熱*を*計りました*か。" someNumber="None" image="067_003.jpg" lang2="- Температуру мерили?">
+      <audioTime in="5432" out="7369" />
+    </line>
+    <line lang1="ー計っていません*が、ある*かもしれません。" someNumber="106" image="067_004.jpg" lang2="- Не мерила, но, наверное, есть.">
+      <audioTime in="7369" out="11690" />
+    </line>
+    <line lang1="ーどう*しました*か。" someNumber="None" image="067_005.jpg" lang2="- Что случилось?">
+      <audioTime in="11690" out="15013" />
+    </line>
+    <line lang1="ーのど*が*いたい*ん*です。" someNumber="None" image="067_006.jpg" lang2="- Болит горло.">
+      <audioTime in="15013" out="17753" />
+    </line>
+    <line lang1="ー口*を*開けて、舌*を*見せて*下さい。" someNumber="083" image="067_007.jpg" lang2="- Откройте рот и покажите язык!">
+      <audioTime in="17753" out="22358" />
+    </line>
+    <line lang1="この*薬*を*あげます*から、一日*三回*飲んで*下さい。" someNumber="None" image="067_008.jpg" lang2="(Я) дам (Вам) это лекарство, пейте 3 раза в день.">
+      <audioTime in="22358" out="28479" />
+    </line>
+    <line lang1="ー食べる*前*に*飲みます*か。" someNumber="153" image="067_009.jpg" lang2="- Пить (надо) до еды?">
+      <audioTime in="28374" out="31462" />
+    </line>
+    <line lang1="ーいいえ、食べた*後*飲んで*下さい。" someNumber="153" image="067_010.jpg" lang2="- Принимайте после еды.">
+      <audioTime in="31462" out="34455" />
+    </line>
+    <line lang1="３、４日*で*なおる*と*思います。" someNumber="160" image="067_010.jpg" lang2="Думаю, (Вы) поправитесь за 3-4 дня.">
+      <audioTime in="34455" out="37228" />
+    </line>
+    <line lang1="ーどうした*ん*です*か。" someNumber="None" image="067_012.jpg" lang2="- Что случилось?">
+      <audioTime in="37228" out="40821" />
+    </line>
+    <line lang1="ー歯*が*痛い*ん*です。" someNumber="None" image="067_013.jpg" lang2="- Болит зуб.">
+      <audioTime in="40821" out="43673" />
+    </line>
+    <line lang1="ー歯医者*に*行った*方*が*良い*ん*じゃない*です*か。" someNumber="164" image="067_014.jpg" lang2="- Не лучше ли пойти к зубному врачу?">
+      <audioTime in="43673" out="46652" />
+    </line>
+    <line lang1="ーどうした*ん*です*か。" someNumber="None" image="067_015.jpg" lang2="- Что случилось?">
+      <audioTime in="46652" out="50594" />
+    </line>
+    <line lang1="ーおなか*が*いたい*ん*です。" someNumber="None" image="067_016.jpg" lang2="- Болит живот.">
+      <audioTime in="50594" out="53493" />
+    </line>
+    <line lang1="たぶん、何*か*悪い*もの*を*食べた*ん*です。" someNumber="None" image="067_017.jpg" lang2="Наверное, съела что-то нехорошее.">
+      <audioTime in="53493" out="57054" />
+    </line>
+    <line lang1="昨日、サンドイッチ*を*食べた*ん*です*が、" someNumber="None" image="067_018.jpg" lang2="Вчера (я) съела сандвич,">
+      <audioTime in="57054" out="60350" />
+    </line>
+    <line lang1="少し*へん*な*味*が*しました。" someNumber="None" image="067_018.jpg" lang2="который имел немного странный вкус.">
+      <audioTime in="60350" out="62381" />
+    </line>
+    <line lang1="ーしばらく*何*も*食べない*方*がいい*です。" someNumber="091" image="067_020.jpg" lang2="- Лучше некоторое время ничего не есть.">
+      <audioTime in="62381" out="65721" />
+    </line>
+    <line lang1="ーどうした*ん*です*か。" someNumber="None" image="067_021.jpg" lang2="- Что случилось?">
+      <audioTime in="65721" out="68651" />
+    </line>
+    <line lang1="ー足*が*痛い*ん*です。" someNumber="None" image="067_022.jpg" lang2="- Нога болит.">
+      <audioTime in="68651" out="70918" />
+    </line>
+    <line lang1="昨日*か*いだん*から*落ちた*ん*です。" someNumber="None" image="067_023.jpg" lang2="Вчера упала с лестницы.">
+      <audioTime in="70918" out="73990" />
+    </line>
+    <line lang1="氷*で*冷やした*ん*です*が、ひざ*が*まだ*痛い*ん*です。" someNumber="None" image="067_024.jpg" lang2="(Я) охладила (ушиб) льдом, но колено пока болит.">
+      <audioTime in="73990" out="78847" />
+    </line>
+    <line lang1="ー少し*はれています*ね。" someNumber="None" image="067_024.jpg" lang2="- Немного опухло, не так ли.">
+      <audioTime in="78847" out="81794" />
+    </line>
+    <line lang1="レントゲン*を*とりましょう。" someNumber="None" image="067_026.jpg" lang2="Сделаем рентгеновский снимок.">
+      <audioTime in="81794" out="83681" />
+    </line>
+    <line lang1="ー田中*さん、どうした*ん*です*か。" someNumber="None" image="067_027.jpg" lang2="- Алло, Танака-сан! Что случилось?">
+      <audioTime in="83681" out="89077" />
+    </line>
+    <line lang1="ーすべって、こし*を*打った*ん*です。" someNumber="None" image="067_028.jpg" lang2="- Поскользнулся и ушиб поясницу.">
+      <audioTime in="89077" out="92734" />
+    </line>
+    <line lang1="昨日*病院*へ*行って、レントゲン*を*とりました。" someNumber="None" image="067_029.jpg" lang2="Вчера ходил в больницу и сделал рентгеновский снимок.">
+      <audioTime in="92734" out="96690" />
+    </line>
+    <line lang1="おかげさまで、ほね*は*折れていません*でした。" someNumber="128" image="067_030.jpg" lang2="Слава богу, перелома костей нет.">
+      <audioTime in="96690" out="100395" />
+    </line>
+    <line lang1="しっぷ薬*を*はって*寝ました。" someNumber="None" image="067_031.jpg" lang2="(Я сейчас) наложил пластырь и лежал.">
+      <audioTime in="100395" out="103881" />
+    </line>
+  </lines>
+</lesson>

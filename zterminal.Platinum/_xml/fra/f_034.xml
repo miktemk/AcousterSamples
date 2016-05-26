@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="f_034.wav" dic="p034" dlgName="Что они делают? " dlgFile="exr\fg033.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Que font les cuisiniers? Lavent-ils les assiettes?" someNumber="50" image="dg\034_001.gif" lang2="- Что повара делают? Они моют тарелки?">
+      <audioTime in="0" out="2580" />
+    </line>
+    <line lang1="- Non, ils ne lavent pas les assiettes. Ils préparent des repas." someNumber="None" image="dg\034_001.gif" lang2="- Нет, они не моют тарелки. Они готовят еду.">
+      <audioTime in="2580" out="5430" />
+    </line>
+    <line lang1="- Que font les enfants? Pleurent-ils?" someNumber="None" image="dg\034_002.gif" lang2="- Что дети делают? Они плачут?">
+      <audioTime in="5430" out="7167" />
+    </line>
+    <line lang1="- Non, ils ne pleurent pas. Ils dorment." someNumber="None" image="dg\034_002.gif" lang2="- Нет, они не плачут. Они спят.">
+      <audioTime in="7167" out="9050" />
+    </line>
+    <line lang1="- Que font ces gens? Préparent-ils des repas?" someNumber="470" image="dg\034_003.gif" lang2="- Что эти люди делают? Они готовят еду?">
+      <audioTime in="9050" out="11309" />
+    </line>
+    <line lang1="- Non, ils ne préparent pas les repas. Ils se rasent." someNumber="None" image="dg\034_003.gif" lang2="- Нет, они не готовят еду. Они бреются.">
+      <audioTime in="11309" out="14109" />
+    </line>
+    <line lang1="- Que font les enfants? Dorment-ils?" someNumber="None" image="dg\034_004.gif" lang2="- Что дети делают? Они спят?">
+      <audioTime in="14109" out="16189" />
+    </line>
+    <line lang1="- Non, ils ne dorment pas. Ils pleurent." someNumber="None" image="dg\034_004.gif" lang2="- Нет, они не спят? Они плачут.">
+      <audioTime in="16189" out="18361" />
+    </line>
+    <line lang1="- Que font les chiens? Boivent-ils du lait?" someNumber="70" image="dg\034_005.gif" lang2="- Что собаки делают? Они пьют молоко?">
+      <audioTime in="18361" out="20691" />
+    </line>
+    <line lang1="- Non, ils ne boivent pas de lait. Ils mangent un os." someNumber="None" image="dg\034_005.gif" lang2="- Нет, они не пьют молоко. Они кушают кость.">
+      <audioTime in="20691" out="24020" />
+    </line>
+    <line lang1="- Que font les femmes? Aérent-elles la chambre?" someNumber="None" image="dg\034_006.gif" lang2="- Что женщины делают? Они проветривают комнату?">
+      <audioTime in="24020" out="26227" />
+    </line>
+    <line lang1="- Non, elles n'aérent pas la chambre. Elles tapent des lettres." someNumber="None" image="dg\034_006.gif" lang2="- Нет, они не проветривают комнату. Они печатают письма.">
+      <audioTime in="26227" out="28817" />
+    </line>
+    <line lang1="- Que font les enfants? Regardent-ils le tableau?" someNumber="210" image="dg\034_007.gif" lang2="- Что дети делают? Они смотрят картину?">
+      <audioTime in="28817" out="31399" />
+    </line>
+    <line lang1="- Non, ils ne regardent pas le tableau. Ils font leur devoir." someNumber="None" image="dg\034_007.gif" lang2="- Нет, они не смотрят картину. Они делают своё домашнее задание.">
+      <audioTime in="31399" out="34384" />
+    </line>
+    <line lang1="- Que font les femmes? Balaient-elles le plancher?" someNumber="None" image="dg\034_008.gif" lang2="- Что женщины делают? Они подметают пол?">
+      <audioTime in="34384" out="36817" />
+    </line>
+    <line lang1="- Non, elles ne balaient pas le plancher. Elles lavent les assiettes." someNumber="None" image="dg\034_008.gif" lang2="- Нет, они не подметают пол. Они моют тарелки.">
+      <audioTime in="36817" out="39425" />
+    </line>
+    <line lang1="- Que font les oiseaux? Sont-ils sur l'arbre?" someNumber="210" image="dg\034_009.gif" lang2="- Что птицы делают? Они на дереве?">
+      <audioTime in="39425" out="41716" />
+    </line>
+    <line lang1="- Non, ils ne sont pas sur l'arbre. Ils voltigent au-dessus de la rivière." someNumber="None" image="dg\034_009.gif" lang2="- Нет, они не на дереве. Они порхают над рекой.">
+      <audioTime in="41716" out="45118" />
+    </line>
+    <line lang1="- L'homme et la femme que font-ils? Attendent-ils l'autobus?" someNumber="None" image="dg\034_010.gif" lang2="- Что мужчина и женщина делают? Они ждут автобус?">
+      <audioTime in="45118" out="48389" />
+    </line>
+    <line lang1="- Non, ils n'attendent pas l'autobus. Ils marchent sur le pont." someNumber="None" image="dg\034_010.gif" lang2="- Нет, они не ждут автобус. Они шагают по мосту.">
+      <audioTime in="48389" out="51254" />
+    </line>
+    <line lang1="- L'homme et la femme que font-ils? Marchent-ils sur le pont?" someNumber="930" image="dg\034_011.gif" lang2="- Что мужчина и женщина делают? Они шагают по мосту?">
+      <audioTime in="51254" out="54240" />
+    </line>
+    <line lang1="- Non, ils ne marchent pas sur le pont, ils attendent l'autobus." someNumber="None" image="dg\034_011.gif" lang2="- Нет, они не шагают по мосту. Они ждут автобус.">
+      <audioTime in="54240" out="56987" />
+    </line>
+    <line lang1="- Le garçon et la fille que font-ils? Grimpent-ils sur un arbre?" someNumber="None" image="dg\034_012.gif" lang2="- Что мальчик и девочка делают? Они взбираются на дерево?">
+      <audioTime in="56987" out="60102" />
+    </line>
+    <line lang1="- Non, ils ne grimpent pas sur un arbre. Ils sautent du mur." someNumber="810" image="dg\034_012.gif" lang2="- Нет, они не взбираются на дерево. Они прыгают со стены.">
+      <audioTime in="60102" out="62705" />
+    </line>
+  </lines>
+</lesson>

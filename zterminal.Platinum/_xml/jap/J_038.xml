@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="j_038.wav" dlgName="Не так холодно, как в России" dic="p038" />
+  <lines>
+    <line lang1="ーやはり、日本*は*ロシア*ほど*寒くありません。" someNumber="28" image="038_001.jpg" lang2="- Что ни говори, в Японии не так холодно, как в России.">
+      <audioTime in="0" out="3972" />
+    </line>
+    <line lang1="でも、日本*に*も*寒い*所*が*あります。" someNumber="None" image="038_002.jpg" lang2="Но и в Японии есть холодные места.">
+      <audioTime in="3972" out="8039" />
+    </line>
+    <line lang1="たとえば、東京*より*さっぽろ*の*方*が*寒い*です。" someNumber="28" image="038_003.jpg" lang2="Например, в Саппоро холоднее, чем в Токио.">
+      <audioTime in="8039" out="13181" />
+    </line>
+    <line lang1="―北海道*の*さっぽろ*です*ね。" someNumber="None" image="038_003.jpg" lang2="- Саппоро, что на Хоккайдо, не так ли?">
+      <audioTime in="13181" out="15607" />
+    </line>
+    <line lang1="雪*まつり*も*あります*ね。" someNumber="163" image="038_005.jpg" lang2="(Там) проходит снежный праздник, не так ли?">
+      <audioTime in="15607" out="18095" />
+    </line>
+    <line lang1="私*は*しゃしん*を*見ました。" someNumber="None" image="038_006.jpg" lang2="Я видел фотографии.">
+      <audioTime in="18095" out="20410" />
+    </line>
+    <line lang1="ーさっぽろ*の*雪*まつり*は*ゆうめい*です*よ。" someNumber="None" image="038_007.jpg" lang2="- Снежный праздник в Саппоро знаменит!">
+      <audioTime in="20410" out="24464" />
+    </line>
+    <line lang1="行きたくない*です*か。" someNumber="081" image="038_008.jpg" lang2="Не хотите ли поехать?">
+      <audioTime in="24464" out="26398" />
+    </line>
+    <line lang1="―行きたい*です*けれども、まず*は*べんきょう*です*ね。" someNumber="None" image="038_009.jpg" lang2="- Поехать хочу, но в первую очередь - занятия.">
+      <audioTime in="26398" out="30513" />
+    </line>
+    <line lang1="毎日、日本語*と*英語*を*べんきょう*します。" someNumber="165" image="038_010.jpg" lang2="(Я) каждый день занимаюсь японским и английским.">
+      <audioTime in="30513" out="33650" />
+    </line>
+    <line lang1="ー日本語*と*英語*で*は*どちら*が*むずかしい*です*か。" someNumber="28" image="038_011.jpg" lang2="- А который труднее - японский или английский?">
+      <audioTime in="33650" out="38254" />
+    </line>
+    <line lang1="ー日本語*の*方*が*むずかしい*です。" someNumber="None" image="038_012.jpg" lang2="- Японский труднее.">
+      <audioTime in="38254" out="41185" />
+    </line>
+    <line lang1="とく*に*かん字*が*むずかしい*です。" someNumber="None" image="038_013.jpg" lang2="Особенно трудны иероглифы.">
+      <audioTime in="41185" out="44337" />
+    </line>
+    <line lang1="ひらがな*と*かたかな*は*むずかしく*ありません。" someNumber="25" image="038_014.jpg" lang2="Хирагана и катакана не очень трудны.">
+      <audioTime in="44337" out="47930" />
+    </line>
+    <line lang1="ぶんぽう*も*あまり*むずかしく*ありません。" someNumber="None" image="038_015.jpg" lang2="И грамматика не очень трудна.">
+      <audioTime in="47930" out="51367" />
+    </line>
+    <line lang1="ーそう*ですか。" someNumber="None" image="038_015.jpg" lang2="- Вот как!">
+      <audioTime in="51273" out="52736" />
+    </line>
+    <line lang1="ーはい。ロシア語*の*ぶんぽう*ほど*むずかしく*ありません。" someNumber="28" image="038_017.jpg" lang2="- Да. Не так трудна, как русская грамматика.">
+      <audioTime in="52736" out="57233" />
+    </line>
+    <line lang1="ーはつおん*は*どう*です*か。" someNumber="None" image="038_018.jpg" lang2="- А как насчёт произношения?">
+      <audioTime in="57233" out="60226" />
+    </line>
+    <line lang1="ーはつおん*は*英語*の*ほう*が*むずかしい*です。" someNumber="None" image="038_019.jpg" lang2="- Произношение труднее в английском языке.">
+      <audioTime in="60226" out="63426" />
+    </line>
+    <line lang1="―では、がんばって*下さい。" someNumber="083" image="038_020.jpg" lang2="- Ну так дерзайте!">
+      <audioTime in="63426" out="66168" />
+    </line>
+  </lines>
+</lesson>

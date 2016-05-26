@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_087.wav" dic="p087" dlgName="В автомастерской." dlgFile="exr\fg087.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ma voiture, est-elle prête?" someNumber="930" image="dg\087_001.gif" lang2="- Моя машина готова?">
+      <audioTime in="0" out="1493" />
+    </line>
+    <line lang1="- Je ne sais pas, monsieur. Quelle est la plaque de votre voiture?" someNumber="None" image="dg\087_001.gif" lang2="- Я не знаю, сударь. Какой номер вашей машины?">
+      <audioTime in="1493" out="4988" />
+    </line>
+    <line lang1="- C'est L.F. 312." someNumber="None" image="dg\087_001.gif" lang2="- Это Л.Ф. 312.">
+      <audioTime in="4988" out="7210" />
+    </line>
+    <line lang1="- Quand l'avez-vous emmenée chez nous?" someNumber="None" image="dg\087_001.gif" lang2="- Когда вы привезли её к нам?">
+      <audioTime in="7210" out="8795" />
+    </line>
+    <line lang1="- Il y a trois jours." someNumber="None" image="dg\087_001.gif" lang2="- Три дня назад.">
+      <audioTime in="8795" out="9924" />
+    </line>
+    <line lang1="- Ah, oui, je me rappelle." someNumber="None" image="dg\087_001.gif" lang2="- Ах, да, я вспоминаю.">
+      <audioTime in="9924" out="11417" />
+    </line>
+    <line lang1="- Vos mécaniciens, ont-ils terminé le travail?" someNumber="210" image="dg\087_001.gif" lang2="- Ваши механики уже закончили работу?">
+      <audioTime in="11417" out="14185" />
+    </line>
+    <line lang1="- Non, pas encore." someNumber="None" image="dg\087_001.gif" lang2="- Нет, пока ещё.">
+      <audioTime in="14185" out="15314" />
+    </line>
+    <line lang1="Allons au garage et nous allons voir." someNumber="70" image="dg\087_002.gif" lang2="Давайте пойдём в гараж и посмотрим.">
+      <audioTime in="15314" out="17444" />
+    </line>
+    <line lang1="- Est-ce votre voiture?" someNumber="None" image="dg\087_002.gif" lang2="- Эта ваша машина?">
+      <audioTime in="17444" out="18687" />
+    </line>
+    <line lang1="- Oui, c'est ma voiture." someNumber="None" image="dg\087_002.gif" lang2="- Да, это моя машина.">
+      <audioTime in="18687" out="19938" />
+    </line>
+    <line lang1="- C'est votre femme qui a eu une panne." someNumber="None" image="dg\087_002.gif" lang2="- Это ваша жена попала в аварию?">
+      <audioTime in="19938" out="22069" />
+    </line>
+    <line lang1="- Oui, c'est ça. Elle est rentré dans un poteau." someNumber="810" image="dg\087_002.gif" lang2="- Да это так. Она врезалась в осветительный столб.">
+      <audioTime in="22069" out="24746" />
+    </line>
+    <line lang1="Vos mécaniciens, peuvent-ils la réparer." someNumber="None" image="dg\087_002.gif" lang2="Ваши механики могут её починить?">
+      <audioTime in="24746" out="26876" />
+    </line>
+    <line lang1="- Ils essaient de la réparer." someNumber="None" image="dg\087_002.gif" lang2="- Они стараются её починить.">
+      <audioTime in="26876" out="27901" />
+    </line>
+    <line lang1="Mais à vrai dire, il vous faudra une nouvelle voiture." someNumber="200" image="dg\087_002.gif" lang2="Но, по правде говоря, вам (будет) нужна новая машина!">
+      <audioTime in="27901" out="30956" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="J_009.wav" dlgName="В саду" dic="p009" />
+  <lines>
+    <line lang1="ーにわ*に*なに*が*あります*か。" someNumber="74" image="009_001.jpg" lang2="- Что есть в саду?">
+      <audioTime in="0" out="3167" />
+    </line>
+    <line lang1="ー木*が*あります。" someNumber="02" image="009_001.jpg" lang2="- Есть деревья.">
+      <audioTime in="3167" out="5786" />
+    </line>
+    <line lang1="たかい*木*と*ひくい*木*が*あります。" someNumber="112" image="009_001.jpg" lang2="Есть как высокие, так и низкие деревья.">
+      <audioTime in="5786" out="9112" />
+    </line>
+    <line lang1="はな*も*あります。" someNumber="162" image="009_004.jpg" lang2="Есть и цветы.">
+      <audioTime in="9112" out="11743" />
+    </line>
+    <line lang1="ーいけ*が*あります*か。" someNumber="02" image="009_005.jpg" lang2="- (А) пруд есть?">
+      <audioTime in="11743" out="15020" />
+    </line>
+    <line lang1="ーいけ*も*あります。ちいさい*いけ*です。" someNumber="None" image="009_005.jpg" lang2="- Есть и пруд. (Это) маленький пруд.">
+      <audioTime in="15020" out="19701" />
+    </line>
+    <line lang1="ーはし*が*あります*か。" someNumber="None" image="009_007.jpg" lang2="- (А) мост есть?">
+      <audioTime in="19701" out="23153" />
+    </line>
+    <line lang1="ーいいえ、いけ*に*はし*は*ありません。" someNumber="04" image="009_007.jpg" lang2="- Моста через пруд нет.">
+      <audioTime in="23153" out="27919" />
+    </line>
+    <line lang1="ーとしょしつ*に*なに*が*あります*か。" someNumber="None" image="009_009.jpg" lang2="- Что есть в библиотеке?">
+      <audioTime in="27919" out="33029" />
+    </line>
+    <line lang1="ー本だな*が*あります。" someNumber="175" image="009_010.jpg" lang2="- Есть книжные полки.">
+      <audioTime in="33029" out="35800" />
+    </line>
+    <line lang1="コピーき*も*あります。" someNumber="166" image="009_011.jpg" lang2="Есть также копировальная машина.">
+      <audioTime in="35800" out="38500" />
+    </line>
+    <line lang1="それ*から*つくえ*と*いす*が*あります。" someNumber="08" image="009_012.jpg" lang2="Ещё есть письменные столы и стулья.">
+      <audioTime in="38500" out="42505" />
+    </line>
+    <line lang1="かべ*に*ちず*が*あります。" someNumber="04" image="009_013.jpg" lang2="На стене есть карта.">
+      <audioTime in="42505" out="45880" />
+    </line>
+    <line lang1="ーあきこ*さん*の*へや*に*なに*が*あります*か。" someNumber="None" image="009_014.jpg" lang2="- Что есть в комнате Акико?">
+      <audioTime in="45880" out="51285" />
+    </line>
+    <line lang1="ーベッド*や*テーブル*や*ようふくダンス*など*が*あります。" someNumber="119" image="009_014.jpg" lang2="- Есть кровать, стол, платяной шкаф и прочее.">
+      <audioTime in="51285" out="57503" />
+    </line>
+    <line lang1="ーテレビ*が*あります*か。" someNumber="None" image="009_014.jpg" lang2="- Телевизор есть?">
+      <audioTime in="57503" out="60790" />
+    </line>
+    <line lang1="ーいいえ、テレビ*や*テープレコーダー*は*ありません。" someNumber="166" image="009_014.jpg" lang2="- Нет. Телевизора и магнитофона нет.">
+      <audioTime in="60790" out="66812" />
+    </line>
+  </lines>
+</lesson>

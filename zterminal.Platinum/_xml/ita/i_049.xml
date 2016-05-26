@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="i_049.wav" dic="p049" dlgName="В мясном магазине." dlgFile="exr\ig049.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Signora Busi, le serve la carne oggi?" someNumber="None" image="dg\049_001.gif" lang2="- Вам нужно сегодня мясо, госпожа Бузи?">
+      <audioTime in="108" out="2757" />
+    </line>
+    <line lang1="- Sì, per favore." someNumber="None" image="dg\049_001.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="2668" out="4112" />
+    </line>
+    <line lang1="- Carne di manzo o carne di montone?" someNumber="None" image="dg\049_002.gif" lang2="- Говядину или молодого барашка?">
+      <audioTime in="4065" out="6651" />
+    </line>
+    <line lang1="- Carne di manzo, per favore." someNumber="None" image="dg\049_002.gif" lang2="- Говядину, пожалуйста.">
+      <audioTime in="6597" out="8652" />
+    </line>
+    <line lang1="- Questa carne di montone è molto bella." someNumber="None" image="dg\049_003.gif" lang2="- Этот барашек очень хорош.">
+      <audioTime in="8544" out="11087" />
+    </line>
+    <line lang1="- Mi piace la carne di montone, ma a mio marito non piace." someNumber="None" image="dg\049_003.gif" lang2="- Я люблю баранину, но мой муж не любит.">
+      <audioTime in="11087" out="14818" />
+    </line>
+    <line lang1="- Che ne dice di questo filetto di manzo?" someNumber="None" image="dg\049_004.gif" lang2="- Как насчёт говяжьей вырезки?">
+      <audioTime in="14921" out="17305" />
+    </line>
+    <line lang1="È un bel pezzo." someNumber="None" image="dg\049_004.gif" lang2="Вот хороший кусочек.">
+      <audioTime in="17305" out="18873" />
+    </line>
+    <line lang1="- Mi dia quel pezzo, per favore." someNumber="None" image="dg\049_004.gif" lang2="- Дайте мне тот кусочек, пожалуйста.">
+      <audioTime in="18703" out="20929" />
+    </line>
+    <line lang1="E un chilo di macinato." someNumber="None" image="dg\049_005.gif" lang2="И ещё кило фарша.">
+      <audioTime in="20874" out="22822" />
+    </line>
+    <line lang1="- Signora Busi, non vuole dei polli?" someNumber="None" image="dg\049_006.gif" lang2="- Не хотите ли взять цыплят, госпожа Бузи?">
+      <audioTime in="22722" out="25093" />
+    </line>
+    <line lang1="Sono molto belli." someNumber="None" image="dg\049_006.gif" lang2="Они очень хороши.">
+      <audioTime in="25255" out="26823" />
+    </line>
+    <line lang1="- No, grazie." someNumber="None" image="dg\049_006.gif" lang2="- Нет, спасибо.">
+      <audioTime in="26715" out="28337" />
+    </line>
+    <line lang1="A mio marito piace il filetto di manzo, ma non gli piacciono i polli." someNumber="None" image="dg\049_006.gif" lang2="Мой муж любит говяжью вырезку, но не любит цыплят.">
+      <audioTime in="28284" out="32547" />
+    </line>
+    <line lang1="- A dire la verità, signora Busi, anche a me non piacciono!" someNumber="None" image="dg\049_007.gif" lang2="- По правде сказать, госпожа Бузи, я тоже не люблю цыплят!">
+      <audioTime in="32502" out="35909" />
+    </line>
+  </lines>
+</lesson>

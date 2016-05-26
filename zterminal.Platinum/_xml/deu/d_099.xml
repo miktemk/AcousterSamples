@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="d_099.wav" dic="p099" dlgName="Ты ушибся?" dlgFile="exr\dg099.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ach!" someNumber="870" image="dg\099_001.gif" lang2="- Ах!">
+      <audioTime in="968" out="1549" />
+    </line>
+    <line lang1="- Was #ist los, Hans?" someNumber="None" image="dg\099_002.gif" lang2="- Что случилось, Ганс?">
+      <audioTime in="2227" out="3292" />
+    </line>
+    <line lang1="- Ich #bin die Treppen #hinabgestürzt." someNumber="None" image="dg\099_002.gif" lang2="- Я упал с лестницы.">
+      <audioTime in="3970" out="5859" />
+    </line>
+    <line lang1="- #Hast du dich #verletzt?" someNumber="None" image="dg\099_002.gif" lang2="- Ты ушибся?">
+      <audioTime in="6295" out="7505" />
+    </line>
+    <line lang1="- Ja." someNumber="None" image="dg\099_002.gif" lang2="- Да.">
+      <audioTime in="7747" out="8280" />
+    </line>
+    <line lang1="Ich #denke, ich #habe mir den Rücken #verletzt." someNumber="960" image="dg\099_003.gif" lang2="Я думаю, что я ушиб спину.">
+      <audioTime in="8813" out="10894" />
+    </line>
+    <line lang1="- #Stehe #auf." someNumber="None" image="dg\099_003.gif" lang2="- Постарайся подняться.">
+      <audioTime in="11378" out="12880" />
+    </line>
+    <line lang1="#Kannst du #aufstehen?" someNumber="None" image="dg\099_003.gif" lang2="Ты можешь подняться?">
+      <audioTime in="13122" out="14429" />
+    </line>
+    <line lang1="So, #lass mich dir #helfen." someNumber="630" image="dg\099_004.gif" lang2="Вот, давай я помогу тебе.">
+      <audioTime in="15107" out="16802" />
+    </line>
+    <line lang1="- Entschuldigung, Petra." someNumber="None" image="dg\099_005.gif" lang2="- Прости, Петра.">
+      <audioTime in="17237" out="18448" />
+    </line>
+    <line lang1="Ich #habe Angst, dass ich mich nicht #aufrichten #kann." someNumber="None" image="dg\099_005.gif" lang2="Я боюсь, что я не смогу встать.">
+      <audioTime in="18448" out="21693" />
+    </line>
+    <line lang1="- Ich #denke, dass der Arzt dich #untersuchen #muss." someNumber="70" image="dg\099_006.gif" lang2="- Я думаю, что доктор должен осмотреть тебя.">
+      <audioTime in="22176" out="24211" />
+    </line>
+    <line lang1="Ich #1rufe den Arzt #2an." someNumber="70" image="dg\099_006.gif" lang2="Я позвоню доктору.">
+      <audioTime in="24452" out="25567" />
+    </line>
+    <line lang1="- Der Arzt #sagt, dass er gleich #kommt." someNumber="140" image="dg\099_006.gif" lang2="- Доктор говорит, что он приедет сейчас.">
+      <audioTime in="26244" out="28084" />
+    </line>
+    <line lang1="Ich #glaube, du #musst geröngt #werden." someNumber="80" image="dg\099_007.gif" lang2="Я думаю, что тебе надо сделать рентгеновский снимок, Ганс.">
+      <audioTime in="28617" out="31377" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="f_063.wav" dic="p063" dlgName="Визит врача." dlgFile="exr\fg063.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Comment Pierre va t-il aujourd'hui?" someNumber="930" image="dg\063_001.gif" lang2="- Как Пьер чувствует себя сегодня?">
+      <audioTime in="0" out="1592" />
+    </line>
+    <line lang1="- Il va mieux, merci, monsieur le docteur." someNumber="930" image="dg\063_001.gif" lang2="- Ему лучше, спасибо, доктор.">
+      <audioTime in="1592" out="4165" />
+    </line>
+    <line lang1="- Puis-je l'examiner, s'il vous plaît, madame Legrand?" someNumber="None" image="dg\063_001.gif" lang2="- Могу ли я его осмотреть, пожалуйста, госпожа Легран?">
+      <audioTime in="4165" out="6073" />
+    </line>
+    <line lang1="- Bien sûr, monsieur le docteur. Montez." someNumber="None" image="dg\063_001.gif" lang2="- Конечно, господин доктор. Поднимайтесь.">
+      <audioTime in="6073" out="8899" />
+    </line>
+    <line lang1="- Tu as bonne mine, Pierre. Tu te sens mieux, mais tu ne dois pas encore te lever." someNumber="None" image="dg\063_002.gif" lang2="- Ты выглядишь хорошо, Пьер. Тебе сейчас лучше, но ты не должен ещё вставать.">
+      <audioTime in="8899" out="13050" />
+    </line>
+    <line lang1="Tu dois garder le lit encore deux jours." someNumber="None" image="dg\063_002.gif" lang2="Ты должен лежать в постели ещё два дня.">
+      <audioTime in="13050" out="14813" />
+    </line>
+    <line lang1="Le garçon ne doit pas encore aller à l'école, madame Legrand." someNumber="None" image="dg\063_003.gif" lang2="Мальчик не должен ещё ходить в школу, госпожа Легран.">
+      <audioTime in="14813" out="17556" />
+    </line>
+    <line lang1="Il ne doit pas manger de repas gras." someNumber="None" image="dg\063_003.gif" lang2="И он не должен есть жирную пищу.">
+      <audioTime in="17556" out="19235" />
+    </line>
+    <line lang1="- A-t-il de la fièvre, monsieur le docteur?" someNumber="810" image="dg\063_004.gif" lang2="- У него есть температура, доктор?">
+      <audioTime in="19235" out="21007" />
+    </line>
+    <line lang1="- Non, il n'en a pas." someNumber="810" image="dg\063_004.gif" lang2="- Нет, у него её нет.">
+      <audioTime in="21007" out="22785" />
+    </line>
+    <line lang1="- Doit-il garder le lit?" someNumber="None" image="dg\063_004.gif" lang2="- Должен ли он оставаться в постели?">
+      <audioTime in="22785" out="23894" />
+    </line>
+    <line lang1="- Certainement. Il doit garder le lit encore deux jours." someNumber="None" image="dg\063_004.gif" lang2="- Конечно. Он должен оставаться в постели ещё два дня.">
+      <audioTime in="23894" out="26427" />
+    </line>
+    <line lang1="Il peut se lever seulement deux heures par jour," someNumber="None" image="dg\063_004.gif" lang2="Он может вставать на два часа в день,">
+      <audioTime in="26427" out="28629" />
+    </line>
+    <line lang1="mais vous devez garder la chambre chaude." someNumber="350" image="dg\063_004.gif" lang2="но вы должны поддерживать в комнате тепло.">
+      <audioTime in="28629" out="30341" />
+    </line>
+    <line lang1="- Mais où est monsieur Legrand?" someNumber="None" image="dg\063_004.gif" lang2="- Где господин Легран?">
+      <audioTime in="30341" out="31311" />
+    </line>
+    <line lang1="- Il est au lit, monsieur le docteur." someNumber="None" image="dg\063_004.gif" lang2="- Он в постели, доктор.">
+      <audioTime in="31311" out="34003" />
+    </line>
+    <line lang1="Pouvez-vous l'examiner aussi? Lui aussi, il a pris froid." someNumber="None" image="dg\063_004.gif" lang2="Можете ли вы его тоже осмотреть? Он тоже простудился.">
+      <audioTime in="34003" out="37137" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="i_025.wav" dic="p025" dlgName="На кухне." dlgFile="exr\ig025.txt" author="Alexander" />
+  <lines>
+    <line lang1="- La cucina della signora Amici è piccola." someNumber="None" image="dg\025_001.gif" lang2="- Кухня госпожи Амичи маленькая.">
+      <audioTime in="203" out="2880" />
+    </line>
+    <line lang1="- In cucina c'è un frigorifero." someNumber="None" image="dg\025_001.gif" lang2="- На кухне есть холодильник.">
+      <audioTime in="3124" out="5355" />
+    </line>
+    <line lang1="- Il frigorifero è bianco." someNumber="None" image="dg\025_001.gif" lang2="- Холодильник белый.">
+      <audioTime in="5436" out="7587" />
+    </line>
+    <line lang1="È a destra." someNumber="None" image="dg\025_001.gif" lang2="Он стоит справа.">
+      <audioTime in="7912" out="9290" />
+    </line>
+    <line lang1="- In cucina c'è un fornello elettrico." someNumber="410" image="dg\025_001.gif" lang2="- На кухне есть электрическая плита.">
+      <audioTime in="9615" out="12104" />
+    </line>
+    <line lang1="- Il fornello è blu." someNumber="None" image="dg\025_001.gif" lang2="- Плита синяя.">
+      <audioTime in="12104" out="13910" />
+    </line>
+    <line lang1="È a sinistra." someNumber="None" image="dg\025_001.gif" lang2="Она стоит слева.">
+      <audioTime in="14078" out="15458" />
+    </line>
+    <line lang1="- Nel centro della stanza c'è un tavolo." someNumber="None" image="dg\025_001.gif" lang2="- Посредине комнаты стоит стол.">
+      <audioTime in="15742" out="18379" />
+    </line>
+    <line lang1="- Sul tavolo c'è una bottiglia." someNumber="None" image="dg\025_001.gif" lang2="- На столе стоит бутылка.">
+      <audioTime in="18460" out="20732" />
+    </line>
+    <line lang1="- La bottiglia è vuota." someNumber="None" image="dg\025_001.gif" lang2="- Бутылка пустая.">
+      <audioTime in="20854" out="22679" />
+    </line>
+    <line lang1="- Sul tavolo c'è anche una tazza." someNumber="None" image="dg\025_001.gif" lang2="- На столе стоит также чашка.">
+      <audioTime in="22958" out="25099" />
+    </line>
+    <line lang1="- La tazza è pulita." someNumber="None" image="dg\025_001.gif" lang2="- Чашка чистая.">
+      <audioTime in="25236" out="26818" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,92 @@
+<lesson>
+  <header wav="j_065.wav" dlgName="Дневник Ханако" dic="p065" />
+  <lines>
+    <line lang1="花子*の*日記。６月１０日、日曜日、くもり。" someNumber="None" image="065_001.jpg" lang2="Дневник Ханако. 10 сентября, воскресенье, облачно.">
+      <audioTime in="0" out="8285" />
+    </line>
+    <line lang1="―昨日*は*休み*だった。" someNumber="73" image="065_002.jpg" lang2="- Вчера был выходной.">
+      <audioTime in="8285" out="11594" />
+    </line>
+    <line lang1="それ*で*ゆっくり*と*１０時*まで*寝た。" someNumber="68" image="065_002.jpg" lang2="Поэтому (я) спокойно проспала до 10 часов.">
+      <audioTime in="11594" out="14777" />
+    </line>
+    <line lang1="そして*自分*で*おいしい*ご飯*を*作った。" someNumber="None" image="065_004.jpg" lang2="Потом сама приготовила себе вкусную еду.">
+      <audioTime in="14777" out="19178" />
+    </line>
+    <line lang1="家*に*だれ*も*いなかった。" someNumber="74" image="065_005.jpg" lang2="Дома никого не было.">
+      <audioTime in="19178" out="22140" />
+    </line>
+    <line lang1="１２時*ごろ*明子*に*電話*を*した。" someNumber="68" image="065_006.jpg" lang2="Примерно в 12 часов позвонила Акико.">
+      <audioTime in="22140" out="26428" />
+    </line>
+    <line lang1="明子*と*２時*に*会う*やくそく*を*した。" someNumber="None" image="065_006.jpg" lang2="Договорилась с Акико встретиться в 2 часа.">
+      <audioTime in="26428" out="30153" />
+    </line>
+    <line lang1="しかし*明子*は*２時*に*来なかった。" someNumber="70" image="065_008.jpg" lang2="Но Акико в 2 часа не пришла.">
+      <audioTime in="30153" out="34615" />
+    </line>
+    <line lang1="１５分*ぐらい*遅れた。" someNumber="None" image="065_008.jpg" lang2="Опоздала примерно на 15 минут.">
+      <audioTime in="34615" out="37387" />
+    </line>
+    <line lang1="私*は*ずっと*きっさてん*で*待った。" someNumber="113" image="065_008.jpg" lang2="Я всё это время прождала в кафе.">
+      <audioTime in="37387" out="41850" />
+    </line>
+    <line lang1="やっと*来た。" someNumber="None" image="065_011.jpg" lang2="Наконец пришла.">
+      <audioTime in="41850" out="44466" />
+    </line>
+    <line lang1="いっしょ*に*ケーキ*を*食べた。" someNumber="None" image="065_012.jpg" lang2="Поели вместе пирожного.">
+      <audioTime in="44466" out="46906" />
+    </line>
+    <line lang1="つめたい*ジュース*を*飲んだ。" someNumber="None" image="065_013.jpg" lang2="Выпили холодного сока.">
+      <audioTime in="46906" out="49583" />
+    </line>
+    <line lang1="とつぜん*ロシア人*の*イリナ*さん*が*きっさてん*に*入って*来た。" someNumber="None" image="065_014.jpg" lang2="Неожиданно в кафе зашла русская (студентка) Ирина.">
+      <audioTime in="49583" out="55596" />
+    </line>
+    <line lang1="かのじょ*は*浅草*へ*の*道*を*聞いた。" someNumber="12" image="065_015.jpg" lang2="Она спрашивала дорогу в Асакуса.">
+      <audioTime in="55596" out="60074" />
+    </line>
+    <line lang1="私*と*明子*は*かのじょ*を*浅草*へ*あんない*した。" someNumber="None" image="065_016.jpg" lang2="Я с Акико проводили её до Асакуса.">
+      <audioTime in="60074" out="65422" />
+    </line>
+    <line lang1="朝*から*雨*が*降っていた*が、午後*は*晴れた。" someNumber="None" image="065_017.jpg" lang2="С утра шёл дождь, но после полудня прояснилось.">
+      <audioTime in="65422" out="70392" />
+    </line>
+    <line lang1="浅草*は*たいへん*楽しかった。" someNumber="26" image="065_018.jpg" lang2="В Асакуса было очень приятно.">
+      <audioTime in="70392" out="74176" />
+    </line>
+    <line lang1="店*は*お客*で*にぎわっていた。" someNumber="07" image="065_019.jpg" lang2="В магазинах было многолюдно от покупателей.">
+      <audioTime in="74176" out="78008" />
+    </line>
+    <line lang1="音楽*も*聞こえた。" someNumber="None" image="065_020.jpg" lang2="Слышалась музыка.">
+      <audioTime in="78008" out="80575" />
+    </line>
+    <line lang1="イリナ*さん*は*浅草*で*ゆかた*を*買った。" someNumber="None" image="065_021.jpg" lang2="Ирина-сан купила в Асакуса юката.">
+      <audioTime in="80575" out="85828" />
+    </line>
+    <line lang1="たくさん*しゃしん*を*とった。" someNumber="None" image="065_022.jpg" lang2="Сделала много фотографий.">
+      <audioTime in="85828" out="89913" />
+    </line>
+    <line lang1="私*は*写真*を*とらなかった。" someNumber="None" image="065_023.jpg" lang2="Я не фотографировала.">
+      <audioTime in="89913" out="93619" />
+    </line>
+    <line lang1="カメラ*が*なかった。" someNumber="74" image="065_024.jpg" lang2="(У меня) не было фотоаппарата.">
+      <audioTime in="93619" out="96297" />
+    </line>
+    <line lang1="５時*ごろ*家*へ*もどった。" someNumber="None" image="065_025.jpg" lang2="Вернулась домой часов в пять.">
+      <audioTime in="96297" out="99527" />
+    </line>
+    <line lang1="明子*と*イリナ*さん*は*一緒*に*りょう*へ*帰った。" someNumber="None" image="065_026.jpg" lang2="Акико и Ирина-сан вернулись в общежитие.">
+      <audioTime in="99527" out="104654" />
+    </line>
+    <line lang1="夜、しゅくだい*が*なかった*から、遅く*まで*テレビ*を*見た。" someNumber="154" image="065_027.jpg" lang2="Так как не было домашних заданий, вечером допоздна смотрела телевизор.">
+      <audioTime in="104654" out="110265" />
+    </line>
+    <line lang1="すごく*つかれた。" someNumber="None" image="065_027.jpg" lang2="Очень устала.">
+      <audioTime in="110265" out="112342" />
+    </line>
+    <line lang1="１２時*半*ごろ*に*寝た。" someNumber="None" image="065_027.jpg" lang2="Легла спать около половины первого.">
+      <audioTime in="112342" out="115841" />
+    </line>
+  </lines>
+</lesson>

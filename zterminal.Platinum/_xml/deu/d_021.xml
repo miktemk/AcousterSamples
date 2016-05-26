@@ -1,0 +1,29 @@
+<lesson>
+  <header wav="d_021.wav" dic="p021" dlgName="Дай мне книгу, пожалуйста." dlgFile="exr\dg021.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Gib mir bitte das Buch, Alice." someNumber="160" image="dg\021_001.gif" lang2="- Дай мне книгу, пожалуйста, Алис.">
+      <audioTime in="412" out="2175" />
+    </line>
+    <line lang1="- Welches Buch?" someNumber="400" image="dg\021_002.gif" lang2="- Какую книгу?">
+      <audioTime in="2175" out="3304" />
+    </line>
+    <line lang1="Dieses hier?" someNumber="370" image="dg\021_003.gif" lang2="Эту?">
+      <audioTime in="3304" out="4433" />
+    </line>
+    <line lang1="- Nein, nicht dieses, das rote dort." someNumber="750" image="dg\021_004.gif" lang2="- Нет, не эту, ту красную.">
+      <audioTime in="4650" out="6919" />
+    </line>
+    <line lang1="- Dieses?" someNumber="None" image="dg\021_005.gif" lang2="- Эту?">
+      <audioTime in="6919" out="8047" />
+    </line>
+    <line lang1="- Ja, bitte." someNumber="None" image="dg\021_005.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="8048" out="8860" />
+    </line>
+    <line lang1="- Hier #ist es, bitte." someNumber="720" image="dg\021_006.gif" lang2="- Вот, пожалуйста.">
+      <audioTime in="9225" out="10893" />
+    </line>
+    <line lang1="- Danke schön." someNumber="720" image="dg\021_006.gif" lang2="- Спасибо.">
+      <audioTime in="10893" out="12022" />
+    </line>
+  </lines>
+</lesson>

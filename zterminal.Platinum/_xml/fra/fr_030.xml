@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="FR_030.wav" dlgName="Автобус" dlgFile="exr\frg030.txt" />
+  <lines>
+    <line lang1="- Allons prendre l'autobus." someNumber="None" image="f.jpg" lang2="- Поедем на автобусе.">
+      <audioTime in="0" out="2605" />
+    </line>
+    <line lang1="- Tu as raison, l'autobus est plus commode que le métro." someNumber="None" image="f.jpg" lang2="- Ты прав, автобус удобнее, чем метро.">
+      <audioTime in="2605" out="6568" />
+    </line>
+    <line lang1="Mais dépêchons-nous, voilà que l'autobus arrive à la station" someNumber="None" image="f.jpg" lang2="Но торопитесь, вот подъезжает автобус,">
+      <audioTime in="6568" out="11255" />
+    </line>
+    <line lang1="et nous n'avons pas encore nos tickets." someNumber="None" image="f.jpg" lang2="у нас нет ещё билетов.">
+      <audioTime in="11255" out="13494" />
+    </line>
+    <line lang1="- Heureusement que c'est une machine que distribue les tickets." someNumber="None" image="f.jpg" lang2="- К счастью вот автомат, который продаёт билеты.">
+      <audioTime in="13494" out="17516" />
+    </line>
+    <line lang1="- Oh! oui, ça va très vite." someNumber="None" image="f.jpg" lang2="- О, да это идёт быстро.">
+      <audioTime in="17516" out="19205" />
+    </line>
+    <line lang1="Mais si tu avais un bébé tu ne serais pas obligée d'attendre ton tour," someNumber="None" image="f.jpg" lang2="Но если бы у тебя был ребёнок, ты не должна была бы ждать своей очереди,">
+      <audioTime in="19205" out="24047" />
+    </line>
+    <line lang1="tu aurais la priorité." someNumber="None" image="f.jpg" lang2="ты имела бы тогда первенство.">
+      <audioTime in="24047" out="26120" />
+    </line>
+    <line lang1="- Ça viendra un jour," someNumber="None" image="f.jpg" lang2="- Придёт и это в какой-то день,">
+      <audioTime in="26120" out="28320" />
+    </line>
+    <line lang1="en attendant, j'ai le numéro 14, et toi, tu as le numéro 15." someNumber="None" image="f.jpg" lang2="пока что у меня 14 номер, а у тебя номер 15.">
+      <audioTime in="28320" out="34727" />
+    </line>
+    <line lang1="- Silence. Voici le receveur. Il va appeler les numéros." someNumber="None" image="f.jpg" lang2="- Тихо. Вот кондуктор. Он будет вызывать номера.">
+      <audioTime in="34727" out="40160" />
+    </line>
+    <line lang1="- Les numéros, s'il vous plaît! ...9,10,11,12,13,14,15. Complet!" someNumber="None" image="f.jpg" lang2="- Пожалуйста, номер 9,10,11, 12,13,14,15. Комплект!">
+      <audioTime in="40160" out="51387" />
+    </line>
+    <line lang1="- Enfin nous n'avons pas attendu longtemps." someNumber="None" image="f.jpg" lang2="- Наконец! Мы не ждали долго.">
+      <audioTime in="51387" out="54612" />
+    </line>
+    <line lang1="Veux-tu t'asseoir?" someNumber="None" image="f.jpg" lang2="Хочешь сесть?">
+      <audioTime in="54612" out="56280" />
+    </line>
+    <line lang1="- Oh! non, je ne suis pas fatiguée." someNumber="None" image="f.jpg" lang2="- О, нет, я не устала.">
+      <audioTime in="56280" out="59335" />
+    </line>
+    <line lang1="Restons debout sur la plate-forme." someNumber="None" image="f.jpg" lang2="Останемся на площадке.">
+      <audioTime in="59335" out="62065" />
+    </line>
+    <line lang1="Tu pourras fumer une cigarette, et moi, je pourrai mieux voir la ville." someNumber="None" image="f.jpg" lang2="Ты сможешь закурить папиросу, а я смогу лучше осмотреть город.">
+      <audioTime in="62065" out="67350" />
+    </line>
+  </lines>
+</lesson>

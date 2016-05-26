@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="f_109.wav" dic="p109" dlgName="Хочешь кофе?" dlgFile="exr\fg109.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Veux-tu du café, Jeanne?" someNumber="70" image="dg\109_001.gif" lang2="- Хочешь кофе, Жанна?">
+      <audioTime in="0" out="2240" />
+    </line>
+    <line lang1="- C'est une bonne idée, Lise." someNumber="70" image="dg\109_001.gif" lang2="- Это хорошая идея, Лиза.">
+      <audioTime in="2240" out="3685" />
+    </line>
+    <line lang1="- Il est prêt. Veux-tu un peu de lait?" someNumber="None" image="dg\109_001.gif" lang2="- Он готов. Хочешь немного молока?">
+      <audioTime in="3685" out="6002" />
+    </line>
+    <line lang1="- Très peu, s'il te plaît." someNumber="None" image="dg\109_002.gif" lang2="- Очень мало, пожалуйста.">
+      <audioTime in="6002" out="7498" />
+    </line>
+    <line lang1="- Et du sucre. Deux cuillères?" someNumber="None" image="dg\109_002.gif" lang2="- А сахару? Две ложки?">
+      <audioTime in="7498" out="9633" />
+    </line>
+    <line lang1="- Non, c'est beaucoup." someNumber="None" image="dg\109_003.gif" lang2="- Нет, это много.">
+      <audioTime in="9633" out="11039" />
+    </line>
+    <line lang1="- Une cuillère et demie, s'il te plaît. Ça suffit pour moi." someNumber="None" image="dg\109_003.gif" lang2="- Полторы ложки, пожалуйста. Это достаточно для меня.">
+      <audioTime in="11039" out="14633" />
+    </line>
+    <line lang1="- C'était très bon." someNumber="780" image="dg\109_004.gif" lang2="- Это было очень вкусно.">
+      <audioTime in="14633" out="15672" />
+    </line>
+    <line lang1="- En veux-tu encore?" someNumber="None" image="dg\109_004.gif" lang2="- Хочешь ещё?">
+      <audioTime in="15672" out="17313" />
+    </line>
+    <line lang1="- Oui, s'il te plaît." someNumber="None" image="dg\109_004.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="17313" out="18538" />
+    </line>
+    <line lang1="- Je voudrais une cigarette. Puis-j'en prendre une?" someNumber="None" image="dg\109_005.gif" lang2="- Я бы хотела сигарету тоже. Могу я взять одну?">
+      <audioTime in="18538" out="21766" />
+    </line>
+    <line lang1="- Bien sûr. Dans cette boîte il y a quelques cigarettes." someNumber="360" image="dg\109_005.gif" lang2="- Конечно. В этой коробке есть несколько сигарет.">
+      <audioTime in="21766" out="24996" />
+    </line>
+    <line lang1="- Je regrette, mais elle est vide." someNumber="None" image="dg\109_006.gif" lang2="- Я сожалею, но она пустая.">
+      <audioTime in="24996" out="26401" />
+    </line>
+    <line lang1="- Quel dommage! Ça ne fait rien." someNumber="None" image="dg\109_006.gif" lang2="- Какая жалость! Это не имеет значения.">
+      <audioTime in="26401" out="29447" />
+    </line>
+    <line lang1="- Prend un gâteau. Mange beaucoup et fume peu!" someNumber="60" image="dg\109_007.gif" lang2="- Возьми пирожное. Ешь побольше и кури поменьше!">
+      <audioTime in="29447" out="33315" />
+    </line>
+    <line lang1="- Ça, c'est un bon conseil." someNumber="None" image="dg\109_007.gif" lang2="- Это хороший совет.">
+      <audioTime in="33315" out="34812" />
+    </line>
+  </lines>
+</lesson>

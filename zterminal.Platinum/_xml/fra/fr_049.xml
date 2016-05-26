@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="FR_049.wav" dlgName="Жак болен" dlgFile="exr\frg049.txt" />
+  <lines>
+    <line lang1="- Bonjour, Jacques, comment ça va?" someNumber="None" image="f.jpg" lang2="- Здравствуй, Жак, как ты себя чувствуешь?">
+      <audioTime in="0" out="3229" />
+    </line>
+    <line lang1="- Je ne suis pas tout à fait dans mon assiette." someNumber="None" image="f.jpg" lang2="- Я не совсем в своей тарелке.">
+      <audioTime in="3229" out="7151" />
+    </line>
+    <line lang1="Je n'ai pas bien dormi et j'ai toussé toute la nuit." someNumber="None" image="f.jpg" lang2="Я плохо спал, кашлял всю ночь.">
+      <audioTime in="7151" out="11435" />
+    </line>
+    <line lang1="- Est-ce que tu as de la fièvre?" someNumber="None" image="f.jpg" lang2="- У тебя жар?">
+      <audioTime in="11435" out="13958" />
+    </line>
+    <line lang1="- Je n'ai pas encore pris ma température." someNumber="None" image="f.jpg" lang2="- Я ещё не мерил температуры.">
+      <audioTime in="13958" out="17397" />
+    </line>
+    <line lang1="- Mais je te trouve fatigué et un peu pâle." someNumber="None" image="f.jpg" lang2="- Ну я нахожу, что ты усталый и немного бледный.">
+      <audioTime in="17397" out="21327" />
+    </line>
+    <line lang1="Il ne faut pas te lever aujourd'hui." someNumber="None" image="f.jpg" lang2="Не надо тебе вставать сегодня.">
+      <audioTime in="21327" out="24201" />
+    </line>
+    <line lang1="- Tu as raison, il vaut mieux garder le lit." someNumber="None" image="f.jpg" lang2="- Ты права, лучше полежать в кровати.">
+      <audioTime in="24201" out="27647" />
+    </line>
+    <line lang1="- Evidemment!" someNumber="None" image="f.jpg" lang2="- Конечно!">
+      <audioTime in="27647" out="28712" />
+    </line>
+    <line lang1="Appelle la femme de chambre et dis-lui de t'apporter une tasse de lait bien chaud." someNumber="None" image="f.jpg" lang2="Позови горничную и скажи ей, чтобы принесла тебе чашку горячего молока.">
+      <audioTime in="28712" out="34854" />
+    </line>
+    <line lang1="Et moi je vais appeler le médecin." someNumber="None" image="f.jpg" lang2="А я вызову врача.">
+      <audioTime in="34854" out="37675" />
+    </line>
+    <line lang1="- Ce n'est pas la peine." someNumber="None" image="f.jpg" lang2="- Не стоит.">
+      <audioTime in="37675" out="39815" />
+    </line>
+    <line lang1="- Tais-toi! Comment peux-tu dire que &quot;ce n'est pas la peine&quot;?" someNumber="None" image="f.jpg" lang2="- Молчи! Как ты можешь говорить, что &quot;не стоит&quot;?">
+      <audioTime in="39815" out="44417" />
+    </line>
+    <line lang1="Tu as pris froid." someNumber="None" image="f.jpg" lang2="Ты простудился.">
+      <audioTime in="44417" out="46504" />
+    </line>
+    <line lang1="Espérons que cela ne sera rien." someNumber="None" image="f.jpg" lang2="Будем надеяться, что это ничего страшного.">
+      <audioTime in="46504" out="49293" />
+    </line>
+    <line lang1="Le médecin te donnera quelques médicaments" someNumber="None" image="f.jpg" lang2="Врач тебе даст какие-нибудь лекарства,">
+      <audioTime in="49293" out="52872" />
+    </line>
+    <line lang1="et tu pourras te lever dans deux ou trois jours." someNumber="None" image="f.jpg" lang2="и ты сможешь встать через два или три дня.">
+      <audioTime in="52872" out="56466" />
+    </line>
+  </lines>
+</lesson>

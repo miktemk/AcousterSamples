@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_126.wav" dic="p126" dlgName="Я должен... А как ты?" dlgFile="exr\ig125.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Adesso devo uscire." someNumber="None" image="dg\126_001.gif" lang2="- Я сейчас должна уходить.">
+      <audioTime in="80" out="1553" />
+    </line>
+    <line lang1="E tu?" someNumber="None" image="dg\126_001.gif" lang2="А как ты?">
+      <audioTime in="1553" out="2095" />
+    </line>
+    <line lang1="- Anche a me tocca uscire." someNumber="290" image="dg\126_001.gif" lang2="- Мне тоже придётся уйти.">
+      <audioTime in="2095" out="4037" />
+    </line>
+    <line lang1="- Non devo alzarmi presto domani." someNumber="None" image="dg\126_002.gif" lang2="- Мне не придётся рано вставать завтра.">
+      <audioTime in="4037" out="6023" />
+    </line>
+    <line lang1="E tu?" someNumber="None" image="dg\126_002.gif" lang2="А как тебе?">
+      <audioTime in="5887" out="6655" />
+    </line>
+    <line lang1="- Neanch'io devo alzarmi presto domani." someNumber="380" image="dg\126_002.gif" lang2="- Мне тоже не надо вставать рано завтра.">
+      <audioTime in="6656" out="9139" />
+    </line>
+    <line lang1="- Paolo deve cambiare i soldi." someNumber="None" image="dg\126_003.gif" lang2="- Паоло должен поменять деньги.">
+      <audioTime in="9500" out="11004" />
+    </line>
+    <line lang1="E Maria?" someNumber="None" image="dg\126_003.gif" lang2="А Мария?">
+      <audioTime in="11004" out="11862" />
+    </line>
+    <line lang1="- Anche a lei tocca cambiare i soldi." someNumber="90" image="dg\126_003.gif" lang2="- Ей тоже придётся менять деньги.">
+      <audioTime in="11984" out="14242" />
+    </line>
+    <line lang1="- Domani Maria non deve andare a Londra." someNumber="None" image="dg\126_009.gif" lang2="- Марии не придётся ехать завтра в Лондон.">
+      <audioTime in="14242" out="17221" />
+    </line>
+    <line lang1="E Paolo?" someNumber="None" image="dg\126_009.gif" lang2="А как Паоло?">
+      <audioTime in="17221" out="18350" />
+    </line>
+    <line lang1="- Neanche lui deve andare a Londra." someNumber="None" image="dg\126_009.gif" lang2="- Ему тоже не нужно завтра ехать в Лондон.">
+      <audioTime in="18350" out="20518" />
+    </line>
+    <line lang1="- Devo volare con l'aereo." someNumber="None" image="dg\126_005.gif" lang2="- Я должен лететь самолётом.">
+      <audioTime in="20518" out="22144" />
+    </line>
+    <line lang1="E tu?" someNumber="None" image="dg\126_005.gif" lang2="А как ты?">
+      <audioTime in="22144" out="23047" />
+    </line>
+    <line lang1="- Anche a me tocca volare con l'aereo." someNumber="None" image="dg\126_005.gif" lang2="- Мне тоже придётся лететь самолётом.">
+      <audioTime in="23047" out="25349" />
+    </line>
+    <line lang1="- Domani non devo incontrarla alla stazione." someNumber="None" image="dg\126_006.gif" lang2="- Мне не придётся встречать её на станции завтра.">
+      <audioTime in="25569" out="27996" />
+    </line>
+    <line lang1="E tu?" someNumber="None" image="dg\126_006.gif" lang2="А тебе?">
+      <audioTime in="27996" out="28674" />
+    </line>
+    <line lang1="- Domani neanch'io devo incontrarla alla stazione." someNumber="None" image="dg\126_006.gif" lang2="- Мне тоже не нужно встречать её на станции завтра.">
+      <audioTime in="28600" out="31400" />
+    </line>
+    <line lang1="- Paolo non deve andarci così presto." someNumber="None" image="dg\126_007.gif" lang2="- Паоло не придётся быть там рано.">
+      <audioTime in="31400" out="33793" />
+    </line>
+    <line lang1="E Alice?" someNumber="None" image="dg\126_007.gif" lang2="А как Аличе?">
+      <audioTime in="33838" out="34651" />
+    </line>
+    <line lang1="- Anche lei non deve andarci così presto." someNumber="None" image="dg\126_007.gif" lang2="- Ей тоже не придётся быть там рано.">
+      <audioTime in="34696" out="37316" />
+    </line>
+    <line lang1="- Alessio deve decidere velocemente." someNumber="None" image="dg\126_008.gif" lang2="- Алессио должен решать немедленно.">
+      <audioTime in="37316" out="40069" />
+    </line>
+    <line lang1="E Giorgio?" someNumber="None" image="dg\126_008.gif" lang2="А как Джорджио?">
+      <audioTime in="40069" out="41198" />
+    </line>
+    <line lang1="- Anche a lui tocca decidere velocemente." someNumber="None" image="dg\126_008.gif" lang2="- Ему тоже придётся решать немедленно.">
+      <audioTime in="41198" out="43817" />
+    </line>
+    <line lang1="- Io non devo prendere il tassì." someNumber="None" image="dg\126_009.gif" lang2="- Мне не придётся брать такси.">
+      <audioTime in="43818" out="45759" />
+    </line>
+    <line lang1="E tu?" someNumber="None" image="dg\126_009.gif" lang2="А тебе?">
+      <audioTime in="45759" out="46391" />
+    </line>
+    <line lang1="- Anch'io non ho bisogno di prenderlo." someNumber="None" image="dg\126_009.gif" lang2="- Мне тоже не нужно брать такси.">
+      <audioTime in="46391" out="48648" />
+    </line>
+    <line lang1="- Non devo perdere quest'autobus." someNumber="None" image="dg\126_010.gif" lang2="- Я должен успеть на этот автобус.">
+      <audioTime in="48648" out="50771" />
+    </line>
+    <line lang1="E tu?" someNumber="None" image="dg\126_010.gif" lang2="А ты?">
+      <audioTime in="50859" out="51689" />
+    </line>
+    <line lang1="- Neanch'io devo perderlo." someNumber="None" image="dg\126_010.gif" lang2="- Мне тоже надо успеть на этот автобус.">
+      <audioTime in="51689" out="53521" />
+    </line>
+  </lines>
+</lesson>

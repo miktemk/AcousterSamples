@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="d_073.wav" dic="p073" dlgName="На автобусной остановке." dlgFile="exr\dg073.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Vorige Woche #ist Frau Richter nach London #gefahren." someNumber="None" image="dg\073_001.gif" lang2="- На прошлой неделе госпожа Рихтер поехала в Лондон.">
+      <audioTime in="693" out="4095" />
+    </line>
+    <line lang1="- Sie #kennt London nicht ganz gut, und sie #hat sich #verlaufen." someNumber="960" image="dg\073_001.gif" lang2="- Она не очень хорошо знает Лондон, и она заблудилась.">
+      <audioTime in="4303" out="8331" />
+    </line>
+    <line lang1="- Plötzlich #hat sie einen Mann an der Bushaltestelle #gesehen." someNumber="720" image="dg\073_002.gif" lang2="- Вдруг она увидела мужчину около автобусной остановки.">
+      <audioTime in="8539" out="11940" />
+    </line>
+    <line lang1="- &quot;Ich #kann ihn nach dem Weg #fragen&quot; #sagte sie sich." someNumber="None" image="dg\073_003.gif" lang2="- &quot;Я могу спросить у него дорогу&quot;, - сказала она себе.">
+      <audioTime in="12287" out="15967" />
+    </line>
+    <line lang1="- &quot;#Verzeihen Sie mir, bitte,&quot; #sagte sie." someNumber="680" image="dg\073_003.gif" lang2="- &quot;Извините меня, пожалуйста&quot;, - сказала она.">
+      <audioTime in="16036" out="18882" />
+    </line>
+    <line lang1="&quot;#Können Sie mir bitte den Weg zur Königstraße #zeigen?&quot;" someNumber="680" image="dg\073_003.gif" lang2="&quot;Вы можете мне показать дорогу на Кенигштрассе, пожалуйста?&quot;">
+      <audioTime in="19021" out="22354" />
+    </line>
+    <line lang1="- Der Mann #hat ihr freundlich #zugelächelt." someNumber="60" image="dg\073_004.gif" lang2="- Мужчина ей мило улыбнулся.">
+      <audioTime in="22492" out="24922" />
+    </line>
+    <line lang1="Er #verstand kein Englisch." someNumber="60" image="dg\073_004.gif" lang2="Он не понимал английский!">
+      <audioTime in="24922" out="26458" />
+    </line>
+    <line lang1="- Er #sprach deutsch." someNumber="None" image="dg\073_004.gif" lang2="- Он говорил по-немецки.">
+      <audioTime in="26458" out="27587" />
+    </line>
+    <line lang1="Er #war Tourist." someNumber="None" image="dg\073_004.gif" lang2="Он был турист.">
+      <audioTime in="27907" out="29296" />
+    </line>
+    <line lang1="- Dann #griff er in die Tasche und #holte einen Sprachführer." someNumber="820" image="dg\073_005.gif" lang2="- Затем он полез в карман и достал разговорник.">
+      <audioTime in="29851" out="33878" />
+    </line>
+    <line lang1="- Er #1machte den Sprachführer #2auf und #fand den Ausdruck." someNumber="None" image="dg\073_006.gif" lang2="- Он открыл разговорник и нашёл фразу.">
+      <audioTime in="34294" out="37974" />
+    </line>
+    <line lang1="- Er #las den Satz langsam." someNumber="570" image="dg\073_006.gif" lang2="- Он прочитал фразу медленно.">
+      <audioTime in="38042" out="40403" />
+    </line>
+    <line lang1="- &quot;Entschuldigung&quot; #sagte er &quot;Ich #spreche kein Englisch.&quot;" someNumber="570" image="dg\073_006.gif" lang2="- &quot;Простите,&quot; - сказал он, - &quot;я не говорю по английски.&quot;">
+      <audioTime in="40403" out="45332" />
+    </line>
+  </lines>
+</lesson>

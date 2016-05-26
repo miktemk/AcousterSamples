@@ -1,0 +1,104 @@
+<lesson>
+  <header wav="J_047.wav" dlgName="Поездка в Камакуру " dic="p047" />
+  <lines>
+    <line lang1="ーイリナ*さん、お*帰り*なさい。" someNumber="128" image="047_001.jpg" lang2="- Ирина-сан, с возвращением!">
+      <audioTime in="0" out="3750" />
+    </line>
+    <line lang1="かまくら*へ*の*りょこう*は*どう*でした*か。" someNumber="12" image="047_001.jpg" lang2="Как прошло путешествие в Камакура?">
+      <audioTime in="3750" out="5922" />
+    </line>
+    <line lang1="ー面白かった*です。" someNumber="26" image="047_003.jpg" lang2="- Было интересно.">
+      <audioTime in="5922" out="8614" />
+    </line>
+    <line lang1="ー日中*けんぶつ*を*しました*から、少し*つかれました。" someNumber="154" image="047_004.jpg" lang2="Весь день осматривала достопримечательности, поэтому немного устала.">
+      <audioTime in="8614" out="13521" />
+    </line>
+    <line lang1="ーお寺*を*たくさん*見ました*か。" someNumber="None" image="047_005.jpg" lang2="- Много храмов осмотрели?">
+      <audioTime in="13521" out="15946" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="047_006.jpg" lang2="- Да!">
+      <audioTime in="15946" out="17682" />
+    </line>
+    <line lang1="お寺*と*じんじゃ*を*たくさん*見ました。" someNumber="None" image="047_007.jpg" lang2="Видела много буддистских и синтоистских храмов.">
+      <audioTime in="17682" out="20565" />
+    </line>
+    <line lang1="まず*「つるがおか*はちまんぐう」*を*見*に*行きました。" someNumber="None" image="047_008.jpg" lang2="Сначала пошла посмотреть на храм &quot;Цуругаока хатимангу&quot;.">
+      <audioTime in="20565" out="25137" />
+    </line>
+    <line lang1="そこ*に*大きい*とりい*が*ありました。" someNumber="04" image="047_009.jpg" lang2="Там были большие тории (ворота).">
+      <audioTime in="25137" out="28605" />
+    </line>
+    <line lang1="さくら*の*なみき道*も*ありました。" someNumber="163" image="047_010.jpg" lang2="Была также аллея сакуры.">
+      <audioTime in="28605" out="31845" />
+    </line>
+    <line lang1="ー春*は*そこ*の*なみき道*は*とても*きれい*です*よ。" someNumber="124" image="047_011.jpg" lang2="- Весной эта аллея очень красива!">
+      <audioTime in="31845" out="36071" />
+    </line>
+    <line lang1="イリナ*さん*は*いつ*国*へ*帰ります*か。" someNumber="None" image="047_012.jpg" lang2="Ирина-сан, когда Вы возвращаетесь на родину?">
+      <audioTime in="36071" out="39508" />
+    </line>
+    <line lang1="ー１１月*に*帰ります*から、春*に*こちら*に*いません。" someNumber="154" image="047_013.jpg" lang2="- Я возвращаюсь в октябре, поэтому весной меня здесь не будет.">
+      <audioTime in="39508" out="44411" />
+    </line>
+    <line lang1="ーそれ*は*ざんねん*です。" someNumber="None" image="047_014.jpg" lang2="- Очень жаль.">
+      <audioTime in="44411" out="45999" />
+    </line>
+    <line lang1="ところ*で、どんな*お寺*を*見ました*か。" someNumber="120" image="047_014.jpg" lang2="Кстати, какие храмы (Вы ещё) видели?">
+      <audioTime in="45999" out="49624" />
+    </line>
+    <line lang1="ー私*は*駅*で*ちず*を*買いました。" someNumber="None" image="047_016.jpg" lang2="- Я купила карту на станции.">
+      <audioTime in="49624" out="52838" />
+    </line>
+    <line lang1="お寺*が*たくさん*ありました*から、" someNumber="154" image="047_017.jpg" lang2="Так как храмов было очень много,">
+      <audioTime in="52838" out="55852" />
+    </line>
+    <line lang1="南*の*方*と*西*の*方*の*けんぶつ*だけ*しました。" someNumber="123" image="047_018.jpg" lang2="осмотрела достопримечательности только южной и западной части.">
+      <audioTime in="55852" out="59018" />
+    </line>
+    <line lang1="ー大仏*を*見ました*か。" someNumber="None" image="047_019.jpg" lang2="- А большую статую Будды видели?">
+      <audioTime in="59018" out="62198" />
+    </line>
+    <line lang1="ー見ました。" someNumber="None" image="047_019.jpg" lang2="- Видела.">
+      <audioTime in="62198" out="63769" />
+    </line>
+    <line lang1="大仏*は*とても*大きかった*です*から、おどろきました。" someNumber="None" image="047_021.jpg" lang2="И удивилась тому, что статуя Будды была очень большой.">
+      <audioTime in="63769" out="67633" />
+    </line>
+    <line lang1="ー大仏*は*大きい*です*けれども、かお*が*やさしい*です*ね。" someNumber="120" image="047_022.jpg" lang2="- Статуя Будды очень большая, но лицо (Будды) очень доброе, правда.">
+      <audioTime in="67633" out="72824" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="047_022.jpg" lang2="- В самом деле.">
+      <audioTime in="72824" out="74126" />
+    </line>
+    <line lang1="ーなら*に*も*大仏*が*あります。" someNumber="None" image="047_024.jpg" lang2="- Большая статуя Будды есть и в Нара.">
+      <audioTime in="74126" out="76597" />
+    </line>
+    <line lang1="なら*の*大仏*は*もっと*古い*です。" someNumber="28" image="047_025.jpg" lang2="Статуя Будды в Нара более древняя.">
+      <audioTime in="76597" out="79432" />
+    </line>
+    <line lang1="ーそれ*を*本*で*読みました。" someNumber="07" image="047_025.jpg" lang2="- (Я) читала об этом в книге.">
+      <audioTime in="79432" out="83138" />
+    </line>
+    <line lang1="秋*に*なら*へ*大仏*を*見*に*行きたい*です。" someNumber="155" image="047_025.jpg" lang2="Осенью хочу поехать в Нара, чтоб посмотреть на статую Будды.">
+      <audioTime in="83138" out="87206" />
+    </line>
+    <line lang1="ーなら*の*秋*は*とても*きれい*です*よ。" someNumber="None" image="047_028.jpg" lang2="- Осень в Нара очень красива!">
+      <audioTime in="87206" out="90630" />
+    </line>
+    <line lang1="イリナ*さん、かいがん*へ*行きました*か。" someNumber="06" image="047_029.jpg" lang2="Ирина-сан, (Вы) ходили на берег моря?">
+      <audioTime in="90630" out="94302" />
+    </line>
+    <line lang1="ーはい、かいがん*へ*も*行きました。" someNumber="None" image="047_030.jpg" lang2="- Да ходила и на побережье.">
+      <audioTime in="94302" out="98106" />
+    </line>
+    <line lang1="海*で*船*を*見ました。" someNumber="None" image="047_031.jpg" lang2="Видела в море корабли.">
+      <audioTime in="98106" out="100562" />
+    </line>
+    <line lang1="ーずいぶん*あちら*こちら*へ*行きました*ね。" someNumber="53" image="047_032.jpg" lang2="- (Вы) довольно много повсюду ходили, не правда ли!">
+      <audioTime in="100562" out="103736" />
+    </line>
+    <line lang1="お*つかれ*さまでした。" someNumber="128" image="047_032.jpg" lang2="Наверное устали!">
+      <audioTime in="103736" out="106888" />
+    </line>
+  </lines>
+</lesson>

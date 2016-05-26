@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="J_027.wav" dlgName="На чем Вы едете?" dic="p027" />
+  <lines>
+    <line lang1="ー学校*は*とおい*です*か。" someNumber="None" image="027_001.jpg" lang2="- Школа находится далеко?">
+      <audioTime in="0" out="3543" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="027_001.jpg" lang2="- Да.">
+      <audioTime in="3543" out="4325" />
+    </line>
+    <line lang1="ー朝、何*で*行きます*か。" someNumber="07" image="027_001.jpg" lang2="- На чем (Вы) едете по утрам?">
+      <audioTime in="4325" out="6637" />
+    </line>
+    <line lang1="ーまず*でんしゃ*に*のります。" someNumber="04" image="027_004.jpg" lang2="- Сначала сажусь на электричку.">
+      <audioTime in="6637" out="8812" />
+    </line>
+    <line lang1="でんしゃ*で*２０分*ぐらい*です。" someNumber="43" image="027_005.jpg" lang2="На электричке (ехать) примерно 20 минут.">
+      <audioTime in="8812" out="11031" />
+    </line>
+    <line lang1="それ*から*ちかてつ*に*のりかえます。" someNumber="163" image="027_006.jpg" lang2="Потом пересаживаюсь на метро.">
+      <audioTime in="11031" out="14203" />
+    </line>
+    <line lang1="―ちかてつ*で*どの*ぐらい*かかります*か。" someNumber="None" image="027_007.jpg" lang2="- Сколько времени занимает поездка в метро?">
+      <audioTime in="14203" out="17958" />
+    </line>
+    <line lang1="―１５分*ぐらい*です。" someNumber="43" image="027_008.jpg" lang2="- Около 15 минут.">
+      <audioTime in="17958" out="20410" />
+    </line>
+    <line lang1="ーお父さん*は*何*で*行きます*か。" someNumber="07" image="027_009.jpg" lang2="- А на чем едет Ваш отец?">
+      <audioTime in="20410" out="24176" />
+    </line>
+    <line lang1="ー父*は*あるいて*行きます。 あるいて*１５分*ぐらい*かかります。" someNumber="None" image="027_010.jpg" lang2="- Папа идёт пешком. Пешком - примерно 15 минут.">
+      <audioTime in="24176" out="30518" />
+    </line>
+    <line lang1="ーこれ*は*何*です*か。" someNumber="None" image="027_011.jpg" lang2="- Что это?">
+      <audioTime in="30518" out="33763" />
+    </line>
+    <line lang1="ーはし*です。" someNumber="None" image="027_011.jpg" lang2="- Это палочки для еды.">
+      <audioTime in="33763" out="35946" />
+    </line>
+    <line lang1="日本人*は*はし*で*たべます。" someNumber="07" image="027_013.jpg" lang2="Японцы едят палочками.">
+      <audioTime in="35946" out="38387" />
+    </line>
+    <line lang1="―スープ*は*スプーン*で*たべます*か。" someNumber="166" image="027_014.jpg" lang2="- А суп едят ложкой?">
+      <audioTime in="38387" out="42554" />
+    </line>
+    <line lang1="―ヨーロッパ*の*スープ*は*スプーン*で*たべます。" someNumber="None" image="027_014.jpg" lang2="- Европейские супы едят ложкой.">
+      <audioTime in="42554" out="46733" />
+    </line>
+    <line lang1="しかし、みそしる*は*スプーン*で*たべません。" someNumber="142" image="027_016.jpg" lang2="Однако суп из мисо не едят ложкой.">
+      <audioTime in="46733" out="50372" />
+    </line>
+    <line lang1="なかみ*を*はし*で*たべます。それ*から*しる*を*のみます。" someNumber="None" image="027_016.jpg" lang2="Содержимое едят палочками. Затем выпивают бульон.">
+      <audioTime in="50372" out="55371" />
+    </line>
+    <line lang1="ステーキ*や*カツレツ*など*は*ナイフ*と*フォーク*で*食べます。" someNumber="166" image="027_019.jpg" lang2="Бифштекс, котлеты и тому подобное едят с помощью ножа и вилки.">
+      <audioTime in="55371" out="60539" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="027_019.jpg" lang2="- Вот как.">
+      <audioTime in="60539" out="63091" />
+    </line>
+    <line lang1="これ*は*なん*です*か。" someNumber="None" image="027_021.jpg" lang2="А что это?">
+      <audioTime in="63091" out="64771" />
+    </line>
+    <line lang1="―ふで*です。" someNumber="162" image="027_021.jpg" lang2="- Это кисточка для письма.">
+      <audioTime in="64714" out="66216" />
+    </line>
+    <line lang1="ー日本人*は*ふで*で*かきます*か。" someNumber="07" image="027_023.jpg" lang2="- Японцы пишут кисточкой?">
+      <audioTime in="66216" out="69447" />
+    </line>
+    <line lang1="ーむかし*は*ふで*で*字*を*かきました。" someNumber="None" image="027_023.jpg" lang2="- В старину письменные знаки писали кисточкой.">
+      <audioTime in="69447" out="72530" />
+    </line>
+    <line lang1="今*は*ボールペン*など*で*かきます。" someNumber="None" image="027_025.jpg" lang2="Сейчас пишут шариковой или другими ручками.">
+      <audioTime in="72530" out="75593" />
+    </line>
+  </lines>
+</lesson>

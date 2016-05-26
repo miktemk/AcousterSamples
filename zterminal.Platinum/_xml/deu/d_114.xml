@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="d_114.wav" dic="p114" dlgName="Я... Я тоже." dlgFile="exr\dg113.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ich #bin hungrig." someNumber="550" image="dg\114_001.gif" lang2="- Я голоден.">
+      <audioTime in="192" out="1984" />
+    </line>
+    <line lang1="- Ich auch." someNumber="820" image="dg\114_001.gif" lang2="- Я тоже.">
+      <audioTime in="1984" out="3113" />
+    </line>
+    <line lang1="- Ich #bin müde." someNumber="None" image="dg\114_002.gif" lang2="- Я устал.">
+      <audioTime in="3456" out="4992" />
+    </line>
+    <line lang1="- Ich auch." someNumber="None" image="dg\114_002.gif" lang2="- Я тоже.">
+      <audioTime in="4992" out="6120" />
+    </line>
+    <line lang1="- Ich #will Kaffee." someNumber="680" image="dg\114_003.gif" lang2="- Я хочу кофе.">
+      <audioTime in="6464" out="7744" />
+    </line>
+    <line lang1="- Ich auch." someNumber="None" image="dg\114_003.gif" lang2="- Я тоже.">
+      <audioTime in="7744" out="8873" />
+    </line>
+    <line lang1="- Ich #will Tee." someNumber="None" image="dg\114_004.gif" lang2="- Я хочу чаю.">
+      <audioTime in="9408" out="10496" />
+    </line>
+    <line lang1="- Ich auch." someNumber="None" image="dg\114_004.gif" lang2="- Я тоже.">
+      <audioTime in="10880" out="11840" />
+    </line>
+    <line lang1="- Ich #war gestern zu Besuch." someNumber="570" image="dg\114_005.gif" lang2="- Я был вчера в гостях.">
+      <audioTime in="12161" out="13632" />
+    </line>
+    <line lang1="- Ich auch." someNumber="None" image="dg\114_005.gif" lang2="- Я тоже.">
+      <audioTime in="13953" out="14849" />
+    </line>
+    <line lang1="- Heute früh #bin ich nicht müde." someNumber="900" image="dg\114_006.gif" lang2="- Сегодня утром я не устал.">
+      <audioTime in="15105" out="17473" />
+    </line>
+    <line lang1="- Ich auch nicht." someNumber="None" image="dg\114_006.gif" lang2="- Я тоже нет.">
+      <audioTime in="17473" out="18602" />
+    </line>
+    <line lang1="- Ich #kann gut #schwimmen." someNumber="680" image="dg\114_007.gif" lang2="- Я могу хорошо плавать.">
+      <audioTime in="19073" out="20481" />
+    </line>
+    <line lang1="- Ich auch." someNumber="None" image="dg\114_007.gif" lang2="- Я тоже.">
+      <audioTime in="20481" out="21610" />
+    </line>
+    <line lang1="- Ich #kann chinesisch #sprechen." someNumber="None" image="dg\114_008.gif" lang2="- Я могу говорить по-китайски.">
+      <audioTime in="21761" out="23809" />
+    </line>
+    <line lang1="- Ich auch." someNumber="None" image="dg\114_008.gif" lang2="- Я тоже.">
+      <audioTime in="23809" out="24938" />
+    </line>
+    <line lang1="- Ich #habe Martin gestern Abend #gesehen." someNumber="580" image="dg\114_009.gif" lang2="- Я видел Мартина вчера вечером.">
+      <audioTime in="25153" out="27266" />
+    </line>
+    <line lang1="- Ich auch." someNumber="None" image="dg\114_009.gif" lang2="- Я тоже.">
+      <audioTime in="27266" out="28395" />
+    </line>
+    <line lang1="- Ich #habe letztes Jahr keinen neuen Wagen #gekauft." someNumber="290" image="dg\114_010.gif" lang2="- Я не покупал новой машины за последний год.">
+      <audioTime in="28866" out="32579" />
+    </line>
+    <line lang1="- Ich auch nicht." someNumber="None" image="dg\114_010.gif" lang2="- Я тоже нет.">
+      <audioTime in="32706" out="33923" />
+    </line>
+    <line lang1="- Ich #habe mich #erkältet." someNumber="350" image="dg\114_011.gif" lang2="- Я простудился.">
+      <audioTime in="34498" out="35906" />
+    </line>
+    <line lang1="- Ich auch." someNumber="None" image="dg\114_011.gif" lang2="- Я тоже.">
+      <audioTime in="36419" out="37763" />
+    </line>
+    <line lang1="- Ich #habe keine Kopfschmerzen." someNumber="None" image="dg\114_012.gif" lang2="- У меня не болит голова.">
+      <audioTime in="38211" out="40579" />
+    </line>
+    <line lang1="- Ich auch nicht." someNumber="None" image="dg\114_012.gif" lang2="- У меня тоже нет.">
+      <audioTime in="40579" out="41707" />
+    </line>
+  </lines>
+</lesson>

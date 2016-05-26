@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="f_129.wav" dic="p129" dlgName="На трассе." dlgFile="exr\fg129.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Tiens, Henri! Ce policier te fait un signe. Il veut que tu t'arrêtes." someNumber="470" image="dg\129_001.gif" lang2="- Смотри, Анри! Этот полицейский делает тебе знак. Он хочет чтобы ты остановился.">
+      <audioTime in="0" out="4830" />
+    </line>
+    <line lang1="- Où vous croyez-vous? Sur un circuit?" someNumber="None" image="dg\129_002.gif" lang2="- Где, по-вашему, вы находитесь? На скоростной трассе?">
+      <audioTime in="4830" out="6467" />
+    </line>
+    <line lang1="Vous ne voyez pas votre vitesse: 70 milles à l'heure." someNumber="None" image="dg\129_002.gif" lang2="Вы не видите вашу скорость: 70 миль в час.">
+      <audioTime in="6467" out="8786" />
+    </line>
+    <line lang1="- Est-ce possible." someNumber="None" image="dg\129_002.gif" lang2="- Возможно ли это?">
+      <audioTime in="8786" out="10083" />
+    </line>
+    <line lang1="- Je faisais du 80 milles à l'heure et je vous ai dépassés." someNumber="680" image="dg\129_002.gif" lang2="- Я ехал со скоростью 80 миль в час и обогнал вас.">
+      <audioTime in="10083" out="12939" />
+    </line>
+    <line lang1="Avez-vous vu le signe limitatif?" someNumber="None" image="dg\129_003.gif" lang2="Вы не видели знак ограничения скорости?">
+      <audioTime in="12939" out="14847" />
+    </line>
+    <line lang1="- Non, je ne l'ai pas vu. J'étais dans mes pensées." someNumber="None" image="dg\129_003.gif" lang2="- Я его не видел. Я задумался.">
+      <audioTime in="14847" out="17391" />
+    </line>
+    <line lang1="- Oh, non il n'était pas dans ses pensées. Je lui disais d'aller plus lentement." someNumber="800" image="dg\129_003.gif" lang2="- О нет, он не задумался. Я ему говорила ехать помедленнее.">
+      <audioTime in="17391" out="21598" />
+    </line>
+    <line lang1="- Voilà pourquoi je n'ai pas vu le signe." someNumber="None" image="dg\129_003.gif" lang2="- Вот почему я не видел знак.">
+      <audioTime in="21598" out="23623" />
+    </line>
+    <line lang1="- Votre permis de conduire et votre certificat d'assurance." someNumber="None" image="dg\129_004.gif" lang2="- Ваши водительские права и свидетельство о страховке.">
+      <audioTime in="23623" out="26271" />
+    </line>
+    <line lang1="Je ne vous punirai pas cette fois-ci. Mais ne faites pas la même chose la prochaine fois." someNumber="360" image="dg\129_004.gif" lang2="Я не накажу вас в этот раз. Но не делайте так в следующий раз!">
+      <audioTime in="26271" out="31196" />
+    </line>
+    <line lang1="- Merci beaucoup. Je serai plus attentif." someNumber="None" image="dg\129_005.gif" lang2="- Большое спасибо. Я буду более внимателен.">
+      <audioTime in="31196" out="33832" />
+    </line>
+    <line lang1="- Je te dirai d'aller plus lentement, Henri." someNumber="700" image="dg\129_006.gif" lang2="- А тебе скажу ехать помедленнее, Анри.">
+      <audioTime in="33832" out="35931" />
+    </line>
+    <line lang1="- Tu me dis toujours d'aller plus lentement, chérie." someNumber="None" image="dg\129_006.gif" lang2="- Ты всегда мне говоришь ехать медленнее, дорогая.">
+      <audioTime in="35931" out="38702" />
+    </line>
+    <line lang1="- Suis mon conseil la prochaine fois." someNumber="None" image="dg\129_006.gif" lang2="- Последуй моему совету в следующий раз.">
+      <audioTime in="38702" out="40532" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,62 @@
+<lesson>
+  <header wav="i_059.wav" dic="p059" dlgName="В канцелярском магазине." dlgFile="exr\ig059.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Mi servono delle buste." someNumber="None" image="dg\059_001.gif" lang2="- Мне нужны конверты.">
+      <audioTime in="100" out="1715" />
+    </line>
+    <line lang1="- Le servono grandi o piccole?" someNumber="None" image="dg\059_001.gif" lang2="- Вам нужны большого или маленького размера?">
+      <audioTime in="1766" out="3784" />
+    </line>
+    <line lang1="- Grandi." someNumber="None" image="dg\059_001.gif" lang2="- Большого размера.">
+      <audioTime in="3784" out="4732" />
+    </line>
+    <line lang1="Avete carta da lettere?" someNumber="None" image="dg\059_002.gif" lang2="Есть ли у вас писчая бумага?">
+      <audioTime in="4894" out="6559" />
+    </line>
+    <line lang1="- Sì, ce l'abbiamo." someNumber="None" image="dg\059_002.gif" lang2="- Да, есть.">
+      <audioTime in="6559" out="8004" />
+    </line>
+    <line lang1="Io non ho dei block-notes piccoli." someNumber="None" image="dg\059_002.gif" lang2="У меня нет маленьких блокнотов.">
+      <audioTime in="8223" out="10242" />
+    </line>
+    <line lang1="Ne ho solo di grandi." someNumber="None" image="dg\059_002.gif" lang2="У меня есть только большие.">
+      <audioTime in="10242" out="11642" />
+    </line>
+    <line lang1="Lei vuole un block-notes?" someNumber="None" image="dg\059_003.gif" lang2="Дать Вам блокнот?">
+      <audioTime in="11655" out="13118" />
+    </line>
+    <line lang1="- Sì, per favore." someNumber="None" image="dg\059_003.gif" lang2="- Да, пожалуйста.">
+      <audioTime in="13219" out="14682" />
+    </line>
+    <line lang1="E mi serve anche l'inchiostro nero e la colla." someNumber="None" image="dg\059_003.gif" lang2="А ещё мне нужны чёрные чернила и клей.">
+      <audioTime in="14833" out="17507" />
+    </line>
+    <line lang1="- Una bottiglia d'inchiostro e una bottiglia di colla." someNumber="None" image="dg\059_004.gif" lang2="- Флакон чернил и флакон клея.">
+      <audioTime in="17507" out="20713" />
+    </line>
+    <line lang1="- E anche una scatola di gesso grande." someNumber="590" image="dg\059_004.gif" lang2="- Ещё мне нужна большая коробка мела.">
+      <audioTime in="20888" out="23360" />
+    </line>
+    <line lang1="- Ho solo delle scatole piccole." someNumber="None" image="dg\059_005.gif" lang2="- У меня есть только маленькие коробки.">
+      <audioTime in="23512" out="25378" />
+    </line>
+    <line lang1="Ne vuole una?" someNumber="None" image="dg\059_005.gif" lang2="Вам дать одну?">
+      <audioTime in="25580" out="26589" />
+    </line>
+    <line lang1="- No, grazie." someNumber="None" image="dg\059_005.gif" lang2="- Нет, спасибо.">
+      <audioTime in="26691" out="27801" />
+    </line>
+    <line lang1="- È tutto?" someNumber="380" image="dg\059_006.gif" lang2="- Это всё?">
+      <audioTime in="28002" out="29005" />
+    </line>
+    <line lang1="- È tutto, grazie." someNumber="None" image="dg\059_006.gif" lang2="- Всё, спасибо.">
+      <audioTime in="29006" out="30586" />
+    </line>
+    <line lang1="- Che cosa vuole ancora?" someNumber="None" image="dg\059_007.gif" lang2="- Что ещё Вы желаете?">
+      <audioTime in="30586" out="32077" />
+    </line>
+    <line lang1="- Aspetto il resto." someNumber="None" image="dg\059_007.gif" lang2="- Я хочу получить сдачу.">
+      <audioTime in="32077" out="33521" />
+    </line>
+  </lines>
+</lesson>

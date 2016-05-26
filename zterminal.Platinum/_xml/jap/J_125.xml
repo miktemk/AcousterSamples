@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="j_125.wav" dlgName="На стадионе" dic="p125" />
+  <lines>
+    <line lang1="―みんな*何*と*言って*応援しています*か。" someNumber="None" image="125_001.jpg" lang2="- Что говорят (кричат) все, подбадривая (команду)?">
+      <audioTime in="0" out="3750" />
+    </line>
+    <line lang1="―「がんばれ」とか「負けるな」とか*言っています。" someNumber="083" image="125_001.jpg" lang2="- Говорят (кричат): &quot;Старайся!&quot; или &quot;Не проиграй!&quot;">
+      <audioTime in="3750" out="8180" />
+    </line>
+    <line lang1="―じゃ、一緒*に*応援しましょう。" someNumber="None" image="125_001.jpg" lang2="- Ну так поболеем вместе со всеми!">
+      <audioTime in="8180" out="10858" />
+    </line>
+    <line lang1="―子供さん*は*もう*話します*か。" someNumber="None" image="125_004.jpg" lang2="- Ваш ребёнок уже говорит?">
+      <audioTime in="10858" out="14481" />
+    </line>
+    <line lang1="―ええ、私*を*見る*と「来い」と*言います。" someNumber="083" image="125_005.jpg" lang2="- Да. Когда он видит меня, говорит: &quot;Иди сюда!&quot;">
+      <audioTime in="14336" out="18814" />
+    </line>
+    <line lang1="―何*と*書いてあります*か。" someNumber="77" image="125_006.jpg" lang2="- Что (тут) написано?">
+      <audioTime in="18814" out="21825" />
+    </line>
+    <line lang1="―ここ*に*ごみ*を*捨てる*なと*書いてあります。" someNumber="083" image="125_006.jpg" lang2="- Написано: &quot;Не бросай сюда мусор!&quot;">
+      <audioTime in="21825" out="25608" />
+    </line>
+    <line lang1="―練習中、おしゃべり*を*する*な！" someNumber="None" image="125_008.jpg" lang2="- Во время тренировки прекратить болтовню!">
+      <audioTime in="25608" out="29613" />
+    </line>
+    <line lang1="ボール*の*正面*に*入れ！" someNumber="None" image="125_009.jpg" lang2="Заходи в зону перед мячом!">
+      <audioTime in="29613" out="31389" />
+    </line>
+    <line lang1="ゴロ*が*転がって*きたら、グローブ*を*地面*に*つけろ！" someNumber="166" image="125_010.jpg" lang2="Если мяч покатится по полю, прижми рукавицу к земле!">
+      <audioTime in="31389" out="35253" />
+    </line>
+    <line lang1="―はい。" someNumber="None" image="125_011.jpg" lang2="- Есть!">
+      <audioTime in="35253" out="36721" />
+    </line>
+    <line lang1="―また*泣いてる*な。うるさい。" someNumber="None" image="125_012.jpg" lang2="- Снова плачешь? Надоело!">
+      <audioTime in="36721" out="42007" />
+    </line>
+    <line lang1="もう*泣く*な。やめ。" someNumber="083" image="125_012.jpg" lang2="Не реви! Хватит!">
+      <audioTime in="42007" out="44495" />
+    </line>
+  </lines>
+</lesson>

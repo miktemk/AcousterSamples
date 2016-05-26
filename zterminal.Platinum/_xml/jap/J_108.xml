@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="j_108.wav" dlgName="Урок грамматики" dic="p108" />
+  <lines>
+    <line lang1="ー皆*さん、黒板*に*書いた*文章*を*見て*ください。" someNumber="None" image="108_001.jpg" lang2="- Дети, посмотрите на предложение, написанное на доске.">
+      <audioTime in="0" out="5435" />
+    </line>
+    <line lang1="「青い*空*を*鳥*が*のんびり*と*飛んでいる」" someNumber="None" image="108_001.jpg" lang2="&quot;В синем небе беззаботно летают птицы&quot;.">
+      <audioTime in="5435" out="11399" />
+    </line>
+    <line lang1="ここ*で「空」と「鳥」は*名詞、" someNumber="None" image="108_001.jpg" lang2="Здесь &quot;небо&quot; и &quot; птицы&quot; - существительные,">
+      <audioTime in="11399" out="15815" />
+    </line>
+    <line lang1="「飛ぶ」は*動詞、「青い」は*形容詞*です。" someNumber="None" image="108_001.jpg" lang2="&quot;летать&quot; - глагол, &quot;синий&quot; - прилагательное.">
+      <audioTime in="15815" out="20594" />
+    </line>
+    <line lang1="「のんびり」は*副詞、「が」と「を」は*助詞*です*ね。" someNumber="None" image="108_001.jpg" lang2="&quot;Беззаботно&quot; - наречие, &quot;в&quot; - предлог.">
+      <audioTime in="20594" out="27129" />
+    </line>
+    <line lang1="それ*で*は*動詞*の*活用*に*ついて*復習*しましょう。" someNumber="None" image="108_006.jpg" lang2="А теперь повторим спряжение глаголов.">
+      <audioTime in="27129" out="31906" />
+    </line>
+    <line lang1="日本*の*動詞*に*は*五段動詞*と*一段動詞*が*あります。" someNumber="None" image="108_006.jpg" lang2="Японские глаголы бывают глаголами 1-го и 2-го спряжения.">
+      <audioTime in="31906" out="38944" />
+    </line>
+    <line lang1="五段動詞*に*は*どんな*動詞*が*あります*か。" someNumber="None" image="108_006.jpg" lang2="Какие глаголы относятся к глаголам 1-го спряжения?">
+      <audioTime in="38944" out="44132" />
+    </line>
+    <line lang1="ー五段動詞*は「読む」の*よう*な*動詞*で、" someNumber="106" image="108_009.jpg" lang2="- Глаголы 1-го спряжения - это глаголы, похожие на глагол &quot;ему&quot; - &quot;читать&quot;,">
+      <audioTime in="44005" out="49431" />
+    </line>
+    <line lang1="「よまない、よみます、よむ、よめば、よもう」と*変化します。" someNumber="None" image="108_009.jpg" lang2="которые спрягаются так: &quot;не читаю&quot;, &quot;читаю&quot;, &quot;читать&quot;, &quot;если читать&quot;, &quot;наверное, прочту&quot;.">
+      <audioTime in="49431" out="55743" />
+    </line>
+    <line lang1="―一段動詞*は？" someNumber="None" image="108_011.jpg" lang2="- А глаголы второго спряжения?">
+      <audioTime in="55743" out="58877" />
+    </line>
+    <line lang1="ーそれ*は「ねる」の*よう*な*動詞*で、" someNumber="None" image="108_011.jpg" lang2="- Глаголы, похожие на &quot;нэру&quot; - &quot;спать&quot;, изменяемые так:">
+      <audioTime in="58877" out="62567" />
+    </line>
+    <line lang1="「ねない、ねます、ねる、ねれば、ねよう」と*変化します。" someNumber="None" image="108_011.jpg" lang2="&quot;не сплю&quot;, &quot;сплю&quot;, &quot;спать&quot;, &quot;если спать&quot;, &quot; наверное, усну&quot;.">
+      <audioTime in="62567" out="68943" />
+    </line>
+    <line lang1="ーはい。いい*です。" someNumber="None" image="108_014.jpg" lang2="- Да. Правильно.">
+      <audioTime in="68943" out="71022" />
+    </line>
+    <line lang1="日本語*の*動詞*の*活用*は*規則的*で、" someNumber="172" image="108_015.jpg" lang2="Спряжение японских глаголов подчиняется правилам,">
+      <audioTime in="71022" out="74837" />
+    </line>
+    <line lang1="例外*は「来る」と「する」だけ*です。" someNumber="None" image="108_015.jpg" lang2="исключением являются только глаголы &quot;куру&quot; - &quot;приходить&quot; и &quot;суру&quot; - &quot;делать&quot;.">
+      <audioTime in="74837" out="79237" />
+    </line>
+    <line lang1="ー先生、基本的*な*文法*の*勉強*は*いつ*終わります*か。" someNumber="None" image="108_017.jpg" lang2="- Сэнсэй, когда мы закончим изучение основ грамматики?">
+      <audioTime in="79237" out="85183" />
+    </line>
+    <line lang1="ー今学期*の*末*まで*に、基本*文法*を*だいたい*終る*予定*です。" someNumber="106" image="108_018.jpg" lang2="- До конца нынешнего семестра планируем в целом закончить изучение основ грамматики.">
+      <audioTime in="85183" out="90816" />
+    </line>
+    <line lang1="あと*は*使役、使役*の*受け身*と*敬語*です*ね。" someNumber="None" image="108_018.jpg" lang2="Остаётся побудительный залог, побудительно-страдательный залог и вежливые формы, не так ли?">
+      <audioTime in="90816" out="95042" />
+    </line>
+    <line lang1="明日*から*授受*動詞*の*勉強*を*始めましょう。" someNumber="None" image="108_018.jpg" lang2="С завтрашнего дня начнем изучение вспомогательных глаголов направленного действия.">
+      <audioTime in="95042" out="99917" />
+    </line>
+  </lines>
+</lesson>

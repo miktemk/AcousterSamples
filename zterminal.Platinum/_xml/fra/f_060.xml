@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_060.wav" dic="p060" dlgName="Есть у?..." dlgFile="exr\fg059.txt" author="Alexander" />
+  <lines>
+    <line lang1="- As-tu du beurre?" someNumber="70" image="dg\060_001.gif" lang2="- У тебя есть масло?">
+      <audioTime in="0" out="836" />
+    </line>
+    <line lang1="- Je n'en ai pas, mais j'ai un peu de fromage." someNumber="None" image="dg\060_001.gif" lang2="- У меня его нет, но у меня есть немного сыра.">
+      <audioTime in="836" out="3465" />
+    </line>
+    <line lang1="- Marie et vous, avez-vous des fèves?" someNumber="None" image="dg\060_002.gif" lang2="- У Мари и у вас есть бобы?">
+      <audioTime in="3465" out="5376" />
+    </line>
+    <line lang1="- Non, nous n'en avons pas, mais nous avons un peu de pommes de terre." someNumber="780" image="dg\060_002.gif" lang2="- Нет, у нас их нет, но у нас есть немного картофеля.">
+      <audioTime in="5376" out="8745" />
+    </line>
+    <line lang1="- Marie et Réné, ont-ils du vin?" someNumber="None" image="dg\060_003.gif" lang2="- У Мари и Рене есть вино?">
+      <audioTime in="8745" out="10576" />
+    </line>
+    <line lang1="- Ils n'en ont pas, mais ils ont de la bière." someNumber="None" image="dg\060_003.gif" lang2="- У них его нет, но у них есть пиво.">
+      <audioTime in="10576" out="12762" />
+    </line>
+    <line lang1="- As-tu du miel?" someNumber="None" image="dg\060_004.gif" lang2="- У тебя есть мёд?">
+      <audioTime in="12762" out="13667" />
+    </line>
+    <line lang1="- Je n'en ai pas, mais j'ai de la confiture." someNumber="210" image="dg\060_004.gif" lang2="- У меня его нет, но у меня есть немного джема.">
+      <audioTime in="13667" out="15963" />
+    </line>
+    <line lang1="- Réné et vous, avez-vous du pain?" someNumber="None" image="dg\060_005.gif" lang2="- У Рене и вас есть хлеб?">
+      <audioTime in="15963" out="17622" />
+    </line>
+    <line lang1="- Non, nous n'en avons pas, nous avons quelques biscuits." someNumber="None" image="dg\060_005.gif" lang2="- Нет, у нас его нет, но у нас есть несколько печений.">
+      <audioTime in="17622" out="20205" />
+    </line>
+    <line lang1="- Marie et Réné, ont-ils du raisin?" someNumber="None" image="dg\060_006.gif" lang2="- У Мари и Рене есть виноград?">
+      <audioTime in="20205" out="22227" />
+    </line>
+    <line lang1="- Non, ils n'en ont pas, mais ils ont un peu de bananes." someNumber="None" image="dg\060_006.gif" lang2="- Нет, у них его нет, но у них есть немного бананов.">
+      <audioTime in="22227" out="24985" />
+    </line>
+    <line lang1="- As-tu de la viande hachée?" someNumber="None" image="dg\060_007.gif" lang2="- У тебя есть фарш?">
+      <audioTime in="24985" out="26169" />
+    </line>
+    <line lang1="- Je n'en ai pas, mais j'ai quelques biftecks." someNumber="None" image="dg\060_007.gif" lang2="- У меня его нет, но у меня есть несколько бифштексов.">
+      <audioTime in="26169" out="28006" />
+    </line>
+    <line lang1="- Les enfants, ont-ils du beurre?" someNumber="None" image="dg\060_008.gif" lang2="- У детей есть масло?">
+      <audioTime in="28006" out="29441" />
+    </line>
+    <line lang1="- Non, ils n'en ont pas, mais ils ont un peu d'œufs." someNumber="530" image="dg\060_008.gif" lang2="- Нет, у них его нет, но у них есть немного яиц.">
+      <audioTime in="29441" out="31816" />
+    </line>
+    <line lang1="- As-tu de la salade?" someNumber="None" image="dg\060_009.gif" lang2="- У тебя есть салат?">
+      <audioTime in="31816" out="32866" />
+    </line>
+    <line lang1="- Non, je n'en ai pas, mais j'ai du chou." someNumber="None" image="dg\060_009.gif" lang2="- Нет, у меня его нет, но у меня есть капуста.">
+      <audioTime in="32866" out="34898" />
+    </line>
+    <line lang1="- Marie et vous, avez-vous des fèves?" someNumber="None" image="dg\060_010.gif" lang2="- У Мари и вас есть бобы?">
+      <audioTime in="34898" out="36536" />
+    </line>
+    <line lang1="- Non, nous n'en avons pas, nous avons un peu de petits pois." someNumber="190" image="dg\060_010.gif" lang2="- Нет, у нас их нет, но у нас есть немного гороха.">
+      <audioTime in="36536" out="40006" />
+    </line>
+  </lines>
+</lesson>

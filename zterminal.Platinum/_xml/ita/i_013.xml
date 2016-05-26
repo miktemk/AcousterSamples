@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="i_013.wav" dic="p013" dlgName="Какого цвета твоё платье?" dlgFile="exr\ig013.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Di che colore è il Suo nuovo vestito?" someNumber="None" image="dg\013_001.gif" lang2="- Какого цвета Ваше новое платье?">
+      <audioTime in="89" out="2387" />
+    </line>
+    <line lang1="- È verde." someNumber="None" image="dg\013_001.gif" lang2="- Оно зелёное.">
+      <audioTime in="2417" out="3640" />
+    </line>
+    <line lang1="Venga di sopra a guardarlo." someNumber="None" image="dg\013_002.gif" lang2="Поднимитесь наверх и посмотрите на него.">
+      <audioTime in="3551" out="5475" />
+    </line>
+    <line lang1="- Grazie." someNumber="None" image="dg\013_002.gif" lang2="- Спасибо.">
+      <audioTime in="5416" out="6460" />
+    </line>
+    <line lang1="- Guardi, eccolo!" someNumber="None" image="dg\013_003.gif" lang2="- Посмотрите, вот оно!">
+      <audioTime in="6475" out="8026" />
+    </line>
+    <line lang1="- È un bel vestito." someNumber="None" image="dg\013_003.gif" lang2="- Хорошее платье.">
+      <audioTime in="8026" out="9578" />
+    </line>
+    <line lang1="È molto elegante." someNumber="None" image="dg\013_003.gif" lang2="Оно очень модное.">
+      <audioTime in="9503" out="11159" />
+    </line>
+    <line lang1="- Anche il mio cappello è nuovo." someNumber="None" image="dg\013_004.gif" lang2="- Моя шляпа тоже новая.">
+      <audioTime in="11189" out="13293" />
+    </line>
+    <line lang1="- Di che colore è?" someNumber="None" image="dg\013_004.gif" lang2="- Какого она цвета?">
+      <audioTime in="13218" out="14621" />
+    </line>
+    <line lang1="- È dello stesso colore." someNumber="None" image="dg\013_005.gif" lang2="- Она такого же цвета.">
+      <audioTime in="14561" out="16441" />
+    </line>
+    <line lang1="Pure verde." someNumber="None" image="dg\013_006.gif" lang2="Она тоже зелёная.">
+      <audioTime in="16411" out="17783" />
+    </line>
+    <line lang1="- È un cappello stupendo!" someNumber="190" image="dg\013_006.gif" lang2="- Это изумительная шляпка!">
+      <audioTime in="17783" out="19827" />
+    </line>
+  </lines>
+</lesson>

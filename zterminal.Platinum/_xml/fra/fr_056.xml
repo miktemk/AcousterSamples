@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="FR_056.wav" dlgName="Газеты" dlgFile="exr\frg056.txt" />
+  <lines>
+    <line lang1="- Bonjour, mon ami." someNumber="None" image="f.jpg" lang2="- Здравствуй, мой друг.">
+      <audioTime in="0" out="1454" />
+    </line>
+    <line lang1="Je ne te dérange pas?" someNumber="None" image="f.jpg" lang2="Не мешаю ли я тебе?">
+      <audioTime in="1454" out="3202" />
+    </line>
+    <line lang1="- Pas du tout." someNumber="None" image="f.jpg" lang2="- Совершенно нет.">
+      <audioTime in="3202" out="4093" />
+    </line>
+    <line lang1="Tu vois, je suis en train de lire mon journal." someNumber="None" image="f.jpg" lang2="Видишь, я читаю газету.">
+      <audioTime in="4093" out="7457" />
+    </line>
+    <line lang1="- Et qu'est-ce qu'il y a d'intéressant dans ton journal?" someNumber="None" image="f.jpg" lang2="- А что интересного в твоей газете?">
+      <audioTime in="7457" out="10611" />
+    </line>
+    <line lang1="- Il y a un article très intéressant sur la presse quotidienne française." someNumber="None" image="f.jpg" lang2="- Очень интересная статья о ежедневной французской печати.">
+      <audioTime in="10611" out="15383" />
+    </line>
+    <line lang1="- De quoi y parle-t-on?" someNumber="None" image="f.jpg" lang2="- О чем там говорят?">
+      <audioTime in="15383" out="17200" />
+    </line>
+    <line lang1="- Du tirage, de la diffusion et de la tendance politique des journaux français." someNumber="None" image="f.jpg" lang2="- О тираже, о распространении французских газет и их политических тенденциях.">
+      <audioTime in="17200" out="23540" />
+    </line>
+    <line lang1="- De quels journaux?" someNumber="None" image="f.jpg" lang2="- Каких газет?">
+      <audioTime in="23540" out="24976" />
+    </line>
+    <line lang1="- Des quotidiens" someNumber="None" image="f.jpg" lang2="- Таких, как ежедневники:">
+      <audioTime in="24976" out="26020" />
+    </line>
+    <line lang1="comme: &quot;L'Humanité&quot;, 'Le Figaro&quot;, L'Information&quot;, &quot;Le Monde&quot; et &quot;La Croix&quot;." someNumber="None" image="f.jpg" lang2="&quot;Юманите&quot;, &quot;Фигаро&quot;, &quot;Информасион&quot;, Монд&quot; и &quot;Круа&quot;.">
+      <audioTime in="26020" out="32643" />
+    </line>
+    <line lang1="- Toi, tu lis &quot;L'Humanité&quot;?" someNumber="None" image="f.jpg" lang2="- А ты читаешь &quot;Юманите&quot;?">
+      <audioTime in="32643" out="34615" />
+    </line>
+    <line lang1="- Oui, c'est le journal que je préfère." someNumber="None" image="f.jpg" lang2="- Да, эту газету я предпочитаю иным.">
+      <audioTime in="34615" out="37518" />
+    </line>
+    <line lang1="Il a une page très intéressante consacrée à l'actualité scientifique." someNumber="None" image="f.jpg" lang2="В ней есть страница, посвященная научным новостям.">
+      <audioTime in="37518" out="43673" />
+    </line>
+    <line lang1="Ainsi par exemple, dans le numéro d'aujourd'hui il y a un article au sujet des voyages cosmiques." someNumber="None" image="f.jpg" lang2="Так, например, в сегодняшнем номере есть статья на тему путешествий в космос.">
+      <audioTime in="43673" out="51489" />
+    </line>
+    <line lang1="- Cela m'intéresse beaucoup, mais lis-moi maintenant la page du sport." someNumber="None" image="f.jpg" lang2="- Это меня очень интересует, но теперь прочитай мне страницу о спорте.">
+      <audioTime in="51489" out="55962" />
+    </line>
+    <line lang1="- Très volontiers. Voyons: où est-elle ta page du sport?" someNumber="None" image="f.jpg" lang2="Охотно. Посмотрим: где она, твоя страница о спорте.">
+      <audioTime in="55962" out="60483" />
+    </line>
+    <line lang1="Ici &quot;La vie politique&quot;, là &quot;Les faits divers&quot; et &quot;Les spectacles&quot;," someNumber="None" image="f.jpg" lang2="Здесь &quot;Политическая жизнь&quot;, там &quot;Отдел происшествий&quot; и &quot;Спектакли&quot;,">
+      <audioTime in="60483" out="67125" />
+    </line>
+    <line lang1="décidément je ne trouve pas de chronique sportive." someNumber="None" image="f.jpg" lang2="я никак не найду спортивной хроники.">
+      <audioTime in="67125" out="70953" />
+    </line>
+    <line lang1="- Tourne la page!" someNumber="None" image="f.jpg" lang2="- Переверни страницу!">
+      <audioTime in="70953" out="72362" />
+    </line>
+    <line lang1="- Ça y est!" someNumber="None" image="f.jpg" lang2="- Есть!">
+      <audioTime in="72362" out="73671" />
+    </line>
+    <line lang1="Nous avons trouvé &quot;La vie sportive&quot;." someNumber="None" image="f.jpg" lang2="Мы нашли &quot;Спортивную жизнь&quot;.">
+      <audioTime in="73671" out="77015" />
+    </line>
+  </lines>
+</lesson>

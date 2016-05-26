@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="j_114.wav" dlgName="Нерадивая студентка" dic="p114" />
+  <lines>
+    <line lang1="ー失礼*します。" someNumber="128" image="114_001.jpg" lang2="- Прошу прощения.">
+      <audioTime in="0" out="2851" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="114_002.jpg" lang2="- Да.">
+      <audioTime in="2851" out="3570" />
+    </line>
+    <line lang1="ー企業*経営*学部*の*佐々木*すみれ*です。" someNumber="None" image="114_003.jpg" lang2="- Я - Сасаки Сумирэ с факультета управления промышленными предприятиями.">
+      <audioTime in="3484" out="9525" />
+    </line>
+    <line lang1="ーはい、佐々木*さん、なん*です*か。" someNumber="None" image="114_004.jpg" lang2="- Слушаю Вас. Сасаки-сан, в чем дело?">
+      <audioTime in="9525" out="12660" />
+    </line>
+    <line lang1="ーあした*病院*で*診察*を*して*もらわなければなりません*ので、" someNumber="088" image="114_005.jpg" lang2="- Мне необходимо завтра пройти обследование в больнице,">
+      <audioTime in="12660" out="17802" />
+    </line>
+    <line lang1="先生*の*ゼミ*を*休ませて*いただけません*か。" someNumber="96" image="114_006.jpg" lang2="поэтому не позволите ли мне пропустить Ваш семинар?">
+      <audioTime in="17802" out="21175" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="114_007.jpg" lang2="- Вот как!">
+      <audioTime in="21175" out="22651" />
+    </line>
+    <line lang1="佐々木*さん*は、体*を*大事*に*する*の*は*いい*です*けれど、" someNumber="152" image="114_007.jpg" lang2="Это хорошо, что Вы заботитесь о своём здоровье,">
+      <audioTime in="22651" out="27100" />
+    </line>
+    <line lang1="欠席*が*多い*です*ね。" someNumber="None" image="114_007.jpg" lang2="но у Вас много пропусков!">
+      <audioTime in="27100" out="29255" />
+    </line>
+    <line lang1="今年*合格*できない*かもしれません*よ。" someNumber="None" image="114_007.jpg" lang2="В этом году Вы, наверное, не сможете выдержать экзамен.">
+      <audioTime in="29255" out="32329" />
+    </line>
+    <line lang1="ゼミ*の*後*で*医者*に*行って*下さい。" someNumber="None" image="114_011.jpg" lang2="Пойдите к врачу после семинара!">
+      <audioTime in="32329" out="35291" />
+    </line>
+    <line lang1="ーすみれ*ちゃん、授業*に*出る*の。" someNumber="124" image="114_012.jpg" lang2="- Сумирэ-тян, ты идешь на урок?">
+      <audioTime in="35291" out="40516" />
+    </line>
+    <line lang1="休むって*言っていた*のに。" someNumber="160" image="114_012.jpg" lang2="А ведь говорила, что пропустишь занятия.">
+      <audioTime in="40516" out="42301" />
+    </line>
+    <line lang1="ーそう*な*の。" someNumber="None" image="114_014.jpg" lang2="- Вот, пришлось.">
+      <audioTime in="42301" out="44236" />
+    </line>
+    <line lang1="中村*先生*に*頼んだ*ん*だ*けど、欠席*が*多い*からって、断わられちゃった。" someNumber="80" image="114_015.jpg" lang2="Попросила Накамура-сэнсэя, но он сказал, что (у меня) много пропусков и отказал.">
+      <audioTime in="44236" out="50406" />
+    </line>
+    <line lang1="ー昨日*も、授業*を*さぼった*よ*ね。" someNumber="80" image="114_016.jpg" lang2="- Ты и вчера прогуляла урок, не так ли?">
+      <audioTime in="50406" out="53226" />
+    </line>
+    <line lang1="先生*は*出席*を*とる*とき、「また*佐々木*さん*は*休んでいる」と*言っていた*よ。" someNumber="160" image="114_017.jpg" lang2="Когда сэнсэй делал перекличку, он сказал: &quot;Сасаки-сан опять отсутствует!&quot;">
+      <audioTime in="53226" out="59239" />
+    </line>
+    <line lang1="ーなんて*厳しい*ん*でしょ。" someNumber="None" image="114_017.jpg" lang2="- Какой строгий!">
+      <audioTime in="59239" out="63260" />
+    </line>
+    <line lang1="ーすみれ*ちゃん、本当*は*どこ*か*で*油*を*売っていた*ん*じゃない*の。" someNumber="None" image="114_019.jpg" lang2="- Сумирэ-тян, ты, наверное, на самом деле где-то бьешь баклуши, правда?">
+      <audioTime in="63260" out="68134" />
+    </line>
+    <line lang1="ーううん、公園*の*喫茶店。" someNumber="125" image="114_020.jpg" lang2="- Ага. В кафе в парке.">
+      <audioTime in="68134" out="71317" />
+    </line>
+    <line lang1="ーだれ*と？" someNumber="None" image="114_020.jpg" lang2="- И с кем?">
+      <audioTime in="71317" out="72289" />
+    </line>
+    <line lang1="ー秘密。" someNumber="None" image="114_022.jpg" lang2="- Секрет!">
+      <audioTime in="72289" out="74571" />
+    </line>
+  </lines>
+</lesson>

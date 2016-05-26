@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_079.wav" dlgName="Кимура-сан подарила мне куклу" dic="p079" />
+  <lines>
+    <line lang1="ー小林*さん*は*明子*さん*に*おみやげ*を*あげました。" someNumber="103" image="079_001.jpg" lang2="- Кобаяси-сан дал (подарил) сувенир Акико-сан.">
+      <audioTime in="0" out="4752" />
+    </line>
+    <line lang1="明子*さん*は*小林*さん*に*おみやげ*を*もらいました。" someNumber="04" image="079_001.jpg" lang2="- Акико-сан получила подарок от Кобаяси-сана.">
+      <audioTime in="4752" out="9926" />
+    </line>
+    <line lang1="ー木村*さん*は*私*に*人形*を*下さいました。" someNumber="None" image="079_003.jpg" lang2="- Кимура-сан дала (подарила) мне куклу.">
+      <audioTime in="9926" out="16568" />
+    </line>
+    <line lang1="ーきれい*な*人形*です*か。" someNumber="None" image="079_004.jpg" lang2="- Красивая кукла?">
+      <audioTime in="16568" out="18852" />
+    </line>
+    <line lang1="ーええ。木村*さん*が*自分*で*作った*人形*です。" someNumber="143" image="079_004.jpg" lang2="- Да! (Это) кукла, которую Кимура-сан смастерила сама.">
+      <audioTime in="18852" out="23362" />
+    </line>
+    <line lang1="着物*を*着て、おび*を*しめて、ぞうり*を*はいている*人形*です。" someNumber="76" image="079_004.jpg" lang2="(На неё) надето кимоно, повязан пояс, надеты соломенные сандалии.">
+      <audioTime in="23362" out="29461" />
+    </line>
+    <line lang1="ー橋本*さん*は*相原*さん*に*おかし*を*あげました。" someNumber="103" image="079_007.jpg" lang2="- Хасимото-сан дал (подарил) сладости Аихара-сану.">
+      <audioTime in="29461" out="37516" />
+    </line>
+    <line lang1="相原*さん*は*橋本*さん*から*おかし*を*もらいました。" someNumber="None" image="079_007.jpg" lang2="- Аихара-сан получил сладости от Хасимото-сана.">
+      <audioTime in="37516" out="42641" />
+    </line>
+    <line lang1="ーイリナ*さん*は*私*に*手帳*を*くれました。" someNumber="None" image="079_009.jpg" lang2="- Ирина-сан дала (подарила) мне блокнот.">
+      <audioTime in="42641" out="49760" />
+    </line>
+    <line lang1="―私*も*イリナ*さん*に*プレゼント*を*もらいました。" someNumber="None" image="079_010.jpg" lang2="- Я тоже получил подарок от Ирины-сан.">
+      <audioTime in="49760" out="54049" />
+    </line>
+    <line lang1="ーあなたはイリナさんに何かあげましたか。" someNumber="None" image="079_011.jpg" lang2="- Вы что-нибудь подарили Ирине-сан?">
+      <audioTime in="54049" out="57927" />
+    </line>
+    <line lang1="ーまだ*何*も*あげていません。" someNumber="None" image="079_011.jpg" lang2="- Пока ещё ничего не подарил.">
+      <audioTime in="57927" out="62168" />
+    </line>
+    <line lang1="ー山本*さん*は*妹*に*ゆびわ*を*くれました。" someNumber="None" image="079_013.jpg" lang2="- Ямамото-сан подарил кольцо моей младшей сестре.">
+      <audioTime in="62168" out="68543" />
+    </line>
+    <line lang1="ーこんやくした*ん*です*か。おめでとう。" someNumber="128" image="079_014.jpg" lang2="- Это помолвка? Поздравляю!">
+      <audioTime in="68543" out="72280" />
+    </line>
+    <line lang1="―私*は*山本*先生*に*本*を*いただきました。" someNumber="109" image="079_015.jpg" lang2="- Я получила книгу от Ямамото-сэнсэя.">
+      <audioTime in="72280" out="78402" />
+    </line>
+    <line lang1="ー山本*先生*は*私*に*も*本*を*下さいました。" someNumber="109" image="079_016.jpg" lang2="- Ямамото-сэнсэй и мне любезно подарил книгу.">
+      <audioTime in="78402" out="83070" />
+    </line>
+    <line lang1="ーバレンタインデー*に*何人*に*チョコレート*を*あげました*か。" someNumber="None" image="079_017.jpg" lang2="- Скольким людям ты подарила шоколадки на День святого Валентина?">
+      <audioTime in="83070" out="89935" />
+    </line>
+    <line lang1="ークラス*の*男の子*みんな*に*あげました。" someNumber="None" image="079_018.jpg" lang2="- Всем мальчикам в классе.">
+      <audioTime in="89935" out="94413" />
+    </line>
+    <line lang1="山本*先生*に*も*さしあげました。" someNumber="None" image="079_019.jpg" lang2="И Ямамото-сэнсэю преподнесла.">
+      <audioTime in="94413" out="98260" />
+    </line>
+    <line lang1="ーお中元*に*何か*もらいました*か。" someNumber="None" image="079_020.jpg" lang2="- Вы что-нибудь получили в подарок на тюгэн?">
+      <audioTime in="98260" out="102170" />
+    </line>
+    <line lang1="ーたくさん*もらいました。" someNumber="None" image="079_020.jpg" lang2="- Много чего получила.">
+      <audioTime in="102170" out="104960" />
+    </line>
+    <line lang1="タオル、せっけん、果物、お酒*を*もらいました。" someNumber="None" image="079_022.jpg" lang2="Получила полотенце, мыло, фрукты и напитки.">
+      <audioTime in="104960" out="110148" />
+    </line>
+    <line lang1="ーお正月*に*お年玉*を*もらった。" someNumber="68" image="079_023.jpg" lang2="- Получила ли ты на Новый год конверт с деньгами?">
+      <audioTime in="110148" out="114676" />
+    </line>
+    <line lang1="ーもちろん。父*と*母*が２千円*くれた*よ。" someNumber="None" image="079_024.jpg" lang2="- Конечно! Папа с мамой дали 2000 иен.">
+      <audioTime in="114676" out="118885" />
+    </line>
+    <line lang1="それ*から*そぼ*と*そふ*に*も*もらったん*だ。" someNumber="None" image="079_025.jpg" lang2="Кроме того, получила и от бабушки с дедушкой.">
+      <audioTime in="118885" out="122875" />
+    </line>
+    <line lang1="お金持ち*に*なった*わ。" someNumber="124" image="079_026.jpg" lang2="Я стала богачкой.">
+      <audioTime in="122875" out="125378" />
+    </line>
+  </lines>
+</lesson>

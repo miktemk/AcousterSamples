@@ -1,0 +1,149 @@
+<lesson>
+  <header wav="d_034.wav" dic="p034" dlgName="Что они делают? " dlgFile="exr\dg033.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Was #machen die Köche?" someNumber="40" image="dg\034_001.gif" lang2="- Что делают повара?">
+      <audioTime in="299" out="2097" />
+    </line>
+    <line lang1="#1Waschen sie das Geschirr #2ab?" someNumber="40" image="dg\034_001.gif" lang2="Они моют посуду?">
+      <audioTime in="1798" out="3896" />
+    </line>
+    <line lang1="- Nein, sie #1waschen das Geschirr nicht #2ab." someNumber="None" image="dg\034_001.gif" lang2="- Нет, они не моют посуду.">
+      <audioTime in="4046" out="6593" />
+    </line>
+    <line lang1="Sie #kochen." someNumber="None" image="dg\034_001.gif" lang2="Они готовят.">
+      <audioTime in="6593" out="7722" />
+    </line>
+    <line lang1="- Was #machen die Kinder?" someNumber="190" image="dg\034_002.gif" lang2="- Что делают дети?">
+      <audioTime in="8542" out="10189" />
+    </line>
+    <line lang1="#Weinen sie?" someNumber="190" image="dg\034_002.gif" lang2="Они плачут?">
+      <audioTime in="10489" out="11689" />
+    </line>
+    <line lang1="- Nein, sie #weinen nicht." someNumber="510" image="dg\034_002.gif" lang2="- Нет, они не плачут.">
+      <audioTime in="11689" out="13636" />
+    </line>
+    <line lang1="Sie #schlafen." someNumber="510" image="dg\034_002.gif" lang2="Они спят.">
+      <audioTime in="13636" out="14765" />
+    </line>
+    <line lang1="- Was #machen die Männer?" someNumber="None" image="dg\034_003.gif" lang2="- Что делают мужчины?">
+      <audioTime in="14985" out="16783" />
+    </line>
+    <line lang1="#1Bereiten sie das Mittagessen #2zu?" someNumber="None" image="dg\034_003.gif" lang2="Они готовят обед?">
+      <audioTime in="16634" out="18732" />
+    </line>
+    <line lang1="- Nein, sie #1bereiten es nicht #2zu." someNumber="490" image="dg\034_003.gif" lang2="- Нет, они не готовят.">
+      <audioTime in="18732" out="21129" />
+    </line>
+    <line lang1="Sie #rasieren sich." someNumber="490" image="dg\034_003.gif" lang2="Они бреются.">
+      <audioTime in="21129" out="22258" />
+    </line>
+    <line lang1="- Was #machen die Kinder?" someNumber="None" image="dg\034_004.gif" lang2="- Что делают дети?">
+      <audioTime in="22927" out="24427" />
+    </line>
+    <line lang1="#Schlafen sie?" someNumber="None" image="dg\034_004.gif" lang2="Они спят?">
+      <audioTime in="24427" out="25625" />
+    </line>
+    <line lang1="- Nein, sie #schlafen nicht." someNumber="None" image="dg\034_004.gif" lang2="- Нет, они не спят?">
+      <audioTime in="25475" out="27574" />
+    </line>
+    <line lang1="Sie #weinen." someNumber="None" image="dg\034_004.gif" lang2="Они плачут.">
+      <audioTime in="27723" out="29221" />
+    </line>
+    <line lang1="- Was #machen die Hunde?" someNumber="None" image="dg\034_005.gif" lang2="- Что делают собаки?">
+      <audioTime in="29072" out="30870" />
+    </line>
+    <line lang1="#Trinken sie Milch?" someNumber="None" image="dg\034_005.gif" lang2="Они лакают молоко?">
+      <audioTime in="30870" out="31999" />
+    </line>
+    <line lang1="- Nein, sie #trinken nicht Milch." someNumber="None" image="dg\034_005.gif" lang2="- Нет, они не лакают молоко.">
+      <audioTime in="32219" out="34767" />
+    </line>
+    <line lang1="Sie #nagen an einem Knochen." someNumber="None" image="dg\034_005.gif" lang2="Они грызут кость.">
+      <audioTime in="34916" out="37164" />
+    </line>
+    <line lang1="- Was #machen die Frauen?" someNumber="540" image="dg\034_006.gif" lang2="- Что делают женщины?">
+      <audioTime in="37314" out="38813" />
+    </line>
+    <line lang1="#Lüften sie das Zimmer?" someNumber="540" image="dg\034_006.gif" lang2="Они проветривают комнату?">
+      <audioTime in="38813" out="40611" />
+    </line>
+    <line lang1="- Nein, sie #lüften nicht das Zimmer." someNumber="550" image="dg\034_006.gif" lang2="- Нет, они не проветривают комнату.">
+      <audioTime in="40611" out="42859" />
+    </line>
+    <line lang1="Sie #tippen Briefe." someNumber="550" image="dg\034_006.gif" lang2="Они печатают письма.">
+      <audioTime in="43008" out="44357" />
+    </line>
+    <line lang1="- Was #machen die Kinder?" someNumber="890" image="dg\034_007.gif" lang2="- Что делают дети?">
+      <audioTime in="44657" out="46305" />
+    </line>
+    <line lang1="#1Schauen sie die Bilder #2an?" someNumber="890" image="dg\034_007.gif" lang2="Они смотрят картины?">
+      <audioTime in="46305" out="48104" />
+    </line>
+    <line lang1="- Nein, sie #1schauen die Bilder nicht #2an." someNumber="340" image="dg\034_007.gif" lang2="- Нет, они не смотрят картины.">
+      <audioTime in="47954" out="50801" />
+    </line>
+    <line lang1="Sie #machen ihre Hausaufgaben." someNumber="340" image="dg\034_007.gif" lang2="Они делают свои домашние задания.">
+      <audioTime in="50801" out="52749" />
+    </line>
+    <line lang1="- Was #machen die Frauen?" someNumber="None" image="dg\034_008.gif" lang2="- Что делают женщины?">
+      <audioTime in="53049" out="54847" />
+    </line>
+    <line lang1="#Fegen sie den Fußboden?" someNumber="None" image="dg\034_008.gif" lang2="Они подметают пол?">
+      <audioTime in="54997" out="57245" />
+    </line>
+    <line lang1="- Nein, sie #fegen nicht den Fußboden." someNumber="None" image="dg\034_008.gif" lang2="- Нет, они не подметают пол.">
+      <audioTime in="57245" out="60392" />
+    </line>
+    <line lang1="Sie #1waschen das Geschirr #2ab." someNumber="None" image="dg\034_008.gif" lang2="Они моют посуду.">
+      <audioTime in="60542" out="62790" />
+    </line>
+    <line lang1="- Was #machen die Vögel?" someNumber="900" image="dg\034_009.gif" lang2="- Что делают птицы?">
+      <audioTime in="62790" out="64588" />
+    </line>
+    <line lang1="#Sitzen sie auf dem Baum?" someNumber="900" image="dg\034_009.gif" lang2="Они сидят на дереве?">
+      <audioTime in="64588" out="66386" />
+    </line>
+    <line lang1="- Nein, sie #sitzen nicht auf dem Baum." someNumber="760" image="dg\034_009.gif" lang2="- Нет, они не сидят на дереве.">
+      <audioTime in="66536" out="69533" />
+    </line>
+    <line lang1="Sie #fliegen über dem Fluss." someNumber="760" image="dg\034_009.gif" lang2="Они порхают над рекой.">
+      <audioTime in="69533" out="71781" />
+    </line>
+    <line lang1="- Was #machen der Mann und die Frau?" someNumber="None" image="dg\034_010.gif" lang2="- Что делают мужчина и женщина?">
+      <audioTime in="71931" out="74478" />
+    </line>
+    <line lang1="#Warten sie auf den Bus?" someNumber="None" image="dg\034_010.gif" lang2="Они ожидают автобуса?">
+      <audioTime in="74778" out="76276" />
+    </line>
+    <line lang1="- Nein, sie #warten nicht auf den Bus." someNumber="510" image="dg\034_010.gif" lang2="- Нет, они не ожидают автобуса.">
+      <audioTime in="76427" out="79124" />
+    </line>
+    <line lang1="Sie #gehen auf der Brücke." someNumber="510" image="dg\034_010.gif" lang2="Они шагают по мосту.">
+      <audioTime in="79274" out="80922" />
+    </line>
+    <line lang1="- Was #machen der Mann und die Frau?" someNumber="None" image="dg\034_011.gif" lang2="- Что делают мужчина и женщина?">
+      <audioTime in="81072" out="83170" />
+    </line>
+    <line lang1="#Gehen sie auf der Brücke?" someNumber="None" image="dg\034_011.gif" lang2="Они шагают по мосту?">
+      <audioTime in="83470" out="85568" />
+    </line>
+    <line lang1="- Nein, sie #gehen nicht über die Brücke." someNumber="None" image="dg\034_011.gif" lang2="- Нет, они не шагают по мосту.">
+      <audioTime in="85418" out="88115" />
+    </line>
+    <line lang1="Sie #warten auf den Bus." someNumber="None" image="dg\034_011.gif" lang2="Они ожидают автобус.">
+      <audioTime in="88115" out="89764" />
+    </line>
+    <line lang1="- Was #machen der Junge und das Mädchen?" someNumber="None" image="dg\034_012.gif" lang2="- Что делают мальчик и девочка?">
+      <audioTime in="90063" out="93060" />
+    </line>
+    <line lang1="#Klettern sie auf den Baum?" someNumber="None" image="dg\034_012.gif" lang2="Они взбираются на дерево?">
+      <audioTime in="93060" out="94709" />
+    </line>
+    <line lang1="- Nein, sie #klettern nicht auf den Baum." someNumber="330" image="dg\034_012.gif" lang2="- Нет, они не взбираются на дерево.">
+      <audioTime in="94859" out="97556" />
+    </line>
+    <line lang1="Sie #springen über die Mauer." someNumber="330" image="dg\034_012.gif" lang2="Они прыгают через стену.">
+      <audioTime in="97707" out="99654" />
+    </line>
+  </lines>
+</lesson>

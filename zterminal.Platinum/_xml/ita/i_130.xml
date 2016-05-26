@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_130.wav" dic="p130" dlgName="Не может быть, чтобы..." dlgFile="exr\ig129.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Era un bigliettaio o un' autista d'autobus?" someNumber="None" image="dg\130_001.gif" lang2="- Он был кондуктором или водителем автобуса?">
+      <audioTime in="0" out="2636" />
+    </line>
+    <line lang1="- Non poteva essere un' autista d'autobus." someNumber="None" image="dg\130_001.gif" lang2="- Он не мог быть водителем автобуса.">
+      <audioTime in="2636" out="5706" />
+    </line>
+    <line lang1="Starà stato un bigliettaio." someNumber="None" image="dg\130_001.gif" lang2="Он, должно быть, был кондуктором.">
+      <audioTime in="5678" out="7594" />
+    </line>
+    <line lang1="- Era cinese o giapponese?" someNumber="None" image="dg\130_002.gif" lang2="- Она была китаянкой или японкой?">
+      <audioTime in="7605" out="9532" />
+    </line>
+    <line lang1="- Non poteva essere cinese." someNumber="None" image="dg\130_002.gif" lang2="- Она не могла быть китаянкой.">
+      <audioTime in="9734" out="11560" />
+    </line>
+    <line lang1="Sarà stato giapponese." someNumber="None" image="dg\130_002.gif" lang2="Она, должно быть, была японкой.">
+      <audioTime in="11560" out="13411" />
+    </line>
+    <line lang1="- Sentivano la radio o guardavano la TV?" someNumber="None" image="dg\130_003.gif" lang2="- Они слушали радио или смотрели телевизор?">
+      <audioTime in="13487" out="16023" />
+    </line>
+    <line lang1="- Non potevano sentire la radio." someNumber="None" image="dg\130_003.gif" lang2="- Они не могли слушать радио.">
+      <audioTime in="16023" out="18254" />
+    </line>
+    <line lang1="Avranno guardato la TV." someNumber="None" image="dg\130_003.gif" lang2="Они, должно быть, смотрели телевизор.">
+      <audioTime in="18254" out="19969" />
+    </line>
+    <line lang1="- Che giorno era ieri, il ventiquattro o il venticinque?" someNumber="None" image="dg\130_004.gif" lang2="- Вчера было 24-ое или 25-ое?">
+      <audioTime in="19876" out="23121" />
+    </line>
+    <line lang1="- Non poteva essere il ventiquattro." someNumber="None" image="dg\130_004.gif" lang2="- Это не могло быть 24-ое.">
+      <audioTime in="23323" out="25352" />
+    </line>
+    <line lang1="Sarà stato il venticinque." someNumber="850" image="dg\130_004.gif" lang2="Должно быть, было 25-ое.">
+      <audioTime in="25352" out="27203" />
+    </line>
+    <line lang1="- Erano inglesi o americani?" someNumber="None" image="dg\130_005.gif" lang2="- Они были англичанами или американцами?">
+      <audioTime in="27203" out="29145" />
+    </line>
+    <line lang1="- Non potevano essere inglesi." someNumber="None" image="dg\130_005.gif" lang2="- Они не могли быть англичанами.">
+      <audioTime in="29145" out="31267" />
+    </line>
+    <line lang1="Saranno stati americani." someNumber="None" image="dg\130_005.gif" lang2="Они, должно быть, были американцами.">
+      <audioTime in="31267" out="33118" />
+    </line>
+    <line lang1="- La tua matita era affilata o spuntata?" someNumber="840" image="dg\130_006.gif" lang2="- Твой карандаш был тупой или заточенный?">
+      <audioTime in="33118" out="35918" />
+    </line>
+    <line lang1="- Non poteva essere affilata." someNumber="None" image="dg\130_006.gif" lang2="- Он не мог быть заточенным.">
+      <audioTime in="35918" out="38131" />
+    </line>
+    <line lang1="Doveva essere spuntata." someNumber="None" image="dg\130_006.gif" lang2="Он, должно быть, был тупой.">
+      <audioTime in="38131" out="40298" />
+    </line>
+    <line lang1="- Ha spolverato il tavolo o ha scopato il pavimento?" someNumber="None" image="dg\130_007.gif" lang2="- Она вытирала стол или подметала пол?">
+      <audioTime in="40563" out="43606" />
+    </line>
+    <line lang1="- Non poteva spolverare il tavolo." someNumber="None" image="dg\130_007.gif" lang2="- Она не могла вытирать стол.">
+      <audioTime in="43606" out="45864" />
+    </line>
+    <line lang1="Avrà scopato il pavimento." someNumber="None" image="dg\130_007.gif" lang2="Она, должно быть, подметала пол.">
+      <audioTime in="45864" out="47985" />
+    </line>
+    <line lang1="- Era il più vecchio o il più giovane nella famiglia?" someNumber="None" image="dg\130_008.gif" lang2="- Он был самый старый или самый молодой в семье?">
+      <audioTime in="47985" out="50695" />
+    </line>
+    <line lang1="- Non poteva essere il più vecchio." someNumber="None" image="dg\130_008.gif" lang2="- Он не мог быть самым старым.">
+      <audioTime in="50695" out="52952" />
+    </line>
+    <line lang1="Sarà stato il più giovane." someNumber="None" image="dg\130_008.gif" lang2="Он, должно быть, был самый молодой.">
+      <audioTime in="52952" out="54714" />
+    </line>
+    <line lang1="- Aveva vent'anni o venticinque?" someNumber="None" image="dg\130_009.gif" lang2="- Ей было 20 или 25?">
+      <audioTime in="54714" out="57107" />
+    </line>
+    <line lang1="- Non poteva avere vent'anni." someNumber="None" image="dg\130_009.gif" lang2="- Ей не могло быть 20.">
+      <audioTime in="57107" out="59093" />
+    </line>
+    <line lang1="Ne avrà avuti venticinque." someNumber="None" image="dg\130_009.gif" lang2="Ей, должно быть, было 25.">
+      <audioTime in="59093" out="60899" />
+    </line>
+    <line lang1="- Erano meccanici o ingegneri?" someNumber="None" image="dg\130_010.gif" lang2="- Они были механики или инженеры?">
+      <audioTime in="60900" out="63293" />
+    </line>
+    <line lang1="- Non potevano essere meccanici." someNumber="None" image="dg\130_010.gif" lang2="- Они не могли быть механиками.">
+      <audioTime in="63293" out="65460" />
+    </line>
+    <line lang1="Saranno stati ingegneri." someNumber="None" image="dg\130_010.gif" lang2="Они, должно быть, были инженеры.">
+      <audioTime in="65460" out="67492" />
+    </line>
+  </lines>
+</lesson>

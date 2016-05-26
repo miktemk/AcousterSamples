@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="FR_061.wav" dlgName="В бюро авиакомпании" dlgFile="exr\frg061.txt" />
+  <lines>
+    <line lang1="- Bonjour, mademoiselle." someNumber="None" image="f.jpg" lang2="- Здравствуйте!">
+      <audioTime in="0" out="2135" />
+    </line>
+    <line lang1="Est-ce que je peux avoir une place dans l'avion qui part pour Varsovie à 9 h. 15?" someNumber="None" image="f.jpg" lang2="Можно ли получить одно место в самолёте, который улетает в Варшаву в 9 часов 15 минут?">
+      <audioTime in="2135" out="8423" />
+    </line>
+    <line lang1="- Pour quel jour voulez-vous avoir cette place?" someNumber="None" image="f.jpg" lang2="- На какой день вы хотите получить это место?">
+      <audioTime in="8423" out="11535" />
+    </line>
+    <line lang1="- Pour mardi." someNumber="None" image="f.jpg" lang2="- На вторник.">
+      <audioTime in="11535" out="13025" />
+    </line>
+    <line lang1="- Je regrette beaucoup, mais toutes les places sont déjà retenues pour mardi." someNumber="None" image="f.jpg" lang2="- Сожалею, но все места на вторник уже заказаны.">
+      <audioTime in="13025" out="18321" />
+    </line>
+    <line lang1="- Alors, donnez-moi une place dans l'avion qui part vendredi." someNumber="None" image="f.jpg" lang2="- Тогда, пожалуйста, один билет на самолёт, который улетает в пятницу.">
+      <audioTime in="18321" out="22776" />
+    </line>
+    <line lang1="- Votre passeport, s'il vous plaît." someNumber="None" image="f.jpg" lang2="- Ваш паспорт, пожалуйста.">
+      <audioTime in="22776" out="24875" />
+    </line>
+    <line lang1="- Le voilà, mademoiselle..." someNumber="None" image="f.jpg" lang2="- Пожалуйста, м-ль...">
+      <audioTime in="24875" out="27037" />
+    </line>
+    <line lang1="A quelle heure faut-il se présenter à la station de départ?" someNumber="None" image="f.jpg" lang2="Во сколько часов надо явиться на станцию отправления?">
+      <audioTime in="27037" out="31749" />
+    </line>
+    <line lang1="- Vous vous présenterez à l'aérogare de Paris à 7 h. 55." someNumber="None" image="f.jpg" lang2="- Явитесь на парижский аэровокзал в 7 часов 55 минут.">
+      <audioTime in="31749" out="37335" />
+    </line>
+    <line lang1="Et de là on vous conduira en autocar à l'aérodrome du Bourgée." someNumber="None" image="f.jpg" lang2="И оттуда автобус вас довезет на аэродром Бурже.">
+      <audioTime in="37335" out="42486" />
+    </line>
+    <line lang1="- Combien de temps dure le vol?" someNumber="None" image="f.jpg" lang2="- Сколько часов продлится наш полет?">
+      <audioTime in="42486" out="45417" />
+    </line>
+    <line lang1="- Environ six heures." someNumber="None" image="f.jpg" lang2="- Около 6 часов.">
+      <audioTime in="45417" out="47331" />
+    </line>
+    <line lang1="L'avion atterrira à l'aérodrome de Varsovie à 15 h. 50." someNumber="None" image="f.jpg" lang2="Самолёт приземляется на аэродроме в Варшаве в 15 часов 50 минут.">
+      <audioTime in="47331" out="53427" />
+    </line>
+    <line lang1="Voici votre billet." someNumber="None" image="f.jpg" lang2="Вот ваш билет.">
+      <audioTime in="53427" out="55161" />
+    </line>
+    <line lang1="- Je vous remercie." someNumber="None" image="f.jpg" lang2="- Благодарю вас.">
+      <audioTime in="55161" out="56805" />
+    </line>
+    <line lang1="Au revoir, mademoiselle." someNumber="None" image="f.jpg" lang2="До свидания, мадемуазель.">
+      <audioTime in="56805" out="59257" />
+    </line>
+  </lines>
+</lesson>

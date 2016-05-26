@@ -1,0 +1,62 @@
+<lesson>
+  <header wav="f_135.wav" dic="p135" dlgName="Репортаж." dlgFile="exr\fg134.txt" author="Alexander" />
+  <lines>
+    <line lang1="- C'est vrai que vous voulez prendre votre retraite, madame Sagan?" someNumber="None" image="dg\135_001.gif" lang2="- Это правда, что вы хотите уйти на пенсию, г-жа Саган?">
+      <audioTime in="0" out="3335" />
+    </line>
+    <line lang1="- Peut-être." someNumber="None" image="dg\135_001.gif" lang2="- Может быть.">
+      <audioTime in="3335" out="4371" />
+    </line>
+    <line lang1="Je n'ai pas encore décidé." someNumber="780" image="dg\135_001.gif" lang2="Я ещё не решила.">
+      <audioTime in="4371" out="5929" />
+    </line>
+    <line lang1="Je dois demander l'avis de mon futur mari." someNumber="None" image="dg\135_001.gif" lang2="Я должна спросить мнение моего будущего мужа.">
+      <audioTime in="5929" out="8233" />
+    </line>
+    <line lang1="Il ne veut pas que je fasse des films." someNumber="None" image="dg\135_001.gif" lang2="Он не хочет, чтобы я делала фильмы.">
+      <audioTime in="8233" out="10081" />
+    </line>
+    <line lang1="- Votre futur mari?" someNumber="None" image="dg\135_002.gif" lang2="- Ваш будущий муж?">
+      <audioTime in="10081" out="11725" />
+    </line>
+    <line lang1="- Oui, permettez-moi de vous le présenter." someNumber="None" image="dg\135_002.gif" lang2="- Да, разрешите мне представить его вам.">
+      <audioTime in="11725" out="13864" />
+    </line>
+    <line lang1="Il s'appelle Karlosse." someNumber="None" image="dg\135_002.gif" lang2="Его зовут Карлос.">
+      <audioTime in="13864" out="15073" />
+    </line>
+    <line lang1="Nous allons nous marier la semaine prochaine." someNumber="None" image="dg\135_002.gif" lang2="Мы поженимся на следующей неделе.">
+      <audioTime in="15073" out="17093" />
+    </line>
+    <line lang1="- Tiens, Nicole! Voilà un autre reportage sur mme Sagan." someNumber="60" image="dg\135_003.gif" lang2="- Смотри, Николь! Вот другой репортаж о г-же Саган.">
+      <audioTime in="17093" out="21416" />
+    </line>
+    <line lang1="Ecoute: &quot;Karen Marsh: Les dernières nouvelles." someNumber="None" image="dg\135_003.gif" lang2="Слушай: &quot;Карен Марш: Последние новости.">
+      <audioTime in="21416" out="26728" />
+    </line>
+    <line lang1="Dans son hôtel parisien mme Sagan racontait aux reporters," someNumber="None" image="dg\135_003.gif" lang2="В своём парижском особняке г-жа Саган рассказала репортёрам,">
+      <audioTime in="26728" out="28374" />
+    </line>
+    <line lang1="qu'elle voulait prendre sa retraite." someNumber="None" image="dg\135_003.gif" lang2="что она хочет уйти на пенсию.">
+      <audioTime in="28374" out="33020" />
+    </line>
+    <line lang1="Elle a dit qu'elle n'avait pas encore décidé." someNumber="None" image="dg\135_003.gif" lang2="Она сказала, она ещё не решила.">
+      <audioTime in="33020" out="35686" />
+    </line>
+    <line lang1="Elle a dit qu'elle devrait demander l'avis de son futur mari." someNumber="810" image="dg\135_004.gif" lang2="Она сказала, что должна будет спросить мнение своего будущего мужа.">
+      <audioTime in="35686" out="39180" />
+    </line>
+    <line lang1="Elle a dit que son futur mari ne lui permettrait pas de faire de films." someNumber="None" image="dg\135_004.gif" lang2="Она сказала, что её будущий муж не разрешит ей делать фильмы.">
+      <audioTime in="39180" out="43348" />
+    </line>
+    <line lang1="Puis elle nous a présentés Karlosse et nous a dit qu'ils se marieraient la semaine prochaine." someNumber="360" image="dg\135_004.gif" lang2="Затем она представила нам Карлоса и сказала нам, что они поженятся на следующей неделе&quot;.">
+      <audioTime in="43348" out="48890" />
+    </line>
+    <line lang1="C'est une nouvelle sensationnelle, n'est-ce pas, Catherine?" someNumber="None" image="dg\135_004.gif" lang2="Это сенсационная новость, не так ли, Катрин?">
+      <audioTime in="48890" out="52171" />
+    </line>
+    <line lang1="- Bien sûr. Il sera son sixième mari!" someNumber="700" image="dg\135_004.gif" lang2="- Конечно. Он будет её шестым мужем!">
+      <audioTime in="52171" out="55730" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,2 @@
+SRC_ROOT = C:\WS\_archeologicals\fra\Dialogs\dg
+DEST_ROOT = ../../zterminal.Platinum.fra/assets/xml

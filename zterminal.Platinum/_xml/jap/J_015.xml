@@ -1,0 +1,62 @@
+<lesson>
+  <header wav="J_015.wav" dlgName="Сколько (столов)?" dic="p015" />
+  <lines>
+    <line lang1="ーきょうしつ*に*つくえ*が*あります。" someNumber="None" image="015_001.jpg" lang2="- В аудитории есть письменные столы.">
+      <audioTime in="0" out="3476" />
+    </line>
+    <line lang1="いくつ*あります*か。" someNumber="37" image="015_001.jpg" lang2="Сколько их?">
+      <audioTime in="3476" out="5948" />
+    </line>
+    <line lang1="ーひとつ、ふたつ、みっつ、よっつ、いつつ、" someNumber="32" image="015_001.jpg" lang2="- Один, два, три, четыре, пять,">
+      <audioTime in="5948" out="14203" />
+    </line>
+    <line lang1="むっつ、ななつ、やっつ、ここのつ、とお。" someNumber="32" image="015_001.jpg" lang2="шесть, семь, восемь, девять, десять.">
+      <audioTime in="14203" out="21713" />
+    </line>
+    <line lang1="とお*あります。" someNumber="None" image="015_001.jpg" lang2="Их десять.">
+      <audioTime in="21713" out="23947" />
+    </line>
+    <line lang1="ーいす*は*いくつ*あります*か。" someNumber="None" image="015_001.jpg" lang2="- А стульев сколько?">
+      <audioTime in="23947" out="27476" />
+    </line>
+    <line lang1="ー一つ、二つ、三つ、四つ、五つ、六つ、" someNumber="32" image="015_001.jpg" lang2="- Один, два, три, четыре, пять, шесть,">
+      <audioTime in="27476" out="37009" />
+    </line>
+    <line lang1="七つ、八つ、九つ、十、十一、十二。" someNumber="32" image="015_001.jpg" lang2="семь, восемь, девять, десять, одиннадцать, двенадцать.">
+      <audioTime in="37034" out="46218" />
+    </line>
+    <line lang1="十二*あります。" someNumber="None" image="015_001.jpg" lang2="Их двенадцать.">
+      <audioTime in="46218" out="48863" />
+    </line>
+    <line lang1="ー日本*は*しま*国*です。" someNumber="162" image="015_010.jpg" lang2="- Япония - островная страна.">
+      <audioTime in="48863" out="54841" />
+    </line>
+    <line lang1="大きい*しま*は*いくつ*あります*か。" someNumber="None" image="015_010.jpg" lang2="Сколько имеется больших островов?">
+      <audioTime in="54841" out="58695" />
+    </line>
+    <line lang1="ー四つ*あります。" someNumber="32" image="015_012.jpg" lang2="- Четыре.">
+      <audioTime in="58695" out="62868" />
+    </line>
+    <line lang1="小さい*しま*は*三*千*ぐらい*あります。" someNumber="43" image="015_012.jpg" lang2="Маленьких островов - примерно три тысячи.">
+      <audioTime in="62868" out="68039" />
+    </line>
+    <line lang1="―いらっしゃいませ。" someNumber="128" image="015_014.jpg" lang2="- Добро пожаловать!">
+      <audioTime in="68039" out="73585" />
+    </line>
+    <line lang1="―ハンバーガー*を*三つ、ジュース*を*二つ*と*コーラ*を*一つ*ください。" someNumber="05" image="015_015.jpg" lang2="- Дайте пожалуйста три гамбургера, два сока и одну колу.">
+      <audioTime in="73585" out="81947" />
+    </line>
+    <line lang1="―はい。ハンバーガー*が*三つ、ジュース*が*二つ、" someNumber="166" image="015_016.jpg" lang2="- Понятно. Три гамбургера, два сока">
+      <audioTime in="81947" out="89529" />
+    </line>
+    <line lang1="コーラ*が*一つ*です*ね。" someNumber="None" image="015_016.jpg" lang2="и одну колу, не так ли?">
+      <audioTime in="89529" out="92522" />
+    </line>
+    <line lang1="―すみません。コーラ*を*もう*一つ*ください。" someNumber="144" image="015_018.jpg" lang2="- Простите, дайте ещё одну колу.">
+      <audioTime in="92522" out="97203" />
+    </line>
+    <line lang1="―はい。コーラ*が*二つ*です*ね。" someNumber="None" image="015_019.jpg" lang2="- Понятно. Значит две колы, не так ли?">
+      <audioTime in="97203" out="102458" />
+    </line>
+  </lines>
+</lesson>

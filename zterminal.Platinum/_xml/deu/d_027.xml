@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="d_027.wav" dic="p027" dlgName="Гостиная." dlgFile="exr\dg027.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Frau Müllers Wohnzimmer #ist groß." someNumber="200" image="dg\027_001.gif" lang2="- Гостиная госпожи Мюллер большая.">
+      <audioTime in="528" out="3112" />
+    </line>
+    <line lang1="- Im Zimmer #gibt es einen Fernseher." someNumber="810" image="dg\027_002.gif" lang2="- В комнате телевизор.">
+      <audioTime in="3347" out="5696" />
+    </line>
+    <line lang1="- Der Fernseher #ist neben dem Fenster." someNumber="810" image="dg\027_002.gif" lang2="- Телевизор рядом с окном.">
+      <audioTime in="6049" out="8162" />
+    </line>
+    <line lang1="- Auf dem Fernseher #sind einige Zeitschriften." someNumber="380" image="dg\027_003.gif" lang2="- На телевизоре несколько журналов.">
+      <audioTime in="8691" out="12038" />
+    </line>
+    <line lang1="- Im Zimmer #gibt es einen Tisch." someNumber="360" image="dg\027_004.gif" lang2="- В комнате есть стол.">
+      <audioTime in="12626" out="14740" />
+    </line>
+    <line lang1="- Auf dem Tisch #liegen einige Zeitungen." someNumber="900" image="dg\027_005.gif" lang2="- На столе лежит несколько газет.">
+      <audioTime in="15210" out="17618" />
+    </line>
+    <line lang1="- Im Zimmer #gibt es einige Sessel." someNumber="190" image="dg\027_006.gif" lang2="- В комнате несколько кресел.">
+      <audioTime in="18029" out="20907" />
+    </line>
+    <line lang1="Die Sessel #stehen neben dem Tisch." someNumber="190" image="dg\027_006.gif" lang2="Кресла находятся около стола.">
+      <audioTime in="21494" out="23608" />
+    </line>
+    <line lang1="- Im Zimmer #gibt es ein Radio." someNumber="360" image="dg\027_007.gif" lang2="- В комнате есть радио.">
+      <audioTime in="24019" out="26662" />
+    </line>
+    <line lang1="Das Radio #ist neben der Tür." someNumber="360" image="dg\027_007.gif" lang2="Радио около двери.">
+      <audioTime in="27132" out="30010" />
+    </line>
+    <line lang1="- Auf dem Radio #liegen einige Bücher." someNumber="550" image="dg\027_008.gif" lang2="- На радио лежит несколько книг.">
+      <audioTime in="30304" out="33533" />
+    </line>
+    <line lang1="- Im Zimmer #sind einige Bilder." someNumber="810" image="dg\027_009.gif" lang2="- В комнате есть несколько картин.">
+      <audioTime in="34062" out="36234" />
+    </line>
+    <line lang1="Die Bilder #sind an der Wand." someNumber="810" image="dg\027_009.gif" lang2="Картины на стене.">
+      <audioTime in="36352" out="38349" />
+    </line>
+  </lines>
+</lesson>

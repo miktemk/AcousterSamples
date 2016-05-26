@@ -1,0 +1,27 @@
+<stroke rgb="0xff0000">
+   <frame time="0" x="0.47754136" y="0.29039812" width="10" isNew="true"/>
+   <frame time="0" x="0.47517732" y="0.29508197" width="10" isNew="false"/>
+   <frame time="0" x="0.47754136" y="0.29508197" width="10" isNew="false"/>
+   <frame time="0" x="0.68085104" y="0.31850117" width="10" isNew="false"/>
+   <frame time="1" x="0.73758864" y="0.32552692" width="10" isNew="false"/>
+   <frame time="5" x="0.7825059" y="0.33021078" width="10" isNew="false"/>
+   <frame time="13" x="0.7990544" y="0.3325527" width="10" isNew="false"/>
+   <frame time="21" x="0.8132388" y="0.33723652" width="10" isNew="false"/>
+   <frame time="29" x="0.8250591" y="0.33957845" width="10" isNew="false"/>
+   <frame time="33" x="0.8345154" y="0.34192038" width="10" isNew="false"/>
+   <frame time="41" x="0.8416076" y="0.34192038" width="10" isNew="false"/>
+   <frame time="49" x="0.84869975" y="0.3442623" width="10" isNew="false"/>
+   <frame time="57" x="0.8534279" y="0.34660423" width="10" isNew="false"/>
+   <frame time="65" x="0.858156" y="0.34660423" width="10" isNew="false"/>
+   <frame time="73" x="0.86052006" y="0.34894612" width="10" isNew="false"/>
+   <frame time="285" x="0.7990544" y="0.2857143" width="10" isNew="true"/>
+   <frame time="285" x="0.9148936" y="0.33723652" width="10" isNew="false"/>
+   <frame time="285" x="0.9078014" y="0.34894612" width="10" isNew="false"/>
+   <frame time="285" x="0.89125293" y="0.36065573" width="10" isNew="false"/>
+   <frame time="289" x="0.85106385" y="0.38173303" width="10" isNew="false"/>
+   <frame time="297" x="0.8345154" y="0.3911007" width="10" isNew="false"/>
+   <frame time="305" x="0.820331" y="0.39812645" width="10" isNew="false"/>
+   <frame time="313" x="0.8108747" y="0.40515223" width="10" isNew="false"/>
+   <frame time="321" x="0.80614656" y="0.40983605" width="10" isNew="false"/>
+   <frame time="329" x="0.8014184" y="0.4145199" width="10" isNew="false"/>
+</stroke>

@@ -1,0 +1,104 @@
+<lesson>
+  <header wav="J_049.wav" dlgName="Идите к доске!" dic="p049" />
+  <lines>
+    <line lang1="ー皆*さん、お早よう*ございます。" someNumber="None" image="049_001.jpg" lang2="- Доброе утро всем!">
+      <audioTime in="0" out="3165" />
+    </line>
+    <line lang1="すわって*下さい。" someNumber="83" image="049_002.jpg" lang2="Садитесь.">
+      <audioTime in="3165" out="5621" />
+    </line>
+    <line lang1="林*くん、暑い*です*から、まど*を*開けて*下さい。" someNumber="154" image="049_002.jpg" lang2="Хаяси-кун, отройте окно, потому что жарко.">
+      <audioTime in="5621" out="9990" />
+    </line>
+    <line lang1="ありがとう。" someNumber="None" image="049_004.jpg" lang2="Спасибо.">
+      <audioTime in="9990" out="12179" />
+    </line>
+    <line lang1="こくばん*の*所*へ*行って*下さい。" someNumber="None" image="049_005.jpg" lang2="Идите к доске!">
+      <audioTime in="12179" out="15379" />
+    </line>
+    <line lang1="黒板*を*けして*下さい。" someNumber="75" image="049_006.jpg" lang2="Сотрите с доски!">
+      <audioTime in="15379" out="18545" />
+    </line>
+    <line lang1="チョーク*を*取って*下さい。" someNumber="133" image="049_007.jpg" lang2="Возьмите мел!">
+      <audioTime in="18545" out="21963" />
+    </line>
+    <line lang1="黒板*に*しゅくだい*を*書いて*下さい。" someNumber="None" image="049_008.jpg" lang2="Напишите на доске домашнее задание!">
+      <audioTime in="21963" out="25870" />
+    </line>
+    <line lang1="もう*終わりました*か。" someNumber="None" image="049_008.jpg" lang2="Уже закончили?">
+      <audioTime in="25870" out="29036" />
+    </line>
+    <line lang1="正しい*でしょう*か。" someNumber="132" image="049_010.jpg" lang2="Правильно ли?">
+      <audioTime in="29036" out="31549" />
+    </line>
+    <line lang1="ゆかこ*さん*どう*思います*か。" someNumber="None" image="049_010.jpg" lang2="Юкако-сан, как Вы думаете?">
+      <audioTime in="31549" out="34637" />
+    </line>
+    <line lang1="まちがい*は*どこです*か。" someNumber="None" image="049_012.jpg" lang2="Где ошибка?">
+      <audioTime in="34637" out="37884" />
+    </line>
+    <line lang1="なおして*下さい。" someNumber="None" image="049_012.jpg" lang2="Исправьте!">
+      <audioTime in="37884" out="40720" />
+    </line>
+    <line lang1="じゃ、せき*に*もどって*下さい。" someNumber="04" image="049_014.jpg" lang2="Ладно, вернитесь на (свое) место.">
+      <audioTime in="40720" out="44440" />
+    </line>
+    <line lang1="みな*さん、教科書*の*５３ページ*を*開いて*下さい。" someNumber="None" image="049_015.jpg" lang2="Все откройте учебники на странице 53.">
+      <audioTime in="44440" out="50705" />
+    </line>
+    <line lang1="ひろし*くん、読んで*下さい。" someNumber="None" image="049_016.jpg" lang2="Хироси-кун, читайте!">
+      <audioTime in="50705" out="54978" />
+    </line>
+    <line lang1="皆*さん、聞いて*下さい。" someNumber="None" image="049_017.jpg" lang2="Все слушайте!">
+      <audioTime in="54978" out="58207" />
+    </line>
+    <line lang1="もっと*はっきり*読んで*下さい。" someNumber="112" image="049_018.jpg" lang2="Читайте более отчетливо!">
+      <audioTime in="58207" out="61818" />
+    </line>
+    <line lang1="けっこう*です。" someNumber="None" image="049_019.jpg" lang2="Достаточно.">
+      <audioTime in="61818" out="63799" />
+    </line>
+    <line lang1="今、新しい*ぶんぽう*を*教えます*から、ちゅうい*して*下さい。" someNumber="154" image="049_020.jpg" lang2="Сейчас (я) буду объяснять новую грамматику, так что будьте внимательны.">
+      <audioTime in="63799" out="69669" />
+    </line>
+    <line lang1="分かりました*か。" someNumber="None" image="049_021.jpg" lang2="Понятно?">
+      <audioTime in="69669" out="72426" />
+    </line>
+    <line lang1="しつもん*が*あります*か。" someNumber="None" image="049_022.jpg" lang2="Вопросы есть?">
+      <audioTime in="72426" out="75213" />
+    </line>
+    <line lang1="ー先生、これ*が*分かりませんでした。" someNumber="None" image="049_023.jpg" lang2="- Сэнсэй, (я) этого не понял.">
+      <audioTime in="75213" out="79278" />
+    </line>
+    <line lang1="もう*一度*教えて*下さい。" someNumber="None" image="049_024.jpg" lang2="Объясните, пожалуйста, ещё раз!">
+      <audioTime in="79278" out="81500" />
+    </line>
+    <line lang1="ーもう*一度*教えます*から、よく*聞いて*下さい。" someNumber="None" image="049_025.jpg" lang2="- Объясняю ещё раз, так что слушайте хорошенько!">
+      <audioTime in="81500" out="86706" />
+    </line>
+    <line lang1="それ*で*は、私*の*しつもん*に*こたえて*下さい。" someNumber="None" image="049_026.jpg" lang2="А теперь ответьте на мои вопросы!">
+      <audioTime in="86706" out="91295" />
+    </line>
+    <line lang1="林*くん、立って*下さい。" someNumber="None" image="049_027.jpg" lang2="Хаяси-кун, встаньте!">
+      <audioTime in="91295" out="94873" />
+    </line>
+    <line lang1="大き*な*こえ*で*こたえて*下さい。" someNumber="07" image="049_027.jpg" lang2="Отвечайте громко!">
+      <audioTime in="94873" out="98373" />
+    </line>
+    <line lang1="で*は*今日*は*これ*だけ*です。" someNumber="None" image="049_029.jpg" lang2="Ну ладно, на сегодня столько.">
+      <audioTime in="98373" out="101920" />
+    </line>
+    <line lang1="教室*を*かたづけて*下さい。" someNumber="None" image="049_029.jpg" lang2="Приберите в классе!">
+      <audioTime in="101920" out="105278" />
+    </line>
+    <line lang1="ドア*に*かぎ*を*かけて*下さい。" someNumber="None" image="049_031.jpg" lang2="Заприте дверь на ключ!">
+      <audioTime in="105278" out="108715" />
+    </line>
+    <line lang1="さようなら。" someNumber="None" image="049_032.jpg" lang2="До свидания!">
+      <audioTime in="108715" out="111267" />
+    </line>
+    <line lang1="さようなら、先生。" someNumber="None" image="049_032.jpg" lang2="- До свидания, сэнсэй!">
+      <audioTime in="111267" out="115004" />
+    </line>
+  </lines>
+</lesson>

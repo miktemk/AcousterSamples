@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="j_105.wav" dlgName="Я заснул в электричке!" dic="p105" />
+  <lines>
+    <line lang1="ーひろし、宿題*は*しちゃった*の？" someNumber="None" image="105_001.jpg" lang2="- Хироси, домашнее задание сделал?">
+      <audioTime in="597" out="3274" />
+    </line>
+    <line lang1="ーうん、もう*やっちゃった。" someNumber="80" image="105_002.jpg" lang2="- Ага. Уже закончил.">
+      <audioTime in="3274" out="5320" />
+    </line>
+    <line lang1="ー洋子*ちゃん、あの*かわいい*猫*は*どこ？" someNumber="None" image="105_003.jpg" lang2="- Еко-тян, где та хорошенькая кошечка?">
+      <audioTime in="5320" out="13161" />
+    </line>
+    <line lang1="ー先月、死んじゃった。" someNumber="None" image="105_004.jpg" lang2="- Околела в прошлом месяце.">
+      <audioTime in="13161" out="16312" />
+    </line>
+    <line lang1="ーええっ、ごめん*ね。" someNumber="None" image="105_005.jpg" lang2="- Ах, что ты, прости!">
+      <audioTime in="16312" out="18958" />
+    </line>
+    <line lang1="―ただいま。" someNumber="None" image="105_006.jpg" lang2="- А вот и я!">
+      <audioTime in="18958" out="22218" />
+    </line>
+    <line lang1="ーお帰り*なさい。ボーッ*と*した*顔*して*どうした*の？" someNumber="114" image="105_006.jpg" lang2="- С возвращением! Какое заспанное лицо! В чем дело?">
+      <audioTime in="22218" out="28606" />
+    </line>
+    <line lang1="ー途中、電車*で*眠っちゃった。" someNumber="None" image="105_008.jpg" lang2="- По дороге заснул в электричке.">
+      <audioTime in="28606" out="32164" />
+    </line>
+    <line lang1="ー昨日*も*電車*で*眠っちゃったって*言っていた*わ*ね。" someNumber="80" image="105_008.jpg" lang2="- Ты и вчера сказал, что заснул в электричке!">
+      <audioTime in="32164" out="35978" />
+    </line>
+    <line lang1="あら、傘*は？" someNumber="None" image="105_010.jpg" lang2="Эй, а зонтик где?">
+      <audioTime in="35978" out="38260" />
+    </line>
+    <line lang1="ー電車*に*忘れちゃった*みたい。" someNumber="106" image="105_011.jpg" lang2="- Похоже, забыл в электричке.">
+      <audioTime in="38260" out="41160" />
+    </line>
+    <line lang1="ー武、昨日*の*試合*は*どうだった*の？" someNumber="None" image="105_012.jpg" lang2="- Такэси, как прошёл вчерашний матч?">
+      <audioTime in="41160" out="46962" />
+    </line>
+    <line lang1="ー負けちゃった、やっぱり。４対５。" someNumber="None" image="105_013.jpg" lang2="- Проиграли. Как и ожидалось! 4:5.">
+      <audioTime in="46962" out="51328" />
+    </line>
+    <line lang1="―残念*だった*わ*ね。" someNumber="None" image="105_014.jpg" lang2="- Как жаль!">
+      <audioTime in="51173" out="53107" />
+    </line>
+    <line lang1="ーうん。がっかりしちゃった。" someNumber="114" image="105_015.jpg" lang2="- Ага! Мне так обидно!">
+      <audioTime in="53107" out="55104" />
+    </line>
+    <line lang1="ー次*は*がんばって。" someNumber="None" image="105_016.jpg" lang2="- Постарайся в следующий раз!">
+      <audioTime in="55104" out="56898" />
+    </line>
+    <line lang1="ー今度*は*サッカー*を*止めて、野球*に*しよう。" someNumber="None" image="105_017.jpg" lang2="- Я бросаю футбол и в следующий раз буду играть в бейсбол!">
+      <audioTime in="56898" out="61977" />
+    </line>
+  </lines>
+</lesson>

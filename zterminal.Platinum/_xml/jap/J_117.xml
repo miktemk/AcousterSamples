@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="j_117.wav" dlgName="С Новым годом!" dic="p117" />
+  <lines>
+    <line lang1="ーイリナ*さん、あけまし*ておめでとう。" someNumber="128" image="117_001.jpg" lang2="- Ирина-сан, с Новым годом!">
+      <audioTime in="0" out="4188" />
+    </line>
+    <line lang1="ーあけまして*おめでとう*ございます。" someNumber="None" image="117_001.jpg" lang2="- С Новым годом!">
+      <audioTime in="4188" out="7972" />
+    </line>
+    <line lang1="昨年中*は*いろいろ*お世話*に*なりました。" someNumber="None" image="117_003.jpg" lang2="Вы оказали мне много услуг в прошлом году!">
+      <audioTime in="7972" out="11172" />
+    </line>
+    <line lang1="今年*も*どうぞ*よろしく。" someNumber="None" image="117_003.jpg" lang2="И в этом году прошу любить и жаловать!">
+      <audioTime in="11172" out="13489" />
+    </line>
+    <line lang1="ーこちら*こそ。" someNumber="122" image="117_003.jpg" lang2="- Взаимно.">
+      <audioTime in="13489" out="14857" />
+    </line>
+    <line lang1="イリナ*さん、日本*の*お正月*休み*は*どう*でした*か。" someNumber="None" image="117_003.jpg" lang2="Ирина-сан, как прошли японские новогодние каникулы?">
+      <audioTime in="14857" out="19651" />
+    </line>
+    <line lang1="ー面白かった*です。" someNumber="None" image="117_003.jpg" lang2="- Было интересно.">
+      <audioTime in="19651" out="21837" />
+    </line>
+    <line lang1="初めて*です*から、できる*だけ*いろいろ*な*こと*を*経験しよう*と*思いました。" someNumber="93" image="117_008.jpg" lang2="Это было впервые, поэтому я старалась, по возможности, набраться опыта.">
+      <audioTime in="21837" out="27389" />
+    </line>
+    <line lang1="まず、年賀状*を*書いて、" someNumber="None" image="117_009.jpg" lang2="Сначала я написала новогодние поздравительные открытки,">
+      <audioTime in="27389" out="30478" />
+    </line>
+    <line lang1="大家*さん*の*大掃除*に*参加して、" someNumber="None" image="117_010.jpg" lang2="приняла участие в генеральной уборке с хозяевами дома,">
+      <audioTime in="30478" out="33043" />
+    </line>
+    <line lang1="それ*から*おもち*を*つきました。" someNumber="None" image="117_011.jpg" lang2="потом толкла моти.">
+      <audioTime in="33043" out="35580" />
+    </line>
+    <line lang1="ーそう*です*か。" someNumber="None" image="117_011.jpg" lang2="- Вот как!">
+      <audioTime in="35580" out="38053" />
+    </line>
+    <line lang1="神様*を*丁寧*に*迎えない*と" someNumber="086" image="117_013.jpg" lang2="Если не встретить богов как следует,">
+      <audioTime in="38053" out="41187" />
+    </line>
+    <line lang1="新しい*年*は*不幸*に*なって*しまう*と*信じられています。" someNumber="95" image="117_013.jpg" lang2="то Новый год будет несчастливым, - так верят люди.">
+      <audioTime in="41187" out="44718" />
+    </line>
+    <line lang1="どの*ぐらい*年賀状*を*書きました*か。" someNumber="None" image="117_015.jpg" lang2="Сколько примерно новогодних поздравительных открыток Вы написали?">
+      <audioTime in="44718" out="47901" />
+    </line>
+    <line lang1="ー１０枚*ぐらい*出しました。" someNumber="34" image="117_016.jpg" lang2="- Отправила примерно 10 штук.">
+      <audioTime in="47901" out="50944" />
+    </line>
+    <line lang1="鈴木*さん*は*もっと*多い*でしょう。" someNumber="None" image="117_016.jpg" lang2="Судзуки-сан, а Вы, наверное, больше.">
+      <audioTime in="50944" out="54033" />
+    </line>
+    <line lang1="―私*は*毎年*少なくても*３０枚*ぐらい*出します。" someNumber="087" image="117_018.jpg" lang2="- Я отправляю каждый год, самое меньшее, штук 30.">
+      <audioTime in="54033" out="58430" />
+    </line>
+    <line lang1="新聞*に*よる*と、今年*４２億*３５００万*枚*年賀状*が*発売されました。" someNumber="33" image="117_019.jpg" lang2="Согласно сообщению в газете, в этом году было продано 4 235 000 000 открыток.">
+      <audioTime in="58430" out="65436" />
+    </line>
+    <line lang1="それ*は*去年*より*約*６千*万*枚*多い*そう*です。" someNumber="106" image="117_019.jpg" lang2="Говорят, что это на 60 000 000 открыток больше, чем в прошлом году.">
+      <audioTime in="65436" out="69852" />
+    </line>
+    <line lang1="―信じられない。" someNumber="94" image="117_019.jpg" lang2="- В это невозможно поверить!">
+      <audioTime in="69791" out="71377" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="117_019.jpg" lang2="- В самом деле!">
+      <audioTime in="71377" out="72743" />
+    </line>
+    <line lang1="イリナ*さん*の*部屋*も*玄関*も*ちゃんと*お正月*の*準備*が*できています*ね。" someNumber="None" image="117_023.jpg" lang2="Ваша комната и вход тщательно подготовлены к встрече Нового года, не так ли?">
+      <audioTime in="72743" out="78422" />
+    </line>
+    <line lang1="門松*は*ご自分*で*作ったん*です*か。" someNumber="15" image="117_024.jpg" lang2="Вы сами сделали Новогоднее украшение?">
+      <audioTime in="78422" out="81461" />
+    </line>
+    <line lang1="ーいいえ、店*で*買って、大家さん*に*立てて*もらった*ん*です。" someNumber="103" image="117_024.jpg" lang2="- Нет, я купила в магазине, а установили хозяева.">
+      <audioTime in="81461" out="86398" />
+    </line>
+    <line lang1="意味*も*教えて*もらいました。" someNumber="103" image="117_024.jpg" lang2="И смысл объяснили.">
+      <audioTime in="86398" out="88759" />
+    </line>
+    <line lang1="一年中*緑*の*松*と、生命力*の*強い*竹*の*組み合わせ*は、" someNumber="None" image="117_027.jpg" lang2="Говорят, что сочетание вечнозеленой сосны и жизнестойкого бамбука">
+      <audioTime in="88759" out="95007" />
+    </line>
+    <line lang1="健康*で*長生き*を*願う*ため*だ*そう*です*ね。" someNumber="155" image="117_027.jpg" lang2="символизирует мольбу о здоровой и долгой жизни.">
+      <audioTime in="95007" out="97891" />
+    </line>
+    <line lang1="ー地方*に*よって、しめ縄、だいだい、こんぶ、えび*など*が*ついた*さまざま*な*しめ飾り*を*必ず*玄関*の*入り口*の*上*に*掛けます。" someNumber="127" image="117_029.jpg" lang2="- В разных районах над входом обязательно вешают новогодние украшения, включающие священную веревку, кислый апельсин, морскую капусту, креветок и прочее.">
+      <audioTime in="97891" out="109587" />
+    </line>
+    <line lang1="―それ*も*幸福*の*象徴*です*か。" someNumber="None" image="117_029.jpg" lang2="- Это тоже символ счастья?">
+      <audioTime in="109587" out="113183" />
+    </line>
+    <line lang1="ーその*飾り*の*意味*は*いろいろ*です*ね。" someNumber="None" image="117_031.jpg" lang2="- У этих украшений различный смысл.">
+      <audioTime in="113183" out="116286" />
+    </line>
+    <line lang1="悪い*神様*を*追い出したり、災い*を*さけたり*する*ため*も*あります。" someNumber="None" image="117_031.jpg" lang2="Они также служат для того, чтоб прогнать плохих богов, избежать стихийных бедствий.">
+      <audioTime in="116286" out="121713" />
+    </line>
+  </lines>
+</lesson>

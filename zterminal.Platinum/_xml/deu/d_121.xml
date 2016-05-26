@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="d_121.wav" dic="p121" dlgName="В книжном магазине." dlgFile="exr\dg121.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ich #habe vor einer halben Stunde zwei teuere Wörterbücher #gekauft." someNumber="580" image="dg\121_001.gif" lang2="- Я купил полчаса назад два дорогих словаря.">
+      <audioTime in="442" out="4229" />
+    </line>
+    <line lang1="Aber ich #habe #vergessen, sie #mitzunehmen." someNumber="700" image="dg\121_001.gif" lang2="Но я забыл взять их с собой.">
+      <audioTime in="4418" out="6501" />
+    </line>
+    <line lang1="- Wer #hat Sie #bedient, mein Herr?" someNumber="400" image="dg\121_002.gif" lang2="- Кто обслуживал Вас, господин?">
+      <audioTime in="6816" out="8331" />
+    </line>
+    <line lang1="- Die Frau hinter dem Ladentisch." someNumber="810" image="dg\121_002.gif" lang2="- Женщина за прилавком.">
+      <audioTime in="8457" out="10162" />
+    </line>
+    <line lang1="- Was für Bücher #haben Sie #gekauft?" someNumber="400" image="dg\121_003.gif" lang2="- Какие книги Вы купили?">
+      <audioTime in="10604" out="12497" />
+    </line>
+    <line lang1="- Die Bücher, die auf dem Ladentisch #liegen!" someNumber="400" image="dg\121_003.gif" lang2="- Книги, которые лежат на прилавке.">
+      <audioTime in="12623" out="14896" />
+    </line>
+    <line lang1="- #Haben Sie diesen Herrn vor einer halben Stunde #bedient, Fräulein Christa?" someNumber="None" image="dg\121_004.gif" lang2="- Вы обслуживали этого господина полчаса назад, фрейлейн Криста?">
+      <audioTime in="15905" out="19629" />
+    </line>
+    <line lang1="Er #sagt, dass er der Mann #ist, der diese Bücher #gekauft #hat." someNumber="980" image="dg\121_004.gif" lang2="Он говорит, что он мужчина, который купил эти книги.">
+      <audioTime in="19882" out="23605" />
+    </line>
+    <line lang1="- Ich #kann mich daran nicht #erinnern, aber der Mann, den ich #bediente, #hatte einen Hut." someNumber="350" image="dg\121_004.gif" lang2="- Я не могу вспомнить, но у мужчины, которого я обслуживала, была шляпа.">
+      <audioTime in="23984" out="28970" />
+    </line>
+    <line lang1="- #Haben Sie einen Hut, mein Herr?" someNumber="None" image="dg\121_004.gif" lang2="- У Вас есть шляпа, господин?">
+      <audioTime in="29223" out="30801" />
+    </line>
+    <line lang1="- Ja, ich #habe einen." someNumber="None" image="dg\121_004.gif" lang2="- Да, есть одна.">
+      <audioTime in="30801" out="32189" />
+    </line>
+    <line lang1="- #Könnten Sie ihn nicht, bitte, #aufsetzen?" someNumber="None" image="dg\121_004.gif" lang2="- Не могли бы Вы её надеть, пожалуйста?">
+      <audioTime in="32253" out="34272" />
+    </line>
+    <line lang1="- Bitte." someNumber="None" image="dg\121_004.gif" lang2="- Пожалуйста.">
+      <audioTime in="34272" out="35401" />
+    </line>
+    <line lang1="- #Ist er der Mann, den Sie #bedient #haben, Fräulein Christa?" someNumber="None" image="dg\121_006.gif" lang2="- Это тот мужчина, которого Вы обслуживали, фрейлейн Криста?">
+      <audioTime in="35345" out="39006" />
+    </line>
+    <line lang1="- Ja, mein Herr." someNumber="None" image="dg\121_006.gif" lang2="- Да, господин.">
+      <audioTime in="39006" out="40090" />
+    </line>
+    <line lang1="Jetzt #erkenne ich Sie." someNumber="None" image="dg\121_006.gif" lang2="Теперь я узнаю Вас.">
+      <audioTime in="40090" out="41400" />
+    </line>
+  </lines>
+</lesson>

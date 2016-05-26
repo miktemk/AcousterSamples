@@ -1,0 +1,56 @@
+<lesson>
+  <header wav="FR_066.wav" dlgName="В горах" dlgFile="exr\frg066.txt" />
+  <lines>
+    <line lang1="- Quels beaux paysages..." someNumber="None" image="f.jpg" lang2="- Какие прекрасные пейзажи...">
+      <audioTime in="0" out="2189" />
+    </line>
+    <line lang1="Et comme on respire bien ici." someNumber="None" image="f.jpg" lang2="И как легко здесь дышится.">
+      <audioTime in="2189" out="4806" />
+    </line>
+    <line lang1="- En effet..." someNumber="None" image="f.jpg" lang2="- Действительно...">
+      <audioTime in="4806" out="6079" />
+    </line>
+    <line lang1="Mais allons plus loin." someNumber="None" image="f.jpg" lang2="Но идем дальше.">
+      <audioTime in="6079" out="8238" />
+    </line>
+    <line lang1="Là-bas, au bout du chemin, nous verrons un grand lec." someNumber="None" image="f.jpg" lang2="Там в конце пути мы увидим большое озеро.">
+      <audioTime in="8238" out="12766" />
+    </line>
+    <line lang1="- Je te suivrai avec plaisir, mais je suis un peu fatiguée." someNumber="None" image="f.jpg" lang2="- Я пойду с тобой с удовольствием, но я немного устала.">
+      <audioTime in="12766" out="18134" />
+    </line>
+    <line lang1="Prête-moi ton bâton." someNumber="None" image="f.jpg" lang2="Одолжи мне свою палку.">
+      <audioTime in="18134" out="20331" />
+    </line>
+    <line lang1="- Le voici. Prends-le et suis-moi." someNumber="None" image="f.jpg" lang2="- Пожалуйста. Бери её и иди за мной.">
+      <audioTime in="20331" out="23694" />
+    </line>
+    <line lang1="Le lac n'est pas loin." someNumber="None" image="f.jpg" lang2="Озеро недалеко.">
+      <audioTime in="23694" out="25969" />
+    </line>
+    <line lang1="Il est derrière la forêt que tu vois là-bas." someNumber="None" image="f.jpg" lang2="Оно за тем лесом, который ты там видишь.">
+      <audioTime in="25969" out="29301" />
+    </line>
+    <line lang1="- Monterons-nous très haut?" someNumber="None" image="f.jpg" lang2="- Очень высоко мы поднимемся?">
+      <audioTime in="29301" out="31302" />
+    </line>
+    <line lang1="- Non, parce que je ne connais pas bien le chemin, et il est déjà tard." someNumber="None" image="f.jpg" lang2="- Нет, потому что я не очень хорошо знаю дорогу, и уже поздно.">
+      <audioTime in="31302" out="36546" />
+    </line>
+    <line lang1="Demain, si tu veux, nous nous lèverons un peu plus tôt et nous reniendrons au même endroit." someNumber="None" image="f.jpg" lang2="Завтра, если хочешь, мы встанем пораньше и вернёмся на это же место.">
+      <audioTime in="36546" out="43581" />
+    </line>
+    <line lang1="- Et s'il fait mauvais temps?" someNumber="None" image="f.jpg" lang2="- А если будет плохая погода?">
+      <audioTime in="43581" out="45527" />
+    </line>
+    <line lang1="- S'il fait mauvais temps, nous partirons quand même." someNumber="None" image="f.jpg" lang2="- Даже если будет плохая погода, мы всё равно выйдем.">
+      <audioTime in="45527" out="48496" />
+    </line>
+    <line lang1="Est-ce que tu as peur de l'orage?" someNumber="None" image="f.jpg" lang2="Ты боишься грозы?">
+      <audioTime in="48496" out="51258" />
+    </line>
+    <line lang1="- Oui, j'ai peur du bruit du tonnerre et des éclairs." someNumber="None" image="f.jpg" lang2="- Да, я боюсь ударов грома и молний.">
+      <audioTime in="51258" out="55305" />
+    </line>
+  </lines>
+</lesson>

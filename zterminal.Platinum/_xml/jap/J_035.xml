@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_035.wav" dlgName="Хочу купить кимоно" dic="p035" />
+  <lines>
+    <line lang1="―広い*みせ*です*ね。" someNumber="None" image="035_001.jpg" lang2="- Какой большой магазин, не правда ли!">
+      <audioTime in="0" out="2310" />
+    </line>
+    <line lang1="ぜんぶ*おみやげ*です*か。" someNumber="None" image="035_002.jpg" lang2="(Это) все сувениры?">
+      <audioTime in="2310" out="4337" />
+    </line>
+    <line lang1="―そう*です*ね。外国人*の*おきゃくさん*の*ため*です。" someNumber="15" image="035_003.jpg" lang2="- Да, в самом деле. (Это все) для покупателей-иностранцев.">
+      <audioTime in="4337" out="8064" />
+    </line>
+    <line lang1="何か*ほしい*もの*が*あります*か。" someNumber="55" image="035_003.jpg" lang2="Чего-нибудь хочется?">
+      <audioTime in="8064" out="10629" />
+    </line>
+    <line lang1="―たくさん*あります。" someNumber="None" image="035_005.jpg" lang2="- Много чего.">
+      <audioTime in="10629" out="12800" />
+    </line>
+    <line lang1="たとえば、これがほしい。" someNumber="082" image="035_006.jpg" lang2="Например, хочу это.">
+      <audioTime in="12800" out="15146" />
+    </line>
+    <line lang1="かわいい*です*ね。これ*は*なん*です*か。" someNumber="None" image="035_006.jpg" lang2="Какой премиленький. Что это?">
+      <audioTime in="15146" out="18880" />
+    </line>
+    <line lang1="―それ*は*ふうりん*です。よわい*風*で*も*おと*が*します。" someNumber="None" image="035_006.jpg" lang2="- Это колокольчик. (Он) звенит даже от слабого ветра.">
+      <audioTime in="18880" out="23372" />
+    </line>
+    <line lang1="あつい*なつ*に*すずしい*かんじ*が*します。" someNumber="None" image="035_006.jpg" lang2="Жарким летом возникает ощущение прохлады.">
+      <audioTime in="23372" out="26903" />
+    </line>
+    <line lang1="―じゃ、まず*ふうりん*を*かいたい*です。" someNumber="081" image="035_010.jpg" lang2="- Так, во-первых хочу купить колокольчик.">
+      <audioTime in="26903" out="30265" />
+    </line>
+    <line lang1="それ*から*きもの*も*かいたい*です。" someNumber="None" image="035_011.jpg" lang2="Затем хочу также купить кимоно.">
+      <audioTime in="30265" out="33527" />
+    </line>
+    <line lang1="きもの*は*高い*です*か。ちょっと*見ましょう。" someNumber="083" image="035_012.jpg" lang2="Дорого ли стоит кимоно? Давайте посмотрим!">
+      <audioTime in="33527" out="38384" />
+    </line>
+    <line lang1="ああ、すてき*な*きもの*です*ね。" someNumber="134" image="035_012.jpg" lang2="О! Какое прекрасное кимоно!">
+      <audioTime in="38384" out="41718" />
+    </line>
+    <line lang1="これ*が*ほしい*です。いくら*です*か。" someNumber="None" image="035_012.jpg" lang2="Хочу такое! Сколько стоит?">
+      <audioTime in="41718" out="45928" />
+    </line>
+    <line lang1="―ねだん*は*ここ*です。" someNumber="None" image="035_015.jpg" lang2="- Цена вот здесь.">
+      <audioTime in="45928" out="47854" />
+    </line>
+    <line lang1="―ええ？６万９千円です*か。" someNumber="None" image="035_015.jpg" lang2="- Что? 69 000 иен!">
+      <audioTime in="47689" out="52234" />
+    </line>
+    <line lang1="―そう*です。" someNumber="None" image="035_015.jpg" lang2="- Да.">
+      <audioTime in="52234" out="53235" />
+    </line>
+    <line lang1="―いい*です、いい*です。もう*ほしくない*です。" someNumber="082" image="035_015.jpg" lang2="- Ладно, ладно. Уже не хочу.">
+      <audioTime in="53235" out="56813" />
+    </line>
+    <line lang1="―きもの*は*きぬ*です。だ*から*たかい*です。" someNumber="120" image="035_019.jpg" lang2="- Кимоно из шёлка. Поэтому и дорого.">
+      <audioTime in="56813" out="60805" />
+    </line>
+    <line lang1="ゆかた*は*いかが*です*か。" someNumber="None" image="035_020.jpg" lang2="Как насчёт юката?">
+      <audioTime in="60805" out="63246" />
+    </line>
+    <line lang1="ゆかた*は*めん*です。だ*から*やすい*です。" someNumber="None" image="035_021.jpg" lang2="Юката из хлопка. Поэтому дёшево.">
+      <audioTime in="63246" out="66633" />
+    </line>
+    <line lang1="―ゆかた*が*ほしい*です。" someNumber="None" image="035_022.jpg" lang2="- Хочу юката.">
+      <audioTime in="66633" out="69679" />
+    </line>
+    <line lang1="―すてき*な*ゆかた*を*かいました*ね。" someNumber="None" image="035_023.jpg" lang2="- Какое красивое юката мы купили, правда!">
+      <audioTime in="69679" out="72987" />
+    </line>
+    <line lang1="よかった*です*ね。" someNumber="26" image="035_023.jpg" lang2="Как хорошо получилось!">
+      <audioTime in="72987" out="74786" />
+    </line>
+    <line lang1="ぼく、なに*か*のみたい*です。あなた*は？" someNumber="081" image="035_025.jpg" lang2="Я хочу чего-нибудь выпить. А Вы?">
+      <audioTime in="74786" out="78186" />
+    </line>
+    <line lang1="―私*は*のみたくない*です。アイスクリーム*が*ほしい*です。" someNumber="None" image="035_026.jpg" lang2="- Я пить не хочу. Я хочу мороженого.">
+      <audioTime in="78186" out="84165" />
+    </line>
+  </lines>
+</lesson>

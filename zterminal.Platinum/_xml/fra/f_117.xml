@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="f_117.wav" dic="p117" dlgName="Рене нашёл монеты." dlgFile="exr\fg117.txt" author="Alexander" />
+  <lines>
+    <line lang1="Quand mon mari est entré dans la salle à manger ce matin," someNumber="710" image="dg\117_001.gif" lang2="Когда мой муж вошел в столовую этим утром,">
+      <audioTime in="0" out="3086" />
+    </line>
+    <line lang1="il a laissé tomber quelques pièces sur le plancher." someNumber="710" image="dg\117_001.gif" lang2="он уронил несколько монет на пол.">
+      <audioTime in="3086" out="6056" />
+    </line>
+    <line lang1="Il y avait des pièces partout." someNumber="None" image="dg\117_002.gif" lang2="Монеты были повсюду.">
+      <audioTime in="6056" out="8163" />
+    </line>
+    <line lang1="Nous les avons cherchées, mais nous n'avons pas pu trouver toutes les pièces." someNumber="None" image="dg\117_002.gif" lang2="Мы их искали, но мы не смогли найти все монеты.">
+      <audioTime in="8163" out="12387" />
+    </line>
+    <line lang1="Pendant le déjeuner, notre petit Réné a trouvé deux pièces sur le plancher." someNumber="None" image="dg\117_003.gif" lang2="Во время обеда наш маленький Рене нашёл две монеты на полу.">
+      <audioTime in="12387" out="17237" />
+    </line>
+    <line lang1="Il les a mis dans sa bouche." someNumber="None" image="dg\117_004.gif" lang2="Он положил их себе в рот.">
+      <audioTime in="17237" out="19081" />
+    </line>
+    <line lang1="Nous avons essayé de les retirer, mais il était trop tard!" someNumber="780" image="dg\117_005.gif" lang2="Мы попытались их вытащить, но было слишком поздно.">
+      <audioTime in="19081" out="22873" />
+    </line>
+    <line lang1="Réné les avait avalées." someNumber="None" image="dg\117_006.gif" lang2="Рене их проглотил!">
+      <audioTime in="22873" out="24298" />
+    </line>
+    <line lang1="Le lendemain, quand je faisais la chambre, mon mari m'a téléphoné de son bureau." someNumber="None" image="dg\117_007.gif" lang2="На следующий день, когда я убирала комнату, мой муж позвонил мне из офиса.">
+      <audioTime in="24298" out="29716" />
+    </line>
+    <line lang1="&quot;Comment va Réné?&quot; a-t-il demandé." someNumber="None" image="dg\117_008.gif" lang2="&quot;Как себя чувствует Рене?&quot; - спросил он.">
+      <audioTime in="29716" out="32297" />
+    </line>
+    <line lang1="&quot;Je ne sais pas&quot; ai-je répondu." someNumber="None" image="dg\117_008.gif" lang2="&quot;Я не знаю&quot;,- ответила я.">
+      <audioTime in="32297" out="34131" />
+    </line>
+    <line lang1="&quot;Ce matin il est allé 3 fois aux cabinets, mais il n'y a pas de changement.&quot;" someNumber="810" image="dg\117_009.gif" lang2="&quot;Этим утром он ходил три раза в уборную, но (пока) нет никаких изменений!&quot;">
+      <audioTime in="34131" out="38989" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,98 @@
+<lesson>
+  <header wav="FR_058.wav" dlgName="Париж" dlgFile="exr\frg058.txt" />
+  <lines>
+    <line lang1="- Je ne reste qu'une semaine à Paris et je veux quand même connaître cette ville." someNumber="None" image="f.jpg" lang2="- Я буду в Париже только одну неделю и, несмотря на это, хочу познакомиться с этим городом.">
+      <audioTime in="0" out="5385" />
+    </line>
+    <line lang1="- Dans ce cas vous n'avez pas de temps à perdre." someNumber="None" image="f.jpg" lang2="- В таком случае вам нельзя терять времени.">
+      <audioTime in="5385" out="8544" />
+    </line>
+    <line lang1="Si vous voulez bien connaître Paris et ses habitants," someNumber="None" image="f.jpg" lang2="Если хотите хорошо ознакомиться с Парижем и его жителями,">
+      <audioTime in="8544" out="12261" />
+    </line>
+    <line lang1="permettez-moi d'être votre guide." someNumber="None" image="f.jpg" lang2="позвольте мне быть вашим гидом.">
+      <audioTime in="12261" out="14498" />
+    </line>
+    <line lang1="- Je veux bien. Mais que me montrerez vous?" someNumber="None" image="f.jpg" lang2="- С удовольствием. Ну, что вы мне покажете?">
+      <audioTime in="14498" out="17239" />
+    </line>
+    <line lang1="- Je vous montrerai tout d'abord les plus grands monuments de Paris:" someNumber="None" image="f.jpg" lang2="- Прежде всего я вам покажу самые большие памятники в Париже:">
+      <audioTime in="17239" out="21174" />
+    </line>
+    <line lang1="le Louvre, un des plus grands palais du monde..." someNumber="None" image="f.jpg" lang2="Лувр, один из громаднейших дворцов в мире...">
+      <audioTime in="21174" out="24532" />
+    </line>
+    <line lang1="- C'est aujourd'hui un musée." someNumber="None" image="f.jpg" lang2="- Сейчас это музей.">
+      <audioTime in="24532" out="26201" />
+    </line>
+    <line lang1="- Oui, c'est le plus grand musée de France." someNumber="None" image="f.jpg" lang2="- Да, это самый большой музей во Франции.">
+      <audioTime in="26201" out="29339" />
+    </line>
+    <line lang1="Je vous montrerai ensuite l'Arc de Triomphe de l'Etoile," someNumber="None" image="f.jpg" lang2="Затем я вам покажу на Площади Звезды Триумфальную Арку,">
+      <audioTime in="29339" out="33754" />
+    </line>
+    <line lang1="qui abrite le tombeau du soldat inconnu," someNumber="None" image="f.jpg" lang2="под которой находится могила Неизвестного Солдата,">
+      <audioTime in="33754" out="36931" />
+    </line>
+    <line lang1="le Pont-Neuf, qui est aujourd'hui le plus vieux pont de Paris," someNumber="None" image="f.jpg" lang2="Новый мост, который является самым старым мостом Парижа,">
+      <audioTime in="36931" out="41814" />
+    </line>
+    <line lang1="le Palais de l'Institut, où siège l'Académie Française," someNumber="None" image="f.jpg" lang2="Паледе-Энститю, где находится французская Академия,">
+      <audioTime in="41814" out="46669" />
+    </line>
+    <line lang1="le Panthéon sur la montagne Sainte-Geneviève, où sont enterrés les grands hommes," someNumber="None" image="f.jpg" lang2="Пантеон на холме Святой Женевьевы, где похоронены знатные люди,">
+      <audioTime in="46669" out="52707" />
+    </line>
+    <line lang1="et beaucoup d'autres monuments." someNumber="None" image="f.jpg" lang2="и много других памятников.">
+      <audioTime in="52707" out="54874" />
+    </line>
+    <line lang1="Mais Paris, voyez-vous, ce ne sont pas seulement les monuments." someNumber="None" image="f.jpg" lang2="Но Париж - это не только памятники.">
+      <audioTime in="54874" out="59747" />
+    </line>
+    <line lang1="Paris, ce sont encore les chansons, les spectacles, les plaisirs" someNumber="None" image="f.jpg" lang2="Париж - это песни, спектакли, развлечения и много других вещей,">
+      <audioTime in="59747" out="65624" />
+    </line>
+    <line lang1="et tant d'autres choses qu'on y vient chercher." someNumber="None" image="f.jpg" lang2="ради которых сюда приезжают.">
+      <audioTime in="65624" out="68454" />
+    </line>
+    <line lang1="- A propos, irons-nous à Montmartre?" someNumber="None" image="f.jpg" lang2="- Кстати, поедем ли мы на Монмартр?">
+      <audioTime in="68454" out="71430" />
+    </line>
+    <line lang1="- Si vous voulez." someNumber="None" image="f.jpg" lang2="- Если желаете.">
+      <audioTime in="71430" out="72457" />
+    </line>
+    <line lang1="C'est un quartier très fréquenté par les étrangers." someNumber="None" image="f.jpg" lang2="Это квартал очень часто посещаемый иностранцами.">
+      <audioTime in="72457" out="75604" />
+    </line>
+    <line lang1="Ils y viennent admirer les figurantes et les vedettes des cabarets," someNumber="None" image="f.jpg" lang2="Они часто приходят сюда, чтобы полюбоваться статистами и звездами кабаретов,">
+      <audioTime in="75604" out="80526" />
+    </line>
+    <line lang1="voir le French Cancan, bref prendre une idée du Paris nocturne." someNumber="None" image="f.jpg" lang2="увидеть Френч Канкан, короче говоря, познакомиться с ночным Парижем.">
+      <audioTime in="80526" out="86048" />
+    </line>
+    <line lang1="- Oui, du Paris qui s'amuse." someNumber="None" image="f.jpg" lang2="- Да, с Парижем, который развлекается.">
+      <audioTime in="86048" out="88387" />
+    </line>
+    <line lang1="Oui, la nuit Paris s'amuse." someNumber="None" image="f.jpg" lang2="Да, ночью Париж развлекается.">
+      <audioTime in="88387" out="90975" />
+    </line>
+    <line lang1="Mais le jour, Paris travaille: &quot;Les articles de Paris&quot; sont connus dans le monde entier." someNumber="None" image="f.jpg" lang2="Но днём Париж работает: &quot;Парижские изделия&quot; известны во всём мире.">
+      <audioTime in="90975" out="98070" />
+    </line>
+    <line lang1="- Mais qu'est-ce qu'on appelle, au juste &quot;articles de Paris&quot;?" someNumber="None" image="f.jpg" lang2="- Но что именно называют фактически &quot;парижскими изделиями&quot;?">
+      <audioTime in="98070" out="101980" />
+    </line>
+    <line lang1="- Ce sont ces plumes, ces fleurs, ces menus objets en cuir ou en métal," someNumber="None" image="f.jpg" lang2="- Это перья, цветы, мелкие кожаные и металлические изделия,">
+      <audioTime in="101980" out="107775" />
+    </line>
+    <line lang1="ces bracelets, ces colliers et ces boucles produits par les artisans de notre ville." someNumber="None" image="f.jpg" lang2="браслеты, ожерелья, серьги, сделанные ремесленниками нашего города.">
+      <audioTime in="107775" out="113740" />
+    </line>
+    <line lang1="Oui notre ville est belle non seulement par ses monuments," someNumber="None" image="f.jpg" lang2="Наш город красив, не только благодаря своим памятникам,">
+      <audioTime in="113740" out="118307" />
+    </line>
+    <line lang1="elle est belle par l'esprit et le travail de ses habitants." someNumber="None" image="f.jpg" lang2="но также благодаря остроумию жителей и и их труду.">
+      <audioTime in="118307" out="122812" />
+    </line>
+  </lines>
+</lesson>

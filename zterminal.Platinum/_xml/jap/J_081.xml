@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="j_081.wav" dlgName="Не умею писать красиво" dic="p081" />
+  <lines>
+    <line lang1="ー日本語*が*お上手*です*ね。" someNumber="None" image="081_001.jpg" lang2="- Как хорошо Вы говорите по-японски!">
+      <audioTime in="0" out="4144" />
+    </line>
+    <line lang1="どの*ぐらい*勉強しています*か。" someNumber="None" image="081_002.jpg" lang2="Сколько времени, примерно, (Вы) занимаетесь?">
+      <audioTime in="4144" out="7123" />
+    </line>
+    <line lang1="ー３ヵ月*ぐらい。でも、まだ*だめ*です。" someNumber="None" image="081_002.jpg" lang2="- Примерно 3 месяца. Но пока ничего не выходит.">
+      <audioTime in="7123" out="11555" />
+    </line>
+    <line lang1="ひらがな*と*かたかな*が*読めます。" someNumber="94" image="081_004.jpg" lang2="(Я) умею читать катакану и хирагану.">
+      <audioTime in="11555" out="14867" />
+    </line>
+    <line lang1="しかし、漢字*が*まだ*読めません。" someNumber="02" image="081_005.jpg" lang2="Но иероглифы читать пока не умею.">
+      <audioTime in="14867" out="17861" />
+    </line>
+    <line lang1="ー書く*こと*が*できます*か。" someNumber="None" image="081_006.jpg" lang2="- А писать умеете?">
+      <audioTime in="17861" out="21455" />
+    </line>
+    <line lang1="ーできます*が、きれい*な*字*が*書けません。" someNumber="None" image="081_007.jpg" lang2="- Умею, но красивых иероглифов писать не могу.">
+      <audioTime in="21455" out="25207" />
+    </line>
+    <line lang1="ー漢字*の*書き方*は*むずかしい*です*ね。" someNumber="94" image="081_008.jpg" lang2="- Писать иероглифы трудно, не так ли?">
+      <audioTime in="25207" out="29387" />
+    </line>
+    <line lang1="私達*は*きれい*に*書ける*まで*学校*で*ずっと*勉強しました。" someNumber="None" image="081_009.jpg" lang2="И мы, прежде чем научились писать красиво, долго учились в школе.">
+      <audioTime in="29387" out="34701" />
+    </line>
+    <line lang1="毎日*何回*も*書く*練習*を*しました*よ。" someNumber="None" image="081_009.jpg" lang2="Каждый день по много раз упражнялись в письме!">
+      <audioTime in="34701" out="38722" />
+    </line>
+    <line lang1="会話*は*どう*です*か。日本人*と*話せます*か。" someNumber="None" image="081_011.jpg" lang2="А как насчёт беседы? Можете поговорить с японцем?">
+      <audioTime in="38722" out="43281" />
+    </line>
+    <line lang1="ー話す*こと*が*できます*が、日本人*の*話*は*あまり*分かりません。" someNumber="94" image="081_012.jpg" lang2="- Я-то говорить могу, но разговор японцев почти не понимаю.">
+      <audioTime in="43281" out="49152" />
+    </line>
+    <line lang1="ーどうして*です*か。" someNumber="None" image="081_013.jpg" lang2="- Почему?">
+      <audioTime in="49152" out="50787" />
+    </line>
+    <line lang1="ー日本人*は*ていねい*な*言葉*を*たくさん*使っている*から*です。" someNumber="None" image="081_014.jpg" lang2="- Потому что японцы употребляют много вежливых слов.">
+      <audioTime in="50787" out="55854" />
+    </line>
+    <line lang1="ーけい語*です*か。" someNumber="None" image="081_014.jpg" lang2="- Вы имеете в виду вежливую речь?">
+      <audioTime in="55854" out="57916" />
+    </line>
+    <line lang1="外国人*に*は*一番*分かり*にくい*でしょう。" someNumber="None" image="081_016.jpg" lang2="Это, пожалуй, самое трудное для иностранцев.">
+      <audioTime in="57916" out="61257" />
+    </line>
+    <line lang1="私達*に*も*使い方*が*むずかしい*です。" someNumber="None" image="081_017.jpg" lang2="Употребление (вежливого языка) трудно и для нас.">
+      <audioTime in="61257" out="64992" />
+    </line>
+    <line lang1="最近*の*若者*は*けい語*が*できなくて、困っています。" someNumber="76" image="081_018.jpg" lang2="Современная молодежь, не зная вежливых форм, порой затрудняется.">
+      <audioTime in="64992" out="69807" />
+    </line>
+    <line lang1="明日、家*で*練習*を*しましょう。" someNumber="None" image="081_019.jpg" lang2="Давайте поупражняемся завтра у меня дома!">
+      <audioTime in="69807" out="74837" />
+    </line>
+    <line lang1="ーありがとう*ございます。" someNumber="None" image="081_020.jpg" lang2="- Большое спасибо!">
+      <audioTime in="74837" out="77104" />
+    </line>
+    <line lang1="ーところ*で、ロバノフ*さん*は*一人*で*地下鉄*に*乗れます*か。" someNumber="None" image="081_021.jpg" lang2="- Кстати, Лобанов-сан, сможете ли Вы сесть один на метро?">
+      <audioTime in="77104" out="81393" />
+    </line>
+    <line lang1="ー乗れる*と*思います。" someNumber="None" image="081_021.jpg" lang2="- Думаю, что смогу.">
+      <audioTime in="81393" out="83322" />
+    </line>
+    <line lang1="ー道*に*迷わないで*うち*へ*きて*下さい。" someNumber="75" image="081_023.jpg" lang2="- Не заблудитесь по дороге и приходите ко мне!">
+      <audioTime in="83322" out="87358" />
+    </line>
+  </lines>
+</lesson>

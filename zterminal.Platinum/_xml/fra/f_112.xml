@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_112.wav" dic="p112" dlgName="Красное яблоко слаще." dlgFile="exr\fg111.txt" author="Alexander" />
+  <lines>
+    <line lang1="- La pomme rouge est-elle plus douce que la pomme verte?" someNumber="50" image="dg\112_001.gif" lang2="- Красное яблоко слаще, чем зелёное яблоко?">
+      <audioTime in="0" out="2698" />
+    </line>
+    <line lang1="- Non, la pomme rouge est aussi douce que la pomme verte." someNumber="None" image="dg\112_001.gif" lang2="- Нет, красное яблоко такое же сладкое, как и зелёное яблоко.">
+      <audioTime in="2698" out="5874" />
+    </line>
+    <line lang1="- Cet homme est-il plus petit que cette femme?" someNumber="470" image="dg\112_002.gif" lang2="- Этот мужчина ниже ростом, чем эта женщина?">
+      <audioTime in="5874" out="8281" />
+    </line>
+    <line lang1="- Non, cet homme est de même taille que cette femme." someNumber="None" image="dg\112_002.gif" lang2="- Нет, этот мужчина такого же роста, что и эта женщина.">
+      <audioTime in="8281" out="11376" />
+    </line>
+    <line lang1="- Le tourne-disques qui est à gauche coûte-t-il plus cher que celui qui est à droite?" someNumber="None" image="dg\112_003.gif" lang2="- Проигрыватель, который слева стоит дороже, чем тот, который справа?">
+      <audioTime in="11376" out="15230" />
+    </line>
+    <line lang1="- Non, le tourne-disques qui est à gauche n'est pas plus cher que celui qui est à droite." someNumber="None" image="dg\112_003.gif" lang2="- Нет, проигрыватель, который слева такой же дорогой, что и тот, который справа.">
+      <audioTime in="15230" out="19173" />
+    </line>
+    <line lang1="- Le crayon rouge est-il moins bien taillé que le crayon vert?" someNumber="200" image="dg\112_004.gif" lang2="- Красный карандаш заточен хуже, чем зелёный карандаш?">
+      <audioTime in="19173" out="22038" />
+    </line>
+    <line lang1="- Non, le crayon rouge est aussi mal taillé que le crayon vert." someNumber="None" image="dg\112_004.gif" lang2="- Нет, красный карандаш заточен так же плохо, как и зелёный карандаш.">
+      <audioTime in="22038" out="25310" />
+    </line>
+    <line lang1="- Le sac blanc est-il plus neuf que le sac noir?" someNumber="None" image="dg\112_005.gif" lang2="- Белая сумка новее, чем чёрная сумка?">
+      <audioTime in="25310" out="27683" />
+    </line>
+    <line lang1="- Non, le sac blanc n'est pas plus neuf que le sac noir." someNumber="None" image="dg\112_005.gif" lang2="- Нет, белая сумка не новее, чем чёрная сумка.">
+      <audioTime in="27683" out="30289" />
+    </line>
+    <line lang1="- Le policier est-il plus grand que la policière?" someNumber="None" image="dg\112_006.gif" lang2="- Мужчина-полицейский выше, чем женщина-полицейский?">
+      <audioTime in="30289" out="32823" />
+    </line>
+    <line lang1="- Non, le policier est aussi grand que la policière." someNumber="780" image="dg\112_006.gif" lang2="- Нет, мужчина-полицейский такой же высокий, как и женщина-полицейский.">
+      <audioTime in="32823" out="35741" />
+    </line>
+    <line lang1="- La femme qui est à gauche est-elle aussi belle que celle qui est à droite?" someNumber="None" image="dg\112_007.gif" lang2="- Женщина, которая слева, - такая же красивая, как та, которая справа?">
+      <audioTime in="35741" out="39157" />
+    </line>
+    <line lang1="- Non, la femme qui est à gauche n'est pas aussi belle que celle qui est à droite." someNumber="None" image="dg\112_007.gif" lang2="- Нет, женщина, которая слева, не такая красивая, как та, которая справа.">
+      <audioTime in="39157" out="42496" />
+    </line>
+    <line lang1="- Le garçon est-il plus âgé que la fille?" someNumber="360" image="dg\112_008.gif" lang2="- Мальчик старше, чем девочка?">
+      <audioTime in="42496" out="44649" />
+    </line>
+    <line lang1="- Non, le garçon est de même âge que la fille." someNumber="None" image="dg\112_008.gif" lang2="- Нет, мальчик - того же возраста, что и девочка.">
+      <audioTime in="44649" out="46911" />
+    </line>
+    <line lang1="- La valise brune est-elle plus légère que la valise bleue?" someNumber="380" image="dg\112_009.gif" lang2="- Коричневый чемодан легче, чем голубой чемодан?">
+      <audioTime in="46911" out="49663" />
+    </line>
+    <line lang1="- Non, la valise brune est de même poids que la valise bleue." someNumber="None" image="dg\112_009.gif" lang2="- Нет, коричневый чемодан - того же веса, что и голубой чемодан.">
+      <audioTime in="49663" out="52522" />
+    </line>
+    <line lang1="- Le couteau blanc est-il plus pointu que le couteau noir?" someNumber="None" image="dg\112_010.gif" lang2="- Белый нож острее, чем чёрный нож?">
+      <audioTime in="52522" out="55058" />
+    </line>
+    <line lang1="- Non, le couteau blanc est aussi pointu que le couteau noir." someNumber="None" image="dg\112_010.gif" lang2="- Нет, белый нож такой же острый, как и чёрный нож.">
+      <audioTime in="55058" out="58004" />
+    </line>
+  </lines>
+</lesson>

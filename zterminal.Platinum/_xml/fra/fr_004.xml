@@ -1,0 +1,38 @@
+<lesson>
+  <header wav="FR_004.wav" dlgName="Планы" dlgFile="exr\frg004.txt" />
+  <lines>
+    <line lang1="- Tu as congé aujourd'hui, n'est-ce pas, Suzanne?" someNumber="None" image="f.jpg" lang2="- У тебя сегодня свободный день, не так ли, Сюзанна?">
+      <audioTime in="0" out="3542" />
+    </line>
+    <line lang1="- Oui, j'ai congé aujourd'hui et demain." someNumber="None" image="f.jpg" lang2="- Да, у меня сегодня выходной и завтра.">
+      <audioTime in="3542" out="8273" />
+    </line>
+    <line lang1="- Alors j'ai une idée." someNumber="None" image="f.jpg" lang2="- Тогда у меня есть идея.">
+      <audioTime in="8273" out="11123" />
+    </line>
+    <line lang1="- Et quelle est cette idée?" someNumber="None" image="f.jpg" lang2="- А какая же эта идея?">
+      <audioTime in="11123" out="13649" />
+    </line>
+    <line lang1="- Mes amis ont une maison à la campagne" someNumber="None" image="f.jpg" lang2="- У моих друзей есть дача в деревне,">
+      <audioTime in="13649" out="18122" />
+    </line>
+    <line lang1="et, comme nous avons deux jours libres, nous pouvons y passer un week-end délicieux." someNumber="None" image="f.jpg" lang2="а так как у нас свободных два дня, мы можем замечательно там провести время.">
+      <audioTime in="18122" out="25940" />
+    </line>
+    <line lang1="- Oui, tu as raison, ton idée est vraiment bonne." someNumber="None" image="f.jpg" lang2="- Да, ты прав, твоя идея действительно хороша.">
+      <audioTime in="25940" out="31978" />
+    </line>
+    <line lang1="Eh bien moi, j'ai aussi une idée." someNumber="None" image="f.jpg" lang2="И у меня есть также мысль.">
+      <audioTime in="31978" out="36127" />
+    </line>
+    <line lang1="Tu sais, Georges a une voiture et nous pouvons y aller tous ensemble en auto." someNumber="None" image="f.jpg" lang2="Знаешь, у Жоржа есть машина, и мы можем поехать туда все вместе на машине.">
+      <audioTime in="36127" out="45200" />
+    </line>
+    <line lang1="- C'est parfait, je suis entièrement d'accord," someNumber="None" image="f.jpg" lang2="- Прекрасно, я вполне согласен,">
+      <audioTime in="45200" out="50285" />
+    </line>
+    <line lang1="d'autant plus que Georges et toi, vous avez beaucoup de choses à vous dire." someNumber="None" image="f.jpg" lang2="тем более что вам с Жоржем есть о чем поговорить.">
+      <audioTime in="50285" out="56554" />
+    </line>
+  </lines>
+</lesson>

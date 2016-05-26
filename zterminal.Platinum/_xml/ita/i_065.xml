@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="i_065.wav" dic="p065" dlgName="Она не ребёнок." dlgFile="exr\ig065.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Che cosa hai intenzione di fare stasera, Maria?" someNumber="None" image="dg\065_001.gif" lang2="- Что ты собираешься делать сегодня вечером, Мария?">
+      <audioTime in="197" out="2830" />
+    </line>
+    <line lang1="- Ho intenzione di incontrarmi con gli amici, papà." someNumber="None" image="dg\065_001.gif" lang2="- Я собираюсь встретиться с друзьями, папа.">
+      <audioTime in="2961" out="5725" />
+    </line>
+    <line lang1="- Non venire a casa tardi." someNumber="None" image="dg\065_001.gif" lang2="- Не приходи домой поздно.">
+      <audioTime in="5725" out="7634" />
+    </line>
+    <line lang1="Devi essere a casa alle dieci e mezza." someNumber="None" image="dg\065_001.gif" lang2="Ты должна быть дома в половине одиннадцатого.">
+      <audioTime in="7655" out="9999" />
+    </line>
+    <line lang1="- Non posso venire a casa così presto, papà!" someNumber="None" image="dg\065_002.gif" lang2="- Я не могу прийти домой так рано, папа!">
+      <audioTime in="10266" out="12965" />
+    </line>
+    <line lang1="Mi dai le chiavi della porta d'ingresso, per favore." someNumber="None" image="dg\065_004.gif" lang2="Дай мне, пожалуйста, ключ от входной двери.">
+      <audioTime in="13031" out="15663" />
+    </line>
+    <line lang1="- No, non te le do." someNumber="None" image="dg\065_004.gif" lang2="- Нет, не дам.">
+      <audioTime in="15642" out="17087" />
+    </line>
+    <line lang1="- Maria ha diciotto anni, Alfredo." someNumber="None" image="dg\065_005.gif" lang2="- Марии восемнадцать лет, Альфредо.">
+      <audioTime in="17243" out="19349" />
+    </line>
+    <line lang1="Non è più una bambina." someNumber="None" image="dg\065_005.gif" lang2="Она не ребёнок.">
+      <audioTime in="19349" out="20929" />
+    </line>
+    <line lang1="Dalle le chiavi." someNumber="None" image="dg\065_005.gif" lang2="Дай ей ключи.">
+      <audioTime in="21060" out="22241" />
+    </line>
+    <line lang1="Lei viene sempre presto a casa." someNumber="None" image="dg\065_005.gif" lang2="Она всегда приходит домой рано.">
+      <audioTime in="22442" out="24548" />
+    </line>
+    <line lang1="- Oh, va bene." someNumber="None" image="dg\065_006.gif" lang2="- Ну, хорошо.">
+      <audioTime in="24614" out="25997" />
+    </line>
+    <line lang1="Tò, eccole." someNumber="None" image="dg\065_007.gif" lang2="Вот, держи.">
+      <audioTime in="26194" out="27707" />
+    </line>
+    <line lang1="Però non devi venire a casa dopo le undici e un quarto." someNumber="None" image="dg\065_007.gif" lang2="Но не приходи домой позже четверти двенадцатого.">
+      <audioTime in="27774" out="30999" />
+    </line>
+    <line lang1="Mi senti?" someNumber="None" image="dg\065_008.gif" lang2="Ты слышишь?">
+      <audioTime in="31130" out="32183" />
+    </line>
+    <line lang1="- Si', papà." someNumber="None" image="dg\065_008.gif" lang2="- Да, папа.">
+      <audioTime in="32183" out="33312" />
+    </line>
+    <line lang1="- Grazie, mamma." someNumber="None" image="dg\065_009.gif" lang2="- Спасибо, мама.">
+      <audioTime in="33434" out="34684" />
+    </line>
+    <line lang1="- Di niente, cara." someNumber="None" image="dg\065_010.gif" lang2="- Не за что, дорогая.">
+      <audioTime in="34774" out="36263" />
+    </line>
+    <line lang1="Arrivederci!" someNumber="None" image="dg\065_011.gif" lang2="До свидания!">
+      <audioTime in="36395" out="37579" />
+    </line>
+    <line lang1="Buon divertimento!" someNumber="None" image="dg\065_011.gif" lang2="Хорошо тебе провести время!">
+      <audioTime in="37666" out="39155" />
+    </line>
+    <line lang1="- Noi passiamo sempre il tempo in modo divertente, mamma." someNumber="None" image="dg\065_011.gif" lang2="- Мы всегда хорошо проводим время, мама.">
+      <audioTime in="39357" out="42581" />
+    </line>
+    <line lang1="Ciao." someNumber="None" image="dg\065_011.gif" lang2="До свидания.">
+      <audioTime in="42581" out="43575" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,125 @@
+<lesson>
+  <header wav="d_022.wav" dic="p022" dlgName="Дай(те) мне... Которую? " dlgFile="exr\dg021.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Geben Sie mir, bitte, eine Tasse." someNumber="60" image="dg\022_001.gif" lang2="- Дайте мне чашку, пожалуйста.">
+      <audioTime in="534" out="2779" />
+    </line>
+    <line lang1="- Welche?" someNumber="60" image="dg\022_001.gif" lang2="- Которую?">
+      <audioTime in="2779" out="3863" />
+    </line>
+    <line lang1="Diese schmutzige?" someNumber="60" image="dg\022_001.gif" lang2="Эту грязную?">
+      <audioTime in="3863" out="4992" />
+    </line>
+    <line lang1="- Nein, nicht diese schmutzige." someNumber="370" image="dg\022_001.gif" lang2="- Нет, не эту грязную.">
+      <audioTime in="5346" out="7591" />
+    </line>
+    <line lang1="Jene saubere." someNumber="370" image="dg\022_001.gif" lang2="- Ту чистую.">
+      <audioTime in="7698" out="9195" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, ein Glas." someNumber="160" image="dg\022_002.gif" lang2="- Дайте мне стакан, пожалуйста.">
+      <audioTime in="9729" out="11762" />
+    </line>
+    <line lang1="- Welches?" someNumber="160" image="dg\022_002.gif" lang2="- Который?">
+      <audioTime in="11762" out="12665" />
+    </line>
+    <line lang1="Dieses volle?" someNumber="160" image="dg\022_002.gif" lang2="Этот полный?">
+      <audioTime in="12665" out="13794" />
+    </line>
+    <line lang1="- Nein, nicht jenes volle." someNumber="None" image="dg\022_002.gif" lang2="- Нет, не тот полный.">
+      <audioTime in="14007" out="16893" />
+    </line>
+    <line lang1="Dieses leere." someNumber="None" image="dg\022_002.gif" lang2="Этот пустой.">
+      <audioTime in="16894" out="18022" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, eine Flasche." someNumber="700" image="dg\022_003.gif" lang2="- Дайте мне бутылку, пожалуйста.">
+      <audioTime in="18711" out="20529" />
+    </line>
+    <line lang1="- Welche?" someNumber="700" image="dg\022_003.gif" lang2="- Которую?">
+      <audioTime in="20529" out="21522" />
+    </line>
+    <line lang1="Diese große?" someNumber="700" image="dg\022_003.gif" lang2="Эту большую?">
+      <audioTime in="21522" out="22651" />
+    </line>
+    <line lang1="- Nein, nicht jene große." someNumber="None" image="dg\022_003.gif" lang2="- Нет, не ту большую.">
+      <audioTime in="22774" out="25447" />
+    </line>
+    <line lang1="Diese kleine." someNumber="None" image="dg\022_003.gif" lang2="Эту маленькую.">
+      <audioTime in="25554" out="27265" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, eine Schachtel." someNumber="150" image="dg\022_004.gif" lang2="- Дайте мне коробку, пожалуйста.">
+      <audioTime in="27800" out="29831" />
+    </line>
+    <line lang1="- Welche?" someNumber="150" image="dg\022_004.gif" lang2="- Которую?">
+      <audioTime in="29831" out="30869" />
+    </line>
+    <line lang1="Diese kleine?" someNumber="150" image="dg\022_004.gif" lang2="Эту маленькую?">
+      <audioTime in="30870" out="31998" />
+    </line>
+    <line lang1="- Nein, nicht jene kleine." someNumber="None" image="dg\022_004.gif" lang2="- Нет, не ту маленькую.">
+      <audioTime in="32077" out="34642" />
+    </line>
+    <line lang1="Diese große." someNumber="None" image="dg\022_004.gif" lang2="Эту большую.">
+      <audioTime in="34749" out="36246" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, eine Büchse." someNumber="None" image="dg\022_005.gif" lang2="- Дайте мне банку, пожалуйста.">
+      <audioTime in="36995" out="38919" />
+    </line>
+    <line lang1="- Welche?" someNumber="None" image="dg\022_005.gif" lang2="- Которую?">
+      <audioTime in="38919" out="39958" />
+    </line>
+    <line lang1="Diese neue?" someNumber="None" image="dg\022_005.gif" lang2="Эту новую?">
+      <audioTime in="39958" out="41087" />
+    </line>
+    <line lang1="- Nein, nicht diese neue." someNumber="None" image="dg\022_005.gif" lang2="- Нет, не эту новую.">
+      <audioTime in="41058" out="43089" />
+    </line>
+    <line lang1="Jene alte." someNumber="None" image="dg\022_005.gif" lang2="Ту старую.">
+      <audioTime in="43089" out="44579" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, ein Messer." someNumber="70" image="dg\022_006.gif" lang2="- Дайте мне нож, пожалуйста.">
+      <audioTime in="45656" out="47366" />
+    </line>
+    <line lang1="- Welches?" someNumber="70" image="dg\022_006.gif" lang2="- Который?">
+      <audioTime in="47366" out="48405" />
+    </line>
+    <line lang1="Jenes stumpfe?" someNumber="70" image="dg\022_006.gif" lang2="Тот тупой?">
+      <audioTime in="48329" out="50039" />
+    </line>
+    <line lang1="- Nein, nicht jenes stumpfe." someNumber="None" image="dg\022_006.gif" lang2="- Нет, не тот тупой.">
+      <audioTime in="50146" out="52605" />
+    </line>
+    <line lang1="Dieses scharfe." someNumber="None" image="dg\022_006.gif" lang2="Этот острый.">
+      <audioTime in="52606" out="54321" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, einen Löffel." someNumber="None" image="dg\022_007.gif" lang2="- Дайте мне ложку, пожалуйста.">
+      <audioTime in="54637" out="56668" />
+    </line>
+    <line lang1="- Welchen?" someNumber="None" image="dg\022_007.gif" lang2="- Которую?">
+      <audioTime in="56669" out="57707" />
+    </line>
+    <line lang1="Diesen neuen?" someNumber="None" image="dg\022_007.gif" lang2="Эту новую?">
+      <audioTime in="57707" out="58836" />
+    </line>
+    <line lang1="- Nein, nicht diesen neuen." someNumber="None" image="dg\022_007.gif" lang2="- Нет, не эту новую.">
+      <audioTime in="59021" out="61266" />
+    </line>
+    <line lang1="Jenen alten." someNumber="None" image="dg\022_007.gif" lang2="Ту старую.">
+      <audioTime in="61267" out="62711" />
+    </line>
+    <line lang1="- #Geben Sie mir, bitte, eine Gabel." someNumber="330" image="dg\022_008.gif" lang2="- Дайте мне вилку, пожалуйста.">
+      <audioTime in="62977" out="65008" />
+    </line>
+    <line lang1="- Welche?" someNumber="330" image="dg\022_008.gif" lang2="- Которую?">
+      <audioTime in="65008" out="65957" />
+    </line>
+    <line lang1="Jene kleine?" someNumber="330" image="dg\022_008.gif" lang2="Ту маленькую?">
+      <audioTime in="65957" out="67266" />
+    </line>
+    <line lang1="- Nein, nicht jene kleine." someNumber="None" image="dg\022_008.gif" lang2="- Нет, не ту маленькую.">
+      <audioTime in="67266" out="69298" />
+    </line>
+    <line lang1="Diese große." someNumber="None" image="dg\022_008.gif" lang2="Эту большую.">
+      <audioTime in="69298" out="70698" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="FR_055.wav" dlgName="План на неделю" dlgFile="exr\frg055.txt" />
+  <lines>
+    <line lang1="- Bonjour, Sophie! Bonjour, André!" someNumber="None" image="f.jpg" lang2="- Здравствуй, Софи! Здравствуй, Андрэ!">
+      <audioTime in="0" out="3116" />
+    </line>
+    <line lang1="- Bonjour, Jacques!" someNumber="None" image="f.jpg" lang2="- Здравствуй, Жак!">
+      <audioTime in="3116" out="4816" />
+    </line>
+    <line lang1="- Est-ce que vous savez qu'il vous reste seulement une semaine à passer en France?" someNumber="None" image="f.jpg" lang2="- Знаете ли вы, что вам осталась только одна неделя пребывания во Франции?">
+      <audioTime in="4816" out="9779" />
+    </line>
+    <line lang1="Faisons ensemble le programme des journées que nous avons à passer à Paris." someNumber="None" image="f.jpg" lang2="Составим вместе программу дней, которые нам осталось провести в Париже.">
+      <audioTime in="9779" out="15646" />
+    </line>
+    <line lang1="Voyons, Sophie, que voudrais-tu faire demain?" someNumber="None" image="f.jpg" lang2="Пожалуйста! Софи, что ты хотела делать завтра?">
+      <audioTime in="15646" out="19450" />
+    </line>
+    <line lang1="- Tout d'abord, quel jour est-ce demain?" someNumber="None" image="f.jpg" lang2="- Прежде всего, какой завтра день?">
+      <audioTime in="19450" out="22927" />
+    </line>
+    <line lang1="- Demain, c'est lundi." someNumber="None" image="f.jpg" lang2="- Завтра - понедельник.">
+      <audioTime in="22927" out="24574" />
+    </line>
+    <line lang1="- Alors, lundi, je voudrais monter au sommet de la tour Eiffel." someNumber="None" image="f.jpg" lang2="- Ага, понедельник, ну, я хотела бы подняться на Эйфелеву башню.">
+      <audioTime in="24574" out="28862" />
+    </line>
+    <line lang1="- C'est entendu, demain, je vous conduirai, toi et André, au sommet de la tour Eiffel." someNumber="None" image="f.jpg" lang2="- Хорошо, завтра я поведу, тебя и Андре на вершину Эйфелевой башни.">
+      <audioTime in="28862" out="34869" />
+    </line>
+    <line lang1="Et toi, André, as-tu quelques projets pour mardi?" someNumber="None" image="f.jpg" lang2="А ты, Андре, имеешь ли какие-нибудь проекты на вторник?">
+      <audioTime in="34869" out="38361" />
+    </line>
+    <line lang1="- Mardi, je voudrais visiter la librairie Hachette." someNumber="None" image="f.jpg" lang2="- Во вторник я хотел бы пойти в книжный магазин Ашет.">
+      <audioTime in="38361" out="41834" />
+    </line>
+    <line lang1="- C'est parfait. Et pour mercredi, je vous propose une excursion à Reims." someNumber="None" image="f.jpg" lang2="- Замечательно. А на среду я вам предлагаю экскурсию в Ремс.">
+      <audioTime in="41834" out="47438" />
+    </line>
+    <line lang1="Qu'en dites-vous?" someNumber="None" image="f.jpg" lang2="Что вы об этом думаете?">
+      <audioTime in="47438" out="48601" />
+    </line>
+    <line lang1="- C'est une très bonne idée. Mais comment irons-nous à Reims?" someNumber="None" image="f.jpg" lang2="- Очень хорошая идея. Но как мы поедем в Ремс?">
+      <audioTime in="48601" out="52334" />
+    </line>
+    <line lang1="Par le train ou en auto?" someNumber="None" image="f.jpg" lang2="Поездом или на машине?">
+      <audioTime in="52334" out="54977" />
+    </line>
+    <line lang1="- En autocar, mais toi, André, si tu veux, tu peux y aller à bicyclette." someNumber="None" image="f.jpg" lang2="- Автокаром, но ты, Андре, если хочешь, можешь поехать туда на велосипеде.">
+      <audioTime in="54977" out="60162" />
+    </line>
+    <line lang1="- Je ne suis pas si bête d'aller à Reims à bicyclette." someNumber="None" image="f.jpg" lang2="- Я не такой глупый, чтобы ехать в Ремс на велосипеде.">
+      <audioTime in="60162" out="63090" />
+    </line>
+    <line lang1="Tout d'abord c'est trop loin," someNumber="None" image="f.jpg" lang2="Прежде всего - это слишком далеко,">
+      <audioTime in="63090" out="65406" />
+    </line>
+    <line lang1="et je n'aurai pas envie de visiter la ville." someNumber="None" image="f.jpg" lang2="а потом если приеду уставший, мне не захочется осматривать город.">
+      <audioTime in="65406" out="70031" />
+    </line>
+    <line lang1="- Alors, c'est entendu, tout le monde va en autocar et personne ne reste à Paris." someNumber="None" image="f.jpg" lang2="- Тогда хорошо, все едут на экскурсионном автобусе, и никто не остаётся в Париже.">
+      <audioTime in="70031" out="76233" />
+    </line>
+    <line lang1="- Et s'il fait mauvais temps?" someNumber="None" image="f.jpg" lang2="- А если будет плохая погода?">
+      <audioTime in="76233" out="78428" />
+    </line>
+    <line lang1="- S'il fait mauvais temps, nous irons quand même." someNumber="None" image="f.jpg" lang2="- Если будет плохая погода, мы всё равно поедем.">
+      <audioTime in="78428" out="81182" />
+    </line>
+    <line lang1="Et n'oubliez pas vos appareils photographiques." someNumber="None" image="f.jpg" lang2="И не забудьте свои фотоаппараты.">
+      <audioTime in="81182" out="83805" />
+    </line>
+    <line lang1="- Et par où passerons-nous?" someNumber="None" image="f.jpg" lang2="- А как мы поедем?">
+      <audioTime in="83805" out="86000" />
+    </line>
+    <line lang1="- Par Meaux, La Ferté et par d'autres villes et villages de Champagne." someNumber="None" image="f.jpg" lang2="- Через Мо, Ла Ферте и другие города и села Шампании.">
+      <audioTime in="86000" out="91279" />
+    </line>
+    <line lang1="Cette excursion sera assez fatigante." someNumber="None" image="f.jpg" lang2="Эта экскурсия будет довольно утомительная.">
+      <audioTime in="91279" out="94057" />
+    </line>
+    <line lang1="C'est pourquoi jeudi il faudra se reposer." someNumber="None" image="f.jpg" lang2="И поэтому в четверг надо будет отдохнуть.">
+      <audioTime in="94057" out="97696" />
+    </line>
+    <line lang1="Vendredi nous visiterons une dernière fois Paris," someNumber="None" image="f.jpg" lang2="В пятницу мы осмотрим в последний раз Париж,">
+      <audioTime in="97696" out="101542" />
+    </line>
+    <line lang1="samedi chacun fera ce qui lui plaît et dimanche..." someNumber="None" image="f.jpg" lang2="в субботу каждый будет делать, что он хочет, а в воскресенье...">
+      <audioTime in="101542" out="104776" />
+    </line>
+    <line lang1="- Dimanche, c'est le départ." someNumber="None" image="f.jpg" lang2="- В воскресенье - отъезд.">
+      <audioTime in="104776" out="107496" />
+    </line>
+  </lines>
+</lesson>

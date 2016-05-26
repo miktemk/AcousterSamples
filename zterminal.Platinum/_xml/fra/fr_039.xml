@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="FR_039.wav" dlgName="Математическая игра" dlgFile="exr\frg039.txt" />
+  <lines>
+    <line lang1="- Choisissez deux nombres inférieurs à dix." someNumber="None" image="f.jpg" lang2="- Выберите два числа меньше десяти.">
+      <audioTime in="0" out="4604" />
+    </line>
+    <line lang1="- Ça y est. C'est fait." someNumber="None" image="f.jpg" lang2="- Уже. Сделано.">
+      <audioTime in="4604" out="7852" />
+    </line>
+    <line lang1="- Alors, multipliez maintenant le premier nombre par deux et ajoutez cinq au produit." someNumber="None" image="f.jpg" lang2="- Теперь умножьте первое число на два и прибавьте пять к полученному результату.">
+      <audioTime in="7852" out="16834" />
+    </line>
+    <line lang1="- C'est fait." someNumber="None" image="f.jpg" lang2="- Сделано.">
+      <audioTime in="16834" out="18195" />
+    </line>
+    <line lang1="- Eh bien, maintenant, multipliez le résultat par cinq et ajoutez dix au total." someNumber="None" image="f.jpg" lang2="- А теперь умножьте результат на пять и к этой сумме прибавьте десять.">
+      <audioTime in="18195" out="26477" />
+    </line>
+    <line lang1="- C'est fait." someNumber="None" image="f.jpg" lang2="- Сделано.">
+      <audioTime in="26477" out="28425" />
+    </line>
+    <line lang1="- Maintenant, ajoutez le second nombre et indiquez le résultat." someNumber="None" image="f.jpg" lang2="- Теперь добавьте второе число и скажите результат.">
+      <audioTime in="28425" out="35450" />
+    </line>
+    <line lang1="- Le résultat est quatre-vingt onze." someNumber="None" image="f.jpg" lang2="- Результат - девяносто один.">
+      <audioTime in="35450" out="39776" />
+    </line>
+    <line lang1="- Alors les nombres pensés sont cinq et six." someNumber="None" image="f.jpg" lang2="- Тогда задуманными числами являются пять и шесть.">
+      <audioTime in="39776" out="45605" />
+    </line>
+    <line lang1="- Oui, c'est ça. Vous avez raison." someNumber="None" image="f.jpg" lang2="- Да, это верно. Вы правы.">
+      <audioTime in="45605" out="49443" />
+    </line>
+    <line lang1="Mais comment faites-vous cela?" someNumber="None" image="f.jpg" lang2="Но как вы это делаете?">
+      <audioTime in="49443" out="52209" />
+    </line>
+    <line lang1="- C'est très simple." someNumber="None" image="f.jpg" lang2="- Это очень просто.">
+      <audioTime in="52209" out="54301" />
+    </line>
+    <line lang1="On retranche trente-cinq du résultat final" someNumber="None" image="f.jpg" lang2="Отнимается тридцать пять от окончательной суммы,">
+      <audioTime in="54301" out="58429" />
+    </line>
+    <line lang1="et les deux chiffres du nombre obtenu sont les nombres pensés." someNumber="None" image="f.jpg" lang2="и два числа, полученные в результате, являются задуманными числами.">
+      <audioTime in="58429" out="63621" />
+    </line>
+    <line lang1="- Faisons encore une fois cet exercice." someNumber="None" image="f.jpg" lang2="- Сделаем ещё один раз это упражнение.">
+      <audioTime in="63621" out="67848" />
+    </line>
+    <line lang1="Notre premier nombre est cinq, notre deuxième six." someNumber="None" image="f.jpg" lang2="Нашим первым числом является пять, нашим вторым - шесть.">
+      <audioTime in="67848" out="74929" />
+    </line>
+    <line lang1="Alors cinq fois deux font dix," someNumber="None" image="f.jpg" lang2="В таком случае дважды пять - десять,">
+      <audioTime in="74929" out="80353" />
+    </line>
+    <line lang1="dix et cinq font quinze," someNumber="None" image="f.jpg" lang2="десять и пять - пятнадцать,">
+      <audioTime in="80353" out="83834" />
+    </line>
+    <line lang1="quinze fois cinq font soixante-quinze," someNumber="None" image="f.jpg" lang2="пятнадцать на пять - семьдесят пять,">
+      <audioTime in="83834" out="88877" />
+    </line>
+    <line lang1="soixante-quinze et dix font quatre-vingt-cinq," someNumber="None" image="f.jpg" lang2="семьдесят пять и десять - восемьдесят пять,">
+      <audioTime in="88877" out="95369" />
+    </line>
+    <line lang1="quatre-vingt-cinq et six font quatre-vingt-onze," someNumber="None" image="f.jpg" lang2="восемьдесят пять и шесть - девяносто один,">
+      <audioTime in="95369" out="101000" />
+    </line>
+    <line lang1="quatre-vingt-onze moins trente-cinq font cinquante-six." someNumber="None" image="f.jpg" lang2="девяносто один отнять тридцать пять - пятьдесят шесть.">
+      <audioTime in="101000" out="107134" />
+    </line>
+    <line lang1="Donc les deux nombres pensés sont cinq et six." someNumber="None" image="f.jpg" lang2="Итак, двумя задуманными числами являются пять и шесть.">
+      <audioTime in="107134" out="113491" />
+    </line>
+  </lines>
+</lesson>

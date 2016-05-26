@@ -1,0 +1,107 @@
+<lesson>
+  <header wav="j_062.wav" dlgName="Почти не полон. Сяду." dic="p062" />
+  <lines>
+    <line lang1="ーもしもし、すずき*さん*を*おねがい*します。" someNumber="109" image="062_001.jpg" lang2="- Алло, (я) прошу госпожу Судзуки.">
+      <audioTime in="0" out="4067" />
+    </line>
+    <line lang1="ーはい。すずき*です。スミス*さん*です*か。" someNumber="None" image="062_002.jpg" lang2="- Да. Говорит Судзуки. Это господин Смит?">
+      <audioTime in="4067" out="9981" />
+    </line>
+    <line lang1="ーはい。今*ホテル*です。" someNumber="None" image="062_003.jpg" lang2="- Да. (Я) сейчас в гостинице.">
+      <audioTime in="9981" out="12531" />
+    </line>
+    <line lang1="これ*から*そちら*に*いきたい*ん*です*が。" someNumber="53" image="062_003.jpg" lang2="Хочу приехать к Вам сейчас...">
+      <audioTime in="12531" out="15493" />
+    </line>
+    <line lang1="ー今、じむ所*の*場所*を*教えます*から、書いて*下さい。" someNumber="154" image="062_003.jpg" lang2="- Сейчас объясню местонахождение офиса, записывайте пожалуйста.">
+      <audioTime in="15493" out="19592" />
+    </line>
+    <line lang1="いい*です*か。" someNumber="090" image="062_006.jpg" lang2="Можно?">
+      <audioTime in="19613" out="21121" />
+    </line>
+    <line lang1="ーはい。おねがい*します。" someNumber="None" image="062_007.jpg" lang2="- Да. Прошу Вас.">
+      <audioTime in="21121" out="23134" />
+    </line>
+    <line lang1="ーホテル*の*そば*に*バスてい*が*あります。" someNumber="126" image="062_008.jpg" lang2="- У гостиницы есть остановка автобуса.">
+      <audioTime in="23134" out="27409" />
+    </line>
+    <line lang1="ーていりゅうじょ*です*か。" someNumber="None" image="062_008.jpg" lang2="- Остановка?">
+      <audioTime in="27409" out="29098" />
+    </line>
+    <line lang1="ーそう*です。そこ*で*２番*の*バス*に*乗って、" someNumber="35" image="062_010.jpg" lang2="- Да. Сядьте там на автобус маршрута 2">
+      <audioTime in="29098" out="32930" />
+    </line>
+    <line lang1="３つ*目*の*しやく所*前*で*おりて*下さい。" someNumber="35" image="062_011.jpg" lang2="и сойдите на третьей (остановке) перед мэрией.">
+      <audioTime in="32930" out="36681" />
+    </line>
+    <line lang1="こうさてん*で*右*に*曲がって*下さい。" someNumber="None" image="062_012.jpg" lang2="На перекрестке заверните направо.">
+      <audioTime in="36681" out="41082" />
+    </line>
+    <line lang1="それ*から*まっすぐ*行って*下さい。" someNumber="162" image="062_013.jpg" lang2="Потом идите прямо.">
+      <audioTime in="41082" out="45106" />
+    </line>
+    <line lang1="少し*行く*と*白い*ビル*が*あります。" someNumber="086" image="062_014.jpg" lang2="Если пройти немного, будет белое многоэтажное здание.">
+      <audioTime in="45106" out="49906" />
+    </line>
+    <line lang1="じむしょ*は*その*ビル*の*５かい*に*あります。" someNumber="None" image="062_014.jpg" lang2="Офис находится на пятом этаже этого здания.">
+      <audioTime in="49906" out="54100" />
+    </line>
+    <line lang1="ー白い*ビル*です*ね。分かりました。" someNumber="None" image="062_014.jpg" lang2="- Белое многоэтажное здание, не так ли? Понятно.">
+      <audioTime in="54100" out="57978" />
+    </line>
+    <line lang1="じゃ、いま*すぐ*出かけます。" someNumber="None" image="062_017.jpg" lang2="Ладно, выйду прямо сейчас.">
+      <audioTime in="57978" out="60443" />
+    </line>
+    <line lang1="「ええと、ホテル*の*前*に*バスてい*が*二つ*ある。」" someNumber="128" image="062_018.jpg" lang2="(Гмм... Перед гостиницей есть две остановки.)">
+      <audioTime in="60443" out="68035" />
+    </line>
+    <line lang1="ーすみません、しやく所*へ*行く*バス*は*どれ*です*か。" someNumber="143" image="062_019.jpg" lang2="- Простите, какой автобус едет до мэрии?">
+      <audioTime in="68035" out="73444" />
+    </line>
+    <line lang1="２番*です*か。ありがとう*ございます。" someNumber="None" image="062_020.jpg" lang2="Второй? Большое спасибо.">
+      <audioTime in="73444" out="77101" />
+    </line>
+    <line lang1="「反対側*だ*なあ。" someNumber="124" image="062_021.jpg" lang2="(Это на противоположной стороне!">
+      <audioTime in="77101" out="80947" />
+    </line>
+    <line lang1="これ*だろう*か。へえ、こんでいる*なあ。" someNumber="None" image="062_022.jpg" lang2="Наверное, этот...Ого, как переполнен!">
+      <audioTime in="80947" out="85597" />
+    </line>
+    <line lang1="次*の*バス*を*待とう。" someNumber="None" image="062_022.jpg" lang2="Подожду следующего автобуса.">
+      <audioTime in="85597" out="88244" />
+    </line>
+    <line lang1="よかった。あまり*こんでない。乗ろう。" someNumber="None" image="062_024.jpg" lang2="Здорово! Почти не полон. Сяду.">
+      <audioTime in="88244" out="92332" />
+    </line>
+    <line lang1="３つ目*か*な。そう*だ。おりよう。" someNumber="35" image="062_025.jpg" lang2="Кажется третья (остановка). Точно. Сойду.">
+      <audioTime in="92332" out="97909" />
+    </line>
+    <line lang1="こうさてん*は*それ*だろう。" someNumber="None" image="062_026.jpg" lang2="Перекресток, пожалуй, этот.">
+      <audioTime in="97909" out="100997" />
+    </line>
+    <line lang1="青い*信号*を*待って、わたろう。" someNumber="75" image="062_026.jpg" lang2="Подожду зелёного света светофора и перейду.">
+      <audioTime in="100997" out="105711" />
+    </line>
+    <line lang1="少し*まっすぐ*行こう。" someNumber="None" image="062_028.jpg" lang2="Пройду немного прямо.">
+      <audioTime in="105711" out="108475" />
+    </line>
+    <line lang1="白い*ビル*は*なかなか*ない*なあ。」" someNumber="113" image="062_028.jpg" lang2="Никак нет белого здания...)">
+      <audioTime in="108475" out="112260" />
+    </line>
+    <line lang1="ーすみません、この*あたり*に*こうしゅう*でんわ*が*あります*か。" someNumber="None" image="062_030.jpg" lang2="- Простите, есть ли здесь неподалеку телефон-автомат?">
+      <audioTime in="112260" out="117997" />
+    </line>
+    <line lang1="ー向こう*側*に*あります。" someNumber="None" image="062_030.jpg" lang2="- Есть на противоположной стороне.">
+      <audioTime in="117997" out="120757" />
+    </line>
+    <line lang1="あの*白い*ビル*の*よこ*です。" someNumber="None" image="062_032.jpg" lang2="Сбоку от того белого многоэтажного здания.">
+      <audioTime in="120757" out="123719" />
+    </line>
+    <line lang1="ー白い*ビル*です*か。どこ*です*か。" someNumber="None" image="062_032.jpg" lang2="- Белое здание? Где?">
+      <audioTime in="123719" out="127107" />
+    </line>
+    <line lang1="ああ、向こう*側*です*か。" someNumber="164" image="062_032.jpg" lang2="Ах на противоположной стороне!">
+      <audioTime in="127107" out="130463" />
+    </line>
+  </lines>
+</lesson>

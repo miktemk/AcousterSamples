@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="j_055.wav" dlgName="Наверное, не пойдёт" dic="p055" />
+  <lines>
+    <line lang1="―明日*ロバノフ*さん*は*キャンプ*に*行く*でしょう*か。" someNumber="66" image="055_001.jpg" lang2="- Лобанов пойдёт завтра в поход?">
+      <audioTime in="0" out="4509" />
+    </line>
+    <line lang1="―良く*分かりません*が、たぶん*行かない*でしょう。" someNumber="70" image="055_002.jpg" lang2="- Точно не знаю, но, наверное, не пойдёт.">
+      <audioTime in="4509" out="9203" />
+    </line>
+    <line lang1="―なぜ*です*か。" someNumber="None" image="055_002.jpg" lang2="- Почему?">
+      <audioTime in="9203" out="10347" />
+    </line>
+    <line lang1="―昨日*病気*でした。" someNumber="24" image="055_004.jpg" lang2="- Вчера (он) был болен.">
+      <audioTime in="10347" out="12862" />
+    </line>
+    <line lang1="―じゃ、行く*か、行かない*か、聞いて*下さい。" someNumber="152" image="055_005.jpg" lang2="- Тогда спросите, пойдёт или нет.">
+      <audioTime in="12862" out="16172" />
+    </line>
+    <line lang1="―この*部屋*は*狭くて、ちょっと*暗い*です*ね。" someNumber="None" image="055_006.jpg" lang2="- Эта комната тесная и немного темная, не так ли.">
+      <audioTime in="16172" out="22568" />
+    </line>
+    <line lang1="気*に*入らない*でしょう。" someNumber="105" image="055_006.jpg" lang2="Вам, пожалуй, не понравится.">
+      <audioTime in="22568" out="24271" />
+    </line>
+    <line lang1="―いいえ、やちん*が*安い*でしょう。" someNumber="None" image="055_008.jpg" lang2="- Нет, (тут), наверное, плата невысока.">
+      <audioTime in="24292" out="27177" />
+    </line>
+    <line lang1="それ*から*大学*に*近くて*べんり*です。" someNumber="None" image="055_009.jpg" lang2="Кроме того, (это) близко от университета и, поэтому, удобно.">
+      <audioTime in="27177" out="30880" />
+    </line>
+    <line lang1="―山*は*寒い*でしょう*か。" someNumber="None" image="055_010.jpg" lang2="- В горах, вероятно, будет холодно?">
+      <audioTime in="30880" out="35801" />
+    </line>
+    <line lang1="―寒くない*と*思います。" someNumber="25" image="055_010.jpg" lang2="- Думаю, что холодно не будет.">
+      <audioTime in="35801" out="37626" />
+    </line>
+    <line lang1="雨*も*降らない*と*思います。" someNumber="70" image="055_012.jpg" lang2="Мне кажется, что и дождя не будет.">
+      <audioTime in="37626" out="39784" />
+    </line>
+    <line lang1="―ちょっと*のど*が*かわいています。" someNumber="None" image="055_013.jpg" lang2="- Что-то в горле пересохло.">
+      <audioTime in="39784" out="44306" />
+    </line>
+    <line lang1="お茶*で*も*飲みましょう*か。" someNumber="122" image="055_013.jpg" lang2="Выпьем хотя бы зелёного чая.">
+      <audioTime in="44306" out="46635" />
+    </line>
+    <line lang1="日本*の*おかし*は*いかが*でしょう*か。" someNumber="15" image="055_015.jpg" lang2="Как насчёт японских сладостей?">
+      <audioTime in="46635" out="49731" />
+    </line>
+    <line lang1="―すみません。" someNumber="None" image="055_016.jpg" lang2="- Простите.">
+      <audioTime in="49731" out="51239" />
+    </line>
+  </lines>
+</lesson>

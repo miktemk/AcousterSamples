@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="d_056.wav" dic="p056" dlgName="Что они обычно делают?.." dlgFile="exr\dg055.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Was #macht sie oft am Morgen?" someNumber="720" image="dg\056_001.gif" lang2="- Что она часто делает утром?">
+      <audioTime in="387" out="2610" />
+    </line>
+    <line lang1="- Oft #1wischt sie den Staub von der Anrichte #2ab." someNumber="490" image="dg\056_001.gif" lang2="- Она часто вытирает пыль с серванта утром.">
+      <audioTime in="2901" out="6381" />
+    </line>
+    <line lang1="- Was #macht sie immer am Morgen?" someNumber="None" image="dg\056_002.gif" lang2="- Что она всегда делает утром?">
+      <audioTime in="6478" out="8509" />
+    </line>
+    <line lang1="- Sie #macht immer das Bett am Morgen." someNumber="660" image="dg\056_002.gif" lang2="- Она всегда убирает постель утром.">
+      <audioTime in="8702" out="10732" />
+    </line>
+    <line lang1="- Was #macht er immer am Morgen?" someNumber="None" image="dg\056_003.gif" lang2="- Что он всегда делает утром?">
+      <audioTime in="10926" out="13053" />
+    </line>
+    <line lang1="- Er #rasiert sich immer am Morgen." someNumber="None" image="dg\056_003.gif" lang2="- Он всегда бреется утром.">
+      <audioTime in="13247" out="15954" />
+    </line>
+    <line lang1="- Was #machen sie manchmal am Abend?" someNumber="None" image="dg\056_004.gif" lang2="- Что они иногда делают вечером?">
+      <audioTime in="16147" out="18855" />
+    </line>
+    <line lang1="- Sie #hören manchmal Radio am Abend." someNumber="None" image="dg\056_004.gif" lang2="- Они иногда слушают радио вечером.">
+      <audioTime in="18952" out="21466" />
+    </line>
+    <line lang1="- Was #macht er immer jeden Tag?" someNumber="None" image="dg\056_005.gif" lang2="- Что он всегда делает каждый день?">
+      <audioTime in="21755" out="24076" />
+    </line>
+    <line lang1="- Er #1wischt die Tafel immer jeden Tag #2ab." someNumber="660" image="dg\056_005.gif" lang2="- Он всегда каждый день стирает с доски.">
+      <audioTime in="24173" out="27170" />
+    </line>
+    <line lang1="- Was #machen sie immer in der Nacht?" someNumber="810" image="dg\056_006.gif" lang2="- Что они всегда делают ночью?">
+      <audioTime in="27364" out="29491" />
+    </line>
+    <line lang1="- Sie #gehen immer zu Bett in der Nacht." someNumber="None" image="dg\056_006.gif" lang2="- Они всегда ложатся спать ночью.">
+      <audioTime in="29781" out="32005" />
+    </line>
+    <line lang1="- Was #macht sie gewöhnlich jeden Tag?" someNumber="None" image="dg\056_007.gif" lang2="- Что она обычно делает каждый день?">
+      <audioTime in="32198" out="34519" />
+    </line>
+    <line lang1="- Sie #1wäscht gewöhnlich das Geschirr jeden Tag #2ab." someNumber="750" image="dg\056_007.gif" lang2="- Она обычно моет посуду каждый день.">
+      <audioTime in="34616" out="37904" />
+    </line>
+    <line lang1="- Was #machen sie gewöhnlich am Tage?" someNumber="None" image="dg\056_008.gif" lang2="- Что они обычно делают днём?">
+      <audioTime in="38194" out="40514" />
+    </line>
+    <line lang1="- Sie #tippen gewöhnlich Briefe am Tage." someNumber="190" image="dg\056_008.gif" lang2="- Они обычно печатают письма днём.">
+      <audioTime in="40804" out="43415" />
+    </line>
+    <line lang1="- Was #macht die Katze gewöhnlich jeden Tag?" someNumber="None" image="dg\056_009.gif" lang2="- Что кошка обычно делает каждый день?">
+      <audioTime in="43609" out="46509" />
+    </line>
+    <line lang1="- Sie #trinkt gewöhnlich Milch jeden Tag." someNumber="None" image="dg\056_009.gif" lang2="- Она обычно лакает молоко.">
+      <audioTime in="46606" out="49120" />
+    </line>
+    <line lang1="- Was #machen sie manchmal am Abend?" someNumber="None" image="dg\056_010.gif" lang2="- Что они иногда делают вечером?">
+      <audioTime in="49410" out="51344" />
+    </line>
+    <line lang1="- Sie #1sehen manchmal am Abend #2fern." someNumber="500" image="dg\056_010.gif" lang2="- Они иногда смотрят телевизор вечером.">
+      <audioTime in="51344" out="53761" />
+    </line>
+    <line lang1="- Was #macht sie immer am Mittag?" someNumber="None" image="dg\056_011.gif" lang2="- Что она всегда делает в полдень?">
+      <audioTime in="53858" out="55985" />
+    </line>
+    <line lang1="- Sie #frühstückt immer am Mittag." someNumber="None" image="dg\056_011.gif" lang2="- Она всегда завтракает в полдень.">
+      <audioTime in="56276" out="58499" />
+    </line>
+    <line lang1="- Was #macht er oft am Abend?" someNumber="None" image="dg\056_012.gif" lang2="- Что он часто делает вечером?">
+      <audioTime in="58499" out="60627" />
+    </line>
+    <line lang1="- Er #liest oft seine Zeitung am Abend." someNumber="None" image="dg\056_012.gif" lang2="- Он часто читает свою газету вечером.">
+      <audioTime in="60820" out="63334" />
+    </line>
+  </lines>
+</lesson>

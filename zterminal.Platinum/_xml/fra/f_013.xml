@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="f_013.wav" dic="p013" dlgName="Какого цвета твоё платье?" dlgFile="exr\fg013.txt" author="Alexander" />
+  <lines>
+    <line lang1="- De quelle couleur est ta robe neuve?" someNumber="None" image="dg\013_001.gif" lang2="- Какого цвета твоё новое платье?">
+      <audioTime in="0" out="2787" />
+    </line>
+    <line lang1="- Elle est verte." someNumber="None" image="dg\013_001.gif" lang2="- Оно зелёное.">
+      <audioTime in="2787" out="5077" />
+    </line>
+    <line lang1="Viens en haut et regarde." someNumber="None" image="dg\013_002.gif" lang2="Приходи наверх и посмотри.">
+      <audioTime in="5077" out="7566" />
+    </line>
+    <line lang1="- Merci, bien." someNumber="None" image="dg\013_002.gif" lang2="- Спасибо, хорошо.">
+      <audioTime in="7566" out="9358" />
+    </line>
+    <line lang1="- Tiens! La voilà!" someNumber="None" image="dg\013_003.gif" lang2="- Смотри! Вот оно!">
+      <audioTime in="9358" out="10852" />
+    </line>
+    <line lang1="- C'est une robe ravissante. Elle est élégante." someNumber="None" image="dg\013_003.gif" lang2="- Это восхитительное платье. Оно элегантное.">
+      <audioTime in="10852" out="14037" />
+    </line>
+    <line lang1="- Mon chapeau est aussi neuf." someNumber="780" image="dg\013_004.gif" lang2="- Моя шляпа тоже новая.">
+      <audioTime in="14037" out="16526" />
+    </line>
+    <line lang1="- De quelle couleur est-il?" someNumber="780" image="dg\013_004.gif" lang2="- Какого она цвета?">
+      <audioTime in="16526" out="19563" />
+    </line>
+    <line lang1="- Il est de la même couleur. Il est vert aussi." someNumber="80" image="dg\013_005.gif" lang2="- Она того же самого цвета. Она тоже зелёная.">
+      <audioTime in="19563" out="23054" />
+    </line>
+    <line lang1="- Il est charmant!" someNumber="None" image="dg\013_006.gif" lang2="- Она прелестная!">
+      <audioTime in="23054" out="24090" />
+    </line>
+  </lines>
+</lesson>

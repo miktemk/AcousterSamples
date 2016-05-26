@@ -1,0 +1,125 @@
+<lesson>
+  <header wav="i_020.wav" dic="p020" dlgName="Посмотри(те) на..." dlgFile="exr\ig019.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Guardate le scarpe di questo ragazzo." someNumber="None" image="dg\020_001.gif" lang2="- Посмотрите на туфли этого мальчика.">
+      <audioTime in="44" out="2327" />
+    </line>
+    <line lang1="Sono sporche?" someNumber="None" image="dg\020_001.gif" lang2="Они грязные?">
+      <audioTime in="2281" out="3591" />
+    </line>
+    <line lang1="- Non sono sporche." someNumber="None" image="dg\020_001.gif" lang2="- Они не грязные.">
+      <audioTime in="3647" out="5103" />
+    </line>
+    <line lang1="Sono pulite." someNumber="None" image="dg\020_001.gif" lang2="Они чистые.">
+      <audioTime in="5121" out="6185" />
+    </line>
+    <line lang1="- Guardate questi postini." someNumber="None" image="dg\020_002.gif" lang2="- Посмотрите на этих почтальонов.">
+      <audioTime in="6307" out="8340" />
+    </line>
+    <line lang1="Hanno freddo?" someNumber="None" image="dg\020_002.gif" lang2="Им холодно?">
+      <audioTime in="8268" out="9684" />
+    </line>
+    <line lang1="- Non hanno freddo." someNumber="None" image="dg\020_002.gif" lang2="- Им не холодно.">
+      <audioTime in="9916" out="11286" />
+    </line>
+    <line lang1="Hanno caldo." someNumber="None" image="dg\020_002.gif" lang2="Им жарко.">
+      <audioTime in="11237" out="12334" />
+    </line>
+    <line lang1="- Guardate questi barbieri." someNumber="None" image="dg\020_003.gif" lang2="- Посмотрите на этих парикмахеров.">
+      <audioTime in="12613" out="14356" />
+    </line>
+    <line lang1="Sono magri?" someNumber="None" image="dg\020_003.gif" lang2="Они худые?">
+      <audioTime in="14310" out="15484" />
+    </line>
+    <line lang1="- Non sono magri." someNumber="None" image="dg\020_003.gif" lang2="- Они не худые.">
+      <audioTime in="15676" out="17007" />
+    </line>
+    <line lang1="Sono grassi." someNumber="None" image="dg\020_003.gif" lang2="Они толстые.">
+      <audioTime in="16963" out="18227" />
+    </line>
+    <line lang1="- Guardate queste scarpe." someNumber="None" image="dg\020_004.gif" lang2="- Посмотрите на эти туфли.">
+      <audioTime in="18380" out="20078" />
+    </line>
+    <line lang1="Sono piccole?" someNumber="None" image="dg\020_004.gif" lang2="Они маленькие?">
+      <audioTime in="20085" out="21326" />
+    </line>
+    <line lang1="- Non sono piccole." someNumber="None" image="dg\020_004.gif" lang2="- Они не маленькие.">
+      <audioTime in="21451" out="22853" />
+    </line>
+    <line lang1="Sono grandi." someNumber="None" image="dg\020_004.gif" lang2="Они большие.">
+      <audioTime in="22899" out="24118" />
+    </line>
+    <line lang1="- Guardate questi negozi." someNumber="None" image="dg\020_005.gif" lang2="- Посмотрите на эти магазины.">
+      <audioTime in="24189" out="26263" />
+    </line>
+    <line lang1="Sono chiusi?" someNumber="None" image="dg\020_005.gif" lang2="Они закрыты?">
+      <audioTime in="26154" out="27453" />
+    </line>
+    <line lang1="- Non sono chiusi." someNumber="None" image="dg\020_005.gif" lang2="- Они не закрыты.">
+      <audioTime in="27379" out="28937" />
+    </line>
+    <line lang1="Sono aperti." someNumber="None" image="dg\020_005.gif" lang2="Они открыты.">
+      <audioTime in="28937" out="30246" />
+    </line>
+    <line lang1="- Guardate queste valigie." someNumber="None" image="dg\020_006.gif" lang2="- Посмотрите на эти чемоданы.">
+      <audioTime in="30311" out="32079" />
+    </line>
+    <line lang1="Sono pesanti?" someNumber="None" image="dg\020_006.gif" lang2="Они тяжёлые?">
+      <audioTime in="32024" out="33388" />
+    </line>
+    <line lang1="- Non sono pesanti." someNumber="None" image="dg\020_006.gif" lang2="- Они не тяжёлые.">
+      <audioTime in="33444" out="34992" />
+    </line>
+    <line lang1="Sono leggere." someNumber="None" image="dg\020_006.gif" lang2="Они лёгкие.">
+      <audioTime in="34947" out="36301" />
+    </line>
+    <line lang1="- Guardate la nonna e il nonno." someNumber="None" image="dg\020_007.gif" lang2="- Посмотрите на бабушку и дедушку.">
+      <audioTime in="36356" out="38829" />
+    </line>
+    <line lang1="Sono giovani?" someNumber="None" image="dg\020_007.gif" lang2="Они молодые?">
+      <audioTime in="38738" out="40049" />
+    </line>
+    <line lang1="- Non sono giovani." someNumber="None" image="dg\020_007.gif" lang2="- Они не молодые.">
+      <audioTime in="40203" out="41587" />
+    </line>
+    <line lang1="Sono vecchi." someNumber="None" image="dg\020_007.gif" lang2="Они старые.">
+      <audioTime in="41587" out="42625" />
+    </line>
+    <line lang1="- Guardate questi cappelli." someNumber="None" image="dg\020_008.gif" lang2="- Посмотрите на эти шляпы.">
+      <audioTime in="42961" out="44929" />
+    </line>
+    <line lang1="Sono nuovi?" someNumber="None" image="dg\020_008.gif" lang2="Они новые?">
+      <audioTime in="44884" out="46193" />
+    </line>
+    <line lang1="- Non sono nuovi." someNumber="None" image="dg\020_008.gif" lang2="- Они не новые.">
+      <audioTime in="46248" out="47612" />
+    </line>
+    <line lang1="Sono vecchi." someNumber="None" image="dg\020_008.gif" lang2="Они старые.">
+      <audioTime in="47521" out="48741" />
+    </line>
+    <line lang1="- Guardate questi poliziotti." someNumber="None" image="dg\020_009.gif" lang2="- Посмотрите на этих полицейских.">
+      <audioTime in="48885" out="50910" />
+    </line>
+    <line lang1="Sono bassi?" someNumber="None" image="dg\020_009.gif" lang2="Они низкие?">
+      <audioTime in="50865" out="52174" />
+    </line>
+    <line lang1="- Non sono bassi." someNumber="None" image="dg\020_009.gif" lang2="- Они не низкие.">
+      <audioTime in="52128" out="53676" />
+    </line>
+    <line lang1="Sono alti." someNumber="None" image="dg\020_009.gif" lang2="Они высокие.">
+      <audioTime in="53631" out="54851" />
+    </line>
+    <line lang1="- Guardate questi pantaloni." someNumber="None" image="dg\020_010.gif" lang2="- Посмотрите на эти брюки.">
+      <audioTime in="54985" out="56809" />
+    </line>
+    <line lang1="Sono lunghi?" someNumber="None" image="dg\020_010.gif" lang2="Они длинные?">
+      <audioTime in="56764" out="57938" />
+    </line>
+    <line lang1="- Non sono lunghi." someNumber="None" image="dg\020_010.gif" lang2="- Они не длинные.">
+      <audioTime in="57953" out="59392" />
+    </line>
+    <line lang1="Sono corti." someNumber="None" image="dg\020_010.gif" lang2="Они короткие.">
+      <audioTime in="59347" out="60521" />
+    </line>
+  </lines>
+</lesson>

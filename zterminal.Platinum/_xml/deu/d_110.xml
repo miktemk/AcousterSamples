@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_110.wav" dic="p110" dlgName="У меня есть ...меньше." dlgFile="exr\dg109.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ich #habe etwas Kaffee." someNumber="510" image="dg\110_001.gif" lang2="- У меня есть немного кофе.">
+      <audioTime in="382" out="1913" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="550" image="dg\110_001.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="2200" out="3922" />
+    </line>
+    <line lang1="Ich #habe sehr wenig Kaffee." someNumber="550" image="dg\110_001.gif" lang2="У меня очень мало кофе.">
+      <audioTime in="4018" out="6314" />
+    </line>
+    <line lang1="- Ich #habe einige Bücher." someNumber="None" image="dg\110_002.gif" lang2="- У меня есть несколько книг.">
+      <audioTime in="6506" out="8515" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="190" image="dg\110_002.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="8610" out="10715" />
+    </line>
+    <line lang1="Ich #habe sehr wenige Bücher." someNumber="190" image="dg\110_002.gif" lang2="У меня очень мало книг.">
+      <audioTime in="10811" out="13011" />
+    </line>
+    <line lang1="- Ich #habe etwas Fleisch." someNumber="380" image="dg\110_003.gif" lang2="- У меня есть немного мяса.">
+      <audioTime in="13490" out="15020" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="740" image="dg\110_003.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="15116" out="16838" />
+    </line>
+    <line lang1="Ich #habe sehr wenig Fleisch." someNumber="740" image="dg\110_003.gif" lang2="У меня очень мало мяса.">
+      <audioTime in="17029" out="18847" />
+    </line>
+    <line lang1="- Ich #habe etwas Geld." someNumber="None" image="dg\110_004.gif" lang2="- У меня есть немного денег.">
+      <audioTime in="19135" out="20761" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="None" image="dg\110_004.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="20856" out="22770" />
+    </line>
+    <line lang1="Ich #habe sehr wenig Geld." someNumber="None" image="dg\110_004.gif" lang2="У меня очень мало денег.">
+      <audioTime in="22865" out="24875" />
+    </line>
+    <line lang1="- Ich #habe etwas Gemüse." someNumber="None" image="dg\110_005.gif" lang2="- У меня есть немного овощей.">
+      <audioTime in="25162" out="27363" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="None" image="dg\110_005.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="27458" out="29181" />
+    </line>
+    <line lang1="Ich #habe sehr wenig Gemüse." someNumber="None" image="dg\110_005.gif" lang2="У меня очень мало овощей.">
+      <audioTime in="29467" out="31381" />
+    </line>
+    <line lang1="- Ich #habe etwas Biskuit." someNumber="None" image="dg\110_006.gif" lang2="- У меня есть немного бисквита.">
+      <audioTime in="32051" out="33772" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="None" image="dg\110_006.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="33964" out="36069" />
+    </line>
+    <line lang1="Ich #habe sehr wenig Biskuit." someNumber="None" image="dg\110_006.gif" lang2="У меня очень мало бисквита.">
+      <audioTime in="36165" out="38269" />
+    </line>
+    <line lang1="- Ich #habe einige Schreibgeräte." someNumber="380" image="dg\110_007.gif" lang2="- У меня есть несколько письменных принадлежностей.">
+      <audioTime in="38939" out="41044" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="190" image="dg\110_007.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="41331" out="42958" />
+    </line>
+    <line lang1="Ich #habe sehr wenige Schreibgeräte." someNumber="190" image="dg\110_007.gif" lang2="У меня очень мало письменных принадлежностей.">
+      <audioTime in="43340" out="46019" />
+    </line>
+    <line lang1="- Ich #habe etwas Schokolade." someNumber="None" image="dg\110_008.gif" lang2="- У меня есть немного шоколада.">
+      <audioTime in="46210" out="48315" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="None" image="dg\110_008.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="48315" out="50229" />
+    </line>
+    <line lang1="Ich #habe sehr wenig Schokolade." someNumber="None" image="dg\110_008.gif" lang2="У меня очень мало шоколада.">
+      <audioTime in="50229" out="52238" />
+    </line>
+    <line lang1="- Ich #habe einige Geschenke." someNumber="190" image="dg\110_009.gif" lang2="- У меня есть несколько подарков.">
+      <audioTime in="52524" out="54342" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="None" image="dg\110_009.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="54533" out="56160" />
+    </line>
+    <line lang1="Ich #habe sehr wenige Geschenke." someNumber="None" image="dg\110_009.gif" lang2="У меня очень мало подарков.">
+      <audioTime in="56160" out="57877" />
+    </line>
+    <line lang1="- Ich #habe etwas Tinte." someNumber="None" image="dg\110_010.gif" lang2="- У меня есть немного чернил.">
+      <audioTime in="57877" out="59683" />
+    </line>
+    <line lang1="- Ich #habe weniger als du." someNumber="None" image="dg\110_010.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="59796" out="61614" />
+    </line>
+    <line lang1="Ich #habe sehr wenig Tinte." someNumber="None" image="dg\110_010.gif" lang2="У меня очень мало чернил.">
+      <audioTime in="61710" out="63528" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_139.wav" dic="p139" dlgName="Инженер телефонной линии." dlgFile="exr\ig138.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Sei tu, Gianni?" someNumber="None" image="dg\139_001.gif" lang2="- Это ты, Джанни?">
+      <audioTime in="0" out="1337" />
+    </line>
+    <line lang1="- Sì, dica." someNumber="None" image="dg\139_001.gif" lang2="- Да, я слушаю.">
+      <audioTime in="1338" out="2330" />
+    </line>
+    <line lang1="- Dì a Maria che stasera faremo tardi per la cena." someNumber="None" image="dg\139_001.gif" lang2="- Скажи Марии, что мы опоздаем на ужин сегодня вечером.">
+      <audioTime in="2349" out="5323" />
+    </line>
+    <line lang1="- Scusi, ma non capisco." someNumber="None" image="dg\139_001.gif" lang2="- Извините, не понимаю.">
+      <audioTime in="5314" out="7230" />
+    </line>
+    <line lang1="- Maria non ti ha detto niente?" someNumber="None" image="dg\139_001.gif" lang2="- Разве Мария тебе не сказала?">
+      <audioTime in="7203" out="8929" />
+    </line>
+    <line lang1="Lei ha invitato Diana e me a uno cena." someNumber="290" image="dg\139_001.gif" lang2="Она пригласила Диану и меня к ужину сегодня вечером.">
+      <audioTime in="8901" out="11514" />
+    </line>
+    <line lang1="Ho detto che sarei stato da voi alle sei," someNumber="None" image="dg\139_001.gif" lang2="Я сказал, что буду у вас дома в шесть часов,">
+      <audioTime in="11532" out="13954" />
+    </line>
+    <line lang1="ma il mio capo vuole che io faccia gli straordinari." someNumber="None" image="dg\139_001.gif" lang2="но шеф хочет, чтобы я тут делал дополнительную работу.">
+      <audioTime in="14026" out="16918" />
+    </line>
+    <line lang1="Mi toccherà trattenermi in ufficio." someNumber="None" image="dg\139_001.gif" lang2="Мне придётся задержаться в конторе.">
+      <audioTime in="17062" out="19999" />
+    </line>
+    <line lang1="Non so quando finirò." someNumber="None" image="dg\139_001.gif" lang2="Я не знаю, когда я закончу.">
+      <audioTime in="20415" out="22051" />
+    </line>
+    <line lang1="Tra l'altro, mia moglie vuole sapere se Maria ha bisogno di aiuto." someNumber="None" image="dg\139_001.gif" lang2="Да, между прочим, моя жена хочет узнать, не нужна ли Марии какая-нибудь помощь.">
+      <audioTime in="22191" out="25795" />
+    </line>
+    <line lang1="- Non capisco di cosa parla." someNumber="None" image="dg\139_001.gif" lang2="- Я понятия не имею, о чем Вы говорите.">
+      <audioTime in="25989" out="28043" />
+    </line>
+    <line lang1="- Lei è Gianni Rossi, no?" someNumber="None" image="dg\139_001.gif" lang2="- Это Джанни Росси, не так ли?">
+      <audioTime in="28119" out="29767" />
+    </line>
+    <line lang1="- Sì, sono Gianni Rossi." someNumber="None" image="dg\139_001.gif" lang2="- Да, я Джанни Росси.">
+      <audioTime in="30057" out="31955" />
+    </line>
+    <line lang1="- Lei è Gianni Rossi, l'ingegnere, no?" someNumber="None" image="dg\139_001.gif" lang2="- Вы - Джанни Росси, инженер, не так ли?">
+      <audioTime in="32072" out="34591" />
+    </line>
+    <line lang1="- Giusto." someNumber="None" image="dg\139_001.gif" lang2="- Совершенно верно.">
+      <audioTime in="34591" out="35538" />
+    </line>
+    <line lang1="- Lei lavora nella compagnia meccanica estera, no?" someNumber="None" image="dg\139_001.gif" lang2="- И Вы работаете в Зарубежной Машиностроительной Компании, не правда ли?">
+      <audioTime in="35636" out="38329" />
+    </line>
+    <line lang1="- No." someNumber="None" image="dg\139_001.gif" lang2="- Нет.">
+      <audioTime in="38329" out="38917" />
+    </line>
+    <line lang1="Sono Gianni Rossi, tecnico telefonico," someNumber="None" image="dg\139_001.gif" lang2="Я Джанни Росси, телефонный мастер,">
+      <audioTime in="39046" out="41630" />
+    </line>
+    <line lang1="e sto riparando la vostra linea telefonica." someNumber="120" image="dg\139_001.gif" lang2="и я чиню Вашу телефонную линию.">
+      <audioTime in="41680" out="43954" />
+    </line>
+  </lines>
+</lesson>

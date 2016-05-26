@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guitar Time</string>
+    <string name="acouster_url">http://acouster.org</string>
+    <string name="menu_show_settings">Settings</string>
+	<string name="menu_how_to_play">How to play</string>
+	<string name="menu_acouster_url">acouster.org</string>
+    <string name="howto_title">How to play</string>
+    <string name="howto_got_it">Got it!</string>
+    <string name="howto_text"><![CDATA[<h1>How to play</h1>
+<p>blah blah blah blah blah blah blah blah blah blah blah blah
+blah blah blah blah blah blah blah blah blah blah blah blah
+blah blah blah blah blah blah blah blah blah blah blah blah.</p>
+<img src="boob.png" />
+<p>blah blah blah blah blah blah blah blah blah blah blah blah
+blah blah blah blah blah blah blah blah blah blah blah blah
+blah blah blah blah blah blah blah blah blah blah blah blah.</p>
+<p>You can always open these instructions from the context menu.</p>
+]]></string>
+
+</resources>

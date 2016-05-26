@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_068.wav" dic="p068" dlgName="Когда Вы были в?.." dlgFile="exr\ig067.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Quando è andato in chiesa, Lei?" someNumber="None" image="dg\068_001.gif" lang2="- Когда Вы были в церкви?">
+      <audioTime in="233" out="2045" />
+    </line>
+    <line lang1="- Ci sono andato domenica." someNumber="None" image="dg\068_001.gif" lang2="- Я была в церкви в воскресенье.">
+      <audioTime in="2162" out="3826" />
+    </line>
+    <line lang1="- Pietro quando è andato dal barbiere?" someNumber="None" image="dg\068_002.gif" lang2="- Когда Пьетро был в парикмахерской?">
+      <audioTime in="3857" out="6020" />
+    </line>
+    <line lang1="- Ci è andato mercoledì." someNumber="None" image="dg\068_002.gif" lang2="- Он был в парикмахерской в среду.">
+      <audioTime in="6033" out="7481" />
+    </line>
+    <line lang1="- Quando è andata dal macellaio la signora Righetti?" someNumber="None" image="dg\068_003.gif" lang2="- Когда госпожа Ригетти была у мясника?">
+      <audioTime in="7598" out="10183" />
+    </line>
+    <line lang1="- Ci è andata mercoledì." someNumber="None" image="dg\068_003.gif" lang2="- Она была у мясника в среду.">
+      <audioTime in="10313" out="11806" />
+    </line>
+    <line lang1="- Quando è stato in casa, Lei?" someNumber="None" image="dg\068_004.gif" lang2="- Когда Вы были дома?">
+      <audioTime in="11860" out="13560" />
+    </line>
+    <line lang1="- Ci sono stato domenica." someNumber="820" image="dg\068_004.gif" lang2="- Я был дома в воскресенье.">
+      <audioTime in="13735" out="15372" />
+    </line>
+    <line lang1="- Quando è stata in ufficio la signora Verdi?" someNumber="None" image="dg\068_005.gif" lang2="- Когда госпожа Верди была в офисе?">
+      <audioTime in="15430" out="17885" />
+    </line>
+    <line lang1="- Ci è stata martedì." someNumber="None" image="dg\068_005.gif" lang2="- Она была в офисе во вторник.">
+      <audioTime in="17943" out="19392" />
+    </line>
+    <line lang1="- Maria quando è andata dal fornaio?" someNumber="None" image="dg\068_006.gif" lang2="- Когда Мария была у пекаря?">
+      <audioTime in="19522" out="21567" />
+    </line>
+    <line lang1="- Ci è stata domenica." someNumber="None" image="dg\068_006.gif" lang2="- Она была у пекаря в воскресенье.">
+      <audioTime in="21594" out="23263" />
+    </line>
+    <line lang1="- Quando è andata in latteria, Lei?" someNumber="None" image="dg\068_007.gif" lang2="- Когда Вы были в молочном магазине?">
+      <audioTime in="23263" out="25075" />
+    </line>
+    <line lang1="- Ci sono andata sabato." someNumber="None" image="dg\068_007.gif" lang2="- Я была в молочном магазине в субботу.">
+      <audioTime in="25250" out="27003" />
+    </line>
+    <line lang1="- Giorgio quando è andato dal tabaccaio?" someNumber="None" image="dg\068_008.gif" lang2="- Когда Джорджио был у табачника?">
+      <audioTime in="27062" out="29517" />
+    </line>
+    <line lang1="- Ci è andato mercoledì." someNumber="None" image="dg\068_008.gif" lang2="- Он был у табачника в среду.">
+      <audioTime in="29575" out="31270" />
+    </line>
+    <line lang1="- Quando è andata dal droghiere la signora Renghi?" someNumber="None" image="dg\068_009.gif" lang2="- Когда госпожа Ренги была у бакалейщика?">
+      <audioTime in="31270" out="33783" />
+    </line>
+    <line lang1="- Ci è andata lunedì." someNumber="None" image="dg\068_009.gif" lang2="- Она была у бакалейщика в понедельник.">
+      <audioTime in="33783" out="35245" />
+    </line>
+    <line lang1="- Quando è andata a scuola, Lei?" someNumber="None" image="dg\068_010.gif" lang2="- Когда Вы были в школе?">
+      <audioTime in="35277" out="37115" />
+    </line>
+    <line lang1="- Ci sono andata lunedì." someNumber="None" image="dg\068_010.gif" lang2="- Я была в школе в понедельник.">
+      <audioTime in="37174" out="38681" />
+    </line>
+  </lines>
+</lesson>

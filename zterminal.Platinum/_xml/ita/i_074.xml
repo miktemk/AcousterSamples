@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="i_074.wav" dic="p074" dlgName="Почему?.. Потому что..." dlgFile="exr\ig073.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Perchè si è tagliato oggi?" someNumber="None" image="dg\074_001.gif" lang2="- Почему он порезался сегодня?">
+      <audioTime in="44" out="1740" />
+    </line>
+    <line lang1="- Perchè si è fatto la barba in fretta." someNumber="None" image="dg\074_001.gif" lang2="- Потому что он брился спешно.">
+      <audioTime in="1695" out="4261" />
+    </line>
+    <line lang1="- Cosa ha preso?" someNumber="None" image="dg\074_002.gif" lang2="- Что он взял?">
+      <audioTime in="4261" out="5521" />
+    </line>
+    <line lang1="- Ha preso un dolce." someNumber="None" image="dg\074_002.gif" lang2="- Он взял пирожное.">
+      <audioTime in="5521" out="7202" />
+    </line>
+    <line lang1="- Cosa ne ha fatto?" someNumber="None" image="dg\074_002.gif" lang2="- Что он сделал с ним?">
+      <audioTime in="7082" out="8702" />
+    </line>
+    <line lang1="- L'ha mangiato subito." someNumber="None" image="dg\074_002.gif" lang2="- Он быстро съел его.">
+      <audioTime in="8642" out="10278" />
+    </line>
+    <line lang1="- Lei che cosa gli ha dato?" someNumber="None" image="dg\074_003.gif" lang2="- Что Вы дали ему?">
+      <audioTime in="10383" out="12003" />
+    </line>
+    <line lang1="- Gli ho dato un bicchiere d'acqua." someNumber="None" image="dg\074_003.gif" lang2="- Я дала ему стакан воды.">
+      <audioTime in="12063" out="13894" />
+    </line>
+    <line lang1="- Cosa ne ha fatto?" someNumber="None" image="dg\074_003.gif" lang2="- Что он сделал с ним?">
+      <audioTime in="13984" out="15365" />
+    </line>
+    <line lang1="- L'ha bevuto avidamente." someNumber="None" image="dg\074_003.gif" lang2="- Он жадно выпил его.">
+      <audioTime in="15365" out="17080" />
+    </line>
+    <line lang1="- Quando Lo ha incontrato?" someNumber="300" image="dg\074_004.gif" lang2="- Когда Вы встретили его?">
+      <audioTime in="17165" out="18756" />
+    </line>
+    <line lang1="- L'ho incontrato l'altro ieri." someNumber="None" image="dg\074_004.gif" lang2="- Я встретил его позавчера.">
+      <audioTime in="18696" out="20601" />
+    </line>
+    <line lang1="- Come l'ha accolto?" someNumber="None" image="dg\074_004.gif" lang2="- Как она встретила Вас?">
+      <audioTime in="20706" out="22087" />
+    </line>
+    <line lang1="- Mi ha accolto con cordialità." someNumber="None" image="dg\074_004.gif" lang2="- Она встретила меня тепло.">
+      <audioTime in="22042" out="23848" />
+    </line>
+    <line lang1="- Perchè siete arrivati tardi a casa?" someNumber="None" image="dg\074_005.gif" lang2="- Почему вы оба приехали домой поздно?">
+      <audioTime in="24028" out="26196" />
+    </line>
+    <line lang1="- Perchè l'autobus andava lentamente." someNumber="780" image="dg\074_005.gif" lang2="- Потому что автобус ехал медленно.">
+      <audioTime in="26168" out="28464" />
+    </line>
+    <line lang1="- Che cosa hanno fatto le dattilografe stamattina?" someNumber="None" image="dg\074_006.gif" lang2="- Что машинистки делали сегодня утром?">
+      <audioTime in="28689" out="31435" />
+    </line>
+    <line lang1="- Hanno lavorato assiduamente." someNumber="380" image="dg\074_006.gif" lang2="- Они усердно работали.">
+      <audioTime in="31390" out="33191" />
+    </line>
+    <line lang1="- Come avete passato la notte?" someNumber="None" image="dg\074_007.gif" lang2="- Как вы провели прошлую ночь?">
+      <audioTime in="33191" out="35051" />
+    </line>
+    <line lang1="- L'abbiamo passata benissimo." someNumber="None" image="dg\074_007.gif" lang2="- Мы провели очень хорошо.">
+      <audioTime in="35111" out="36971" />
+    </line>
+    <line lang1="- Come ha nuotato oggi?" someNumber="None" image="dg\074_008.gif" lang2="- Как он плавал сегодня днём?">
+      <audioTime in="36971" out="38532" />
+    </line>
+    <line lang1="- Ha nuotato benissimo." someNumber="None" image="dg\074_008.gif" lang2="- Он плавал очень хорошо.">
+      <audioTime in="38532" out="39968" />
+    </line>
+  </lines>
+</lesson>

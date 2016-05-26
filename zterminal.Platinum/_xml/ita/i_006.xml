@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="i_006.wav" dic="p006" dlgName="Это... машина?" dlgFile="exr\ig005.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Questa è una Volvo." someNumber="620" image="dg\006_001.gif" lang2="- Это &quot;Вольво&quot;.">
+      <audioTime in="0" out="1579" />
+    </line>
+    <line lang1="È una macchina svedese o francese?" someNumber="None" image="dg\006_001.gif" lang2="Это шведская или французская машина?">
+      <audioTime in="1524" out="4380" />
+    </line>
+    <line lang1="- Non è una macchina francese." someNumber="None" image="dg\006_001.gif" lang2="- Это не французская машина.">
+      <audioTime in="4380" out="6232" />
+    </line>
+    <line lang1="È svedese." someNumber="None" image="dg\006_001.gif" lang2="Это шведская машина.">
+      <audioTime in="6316" out="7361" />
+    </line>
+    <line lang1="- Questa è una Citroen." someNumber="None" image="dg\006_002.gif" lang2="- Это &quot;Ситроен&quot;.">
+      <audioTime in="7361" out="9258" />
+    </line>
+    <line lang1="È una macchina francese o svedese?" someNumber="None" image="dg\006_002.gif" lang2="Это французская или шведская машина?">
+      <audioTime in="9258" out="12011" />
+    </line>
+    <line lang1="- Non è una macchina svedese." someNumber="None" image="dg\006_002.gif" lang2="- Это не шведская машина.">
+      <audioTime in="12011" out="14088" />
+    </line>
+    <line lang1="È francese." someNumber="None" image="dg\006_002.gif" lang2="Это французская машина.">
+      <audioTime in="14088" out="15623" />
+    </line>
+    <line lang1="- Questa è una Volkswagen." someNumber="None" image="dg\006_003.gif" lang2="- Это &quot;Фольксваген&quot;.">
+      <audioTime in="15623" out="17881" />
+    </line>
+    <line lang1="È una macchina tedesca o olandese?" someNumber="None" image="dg\006_003.gif" lang2="Это немецкая или голландская машина?">
+      <audioTime in="17881" out="20907" />
+    </line>
+    <line lang1="- Non è una macchina olandese." someNumber="None" image="dg\006_003.gif" lang2="- Это не голландская машина.">
+      <audioTime in="20907" out="23075" />
+    </line>
+    <line lang1="È tedesca." someNumber="None" image="dg\006_003.gif" lang2="Это немецкая машина.">
+      <audioTime in="23075" out="24293" />
+    </line>
+    <line lang1="- Questa è una Daf." someNumber="None" image="dg\006_004.gif" lang2="- Это &quot;Даф&quot;.">
+      <audioTime in="24293" out="26190" />
+    </line>
+    <line lang1="È una macchina olandese o tedesca?" someNumber="None" image="dg\006_004.gif" lang2="Это голландская или немецкая машина?">
+      <audioTime in="26475" out="28952" />
+    </line>
+    <line lang1="- Non è una macchina tedesca." someNumber="None" image="dg\006_004.gif" lang2="- Это не немецкая машина.">
+      <audioTime in="29142" out="31001" />
+    </line>
+    <line lang1="È olandese." someNumber="None" image="dg\006_004.gif" lang2="Это голландская машина.">
+      <audioTime in="31043" out="32252" />
+    </line>
+    <line lang1="- Questa è una Moscvich." someNumber="None" image="dg\006_005.gif" lang2="- Это &quot;Москвич&quot;.">
+      <audioTime in="32194" out="34406" />
+    </line>
+    <line lang1="È una macchina russa o inglese?" someNumber="None" image="dg\006_005.gif" lang2="Это русская или английская машина?">
+      <audioTime in="34406" out="36620" />
+    </line>
+    <line lang1="- Non è una macchina inglese." someNumber="None" image="dg\006_005.gif" lang2="- Это не английская машина.">
+      <audioTime in="36910" out="38457" />
+    </line>
+    <line lang1="È russa." someNumber="None" image="dg\006_005.gif" lang2="Это русская машина.">
+      <audioTime in="38459" out="39509" />
+    </line>
+    <line lang1="- Questa è una Morris." someNumber="None" image="dg\006_006.gif" lang2="- Это &quot;Морис&quot;.">
+      <audioTime in="39617" out="41017" />
+    </line>
+    <line lang1="È una macchina inglese o russa?" someNumber="None" image="dg\006_006.gif" lang2="Это английская или русская машина?">
+      <audioTime in="41017" out="43817" />
+    </line>
+    <line lang1="- Non è una macchina russa." someNumber="None" image="dg\006_006.gif" lang2="- Это не русская машина.">
+      <audioTime in="43817" out="46075" />
+    </line>
+    <line lang1="È inglese." someNumber="None" image="dg\006_006.gif" lang2="Это английская машина.">
+      <audioTime in="46075" out="47339" />
+    </line>
+    <line lang1="- Questa è una Buick." someNumber="None" image="dg\006_007.gif" lang2="- Это &quot;Бьюик&quot;.">
+      <audioTime in="47617" out="49237" />
+    </line>
+    <line lang1="È una macchina americana o italiana?" someNumber="None" image="dg\006_007.gif" lang2="Это американская или итальянская машина?">
+      <audioTime in="49237" out="51811" />
+    </line>
+    <line lang1="- Non è una macchina italiana." someNumber="None" image="dg\006_007.gif" lang2="- Это не итальянская машина.">
+      <audioTime in="51811" out="53843" />
+    </line>
+    <line lang1="È americana." someNumber="None" image="dg\006_007.gif" lang2="Это американская машина.">
+      <audioTime in="53937" out="55125" />
+    </line>
+    <line lang1="- Questa è una Fiat." someNumber="None" image="dg\006_008.gif" lang2="- Это &quot;Фиат&quot;.">
+      <audioTime in="55061" out="56958" />
+    </line>
+    <line lang1="È una macchina italiana o americana?" someNumber="None" image="dg\006_008.gif" lang2="Это итальянская или американская машина?">
+      <audioTime in="56958" out="59531" />
+    </line>
+    <line lang1="- Questa non è una macchina americana." someNumber="None" image="dg\006_008.gif" lang2="- Это не американская машина.">
+      <audioTime in="59646" out="61871" />
+    </line>
+    <line lang1="È italiana." someNumber="None" image="dg\006_008.gif" lang2="Это итальянская машина.">
+      <audioTime in="61907" out="63144" />
+    </line>
+  </lines>
+</lesson>

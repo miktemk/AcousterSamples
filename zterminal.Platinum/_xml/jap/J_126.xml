@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="j_126.wav" dlgName="Визит" dic="p126" />
+  <lines>
+    <line lang1="―よく*いらっしゃいました。" someNumber="128" image="126_001.jpg" lang2="- Добро пожаловать!">
+      <audioTime in="0" out="2721" />
+    </line>
+    <line lang1="―お邪魔します。" someNumber="109" image="126_002.jpg" lang2="- Разрешите вас побеспокоить!">
+      <audioTime in="2721" out="3882" />
+    </line>
+    <line lang1="―どうぞ、お上がり*ください。" someNumber="109" image="126_003.jpg" lang2="- Пожалуйста, проходите!">
+      <audioTime in="3882" out="6149" />
+    </line>
+    <line lang1="お元気*で*いらっしゃいます*か。" someNumber="None" image="126_004.jpg" lang2="Как Ваше здоровье?">
+      <audioTime in="6149" out="8273" />
+    </line>
+    <line lang1="ーお陰様で。ありがとう*ございます。" someNumber="None" image="126_005.jpg" lang2="- Слава богу. Большое спасибо.">
+      <audioTime in="8273" out="10904" />
+    </line>
+    <line lang1="ーどうぞ、こちら*へ。" someNumber="None" image="126_006.jpg" lang2="- Пожалуйста сюда.">
+      <audioTime in="10904" out="13083" />
+    </line>
+    <line lang1="ーつまらない*もの*です*が。" someNumber="None" image="126_007.jpg" lang2="- Это ничтожная вещь...">
+      <audioTime in="13083" out="16031" />
+    </line>
+    <line lang1="ーあら、なん*でしょう。わたし*に？" someNumber="None" image="126_007.jpg" lang2="- Ой, что это? Это мне?">
+      <audioTime in="16031" out="18512" />
+    </line>
+    <line lang1="ーお気*に*召さない*かもしれません*が、" someNumber="None" image="126_009.jpg" lang2="- Может быть, это и не придётся Вам по вкусу,">
+      <audioTime in="18512" out="20905" />
+    </line>
+    <line lang1="お*使い*ください。" someNumber="None" image="126_009.jpg" lang2="но прошу Вас, примите это.">
+      <audioTime in="20905" out="22098" />
+    </line>
+    <line lang1="ーどうも*ありがとう*ございます。" someNumber="None" image="126_011.jpg" lang2="- Большое спасибо.">
+      <audioTime in="22098" out="24635" />
+    </line>
+    <line lang1="開けて*みても*良い*です*か。" someNumber="None" image="126_011.jpg" lang2="Можно раскрыть его и посмотреть?">
+      <audioTime in="24635" out="27123" />
+    </line>
+    <line lang1="ーどうぞ、どうぞ。京都*の*お土産*なん*です。" someNumber="None" image="126_013.jpg" lang2="- Пожалуйста. Это сувенир из Киото.">
+      <audioTime in="27123" out="30133" />
+    </line>
+    <line lang1="いかが*です*か。" someNumber="None" image="126_013.jpg" lang2="Как Вам?">
+      <audioTime in="30133" out="32036" />
+    </line>
+    <line lang1="ーあら、わたし*が*以前*から*欲しかった*もの*です。" someNumber="None" image="126_013.jpg" lang2="- Ой! Это то, чего мне хотелось уже давно!">
+      <audioTime in="32036" out="36261" />
+    </line>
+    <line lang1="焼き物*や*磁器*は*わたし*の*趣味*なん*です。" someNumber="None" image="126_016.jpg" lang2="Керамика и фарфор - моё увлечение.">
+      <audioTime in="36261" out="39665" />
+    </line>
+    <line lang1="本当*に*ありがとう*ございました。" someNumber="None" image="126_016.jpg" lang2="В самом деле, большое спасибо Вам.">
+      <audioTime in="39665" out="42039" />
+    </line>
+    <line lang1="どうぞ、おかけ*ください。" someNumber="None" image="126_018.jpg" lang2="Пожалуйста, садитесь!">
+      <audioTime in="42039" out="44589" />
+    </line>
+    <line lang1="お茶*を*どうぞ。" someNumber="None" image="126_019.jpg" lang2="Пожалуйста, чаю!">
+      <audioTime in="44589" out="47155" />
+    </line>
+    <line lang1="何*も*ありません*が、召し上がって*下さい。" someNumber="109" image="126_019.jpg" lang2="У меня нет ничего особенного, угощайтесь, пожалуйста!">
+      <audioTime in="47155" out="50388" />
+    </line>
+    <line lang1="ーどうぞ、おかまいなく。" someNumber="None" image="126_021.jpg" lang2="- Пожалуйста, не беспокойтесь!">
+      <audioTime in="50388" out="51897" />
+    </line>
+    <line lang1="ーこの*お菓子*は*私*の*手作り*なん*です、どうぞ。" someNumber="None" image="126_022.jpg" lang2="- Эти сладости я приготовила сама, так что отведайте!">
+      <audioTime in="51897" out="56850" />
+    </line>
+    <line lang1="ーおいしそう*です*ね。いただきます。" someNumber="106" image="126_022.jpg" lang2="- Очень аппетитно. Попробую.">
+      <audioTime in="56850" out="60824" />
+    </line>
+  </lines>
+</lesson>

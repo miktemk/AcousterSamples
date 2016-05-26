@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="d_107.wav" dic="p107" dlgName="Вам нравится это платье?" dlgFile="exr\dg107.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Gefällt Ihnen dieses Kleid, meine Dame?" someNumber="None" image="dg\107_001.gif" lang2="- Вам нравится это платье, мадам?">
+      <audioTime in="432" out="3021" />
+    </line>
+    <line lang1="- Die Farbe #gefällt mir sehr." someNumber="None" image="dg\107_001.gif" lang2="- Мне очень нравится цвет.">
+      <audioTime in="3237" out="5036" />
+    </line>
+    <line lang1="Es #ist ein wunderschönes Kleid, aber es #ist mir zu klein." someNumber="290" image="dg\107_001.gif" lang2="Это прелестное платье, но оно слишком мало мне.">
+      <audioTime in="5108" out="8994" />
+    </line>
+    <line lang1="- Und wie #finden Sie das?" someNumber="None" image="dg\107_002.gif" lang2="- А как вы находите это?">
+      <audioTime in="9210" out="11009" />
+    </line>
+    <line lang1="Das #ist ein wunderschönes Kleid." someNumber="None" image="dg\107_002.gif" lang2="Это прелестное платье.">
+      <audioTime in="11584" out="13455" />
+    </line>
+    <line lang1="Das #ist ein sehr schönes Kleid." someNumber="None" image="dg\107_002.gif" lang2="Это очень красивое платье.">
+      <audioTime in="13671" out="15830" />
+    </line>
+    <line lang1="Kurze Röcke #sind jetzt in Mode." someNumber="640" image="dg\107_002.gif" lang2="Короткие юбки в моде сейчас.">
+      <audioTime in="15973" out="18060" />
+    </line>
+    <line lang1="#Möchten Sie es #anprobieren?" someNumber="640" image="dg\107_002.gif" lang2="Хотели бы Вы померить?">
+      <audioTime in="18347" out="19930" />
+    </line>
+    <line lang1="- Schön." someNumber="None" image="dg\107_003.gif" lang2="- Хорошо.">
+      <audioTime in="19931" out="21059" />
+    </line>
+    <line lang1="Ich #habe Angst, dass dieses grüne Kleid mir zu klein #ist." someNumber="700" image="dg\107_003.gif" lang2="Я боюсь, это зелёное платье слишком мало для меня.">
+      <audioTime in="21442" out="25183" />
+    </line>
+    <line lang1="Es #ist kleiner als das blaue." someNumber="310" image="dg\107_004.gif" lang2="Оно меньше, чем синее.">
+      <audioTime in="25256" out="27270" />
+    </line>
+    <line lang1="Mir #gefällt auch die Farbe nicht." someNumber="None" image="dg\107_004.gif" lang2="Мне также не нравится цвет.">
+      <audioTime in="27486" out="29789" />
+    </line>
+    <line lang1="Es #passt mir gar nicht." someNumber="360" image="dg\107_005.gif" lang2="Оно мне совсем не подходит.">
+      <audioTime in="30077" out="31559" />
+    </line>
+    <line lang1="Ich #meine, das blaue Kleid #ist angenehmer." someNumber="360" image="dg\107_005.gif" lang2="Я думаю, синее платье приятнее.">
+      <audioTime in="31559" out="34223" />
+    </line>
+    <line lang1="#Können Sie mir ein anderes Kleid in blau #zeigen?" someNumber="None" image="dg\107_005.gif" lang2="Можете ли Вы показать мне другое синее платье?">
+      <audioTime in="34681" out="37056" />
+    </line>
+    <line lang1="Ich #möchte ein solches Kleid #haben, es #soll aber meine Größe #sein." someNumber="640" image="dg\107_006.gif" lang2="Я хочу такое платье, но оно должно быть моего размера.">
+      <audioTime in="37415" out="41517" />
+    </line>
+    <line lang1="- Ich #habe Angst, dass ich kein größeres Kleid #habe." someNumber="980" image="dg\107_006.gif" lang2="- Я боюсь, что у меня нет платья большего размера.">
+      <audioTime in="41733" out="44971" />
+    </line>
+    <line lang1="Das #ist im Geschäft das größte Kleid." someNumber="980" image="dg\107_006.gif" lang2="Это самое большое платье в магазине.">
+      <audioTime in="44971" out="47364" />
+    </line>
+  </lines>
+</lesson>

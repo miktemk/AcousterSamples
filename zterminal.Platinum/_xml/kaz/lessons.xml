@@ -1,0 +1,17 @@
+<lessons>
+	<category name="Grammar">
+		<lesson filename="xml/glag01.xml" uiTitle="verbs 1"/>
+		<lesson filename="xml/glag02.xml" uiTitle="verbs 2"/>
+		<lesson filename="xml/glag03.xml" uiTitle="verbs 3"/>
+		<lesson filename="xml/glag04.xml" uiTitle="verbs 4"/>
+		<lesson filename="xml/glag05.xml" uiTitle="verbs 5"/>
+		<lesson filename="xml/glag06.xml" uiTitle="verbs 6"/>
+		<lesson filename="xml/su01.xml" uiTitle="nouns 1"/>
+		<lesson filename="xml/su02.xml" uiTitle="nouns 2"/>
+		<lesson filename="xml/su03.xml" uiTitle="nouns 3"/>
+		<lesson filename="xml/su04.xml" uiTitle="nouns 4"/>
+	</category>
+	<category name="Radio">
+		<lesson filename="xml/kaz_fast01.xml" uiTitle="kaz fast 01"/>
+	</category>
+</lessons>

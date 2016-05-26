@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="j_026.wav" dlgName="День женщины" dic="p026" />
+  <lines>
+    <line lang1="ーすみません、おくさん*の*一日*を*おしえて*下さい。" someNumber="15" image="026_001.jpg" lang2="- Извините, госпожа, расскажите пожалуйста, как Вы проводите целый день.">
+      <audioTime in="0" out="4553" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="026_002.jpg" lang2="- Хорошо.">
+      <audioTime in="4553" out="6589" />
+    </line>
+    <line lang1="私*は*あさ*早く*おきます。６時*半*ごろ*です。" someNumber="43" image="026_003.jpg" lang2="Я встаю рано утром. Около половины седьмого.">
+      <audioTime in="6589" out="11734" />
+    </line>
+    <line lang1="すぐ*に、あさ*ごはん*を*つくります。" someNumber="113" image="026_004.jpg" lang2="Сразу готовлю завтрак.">
+      <audioTime in="11734" out="14660" />
+    </line>
+    <line lang1="しゅじん*と*むすこ*は*７時*に*おきます。" someNumber="None" image="026_005.jpg" lang2="Муж и сын встают в 7 часов.">
+      <audioTime in="14660" out="18078" />
+    </line>
+    <line lang1="みんな*いっしょに*朝*ごはん*を*たべます。" someNumber="None" image="026_006.jpg" lang2="Все вместе завтракаем.">
+      <audioTime in="18078" out="21345" />
+    </line>
+    <line lang1="しゅじん*の*かいしゃ*は*とおい*です。" someNumber="None" image="026_007.jpg" lang2="Фирма мужа находится далеко.">
+      <audioTime in="21345" out="24647" />
+    </line>
+    <line lang1="家*から*かいしゃ*まで*１じかん*ぐらい*かかります。" someNumber="43" image="026_008.jpg" lang2="(Дорога) от дома до фирмы занимает примерно час.">
+      <audioTime in="24647" out="29010" />
+    </line>
+    <line lang1="です*から*しゅじん*は*８時*ごろ*家*を*でます。" someNumber="120" image="026_009.jpg" lang2="Поэтому муж выходит из дома примерно в 8 часов.">
+      <audioTime in="29010" out="32810" />
+    </line>
+    <line lang1="むすこ*の*学校*は*とおく*ありません。" someNumber="25" image="026_010.jpg" lang2="А школа сына не очень далеко.">
+      <audioTime in="32810" out="36197" />
+    </line>
+    <line lang1="あるいて*１５分*ぐらい*です。" someNumber="None" image="026_011.jpg" lang2="Пешком - минут пятнадцать.">
+      <audioTime in="36197" out="39584" />
+    </line>
+    <line lang1="むすこ*は*８時１０分*に*家*を*でます。" someNumber="None" image="026_011.jpg" lang2="Сын выходит из дома в 10 минут девятого.">
+      <audioTime in="39584" out="43805" />
+    </line>
+    <line lang1="ーそれ*から*おくさん*は*何*を*します*か。" someNumber="05" image="026_013.jpg" lang2="- А что Вы делаете потом?">
+      <audioTime in="43805" out="47082" />
+    </line>
+    <line lang1="ー私*は*毎日*とても*いそがしい*です。" someNumber="None" image="026_014.jpg" lang2="- Я очень занята каждый день.">
+      <audioTime in="47082" out="51309" />
+    </line>
+    <line lang1="そうじ*を*します。" someNumber="None" image="026_015.jpg" lang2="Я убираю,">
+      <audioTime in="51309" out="53208" />
+    </line>
+    <line lang1="せんたく*を*します。" someNumber="None" image="026_016.jpg" lang2="стираю,">
+      <audioTime in="53208" out="55252" />
+    </line>
+    <line lang1="かいもの*を*します。" someNumber="163" image="026_017.jpg" lang2="делаю покупки,">
+      <audioTime in="55252" out="57518" />
+    </line>
+    <line lang1="ばん*ごはん*を*つくります。" someNumber="None" image="026_018.jpg" lang2="готовлю ужин.">
+      <audioTime in="57518" out="59799" />
+    </line>
+    <line lang1="ときどき*友だち*と*あいます。" someNumber="08" image="026_019.jpg" lang2="Иногда встречаюсь с друзьями.">
+      <audioTime in="59799" out="62727" />
+    </line>
+    <line lang1="ーばん*ごはん*の*あと*で*何*を*します*か。" someNumber="None" image="026_020.jpg" lang2="- Что Вы делаете после ужина?">
+      <audioTime in="62727" out="66289" />
+    </line>
+    <line lang1="ーさら*を*あらいます。" someNumber="None" image="026_021.jpg" lang2="- Мою тарелки.">
+      <audioTime in="66289" out="68802" />
+    </line>
+    <line lang1="それ*から*えいが*を*見ます。" someNumber="None" image="026_022.jpg" lang2="Потом смотрю фильм.">
+      <audioTime in="68802" out="71591" />
+    </line>
+    <line lang1="―よる*何時間*ぐらい*ねます*か。" someNumber="43" image="026_023.jpg" lang2="- Примерно сколько часов Вы спите ночью?">
+      <audioTime in="71591" out="75012" />
+    </line>
+    <line lang1="―６時間*ぐらい*ねます。" someNumber="39" image="026_024.jpg" lang2="- Около 6 часов.">
+      <audioTime in="75012" out="77550" />
+    </line>
+  </lines>
+</lesson>

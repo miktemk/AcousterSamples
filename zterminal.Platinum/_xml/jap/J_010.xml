@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="J_010.wav" dlgName="Где находится?" dic="p010" />
+  <lines>
+    <line lang1="ーすみません、あさひ*ぎんこう*は*どこ*に*あります*か。" someNumber="04" image="010_001.jpg" lang2="- Простите, где находится банк Асахи?">
+      <audioTime in="0" out="6190" />
+    </line>
+    <line lang1="ーあさひ*ぎんこう*です*か。ええと、ひがし*ぐち*です。" someNumber="162" image="010_001.jpg" lang2="- Банк Асахи? Постойте-ка... У восточного выхода.">
+      <audioTime in="7367" out="13646" />
+    </line>
+    <line lang1="ーここ*です*か。" someNumber="None" image="010_003.jpg" lang2="- Тут?">
+      <audioTime in="13646" out="15361" />
+    </line>
+    <line lang1="ーいいえ、東口*です。" someNumber="None" image="010_004.jpg" lang2="- Нет, у восточного выхода.">
+      <audioTime in="15361" out="19915" />
+    </line>
+    <line lang1="えき*の*まえ*に*あります。" someNumber="144" image="010_005.jpg" lang2="Перед станцией.">
+      <audioTime in="19915" out="22861" />
+    </line>
+    <line lang1="ーどうも*ありがとう。" someNumber="None" image="010_006.jpg" lang2="- Большое спасибо.">
+      <audioTime in="22861" out="25144" />
+    </line>
+    <line lang1="ーいいえ。" someNumber="128" image="010_006.jpg" lang2="- Не стоит.">
+      <audioTime in="25144" out="27775" />
+    </line>
+    <line lang1="ーすみません、くすりや*は*どこ*に*あります*か。" someNumber="None" image="010_008.jpg" lang2="- Простите, где находится аптека?">
+      <audioTime in="27775" out="33737" />
+    </line>
+    <line lang1="ーくすりや*は*はなや*の*そば*に*あります。" someNumber="126" image="010_009.jpg" lang2="- Аптека находится рядом с цветочным магазином.">
+      <audioTime in="33737" out="38436" />
+    </line>
+    <line lang1="ーありがとう*ございました。" someNumber="None" image="010_010.jpg" lang2="- Большое спасибо.">
+      <audioTime in="38436" out="41207" />
+    </line>
+    <line lang1="ーどう*いたしまして。" someNumber="None" image="010_010.jpg" lang2="- Не стоит благодарности.">
+      <audioTime in="41207" out="44384" />
+    </line>
+    <line lang1="ーすみません、ゆうびんきょく*は*どこ*に*あります*か。" someNumber="None" image="010_012.jpg" lang2="- Простите, где находится почта?">
+      <audioTime in="44384" out="50757" />
+    </line>
+    <line lang1="ーあそこ*に*あります。スーパー*の*向こう*に*あります。" someNumber="126" image="010_013.jpg" lang2="- Вон там. Напротив супермаркета.">
+      <audioTime in="50757" out="57447" />
+    </line>
+    <line lang1="ーすみません。この*かい*に*おてあらい*が*あります*か。" someNumber="None" image="010_014.jpg" lang2="- Простите, на этом этаже есть умывальная комната?">
+      <audioTime in="57447" out="64637" />
+    </line>
+    <line lang1="ーありません。三*かい*に*あります。" someNumber="34" image="010_014.jpg" lang2="- Нет. Есть на третьем этаже.">
+      <audioTime in="64637" out="70158" />
+    </line>
+    <line lang1="ーすみません。おてあらい*は*どこ*に*あります*か。" someNumber="None" image="010_016.jpg" lang2="- Простите, где находится умывальная комната?">
+      <audioTime in="70158" out="75348" />
+    </line>
+    <line lang1="ーおもちゃう*りば*の*よこ*に*あります。" someNumber="162" image="010_017.jpg" lang2="- В ряду прилавка игрушек.">
+      <audioTime in="75348" out="80039" />
+    </line>
+    <line lang1="ー右がわ*です*か、左がわ*です*か。" someNumber="None" image="010_018.jpg" lang2="- Справа или слева?">
+      <audioTime in="80039" out="84801" />
+    </line>
+    <line lang1="ー右がわ*です。あそこ*です。" someNumber="None" image="010_019.jpg" lang2="- Справа. Вон там.">
+      <audioTime in="84801" out="89097" />
+    </line>
+    <line lang1="ーどうも*ありがとう*ございました。" someNumber="None" image="010_020.jpg" lang2="- Большое спасибо.">
+      <audioTime in="89097" out="92313" />
+    </line>
+    <line lang1="ーどう*いたしまして。" someNumber="None" image="010_021.jpg" lang2="- Не стоит благодарности.">
+      <audioTime in="92313" out="95487" />
+    </line>
+    <line lang1="ーお母さん、ワイシャツ*が*へや*に*ありません。" someNumber="None" image="010_022.jpg" lang2="- Мама, (моей) сорочки нет в комнате.">
+      <audioTime in="95487" out="101646" />
+    </line>
+    <line lang1="どこ*に*あります*か。" someNumber="None" image="010_022.jpg" lang2="Где она?">
+      <audioTime in="101646" out="103818" />
+    </line>
+    <line lang1="ーワイシャツ*は*みんな*ようふくダンス*の*なか*です。" someNumber="126" image="010_022.jpg" lang2="- Все сорочки в гардеробе.">
+      <audioTime in="103818" out="109465" />
+    </line>
+    <line lang1="ーようふくダンス*に*あおい*ワイシャツ*が*ありません。" someNumber="None" image="010_025.jpg" lang2="- В гардеробе нет синей сорочки.">
+      <audioTime in="109465" out="114643" />
+    </line>
+    <line lang1="しろい*ワイシャツ*だけ*あります。" someNumber="123" image="010_025.jpg" lang2="Есть только белые сорочки.">
+      <audioTime in="114643" out="117940" />
+    </line>
+    <line lang1="ーひろし、あおい*ワイシャツ*は*きたない*です。" someNumber="None" image="010_027.jpg" lang2="- Хироси, синяя сорочка грязная.">
+      <audioTime in="117940" out="123163" />
+    </line>
+    <line lang1="せんたくき*の*なか*に*あります。" someNumber="172" image="010_027.jpg" lang2="Она в стиральной машине.">
+      <audioTime in="123163" out="126223" />
+    </line>
+  </lines>
+</lesson>

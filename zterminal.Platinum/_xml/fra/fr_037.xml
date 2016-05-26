@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="FR_037.wav" dlgName="Игра в карты" dlgFile="exr\frg037.txt" />
+  <lines>
+    <line lang1="- Est-ce que vous aimez le hasard?" someNumber="None" image="f.jpg" lang2="- Любите ли вы азартную игру?">
+      <audioTime in="0" out="2749" />
+    </line>
+    <line lang1="- Oh, oui!" someNumber="None" image="f.jpg" lang2="- О, да!">
+      <audioTime in="2749" out="4180" />
+    </line>
+    <line lang1="- Alors, jouons au poker." someNumber="None" image="f.jpg" lang2="- Давайте, сыграем в покер!">
+      <audioTime in="4180" out="7238" />
+    </line>
+    <line lang1="Voici un jeu de cinquante-deux cartes." someNumber="None" image="f.jpg" lang2="Вот колода из пятидесяти двух карт.">
+      <audioTime in="7238" out="11022" />
+    </line>
+    <line lang1="- Et-il complet?" someNumber="None" image="f.jpg" lang2="- Все ли карты в ней?">
+      <audioTime in="11022" out="13195" />
+    </line>
+    <line lang1="- Je crois bien, mais il faut toujours compter les cartes." someNumber="None" image="f.jpg" lang2="- Думаю, что да, но всегда надо посчитать карты.">
+      <audioTime in="13195" out="17962" />
+    </line>
+    <line lang1="- Alors je compte: un, deux," someNumber="None" image="f.jpg" lang2="- Тогда я считаю: один, два,">
+      <audioTime in="17962" out="22608" />
+    </line>
+    <line lang1="trois, quatre, cinq, six, sept, huit, neuf, dix," someNumber="None" image="f.jpg" lang2="три, четыре, пять, шесть, семь, восемь, девять, десять,">
+      <audioTime in="22608" out="33392" />
+    </line>
+    <line lang1="onze, douze, treize, quatorze, quinze," someNumber="None" image="f.jpg" lang2="одиннадцать, двенадцать, тринадцать, четырнадцать, пятнадцать,">
+      <audioTime in="33392" out="40318" />
+    </line>
+    <line lang1="seize, dix-sept, dix-huit, dix-neuf, vingt," someNumber="None" image="f.jpg" lang2="шестнадцать, семнадцать, восемнадцать, девятнадцать, двадцать,">
+      <audioTime in="40318" out="47374" />
+    </line>
+    <line lang1="vingt et un, vingt-deux, vingt-trois, vingt-quatre, vingt-cinq, vingt-six." someNumber="None" image="f.jpg" lang2="двадцать один, двадцать два, двадцать три, двадцать четыре, двадцать пять, двадцать шесть.">
+      <audioTime in="47374" out="56779" />
+    </line>
+    <line lang1="J'ai vingt-six cartes." someNumber="None" image="f.jpg" lang2="У меня двадцать шесть карт.">
+      <audioTime in="56779" out="60175" />
+    </line>
+    <line lang1="- Moi aussi, j'ai vingt-six cartes." someNumber="None" image="f.jpg" lang2="- У меня тоже двадцать шесть карт.">
+      <audioTime in="60175" out="63122" />
+    </line>
+    <line lang1="Voyons maintenant combien font vingt-six et vingt-six." someNumber="None" image="f.jpg" lang2="Посмотрим теперь, сколько будет двадцать шесть и двадцать шесть.">
+      <audioTime in="63122" out="68773" />
+    </line>
+    <line lang1="- Vingt-six et vingt-six font cinquante-deux." someNumber="None" image="f.jpg" lang2="- Двадцать шесть и двадцать шесть - пятьдесят два.">
+      <audioTime in="68773" out="73851" />
+    </line>
+    <line lang1="- Alors, c'est parfait, le jeu est complet." someNumber="None" image="f.jpg" lang2="- Тогда всё в порядке, все карты в комплекте.">
+      <audioTime in="73851" out="78879" />
+    </line>
+    <line lang1="- Et quel est l'ordre des cartes?" someNumber="None" image="f.jpg" lang2="- А какая последовательность карт?">
+      <audioTime in="78879" out="81892" />
+    </line>
+    <line lang1="- L'ordre des cartes est suivant:" someNumber="None" image="f.jpg" lang2="- Последовательность карт следующая:">
+      <audioTime in="81892" out="84827" />
+    </line>
+    <line lang1="as, roi, dame, valet, dix, neuf, huit, etc... jusqu'à deux." someNumber="None" image="f.jpg" lang2="туз, король, дама, валет, десятка, девятка, восьмерка и т.д. до двойки.">
+      <audioTime in="84827" out="94769" />
+    </line>
+    <line lang1="- Alors, commençons!" someNumber="None" image="f.jpg" lang2="- В таком случае, начинаем!">
+      <audioTime in="94769" out="97371" />
+    </line>
+  </lines>
+</lesson>

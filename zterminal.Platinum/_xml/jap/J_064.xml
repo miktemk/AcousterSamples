@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="j_064.wav" dlgName="На почте" dic="p064" />
+  <lines>
+    <line lang1="ーイリナ*さん、その*重い*にもつ*を*持って*どこ*へ*行きます*か。" someNumber="75" image="064_001.jpg" lang2="- Ирина-сан, куда (Вы) идёте с этой тяжёлой ношей?">
+      <audioTime in="0" out="5172" />
+    </line>
+    <line lang1="―郵便局*です。" someNumber="None" image="064_002.jpg" lang2="- На почту.">
+      <audioTime in="5172" out="7224" />
+    </line>
+    <line lang1="日本*で*買った*本*を*国*へ*送りたい*ん*です。" someNumber="107" image="064_003.jpg" lang2="Хочу отправить домой книги, купленные в Японии.">
+      <audioTime in="7367" out="11468" />
+    </line>
+    <line lang1="―それ*は*重すぎる*ん*じゃない*です*か。" someNumber="162" image="064_004.jpg" lang2="- Не слишком ли это тяжело?">
+      <audioTime in="11468" out="14383" />
+    </line>
+    <line lang1="高い*ん*じゃない*です*か。" someNumber="132" image="064_004.jpg" lang2="Не дорого ли будет стоить?">
+      <audioTime in="14383" out="16557" />
+    </line>
+    <line lang1="―航空便*は*高い*です*が、" someNumber="148" image="064_006.jpg" lang2="- Аэропочтой дорого,">
+      <audioTime in="16557" out="19933" />
+    </line>
+    <line lang1="船便*は*あまり*高く*ありません。" someNumber="None" image="064_007.jpg" lang2="но морем не очень дорого.">
+      <audioTime in="19933" out="22910" />
+    </line>
+    <line lang1="―ぼく*も*郵便局*へ*行きます*から、手伝いましょう*か。" someNumber="None" image="064_008.jpg" lang2="- Так как я тоже иду на почту, помочь (Вам)?">
+      <audioTime in="22910" out="27944" />
+    </line>
+    <line lang1="―すみません。どうも*ありがとう。" someNumber="None" image="064_008.jpg" lang2="- Простите. Большое спасибо.">
+      <audioTime in="27944" out="32146" />
+    </line>
+    <line lang1="キム*さん*は*その*小包*を*送り*に*行きます*か。" someNumber="None" image="064_010.jpg" lang2="Ким-сан, (Вы) идёте отправить эту посылку?">
+      <audioTime in="32146" out="36326" />
+    </line>
+    <line lang1="―はい。これ*は*おみやげ*です。" someNumber="None" image="064_011.jpg" lang2="- Да, это сувениры.">
+      <audioTime in="36326" out="39524" />
+    </line>
+    <line lang1="―こんな*重い*にもつ*な*のに、すみません。" someNumber="157" image="064_012.jpg" lang2="- Простите за такую тяжёлую ношу.">
+      <audioTime in="39524" out="44462" />
+    </line>
+    <line lang1="―いいえ、大丈夫*です。" someNumber="None" image="064_012.jpg" lang2="- Не стоит. Всё в порядке.">
+      <audioTime in="44462" out="46556" />
+    </line>
+    <line lang1="重さ*は*８キロ*ぐらい*でしょう*か。" someNumber="162" image="064_014.jpg" lang2="Вес, наверное, около 8 килограммов?">
+      <audioTime in="46556" out="49246" />
+    </line>
+    <line lang1="―ちょうど*８キロ*です。計り*で*計りました。" someNumber="07" image="064_014.jpg" lang2="- Ровно 8 килограммов.(Я) взвесила на весах.">
+      <audioTime in="49246" out="54735" />
+    </line>
+    <line lang1="―１キロ*当たり*いくら*です*か。" someNumber="None" image="064_016.jpg" lang2="- Сколько стоит за килограмм?">
+      <audioTime in="54735" out="57366" />
+    </line>
+    <line lang1="―船便*の*場合*は*５百円*です。" someNumber="156" image="064_017.jpg" lang2="- В случае морской почты 500 иен.">
+      <audioTime in="57366" out="60634" />
+    </line>
+    <line lang1="―そんな*に*高くない*です*ね。" someNumber="None" image="064_018.jpg" lang2="- Это не так уж дорого, правда!">
+      <audioTime in="60634" out="63311" />
+    </line>
+    <line lang1="さ、着きました。" someNumber="128" image="064_019.jpg" lang2="Ну вот, прибыли.">
+      <audioTime in="63311" out="65137" />
+    </line>
+    <line lang1="―本当*に*助かりました。" someNumber="None" image="064_020.jpg" lang2="- (Вы) мне в самом деле помогли.">
+      <audioTime in="65137" out="67372" />
+    </line>
+    <line lang1="ありがとう*ございました。" someNumber="None" image="064_020.jpg" lang2="Большое спасибо!">
+      <audioTime in="67372" out="69211" />
+    </line>
+    <line lang1="すみません、この*荷物*を*船便*で*送りたい*ん*です*が。" someNumber="None" image="064_022.jpg" lang2="Простите, (я) хотела бы отправить этот груз морем.">
+      <audioTime in="69211" out="75837" />
+    </line>
+    <line lang1="―この*用紙*に*書き込んで*下さい。" someNumber="163" image="064_023.jpg" lang2="- Заполните этот бланк.">
+      <audioTime in="75837" out="78663" />
+    </line>
+    <line lang1="―キム*さん、ここ*に*国*の*住所*を*書く*ん*です*か。" someNumber="04" image="064_024.jpg" lang2="- Ким-сан, сюда вписать домашний адрес?">
+      <audioTime in="78663" out="84864" />
+    </line>
+    <line lang1="―はい。ここ*に*名前、東京*の*住所" someNumber="None" image="064_025.jpg" lang2="- Да. А сюда вписывают имя, токийский адрес,">
+      <audioTime in="84864" out="88553" />
+    </line>
+    <line lang1="それ*から*にもつ*の*重さ*と*ないよう*を*書き込む*ん*です。" someNumber="None" image="064_025.jpg" lang2="затем вес и содержимое груза.">
+      <audioTime in="88553" out="92851" />
+    </line>
+    <line lang1="ぼく*が*やりましょう*か。" someNumber="083" image="064_027.jpg" lang2="Может быть, я сделаю (мне помочь)?">
+      <audioTime in="92851" out="95037" />
+    </line>
+    <line lang1="―おねがい*します。" someNumber="None" image="064_027.jpg" lang2="- Прошу Вас.">
+      <audioTime in="95037" out="96861" />
+    </line>
+  </lines>
+</lesson>

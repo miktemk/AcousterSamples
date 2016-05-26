@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="j_096.wav" dlgName="Гора Фудзи" dic="p096" />
+  <lines>
+    <line lang1="ー東京*から*富士山*を*見る*こと*が*できます*か。" someNumber="94" image="096_001.jpg" lang2="- Можно ли увидеть Фудзияму из Токио?">
+      <audioTime in="0" out="3782" />
+    </line>
+    <line lang1="よく*晴れた*時*に*は、東京*タワー*の*展望台*から*見える、と*聞きました*が。" someNumber="160" image="096_002.jpg" lang2="Я слышала, что в ясную погоду (ее) можно увидеть со смотровой площадки Токийской башни.">
+      <audioTime in="3782" out="9462" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="096_003.jpg" lang2="- Говорят, что так.">
+      <audioTime in="9462" out="10844" />
+    </line>
+    <line lang1="私*は*京都*へ*しんかんせん*で*行く*途中*見た*こと*が*あります。" someNumber="110" image="096_004.jpg" lang2="Мне приходилось видеть (ее) по дороге в Киото из (окна) синкансена.">
+      <audioTime in="10844" out="15164" />
+    </line>
+    <line lang1="とても*はっきり*見えました。" someNumber="None" image="096_004.jpg" lang2="(Она) была видна очень отчетливо.">
+      <audioTime in="15164" out="17480" />
+    </line>
+    <line lang1="大変*いんしょう*に*のこりました。" someNumber="None" image="096_004.jpg" lang2="И оставила на меня большое впечатление.">
+      <audioTime in="17480" out="20002" />
+    </line>
+    <line lang1="雲*の*上*に*山頂*が*見えていました。" someNumber="None" image="096_007.jpg" lang2="Над облаками виднелась вершина.">
+      <audioTime in="20002" out="23519" />
+    </line>
+    <line lang1="ちゅうふく*に*雲*が*あって、山頂*は*太陽*に*かがやいて、" someNumber="None" image="096_007.jpg" lang2="На полпути от подножья к вершине были облака, вершина блестела в лучах солнца -">
+      <audioTime in="23519" out="28770" />
+    </line>
+    <line lang1="忘れられない*光景*でした。" someNumber="None" image="096_007.jpg" lang2="незабываемое зрелище.">
+      <audioTime in="28770" out="30691" />
+    </line>
+    <line lang1="先生、富士山*に*ついて*教えて*下さいません*か。" someNumber="None" image="096_010.jpg" lang2="Сэнсэй, не расскажите ли нам о Фудзияме?">
+      <audioTime in="30691" out="34759" />
+    </line>
+    <line lang1="ーよろこんで。" someNumber="None" image="096_011.jpg" lang2="- С радостью!">
+      <audioTime in="34759" out="36267" />
+    </line>
+    <line lang1="富士山*の*頂上*は*石*ばかり*で、深さ*２４０*メートル*の*火口*が*あります。" someNumber="123" image="096_012.jpg" lang2="На вершине горы Фудзи только камни, и кратер, глубиной в 240 метров.">
+      <audioTime in="36267" out="42814" />
+    </line>
+    <line lang1="山*の*すそ*の*に*は、森*が*広がっています。" someNumber="None" image="096_013.jpg" lang2="У подножья горы простираются леса.">
+      <audioTime in="42814" out="46612" />
+    </line>
+    <line lang1="森*の*中*に*湖*が*五つ*あります。" someNumber="None" image="096_013.jpg" lang2="В лесах есть пять озер.">
+      <audioTime in="46612" out="50428" />
+    </line>
+    <line lang1="富士*五湖*と*呼ばれています。" someNumber="174" image="096_013.jpg" lang2="Они называются 5 озер Фудзи.">
+      <audioTime in="50428" out="53025" />
+    </line>
+    <line lang1="富士山*の*登山期*は、７月*の*始め*の*山*開き*から*８月２６日*まで*で、" someNumber="None" image="096_016.jpg" lang2="Сезон восхождения на гору Фудзи начинается в начале июля открытием горы и продолжается до 26 августа,">
+      <audioTime in="53025" out="60048" />
+    </line>
+    <line lang1="その*期間*に*たくさん*の*人*が*登ります。" someNumber="None" image="096_016.jpg" lang2="и в этот период в гору взбирается много людей.">
+      <audioTime in="60048" out="62993" />
+    </line>
+    <line lang1="ー登る*人*は*皆、登山*家*です*か。" someNumber="172" image="096_018.jpg" lang2="- Все, кто взбираются, - альпинисты?">
+      <audioTime in="62993" out="66683" />
+    </line>
+    <line lang1="ーちがいます。若い人*も、老人*も、だれ*で*も*登ぼります。" someNumber="None" image="096_018.jpg" lang2="- Ошибаетесь. Взбираются и молодые, и старики - кто угодно.">
+      <audioTime in="66683" out="72014" />
+    </line>
+    <line lang1="―先生、一回*で*も*富士山*に*登ぼったら、" someNumber="085" image="096_020.jpg" lang2="- Сэнсэй, я слышал, что если хоть раз подняться на гору Фудзи,">
+      <audioTime in="72014" out="75704" />
+    </line>
+    <line lang1="幸せ*に*なる*と*聞いた*こと*が*あります。本当*です*か。" someNumber="None" image="096_020.jpg" lang2="станешь счастливым. Это правда?">
+      <audioTime in="75704" out="79455" />
+    </line>
+    <line lang1="ーそう*思われています*ね。" someNumber="None" image="096_020.jpg" lang2="- В самом деле, так считается.">
+      <audioTime in="79455" out="81564" />
+    </line>
+    <line lang1="山頂*で*見る*日*の*出*は*ため*息*が*出る*ほど*美しい*です。" someNumber="159" image="096_023.jpg" lang2="Вид восходящего солнца с вершины настолько красив, что невольно вырывается вздох (восхищения)!">
+      <audioTime in="81564" out="85948" />
+    </line>
+  </lines>
+</lesson>

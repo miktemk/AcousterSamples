@@ -1,0 +1,62 @@
+<lesson>
+  <header wav="i_089.wav" dic="p089" dlgName="Этот дом продаётся?" dlgFile="exr\ig089.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Buon giorno." someNumber="None" image="dg\089_001.gif" lang2="- Добрый день.">
+      <audioTime in="59" out="1243" />
+    </line>
+    <line lang1="Questa casa è in vendita, vero?" someNumber="None" image="dg\089_001.gif" lang2="Я полагаю, что этот дом продаётся?">
+      <audioTime in="1243" out="2944" />
+    </line>
+    <line lang1="- Verissimo." someNumber="None" image="dg\089_001.gif" lang2="- Совершенно верно.">
+      <audioTime in="2900" out="3848" />
+    </line>
+    <line lang1="- Posso dare un'occhiata?" someNumber="None" image="dg\089_001.gif" lang2="- Можно мне на него взглянуть?">
+      <audioTime in="3846" out="5444" />
+    </line>
+    <line lang1="- Certo, entri." someNumber="None" image="dg\089_001.gif" lang2="- Конечно, входите.">
+      <audioTime in="5490" out="6573" />
+    </line>
+    <line lang1="- Da quanto tempo abita qui?" someNumber="None" image="dg\089_002.gif" lang2="- Как давно Вы здесь живете?">
+      <audioTime in="6792" out="8463" />
+    </line>
+    <line lang1="- Abito qui da venti anni." someNumber="None" image="dg\089_002.gif" lang2="- Я живу здесь двадцать лет.">
+      <audioTime in="8582" out="11305" />
+    </line>
+    <line lang1="- Venti anni! Un bel pezzo." someNumber="None" image="dg\089_002.gif" lang2="- Двадцать лет! Это большой срок.">
+      <audioTime in="11364" out="13717" />
+    </line>
+    <line lang1="- Sì, sono qui dal millenovecentoquarantasette." someNumber="220" image="dg\089_002.gif" lang2="- Да, я живу здесь с 1947 года.">
+      <audioTime in="13849" out="16809" />
+    </line>
+    <line lang1="- Allora perchè la vuole vendere?" someNumber="None" image="dg\089_002.gif" lang2="- Тогда почему же Вы его хотите продать?">
+      <audioTime in="16868" out="18763" />
+    </line>
+    <line lang1="- Perchè sono appena andato in pensione." someNumber="None" image="dg\089_002.gif" lang2="- Потому что я только что вышел на пенсию.">
+      <audioTime in="18644" out="20893" />
+    </line>
+    <line lang1="Voglio comprare una piccola casa in campagna." someNumber="None" image="dg\089_002.gif" lang2="Я хочу купить маленький домик за городом.">
+      <audioTime in="20938" out="23630" />
+    </line>
+    <line lang1="- E quanto costa questa casa?" someNumber="None" image="dg\089_002.gif" lang2="- И сколько стоит этот дом?">
+      <audioTime in="23689" out="25569" />
+    </line>
+    <line lang1="- Trecento cinquanta milioni." someNumber="None" image="dg\089_002.gif" lang2="- 350 миллионов.">
+      <audioTime in="25642" out="27582" />
+    </line>
+    <line lang1="- È una bella cifra!" someNumber="None" image="dg\089_002.gif" lang2="- Это большая сумма денег!">
+      <audioTime in="27522" out="29121" />
+    </line>
+    <line lang1="- Ma li vale tutti." someNumber="None" image="dg\089_002.gif" lang2="- Но дом стоит того.">
+      <audioTime in="29061" out="30287" />
+    </line>
+    <line lang1="- Ecco, la casa mi piace, ma non posso dire ancora niente di definitivo." someNumber="None" image="dg\089_002.gif" lang2="- Ну что же, мне дом нравится, но я пока ничего определённого сказать не могу.">
+      <audioTime in="30510" out="35276" />
+    </line>
+    <line lang1="Deve prima vederla mia moglie." someNumber="None" image="dg\089_002.gif" lang2="На него должна посмотреть моя жена.">
+      <audioTime in="35203" out="37170" />
+    </line>
+    <line lang1="- L'ultima parola è sempre della donna." someNumber="None" image="dg\089_002.gif" lang2="- За женщиной всегда последнее слово.">
+      <audioTime in="37170" out="39287" />
+    </line>
+  </lines>
+</lesson>

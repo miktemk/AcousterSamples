@@ -1,0 +1,62 @@
+<lesson>
+  <header wav="d_077.wav" dic="p077" dlgName="Зубная боль." dlgFile="exr\dg077.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Guten Morgen, Herr Klein!" someNumber="640" image="dg\077_001.gif" lang2="- Доброе утро, господин Клайн!">
+      <audioTime in="474" out="2171" />
+    </line>
+    <line lang1="- Guten Morgen." someNumber="640" image="dg\077_001.gif" lang2="- Доброе утро.">
+      <audioTime in="2171" out="3210" />
+    </line>
+    <line lang1="Ich #möchte den Zahnarzt #sehen, bitte." someNumber="640" image="dg\077_001.gif" lang2="Я хотел бы видеть зубного врача, пожалуйста.">
+      <audioTime in="3257" out="5565" />
+    </line>
+    <line lang1="- #Haben Sie einen Termin?" someNumber="None" image="dg\077_001.gif" lang2="- У Вас назначена встреча?">
+      <audioTime in="5836" out="7194" />
+    </line>
+    <line lang1="- Nein." someNumber="None" image="dg\077_001.gif" lang2="- Нет.">
+      <audioTime in="7194" out="8323" />
+    </line>
+    <line lang1="- #Ist es dringend?" someNumber="360" image="dg\077_001.gif" lang2="- Это крайне необходимо?">
+      <audioTime in="8347" out="9637" />
+    </line>
+    <line lang1="- Ja." someNumber="360" image="dg\077_001.gif" lang2="- Да.">
+      <audioTime in="9637" out="10449" />
+    </line>
+    <line lang1="Es #ist dringend." someNumber="None" image="dg\077_001.gif" lang2="Это необходимо.">
+      <audioTime in="10449" out="11578" />
+    </line>
+    <line lang1="Ich #fühle mich entsetzlich." someNumber="None" image="dg\077_001.gif" lang2="Я чувствую себя ужасно.">
+      <audioTime in="11605" out="13573" />
+    </line>
+    <line lang1="Ich #habe heftige Zahnschmerzen." someNumber="None" image="dg\077_001.gif" lang2="У меня сильная зубная боль.">
+      <audioTime in="13709" out="16083" />
+    </line>
+    <line lang1="- #Können Sie am 24. April, am Montag um 10 Uhr morgens #kommen?" someNumber="None" image="dg\077_001.gif" lang2="- Вы можете прийти в 10 утра в понедельник 24 апреля?">
+      <audioTime in="16355" out="21377" />
+    </line>
+    <line lang1="- Ich #muss den Zahnarzt gleich #sehen, Schwester." someNumber="680" image="dg\077_001.gif" lang2="- Я должен видеть зубного врача немедленно, медсестра.">
+      <audioTime in="21717" out="24227" />
+    </line>
+    <line lang1="- Der Zahnarzt #ist im Moment sehr beschäftigt." someNumber="510" image="dg\077_001.gif" lang2="- Дантист очень занят в данный момент.">
+      <audioTime in="24296" out="26875" />
+    </line>
+    <line lang1="#Können Sie um 2 Uhr nachmittags #kommen?" someNumber="510" image="dg\077_001.gif" lang2="Вы можете прийти в 2 часа пополудни?">
+      <audioTime in="27214" out="29386" />
+    </line>
+    <line lang1="- Das #ist zu spät." someNumber="None" image="dg\077_001.gif" lang2="- Это очень поздно.">
+      <audioTime in="29725" out="31150" />
+    </line>
+    <line lang1="#Kann der Zahnarzt mich gleich #sehen?" someNumber="None" image="dg\077_001.gif" lang2="Нельзя ли встретиться с зубным врачом сейчас?">
+      <audioTime in="31286" out="33390" />
+    </line>
+    <line lang1="- Ich #bin #überzeugt, dass er es jetzt nicht #kann, Herr Klein." someNumber="980" image="dg\077_001.gif" lang2="- Я уверена, что он не может сейчас, господин Клейн.">
+      <audioTime in="33593" out="38344" />
+    </line>
+    <line lang1="#Können Sie bis 12 Uhr #warten?" someNumber="980" image="dg\077_001.gif" lang2="Вы можете подождать до 12 часов?">
+      <audioTime in="38616" out="40720" />
+    </line>
+    <line lang1="- Ich #kann #warten, aber meine Zahnschmerzen #können nicht." someNumber="960" image="dg\077_001.gif" lang2="- Я могу подождать, но моя зубная боль не может.">
+      <audioTime in="40991" out="44724" />
+    </line>
+  </lines>
+</lesson>

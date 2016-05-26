@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="j_051.wav" dlgName="Сезон дождей" dic="p051" />
+  <lines>
+    <line lang1="ー外*は*どう*です*か。" someNumber="None" image="051_001.jpg" lang2="- Как (какая погода) на улице?">
+      <audioTime in="0" out="3577" />
+    </line>
+    <line lang1="ー雨*が*ふっています。" someNumber="76" image="051_001.jpg" lang2="- Идёт дождь.">
+      <audioTime in="3577" out="6479" />
+    </line>
+    <line lang1="風*も*ふいています。" someNumber="None" image="051_003.jpg" lang2="И ветер дует.">
+      <audioTime in="6479" out="8415" />
+    </line>
+    <line lang1="そろそろ*つゆ*入り*です。" someNumber="114" image="051_003.jpg" lang2="Скоро начало сезона дождей.">
+      <audioTime in="8415" out="11171" />
+    </line>
+    <line lang1="ーつゆ*は*何*でしょう*か。" someNumber="165" image="051_005.jpg" lang2="- Что такое сезон дождей?">
+      <audioTime in="11171" out="13865" />
+    </line>
+    <line lang1="ー６月*ごろ*に*一ヶ月*ぐらい*毎日*雨*が*ふる*きせつ*の*こと*です。" someNumber="152" image="051_005.jpg" lang2="- Это сезон, продолжающийся около месяца, начиная примерно с июня, когда дожди идут каждый день.">
+      <audioTime in="13865" out="20289" />
+    </line>
+    <line lang1="梅*の*実*が*なる*ころ*に*雨*が*ふる*ので、" someNumber="154" image="051_007.jpg" lang2="Дожди идут в сезон, когда поспевают плоды японской сливы,">
+      <audioTime in="20289" out="24167" />
+    </line>
+    <line lang1="名前*は*梅雨*に*なりました。" someNumber="None" image="051_007.jpg" lang2="поэтому этот сезон называют сливовыми дождями.">
+      <audioTime in="24167" out="26356" />
+    </line>
+    <line lang1="ー毎日*ふります*か。" someNumber="67" image="051_009.jpg" lang2="- Дожди идут каждый день?">
+      <audioTime in="26356" out="28908" />
+    </line>
+    <line lang1="ーほとんど*毎日*ふります。" someNumber="None" image="051_009.jpg" lang2="- Почти каждый день.">
+      <audioTime in="28908" out="31284" />
+    </line>
+    <line lang1="ーまど*から*何*が*見えます*か。" someNumber="None" image="051_011.jpg" lang2="- Что видно из окна?">
+      <audioTime in="31284" out="34168" />
+    </line>
+    <line lang1="ー車*が*走ています。" someNumber="76" image="051_011.jpg" lang2="- Проезжают машины.">
+      <audioTime in="34168" out="36879" />
+    </line>
+    <line lang1="人*が*歩いていません。" someNumber="None" image="051_011.jpg" lang2="Пешеходов нет. (Люди пешком не ходят)">
+      <audioTime in="36879" out="39429" />
+    </line>
+    <line lang1="みんな*車*に*のっています。" someNumber="04" image="051_011.jpg" lang2="Все едут в машинах.">
+      <audioTime in="39429" out="42580" />
+    </line>
+    <line lang1="ー店*は*どう*です*か。" someNumber="54" image="051_015.jpg" lang2="- А как насчёт магазинов?">
+      <audioTime in="42580" out="45353" />
+    </line>
+    <line lang1="ろ店*は*閉まっています*か。" someNumber="None" image="051_015.jpg" lang2="Прилавки под открытым небом закрыты?">
+      <audioTime in="45353" out="47715" />
+    </line>
+    <line lang1="ーはい。外*で*何*も*売っていません。" someNumber="07" image="051_015.jpg" lang2="- Да. Под открытым небом ничего не продают.">
+      <audioTime in="47715" out="52289" />
+    </line>
+    <line lang1="ー梅雨*は*いや*です*ね。" someNumber="None" image="051_018.jpg" lang2="- Сезон дождей - неприятная штука, не так ли.">
+      <audioTime in="52289" out="54462" />
+    </line>
+    <line lang1="ーそんな*こと*は*ありません。" someNumber="None" image="051_018.jpg" lang2="- Это не так.">
+      <audioTime in="54462" out="57853" />
+    </line>
+    <line lang1="のうぎょう*に*とって*大切*です*よ。" someNumber="127" image="051_020.jpg" lang2="(Он) необходим для сельского хозяйства.">
+      <audioTime in="57853" out="60421" />
+    </line>
+    <line lang1="今、田*に*いね*が*ぐんぐん*そだっています。" someNumber="114" image="051_021.jpg" lang2="Сейчас на рисовых полях быстро идут в рост колосья.">
+      <audioTime in="60421" out="65769" />
+    </line>
+    <line lang1="畑*に*やさい、むぎ*など*が*そだっています。" someNumber="None" image="051_022.jpg" lang2="На полях вырастают овощи, зерновые и так далее.">
+      <audioTime in="65769" out="69900" />
+    </line>
+    <line lang1="のはら*に*くさ*が*そだっています。" someNumber="None" image="051_023.jpg" lang2="На лугах вырастают травы.">
+      <audioTime in="69900" out="73367" />
+    </line>
+    <line lang1="どこ*で*も*水*が*いります。" someNumber="56" image="051_024.jpg" lang2="Везде нужна вода.">
+      <audioTime in="73367" out="76312" />
+    </line>
+    <line lang1="梅雨*に*雨*が*少ない*と*お米*や*やさい*は*よく*できません。" someNumber="156" image="051_025.jpg" lang2="Если в сезон дождей дождей бывает мало, не удается (собрать) много риса и овощей.">
+      <audioTime in="76312" out="81977" />
+    </line>
+    <line lang1="梅雨*は*いや*な*もの*です*が、" someNumber="148" image="051_026.jpg" lang2="Сезон дождей для людей неприятная штука,">
+      <audioTime in="81977" out="85130" />
+    </line>
+    <line lang1="しゅうかく*に*は*やはり*大切*な*もの*です。" someNumber="None" image="051_026.jpg" lang2="но для урожая, конечно, важное дело.">
+      <audioTime in="85130" out="87854" />
+    </line>
+    <line lang1="ー分かりました。" someNumber="None" image="051_028.jpg" lang2="- Понятно.">
+      <audioTime in="87854" out="90690" />
+    </line>
+    <line lang1="ロシア*の*ばあい*は*雪*が*大切*です。" someNumber="None" image="051_029.jpg" lang2="Для России важен снег.">
+      <audioTime in="90690" out="93873" />
+    </line>
+    <line lang1="冬*に*雪*が*少ない*と*畑*に*こむぎ*は*できません。" someNumber="156" image="051_030.jpg" lang2="Если зимой мало снега, то на полях не удается пшеница.">
+      <audioTime in="93873" out="98659" />
+    </line>
+  </lines>
+</lesson>

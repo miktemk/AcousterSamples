@@ -1,0 +1,74 @@
+<lesson>
+  <header wav="i_137.wav" dic="p137" dlgName="Что, если выиграешь." dlgFile="exr\ig136.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Riempi le schedine del toto calcio, Paolo?" someNumber="None" image="dg\137_001.gif" lang2="- Ты заполняешь футбольные карточки, Паоло?">
+      <audioTime in="0" out="3001" />
+    </line>
+    <line lang1="- Sì, Maria, ho quasi finito." someNumber="None" image="dg\137_001.gif" lang2="- Да, я уже почти закончил, Мария.">
+      <audioTime in="3001" out="5620" />
+    </line>
+    <line lang1="Questa settimana sono sicuro che noi vinceremo qualcosa." someNumber="950" image="dg\137_001.gif" lang2="Я уверен, что мы выиграем что-нибудь на этой неделе.">
+      <audioTime in="5620" out="9187" />
+    </line>
+    <line lang1="- Tu dici sempre cosi," someNumber="730" image="dg\137_001.gif" lang2="- Ты всегда так говоришь,">
+      <audioTime in="9187" out="10767" />
+    </line>
+    <line lang1="ma non vinciamo mai niente!" someNumber="None" image="dg\137_001.gif" lang2="но мы никогда ничего не выигрываем!">
+      <audioTime in="10767" out="12573" />
+    </line>
+    <line lang1="Cosa farai se vincerai tanti soldi?" someNumber="None" image="dg\137_001.gif" lang2="Что ты будешь делать, если выиграешь кучу денег?">
+      <audioTime in="12574" out="15192" />
+    </line>
+    <line lang1="- Se vincerò tanti soldi" someNumber="None" image="dg\137_001.gif" lang2="- Если я выиграю много денег,">
+      <audioTime in="15192" out="17089" />
+    </line>
+    <line lang1="ti comprerò una pelliccia di visone." someNumber="None" image="dg\137_001.gif" lang2="я куплю тебе норковую шубку.">
+      <audioTime in="17089" out="19392" />
+    </line>
+    <line lang1="- No, non voglio la pelliccia di visone!" someNumber="None" image="dg\137_001.gif" lang2="- Я не хочу норковую шубку!">
+      <audioTime in="19392" out="21785" />
+    </line>
+    <line lang1="Io voglio vedere il mondo." someNumber="None" image="dg\137_001.gif" lang2="Я хочу посмотреть мир.">
+      <audioTime in="21785" out="23681" />
+    </line>
+    <line lang1="- Va bene." someNumber="None" image="dg\137_001.gif" lang2="- Хорошо.">
+      <audioTime in="23681" out="24674" />
+    </line>
+    <line lang1="Se vinciamo tanti soldi viaggeremo per il mondo" someNumber="None" image="dg\137_001.gif" lang2="Если мы выиграем много денег, мы отправимся путешествовать по свету">
+      <audioTime in="24674" out="28016" />
+    </line>
+    <line lang1="e ci fermeremo nei migliori alberghi." someNumber="None" image="dg\137_001.gif" lang2="и будем останавливаться в лучших гостиницах.">
+      <audioTime in="28016" out="30364" />
+    </line>
+    <line lang1="Poi torneremo a casa" someNumber="None" image="dg\137_001.gif" lang2="Потом мы вернёмся домой">
+      <audioTime in="30364" out="32035" />
+    </line>
+    <line lang1="e compreremo una grande casa in campagna." someNumber="None" image="dg\137_001.gif" lang2="и купим большой дом за городом.">
+      <audioTime in="32035" out="34699" />
+    </line>
+    <line lang1="Avremo un bel giardino e..." someNumber="None" image="dg\137_001.gif" lang2="У нас будет прекрасный сад и...">
+      <audioTime in="34699" out="36641" />
+    </line>
+    <line lang1="- Però se spendiamo così tanti soldi" someNumber="None" image="dg\137_001.gif" lang2="- Но, если мы истратим так много денег,">
+      <audioTime in="36641" out="39124" />
+    </line>
+    <line lang1="diventeremo di nuovo poveri come adesso." someNumber="None" image="dg\137_001.gif" lang2="мы опять станем бедными.">
+      <audioTime in="39191" out="41788" />
+    </line>
+    <line lang1="E poi che faremo?" someNumber="None" image="dg\137_001.gif" lang2="И что мы будем делать дальше?">
+      <audioTime in="41788" out="43188" />
+    </line>
+    <line lang1="- Se spendiamo tutti soldi," someNumber="None" image="dg\137_001.gif" lang2="- Если мы истратим все деньги,">
+      <audioTime in="43188" out="45039" />
+    </line>
+    <line lang1="giocheremo ancora al toto calcio." someNumber="None" image="dg\137_001.gif" lang2="мы опять постараемся выиграть в футбольном тотализаторе.">
+      <audioTime in="45084" out="46981" />
+    </line>
+    <line lang1="- Che bel sogno," someNumber="None" image="dg\137_001.gif" lang2="- Это такая приятная мечта,">
+      <audioTime in="46981" out="48290" />
+    </line>
+    <line lang1="ma tutto dipende da &quot;se&quot;!" someNumber="660" image="dg\137_001.gif" lang2="но всё зависит от &quot;если&quot;!">
+      <audioTime in="48290" out="49971" />
+    </line>
+  </lines>
+</lesson>

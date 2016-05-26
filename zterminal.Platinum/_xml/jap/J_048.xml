@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="J_048.wav" dlgName="Вы не пьёте молока?" dic="p048" />
+  <lines>
+    <line lang1="ー時計*が*ありません*か。" someNumber="132" image="048_001.jpg" lang2="- Нет ли (у Вас) часов?">
+      <audioTime in="0" out="3167" />
+    </line>
+    <line lang1="ーはい、時計*が*ありません。" someNumber="125" image="048_001.jpg" lang2="- Да. Часов нет.">
+      <audioTime in="3167" out="6718" />
+    </line>
+    <line lang1="ーけいたい*電話*が*ありません*か。" someNumber="174" image="048_001.jpg" lang2="- (И) сотового телефона нет?">
+      <audioTime in="6718" out="11955" />
+    </line>
+    <line lang1="ーいいえ、けいたい*電話*が*あります。" someNumber="125" image="048_001.jpg" lang2="- Нет. Сотовый телефон есть.">
+      <audioTime in="11955" out="15661" />
+    </line>
+    <line lang1="―山田*先生*は*いません*か。" someNumber="15" image="048_005.jpg" lang2="- Нет ли Ямада-сэнсэя?">
+      <audioTime in="15661" out="19887" />
+    </line>
+    <line lang1="―はい、山田*先生*は*まだ*いません。" someNumber="113" image="048_006.jpg" lang2="- Да. Ямада-сэнсэя пока нет.">
+      <audioTime in="19887" out="23748" />
+    </line>
+    <line lang1="―すずき*さん*も*いません*か。" someNumber="None" image="048_007.jpg" lang2="- И Судзуки-сана нет?">
+      <audioTime in="23748" out="26316" />
+    </line>
+    <line lang1="―いいえ、すずき*さん*は*もう*来ました。" someNumber="None" image="048_008.jpg" lang2="- Нет. Судзуки-сан уже пришёл.">
+      <audioTime in="26316" out="29975" />
+    </line>
+    <line lang1="ーミルク*を*飲みません*か。" someNumber="166" image="048_009.jpg" lang2="- Вы не пьёте молока?">
+      <audioTime in="29975" out="33601" />
+    </line>
+    <line lang1="ーはい、ミルク*は*のみません。" someNumber="01" image="048_010.jpg" lang2="- Да, молока не пью.">
+      <audioTime in="33601" out="36671" />
+    </line>
+    <line lang1="ージュース*を*飲みません*か。" someNumber="None" image="048_011.jpg" lang2="- (И) сока не пьёте?">
+      <audioTime in="36671" out="39683" />
+    </line>
+    <line lang1="ーいいえ、ジュース*は*飲みます。" someNumber="None" image="048_012.jpg" lang2="- Нет, сока выпью.">
+      <audioTime in="39683" out="43488" />
+    </line>
+    <line lang1="―さしみ*を*食べません*か。" someNumber="None" image="048_013.jpg" lang2="- (Вы) не едите сасими?">
+      <audioTime in="43488" out="47998" />
+    </line>
+    <line lang1="―はい、さしみ*は*食べません。" someNumber="None" image="048_014.jpg" lang2="- Да. Сасими не ем.">
+      <audioTime in="47998" out="51561" />
+    </line>
+    <line lang1="―牛肉*も*食べません*か。" someNumber="None" image="048_015.jpg" lang2="- И говядины не едите?">
+      <audioTime in="51561" out="53816" />
+    </line>
+    <line lang1="―いいえ、牛肉*も*ぶた肉*も*食べます。" someNumber="164" image="048_016.jpg" lang2="- Нет. Ем и говядину, и свинину.">
+      <audioTime in="53816" out="57648" />
+    </line>
+    <line lang1="―地理*の*しけん*は*むずかしく*なかった*です*か。" someNumber="26" image="048_017.jpg" lang2="- Экзамен по географии был нетрудным?">
+      <audioTime in="57648" out="62303" />
+    </line>
+    <line lang1="―はい、地理*の*しけん*は*むずかしく*なかった*です。" someNumber="27" image="048_017.jpg" lang2="- Да. Экзамен по географии был нетрудным.">
+      <audioTime in="62303" out="66483" />
+    </line>
+    <line lang1="―数学*の*しけん*も*むずかしく*なかった*です*か。" someNumber="None" image="048_019.jpg" lang2="- Экзамен по математике тоже был нетрудным?">
+      <audioTime in="66483" out="70298" />
+    </line>
+    <line lang1="―いいえ、数学*の*しけん*は*むずかしかった*です。" someNumber="None" image="048_019.jpg" lang2="- Нет. Экзамен по математике был трудным.">
+      <audioTime in="70298" out="74253" />
+    </line>
+  </lines>
+</lesson>

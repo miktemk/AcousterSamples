@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_002.wav" dic="p002" dlgName="Это Ваш(а)?.." dlgFile="exr\dg001.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Ist das Ihr Kugelschreiber?" someNumber="110" image="dg\002_001.gif" lang2="- Это Ваша ручка?">
+      <audioTime in="732" out="2650" />
+    </line>
+    <line lang1="- Ja, das #ist er." someNumber="None" image="dg\002_001.gif" lang2="- Да, это она.">
+      <audioTime in="2762" out="4116" />
+    </line>
+    <line lang1="- #Ist das Ihr Bleistift?" someNumber="340" image="dg\002_002.gif" lang2="- Это Ваш карандаш?">
+      <audioTime in="4398" out="5920" />
+    </line>
+    <line lang1="- Ja, das #ist er." someNumber="330" image="dg\002_002.gif" lang2="- Да, это он.">
+      <audioTime in="6202" out="7781" />
+    </line>
+    <line lang1="- #Ist das Ihr Buch?" someNumber="340" image="dg\002_003.gif" lang2="- Это Ваша книга?">
+      <audioTime in="8006" out="9473" />
+    </line>
+    <line lang1="- Ja, das #ist es." someNumber="None" image="dg\002_003.gif" lang2="- Да, это она.">
+      <audioTime in="9642" out="11503" />
+    </line>
+    <line lang1="- #Ist das Ihre Uhr?" someNumber="150" image="dg\002_004.gif" lang2="- Это Ваши часы?">
+      <audioTime in="11558" out="13025" />
+    </line>
+    <line lang1="- Ja, das #ist sie." someNumber="None" image="dg\002_004.gif" lang2="- Да, это они.">
+      <audioTime in="13307" out="14942" />
+    </line>
+    <line lang1="- #Ist das Ihr Mantel?" someNumber="340" image="dg\002_005.gif" lang2="- Это Ваше пальто?">
+      <audioTime in="15167" out="16916" />
+    </line>
+    <line lang1="- Ja, das #ist er." someNumber="None" image="dg\002_005.gif" lang2="- Да, это оно.">
+      <audioTime in="17028" out="18946" />
+    </line>
+    <line lang1="- #Ist das Ihr Kleid?" someNumber="160" image="dg\002_006.gif" lang2="- Это Ваше платье?">
+      <audioTime in="19115" out="20525" />
+    </line>
+    <line lang1="- Ja, das #ist es." someNumber="None" image="dg\002_006.gif" lang2="- Да, это оно.">
+      <audioTime in="20693" out="22441" />
+    </line>
+    <line lang1="- #Ist das Ihr Rock?" someNumber="200" image="dg\002_007.gif" lang2="- Это Ваша юбка?">
+      <audioTime in="22555" out="23794" />
+    </line>
+    <line lang1="- Ja, das #ist er." someNumber="None" image="dg\002_007.gif" lang2="- Да, это он.">
+      <audioTime in="23964" out="25769" />
+    </line>
+    <line lang1="- #Ist das Ihr Hemd?" someNumber="900" image="dg\002_008.gif" lang2="- Это Ваша рубашка?">
+      <audioTime in="26050" out="27403" />
+    </line>
+    <line lang1="- Ja, das #ist es." someNumber="None" image="dg\002_008.gif" lang2="- Да, это она.">
+      <audioTime in="27573" out="29546" />
+    </line>
+    <line lang1="- #Ist das Ihr Auto?" someNumber="None" image="dg\002_009.gif" lang2="- Это Ваша машина?">
+      <audioTime in="29546" out="31182" />
+    </line>
+    <line lang1="- Ja, das #ist es." someNumber="None" image="dg\002_009.gif" lang2="- Да, это она.">
+      <audioTime in="31351" out="33155" />
+    </line>
+    <line lang1="- #Ist das Ihr Haus?" someNumber="None" image="dg\002_010.gif" lang2="- Это Ваш дом?">
+      <audioTime in="33267" out="34846" />
+    </line>
+    <line lang1="- Ja, das #ist es." someNumber="None" image="dg\002_010.gif" lang2="- Да, это он.">
+      <audioTime in="34959" out="36707" />
+    </line>
+  </lines>
+</lesson>

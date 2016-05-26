@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_070.wav" dic="p070" dlgName="Когда они были?..." dlgFile="exr\ig069.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Renato e Maria quando sono stati al negozio di cancelleria?" someNumber="None" image="dg\070_001.gif" lang2="- Когда Ренато и Мария были у торговца канцелярскими принадлежностями?">
+      <audioTime in="278" out="3694" />
+    </line>
+    <line lang1="- Ci sono stati lunedì." someNumber="None" image="dg\070_001.gif" lang2="- Они были у торговца в понедельник.">
+      <audioTime in="3694" out="5368" />
+    </line>
+    <line lang1="- Quando siete stati in ufficio, Lei e Susanna?" someNumber="None" image="dg\070_002.gif" lang2="- Когда Вы и Сюзанна были в офисе?">
+      <audioTime in="5437" out="8226" />
+    </line>
+    <line lang1="- Ci siamo stati il ventitrè marzo." someNumber="None" image="dg\070_002.gif" lang2="- Мы были в офисе 23-его марта.">
+      <audioTime in="8181" out="10392" />
+    </line>
+    <line lang1="- Quando sono stato in India?" someNumber="None" image="dg\070_003.gif" lang2="- Когда я был в Индии?">
+      <audioTime in="10597" out="12340" />
+    </line>
+    <line lang1="- Ci è stato nel millenovecentotrentuno." someNumber="None" image="dg\070_003.gif" lang2="- Вы были в Индии в 1931.">
+      <audioTime in="12340" out="14989" />
+    </line>
+    <line lang1="- Quando siete stati in Australia, Lei e Maria?" someNumber="None" image="dg\070_004.gif" lang2="- Когда Вы и Мария были в Австралии?">
+      <audioTime in="14989" out="17639" />
+    </line>
+    <line lang1="- Ci siamo stati in luglio." someNumber="None" image="dg\070_004.gif" lang2="- Мы были в Австралии в июле.">
+      <audioTime in="17635" out="19241" />
+    </line>
+    <line lang1="- Quando sono stato in latteria?" someNumber="None" image="dg\070_005.gif" lang2="- Когда я был в молочном магазине?">
+      <audioTime in="19431" out="21264" />
+    </line>
+    <line lang1="- Ci sei stato sabato." someNumber="None" image="dg\070_005.gif" lang2="- Вы были в молочном магазине в субботу.">
+      <audioTime in="21399" out="23077" />
+    </line>
+    <line lang1="- Alice e Clara quando sono state in Jugoslavia?" someNumber="None" image="dg\070_006.gif" lang2="- Когда Алиса и Клара были в Югославии?">
+      <audioTime in="23096" out="25844" />
+    </line>
+    <line lang1="- Ci sono state nel millenovecentosessantasette." someNumber="None" image="dg\070_006.gif" lang2="- Они были в Югославии в 1967 году.">
+      <audioTime in="25984" out="29027" />
+    </line>
+    <line lang1="- Quando siamo stati in Austria Giorgio ed io?" someNumber="None" image="dg\070_007.gif" lang2="- Когда Джорджио и я были в Австрии?">
+      <audioTime in="29142" out="31443" />
+    </line>
+    <line lang1="- Ci siete stati in Agosto." someNumber="None" image="dg\070_007.gif" lang2="- Вы были в Австрии в августе.">
+      <audioTime in="31582" out="33534" />
+    </line>
+    <line lang1="- Quando sono stati tutti a casa?" someNumber="None" image="dg\070_008.gif" lang2="- Когда они все были дома?">
+      <audioTime in="33604" out="35625" />
+    </line>
+    <line lang1="- Ci sono stati il venticinque maggio." someNumber="220" image="dg\070_008.gif" lang2="- Они были дома 25-го мая.">
+      <audioTime in="35785" out="37910" />
+    </line>
+    <line lang1="- Quando sono stato dal barbiere?" someNumber="None" image="dg\070_009.gif" lang2="- Когда я был у парикмахера?">
+      <audioTime in="37996" out="39948" />
+    </line>
+    <line lang1="- Ci è stato mercoledì." someNumber="None" image="dg\070_009.gif" lang2="- Вы были у парикмахера в среду.">
+      <audioTime in="39878" out="41413" />
+    </line>
+    <line lang1="- Quando siete stati in Finlandia Lei e David?" someNumber="None" image="dg\070_010.gif" lang2="- Когда Вы и Давид были в Финляндии?">
+      <audioTime in="41576" out="43971" />
+    </line>
+    <line lang1="- Ci siamo stati in dicembre." someNumber="None" image="dg\070_010.gif" lang2="- Мы были в Финляндии в декабре.">
+      <audioTime in="44201" out="46222" />
+    </line>
+  </lines>
+</lesson>

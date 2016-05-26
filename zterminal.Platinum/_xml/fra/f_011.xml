@@ -1,0 +1,41 @@
+<lesson>
+  <header wav="f_011.wav" dic="p011" dlgName="Чье это?" dlgFile="exr\fg011.txt" author="Alexander" />
+  <lines>
+    <line lang1="- A qui est cette chemise?" someNumber="470" image="dg\011_001.gif" lang2="- Чья это рубашка?">
+      <audioTime in="0" out="1752" />
+    </line>
+    <line lang1="Est-ce ta chemise, Pierre?" someNumber="None" image="dg\011_002.gif" lang2="Это твоя рубашка, Пьер?">
+      <audioTime in="1752" out="3763" />
+    </line>
+    <line lang1="- Non, monsieur. Ce n'est pas ma chemise." someNumber="None" image="dg\011_002.gif" lang2="- Нет, господин. Это не моя рубашка.">
+      <audioTime in="3763" out="6570" />
+    </line>
+    <line lang1="C'est la mienne. Elle est bleue." someNumber="460" image="dg\011_003.gif" lang2="Эта моя. Она голубая.">
+      <audioTime in="6570" out="8547" />
+    </line>
+    <line lang1="- Est-ce la chemise de Paul?" someNumber="None" image="dg\011_004.gif" lang2="- Это рубашка Поля?">
+      <audioTime in="8547" out="10254" />
+    </line>
+    <line lang1="- Peut-être c'est la sienne. La chemise de Paul est blanche." someNumber="None" image="dg\011_004.gif" lang2="- Может быть, это его. Рубашка Поля белая.">
+      <audioTime in="10254" out="14037" />
+    </line>
+    <line lang1="- Paul!" someNumber="None" image="dg\011_005.gif" lang2="- Поль!">
+      <audioTime in="14037" out="14734" />
+    </line>
+    <line lang1="- Oui, monsieur." someNumber="None" image="dg\011_005.gif" lang2="- Да, господин?">
+      <audioTime in="14734" out="16228" />
+    </line>
+    <line lang1="- Est-ce ta chemise?" someNumber="None" image="dg\011_006.gif" lang2="- Это твоя рубашка?">
+      <audioTime in="16228" out="17920" />
+    </line>
+    <line lang1="- Oui, monsieur." someNumber="None" image="dg\011_006.gif" lang2="- Да, сударь.">
+      <audioTime in="17920" out="19215" />
+    </line>
+    <line lang1="- La voilà, tiens!" someNumber="780" image="dg\011_007.gif" lang2="- Вот она, держи!">
+      <audioTime in="19215" out="20708" />
+    </line>
+    <line lang1="- Merci, monsieur." someNumber="780" image="dg\011_007.gif" lang2="- Спасибо, сударь.">
+      <audioTime in="20708" out="22483" />
+    </line>
+  </lines>
+</lesson>

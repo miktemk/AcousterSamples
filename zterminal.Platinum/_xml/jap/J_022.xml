@@ -1,0 +1,80 @@
+<lesson>
+  <header wav="j_022.wav" dlgName="Который час?" dic="p022" />
+  <lines>
+    <line lang1="―ゆかこ*さん、とけい*が*あります*か。" someNumber="None" image="022_001.jpg" lang2="- Юкако, у тебя есть часы?">
+      <audioTime in="0" out="4096" />
+    </line>
+    <line lang1="ーはい、これ*は*私*の*あたらしい*とけい*です。" someNumber="None" image="022_002.jpg" lang2="- Да, это мои новые часы.">
+      <audioTime in="4096" out="10299" />
+    </line>
+    <line lang1="どう*です*か。" someNumber="54" image="022_002.jpg" lang2="Как тебе?">
+      <audioTime in="10299" out="12280" />
+    </line>
+    <line lang1="ーとても*すてき*です。" someNumber="None" image="022_002.jpg" lang2="- Очень красивые.">
+      <audioTime in="12280" out="14279" />
+    </line>
+    <line lang1="何じ*です*か。" someNumber="37" image="022_002.jpg" lang2="Который час?">
+      <audioTime in="14279" out="16087" />
+    </line>
+    <line lang1="ー今*６じ*です。" someNumber="39" image="022_002.jpg" lang2="- Сейчас 6 часов.">
+      <audioTime in="16087" out="18399" />
+    </line>
+    <line lang1="―コンサート*は*７じ*から*です*ね。" someNumber="09" image="022_007.jpg" lang2="- Концерт (начинается) с 7 часов, не так ли.">
+      <audioTime in="18399" out="21550" />
+    </line>
+    <line lang1="―はい。まだ*じかん*が*あります。" someNumber="None" image="022_008.jpg" lang2="- Да, пока есть время.">
+      <audioTime in="21550" out="25060" />
+    </line>
+    <line lang1="ーコンサート*は*何じ*まで*です*か。" someNumber="11" image="022_008.jpg" lang2="- А до какого часа концерт?">
+      <audioTime in="25060" out="28205" />
+    </line>
+    <line lang1="ー１０じ*まで*です。" someNumber="None" image="022_010.jpg" lang2="- До 10 часов.">
+      <audioTime in="28205" out="30739" />
+    </line>
+    <line lang1="ーそれ*は*おそい*です*ね。" someNumber="None" image="022_010.jpg" lang2="- Это поздно, правда.">
+      <audioTime in="30664" out="32570" />
+    </line>
+    <line lang1="ゆかこ*さん*の*高校*は*なんじ*から*です*か。" someNumber="175" image="022_012.jpg" lang2="Юкако, с какого часа (начинаются) твои занятия в школе старшей ступени?">
+      <audioTime in="32570" out="36051" />
+    </line>
+    <line lang1="ー学校*は*９じ*はん*から*です。" someNumber="09" image="022_013.jpg" lang2="- Школа (начинается) с половины десятого.">
+      <audioTime in="36051" out="39632" />
+    </line>
+    <line lang1="じゅぎょう*は*２じ*はん*まで*です。" someNumber="11" image="022_014.jpg" lang2="Уроки (продолжаются) до половины третьего.">
+      <audioTime in="39632" out="42799" />
+    </line>
+    <line lang1="ひろし*さん*の*大学*は*なんじ*から*なんじ*まで*です*か。" someNumber="None" image="022_015.jpg" lang2="Хироси, а твой университет с какого и по какой час?">
+      <audioTime in="42799" out="48021" />
+    </line>
+    <line lang1="―じゅぎょう*は*８じ*はん*から*４じ*まで*です。" someNumber="39" image="022_016.jpg" lang2="- Занятия с половины девятого до 4-х.">
+      <audioTime in="48021" out="51768" />
+    </line>
+    <line lang1="―ひる*やすみ*が*あります*か。" someNumber="162" image="022_017.jpg" lang2="- Есть ли обеденный перерыв ?">
+      <audioTime in="51768" out="54933" />
+    </line>
+    <line lang1="―あります。１じ*から*１じ*はん*まで*です。" someNumber="None" image="022_018.jpg" lang2="- Есть. С часа до половины второго.">
+      <audioTime in="54933" out="58558" />
+    </line>
+    <line lang1="それ*から*アルバイト*です。" someNumber="166" image="022_019.jpg" lang2="После этого я подрабатываю (у меня подработок).">
+      <audioTime in="58558" out="60835" />
+    </line>
+    <line lang1="―まい*日*です*か。" someNumber="None" image="022_019.jpg" lang2="- Каждый день?">
+      <audioTime in="60835" out="62831" />
+    </line>
+    <line lang1="―へいじつ*６じ*から*７じ*まで*です。" someNumber="None" image="022_021.jpg" lang2="- По будним дням с шести до семи.">
+      <audioTime in="62831" out="65935" />
+    </line>
+    <line lang1="―なん*の*アルバイト*です*か。" someNumber="None" image="022_022.jpg" lang2="- А что за работа?">
+      <audioTime in="65935" out="68482" />
+    </line>
+    <line lang1="―かてい*きょうし*です。すう学*の*先生*です。" someNumber="174" image="022_023.jpg" lang2="- (Я) - домашний учитель. Учитель математики.">
+      <audioTime in="68482" out="71994" />
+    </line>
+    <line lang1="ーまい*日*たいへん*いそがしい*です*ね。" someNumber="None" image="022_024.jpg" lang2="- Ты каждый день ужасно занят, правда.">
+      <audioTime in="71994" out="75528" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="022_024.jpg" lang2="- Правда.">
+      <audioTime in="75528" out="76639" />
+    </line>
+  </lines>
+</lesson>

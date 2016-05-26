@@ -1,0 +1,53 @@
+<lesson>
+  <header wav="FR_023.wav" dlgName="Школа французского языка" dlgFile="exr\frg023.txt" />
+  <lines>
+    <line lang1="- Nous voici sur le boulevard Raspail," someNumber="None" image="f.jpg" lang2="- Вот мы и на бульваре Распайль,">
+      <audioTime in="0" out="3299" />
+    </line>
+    <line lang1="et cet immeuble que tu vois là-bas, c'est une école." someNumber="None" image="f.jpg" lang2="а дом, который ты там видишь - это школа.">
+      <audioTime in="3299" out="7602" />
+    </line>
+    <line lang1="- C'est une école de français pour étrangers, n'est-ce pas?" someNumber="None" image="f.jpg" lang2="- Это школа французского языка для иностранцев, не так ли?">
+      <audioTime in="7602" out="10733" />
+    </line>
+    <line lang1="- Oui, c'est bien ça. Les étrangers y étudient la langue française" someNumber="None" image="f.jpg" lang2="- Да, это так. Иностранцы изучают там французский язык">
+      <audioTime in="10733" out="15923" />
+    </line>
+    <line lang1="sous la direction de professeurs de grande expérience et selon les méthodes les plus modernes:" someNumber="None" image="f.jpg" lang2="под руководством профессоров с большим опытом, по новейшим методам:">
+      <audioTime in="15923" out="22899" />
+    </line>
+    <line lang1="magnétophones, disques, projections de vues, cinéma, théâtre, etc..." someNumber="None" image="f.jpg" lang2="с использованием магнитофонов, пластинок, диапозитивов, кино, театра и т.д.">
+      <audioTime in="22899" out="30222" />
+    </line>
+    <line lang1="- Et les loisirs des élèves?" someNumber="None" image="f.jpg" lang2="- А как протекает свободное время учеников?">
+      <audioTime in="30222" out="32554" />
+    </line>
+    <line lang1="- On organise à leur intention des conférences-promenades à travers Paris," someNumber="None" image="f.jpg" lang2="- Для них организуются поучительные прогулки по Парижу,">
+      <audioTime in="32554" out="38741" />
+    </line>
+    <line lang1="des représentations dramatiques et des fêtes folkloriques." someNumber="None" image="f.jpg" lang2="драматические представления и народные праздники.">
+      <audioTime in="38741" out="43620" />
+    </line>
+    <line lang1="- Qu'est-ce qu'il faut faire pour s'inscrire à cette école?" someNumber="None" image="f.jpg" lang2="- Что надо, чтобы записаться в эту школу?">
+      <audioTime in="43620" out="46529" />
+    </line>
+    <line lang1="- Les étudiants doivent se présenter avec leur passeport et une photo," someNumber="None" image="f.jpg" lang2="- Студенты должны явиться со своим паспортом и одной фотографией,">
+      <audioTime in="46529" out="52315" />
+    </line>
+    <line lang1="après quoi ils doivent passer un examen." someNumber="None" image="f.jpg" lang2="после этого они должны сдать экзамен.">
+      <audioTime in="52315" out="56618" />
+    </line>
+    <line lang1="- Est-ce que les cours sont gratuits?" someNumber="None" image="f.jpg" lang2="- Лекции бесплатны?">
+      <audioTime in="56618" out="58731" />
+    </line>
+    <line lang1="- Non, il y a un droit d'inscription à payer par mois." someNumber="None" image="f.jpg" lang2="- Нет, надо платить взносы каждый месяц.">
+      <audioTime in="58731" out="63661" />
+    </line>
+    <line lang1="- Est-ce que cette école organise des cours par correspondance?" someNumber="None" image="f.jpg" lang2="- Эта школа организует заочные курсы?">
+      <audioTime in="63661" out="67858" />
+    </line>
+    <line lang1="- Certainement. Et il faut dire qu'elle le fait avec d'excellents résultats." someNumber="None" image="f.jpg" lang2="- Конечно. И надо сказать, что делает это с замечательными результатами.">
+      <audioTime in="67858" out="74069" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_142.wav" dic="p142" dlgName="Делает ли кто-либо? Да." dlgFile="exr\dg142.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #1Macht jemand irgendwann dieses Fenster #2auf?" someNumber="490" image="dg\142_001.gif" lang2="- Открывает ли кто-либо когда-либо это окно?">
+      <audioTime in="487" out="4198" />
+    </line>
+    <line lang1="- Ja gewiss, es #wird regelmäßig #aufgemacht." someNumber="360" image="dg\142_001.gif" lang2="- Да, конечно, оно открывается регулярно.">
+      <audioTime in="4198" out="7419" />
+    </line>
+    <line lang1="- #Bringt jemand ihn irgendwann in die Schule?" someNumber="380" image="dg\142_002.gif" lang2="- Водит ли кто-либо когда-либо его в школу?">
+      <audioTime in="7908" out="12398" />
+    </line>
+    <line lang1="- Ja, er #wird regelmäßig in die Schule #gebracht." someNumber="600" image="dg\142_002.gif" lang2="- Да, его отводят в школу регулярно.">
+      <audioTime in="12398" out="15424" />
+    </line>
+    <line lang1="- #Hat jemand irgendwann diesen Wagen #repariert?" someNumber="580" image="dg\142_003.gif" lang2="- Ремонтировал ли кто-либо когда-либо этот автомобиль?">
+      <audioTime in="15815" out="18646" />
+    </line>
+    <line lang1="- Ja, er #wurde regelmäßig #repariert." someNumber="670" image="dg\142_003.gif" lang2="- Да, он ремонтировался регулярно.">
+      <audioTime in="18744" out="21478" />
+    </line>
+    <line lang1="- #Lüftet jemand irgendwann dieses Zimmer?" someNumber="720" image="dg\142_004.gif" lang2="- Проветривает ли кто-либо когда-либо эту комнату?">
+      <audioTime in="21575" out="25090" />
+    </line>
+    <line lang1="- Ja, es #wird regelmäßig #gelüftet." someNumber="710" image="dg\142_004.gif" lang2="- Да, она проветривается регулярно.">
+      <audioTime in="25090" out="27432" />
+    </line>
+    <line lang1="- #Prüft jemand irgendwann diese Hefte?" someNumber="510" image="dg\142_005.gif" lang2="- Проверяет ли кто-либо когда-либо эти тетради?">
+      <audioTime in="27432" out="29873" />
+    </line>
+    <line lang1="- Ja, sie #werden regelmäßig #geprüft." someNumber="600" image="dg\142_005.gif" lang2="- Да, они проверяются регулярно.">
+      <audioTime in="29873" out="32411" />
+    </line>
+    <line lang1="- #1Lädt jemand ihn irgendwann zum Abend #2ein?" someNumber="790" image="dg\142_006.gif" lang2="- Приглашает ли кто-либо когда-либо его на вечер?">
+      <audioTime in="32606" out="35438" />
+    </line>
+    <line lang1="- Ja, er #wird regelmäßig zum Abend #eingeladen." someNumber="790" image="dg\142_006.gif" lang2="- Да, его регулярно приглашают на вечер.">
+      <audioTime in="35340" out="39147" />
+    </line>
+    <line lang1="- #1Holt jemand sie irgendwann vom Bahnhof #2ab?" someNumber="490" image="dg\142_007.gif" lang2="- Встречает ли кто-либо когда-либо её на вокзале?">
+      <audioTime in="39440" out="42564" />
+    </line>
+    <line lang1="- Ja, sie #wird regelmäßig vom Bahnhof #abgeholt." someNumber="None" image="dg\142_007.gif" lang2="- Да, её встречают на вокзале регулярно.">
+      <audioTime in="42564" out="45786" />
+    </line>
+    <line lang1="- #Hat jemand dieses Messer irgendwann #geschärft?" someNumber="660" image="dg\142_008.gif" lang2="- Точил ли кто-либо когда-либо этот нож?">
+      <audioTime in="45884" out="49008" />
+    </line>
+    <line lang1="- Ja, es #wurde regelmäßig #geschärft." someNumber="670" image="dg\142_008.gif" lang2="- Да, он затачивался регулярно.">
+      <audioTime in="48910" out="51448" />
+    </line>
+    <line lang1="- #Hat jemand diese Messer irgendwann #geschärft?" someNumber="580" image="dg\142_009.gif" lang2="- Затачивал ли кто-либо когда-либо эти ножи?">
+      <audioTime in="51838" out="54475" />
+    </line>
+    <line lang1="- Ja, sie #wurden regelmäßig #geschärft." someNumber="None" image="dg\142_009.gif" lang2="- Да, они затачиваются регулярно.">
+      <audioTime in="54572" out="57013" />
+    </line>
+    <line lang1="- #Hat jemand sie irgendwann #beobachtet?" someNumber="660" image="dg\142_010.gif" lang2="- Наблюдал ли кто-нибудь когда-нибудь за ними?">
+      <audioTime in="57404" out="60527" />
+    </line>
+    <line lang1="- Ja, sie #wurden regelmäßig #beobachtet." someNumber="570" image="dg\142_010.gif" lang2="- Да, за ними регулярно наблюдают.">
+      <audioTime in="60527" out="63944" />
+    </line>
+  </lines>
+</lesson>

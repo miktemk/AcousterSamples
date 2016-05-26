@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_024.wav" dic="p024" dlgName="Дайте мне... Те, которые.." dlgFile="exr\ig023.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Mi dia le penne, per favore." someNumber="None" image="dg\024_001.gif" lang2="- Дайте мне ручки, пожалуйста.">
+      <audioTime in="77" out="1829" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_001.gif" lang2="- Которые?">
+      <audioTime in="1829" out="2868" />
+    </line>
+    <line lang1="- Quelle che sono sulla scrivania." someNumber="570" image="dg\024_001.gif" lang2="- Те, что на письменном столе.">
+      <audioTime in="2948" out="4734" />
+    </line>
+    <line lang1="- Mi dia le cravatte, per favore." someNumber="None" image="dg\024_002.gif" lang2="- Дайте мне галстуки, пожалуйста.">
+      <audioTime in="4856" out="6792" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_002.gif" lang2="- Какие?">
+      <audioTime in="6687" out="7605" />
+    </line>
+    <line lang1="- Quelle che sono sulla sedia." someNumber="None" image="dg\024_002.gif" lang2="- Те, что на стуле.">
+      <audioTime in="7540" out="9668" />
+    </line>
+    <line lang1="- Mi dia i cucchiai, per favore." someNumber="None" image="dg\024_003.gif" lang2="- Дайте мне ложки, пожалуйста.">
+      <audioTime in="9623" out="11609" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_003.gif" lang2="- Которые?">
+      <audioTime in="11610" out="12649" />
+    </line>
+    <line lang1="- Quelli che sono sul tavolo." someNumber="None" image="dg\024_003.gif" lang2="- Те, что на столе.">
+      <audioTime in="12572" out="14532" />
+    </line>
+    <line lang1="- Mi dia i piatti, per favore." someNumber="None" image="dg\024_004.gif" lang2="- Дайте мне тарелки, пожалуйста.">
+      <audioTime in="14402" out="16562" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_004.gif" lang2="- Которые?">
+      <audioTime in="16562" out="17511" />
+    </line>
+    <line lang1="- Quelli che sono sulla credenza." someNumber="None" image="dg\024_004.gif" lang2="- Те, что на серванте.">
+      <audioTime in="17494" out="19635" />
+    </line>
+    <line lang1="- Mi dia le sigarette, per favore." someNumber="None" image="dg\024_005.gif" lang2="- Дайте мне сигареты, пожалуйста.">
+      <audioTime in="19557" out="21885" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_005.gif" lang2="- Какие?">
+      <audioTime in="21885" out="22969" />
+    </line>
+    <line lang1="- Quelle che sono sul televisore." someNumber="None" image="dg\024_005.gif" lang2="- Те, что на телевизоре.">
+      <audioTime in="23049" out="25377" />
+    </line>
+    <line lang1="- Mi dia le scatole, per favore." someNumber="None" image="dg\024_006.gif" lang2="- Дайте мне коробки, пожалуйста.">
+      <audioTime in="25268" out="27473" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_006.gif" lang2="- Которые?">
+      <audioTime in="27382" out="28556" />
+    </line>
+    <line lang1="- Quelle che sono sul pavimento." someNumber="None" image="dg\024_006.gif" lang2="- Те, что на полу.">
+      <audioTime in="28546" out="30888" />
+    </line>
+    <line lang1="- Mi dia le boccette, per favore." someNumber="90" image="dg\024_007.gif" lang2="- Дайте мне флаконы, пожалуйста.">
+      <audioTime in="30888" out="33138" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_007.gif" lang2="- Которые?">
+      <audioTime in="33029" out="33992" />
+    </line>
+    <line lang1="- Quelle che sono sul comodino." someNumber="None" image="dg\024_007.gif" lang2="- Те, что на туалетном столике.">
+      <audioTime in="33992" out="36353" />
+    </line>
+    <line lang1="- Mi dia i libri, per favore." someNumber="None" image="dg\024_008.gif" lang2="- Дайте мне книги, пожалуйста.">
+      <audioTime in="36242" out="38338" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_008.gif" lang2="- Какие?">
+      <audioTime in="38203" out="39241" />
+    </line>
+    <line lang1="- Quelli che sono sullo scaffale." someNumber="None" image="dg\024_008.gif" lang2="- Те, что на полке.">
+      <audioTime in="39224" out="41520" />
+    </line>
+    <line lang1="- Mi dia le riviste, per favore." someNumber="None" image="dg\024_009.gif" lang2="- Дайте мне журналы, пожалуйста.">
+      <audioTime in="41475" out="43538" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_009.gif" lang2="- Которые?">
+      <audioTime in="43492" out="44576" />
+    </line>
+    <line lang1="- Quelle che sono sul letto." someNumber="None" image="dg\024_009.gif" lang2="- Те, что на постели.">
+      <audioTime in="44469" out="46409" />
+    </line>
+    <line lang1="- Mi dia i giornali, per favore." someNumber="None" image="dg\024_010.gif" lang2="- Дайте мне газеты, пожалуйста.">
+      <audioTime in="46364" out="48504" />
+    </line>
+    <line lang1="- Quali?" someNumber="None" image="dg\024_010.gif" lang2="- Которые?">
+      <audioTime in="48459" out="49544" />
+    </line>
+    <line lang1="- Quelli che sono sulla radio." someNumber="None" image="dg\024_010.gif" lang2="- Те, что на радио.">
+      <audioTime in="49468" out="51454" />
+    </line>
+  </lines>
+</lesson>

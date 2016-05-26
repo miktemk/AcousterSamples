@@ -1,0 +1,101 @@
+<lesson>
+  <header wav="i_046.wav" dic="p046" dlgName="Можешь ли ты?.. Да..." dlgFile="exr\ig045.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Puoi metterti il cappotto?" someNumber="None" image="dg\046_001.gif" lang2="- Можешь ты одеть своё пальто?">
+      <audioTime in="311" out="2184" />
+    </line>
+    <line lang1="- Sì, certo." someNumber="None" image="dg\046_001.gif" lang2="- Да, конечно.">
+      <audioTime in="2223" out="3588" />
+    </line>
+    <line lang1="- Che cosa puoi fare?" someNumber="None" image="dg\046_001.gif" lang2="- Что ты можешь сделать?">
+      <audioTime in="3666" out="5343" />
+    </line>
+    <line lang1="- Posso mettermi il cappotto." someNumber="None" image="dg\046_001.gif" lang2="- Я могу одеть своё пальто.">
+      <audioTime in="5343" out="7626" />
+    </line>
+    <line lang1="- Maria può aspettare l'autobus?" someNumber="None" image="dg\046_002.gif" lang2="- Может Мария подождать автобус?">
+      <audioTime in="7684" out="10024" />
+    </line>
+    <line lang1="- Sì, certo." someNumber="None" image="dg\046_002.gif" lang2="- Да, конечно.">
+      <audioTime in="10180" out="11544" />
+    </line>
+    <line lang1="- Cosa può fare?" someNumber="None" image="dg\046_002.gif" lang2="- Что может она сделать?">
+      <audioTime in="11701" out="13183" />
+    </line>
+    <line lang1="- Può aspettare l'autobus." someNumber="None" image="dg\046_002.gif" lang2="- Она может подождать автобус.">
+      <audioTime in="13144" out="14938" />
+    </line>
+    <line lang1="- Lei e Roberto potete sentire la radio?" someNumber="None" image="dg\046_003.gif" lang2="- Можете Вы и Роберто слушать радио?">
+      <audioTime in="15055" out="18020" />
+    </line>
+    <line lang1="- Sì, certo." someNumber="None" image="dg\046_003.gif" lang2="- Да, конечно.">
+      <audioTime in="18136" out="19424" />
+    </line>
+    <line lang1="- Che cosa potete fare Lei e Roberto?" someNumber="None" image="dg\046_003.gif" lang2="- Что можете Вы и Роберто делать?">
+      <audioTime in="19424" out="21998" />
+    </line>
+    <line lang1="- Possiamo sentire la radio." someNumber="None" image="dg\046_003.gif" lang2="- Мы можем слушать радио.">
+      <audioTime in="22155" out="24260" />
+    </line>
+    <line lang1="- Maria e Gianna possono lavare i piatti?" someNumber="None" image="dg\046_004.gif" lang2="- Могут Мария и Джанна мыть тарелки?">
+      <audioTime in="24286" out="27207" />
+    </line>
+    <line lang1="- Sì, certo." someNumber="None" image="dg\046_004.gif" lang2="- Да, конечно.">
+      <audioTime in="27234" out="28612" />
+    </line>
+    <line lang1="- Che cosa possono fare Maria e Gianna?" someNumber="None" image="dg\046_004.gif" lang2="- Что могут Мария и Джанна сделать?">
+      <audioTime in="28604" out="31398" />
+    </line>
+    <line lang1="- Possono lavare i piatti." someNumber="None" image="dg\046_004.gif" lang2="- Они могут мыть тарелки.">
+      <audioTime in="31334" out="33365" />
+    </line>
+    <line lang1="- Giorgio può portarle questi fiori?" someNumber="None" image="dg\046_005.gif" lang2="- Может ли Джорджио отнести ей эти цветы?">
+      <audioTime in="33429" out="35969" />
+    </line>
+    <line lang1="- Sì, certo." someNumber="None" image="dg\046_005.gif" lang2="- Да, конечно.">
+      <audioTime in="35969" out="37365" />
+    </line>
+    <line lang1="- Cosa può fare Giorgio?" someNumber="None" image="dg\046_005.gif" lang2="- Что может Джорджио сделать?">
+      <audioTime in="37429" out="39342" />
+    </line>
+    <line lang1="- Può portarle questi fiori." someNumber="None" image="dg\046_005.gif" lang2="- Он может отнести ей эти цветы.">
+      <audioTime in="39460" out="41428" />
+    </line>
+    <line lang1="- La gatta può bere il latte?" someNumber="None" image="dg\046_006.gif" lang2="- Может кошка пить своё молоко?">
+      <audioTime in="41365" out="43588" />
+    </line>
+    <line lang1="- Sì, certo." someNumber="None" image="dg\046_006.gif" lang2="- Да, конечно.">
+      <audioTime in="43588" out="44897" />
+    </line>
+    <line lang1="- Cosa può fare la gatta?" someNumber="None" image="dg\046_006.gif" lang2="- Что может кошка делать?">
+      <audioTime in="44939" out="46762" />
+    </line>
+    <line lang1="- Può bere il latte." someNumber="None" image="dg\046_006.gif" lang2="- Она может пить своё молоко.">
+      <audioTime in="46735" out="48222" />
+    </line>
+    <line lang1="- Posso verniciare questa libreria?" someNumber="None" image="dg\046_007.gif" lang2="- Могу я покрасить этот книжный шкаф?">
+      <audioTime in="48285" out="50617" />
+    </line>
+    <line lang1="- Sì, certo." someNumber="None" image="dg\046_007.gif" lang2="- Да, конечно.">
+      <audioTime in="50653" out="51904" />
+    </line>
+    <line lang1="- Che cosa posso fare?" someNumber="None" image="dg\046_007.gif" lang2="- Что могу я сделать?">
+      <audioTime in="51968" out="53809" />
+    </line>
+    <line lang1="- Puoi verniciare questa libreria." someNumber="None" image="dg\046_007.gif" lang2="- Ты можешь покрасить этот книжный шкаф.">
+      <audioTime in="53872" out="56031" />
+    </line>
+    <line lang1="- Puoi vedere quell'aereo?" someNumber="None" image="dg\046_008.gif" lang2="- Можешь ты увидеть тот самолёт?">
+      <audioTime in="56218" out="57755" />
+    </line>
+    <line lang1="- Sì, posso." someNumber="None" image="dg\046_008.gif" lang2="- Да, я могу.">
+      <audioTime in="57770" out="59278" />
+    </line>
+    <line lang1="- Che puoi vedere?" someNumber="None" image="dg\046_008.gif" lang2="- Что можешь ты видеть?">
+      <audioTime in="59400" out="60707" />
+    </line>
+    <line lang1="- Posso vedere quell'aerio." someNumber="None" image="dg\046_008.gif" lang2="- Я могу увидеть тот самолёт.">
+      <audioTime in="60846" out="62675" />
+    </line>
+  </lines>
+</lesson>

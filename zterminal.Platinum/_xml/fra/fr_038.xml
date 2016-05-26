@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="FR_038.wav" dlgName="Который час?" dlgFile="exr\frg038.txt" />
+  <lines>
+    <line lang1="- Quelle heure est-il maintenant?" someNumber="None" image="f.jpg" lang2="- Который час сейчас?">
+      <audioTime in="0" out="3442" />
+    </line>
+    <line lang1="- Il est sept heures." someNumber="None" image="f.jpg" lang2="- Семь часов.">
+      <audioTime in="3442" out="6001" />
+    </line>
+    <line lang1="- Ce n'est pas possible." someNumber="None" image="f.jpg" lang2="- Это невозможно.">
+      <audioTime in="6001" out="8697" />
+    </line>
+    <line lang1="- Votre montre avance." someNumber="None" image="f.jpg" lang2="- Ваши часы спешат.">
+      <audioTime in="8697" out="11582" />
+    </line>
+    <line lang1="- Non elle n'avance pas." someNumber="None" image="f.jpg" lang2="- Нет, они не спешат.">
+      <audioTime in="11582" out="14217" />
+    </line>
+    <line lang1="Elle marche bien." someNumber="None" image="f.jpg" lang2="Они идут хорошо.">
+      <audioTime in="14217" out="16140" />
+    </line>
+    <line lang1="Regardez, il fait déjà sombre." someNumber="None" image="f.jpg" lang2="Смотрите, уже темно.">
+      <audioTime in="16140" out="20148" />
+    </line>
+    <line lang1="- En effet! comme le temps passe vite!" someNumber="None" image="f.jpg" lang2="- Действительно! Как быстро идёт время!">
+      <audioTime in="20148" out="24751" />
+    </line>
+    <line lang1="- Oui, le temps passe vite et nous vieillissons chaque jour." someNumber="None" image="f.jpg" lang2="- Да, время проходит быстро, и мы стареем с каждым днём.">
+      <audioTime in="24751" out="30556" />
+    </line>
+    <line lang1="Il faut profiter de la vie." someNumber="None" image="f.jpg" lang2="Надо пользоваться жизнью.">
+      <audioTime in="30556" out="33646" />
+    </line>
+    <line lang1="A propos, qu'est-ce que-vous faites ce soir?" someNumber="None" image="f.jpg" lang2="Кстати, что вы делаете сегодня вечером?">
+      <audioTime in="33646" out="37700" />
+    </line>
+    <line lang1="- Ce soir je vais au cinéma avec mes amis." someNumber="None" image="f.jpg" lang2="- Сегодня вечером я иду в кино с моими друзьями.">
+      <audioTime in="37700" out="42451" />
+    </line>
+    <line lang1="- A quelle heure commence le spectacle?" someNumber="None" image="f.jpg" lang2="- Во сколько часов начинается спектакль?">
+      <audioTime in="42451" out="45588" />
+    </line>
+    <line lang1="- A huit heures et quart." someNumber="None" image="f.jpg" lang2="- Четверть девятого.">
+      <audioTime in="45588" out="48100" />
+    </line>
+    <line lang1="- Et a quelle heure finit-il?" someNumber="None" image="f.jpg" lang2="- А во сколько часов кончается?">
+      <audioTime in="48100" out="51004" />
+    </line>
+    <line lang1="- A minuit." someNumber="None" image="f.jpg" lang2="- В полночь.">
+      <audioTime in="51004" out="53078" />
+    </line>
+    <line lang1="- Alors, bonne soirée et à demain." someNumber="None" image="f.jpg" lang2="- Тогда, желаю приятно провести вечер, и до завтра!">
+      <audioTime in="53078" out="56823" />
+    </line>
+    <line lang1="- A demain!" someNumber="None" image="f.jpg" lang2="- До завтра!">
+      <audioTime in="56823" out="58504" />
+    </line>
+  </lines>
+</lesson>

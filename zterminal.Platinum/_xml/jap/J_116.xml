@@ -1,0 +1,86 @@
+<lesson>
+  <header wav="j_116.wav" dlgName="Пошел дождь" dic="p116" />
+  <lines>
+    <line lang1="―雨*の*とき*どこ*に*いました*か。" someNumber="None" image="116_001.jpg" lang2="- Где Вы были во время дождя?">
+      <audioTime in="0" out="3655" />
+    </line>
+    <line lang1="ー電車*の*中。" someNumber="None" image="116_002.jpg" lang2="- В электричке.">
+      <audioTime in="3655" out="5937" />
+    </line>
+    <line lang1="急*に*雷*が*鳴り、" someNumber="148" image="116_003.jpg" lang2="Неожиданно загремел дождь,">
+      <audioTime in="5937" out="7744" />
+    </line>
+    <line lang1="いなびかり*が*して、" someNumber="None" image="116_004.jpg" lang2="засверкала молния">
+      <audioTime in="7744" out="8951" />
+    </line>
+    <line lang1="雨*が*降って*きました。" someNumber="80" image="116_005.jpg" lang2="и пошёл дождь.">
+      <audioTime in="8951" out="10397" />
+    </line>
+    <line lang1="―まだ*寒い*です*ね。" someNumber="None" image="116_006.jpg" lang2="- Пока ещё холодно, не так ли?">
+      <audioTime in="10397" out="12930" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="116_006.jpg" lang2="- В самом деле.">
+      <audioTime in="12930" out="14723" />
+    </line>
+    <line lang1="でも、３月*に*なる*と*だんだん*暖かく*なって*いきます。" someNumber="114" image="116_008.jpg" lang2="Но как только наступит март, постепенно станет теплее.">
+      <audioTime in="14723" out="19580" />
+    </line>
+    <line lang1="ーロシア*と*東南*アジア*と*の*文化*交流*は*年々*広がって*きています。" someNumber="80" image="116_009.jpg" lang2="- Культурный обмен между Россией и Юго-восточной Азией расширяется с каждым годом.">
+      <audioTime in="19580" out="29160" />
+    </line>
+    <line lang1="―これ*から、人的*交流*も*発展して*いく*こと*を*期待しています。" someNumber="152" image="116_009.jpg" lang2="- Надеюсь, что с этих пор будет также развиваться гуманитарный обмен.">
+      <audioTime in="29160" out="35382" />
+    </line>
+    <line lang1="―山本*先生*は*ブラジル*から*帰って*きて、どんな*発表*を*しました*か。" someNumber="None" image="116_011.jpg" lang2="- О чем докладывал Ямамото-сэнсэй, вернувшись из Бразилии?">
+      <audioTime in="35382" out="42215" />
+    </line>
+    <line lang1="ー南米*の*各国*で*の*日本語*教育*に*ついて*発表しました。" someNumber="None" image="116_012.jpg" lang2="- Докладывал о японском образовании в странах Южной Америки.">
+      <audioTime in="42215" out="48193" />
+    </line>
+    <line lang1="「ブラジル*で*の*教育*の*水準*は*高まって*きました。」と*言いました。" someNumber="80" image="116_012.jpg" lang2="Он сказал: &quot;Уровень образования в Бразилии повысился.&quot;">
+      <audioTime in="48656" out="54984" />
+    </line>
+    <line lang1="ー最近、土・日*に*子供*と*遊んでいる*お父さん達*が*増えて*きました*ね。" someNumber="None" image="116_014.jpg" lang2="- В последнее время увеличилось количество отцов, которые проводят время с детьми по субботам и воскресеньям, не правда ли?">
+      <audioTime in="54984" out="61562" />
+    </line>
+    <line lang1="―それ*は*いい*こと*です*ね。" someNumber="None" image="116_015.jpg" lang2="- Это хорошо, не так ли!">
+      <audioTime in="61562" out="64541" />
+    </line>
+    <line lang1="以前*は*男性*は*あまり*育児*に*参加しませんでした。" someNumber="None" image="116_015.jpg" lang2="Раньше отцы совсем не участвовали в воспитании детей.">
+      <audioTime in="64541" out="68231" />
+    </line>
+    <line lang1="―この*おり方*は*京都*の*織物*の*特徴*です*か。" someNumber="None" image="116_017.jpg" lang2="- Этот способ тканья - особенность текстильных изделий Киото?">
+      <audioTime in="68231" out="74495" />
+    </line>
+    <line lang1="ーはい。でも、残念*ながら、後継者*が*減って*きています。" someNumber="None" image="116_018.jpg" lang2="- Да. Но, к сожалению, число последователей уменьшается.">
+      <audioTime in="74495" out="80088" />
+    </line>
+    <line lang1="―東京*の*生活*に*慣れました*か。" someNumber="None" image="116_019.jpg" lang2="- Вы привыкли к жизни в Токио?">
+      <audioTime in="80088" out="86636" />
+    </line>
+    <line lang1="―はい。もう*ずいぶん*慣れて*きました。" someNumber="None" image="116_020.jpg" lang2="- Да. Уже полностью привык.">
+      <audioTime in="86636" out="89835" />
+    </line>
+    <line lang1="―日本語*の*勉強*は*どう*です*か。" someNumber="None" image="116_021.jpg" lang2="- А как с изучением японского языка?">
+      <audioTime in="89835" out="92590" />
+    </line>
+    <line lang1="ー勉強*すれば、する*ほど*面白く*なって*いきます。" someNumber="110" image="116_022.jpg" lang2="- По мере изучения становится интереснее.">
+      <audioTime in="92590" out="96075" />
+    </line>
+    <line lang1="―どんな*スポーツ*が*一番*人気*が*あります*か。" someNumber="None" image="116_023.jpg" lang2="- Какой вид спорта самый популярный?">
+      <audioTime in="96075" out="101962" />
+    </line>
+    <line lang1="ー１０年*前*に*は*野球*が*一番*人気*でした*が、" someNumber="None" image="116_024.jpg" lang2="- 10 лет назад бейсбол был самым популярным,">
+      <audioTime in="101962" out="106408" />
+    </line>
+    <line lang1="最近*は*サッカー*の*人気*も*出て*きました。" someNumber="None" image="116_025.jpg" lang2="но в последнее время и футбол становится популярным.">
+      <audioTime in="106408" out="109448" />
+    </line>
+    <line lang1="ーその*地域*で*猿*の*数*が*減って*きた*と*新聞*に*出ていた*よ。" someNumber="160" image="116_026.jpg" lang2="- В газете пишут, что что обезьян в этой местности стало меньше.">
+      <audioTime in="109448" out="116959" />
+    </line>
+    <line lang1="ーかわいそう。一匹*取って*飼いましょう。" someNumber="None" image="116_027.jpg" lang2="- Как жалко! Возьмем одну домой!">
+      <audioTime in="116959" out="122022" />
+    </line>
+  </lines>
+</lesson>

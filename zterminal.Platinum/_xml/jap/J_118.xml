@@ -1,0 +1,86 @@
+<lesson>
+  <header wav="j_118.wav" dlgName="В новогоднее утро" dic="p118" />
+  <lines>
+    <line lang1="ー先生*は*大晦日*は*お宅*で*過ごされました*か。" someNumber="109" image="118_001.jpg" lang2="- Сэнсэй, Вы соизволили провести последний день года у себя дома?">
+      <audioTime in="0" out="4611" />
+    </line>
+    <line lang1="―ええ。イリナ*さん*も？" someNumber="None" image="118_002.jpg" lang2="- Да. Ирина-сан, и Вы тоже?">
+      <audioTime in="4611" out="7004" />
+    </line>
+    <line lang1="ーそう*です。大掃除*がすんで、" someNumber="None" image="118_003.jpg" lang2="- Да. Закончив уборку">
+      <audioTime in="7004" out="11625" />
+    </line>
+    <line lang1="おせち*料理*を*作って*から*は、テレビ*に*向かっていました。" someNumber="None" image="118_004.jpg" lang2="и приготовив новогоднее угощение, я села перед телевизором.">
+      <audioTime in="11625" out="15377" />
+    </line>
+    <line lang1="テレビ*を*見ながら「年越し*そば」を*食べました。" someNumber="78" image="118_005.jpg" lang2="Мы смотрели телевизор, угощаясь новогодней гречневой лапшой.">
+      <audioTime in="15377" out="18780" />
+    </line>
+    <line lang1="その*あと「除夜*の*鐘」を*聞き*に*お寺*に*行きたかった*です*けど、" someNumber="081" image="118_006.jpg" lang2="Я хотела пойти в храм послушать полуночный колокол,">
+      <audioTime in="18780" out="24048" />
+    </line>
+    <line lang1="疲れちゃって、止めました。" someNumber="80" image="118_007.jpg" lang2="но отказалась от этой мысли, так как устала.">
+      <audioTime in="24048" out="25683" />
+    </line>
+    <line lang1="でも、テレビ*で*聞きました。" someNumber="None" image="118_008.jpg" lang2="Но услышала его по телевизору.">
+      <audioTime in="25683" out="28695" />
+    </line>
+    <line lang1="１２時*に*なる*と、日本中*の*お寺*で*百八*の*鐘*が*鳴って、" someNumber="086" image="118_008.jpg" lang2="Как только наступило 12 часов, в храмах по всей Японии раздалось 108 ударов колокола,">
+      <audioTime in="28695" out="35115" />
+    </line>
+    <line lang1="テレビ*で*放送されました。" someNumber="95" image="118_008.jpg" lang2="и это передавалось по телевизору.">
+      <audioTime in="35115" out="37288" />
+    </line>
+    <line lang1="ーこれ*から*どこ*か*へ*行きません*か。" someNumber="None" image="118_011.jpg" lang2="- А сейчас собираетесь куда-нибудь пойти?">
+      <audioTime in="37288" out="40740" />
+    </line>
+    <line lang1="ー初もうで*に*行きたい*と*思っていた*ん*です*が。" someNumber="93" image="118_012.jpg" lang2="- Хотелось бы совершить первое посещение храма.">
+      <audioTime in="40740" out="44935" />
+    </line>
+    <line lang1="ー明治*神宮*へ*初もうで*に*行く*の*は*いかが*です*か。" someNumber="142" image="118_013.jpg" lang2="- Как Вы относитесь к тому, чтоб совершить первое посещение в храм Мэйдзи?">
+      <audioTime in="44935" out="48907" />
+    </line>
+    <line lang1="ーそう*です*ね。先生*は*どこ*か*へ*行かれました*か。" someNumber="109" image="118_014.jpg" lang2="- Было бы хорошо! А Вы соизволили пойти куда-нибудь?">
+      <audioTime in="48907" out="53434" />
+    </line>
+    <line lang1="ー実*は、イリナ*さん*と*一緒*に*初もうで*に*行こう*と*思っていた*ん*です*が。" someNumber="None" image="118_015.jpg" lang2="- Честно говоря, я собирался совершить первое посещение вместе с Вами...">
+      <audioTime in="53434" out="58418" />
+    </line>
+    <line lang1="ー忙しい*のに、わざわざ*来て*下さって、ありがとう*ございました。" someNumber="157" image="118_016.jpg" lang2="- Спасибо за то, что специально соизволили придти, несмотря на свою занятость!">
+      <audioTime in="58418" out="63385" />
+    </line>
+    <line lang1="―いいえ。どう*いたしまして。" someNumber="None" image="118_017.jpg" lang2="- Не стоит благодарности.">
+      <audioTime in="63385" out="65604" />
+    </line>
+    <line lang1="―元日*の*朝*は*静か*です*ね。" someNumber="None" image="118_018.jpg" lang2="- Как тихо в первый день года!">
+      <audioTime in="65604" out="69134" />
+    </line>
+    <line lang1="街*が*美しい*です*ね。" someNumber="None" image="118_019.jpg" lang2="Как красив город!">
+      <audioTime in="69134" out="71354" />
+    </line>
+    <line lang1="ふだん*は*今日*ほど*着物*を*着ている*姿*が*見られない*でしょう。" someNumber="94" image="118_020.jpg" lang2="Обычно не увидишь так много людей, одетых в кимоно!">
+      <audioTime in="71354" out="75611" />
+    </line>
+    <line lang1="ーお正月*は*着物*を*着て*神社*や*寺院*に*お参り*する*人*が*多い*から*です。" someNumber="None" image="118_020.jpg" lang2="- Это потому, что на Новый год многие ходят в синтоистские и буддистские храмы, надев кимоно.">
+      <audioTime in="75611" out="81402" />
+    </line>
+    <line lang1="―先生、あの*子供*が*している*遊び*は*なん*と*いう*遊び*です*か。" someNumber="None" image="118_022.jpg" lang2="- Сэнсэй, как называются игры, в которые играют те дети?">
+      <audioTime in="81402" out="87793" />
+    </line>
+    <line lang1="ー男の子*が*している*の*は*たこ上げ、" someNumber="148" image="118_023.jpg" lang2="- То, во что играют мальчики - запускание воздушного змея,">
+      <audioTime in="87793" out="91212" />
+    </line>
+    <line lang1="女の子*が*している*の*は*羽根つき*です。" someNumber="None" image="118_024.jpg" lang2="а то, во что играют девочки - игра в волан.">
+      <audioTime in="91212" out="94270" />
+    </line>
+    <line lang1="いま*まで*に*見た*こと*が*ありません*か。" someNumber="110" image="118_024.jpg" lang2="Вам не приходилось видеть (этого) до сих пор?">
+      <audioTime in="94270" out="97249" />
+    </line>
+    <line lang1="ー羽子板*は*見た*こと*が*あります。" someNumber="None" image="118_026.jpg" lang2="- Мне приходилось видеть дощечку для игры в волан.">
+      <audioTime in="97249" out="100526" />
+    </line>
+    <line lang1="浅草*で*売っていました。" someNumber="None" image="118_026.jpg" lang2="(Ее) продавали в Асакуса.">
+      <audioTime in="100526" out="103442" />
+    </line>
+  </lines>
+</lesson>

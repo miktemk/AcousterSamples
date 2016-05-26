@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="i_142.wav" dic="p142" dlgName="Делает ли кто-либо? Да." dlgFile="exr\ig142.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Questa finestra si apre?" someNumber="None" image="dg\142_001.gif" lang2="- Открывает ли кто-либо когда-либо это окно?">
+      <audioTime in="66" out="1738" />
+    </line>
+    <line lang1="- Sì, si apre regolarmente." someNumber="None" image="dg\142_001.gif" lang2="- Да, оно открывается регулярно.">
+      <audioTime in="1738" out="4085" />
+    </line>
+    <line lang1="- Lo accompagnano a scuola?" someNumber="None" image="dg\142_002.gif" lang2="- Отводит ли кто-либо когда-либо его в школу?">
+      <audioTime in="4085" out="6027" />
+    </line>
+    <line lang1="- Sì, lo accompagna no sempre a scuola." someNumber="300" image="dg\142_002.gif" lang2="- Да, его отводят в школу регулярно.">
+      <audioTime in="6027" out="8330" />
+    </line>
+    <line lang1="- La riparano questa macchina?" someNumber="None" image="dg\142_003.gif" lang2="- Ремонтировал ли кто-либо когда-либо этот автомобиль?">
+      <audioTime in="8330" out="10452" />
+    </line>
+    <line lang1="- Sì, la riparano di continuo." someNumber="None" image="dg\142_003.gif" lang2="- Да, он ремонтировался регулярно.">
+      <audioTime in="10452" out="12620" />
+    </line>
+    <line lang1="- Fanno prendere aria a questa camera?" someNumber="320" image="dg\142_004.gif" lang2="- Проветривает ли кто-либо когда-либо эту комнату?">
+      <audioTime in="12620" out="14923" />
+    </line>
+    <line lang1="- Sì, ogni giorno." someNumber="None" image="dg\142_004.gif" lang2="- Да, она проветривается регулярно.">
+      <audioTime in="14923" out="16548" />
+    </line>
+    <line lang1="- Controllano questi quaderni?" someNumber="None" image="dg\142_005.gif" lang2="- Проверяет ли кто-либо когда-либо эти тетрадки?">
+      <audioTime in="16548" out="18490" />
+    </line>
+    <line lang1="- Sì, li controllano sempre." someNumber="380" image="dg\142_005.gif" lang2="- Да, они проверяются регулярно.">
+      <audioTime in="18490" out="20567" />
+    </line>
+    <line lang1="- Lo invitano alle feste?" someNumber="None" image="dg\142_006.gif" lang2="- Приглашает ли кто-либо когда-либо его на вечеринки?">
+      <audioTime in="20567" out="22463" />
+    </line>
+    <line lang1="- Sì, lo invitano sempre." someNumber="None" image="dg\142_006.gif" lang2="- Да, его приглашают регулярно.">
+      <audioTime in="22463" out="24449" />
+    </line>
+    <line lang1="- Li incontrano alla stazione?" someNumber="None" image="dg\142_007.gif" lang2="- Встречает ли кто-либо когда-либо их на станции?">
+      <audioTime in="24450" out="26707" />
+    </line>
+    <line lang1="- Sì, li incontrano sempre." someNumber="None" image="dg\142_007.gif" lang2="- Да, его встречают на станции регулярно.">
+      <audioTime in="26707" out="28965" />
+    </line>
+    <line lang1="- Qualcuno lo ha mai affilato questo coltello?" someNumber="90" image="dg\142_008.gif" lang2="- Точил ли кто-либо когда-либо этот нож?">
+      <audioTime in="28965" out="31945" />
+    </line>
+    <line lang1="- Sì, lo affilano regolarmente." someNumber="None" image="dg\142_008.gif" lang2="- Да, он затачивался регулярно.">
+      <audioTime in="31945" out="34293" />
+    </line>
+    <line lang1="- Qualcuno li ha mai affilati questi coltelli?" someNumber="None" image="dg\142_009.gif" lang2="- Затачивал ли кто-либо когда-либо эти ножи?">
+      <audioTime in="34294" out="37409" />
+    </line>
+    <line lang1="- Sì, li affilano regolarmente." someNumber="None" image="dg\142_009.gif" lang2="- Да, они затачиваются регулярно.">
+      <audioTime in="37409" out="39712" />
+    </line>
+    <line lang1="- Qualcuno li hai mai osservati?" someNumber="None" image="dg\142_010.gif" lang2="- Наблюдал ли кто-нибудь за ними когда-нибудь?">
+      <audioTime in="39712" out="42015" />
+    </line>
+    <line lang1="- Sì, li osservano regolarmente." someNumber="None" image="dg\142_010.gif" lang2="- Да, за ними регулярно наблюдают.">
+      <audioTime in="42015" out="44453" />
+    </line>
+  </lines>
+</lesson>

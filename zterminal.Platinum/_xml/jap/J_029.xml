@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="J_029.wav" dlgName="Вы любите фрукты?" dic="p029" />
+  <lines>
+    <line lang1="―あきこ*さん*は*くだもの*が*すき*です*か。" someNumber="02" image="029_001.jpg" lang2="- Акико-сан, Вы любите фрукты?">
+      <audioTime in="0" out="3671" />
+    </line>
+    <line lang1="―すき*です。" someNumber="None" image="029_001.jpg" lang2="- Люблю.">
+      <audioTime in="3671" out="5511" />
+    </line>
+    <line lang1="―何*が*すき*です*か。" someNumber="02" image="029_001.jpg" lang2="- А что Вы любите?">
+      <audioTime in="5511" out="7019" />
+    </line>
+    <line lang1="―すいか*と*メロン*が*すき*です。" someNumber="142" image="029_004.jpg" lang2="- Люблю арбуз и дыню.">
+      <audioTime in="7019" out="9918" />
+    </line>
+    <line lang1="もも*が*だいすき*です。" someNumber="164" image="029_005.jpg" lang2="Очень люблю персики.">
+      <audioTime in="9918" out="12482" />
+    </line>
+    <line lang1="なし*が*あまり*すき*ではありません。" someNumber="142" image="029_006.jpg" lang2="Груши не очень люблю.">
+      <audioTime in="12482" out="16719" />
+    </line>
+    <line lang1="やまだ*さん*は*どんな*くだもの*が*すき*です*か。" someNumber="None" image="029_007.jpg" lang2="Ямада-сан, а какие фрукты любите Вы?">
+      <audioTime in="16719" out="20977" />
+    </line>
+    <line lang1="―バナナ*が*大好き*です。" someNumber="None" image="029_008.jpg" lang2="- Очень люблю бананы.">
+      <audioTime in="20977" out="23320" />
+    </line>
+    <line lang1="毎日*２キロ*ぐらい*食べます。" someNumber="43" image="029_009.jpg" lang2="Ем каждый день примерно по 2 килограмма.">
+      <audioTime in="23320" out="26299" />
+    </line>
+    <line lang1="―そう*です*か。じゃ、バナナ*を*どうぞ。" someNumber="None" image="029_010.jpg" lang2="- Ах так! Вот, пожалуйста, бананы.">
+      <audioTime in="26299" out="31110" />
+    </line>
+    <line lang1="―はい。いただきます。" someNumber="128" image="029_011.jpg" lang2="- Спасибо, поем.">
+      <audioTime in="31110" out="33316" />
+    </line>
+    <line lang1="―山田*さん*は*たばこ*を*すいます*か。" someNumber="167" image="029_012.jpg" lang2="- Ямада-сан, Вы курите?">
+      <audioTime in="33316" out="37225" />
+    </line>
+    <line lang1="―いいえ、たばこ*が*きらい*です。" someNumber="None" image="029_013.jpg" lang2="- Нет, я ненавижу курево.">
+      <audioTime in="37225" out="40105" />
+    </line>
+    <line lang1="でも、おさけ*は*きらい*ではありません。" someNumber="None" image="029_013.jpg" lang2="Но к спиртному отношусь терпимо.">
+      <audioTime in="40105" out="43285" />
+    </line>
+    <line lang1="よく*のみます。" someNumber="113" image="029_015.jpg" lang2="Частенько выпиваю.">
+      <audioTime in="43285" out="44824" />
+    </line>
+    <line lang1="―スポーツ*が*好き*です*か。" someNumber="None" image="029_016.jpg" lang2="- Вы любите спорт?">
+      <audioTime in="44824" out="47722" />
+    </line>
+    <line lang1="―やきゅう*が*好き*です。" someNumber="None" image="029_017.jpg" lang2="- Люблю бейсбол.">
+      <audioTime in="47722" out="49672" />
+    </line>
+    <line lang1="先週*やきゅう*クラブ*に*はいりました。" someNumber="None" image="029_017.jpg" lang2="На прошлой неделе вступил в бейсбольный клуб.">
+      <audioTime in="49672" out="52853" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="029_019.jpg" lang2="- Вот как!">
+      <audioTime in="52853" out="54652" />
+    </line>
+    <line lang1="れんしゅう*は*一週間*に*何回*です*か。" someNumber="04" image="029_019.jpg" lang2="Сколько раз в неделю тренировки?">
+      <audioTime in="54652" out="57831" />
+    </line>
+    <line lang1="―れんしゅう*は*毎日*です。" someNumber="None" image="029_021.jpg" lang2="- Тренировки каждый день.">
+      <audioTime in="57831" out="60011" />
+    </line>
+    <line lang1="しかし、ぼく*は*毎日*行きません。" someNumber="71" image="029_021.jpg" lang2="Но я хожу не каждый день.">
+      <audioTime in="60011" out="62936" />
+    </line>
+    <line lang1="日よう日*に*いきます。" someNumber="04" image="029_023.jpg" lang2="Хожу по воскресеньям.">
+      <audioTime in="62936" out="64682" />
+    </line>
+    <line lang1="―そう*です*か。" someNumber="None" image="029_024.jpg" lang2="- Вот как!">
+      <audioTime in="64682" out="66301" />
+    </line>
+  </lines>
+</lesson>

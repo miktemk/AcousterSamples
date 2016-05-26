@@ -1,0 +1,62 @@
+<lesson>
+  <header wav="d_131.wav" dic="p131" dlgName="Отпуск." dlgFile="exr\dg131.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Wo #willst du deinen Urlaub #verbringen, Harry?" someNumber="680" image="dg\131_001.gif" lang2="- Где ты собираешься провести свой отпуск, Гарри?">
+      <audioTime in="0" out="3100" />
+    </line>
+    <line lang1="- Vielleicht #fahren wir ins Ausland." someNumber="None" image="dg\131_001.gif" lang2="- Мы, может быть, поедем за границу.">
+      <audioTime in="3478" out="5369" />
+    </line>
+    <line lang1="Ich #bin noch nicht sicher." someNumber="None" image="dg\131_001.gif" lang2="Я ещё не уверен.">
+      <audioTime in="5293" out="7032" />
+    </line>
+    <line lang1="Meine Frau #will nach Ägypten #fahren." someNumber="750" image="dg\131_001.gif" lang2="Моя жена хочет поехать в Египет.">
+      <audioTime in="7410" out="9603" />
+    </line>
+    <line lang1="Ich #möchte aber nicht dorthin #fahren." someNumber="750" image="dg\131_001.gif" lang2="Но я не хочу ехать туда.">
+      <audioTime in="9603" out="11721" />
+    </line>
+    <line lang1="Ich #kann mich noch nicht #entscheiden." someNumber="950" image="dg\131_001.gif" lang2="Я ещё не могу решить.">
+      <audioTime in="11947" out="13762" />
+    </line>
+    <line lang1="- #Werdet Ihr mit dem Schiff oder mit den Flugzeug #reisen?" someNumber="None" image="dg\131_001.gif" lang2="- Вы будете путешествовать на корабле или на самолёте?">
+      <audioTime in="14140" out="18450" />
+    </line>
+    <line lang1="- Wir #können mit dem Schiff #reisen." someNumber="None" image="dg\131_001.gif" lang2="- Мы можем путешествовать на корабле.">
+      <audioTime in="18526" out="20719" />
+    </line>
+    <line lang1="- Das #ist billiger, nicht wahr?" someNumber="310" image="dg\131_001.gif" lang2="- Это дешевле, не так ли?">
+      <audioTime in="21550" out="23592" />
+    </line>
+    <line lang1="- Das #kann billiger #sein, aber das #nimmt viel Zeit in Ausspruch." someNumber="310" image="dg\131_001.gif" lang2="- Это может быть дешевле, но это занимает много времени.">
+      <audioTime in="23668" out="27675" />
+    </line>
+    <line lang1="- Ihr #werdet die Zeit sicher lustig #verbringen." someNumber="600" image="dg\131_001.gif" lang2="- Наверняка вы проведёте время весело.">
+      <audioTime in="27827" out="30548" />
+    </line>
+    <line lang1="- #Sei nicht so sicher." someNumber="630" image="dg\131_001.gif" lang2="- Не будь так уверен.">
+      <audioTime in="30549" out="31678" />
+    </line>
+    <line lang1="Wir #fahren vielleicht nirgendwohin." someNumber="630" image="dg\131_001.gif" lang2="Возможно мы никуда не поедем.">
+      <audioTime in="31608" out="33423" />
+    </line>
+    <line lang1="Meine Frau #1regt sich so #2auf." someNumber="350" image="dg\131_001.gif" lang2="Моя жена так беспокоится.">
+      <audioTime in="33347" out="35842" />
+    </line>
+    <line lang1="Wer #wird nach dem Hund #sehen?" someNumber="790" image="dg\131_001.gif" lang2="Кто будет смотреть за собакой?">
+      <audioTime in="35766" out="37960" />
+    </line>
+    <line lang1="Wer #wird das Haus #bewachen?" someNumber="790" image="dg\131_001.gif" lang2="Кто будет охранять дом?">
+      <audioTime in="38035" out="39849" />
+    </line>
+    <line lang1="Wer #wird auf den Garten #aufpassen?" someNumber="None" image="dg\131_001.gif" lang2="Кто будет смотреть за садом?">
+      <audioTime in="39849" out="41967" />
+    </line>
+    <line lang1="Jedes Jahr #haben wir Probleme." someNumber="None" image="dg\131_001.gif" lang2="У нас проблемы каждый год.">
+      <audioTime in="42043" out="44387" />
+    </line>
+    <line lang1="Letzten Endes #bleiben wir zu Hause und #1passen auf alles selbst #2auf!" someNumber="850" image="dg\131_001.gif" lang2="В конце концов, мы останемся дома и присмотрим за всем сами!">
+      <audioTime in="44689" out="50361" />
+    </line>
+  </lines>
+</lesson>

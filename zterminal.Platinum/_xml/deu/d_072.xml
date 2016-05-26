@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_072.wav" dic="p072" dlgName="Что Вы делали?.." dlgFile="exr\dg071.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Was #hast du gestern #gemacht?" someNumber="330" image="dg\072_001.gif" lang2="- Что ты делал вчера?">
+      <audioTime in="410" out="2215" />
+    </line>
+    <line lang1="- Ich #habe das Zimmer #gelüftet." someNumber="580" image="dg\072_001.gif" lang2="- Я проветривал комнату.">
+      <audioTime in="2379" out="4101" />
+    </line>
+    <line lang1="- Was #hat sie gestern Abend #gemacht?" someNumber="None" image="dg\072_002.gif" lang2="- Что она делала вчера вечером?">
+      <audioTime in="4594" out="6399" />
+    </line>
+    <line lang1="- Sie #hat gestern Abend Radio #gehört." someNumber="710" image="dg\072_002.gif" lang2="- Она вчера вечером слушала радио.">
+      <audioTime in="6727" out="9025" />
+    </line>
+    <line lang1="- Was #hat er heute früh #gemacht?" someNumber="None" image="dg\072_003.gif" lang2="- Что он делал сегодня утром?">
+      <audioTime in="9435" out="11486" />
+    </line>
+    <line lang1="- Er #hat sich heute früh #rasiert." someNumber="350" image="dg\072_003.gif" lang2="- Сегодня утром он брился.">
+      <audioTime in="11650" out="13537" />
+    </line>
+    <line lang1="- Was #hat sie vorgestern Nacht #gemacht?" someNumber="720" image="dg\072_004.gif" lang2="- Что она делала позапрошлой ночью?">
+      <audioTime in="13947" out="16572" />
+    </line>
+    <line lang1="- Sie #hat vorgestern Nacht ihren Mann #angerufen." someNumber="750" image="dg\072_004.gif" lang2="- Позапрошлой ночью она звонила своему мужу.">
+      <audioTime in="16982" out="20018" />
+    </line>
+    <line lang1="- Was #haben Sie gestern Nacht #gemacht?" someNumber="400" image="dg\072_005.gif" lang2="- Что Вы делали вчера ночью?">
+      <audioTime in="20510" out="22889" />
+    </line>
+    <line lang1="- Gestern Nacht #habe ich den Arzt #angerufen." someNumber="None" image="dg\072_005.gif" lang2="- Вчера ночью я вызывал доктора.">
+      <audioTime in="23054" out="26581" />
+    </line>
+    <line lang1="- Was #hat sie vorgestern #gemacht?" someNumber="710" image="dg\072_006.gif" lang2="- Что она делала позавчера?">
+      <audioTime in="26828" out="29043" />
+    </line>
+    <line lang1="- Sie #hat vorgestern den Korb #leergemacht." someNumber="None" image="dg\072_006.gif" lang2="- Она позавчера разгружала корзину.">
+      <audioTime in="29206" out="31914" />
+    </line>
+    <line lang1="- Was #habe ich gestern früh #gemacht?" someNumber="None" image="dg\072_007.gif" lang2="- Что я делала вчера утром?">
+      <audioTime in="32325" out="34540" />
+    </line>
+    <line lang1="- Gestern früh #hast du ein Ei #gekocht." someNumber="60" image="dg\072_007.gif" lang2="- Вчера утром ты варила яйцо.">
+      <audioTime in="34786" out="37329" />
+    </line>
+    <line lang1="- Was #haben Sie und Martin gestern #gemacht?" someNumber="None" image="dg\072_008.gif" lang2="- Что делали Вы и Мартин вчера?">
+      <audioTime in="37739" out="40447" />
+    </line>
+    <line lang1="- Wir #haben gestern unsere Schuhe #geputzt." someNumber="580" image="dg\072_008.gif" lang2="- Мы вчера чистили наши туфли.">
+      <audioTime in="40611" out="43236" />
+    </line>
+    <line lang1="- Was #haben die Kinder gestern Mittag #gemacht?" someNumber="190" image="dg\072_009.gif" lang2="- Что делали дети вчера днём?">
+      <audioTime in="43647" out="46189" />
+    </line>
+    <line lang1="- Gestern Mittag #haben sie im Garten #gespielt." someNumber="900" image="dg\072_009.gif" lang2="- Вчера днём они играли в саду.">
+      <audioTime in="46600" out="49718" />
+    </line>
+    <line lang1="- Was #hat er heute #gemacht?" someNumber="None" image="dg\072_010.gif" lang2="- Что он делал сегодня?">
+      <audioTime in="49964" out="51933" />
+    </line>
+    <line lang1="- Er #ist heute im Bett #geblieben." someNumber="None" image="dg\072_010.gif" lang2="- Он сегодня оставался в постели.">
+      <audioTime in="51933" out="54230" />
+    </line>
+  </lines>
+</lesson>

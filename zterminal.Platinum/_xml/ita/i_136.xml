@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_136.wav" dic="p136" dlgName="Она сказала, что..." dlgFile="exr\ig136.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Partirò domani." someNumber="None" image="dg\136_001.gif" lang2="- Я уеду завтра.">
+      <audioTime in="0" out="1583" />
+    </line>
+    <line lang1="- Cosa ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что он сказал?">
+      <audioTime in="1432" out="2919" />
+    </line>
+    <line lang1="- Ha detto che partirà domani." someNumber="None" image="dg\136_001.gif" lang2="- Он сказал, что уедет завтра.">
+      <audioTime in="2881" out="5166" />
+    </line>
+    <line lang1="- Posso capire l'inglese." someNumber="None" image="dg\136_001.gif" lang2="- Я могу понимать английский.">
+      <audioTime in="5233" out="7172" />
+    </line>
+    <line lang1="- Cosa ti ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что она сказала тебе?">
+      <audioTime in="7277" out="8484" />
+    </line>
+    <line lang1="- Mi ha detto che può capire l'inglese." someNumber="None" image="dg\136_001.gif" lang2="- Она мне сказала, что может понимать английский.">
+      <audioTime in="8492" out="10822" />
+    </line>
+    <line lang1="- Stasera posso andare al cinema." someNumber="None" image="dg\136_001.gif" lang2="- Я могу пойти в кино этим вечером.">
+      <audioTime in="10822" out="13115" />
+    </line>
+    <line lang1="- Cosa ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что он сказал?">
+      <audioTime in="13236" out="14329" />
+    </line>
+    <line lang1="- Ha detto che stasera può andare al cinema." someNumber="380" image="dg\136_001.gif" lang2="- Он сказал, что может пойти в кино сегодня вечером.">
+      <audioTime in="14432" out="17384" />
+    </line>
+    <line lang1="- Domani non posso venire." someNumber="None" image="dg\136_001.gif" lang2="- Я не могу придти завтра.">
+      <audioTime in="17497" out="19480" />
+    </line>
+    <line lang1="- Cosa ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что она сказала?">
+      <audioTime in="19571" out="20898" />
+    </line>
+    <line lang1="- Ha detto che domani non verrà." someNumber="None" image="dg\136_001.gif" lang2="- Она сказала, что не придёт завтра.">
+      <audioTime in="20898" out="22896" />
+    </line>
+    <line lang1="- Giorgio non viaggerà in aereo." someNumber="None" image="dg\136_001.gif" lang2="- Джорджио не будет путешествовать самолётом.">
+      <audioTime in="22965" out="25189" />
+    </line>
+    <line lang1="- Cosa ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что он сказал?">
+      <audioTime in="25074" out="26313" />
+    </line>
+    <line lang1="- Ha detto che Giorgio non viaggerà in aereo." someNumber="810" image="dg\136_001.gif" lang2="- Он сказал, что Джорджио не будет путешествовать самолётом.">
+      <audioTime in="26349" out="29123" />
+    </line>
+    <line lang1="- Non posso permettermi una macchina nuova." someNumber="1050" image="dg\136_001.gif" lang2="- Я не могу позволить себе новый автомобиль.">
+      <audioTime in="29297" out="31966" />
+    </line>
+    <line lang1="- Cosa ti ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что она тебе сказала?">
+      <audioTime in="31911" out="33492" />
+    </line>
+    <line lang1="- Mi ha detto che non può permettersi una macchina nuova." someNumber="None" image="dg\136_001.gif" lang2="- Она сказала мне, что не может позволить себе новый автомобиль.">
+      <audioTime in="33579" out="36911" />
+    </line>
+    <line lang1="- Non posso andare in pensione." someNumber="None" image="dg\136_001.gif" lang2="- Я не могу уйти на пенсию.">
+      <audioTime in="36911" out="39248" />
+    </line>
+    <line lang1="- Che cosa ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что он сказал?">
+      <audioTime in="39291" out="40800" />
+    </line>
+    <line lang1="- Ha detto che non può andare in pensione." someNumber="None" image="dg\136_001.gif" lang2="- Он сказал, что он не может уйти на пенсию.">
+      <audioTime in="40979" out="43663" />
+    </line>
+    <line lang1="- Domani pioverà." someNumber="None" image="dg\136_001.gif" lang2="- Завтра пойдёт дождь.">
+      <audioTime in="43705" out="45133" />
+    </line>
+    <line lang1="- Cosa ti ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что она сказала тебе?">
+      <audioTime in="45177" out="46822" />
+    </line>
+    <line lang1="- Ha detto che domani pioverà." someNumber="None" image="dg\136_001.gif" lang2="- Она сказала, что завтра пойдёт дождь.">
+      <audioTime in="46822" out="49201" />
+    </line>
+    <line lang1="- I bambini possono venire con noi." someNumber="None" image="dg\136_001.gif" lang2="- Дети могут пойти с нами.">
+      <audioTime in="49201" out="51755" />
+    </line>
+    <line lang1="- Cosa ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что он сказал?">
+      <audioTime in="51598" out="52863" />
+    </line>
+    <line lang1="- Ha detto che i bambini possono venire con noi." someNumber="None" image="dg\136_001.gif" lang2="- Он сказал, что дети могут пойти с нами.">
+      <audioTime in="52927" out="55736" />
+    </line>
+    <line lang1="- Forse Maria ha ragione." someNumber="None" image="dg\136_001.gif" lang2="- Мария, может быть, права.">
+      <audioTime in="55692" out="57900" />
+    </line>
+    <line lang1="- Cosa ha detto?" someNumber="None" image="dg\136_001.gif" lang2="- Что она сказала тебе?">
+      <audioTime in="57898" out="59155" />
+    </line>
+    <line lang1="- Ha detto che forse Maria ha ragione." someNumber="None" image="dg\136_001.gif" lang2="- Она сказала мне, что Мария, может быть, права.">
+      <audioTime in="59111" out="61582" />
+    </line>
+  </lines>
+</lesson>

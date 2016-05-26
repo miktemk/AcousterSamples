@@ -1,0 +1,44 @@
+<lesson>
+  <header wav="i_093.wav" dic="p093" dlgName="Наш новый сосед." dlgFile="exr\ig093.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Il signor Paolucci è il nostro nuovo vicino." someNumber="None" image="dg\093_001.gif" lang2="- Господин Паолуччи - наш новый сосед.">
+      <audioTime in="246" out="3499" />
+    </line>
+    <line lang1="- È un pilota." someNumber="None" image="dg\093_001.gif" lang2="- Он пилот.">
+      <audioTime in="3603" out="4984" />
+    </line>
+    <line lang1="- Al tempo della guerra ha fatto parte dell' aereonautica militare Italiana." someNumber="None" image="dg\093_002.gif" lang2="- Он был в итальянских военно-воздушных силах во время войны.">
+      <audioTime in="4885" out="9820" />
+    </line>
+    <line lang1="- Il prossimo mese volerà a New-York." someNumber="None" image="dg\093_007.gif" lang2="- В следующем месяце он полетит в Нью-Йорк.">
+      <audioTime in="9820" out="12485" />
+    </line>
+    <line lang1="- E fra un mese volerà a Tokio." someNumber="None" image="dg\093_004.gif" lang2="- Через месяц он полетит в Токио.">
+      <audioTime in="12535" out="14657" />
+    </line>
+    <line lang1="- Adesso è a Madrid." someNumber="None" image="dg\093_005.gif" lang2="- Он сейчас в Мадриде.">
+      <audioTime in="14710" out="16532" />
+    </line>
+    <line lang1="- È volato in Spagna una settimana fa." someNumber="380" image="dg\093_005.gif" lang2="- Он улетел в Испанию неделю тому назад.">
+      <audioTime in="16532" out="18946" />
+    </line>
+    <line lang1="- Tornerà a Roma fra una settimana." someNumber="None" image="dg\093_003.gif" lang2="- Он вернётся в Рим через неделю.">
+      <audioTime in="18951" out="21715" />
+    </line>
+    <line lang1="- Ha soltanto quarantuno anni," someNumber="220" image="dg\093_006.gif" lang2="- Ему только сорок один год,">
+      <audioTime in="21665" out="23786" />
+    </line>
+    <line lang1="però è stato quasi in tutti gli stati del mondo." someNumber="None" image="dg\093_006.gif" lang2="а он уже побывал почти во всех странах мира.">
+      <audioTime in="23786" out="26896" />
+    </line>
+    <line lang1="- Beato lui!" someNumber="None" image="dg\093_008.gif" lang2="- Ему очень повезло!">
+      <audioTime in="26896" out="28069" />
+    </line>
+    <line lang1="- Però sua moglie non è molto felice." someNumber="None" image="dg\093_008.gif" lang2="- Но его жене не очень-то повезло.">
+      <audioTime in="28179" out="30746" />
+    </line>
+    <line lang1="Lei di solito rimane a casa!" someNumber="None" image="dg\093_008.gif" lang2="Она обычно остаётся дома!">
+      <audioTime in="30750" out="32765" />
+    </line>
+  </lines>
+</lesson>

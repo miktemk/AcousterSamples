@@ -1,0 +1,113 @@
+<lesson>
+  <header wav="j_087.wav" dlgName="Нужно снимать обувь" dic="p087" />
+  <lines>
+    <line lang1="ー小林*さん、" someNumber="None" image="087_001.jpg" lang2="- Кобаяси-сан,">
+      <audioTime in="0" out="3416" />
+    </line>
+    <line lang1="私*は*週末*坂井*さん*と*いう*人*の*家*に*ホームステイ*する*約束*を*しました。" someNumber="143" image="087_002.jpg" lang2="я договорился пожить в доме господина по имени Сакаи в конце недели.">
+      <audioTime in="3416" out="9049" />
+    </line>
+    <line lang1="日本人*の*家*は*初めて*なん*です*が。" someNumber="107" image="087_003.jpg" lang2="Я впервые буду жить в японском доме...">
+      <audioTime in="9049" out="12516" />
+    </line>
+    <line lang1="いろいろ*教えて*下さいません*か。" someNumber="083" image="087_004.jpg" lang2="Не объясните ли мне что к чему?">
+      <audioTime in="12516" out="14562" />
+    </line>
+    <line lang1="ー坂井*さん*です*か。その*人*を知っています*よ。" someNumber="124" image="087_005.jpg" lang2="- Сакаи-сан? Я знаю его.">
+      <audioTime in="14562" out="19957" />
+    </line>
+    <line lang1="ーそう*です*か。良かった。" someNumber="None" image="087_006.jpg" lang2="- Вот как? Вот удача!">
+      <audioTime in="19957" out="22427" />
+    </line>
+    <line lang1="坂井*さん*は*マンション*に*住んでいます*か。" someNumber="None" image="087_007.jpg" lang2="Сакаи-сан живет в квартире?">
+      <audioTime in="22427" out="24944" />
+    </line>
+    <line lang1="ーいいえ、いっけんや*です。" someNumber="None" image="087_008.jpg" lang2="- Нет, в собственном доме.">
+      <audioTime in="24944" out="27432" />
+    </line>
+    <line lang1="ー二階だて*の*家*です*か。" someNumber="164" image="087_009.jpg" lang2="- В двухэтажном доме?">
+      <audioTime in="27432" out="29289" />
+    </line>
+    <line lang1="ーそう*ではありません。平屋*です。" someNumber="163" image="087_010.jpg" lang2="- Нет. В одноэтажном.">
+      <audioTime in="29289" out="32251" />
+    </line>
+    <line lang1="ー部屋*は*いくつ*あります*か。" someNumber="None" image="087_011.jpg" lang2="- А сколько (у него) комнат?">
+      <audioTime in="32251" out="34817" />
+    </line>
+    <line lang1="ー８畳*の*部屋*が*２つ*と*１２畳*の*部屋*が*１つ*あります。" someNumber="34" image="087_011.jpg" lang2="- 2 комнаты по 8 татами и одна комната в 12 татами.">
+      <audioTime in="34817" out="41256" />
+    </line>
+    <line lang1="ー全部*和室*です*か。" someNumber="None" image="087_011.jpg" lang2="- Все комнаты в японском стиле?">
+      <audioTime in="41256" out="43311" />
+    </line>
+    <line lang1="ーいいえ。寝室*は*和室*です*が、" someNumber="None" image="087_011.jpg" lang2="- Нет. Спальни в японском стиле,">
+      <audioTime in="43311" out="46589" />
+    </line>
+    <line lang1="客間*は*台所*と*一緒*で、洋風*の*部屋*です*ね。" someNumber="None" image="087_015.jpg" lang2="а гостиная, совмещенная со кухней - в европейском стиле.">
+      <audioTime in="46589" out="50863" />
+    </line>
+    <line lang1="ところ*で、日本人*の*家*の*入り方*を*知っています*か。" someNumber="None" image="087_016.jpg" lang2="Кстати, (Вы) знаете, как входить в японский дом?">
+      <audioTime in="50863" out="55405" />
+    </line>
+    <line lang1="―知っています。げんかん*で*くつ*を*ぬいで、上がります。" someNumber="75" image="087_017.jpg" lang2="- Знаю. В передней снимают обувь и поднимаются (входят).">
+      <audioTime in="55405" out="59820" />
+    </line>
+    <line lang1="靴*を*脱がなくて*は*いけません。" someNumber="090" image="087_018.jpg" lang2="Нельзя входить, не сняв обувь.">
+      <audioTime in="59820" out="61849" />
+    </line>
+    <line lang1="―そう*です*ね。日本人*は*靴*を*はいた*まま*家*へ*入りません。" someNumber="158" image="087_019.jpg" lang2="- Правильно. Японцы не входят в дом в обуви.">
+      <audioTime in="61849" out="67402" />
+    </line>
+    <line lang1="―うち*の*中*で*は*何*も*はきません*か。" someNumber="None" image="087_020.jpg" lang2="- И ничего не надевают на ноги в помещении?">
+      <audioTime in="67402" out="70730" />
+    </line>
+    <line lang1="ー畳*の*部屋*で*は*何*も*はきません。" someNumber="None" image="087_020.jpg" lang2="- В комнатах с татами ничего не надевают.">
+      <audioTime in="70730" out="74381" />
+    </line>
+    <line lang1="ろうか、" someNumber="None" image="087_022.jpg" lang2="В коридоре,">
+      <audioTime in="74381" out="75809" />
+    </line>
+    <line lang1="トイレ、" someNumber="None" image="087_023.jpg" lang2="туалете,">
+      <audioTime in="75809" out="76623" />
+    </line>
+    <line lang1="洋室*など*の*畳*の*ない*部屋*で*スリッパ*を*はきます。" someNumber="None" image="087_024.jpg" lang2="европейских и прочих комнатах, где нет татами, надевают тапочки.">
+      <audioTime in="76623" out="80375" />
+    </line>
+    <line lang1="ー分かりました。" someNumber="None" image="087_024.jpg" lang2="- Понятно.">
+      <audioTime in="80375" out="82563" />
+    </line>
+    <line lang1="あの、部屋*で*は*座ぶとん*に*座らなければなりません*か。" someNumber="088" image="087_026.jpg" lang2="А в комнате нужно садиться на подушку на полу?">
+      <audioTime in="82563" out="87229" />
+    </line>
+    <line lang1="足*が*痛く*なる*でしょう。" someNumber="None" image="087_026.jpg" lang2="Наверное, ногам будет больно!">
+      <audioTime in="87229" out="89083" />
+    </line>
+    <line lang1="ーそう*です*ね。" someNumber="None" image="087_026.jpg" lang2="- Может быть.">
+      <audioTime in="89083" out="90749" />
+    </line>
+    <line lang1="外国人*に*とって*正座*は*つらい*でしょう。" someNumber="None" image="087_029.jpg" lang2="Для иностранцев сидеть на полу, подогнув ноги, тяжело.">
+      <audioTime in="90749" out="93570" />
+    </line>
+    <line lang1="足*が*痛い*とき*は*足*を*伸ばして*も*かまいません。" someNumber="090" image="087_030.jpg" lang2="Но если ноги заболят, их можно вытянуть.">
+      <audioTime in="93570" out="97507" />
+    </line>
+    <line lang1="ー小林*さん、次*に*困っている*の*は*お風呂*です*けど..." someNumber="143" image="087_031.jpg" lang2="- Кобаяси-сан, что ещё меня смущает, так это баня...">
+      <audioTime in="97507" out="102646" />
+    </line>
+    <line lang1="ーお風呂*です*ね。日本人*は*体*を*洗って*から、" someNumber="153" image="087_032.jpg" lang2="- Ах да, баня! Японцы, предварительно вымыв тело,">
+      <audioTime in="102646" out="108414" />
+    </line>
+    <line lang1="お湯*の*中*で*体*を*暖めます。" someNumber="None" image="087_033.jpg" lang2="согревают его в горячей воде (ванны).">
+      <audioTime in="108414" out="110695" />
+    </line>
+    <line lang1="お湯*の*温度*は*だいたい*４０度*ぐらい*です。" someNumber="None" image="087_033.jpg" lang2="Температура воды обычно около 40 градусов.">
+      <audioTime in="110695" out="114211" />
+    </line>
+    <line lang1="お風呂*の*お湯*は*その*まま*に*して*おきます。" someNumber="80" image="087_033.jpg" lang2="Воду в ванне оставляют так как есть.">
+      <audioTime in="114211" out="117711" />
+    </line>
+    <line lang1="他*の*人*も*入る*から*です。" someNumber="None" image="087_036.jpg" lang2="Потому что потом (в ванну) входят другие люди.">
+      <audioTime in="117711" out="122172" />
+    </line>
+  </lines>
+</lesson>

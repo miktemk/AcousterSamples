@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="d_141.wav" dic="p141" dlgName="В купе." dlgFile="exr\dg140.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Vorige Woche #war meine 5 jährige Tochter Monika zum Kinderabend #eingeladen." someNumber="590" image="dg\141_001.gif" lang2="- На прошлой неделе моя пятилетняя дочь, Моника, была приглашена на детскую вечеринку.">
+      <audioTime in="1108" out="6545" />
+    </line>
+    <line lang1="Ich #habe #beschlossen, sie mit dem Zug zu #fahren." someNumber="700" image="dg\141_001.gif" lang2="Я решила отвезти её на поезде.">
+      <audioTime in="6746" out="9364" />
+    </line>
+    <line lang1="- Monika #war sehr #aufgeregt, weil sie früher niemals mit dem Zug #gefahren #war." someNumber="860" image="dg\141_001.gif" lang2="- Моника была очень взволнована, потому что она никогда прежде не путешествовала на поезде.">
+      <audioTime in="9364" out="13996" />
+    </line>
+    <line lang1="- Sie #saß am Fenster und #stellte Fragen über alles, was sie #sah." someNumber="570" image="dg\141_001.gif" lang2="- Она сидела около окна и задавала вопросы обо всём, что она видела.">
+      <audioTime in="13996" out="18728" />
+    </line>
+    <line lang1="Plötzlich #trat eine ältere Dame in unser Abteil und #setzte sich Monika gegenüber." someNumber="790" image="dg\141_001.gif" lang2="Вдруг дама средних лет вошла в наше купе и села напротив Моники.">
+      <audioTime in="18930" out="24467" />
+    </line>
+    <line lang1="- &quot;Hallo, kleines Mädchen&quot; #sagte sie." someNumber="570" image="dg\141_001.gif" lang2="- &quot;Привет, маленькая девочка,&quot; - сказала она.">
+      <audioTime in="24467" out="26783" />
+    </line>
+    <line lang1="Monika #antwortete nicht, sie #1sah sie neugierig #2an." someNumber="570" image="dg\141_001.gif" lang2="Моника не ответила, но посмотрела на неё с любопытством.">
+      <audioTime in="26783" out="30711" />
+    </line>
+    <line lang1="Die Frau #1hatte einen blauen Mantel und einen großen komischen Hut #2auf." someNumber="290" image="dg\141_001.gif" lang2="Женщина была одета в синее пальто, и на ней была большая смешная шляпа.">
+      <audioTime in="30711" out="35342" />
+    </line>
+    <line lang1="- Nachdem der Zug vom Bahnhof #abgefahren #war, #1machte die Frau ihre Tasche #2auf und #1nahm ihre Puderdose #2heraus." someNumber="970" image="dg\141_001.gif" lang2="- После того как поезд отъехал от вокзала, женщина открыла свою сумочку и вынула оттуда свою пудреницу.">
+      <audioTime in="35443" out="42390" />
+    </line>
+    <line lang1="Dann #begann sie sich zu #pudern." someNumber="960" image="dg\141_001.gif" lang2="Затем она начала пудриться.">
+      <audioTime in="42894" out="44807" />
+    </line>
+    <line lang1="- &quot;Warum #machen Sie das?&quot; #fragte Monika." someNumber="None" image="dg\141_001.gif" lang2="- &quot;Зачем Вы это делаете?&quot; - спросила Моника.">
+      <audioTime in="45310" out="47728" />
+    </line>
+    <line lang1="- &quot;Um mich anziehender zu #machen&quot; #antwortete die Frau gutmütig." someNumber="700" image="dg\141_001.gif" lang2="- &quot;Чтобы сделать себя привлекательней&quot;, - ответила женщина добродушно.">
+      <audioTime in="48130" out="52157" />
+    </line>
+    <line lang1="- Sie #versteckte die Puderdose und #lächelte gutmütig." someNumber="850" image="dg\141_001.gif" lang2="- Она убрала свою пудреницу и добродушно улыбнулась.">
+      <audioTime in="52560" out="56286" />
+    </line>
+    <line lang1="&quot;Ungeachtet dessen #sind Sie häßlich #geblieben&quot;, #sagte Monika." someNumber="780" image="dg\141_001.gif" lang2="&quot;Вы, тем не менее, остались некрасивой&quot;, - сказала Моника.">
+      <audioTime in="56790" out="61622" />
+    </line>
+    <line lang1="- Monika #hat sich #amüsiert, aber mich in Verlegenheit #gebracht." someNumber="850" image="dg\141_001.gif" lang2="- Моника развлекалась, но меня поставила в затруднительное положение.">
+      <audioTime in="61723" out="66456" />
+    </line>
+  </lines>
+</lesson>

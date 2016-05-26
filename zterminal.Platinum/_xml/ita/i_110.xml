@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_110.wav" dic="p110" dlgName="У меня есть ...меньше." dlgFile="exr\ig109.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Io ho un po' di caffè." someNumber="None" image="dg\110_001.gif" lang2="- У меня есть немного кофе.">
+      <audioTime in="0" out="2119" />
+    </line>
+    <line lang1="- Io ho meno caffè di te." someNumber="380" image="dg\110_001.gif" lang2="- У меня меньше кофе, чем у тебя.">
+      <audioTime in="2119" out="4193" />
+    </line>
+    <line lang1="Ne ho proprio poco." someNumber="None" image="dg\110_001.gif" lang2="У меня очень мало.">
+      <audioTime in="4193" out="5909" />
+    </line>
+    <line lang1="- Io ho alcuni libri." someNumber="160" image="dg\110_002.gif" lang2="- У меня есть несколько книг.">
+      <audioTime in="6019" out="7884" />
+    </line>
+    <line lang1="- Io ho meno libri di te." someNumber="None" image="dg\110_002.gif" lang2="- У меня меньше книг, чем у тебя.">
+      <audioTime in="7968" out="9748" />
+    </line>
+    <line lang1="Ne ho proprio pochi." someNumber="None" image="dg\110_002.gif" lang2="У меня очень мало.">
+      <audioTime in="9749" out="11600" />
+    </line>
+    <line lang1="- Ho un po' di carne." someNumber="None" image="dg\110_003.gif" lang2="- У меня есть немного мяса.">
+      <audioTime in="11699" out="13265" />
+    </line>
+    <line lang1="- Io ne ho meno di te." someNumber="None" image="dg\110_003.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="13265" out="14754" />
+    </line>
+    <line lang1="Ne ho proprio poca." someNumber="None" image="dg\110_003.gif" lang2="У меня очень мало.">
+      <audioTime in="14836" out="16785" />
+    </line>
+    <line lang1="- Io ho un po' di soldi." someNumber="None" image="dg\110_004.gif" lang2="- У меня есть немного денег.">
+      <audioTime in="16870" out="18905" />
+    </line>
+    <line lang1="- Io ho meno soldi di te." someNumber="None" image="dg\110_004.gif" lang2="- У меня меньше денег, чем у тебя.">
+      <audioTime in="18990" out="20940" />
+    </line>
+    <line lang1="Ne ho proprio pochi." someNumber="None" image="dg\110_004.gif" lang2="У меня очень мало денег.">
+      <audioTime in="20940" out="22926" />
+    </line>
+    <line lang1="- Ho un po' di verdura." someNumber="500" image="dg\110_005.gif" lang2="- У меня есть немного овощей.">
+      <audioTime in="22889" out="24754" />
+    </line>
+    <line lang1="- Ho meno verdura di te." someNumber="None" image="dg\110_005.gif" lang2="- У меня меньше овощей, чем у тебя.">
+      <audioTime in="24840" out="26620" />
+    </line>
+    <line lang1="Ne ho poca poca." someNumber="None" image="dg\110_005.gif" lang2="У меня очень мало.">
+      <audioTime in="26620" out="28471" />
+    </line>
+    <line lang1="- Io ho un po' di biscotti." someNumber="None" image="dg\110_006.gif" lang2="- У меня есть несколько бисквитов.">
+      <audioTime in="28569" out="30904" />
+    </line>
+    <line lang1="- Io ne ho meno di te." someNumber="None" image="dg\110_006.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="30904" out="32258" />
+    </line>
+    <line lang1="Ne ho proprio pochi." someNumber="None" image="dg\110_006.gif" lang2="У меня очень мало.">
+      <audioTime in="32258" out="34155" />
+    </line>
+    <line lang1="- Io ho un po' di oggetti di cancelleria." someNumber="None" image="dg\110_007.gif" lang2="- У меня есть немного письменных принадлежностей.">
+      <audioTime in="34165" out="36878" />
+    </line>
+    <line lang1="- Io ne ho meno di te." someNumber="None" image="dg\110_007.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="36878" out="38458" />
+    </line>
+    <line lang1="Ne ho proprio pochi." someNumber="None" image="dg\110_007.gif" lang2="У меня очень мало.">
+      <audioTime in="38459" out="40083" />
+    </line>
+    <line lang1="- Io ho un po' di cioccolata." someNumber="None" image="dg\110_008.gif" lang2="- У меня есть немного шоколада.">
+      <audioTime in="40083" out="42115" />
+    </line>
+    <line lang1="- Io ne ho meno di te." someNumber="None" image="dg\110_008.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="42115" out="43651" />
+    </line>
+    <line lang1="Ne ho proprio poca." someNumber="None" image="dg\110_008.gif" lang2="У меня очень мало.">
+      <audioTime in="43651" out="45412" />
+    </line>
+    <line lang1="- Io ho alcuni regali." someNumber="None" image="dg\110_009.gif" lang2="- У меня есть несколько подарков.">
+      <audioTime in="45412" out="47353" />
+    </line>
+    <line lang1="- Io ne meno di te." someNumber="None" image="dg\110_009.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="47353" out="49070" />
+    </line>
+    <line lang1="Ne ho proprio pochi." someNumber="None" image="dg\110_009.gif" lang2="У меня очень мало.">
+      <audioTime in="49070" out="50740" />
+    </line>
+    <line lang1="- Io ho un po' d'inchiostro." someNumber="None" image="dg\110_010.gif" lang2="- У меня есть немного чернил.">
+      <audioTime in="50798" out="52855" />
+    </line>
+    <line lang1="- Io ne ho meno di te." someNumber="None" image="dg\110_010.gif" lang2="- У меня меньше, чем у тебя.">
+      <audioTime in="52855" out="54570" />
+    </line>
+    <line lang1="Ne ho proprio poco." someNumber="None" image="dg\110_010.gif" lang2="У меня очень мало.">
+      <audioTime in="54630" out="56321" />
+    </line>
+  </lines>
+</lesson>

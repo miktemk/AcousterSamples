@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="i_010.wav" dic="p010" dlgName="Мужчина полный или худой?" dlgFile="exr\ig009.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Quest'uomo è grasso o magro?" someNumber="190" image="dg\010_001.gif" lang2="- Мужчина полный или худой?">
+      <audioTime in="0" out="2724" />
+    </line>
+    <line lang1="- Lui non è magro." someNumber="None" image="dg\010_001.gif" lang2="- Он не худой.">
+      <audioTime in="2812" out="4322" />
+    </line>
+    <line lang1="È grasso." someNumber="None" image="dg\010_001.gif" lang2="Он полный.">
+      <audioTime in="4322" out="5451" />
+    </line>
+    <line lang1="- Il signor Fortini ha freddo o caldo?" someNumber="None" image="dg\010_002.gif" lang2="- Господину Фортини холодно или жарко?">
+      <audioTime in="5536" out="8525" />
+    </line>
+    <line lang1="- Lui non ha freddo." someNumber="None" image="dg\010_002.gif" lang2="- Ему не холодно.">
+      <audioTime in="8876" out="10458" />
+    </line>
+    <line lang1="Ha caldo." someNumber="None" image="dg\010_002.gif" lang2="Ему жарко.">
+      <audioTime in="10546" out="11776" />
+    </line>
+    <line lang1="- L'hostess è giovane o vecchia?" someNumber="None" image="dg\010_003.gif" lang2="- Стюардесса молодая или старая?">
+      <audioTime in="11776" out="14530" />
+    </line>
+    <line lang1="- Lei non è vecchia." someNumber="None" image="dg\010_003.gif" lang2="- Она не старая.">
+      <audioTime in="14530" out="16247" />
+    </line>
+    <line lang1="È giovane." someNumber="None" image="dg\010_003.gif" lang2="Она молодая.">
+      <audioTime in="16247" out="17376" />
+    </line>
+    <line lang1="- La donna è magra o grassa?" someNumber="None" image="dg\010_004.gif" lang2="- Женщина худая или полная?">
+      <audioTime in="17376" out="19949" />
+    </line>
+    <line lang1="- Lei non è grassa." someNumber="None" image="dg\010_004.gif" lang2="- Она не полная.">
+      <audioTime in="19949" out="21800" />
+    </line>
+    <line lang1="È magra." someNumber="None" image="dg\010_004.gif" lang2="Она худая.">
+      <audioTime in="21800" out="22929" />
+    </line>
+    <line lang1="- La signora Fortini ha freddo o caldo?" someNumber="None" image="dg\010_005.gif" lang2="- Госпоже Фортини холодно или жарко?">
+      <audioTime in="22929" out="26406" />
+    </line>
+    <line lang1="- Lei non ha caldo." someNumber="None" image="dg\010_005.gif" lang2="- Ей не жарко.">
+      <audioTime in="26406" out="28167" />
+    </line>
+    <line lang1="Ha freddo." someNumber="None" image="dg\010_005.gif" lang2="Ей холодно.">
+      <audioTime in="28167" out="29296" />
+    </line>
+    <line lang1="- La poliziotta è alta o bassa?" someNumber="None" image="dg\010_006.gif" lang2="- Женщина-полицейский высокая или низкая?">
+      <audioTime in="29296" out="32140" />
+    </line>
+    <line lang1="- Lei non è alta." someNumber="None" image="dg\010_006.gif" lang2="- Она не высокая.">
+      <audioTime in="32140" out="33946" />
+    </line>
+    <line lang1="È bassa." someNumber="None" image="dg\010_006.gif" lang2="Она низкая.">
+      <audioTime in="33947" out="35075" />
+    </line>
+    <line lang1="- Il lattaio è vecchio o giovane?" someNumber="None" image="dg\010_007.gif" lang2="- Продавец молока старый или молодой?">
+      <audioTime in="35418" out="37967" />
+    </line>
+    <line lang1="- Lui non è giovane." someNumber="None" image="dg\010_007.gif" lang2="- Он не молодой.">
+      <audioTime in="37967" out="39727" />
+    </line>
+    <line lang1="È vecchio." someNumber="None" image="dg\010_007.gif" lang2="Он старый.">
+      <audioTime in="39727" out="40856" />
+    </line>
+    <line lang1="- Il meccanico è sporco o pulito?" someNumber="None" image="dg\010_008.gif" lang2="- Механик грязный или чистый?">
+      <audioTime in="40856" out="43746" />
+    </line>
+    <line lang1="- Lui non è pulito." someNumber="None" image="dg\010_008.gif" lang2="- Он не чистый.">
+      <audioTime in="43746" out="45281" />
+    </line>
+    <line lang1="È sporco." someNumber="None" image="dg\010_008.gif" lang2="Он грязный.">
+      <audioTime in="45281" out="46500" />
+    </line>
+    <line lang1="- Il poliziotto è alto o basso?" someNumber="None" image="dg\010_009.gif" lang2="- Полицейский высокий или низкий?">
+      <audioTime in="46501" out="49526" />
+    </line>
+    <line lang1="- Lui non è basso." someNumber="None" image="dg\010_009.gif" lang2="- Он не низкий.">
+      <audioTime in="49526" out="50970" />
+    </line>
+    <line lang1="È alto." someNumber="None" image="dg\010_009.gif" lang2="Он высокий.">
+      <audioTime in="50971" out="52099" />
+    </line>
+    <line lang1="- La balia è pulita o sporca?" someNumber="None" image="dg\010_010.gif" lang2="- Няня чистая или грязная?">
+      <audioTime in="52380" out="54929" />
+    </line>
+    <line lang1="- Lei non è sporca." someNumber="None" image="dg\010_010.gif" lang2="- Она не грязная.">
+      <audioTime in="55455" out="56774" />
+    </line>
+    <line lang1="È pulita." someNumber="None" image="dg\010_010.gif" lang2="Она чистая.">
+      <audioTime in="56932" out="57919" />
+    </line>
+  </lines>
+</lesson>

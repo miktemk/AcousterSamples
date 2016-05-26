@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_124.wav" dic="p124" dlgName="Это не тот ли самый?" dlgFile="exr\fg123.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Est-ce un texte? M'en as-tu parlé?" someNumber="930" image="dg\124_001.gif" lang2="- Это текст? Ты о нем мне говорила?">
+      <audioTime in="0" out="2597" />
+    </line>
+    <line lang1="- Oui, c'est le même texte que celui dont je te parlais." someNumber="None" image="dg\124_001.gif" lang2="- Да, это тот самый текст, (что и тот) о котором я тебе говорила.">
+      <audioTime in="2597" out="5603" />
+    </line>
+    <line lang1="- Est-ce un homme? M'as-tu parlé de lui?" someNumber="60" image="dg\124_002.gif" lang2="- Это мужчина? Ты о нем мне говорила?">
+      <audioTime in="5603" out="8032" />
+    </line>
+    <line lang1="- Oui, c'est lui dont je te parlais." someNumber="None" image="dg\124_002.gif" lang2="- Да, это он, о котором я тебе говорила.">
+      <audioTime in="8032" out="10243" />
+    </line>
+    <line lang1="- Est-ce une fille? M'as-tu parlé d'elle?" someNumber="None" image="dg\124_003.gif" lang2="- Это девушка? Ты о ней мне говорила?">
+      <audioTime in="10243" out="12429" />
+    </line>
+    <line lang1="- Oui, c'est elle dont je te parlais." someNumber="None" image="dg\124_003.gif" lang2="- Да, это она, о которой я тебе говорила.">
+      <audioTime in="12429" out="14522" />
+    </line>
+    <line lang1="- Est ces photos? Les as-tu regardées?" someNumber="470" image="dg\124_004.gif" lang2="- А эти фотографии? Смотрела ли ты их?">
+      <audioTime in="14522" out="16712" />
+    </line>
+    <line lang1="- Oui, ce sont les mêmes photos que celles que tu regardais." someNumber="None" image="dg\124_004.gif" lang2="- Да, это те самые фотографии, на которые я смотрела.">
+      <audioTime in="16712" out="19790" />
+    </line>
+    <line lang1="- Est-ce que ce sont les acteurs? As-tu lu quelque chose sur ces acteurs?" someNumber="None" image="dg\124_005.gif" lang2="- Это актёры? Читала ли ты что-нибудь об этих актёрах?">
+      <audioTime in="19790" out="23928" />
+    </line>
+    <line lang1="- Oui, ce sont les mêmes acteurs que ceux dont je te parlais." someNumber="780" image="dg\124_005.gif" lang2="- Да, это те актёры, о которых я тебе говорила.">
+      <audioTime in="23928" out="26748" />
+    </line>
+    <line lang1="- Est-ce le navire sur le bord duquel tu as voyagé?" someNumber="None" image="dg\124_006.gif" lang2="- Это корабль, на борту которого ты путешествовала?">
+      <audioTime in="26748" out="29519" />
+    </line>
+    <line lang1="- Oui, c'est le même navire que celui sur lequel j'ai voyagé." someNumber="810" image="dg\124_006.gif" lang2="- Да, это тот самый корабль, на котором я путешествовала.">
+      <audioTime in="29519" out="32879" />
+    </line>
+    <line lang1="- Est-ce une ville? Tes amis sont ils venus de cette ville?" someNumber="None" image="dg\124_007.gif" lang2="- Это город? Твои друзья приехали из этого города?">
+      <audioTime in="32879" out="36272" />
+    </line>
+    <line lang1="- Oui, c'est la même ville que celle d'où sont venus mes amis." someNumber="None" image="dg\124_007.gif" lang2="- Да, это тот самый город, откуда приехали мои друзья.">
+      <audioTime in="36272" out="40076" />
+    </line>
+    <line lang1="- Est-ce un programme? L'écoutes-tu encore?" someNumber="60" image="dg\124_008.gif" lang2="- Это программа? Ты ещё её слушаешь?">
+      <audioTime in="40076" out="42650" />
+    </line>
+    <line lang1="- Oui, c'est le même programme que celui que j'écoute encore." someNumber="None" image="dg\124_008.gif" lang2="- Да, это та самая программа, которую я ещё слушаю.">
+      <audioTime in="42650" out="46068" />
+    </line>
+    <line lang1="- Est-ce un magasin? Est-ce là que tu as acheté ton chapeau?" someNumber="None" image="dg\124_009.gif" lang2="- Это магазин? Там ли ты купил свою шляпу?">
+      <audioTime in="46068" out="49598" />
+    </line>
+    <line lang1="- Oui, c'est le même magasin que celui où j'ai acheté mon chapeau." someNumber="None" image="dg\124_009.gif" lang2="- Да, это тот самый магазин, где я купил мою шляпу.">
+      <audioTime in="49598" out="52991" />
+    </line>
+    <line lang1="- Est-ce une chaise? Etais-tu assise sur cette chaise?" someNumber="None" image="dg\124_010.gif" lang2="- Это стул? Ты сидела на этом стуле?">
+      <audioTime in="52991" out="56128" />
+    </line>
+    <line lang1="- Oui, c'est la même chaise que celle sur laquelle j'étais assise." someNumber="None" image="dg\124_010.gif" lang2="- Да, это тот самый стул, на котором я сидела.">
+      <audioTime in="56128" out="59871" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_084.wav" dic="p084" dlgName="У Вас было?.." dlgFile="exr\fg083.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Avez-vous mangé des légumes?" someNumber="70" image="dg\084_001.gif" lang2="- Съели ли вы овощи?">
+      <audioTime in="0" out="1213" />
+    </line>
+    <line lang1="- Je ne les ai pas mangés. J'ai mangé des fruits." someNumber="None" image="dg\084_001.gif" lang2="- Я их не съела. Я поела фруктов.">
+      <audioTime in="1213" out="3654" />
+    </line>
+    <line lang1="- A-t-il mangé des fèves?" someNumber="None" image="dg\084_002.gif" lang2="- Поел ли он бобы?">
+      <audioTime in="3654" out="4719" />
+    </line>
+    <line lang1="- Il ne les a pas mangées. Il a mangé des petits pois." someNumber="210" image="dg\084_002.gif" lang2="- Он их не съел. Он поел горошку.">
+      <audioTime in="4719" out="7188" />
+    </line>
+    <line lang1="- Ont-ils bu du café?" someNumber="None" image="dg\084_003.gif" lang2="- Попили ли они кофе?">
+      <audioTime in="7188" out="8222" />
+    </line>
+    <line lang1="- Ils n'en ont pas bu. Ils ont bu du thé." someNumber="710" image="dg\084_003.gif" lang2="- Они его не пили. Они попили чаю.">
+      <audioTime in="8222" out="10080" />
+    </line>
+    <line lang1="- Avez-vous mangé des pommes?" someNumber="None" image="dg\084_004.gif" lang2="- Поели ли вы яблок?">
+      <audioTime in="10080" out="11234" />
+    </line>
+    <line lang1="- Je n'en ai pas mangé. J'ai mangé des pêches." someNumber="None" image="dg\084_004.gif" lang2="- Я их не ел. Я поел персиков.">
+      <audioTime in="11234" out="13344" />
+    </line>
+    <line lang1="- Ai-je mangé du choux?" someNumber="530" image="dg\084_005.gif" lang2="- Поел ли я капусты?">
+      <audioTime in="13344" out="14339" />
+    </line>
+    <line lang1="- Vous ne l'avez pas mangé. Vous avez mangé de la salade." someNumber="None" image="dg\084_005.gif" lang2="- Вы её не съели. Вы поели салата.">
+      <audioTime in="14339" out="17730" />
+    </line>
+    <line lang1="- Avez-vous bu de la bière?" someNumber="None" image="dg\084_006.gif" lang2="- Вы попили пива?">
+      <audioTime in="17730" out="18802" />
+    </line>
+    <line lang1="- Je n'en ai pas bu. J'ai bu du vin." someNumber="None" image="dg\084_006.gif" lang2="- Я его не пил. Я попил вина.">
+      <audioTime in="18802" out="20579" />
+    </line>
+    <line lang1="- A-t-il mangé de la viande de mouton?" someNumber="None" image="dg\084_007.gif" lang2="- Поел ли он баранины?">
+      <audioTime in="20579" out="22486" />
+    </line>
+    <line lang1="- Il n'en a pas mangé. Il a mangé de la viande de veau." someNumber="810" image="dg\084_007.gif" lang2="- Он её не ел. Он поел телятины.">
+      <audioTime in="22486" out="24851" />
+    </line>
+    <line lang1="- Ont-ils bu du thé?" someNumber="None" image="dg\084_008.gif" lang2="- Попили ли они чаю?">
+      <audioTime in="24851" out="25760" />
+    </line>
+    <line lang1="- Ils n'en ont pas bu. Ils ont bu du lait." someNumber="None" image="dg\084_008.gif" lang2="- Они его не пили. Они попили молока.">
+      <audioTime in="25760" out="27530" />
+    </line>
+    <line lang1="- A-t-elle mangé de la viande?" someNumber="None" image="dg\084_009.gif" lang2="- Поела ли она мяса?">
+      <audioTime in="27530" out="28670" />
+    </line>
+    <line lang1="- Elle n'en a pas mangé. Elle a mangé des légumes." someNumber="210" image="dg\084_009.gif" lang2="- Она его не ела. Она поела овощей.">
+      <audioTime in="28670" out="30833" />
+    </line>
+    <line lang1="- Avez-vous mangé du poulets?" someNumber="None" image="dg\084_010.gif" lang2="- Поели ли вы цыпленка?">
+      <audioTime in="30833" out="32020" />
+    </line>
+    <line lang1="- Je n'en ai pas mangé. J'ai mangé du bifteck." someNumber="None" image="dg\084_010.gif" lang2="- Я его не ел. Я поел бифштекса.">
+      <audioTime in="32020" out="34079" />
+    </line>
+  </lines>
+</lesson>

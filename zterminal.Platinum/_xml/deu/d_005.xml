@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_005.wav" dic="p005" dlgName="Знакомство." dlgFile="exr\dg005.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Guten Morgen!" someNumber="None" image="dg\005_001.gif" lang2="- Доброе утро.">
+      <audioTime in="1057" out="2064" />
+    </line>
+    <line lang1="- Guten Morgen, Herr Müller." someNumber="None" image="dg\005_001.gif" lang2="- Доброе утро господин Мюллер.">
+      <audioTime in="2467" out="3675" />
+    </line>
+    <line lang1="- Das #ist Fräulein Alice Dupont." someNumber="330" image="dg\005_002.gif" lang2="- Это госпожа Алиса Дюпон.">
+      <audioTime in="4128" out="5890" />
+    </line>
+    <line lang1="Alice #ist eine neue Studentin." someNumber="330" image="dg\005_002.gif" lang2="Алиса новая студентка.">
+      <audioTime in="6192" out="8005" />
+    </line>
+    <line lang1="Sie #ist Französin." someNumber="330" image="dg\005_002.gif" lang2="Она француженка.">
+      <audioTime in="8156" out="9365" />
+    </line>
+    <line lang1="- Alice, das #ist Hans." someNumber="None" image="dg\005_003.gif" lang2="- Алиса - это Ганс.">
+      <audioTime in="9718" out="11580" />
+    </line>
+    <line lang1="Er #ist Deutscher." someNumber="None" image="dg\005_003.gif" lang2="Он немец.">
+      <audioTime in="11781" out="13040" />
+    </line>
+    <line lang1="- Guten Tag!" someNumber="None" image="dg\005_003.gif" lang2="- Здравствуйте.">
+      <audioTime in="13292" out="14047" />
+    </line>
+    <line lang1="- Und das #ist Britt." someNumber="None" image="dg\005_004.gif" lang2="- А это Брит.">
+      <audioTime in="14752" out="15759" />
+    </line>
+    <line lang1="Sie #ist Schwedin." someNumber="None" image="dg\005_004.gif" lang2="Она шведка.">
+      <audioTime in="16162" out="17320" />
+    </line>
+    <line lang1="- Guten Tag!" someNumber="None" image="dg\005_004.gif" lang2="- Здравствуйте.">
+      <audioTime in="17723" out="18529" />
+    </line>
+    <line lang1="- Und das #ist Dmitri." someNumber="None" image="dg\005_005.gif" lang2="- А это Дмитрий.">
+      <audioTime in="19233" out="21146" />
+    </line>
+    <line lang1="Er #ist Grieche." someNumber="None" image="dg\005_005.gif" lang2="Он грек.">
+      <audioTime in="21449" out="22657" />
+    </line>
+    <line lang1="- Guten Tag!" someNumber="None" image="dg\005_005.gif" lang2="- Здравствуйте.">
+      <audioTime in="23010" out="23664" />
+    </line>
+    <line lang1="- Das #ist Paulo." someNumber="None" image="dg\005_006.gif" lang2="- Это Пауло.">
+      <audioTime in="24318" out="25326" />
+    </line>
+    <line lang1="Er #ist Brasilianer." someNumber="None" image="dg\005_006.gif" lang2="Он бразилец.">
+      <audioTime in="25729" out="27139" />
+    </line>
+    <line lang1="- Guten Tag!" someNumber="None" image="dg\005_006.gif" lang2="- Здравствуйте.">
+      <audioTime in="27289" out="28094" />
+    </line>
+    <line lang1="- Das #ist Stella." someNumber="None" image="dg\005_007.gif" lang2="- Это Стелла.">
+      <audioTime in="28901" out="30159" />
+    </line>
+    <line lang1="Sie #ist Spanierin." someNumber="None" image="dg\005_007.gif" lang2="Она испанка.">
+      <audioTime in="30612" out="31871" />
+    </line>
+    <line lang1="- Guten Tag!" someNumber="None" image="dg\005_007.gif" lang2="- Здравствуйте.">
+      <audioTime in="32274" out="32979" />
+    </line>
+  </lines>
+</lesson>

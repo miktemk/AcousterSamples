@@ -1,0 +1,368 @@
+<lesson>
+  <header wav="bovary06.wav" dlgName="&quot;Мадам Бовари&quot; Часть 6" />
+  <lines>
+    <line lang1="- Oh, j'ai tort, j'ai tort. Je suis folle de vous entendre!" someNumber="None" image="f\f06_002.jpg" lang2="- Ох, я ошиблась, я ошиблась. Слушать вас - безумие!">
+      <audioTime in="47" out="4966" />
+    </line>
+    <line lang1="- Pourquoi, Emma." someNumber="None" image="f\f06_003.jpg" lang2="- Почему, Эмма.">
+      <audioTime in="5002" out="8029" />
+    </line>
+    <line lang1="- Oh, Rodolphe." someNumber="None" image="f\f06_004.jpg" lang2="- О, Родольф.">
+      <audioTime in="8030" out="10739" />
+    </line>
+    <line lang1="- Emma!" someNumber="None" image="f\f06_005.jpg" lang2="- Эмма!">
+      <audioTime in="32259" out="34493" />
+    </line>
+    <line lang1="- Quoi?" someNumber="None" image="f\f06_005.jpg" lang2="- Что?">
+      <audioTime in="34307" out="36541" />
+    </line>
+    <line lang1="- J'ai passé cette après-midi chez M. Alexandre," someNumber="None" image="f\f06_005.jpg" lang2="- Я заезжал сегодня к господину Александру;">
+      <audioTime in="35429" out="40229" />
+    </line>
+    <line lang1="il a une ancienne pouliche encore fort belle, qu'on pourrait avoir pour une centaine d'écus." someNumber="None" image="f\f06_005.jpg" lang2="у него есть молодая кобыла, довольно красивая, которую можно приобрести за сотни экю.">
+      <audioTime in="39777" out="48040" />
+    </line>
+    <line lang1="Alors, je l'ai retenue. Je l'ai achetée. Dis, j'ai bien fait, non?" someNumber="None" image="f\f06_005.jpg" lang2="Я её оставил за собой. Купил. Хорошо ли я сделал, нет?">
+      <audioTime in="48225" out="60234" />
+    </line>
+    <line lang1="- J'ai un amant. J'ai un amant." someNumber="None" image="f\f06_006.jpg" lang2="- У меня любовник. У меня любовник.">
+      <audioTime in="68712" out="75005" />
+    </line>
+    <line lang1="- Te voilà! Ta robe, est toute mouillée." someNumber="None" image="f\f06_009.jpg" lang2="- Это ты! Твоё платье совсем мокрое.">
+      <audioTime in="158509" out="164773" />
+    </line>
+    <line lang1="- Je t'aime, je t'aime." someNumber="None" image="f\f06_009.jpg" lang2="- Я люблю тебя, я люблю тебя.">
+      <audioTime in="164624" out="167196" />
+    </line>
+    <line lang1="- C'est l'heure de partir." someNumber="None" image="f\f06_010.jpg" lang2="- Уже тебе пора уходить.">
+      <audioTime in="173124" out="175174" />
+    </line>
+    <line lang1="- Je voudrais ne jamais te quitter. Mais qu'as-tu? Tu as l'air de souffrir? Parle-moi!" someNumber="None" image="f\f06_011.jpg" lang2="- Я не хотела бы никогда уходить от тебя. У тебя страдальческий вид. Что с тобой? Скажи мне!">
+      <audioTime in="175023" out="185190" />
+    </line>
+    <line lang1="- Il ne faut plus venir comme ça." someNumber="None" image="f\f06_011.jpg" lang2="- Не надо больше так приходить.">
+      <audioTime in="186688" out="188057" />
+    </line>
+    <line lang1="C'est imprudent. Tu risques de te compromettre." someNumber="None" image="f\f06_012.jpg" lang2="Это неосторожно. Ты себя компрометируешь.">
+      <audioTime in="188057" out="190992" />
+    </line>
+    <line lang1="- Ça m'est égal." someNumber="None" image="f\f06_014.jpg" lang2="- Мне всё равно.">
+      <audioTime in="190992" out="192121" />
+    </line>
+    <line lang1="- Ne dis pas des bêtises." someNumber="None" image="f\f06_012.jpg" lang2="- Не говори глупости.">
+      <audioTime in="191986" out="193295" />
+    </line>
+    <line lang1="- Mais je veux te voir. Je ne pense qu'à te voir toute la journée." someNumber="None" image="f\f06_015.jpg" lang2="- Но я хочу тебя видеть. Я думаю только о том, чтобы видеть тебя весь день.">
+      <audioTime in="193401" out="196872" />
+    </line>
+    <line lang1="- Mon ange, moi aussi, je ne rêve que d'être avec toi, n'aie crainte, j'irai vers toi." someNumber="None" image="f\f06_015.jpg" lang2="- Мой ангел, я тоже. Я мечтаю быть всегда с тобой, не бойся, я приду к тебе.">
+      <audioTime in="196607" out="202854" />
+    </line>
+    <line lang1="- Emma, viens te coucher. Il est temps." someNumber="None" image="f\f06_016.jpg" lang2="- Эмма, иди ложись спать, пора.">
+      <audioTime in="219905" out="226510" />
+    </line>
+    <line lang1="- Oui, j'y vais." someNumber="None" image="f\f06_017.jpg" lang2="- Да, я иду.">
+      <audioTime in="225992" out="229092" />
+    </line>
+    <line lang1="Au bout de six mois, ils se trouvèrent, l'un vis à vis de l'autre," someNumber="None" image="f\f06_018.jpg" lang2="Через 6 месяцев они оказались чем-то вроде двух супругов,">
+      <audioTime in="239942" out="244861" />
+    </line>
+    <line lang1="comme deux mariés qui entretiennent une flamme domestique." someNumber="None" image="f\f06_018.jpg" lang2="которые поддерживают домашний огонь.">
+      <audioTime in="244692" out="247722" />
+    </line>
+    <line lang1="- Oh, je te veux. Je te veux dévorer." someNumber="None" image="f\f06_018.jpg" lang2="- О, я хочу тебя. Мне хочется проглотить тебя.">
+      <audioTime in="247774" out="251203" />
+    </line>
+    <line lang1="C'est alors qu'Emma se repentit." someNumber="None" image="f\f06_019.jpg" lang2="Вот когда Эмма раскаялась.">
+      <audioTime in="251784" out="256426" />
+    </line>
+    <line lang1="- Amenez-la-moi!" someNumber="None" image="f\f06_019.jpg" lang2="- Приведите её мне!">
+      <audioTime in="262517" out="266009" />
+    </line>
+    <line lang1="Comme je t'aime, ma pauvre enfant! Comme je t'aime! Mais tu as le bout des oreilles sales." someNumber="None" image="f\f06_020.jpg" lang2="Как я тебя люблю, моя милая крошка! Как я тебя люблю! Но у тебя края ушей грязные.">
+      <audioTime in="268571" out="274354" />
+    </line>
+    <line lang1="Elle se demanda même pourquoi elle exécrait Charles," someNumber="None" image="f\f06_021.jpg" lang2="Она спрашивала себя, почему она ненавидит Шарля,">
+      <audioTime in="278077" out="280932" />
+    </line>
+    <line lang1="et s'il n'eût pas été meilleur de pouvoir l'aimer." someNumber="None" image="f\f06_022.jpg" lang2="и не лучше ли постараться полюбить его.">
+      <audioTime in="280707" out="283160" />
+    </line>
+    <line lang1="Mais il n'offrait grande prise à ces retours de sentiments;" someNumber="None" image="f\f06_022.jpg" lang2="Но он не очень оценил возвращение чувств;">
+      <audioTime in="282939" out="286818" />
+    </line>
+    <line lang1="Lorsque M. Homais vint à propos lui fournir une occasion." someNumber="None" image="f\f06_023.jpg" lang2="тут как нельзя кстати господин Омэ представил прекрасный случай.">
+      <audioTime in="286654" out="290557" />
+    </line>
+    <line lang1="- Bonsoir, la compagnie! Charles, regardez." someNumber="None" image="f\f06_023.jpg" lang2="- Привет компании! Смотрите Шарль.">
+      <audioTime in="290481" out="293329" />
+    </line>
+    <line lang1="Il y a ici la description d'une méthode nouvelle pour soigner les pieds bots." someNumber="None" image="f\f06_024.jpg" lang2="Здесь есть описание нового метода лечения искривления стопы.">
+      <audioTime in="293329" out="296987" />
+    </line>
+    <line lang1="Que pensez-vous de mon idée. Si vous opériez Hippolyte? Quel rayonnement pour Yonville." someNumber="None" image="f\f06_024.jpg" lang2="Что вы думаете о моей идее? О том, чтобы прооперировать беднягу Ипполита? Какая честь для Ионвиля.">
+      <audioTime in="296737" out="303831" />
+    </line>
+    <line lang1="Là, le succès est presque certain, l'auteur de l'article est formel et quelle célébrité pour vous!" someNumber="None" image="f\f06_025.jpg" lang2="Успех почти обеспечен, автор статьи достаточно точно высказывался, и какая известность для вас?">
+      <audioTime in="303786" out="309428" />
+    </line>
+    <line lang1="Moi, en tant que correspondant du Fanal de Rouen" someNumber="None" image="f\f06_025.jpg" lang2="Я, в лице корреспондента из &quot;Руанского фонаря&quot;,">
+      <audioTime in="309249" out="312763" />
+    </line>
+    <line lang1="et j'enverrais un article au journal et un article, ça circule, on en parle..." someNumber="None" image="f\f06_026.jpg" lang2="пошлю ему статью для газеты, а потом газета будет ходить по рукам, о ней...">
+      <audioTime in="312501" out="316612" />
+    </line>
+    <line lang1="- Tu es très habile chirurgien, Charles! Je me souviens la fracture de mon père." someNumber="None" image="f\f06_027.jpg" lang2="- Ты, очень искусный хирург, Шарль! Я помню перелом у моего отца.">
+      <audioTime in="317487" out="322105" />
+    </line>
+    <line lang1="- Ce n'est pas tout à fait la même chose." someNumber="None" image="f\f06_026.jpg" lang2="- Это совсем разные вещи.">
+      <audioTime in="322189" out="324389" />
+    </line>
+    <line lang1="- Ne soyez pas, modeste Charles! C'est l'honneur de la famille qui est en jeu." someNumber="None" image="f\f06_028.jpg" lang2="- Не будьте скромным, Шарль! Честь семьи в игре.">
+      <audioTime in="324344" out="328544" />
+    </line>
+    <line lang1="Charles se plongea dans l'étude de la stréphocatopodie," someNumber="None" image="f\f06_030.jpg" lang2="Шарль погрузился в изучение стрефокатоподии,">
+      <audioTime in="328435" out="332880" />
+    </line>
+    <line lang1="de la stréphendopodié et la stréphexopodie," someNumber="None" image="f\f06_030.jpg" lang2="стрефендоподии и стрефексоподии,">
+      <audioTime in="332555" out="336745" />
+    </line>
+    <line lang1="mais aussi de la stréphypopodie et de la stréphanopodie." someNumber="None" image="f\f06_030.jpg" lang2="а также стрефилоподии и стрефаноподии.">
+      <audioTime in="336555" out="341473" />
+    </line>
+    <line lang1="Une conjuration dont M. Homais était le chef s'employa à convaincre Hippolyte de se laisser opérer." someNumber="None" image="f\f06_031.jpg" lang2="Заговор, шефом которого был господин Омэ, состоял в том, чтобы склонить Ипполита позволить себя прооперировать.">
+      <audioTime in="341163" out="347161" />
+    </line>
+    <line lang1="- Peut-être sentiras-tu une légère douleur, peut-être, mais ce n'est rien, c'est comme une petite saignée." someNumber="None" image="f\f06_031.jpg" lang2="- Ты слегка, может быть, почувствуешь лёгкую боль, может быть, это вроде маленького кровопускания,">
+      <audioTime in="347161" out="352767" />
+    </line>
+    <line lang1="Du reste, ça ne me regarde pas et puis c'est pour toi, par humanité pure." someNumber="None" image="f\f06_032.jpg" lang2="и потом, мне всё равно, это ведь для тебя, из чистого человеколюбия">
+      <audioTime in="352811" out="357379" />
+    </line>
+    <line lang1="Je voudrais te voir débarrassé de cette hideuse claudication." someNumber="None" image="f\f06_032.jpg" lang2="я хочу видеть тебя без этого безобразного прихрамывания,">
+      <audioTime in="357072" out="361497" />
+    </line>
+    <line lang1="Ça ne te plairait pas de gambader, de courir comme tout le monde." someNumber="None" image="f\f06_033.jpg" lang2="Тебе не понравилось бы скакать, бегать как все?">
+      <audioTime in="361353" out="365064" />
+    </line>
+    <line lang1="En tout cas, ça plairait d'avantage aux femmes, je te prie de le croire." someNumber="None" image="f\f06_033.jpg" lang2="Во всяком случае,в первую очередь это понравится женщинам.">
+      <audioTime in="364932" out="368272" />
+    </line>
+    <line lang1="Tu es un homme, saperlotte." someNumber="None" image="f\f06_034.jpg" lang2="Или ты не мужчина, черт возьми.">
+      <audioTime in="368632" out="370919" />
+    </line>
+    <line lang1="Et si tu avais dû aller combattre, hein?" someNumber="None" image="f\f06_034.jpg" lang2="А если тебе придётся сражаться?">
+      <audioTime in="370633" out="373041" />
+    </line>
+    <line lang1="Tu te sens bien?" someNumber="None" image="f\f06_035.jpg" lang2="Всё в порядке?">
+      <audioTime in="383080" out="386334" />
+    </line>
+    <line lang1="Tu vas voir, ce ne sera rien. On va juste te couper le tendon." someNumber="None" image="f\f06_035.jpg" lang2="Ты увидишь, ничего не произойдет. Только рассекут сухожилие.">
+      <audioTime in="386108" out="390444" />
+    </line>
+    <line lang1="- Je n'ai rien senti." someNumber="None" image="f\f06_036.jpg" lang2="- Я ничего не почувствовал.">
+      <audioTime in="420640" out="422907" />
+    </line>
+    <line lang1="- Tu vois je te l'avais dit." someNumber="None" image="f\f06_037.jpg" lang2="- Видишь, я же тебе говорил.">
+      <audioTime in="422795" out="425268" />
+    </line>
+    <line lang1="- Messieurs, l'opération a parfaitement réussi. C'est un grand jour pour notre ville." someNumber="None" image="f\f06_038.jpg" lang2="- Господа, операция прекрасно прошла. Это великий день для нашего города.">
+      <audioTime in="425404" out="431256" />
+    </line>
+    <line lang1="Notre ville se souviendra toujours du nom du docteur Bovary. Bravo docteur!" someNumber="None" image="f\f06_039.jpg" lang2="Наш город всегда будет помнить имя доктора Бовари. Браво, доктор!">
+      <audioTime in="429965" out="437145" />
+    </line>
+    <line lang1="Notre petite ville d'Yonville s'est vu le théâtre d'une expérience chirurgicale qui est en même temps un acte de haute philanthropie." someNumber="None" image="f\f06_040.jpg" lang2="Наш маленький город Ионвиль стал театром хирургического опыта, и в то же время актом человеколюбия.">
+      <audioTime in="454809" out="461921" />
+    </line>
+    <line lang1="M. Bovary, un de nos praticiens les plus distingués..." someNumber="None" image="f\f06_041.jpg" lang2="Бовари, один из наших замечательных практиков...">
+      <audioTime in="461757" out="466044" />
+    </line>
+    <line lang1="- Ah! C'est trop!" someNumber="None" image="f\f06_042.jpg" lang2="- О, это слишком!">
+      <audioTime in="466044" out="467173" />
+    </line>
+    <line lang1="- Mais non, pas du tout, pas du tout!" someNumber="None" image="f\f06_042.jpg" lang2="- Да нет, что вы, что вы!">
+      <audioTime in="466857" out="468573" />
+    </line>
+    <line lang1="- &quot;M. Bovary, un des nos praticiens les plus distingués, a opéré d'un pied bot," someNumber="None" image="f\f06_043.jpg" lang2="- &quot;Господин Бовари, один из замечательных практиков, оперировал искривление стопы,">
+      <audioTime in="468146" out="474271" />
+    </line>
+    <line lang1="je n'ai pas mis le nom scientifique pour que tout le monde comprenne," someNumber="None" image="f\f06_043.jpg" lang2="я не назвал это научно, чтобы все поняли.">
+      <audioTime in="473867" out="477156" />
+    </line>
+    <line lang1="le jeune Hippolyte Toutain, garçon d'écurie à l'hôtel du Lion d'or." someNumber="None" image="f\f06_043.jpg" lang2="у молодого Ипполита, служившего в гостинице &quot;Золотой лев&quot;.">
+      <audioTime in="476839" out="480804" />
+    </line>
+    <line lang1="L'opération, du reste, s'est pratiquée comme par enchantement" someNumber="None" image="f\f06_044.jpg" lang2="Что касается самой операции, то она как бы по волшебству происходила,">
+      <audioTime in="480534" out="484138" />
+    </line>
+    <line lang1="et à peine si quelques gouttes de sang sont venues sur la peau," someNumber="None" image="f\f06_044.jpg" lang2="и лишь несколько капель крови выступило на коже,">
+      <audioTime in="483912" out="487291" />
+    </line>
+    <line lang1="comme pour dire que le tendon rebelle venait enfin de céder sous les efforts de l'art&quot;." someNumber="None" image="f\f06_044.jpg" lang2="словно говоря, что мятежная связка поддалась усилиям искусства&quot;.">
+      <audioTime in="487111" out="492922" />
+    </line>
+    <line lang1="- Au secours! M. Bovary. Au secours! Il se meurt! M. Bovary... M. Bovary... Vite! Vite!" someNumber="None" image="f\f06_045.jpg" lang2="- На помощь! Господин Бовари. На помощь! Он умирает! Господин Бовари... Господин Бовари... Быстро! Быстро!">
+      <audioTime in="501048" out="516458" />
+    </line>
+    <line lang1="- Il se meurt." someNumber="None" image="f\f06_046.jpg" lang2="- Он умирает!">
+      <audioTime in="517464" out="519388" />
+    </line>
+    <line lang1="- Qu'y a-t-il? Qu'y a-t-il?" someNumber="None" image="f\f06_047.jpg" lang2="- Что случилось? Что случилось?">
+      <audioTime in="519947" out="525527" />
+    </line>
+    <line lang1="- J'ai mal, j'ai mal." someNumber="None" image="f\f06_048.jpg" lang2="- Мне больно, мне больно.">
+      <audioTime in="534283" out="538194" />
+    </line>
+    <line lang1="- Comme ça a gonflé." someNumber="None" image="f\f06_049.jpg" lang2="- Как она распухла!">
+      <audioTime in="552684" out="554791" />
+    </line>
+    <line lang1="- Ce n'est rien. Il faut lui laisser prendre l'air." someNumber="None" image="f\f06_049.jpg" lang2="- Ничего. Ему нужен воздух.">
+      <audioTime in="554483" out="557654" />
+    </line>
+    <line lang1="- Quand est-ce que je serai guéri? Sauvez-moi." someNumber="None" image="f\f06_050.jpg" lang2="- Когда я вылечусь? Спасите меня!">
+      <audioTime in="557654" out="560065" />
+    </line>
+    <line lang1="- Mon Dieu, tiens mon garçon. Bois! Ça te fera du bien!" someNumber="None" image="f\f06_050.jpg" lang2="- Боже мой, держи, мой мальчик. Пей! Это тебе пойдёт на пользу.">
+      <audioTime in="559705" out="563271" />
+    </line>
+    <line lang1="- Charles, comment va-t-il?" someNumber="None" image="f\f06_051.jpg" lang2="- Шарль, как он?">
+      <audioTime in="566155" out="567873" />
+    </line>
+    <line lang1="- Ça empire. Je ne comprends pas. Tu pourrais aller le voir?" someNumber="None" image="f\f06_052.jpg" lang2="- Очень плохо. Я не понимаю. Ты можешь проведать его?">
+      <audioTime in="568225" out="573381" />
+    </line>
+    <line lang1="- Oui, évidemment, j'irai volontiers. Mais je ne peux pas le guérir." someNumber="None" image="f\f06_053.jpg" lang2="- Да, конечно, я пойду с удовольствием. Но я не могу его вылечить.">
+      <audioTime in="573291" out="576770" />
+    </line>
+    <line lang1="- Tu t'écoutes trop, tu n'as qu'à te lever et marcher un peu. N'empêche que tu ne sens pas bon." someNumber="None" image="f\f06_054.jpg" lang2="- Тебе надо только встать и пройтись немного. Тебе не помешает хорошо себя чувствовать.">
+      <audioTime in="578476" out="584698" />
+    </line>
+    <line lang1="Il faut avoir du courage. Je suis sûre que vous allez bientôt aller mieux." someNumber="None" image="f\f06_054.jpg" lang2="Надо иметь мужество. Я уверена, что скоро вам будет лучше.">
+      <audioTime in="600345" out="608562" />
+    </line>
+    <line lang1="- Mais alors Hippolyte, tu souffres, m'a-t-on dit? Brave garçon, il faut avoir du courage." someNumber="None" image="f\f06_055.jpg" lang2="- Итак, Ипполит, ты страдаешь, мне сказали? Храбрый мальчик. Мужайся.">
+      <audioTime in="609043" out="616499" />
+    </line>
+    <line lang1="C'est une épreuve que le Seigneur t'envoie, il faut te réjouir de ton mal puisque c'est sa volonté," someNumber="None" image="f\f06_055.jpg" lang2="Это доказательство того, что Господь хочет тебя видеть. Надо радоваться этому, потому что такова воля господняя,">
+      <audioTime in="616386" out="622369" />
+    </line>
+    <line lang1="et profite de cette épreuve pour te réconcillier avec le ciel." someNumber="None" image="f\f06_055.jpg" lang2="нужно воспользоваться этим случаем, чтобы примириться с небом.">
+      <audioTime in="622327" out="625637" />
+    </line>
+    <line lang1="- Il n'y a du liquide noir qui sort de la plaie et maintenant il est gonflé jusqu'au genou." someNumber="None" image="f\f06_056.jpg" lang2="- Сначала из раны текла темная жидкость, а сейчас распухло до колена.">
+      <audioTime in="625527" out="629147" />
+    </line>
+    <line lang1="Ça ne peut pas continuer comme ça, pour la clientèle l'effet est désastreux." someNumber="None" image="f\f06_057.jpg" lang2="Если это так продолжится, для клиентуры доктора это трагедия.">
+      <audioTime in="628861" out="633186" />
+    </line>
+    <line lang1="- Madame Bovary. J'ai demandé à votre mari de faire venir un autre médecin," someNumber="None" image="f\f06_057.jpg" lang2="- Госпожа Бовари. Я спросила совета вашего мужа">
+      <audioTime in="633011" out="639041" />
+    </line>
+    <line lang1="je vais appeler M. Canivetde de Neuf Châtel, c'est une célébrité." someNumber="None" image="f\f06_058.jpg" lang2="о вызове доктора М. Каниве из Нефшатель, он известность.">
+      <audioTime in="638436" out="645613" />
+    </line>
+    <line lang1="- Au revoir, Hippolyte. Je reviendrai vous voir." someNumber="None" image="f\f06_059.jpg" lang2="- До свидания, Ипполит, я приду ещё раз навестить вас.">
+      <audioTime in="649777" out="654253" />
+    </line>
+    <line lang1="- Madame, merci." someNumber="None" image="f\f06_060.jpg" lang2="- Спасибо, госпожа.">
+      <audioTime in="654174" out="657392" />
+    </line>
+    <line lang1="- Il m'a semblé voir de curé entrer." someNumber="None" image="f\f06_061.jpg" lang2="- Мне показалось, что аббат вошел.">
+      <audioTime in="664409" out="667125" />
+    </line>
+    <line lang1="C'est le bouquet ça, s'il s'imagine avec ses manœuvres du curé pouvoir sauver ce pauvre Hippolyte." someNumber="None" image="f\f06_062.jpg" lang2="Он представляет, что со своими поповскими штучками он может вылечить бедного Ипполита.">
+      <audioTime in="666977" out="671144" />
+    </line>
+    <line lang1="Nous ne sommes pas au bout de nos peines. Qu'en pensez-vous?" someNumber="None" image="f\f06_063.jpg" lang2="Мы не на грани наших страданий. Что вы об этом думаете?">
+      <audioTime in="671028" out="674009" />
+    </line>
+    <line lang1="- Je ne sais pas, je ne sais pas." someNumber="None" image="f\f06_064.jpg" lang2="- Я не знаю, я не знаю.">
+      <audioTime in="676035" out="682512" />
+    </line>
+    <line lang1="- Amputation! Voilà un bon résultat. Voilà les imaginations de la capitale." someNumber="None" image="f\f06_066.jpg" lang2="- Ампутация! Вот результат. Вот выдумки столичных господ.">
+      <audioTime in="694768" out="702931" />
+    </line>
+    <line lang1="Voilà les idées de Paris. On veut tout soigner." someNumber="None" image="f\f06_066.jpg" lang2="Вот парижские измышления.">
+      <audioTime in="702897" out="706025" />
+    </line>
+    <line lang1="On veut faire le malin sans se soucier des conséquences." someNumber="None" image="f\f06_066.jpg" lang2="Ведь надо было подумать о последствиях.">
+      <audioTime in="705979" out="709760" />
+    </line>
+    <line lang1="Nous ne sommes pas faits pour ça, nous autres, nous ne sommes pas des savants," someNumber="None" image="f\f06_067.jpg" lang2="Мы не созданы для этого, мы не ученые,">
+      <audioTime in="709445" out="713761" />
+    </line>
+    <line lang1="ou des mirliflores, nous sommes des praticiens et nous n'imaginerions pas d'opérer quelqu'un qui se porte à merveille!" someNumber="None" image="f\f06_067.jpg" lang2="не франты, мы практики, мы и не подумаем оперировать человека, когда он здоров.">
+      <audioTime in="713426" out="720138" />
+    </line>
+    <line lang1="Redresser un pieds bot! Est-ce qu'on peut redresser les pieds bots? Pourquoi pas redresser les bossus!" someNumber="None" image="f\f06_067.jpg" lang2="Да разве можно выправить искривленную стопу? Это равносильно тому, чтобы выпрямить горбатого!">
+      <audioTime in="720203" out="726632" />
+    </line>
+    <line lang1="- Amputation de la jambe, jusqu'à mi-cuisse." someNumber="None" image="f\f06_067.jpg" lang2="- Ампутация ноги до бедра!">
+      <audioTime in="726738" out="731222" />
+    </line>
+    <line lang1="- J'ai pris toutes les précautions pourtant. C'est la fatalité!" someNumber="None" image="f\f06_070.jpg" lang2="- Я принял все меры предосторожности, тем не менее. Какой ужасный случай!">
+      <audioTime in="738844" out="746655" />
+    </line>
+    <line lang1="Si ce pauvre Hippolyte vient de mourir c'est moi qui l'aurais assassiné. Tout va se savoir." someNumber="None" image="f\f06_071.jpg" lang2="Если бедный Ипполит умрет по моей вине, то все узнают.">
+      <audioTime in="746560" out="753569" />
+    </line>
+    <line lang1="Je vais être déshonoré." someNumber="None" image="f\f06_071.jpg" lang2="Я буду обесчещен.">
+      <audioTime in="753450" out="756048" />
+    </line>
+    <line lang1="- Assieds-toi, tu m'agaces!" someNumber="None" image="f\f06_072.jpg" lang2="- Сядь, ты меня раздражаешь.">
+      <audioTime in="757106" out="759132" />
+    </line>
+    <line lang1="Elle se rappela toutes les privations de son âme, ses rêves tombant dans la boue comme des hirondelles blessées," someNumber="None" image="f\f06_072.jpg" lang2="Она вспоминала все душевные лишения, свои мечты, упавшие в грязь, как раненые ласточки,">
+      <audioTime in="768514" out="776382" />
+    </line>
+    <line lang1="tout ce qu'elle avait désiré, tout ce qu'elle s'était refusée, tout ce qu'elle aurait pu avoir!" someNumber="None" image="f\f06_073.jpg" lang2="всё то, чего она желала, то, от чего отказалась, всё, что она могла иметь!">
+      <audioTime in="776322" out="780519" />
+    </line>
+    <line lang1="Et pourquoi, pourquoi?" someNumber="None" image="f\f06_073.jpg" lang2="И ради чего, ради чего?">
+      <audioTime in="780519" out="782551" />
+    </line>
+    <line lang1="Elle se repentait, comme d'un crime, de sa vertu passée." someNumber="None" image="f\f06_073.jpg" lang2="Она раскаивалась, как в совершенном преступлении, в своей былой добродетели.">
+      <audioTime in="783982" out="789154" />
+    </line>
+    <line lang1="Le souvenir de son amant revenait à elle avec des attractions vertigineuses, elle y jetait son âme," someNumber="None" image="f\f06_074.jpg" lang2="Она вспоминала своего любовника. С головокружительной пленительностью душа стремилась к нему,">
+      <audioTime in="788990" out="794746" />
+    </line>
+    <line lang1="et Charles lui semblait aussi détaché de sa vie, aussi absent pour toujours, aussi impossible et anéanti" someNumber="None" image="f\f06_074.jpg" lang2="и Шарль казался ей таким оторванным от её жизни, далеким и ушедшим в небытие,">
+      <audioTime in="794581" out="800047" />
+    </line>
+    <line lang1="que s'il allait mourir et qu'il eût agonisé sous ses yeux." someNumber="None" image="f\f06_074.jpg" lang2="как если бы он умирал у неё на глазах.">
+      <audioTime in="800063" out="804175" />
+    </line>
+    <line lang1="- Embrasse-moi." someNumber="None" image="f\f06_075.jpg" lang2="- Обними меня!">
+      <audioTime in="829274" out="831531" />
+    </line>
+    <line lang1="- Laisse-moi!" someNumber="None" image="f\f06_076.jpg" lang2="- Оставь меня!">
+      <audioTime in="841247" out="842444" />
+    </line>
+    <line lang1="- Qu'est-ce que tu as? Tu sais bien, que je t'aime." someNumber="None" image="f\f06_076.jpg" lang2="- Что с тобой? Ты знаешь, что я тебя люблю.">
+      <audioTime in="842352" out="844835" />
+    </line>
+    <line lang1="- Assez! Ils recommencèrent à s'aimer." someNumber="None" image="f\f06_077.jpg" lang2="- Довольно! Они снова полюбили друг друга.">
+      <audioTime in="845245" out="853098" />
+    </line>
+    <line lang1="- Si tu savais comme je m'ennuie. Mon mari est odieux. Maintenant j'ai de la répulsion pour lui." someNumber="None" image="f\f06_078.jpg" lang2="- Если бы ты знал, как я тоскую. Мой муж мне противен, у меня к нему отвращение.">
+      <audioTime in="865301" out="872856" />
+    </line>
+    <line lang1="Mon existence est affreuse." someNumber="None" image="f\f06_078.jpg" lang2="Моё существование ужасно.">
+      <audioTime in="873062" out="875657" />
+    </line>
+    <line lang1="- Et, ma pauvre chérie, qu'est-ce que je peux y faire?" someNumber="None" image="f\f06_079.jpg" lang2="- И моя бедная, любимая, что я могу сделать?">
+      <audioTime in="875657" out="879063" />
+    </line>
+    <line lang1="- Ah! Si tu voulais?" someNumber="None" image="f\f06_079.jpg" lang2="- Если бы ты захотел.">
+      <audioTime in="879116" out="880991" />
+    </line>
+    <line lang1="- Quoi donc?" someNumber="None" image="f\f06_080.jpg" lang2="- Что тогда?">
+      <audioTime in="880900" out="882120" />
+    </line>
+    <line lang1="- Nous irions vivre ailleurs, quelque part." someNumber="None" image="f\f06_080.jpg" lang2="- Мы уехали бы куда-нибудь.">
+      <audioTime in="882484" out="886719" />
+    </line>
+  </lines>
+</lesson>

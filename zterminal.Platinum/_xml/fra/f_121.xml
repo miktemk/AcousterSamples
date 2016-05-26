@@ -1,0 +1,50 @@
+<lesson>
+  <header wav="f_121.wav" dic="p121" dlgName="В книжном магазине." dlgFile="exr\fg121.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Il y a une demi-heure que j'ai acheté ici 2 dictionnaires trop chers," someNumber="None" image="dg\121_001.gif" lang2="- Я купил 2 очень дорогих словаря здесь полчаса назад,">
+      <audioTime in="0" out="3598" />
+    </line>
+    <line lang1="mais j'ai oublié de les prendre." someNumber="None" image="dg\121_001.gif" lang2="но я забыл их взять (с собой).">
+      <audioTime in="3598" out="5070" />
+    </line>
+    <line lang1="- Qui vous a servi, monsieur?" someNumber="None" image="dg\121_002.gif" lang2="- Кто обслуживал вас, сударь?">
+      <audioTime in="5070" out="7006" />
+    </line>
+    <line lang1="- Voilà, justement c'est cette dame." someNumber="470" image="dg\121_002.gif" lang2="- Вот, как раз эта дама.">
+      <audioTime in="7006" out="9401" />
+    </line>
+    <line lang1="- Quels livres avez-vous achetés?" someNumber="None" image="dg\121_003.gif" lang2="- Какие книги вы купили?">
+      <audioTime in="9401" out="11748" />
+    </line>
+    <line lang1="- Les livres qui sont sur le comptoir." someNumber="None" image="dg\121_003.gif" lang2="- Книги, которые на прилавке.">
+      <audioTime in="11748" out="13786" />
+    </line>
+    <line lang1="- C'est vous qui avez servi ce monsieur il y a une demi-heure, m-me Roberto?" someNumber="None" image="dg\121_004.gif" lang2="- Вы обслуживали этого г-на полчаса назад, г-жа Роберто?">
+      <audioTime in="13786" out="17315" />
+    </line>
+    <line lang1="Il dit qu'il vient d'acheter ici ces livres." someNumber="700" image="dg\121_004.gif" lang2="Он говорит, что он купил здесь эти книги.">
+      <audioTime in="17315" out="19477" />
+    </line>
+    <line lang1="- Je ne me rappelle pas, monsieur. L'homme que j'ai servi avait un chapeau." someNumber="None" image="dg\121_004.gif" lang2="- Я не могу вспомнить, сударь. На мужчине, которого я обслуживала, была шляпа.">
+      <audioTime in="19477" out="24711" />
+    </line>
+    <line lang1="- Avez-vous un chapeau, monsieur?" someNumber="None" image="dg\121_005.gif" lang2="- У вас есть шляпа, сударь?">
+      <audioTime in="24711" out="26582" />
+    </line>
+    <line lang1="- Oui, j'en ai un." someNumber="None" image="dg\121_005.gif" lang2="- Да, есть (одна).">
+      <audioTime in="26582" out="27997" />
+    </line>
+    <line lang1="- Mettez-le, s'il vous plaît?" someNumber="None" image="dg\121_005.gif" lang2="- Наденьте её, пожалуйста?">
+      <audioTime in="27997" out="30067" />
+    </line>
+    <line lang1="- Bon." someNumber="None" image="dg\121_005.gif" lang2="- Хорошо.">
+      <audioTime in="30067" out="31144" />
+    </line>
+    <line lang1="- Est-ce ce monsieur que vous avez servi, madame Roberto?" someNumber="None" image="dg\121_006.gif" lang2="- Это тот мужчина, которого вы обслуживали, г-жа Роберто?">
+      <audioTime in="31144" out="34429" />
+    </line>
+    <line lang1="- Oui, monsieur. C'est lui. Je le reconnais." someNumber="None" image="dg\121_006.gif" lang2="- Да, господин. Это он. Я узнаю его.">
+      <audioTime in="34429" out="37994" />
+    </line>
+  </lines>
+</lesson>

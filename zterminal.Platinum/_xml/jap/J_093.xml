@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="j_093.wav" dlgName="Мне наступали на ноги" dic="p093" />
+  <lines>
+    <line lang1="―「留学生*は*毎日*日本語*で*日記*を*書く*よう*に、先生*に*言われました。" someNumber="None" image="093_001.jpg" lang2="- (Иностранным студентам было сказано, чтоб они каждый день вели дневник.">
+      <audioTime in="0" out="5690" />
+    </line>
+    <line lang1="日本語*の*間違い*を*直す*ため*に*時々*先生*に*日記*を*見せます。" someNumber="None" image="093_002.jpg" lang2="Иногда дневники показывают учителю для исправления ошибок.">
+      <audioTime in="5690" out="12259" />
+    </line>
+    <line lang1="昨日*スミス*さん*の*日記*が*クラス*で*読まれました。」" someNumber="None" image="093_003.jpg" lang2="Вчера дневник Смита был зачитан в классе.)">
+      <audioTime in="12259" out="16931" />
+    </line>
+    <line lang1="スミス*の*日記" someNumber="None" image="093_003.jpg" lang2="Дневник Смита.">
+      <audioTime in="16931" out="20310" />
+    </line>
+    <line lang1="５月２日、金、くもり" someNumber="None" image="093_003.jpg" lang2="2 мая, пятница, облачно">
+      <audioTime in="20310" out="26251" />
+    </line>
+    <line lang1="大変*な*日" someNumber="None" image="093_003.jpg" lang2="Ужасный день">
+      <audioTime in="26251" out="27696" />
+    </line>
+    <line lang1="―今日*は*朝*ねぼうしてしまった。" someNumber="None" image="093_007.jpg" lang2="- Сегодня я проспал.">
+      <audioTime in="27696" out="32160" />
+    </line>
+    <line lang1="目*を*覚ます*と、９時*だった。" someNumber="None" image="093_007.jpg" lang2="Когда открыл глаза, было 9 часов.">
+      <audioTime in="32160" out="34911" />
+    </line>
+    <line lang1="目覚まし*時計*が*こわれた*らしい。" someNumber="None" image="093_007.jpg" lang2="Похоже, сломался будильник.">
+      <audioTime in="34911" out="38623" />
+    </line>
+    <line lang1="なに*も*食べない*で、急いで*駅*へ*行った。" someNumber="None" image="093_010.jpg" lang2="Ничего не поев, поспешил на станцию.">
+      <audioTime in="38623" out="43324" />
+    </line>
+    <line lang1="電車*が*込んでいた*ので、大変*だった。" someNumber="None" image="093_011.jpg" lang2="Было ужасно, так как электричка была переполнена.">
+      <audioTime in="43324" out="48881" />
+    </line>
+    <line lang1="電車*の*中*で*隣*の*人*に*押されたり、足*を*ふまれたりした。" someNumber="None" image="093_012.jpg" lang2="В электричке соседи толкались и наступали на ноги.">
+      <audioTime in="48883" out="55076" />
+    </line>
+    <line lang1="降りた*とき、定期券*が*ない*こと*に*気*が*ついた。" someNumber="None" image="093_013.jpg" lang2="Сойдя, обнаружил, что нет постоянного билета.">
+      <audioTime in="55076" out="60419" />
+    </line>
+    <line lang1="さいふ*も*なかった。" someNumber="None" image="093_013.jpg" lang2="И кошелька не было.">
+      <audioTime in="60419" out="63349" />
+    </line>
+    <line lang1="電車*の*中*で*財布*を*ぬすまれた*と*思った*から、けいさつ*へ*行った。" someNumber="None" image="093_015.jpg" lang2="Подумав, что кошелек был украден в электричке, пошёл в полицейский участок.">
+      <audioTime in="63349" out="69666" />
+    </line>
+    <line lang1="けいさつ*で、どんな*さいふ*だった*か、中*に*何*が*あった*か、と*いろいろ*聞かれた。" someNumber="None" image="093_016.jpg" lang2="В полицейском участке спросили, какого цвета кошелек, что в нем и так далее.">
+      <audioTime in="69666" out="77527" />
+    </line>
+    <line lang1="もう*１０時*だった。" someNumber="None" image="093_017.jpg" lang2="Стало уже 10 часов.">
+      <audioTime in="77527" out="80359" />
+    </line>
+    <line lang1="授業*に*遅れてしまった*から、そば屋*に*入って、ゆっくり*と*朝ご飯*を*とった。" someNumber="None" image="093_018.jpg" lang2="Так как я уже всё равно опоздал на урок, то зашел в лапшовую и спокойно позавтракал.">
+      <audioTime in="80359" out="86526" />
+    </line>
+    <line lang1="１０時*半*ごろ*大学*に*着いた。" someNumber="None" image="093_019.jpg" lang2="В 10.30 дошел до университета.">
+      <audioTime in="86526" out="90241" />
+    </line>
+    <line lang1="教室*に*入る*と、みんな*に*笑われた。" someNumber="None" image="093_020.jpg" lang2="Когда я зашел в аудиторию, все засмеялись.">
+      <audioTime in="90241" out="94291" />
+    </line>
+    <line lang1="高山*先生*に*叱られた。" someNumber="None" image="093_021.jpg" lang2="Такаяма-сэнсэй отругал меня.">
+      <audioTime in="94291" out="97632" />
+    </line>
+    <line lang1="授業*の*後*で*じむ室*に*呼ばれた。" someNumber="None" image="093_022.jpg" lang2="После урока меня вызвали в канцелярию.">
+      <audioTime in="97632" out="101460" />
+    </line>
+    <line lang1="鈴木*先生*に*も*おこられる*だろう*と*思って、じむ室*へ*行った。" someNumber="None" image="093_023.jpg" lang2="Я пошёл в канцелярию, решив, что Судзуки-сэнсэй также рассердится на меня.">
+      <audioTime in="101460" out="107770" />
+    </line>
+    <line lang1="でも、おこられなかった。" someNumber="None" image="093_023.jpg" lang2="Но он не рассердился на меня.">
+      <audioTime in="107770" out="110691" />
+    </line>
+    <line lang1="鈴木*先生*は、けいさつ*から*電話*が*あった*と*言った。" someNumber="None" image="093_023.jpg" lang2="Судзуки-сэнсэй сказал, что звонили из полицейского участка.">
+      <audioTime in="110691" out="114882" />
+    </line>
+    <line lang1="財布*が*見つかった*と*言った。" someNumber="None" image="093_026.jpg" lang2="Сказал, что кошелек нашёлся.">
+      <audioTime in="114882" out="118312" />
+    </line>
+    <line lang1="ある*おばあさん*が*財布*を*ひろった*と*言った。" someNumber="None" image="093_027.jpg" lang2="Сказал, что какая-то бабушка подобрала кошелек.">
+      <audioTime in="118312" out="122221" />
+    </line>
+    <line lang1="良かった。" someNumber="None" image="093_028.jpg" lang2="Как хорошо!">
+      <audioTime in="122221" out="124669" />
+    </line>
+  </lines>
+</lesson>

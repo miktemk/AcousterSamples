@@ -1,0 +1,38 @@
+<lesson>
+  <header wav="f_099.wav" dic="p099" dlgName="Ты ушибся?" dlgFile="exr\fg099.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ah!" someNumber="870" image="dg\099_001.gif" lang2="- Ох!">
+      <audioTime in="0" out="586" />
+    </line>
+    <line lang1="- Qu'est-ce qui est arrivé, Claude?" someNumber="None" image="dg\099_002.gif" lang2="- Что случилось, Клаудия?">
+      <audioTime in="586" out="5077" />
+    </line>
+    <line lang1="- Mon pied a glissé et je suis tombée de l'escalier." someNumber="None" image="dg\099_002.gif" lang2="- Моя нога поскользнулась, и я упала с лестницы.">
+      <audioTime in="586" out="5077" />
+    </line>
+    <line lang1="- Tu t'es fait mal?" someNumber="None" image="dg\099_002.gif" lang2="- Ты ушиблась (тебе больно)?">
+      <audioTime in="5077" out="6194" />
+    </line>
+    <line lang1="- Oui. Je crois que j'ai mal au dos." someNumber="70" image="dg\099_003.gif" lang2="- Да. Я думаю, что я ушибла спину.">
+      <audioTime in="6194" out="8417" />
+    </line>
+    <line lang1="- Lève-toi. Peux-tu te lever?" someNumber="None" image="dg\099_003.gif" lang2="- Поднимись. Ты можешь подняться?">
+      <audioTime in="8417" out="10504" />
+    </line>
+    <line lang1="Attends. Je vais t'aider." someNumber="None" image="dg\099_004.gif" lang2="Подожди. Я тебе сейчас помогу.">
+      <audioTime in="10504" out="11501" />
+    </line>
+    <line lang1="- Pardon, Patrik. J'ai peur, je ne peux pas me lever." someNumber="None" image="dg\099_005.gif" lang2="- Прости, Патрик. Я боюсь, я не могу встать.">
+      <audioTime in="11501" out="15288" />
+    </line>
+    <line lang1="- Je pense qu'il faut consulter un médecin. Je vais téléphoner au docteur Renard." someNumber="None" image="dg\099_006.gif" lang2="- Я думаю, что нужно посоветоваться с врачом. Я позвоню доктору Ренару.">
+      <audioTime in="15288" out="19652" />
+    </line>
+    <line lang1="Le docteur a dit qu'il viendra tout de suite." someNumber="780" image="dg\099_006.gif" lang2="Доктор сказал, что он приедет сейчас же.">
+      <audioTime in="19652" out="21545" />
+    </line>
+    <line lang1="Je suis sûre qu'il faut te faire une radio." someNumber="None" image="dg\099_007.gif" lang2="Я уверен, что тебе надо сделать рентгеновский снимок.">
+      <audioTime in="21545" out="23246" />
+    </line>
+  </lines>
+</lesson>

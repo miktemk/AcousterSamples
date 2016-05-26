@@ -1,0 +1,35 @@
+<lesson>
+  <header wav="f_067.wav" dic="p067" dlgName="Встреча подруг." dlgFile="exr\fg067.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Bonjour, madame Souchet. Etes-vous allée chez le boucher?" someNumber="930" image="dg\067_001.gif" lang2="- Здравствуйте, госпожа Суше. Вы ходили к мяснику?">
+      <audioTime in="0" out="2933" />
+    </line>
+    <line lang1="- Oui, j'y suis allée. Etes-vous, aussi, allée chez le boucher?" someNumber="None" image="dg\067_001.gif" lang2="- Да, я туда ходила. Вы тоже ходили к мяснику?">
+      <audioTime in="2933" out="6481" />
+    </line>
+    <line lang1="- Non, je n'y suis pas allée. J'ai été chez le marchand des quatre saisons. Comment va Pierre aujourd'hui?" someNumber="780" image="dg\067_001.gif" lang2="- Нет, я туда не ходила. Я была у зеленщика. Как чувствует себя Пьер сегодня?">
+      <audioTime in="6481" out="12893" />
+    </line>
+    <line lang1="- Il va très bien, merci." someNumber="None" image="dg\067_001.gif" lang2="- Он чувствует себя очень хорошо, спасибо.">
+      <audioTime in="12893" out="14118" />
+    </line>
+    <line lang1="- Etait-il absent à l'école la semaine dernière?" someNumber="50" image="dg\067_001.gif" lang2="- Отсутствовал ли он в школе на прошлой неделе?">
+      <audioTime in="14118" out="16245" />
+    </line>
+    <line lang1="- Oui. Il était absent lundi, mardi, mercredi et jeudi." someNumber="None" image="dg\067_001.gif" lang2="- Да. Он отсутствовал в понедельник, вторник, среду и четверг.">
+      <audioTime in="16245" out="19951" />
+    </line>
+    <line lang1="Et vous, comment allez-vous?" someNumber="None" image="dg\067_001.gif" lang2="А вы, как вы (все) поживаете?">
+      <audioTime in="19951" out="21137" />
+    </line>
+    <line lang1="- Très bien, merci. Nous allons passer trois jours à la campagne." someNumber="None" image="dg\067_001.gif" lang2="- Очень хорошо, спасибо. Мы собираемся провести три дня в деревне.">
+      <audioTime in="21137" out="24144" />
+    </line>
+    <line lang1="Nous allons passer le week-end chez ma mère." someNumber="None" image="dg\067_001.gif" lang2="Мы собираемся провести выходные у моей матери.">
+      <audioTime in="24144" out="25795" />
+    </line>
+    <line lang1="- Vendredi, samedi, dimanche à la campagne! Vous avez de la chance." someNumber="None" image="dg\067_001.gif" lang2="- Пятница, суббота и воскресенье в деревне! Вам везет.">
+      <audioTime in="25795" out="29438" />
+    </line>
+  </lines>
+</lesson>

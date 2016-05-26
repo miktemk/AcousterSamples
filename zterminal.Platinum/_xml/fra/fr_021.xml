@@ -1,0 +1,80 @@
+<lesson>
+  <header wav="FR_021.wav" dlgName="В парикмахерской - 1" dlgFile="exr\frg021.txt" />
+  <lines>
+    <line lang1="- A qui est le tour?" someNumber="None" image="f.jpg" lang2="- Кто следующий?">
+      <audioTime in="0" out="1543" />
+    </line>
+    <line lang1="- C'est à moi." someNumber="None" image="f.jpg" lang2="- Я.">
+      <audioTime in="1543" out="2649" />
+    </line>
+    <line lang1="- Vous désirez, monsieur?" someNumber="None" image="f.jpg" lang2="- Что вы желаете, господин?">
+      <audioTime in="2649" out="4450" />
+    </line>
+    <line lang1="- Voulez-vous me couper les cheveux et me raser?" someNumber="None" image="f.jpg" lang2="- Можете ли вы меня подстричь и побрить?">
+      <audioTime in="4450" out="7445" />
+    </line>
+    <line lang1="- Faut-il vous couper les cheveux courts?" someNumber="None" image="f.jpg" lang2="- Коротко ли вам подстричь волосы?">
+      <audioTime in="7445" out="9754" />
+    </line>
+    <line lang1="- Coupez-moi les cheveux courts derrière" someNumber="None" image="f.jpg" lang2="- Подстригите мне волосы коротко сзади и по бокам,">
+      <audioTime in="9754" out="12389" />
+    </line>
+    <line lang1="et sur les côtés mais ne les coupez pas trop courts devant." someNumber="None" image="f.jpg" lang2="но спереди не слишком коротко.">
+      <audioTime in="12389" out="16057" />
+    </line>
+    <line lang1="- Voulez-vous un shampooing?" someNumber="None" image="f.jpg" lang2="- Хотите ли вымыть голову?">
+      <audioTime in="16057" out="18286" />
+    </line>
+    <line lang1="- Non, merci." someNumber="None" image="f.jpg" lang2="- Нет, спасибо.">
+      <audioTime in="18286" out="19393" />
+    </line>
+    <line lang1="- Baissez un peu la tête, monsieur. Voilà, c'est ça. Merci bien." someNumber="None" image="f.jpg" lang2="- Наклоните, пожалуйста, немного голову. Вот так. Большое cпасибо.">
+      <audioTime in="19393" out="24981" />
+    </line>
+    <line lang1="Vous avez beaucoup de pellicules. Ferons-nous une friction?" someNumber="None" image="f.jpg" lang2="У вас много перхоти. Сделаем массаж?">
+      <audioTime in="24981" out="29085" />
+    </line>
+    <line lang1="- Très bien. Mais à l'eau de Cologne." someNumber="None" image="f.jpg" lang2="- Очень хорошо. Но только одеколоном.">
+      <audioTime in="29085" out="31210" />
+    </line>
+    <line lang1="- Un peu de brillantine?" someNumber="None" image="f.jpg" lang2="- Немного брильянтина?">
+      <audioTime in="31210" out="33025" />
+    </line>
+    <line lang1="- Non, merci." someNumber="None" image="f.jpg" lang2="- Нет, спасибо.">
+      <audioTime in="33025" out="34051" />
+    </line>
+    <line lang1="- Alors, c'est fini." someNumber="None" image="f.jpg" lang2="- В таком случае, готово.">
+      <audioTime in="34051" out="35531" />
+    </line>
+    <line lang1="Vous avez un poil très dure et épais. Et maintenant je vais vous raser." someNumber="None" image="f.jpg" lang2="А теперь я буду вас брить. У вас твердая и густая борода,">
+      <audioTime in="35531" out="40168" />
+    </line>
+    <line lang1="Avec quoi vous rasez-vous?" someNumber="None" image="f.jpg" lang2="чем вы бреетесь?">
+      <audioTime in="40168" out="42165" />
+    </line>
+    <line lang1="- Avec un rasoir. A propos, vous avez là un savon qui mousse très bien." someNumber="None" image="f.jpg" lang2="- Бритвой. Кстати, у вас здесь мыло, которое очень хорошо пенится.">
+      <audioTime in="42165" out="47561" />
+    </line>
+    <line lang1="Vendez-vous du savon à barbe?" someNumber="None" image="f.jpg" lang2="Продаёте ли вы мыло для бритья?">
+      <audioTime in="47561" out="50026" />
+    </line>
+    <line lang1="- Non. Mais vous trouverez du savon à barbe chez le marchand de couleurs," someNumber="None" image="f.jpg" lang2="- Нет. Но вы найдете мыло для бритья в парфюмерном магазине,">
+      <audioTime in="50026" out="54226" />
+    </line>
+    <line lang1="juste à côté de la poste." someNumber="None" image="f.jpg" lang2="около почты.">
+      <audioTime in="54226" out="56115" />
+    </line>
+    <line lang1="- Un peu de poudre, d'eau de Cologne?" someNumber="None" image="f.jpg" lang2="- Немного пудры, одеколона?">
+      <audioTime in="56115" out="59814" />
+    </line>
+    <line lang1="- Mettez-moi seulement un peu de poudre." someNumber="None" image="f.jpg" lang2="- Прошу только немного припудрить.">
+      <audioTime in="59814" out="62486" />
+    </line>
+    <line lang1="- Voilà, c'est fait." someNumber="None" image="f.jpg" lang2="- Готово.">
+      <audioTime in="62486" out="63992" />
+    </line>
+    <line lang1="- Merci, monsieur." someNumber="None" image="f.jpg" lang2="- Спасибо, господин.">
+      <audioTime in="63992" out="65534" />
+    </line>
+  </lines>
+</lesson>

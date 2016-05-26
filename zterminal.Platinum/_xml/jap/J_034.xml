@@ -1,0 +1,83 @@
+<lesson>
+  <header wav="j_034.wav" dlgName="Нет, не плавали" dic="p034" />
+  <lines>
+    <line lang1="ー夏休み*に*どこ*へ*行きました*か。" someNumber="69" image="034_001.jpg" lang2="- Куда (Вы) ездили на летние каникулы?">
+      <audioTime in="0" out="3150" />
+    </line>
+    <line lang1="ーほっかいどう*の*そぼ*の*ところ*へ*行きました。" someNumber="15" image="034_002.jpg" lang2="- Ездил на Хоккайдо к бабушке.">
+      <audioTime in="3150" out="6676" />
+    </line>
+    <line lang1="ーおばあさん*は*ほっかいどう*に*います*か。" someNumber="167" image="034_003.jpg" lang2="- Ваша бабушка (живет) на Хоккайдо?">
+      <audioTime in="6676" out="10333" />
+    </line>
+    <line lang1="おじいさん*も*います*か。" someNumber="None" image="034_004.jpg" lang2="И дедушка есть?">
+      <audioTime in="10333" out="12719" />
+    </line>
+    <line lang1="ーはい。そぼ*も*そふ*も*ほっかいどう*に*います。" someNumber="None" image="034_005.jpg" lang2="- Да. И дедушка и бабушка (живут) на Хоккайдо.">
+      <audioTime in="12719" out="16282" />
+    </line>
+    <line lang1="ーひこうき*で*行きました*か。" someNumber="07" image="034_006.jpg" lang2="- (Вы) полетели на самолёте?">
+      <audioTime in="16282" out="18969" />
+    </line>
+    <line lang1="ーいいえ、ひこうき*で*行きませんでした。" someNumber="71" image="034_006.jpg" lang2="- Нет, (я) не летал самолётом,">
+      <audioTime in="18969" out="21710" />
+    </line>
+    <line lang1="電車*で*行きました。" someNumber="None" image="034_008.jpg" lang2="(я) поехал на электричке.">
+      <audioTime in="21710" out="23693" />
+    </line>
+    <line lang1="ー一人*で*行きました*か。" someNumber="07" image="034_009.jpg" lang2="- Вы поехали один?">
+      <audioTime in="23693" out="26227" />
+    </line>
+    <line lang1="ーいいえ、ロシア人*の*友だち*と*二人*で*行きました。" someNumber="None" image="034_010.jpg" lang2="- Нет, вдвоем с русским товарищем.">
+      <audioTime in="26227" out="30754" />
+    </line>
+    <line lang1="ー海*で*およぎました*か。" someNumber="None" image="034_011.jpg" lang2="- В море плавали?">
+      <audioTime in="30754" out="33447" />
+    </line>
+    <line lang1="ーいいえ、およぎませんでした。" someNumber="71" image="034_011.jpg" lang2="- Нет, не плавал.">
+      <audioTime in="33447" out="35809" />
+    </line>
+    <line lang1="水*は*つめたかった*です。" someNumber="26" image="034_013.jpg" lang2="Вода была холодной.">
+      <audioTime in="35809" out="38013" />
+    </line>
+    <line lang1="でも*プール*で*およぎました。" someNumber="None" image="034_014.jpg" lang2="Но в бассейне плавал.">
+      <audioTime in="38013" out="40469" />
+    </line>
+    <line lang1="ーさっぽろ*へ*行きました*か。" someNumber="None" image="034_015.jpg" lang2="- В Саппоро ездили?">
+      <audioTime in="40469" out="43242" />
+    </line>
+    <line lang1="ー行きませんでした。毎日*いそがしかった*です。" someNumber="26" image="034_016.jpg" lang2="- Не ездил. (Я) был занят каждый день.">
+      <audioTime in="43242" out="46980" />
+    </line>
+    <line lang1="友だち*と*いっしょに*魚*を*つりました。" someNumber="69" image="034_017.jpg" lang2="(Мы) с товарищем удили рыбу.">
+      <audioTime in="46980" out="50361" />
+    </line>
+    <line lang1="山*に*のぼりました。" someNumber="None" image="034_018.jpg" lang2="Взбирались в горы.">
+      <audioTime in="50361" out="52611" />
+    </line>
+    <line lang1="そぼ*は*おいしい*もの*を*つくりました。" someNumber="None" image="034_019.jpg" lang2="Бабушка готовила вкусные вещи.">
+      <audioTime in="52611" out="55941" />
+    </line>
+    <line lang1="しかし、友だち*は*生魚*を*食べませんでした。" someNumber="163" image="034_020.jpg" lang2="Но товарищ не ел сырой рыбы.">
+      <audioTime in="55941" out="60310" />
+    </line>
+    <line lang1="ー東京*の*たいふう*について*聞きました*か。" someNumber="127" image="034_021.jpg" lang2="- Вы слышали о тайфуне в Токио?">
+      <audioTime in="60310" out="64788" />
+    </line>
+    <line lang1="ーいいえ。聞きませんでした。" someNumber="None" image="034_022.jpg" lang2="- Нет, не слышал.">
+      <audioTime in="64788" out="66876" />
+    </line>
+    <line lang1="テレビ*で*ニュース*を*見ませんでした。" someNumber="None" image="034_022.jpg" lang2="(Я) не смотрел новости по телевизору.">
+      <audioTime in="66876" out="69743" />
+    </line>
+    <line lang1="えいが*だけ*見ました。" someNumber="123" image="034_024.jpg" lang2="Смотрел только фильмы.">
+      <audioTime in="69743" out="72028" />
+    </line>
+    <line lang1="―新聞*を*よみました*か。" someNumber="None" image="034_025.jpg" lang2="- А газеты читали?">
+      <audioTime in="72028" out="74548" />
+    </line>
+    <line lang1="―いいえ、しょうせつ*しか*よみませんでした。" someNumber="123" image="034_026.jpg" lang2="- Нет, (я) не читал ничего кроме беллетристики.">
+      <audioTime in="74548" out="78949" />
+    </line>
+  </lines>
+</lesson>

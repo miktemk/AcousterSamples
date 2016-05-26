@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="d_092.wav" dic="p092" dlgName="Вчера был..." dlgFile="exr\dg091.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Hat es gestern #geregnet?" someNumber="360" image="dg\092_001.gif" lang2="- Вчера шёл дождь?">
+      <audioTime in="779" out="2252" />
+    </line>
+    <line lang1="- Ja, morgen #wird es wieder #regnen." someNumber="None" image="dg\092_001.gif" lang2="- Да, завтра снова пойдёт дождь.">
+      <audioTime in="2944" out="5197" />
+    </line>
+    <line lang1="- #Ist er spät am Abend #aufgestanden?" someNumber="890" image="dg\092_002.gif" lang2="- Он встал вчера поздно вечером?">
+      <audioTime in="5888" out="7967" />
+    </line>
+    <line lang1="- Ja, morgen #wird er wieder spät #aufstehen." someNumber="None" image="dg\092_002.gif" lang2="- Да, завтра он снова встанет поздно.">
+      <audioTime in="8314" out="10912" />
+    </line>
+    <line lang1="- #Hat sie gestern den Fußboden #gefegt?" someNumber="None" image="dg\092_003.gif" lang2="- Она вчера подмела пол?">
+      <audioTime in="11692" out="13597" />
+    </line>
+    <line lang1="- Ja, sie #wird morgen wieder den Fußboden #fegen." someNumber="None" image="dg\092_003.gif" lang2="- Да, она снова подметёт пол завтра.">
+      <audioTime in="14030" out="16801" />
+    </line>
+    <line lang1="- #Hat es gestern #geschneit?" someNumber="None" image="dg\092_004.gif" lang2="- Вчера шёл снег?">
+      <audioTime in="17581" out="19053" />
+    </line>
+    <line lang1="- Ja, morgen #wird es wieder #schneien." someNumber="360" image="dg\092_004.gif" lang2="- Да, завтра снова пойдёт снег.">
+      <audioTime in="19486" out="21652" />
+    </line>
+    <line lang1="- Gestern #hat er bis spät #gearbeitet." someNumber="None" image="dg\092_005.gif" lang2="- Вчера он закончил работу поздно.">
+      <audioTime in="23210" out="26155" />
+    </line>
+    <line lang1="- Morgen #wird er wieder bis spät #arbeiten." someNumber="None" image="dg\092_005.gif" lang2="- Да, завтра он снова будет работать допоздна.">
+      <audioTime in="26761" out="28667" />
+    </line>
+    <line lang1="- Gestern #haben sie seinen Wagen #repariert." someNumber="None" image="dg\092_006.gif" lang2="- Вчера они ремонтировали его машину.">
+      <audioTime in="29446" out="32044" />
+    </line>
+    <line lang1="- Ja, morgen #werden sie wieder seinen Wagen #reparieren." someNumber="None" image="dg\092_006.gif" lang2="- Да, завтра они снова будут ремонтировать его машину">
+      <audioTime in="32477" out="35075" />
+    </line>
+    <line lang1="- Sie #hat ihn gestern #angerufen." someNumber="None" image="dg\092_007.gif" lang2="- Она звонила ему вчера.">
+      <audioTime in="35855" out="37501" />
+    </line>
+    <line lang1="- Ja, morgen #wird sie ihn wieder #anrufen." someNumber="None" image="dg\092_007.gif" lang2="- Да, завтра она позвонит ему снова.">
+      <audioTime in="38020" out="40273" />
+    </line>
+    <line lang1="- Gestern #sind Sie spät nach Hause #gefahren." someNumber="None" image="dg\092_008.gif" lang2="- Вчера они поехали домой поздно.">
+      <audioTime in="41484" out="43563" />
+    </line>
+    <line lang1="- Ja, morgen #werden Sie wieder spät nach Hause #fahren." someNumber="None" image="dg\092_008.gif" lang2="- Да, завтра они снова поедут домой поздно">
+      <audioTime in="44169" out="46768" />
+    </line>
+    <line lang1="- Gestern #hat er sich #rasiert." someNumber="None" image="dg\092_009.gif" lang2="- Вчера он побрился.">
+      <audioTime in="47634" out="49106" />
+    </line>
+    <line lang1="- Morgen #wird er sich wieder #rasieren." someNumber="None" image="dg\092_009.gif" lang2="- Завтра он побреется снова.">
+      <audioTime in="49626" out="51444" />
+    </line>
+    <line lang1="- Er #hat sich für Morgen #verabredet." someNumber="None" image="dg\092_010.gif" lang2="- Он договорился встретиться завтра.">
+      <audioTime in="52310" out="54129" />
+    </line>
+    <line lang1="- Ja, morgen #wird er sich wieder #verabreden." someNumber="900" image="dg\092_010.gif" lang2="- Да, завтра он договорится встретиться снова.">
+      <audioTime in="54736" out="57074" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="f_074.wav" dic="p074" dlgName="Почему?.. Потому что..." dlgFile="exr\fg073.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Pourquoi s'est-il blessé aujourd'hui?" someNumber="930" image="dg\074_001.gif" lang2="- Почему он порезался сегодня?">
+      <audioTime in="0" out="1573" />
+    </line>
+    <line lang1="- Parce qu-il se rasait à la hâte." someNumber="None" image="dg\074_001.gif" lang2="- Потому что он брился поспешно.">
+      <audioTime in="1573" out="3068" />
+    </line>
+    <line lang1="- Qu-a-t-il pris?" someNumber="None" image="dg\074_002.gif" lang2="- Что он взял?">
+      <audioTime in="3068" out="3759" />
+    </line>
+    <line lang1="- Il a pris un gâteau." someNumber="60" image="dg\074_002.gif" lang2="- Он взял пирожное.">
+      <audioTime in="3759" out="4748" />
+    </line>
+    <line lang1="- Qu-a-t-il fait?" someNumber="None" image="dg\074_002.gif" lang2="- Что он сделал (с ним)?">
+      <audioTime in="4748" out="5421" />
+    </line>
+    <line lang1="- Il l'a vite mangé." someNumber="None" image="dg\074_002.gif" lang2="- Он его быстро съел.">
+      <audioTime in="5421" out="6444" />
+    </line>
+    <line lang1="- Que lui avez-vous donné?" someNumber="460" image="dg\074_003.gif" lang2="- Что ему вы дали?">
+      <audioTime in="6444" out="7452" />
+    </line>
+    <line lang1="- Je lui ai donné un verre d'eau." someNumber="None" image="dg\074_003.gif" lang2="- Я ему дала стакан воды.">
+      <audioTime in="7452" out="8672" />
+    </line>
+    <line lang1="- Qu-a-t-il fait?" someNumber="None" image="dg\074_003.gif" lang2="- Что он сделал (с ним)?">
+      <audioTime in="8672" out="9315" />
+    </line>
+    <line lang1="- Il l'a bu avec avidité." someNumber="780" image="dg\074_003.gif" lang2="- Он его выпил жадно.">
+      <audioTime in="9315" out="10680" />
+    </line>
+    <line lang1="- Quand l'as-tu rencontrée?" someNumber="None" image="dg\074_004.gif" lang2="- Когда ты её встретил?">
+      <audioTime in="10680" out="11688" />
+    </line>
+    <line lang1="- Je l'ai rencontrée avant-hier." someNumber="None" image="dg\074_004.gif" lang2="- Я её встретил позавчера.">
+      <audioTime in="11688" out="13085" />
+    </line>
+    <line lang1="- Comment l'a-t-elle reçu?" someNumber="None" image="dg\074_004.gif" lang2="- Как она его встретила?">
+      <audioTime in="13085" out="14155" />
+    </line>
+    <line lang1="- Elle l'a reçu cordialement." someNumber="530" image="dg\074_004.gif" lang2="- Она его встретила тепло.">
+      <audioTime in="14155" out="15348" />
+    </line>
+    <line lang1="- Pourquoi vous êtes venus si tard?" someNumber="None" image="dg\074_005.gif" lang2="- Почему вы приехали так поздно?">
+      <audioTime in="15348" out="16790" />
+    </line>
+    <line lang1="- Parce que l'autobus allait lentement." someNumber="None" image="dg\074_005.gif" lang2="- Потому что автобус ехал медленно.">
+      <audioTime in="16790" out="18191" />
+    </line>
+    <line lang1="- Qu'est-ce qu'ont fait les dactylos le matin?" someNumber="None" image="dg\074_006.gif" lang2="- Что делали машинистки сегодня утром?">
+      <audioTime in="18191" out="19919" />
+    </line>
+    <line lang1="- Elles ont travaillé ferme." someNumber="None" image="dg\074_006.gif" lang2="- Они работали усердно.">
+      <audioTime in="19919" out="21135" />
+    </line>
+    <line lang1="- Comment avez-vous passé la nuit?" someNumber="50" image="dg\074_007.gif" lang2="- Как вы провели ночь?">
+      <audioTime in="21135" out="22311" />
+    </line>
+    <line lang1="- Nous l'avons bien passée." someNumber="None" image="dg\074_007.gif" lang2="- Мы её хорошо провели.">
+      <audioTime in="22311" out="23416" />
+    </line>
+    <line lang1="- Comment a-t-il nagé aujourd'hui?" someNumber="None" image="dg\074_008.gif" lang2="- Как он плавал сегодня?">
+      <audioTime in="23416" out="24757" />
+    </line>
+    <line lang1="- Il a très bien nagé." someNumber="None" image="dg\074_008.gif" lang2="- Он очень хорошо плавал.">
+      <audioTime in="24757" out="25735" />
+    </line>
+  </lines>
+</lesson>

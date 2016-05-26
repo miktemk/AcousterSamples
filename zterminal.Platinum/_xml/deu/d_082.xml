@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="d_082.wav" dic="p082" dlgName="Что они собираются делать?" dlgFile="exr\dg081.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Was #wollen sie jetzt #machen?" someNumber="None" image="dg\082_001.gif" lang2="- Что они собираются сейчас делать?">
+      <audioTime in="59" out="2018" />
+    </line>
+    <line lang1="- Sie #wollen #frühstücken." someNumber="330" image="dg\082_001.gif" lang2="- Они собираются завтракать.">
+      <audioTime in="2136" out="3620" />
+    </line>
+    <line lang1="- Was #machen sie?" someNumber="None" image="dg\082_002.gif" lang2="- Что они делают?">
+      <audioTime in="3798" out="5044" />
+    </line>
+    <line lang1="- Sie #frühstücken jetzt." someNumber="720" image="dg\082_002.gif" lang2="- Они сейчас завтракают.">
+      <audioTime in="5104" out="6528" />
+    </line>
+    <line lang1="- Was #sollen sie #tun?" someNumber="510" image="dg\082_003.gif" lang2="- Что должны они делать?">
+      <audioTime in="6647" out="8190" />
+    </line>
+    <line lang1="- Sie #sollen Tee #trinken." someNumber="680" image="dg\082_003.gif" lang2="- Они должны чай пить.">
+      <audioTime in="8190" out="9733" />
+    </line>
+    <line lang1="- Was #haben sie #gemacht?" someNumber="710" image="dg\082_004.gif" lang2="- Что они делали?">
+      <audioTime in="9852" out="11157" />
+    </line>
+    <line lang1="- Sie #haben zu Mittag #gegessen." someNumber="580" image="dg\082_004.gif" lang2="- Они обедали.">
+      <audioTime in="11277" out="13117" />
+    </line>
+    <line lang1="- Was #sollen sie #machen?" someNumber="None" image="dg\082_005.gif" lang2="- Что должны они делать?">
+      <audioTime in="13057" out="14718" />
+    </line>
+    <line lang1="- Sie #sollen etwas #essen." someNumber="380" image="dg\082_005.gif" lang2="- Они должны что-нибудь поесть.">
+      <audioTime in="14718" out="16262" />
+    </line>
+    <line lang1="- Was #will Ralf #machen?" someNumber="680" image="dg\082_006.gif" lang2="- Что Ральф собирается делать?">
+      <audioTime in="16440" out="17983" />
+    </line>
+    <line lang1="- Er #will #schwimmen." someNumber="None" image="dg\082_006.gif" lang2="- Он собирается плавать.">
+      <audioTime in="17983" out="19230" />
+    </line>
+    <line lang1="- Was #macht er?" someNumber="None" image="dg\082_007.gif" lang2="- Что он делает?">
+      <audioTime in="19348" out="20475" />
+    </line>
+    <line lang1="- Er #nimmt ein Bad." someNumber="60" image="dg\082_007.gif" lang2="- Он принимает ванну.">
+      <audioTime in="20535" out="21900" />
+    </line>
+    <line lang1="- Was #hat er #gemacht?" someNumber="330" image="dg\082_008.gif" lang2="- Что он сделал?">
+      <audioTime in="21900" out="23206" />
+    </line>
+    <line lang1="- Er #hat sich die Haare #geschnitten." someNumber="510" image="dg\082_008.gif" lang2="- Он подстригся.">
+      <audioTime in="23265" out="25105" />
+    </line>
+    <line lang1="- Was #machen sie?" someNumber="None" image="dg\082_009.gif" lang2="- Что они делают?">
+      <audioTime in="25224" out="26470" />
+    </line>
+    <line lang1="- Sie #haben Unterricht." someNumber="None" image="dg\082_009.gif" lang2="- У них урок.">
+      <audioTime in="26589" out="27834" />
+    </line>
+    <line lang1="- Was #haben sie #gemacht?" someNumber="580" image="dg\082_010.gif" lang2="- Что они делали?">
+      <audioTime in="27834" out="29259" />
+    </line>
+    <line lang1="- Sie #haben einen geselligen Abend #gehabt." someNumber="290" image="dg\082_010.gif" lang2="- У них была вечеринка.">
+      <audioTime in="29319" out="32583" />
+    </line>
+    <line lang1="- Was #sollen sie #machen?" someNumber="None" image="dg\082_011.gif" lang2="- Что они должны делать?">
+      <audioTime in="32702" out="34126" />
+    </line>
+    <line lang1="- Sie #sollen in Urlaub #fahren." someNumber="680" image="dg\082_011.gif" lang2="- Они должны поехать в отпуск.">
+      <audioTime in="34067" out="35669" />
+    </line>
+    <line lang1="- Was #wollen sie #machen?" someNumber="400" image="dg\082_012.gif" lang2="- Что они собираются делать?">
+      <audioTime in="36025" out="37332" />
+    </line>
+    <line lang1="- Sie #wollen die Zeit gut #verbringen." someNumber="150" image="dg\082_012.gif" lang2="- Они собираются хорошо провести время.">
+      <audioTime in="37390" out="39527" />
+    </line>
+  </lines>
+</lesson>

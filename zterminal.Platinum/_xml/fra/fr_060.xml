@@ -1,0 +1,68 @@
+<lesson>
+  <header wav="FR_060.wav" dlgName="В книжном магазине" dlgFile="exr\frg060.txt" />
+  <lines>
+    <line lang1="- Que désirez-vous, monsieur?" someNumber="None" image="f.jpg" lang2="- Что вам угодно?">
+      <audioTime in="0" out="2409" />
+    </line>
+    <line lang1="- Je voudrais acheter quelques livres." someNumber="None" image="f.jpg" lang2="- Я хотел бы купить несколько книг.">
+      <audioTime in="2409" out="5198" />
+    </line>
+    <line lang1="- Nous sommes à votre service, avez-vous fixé votre choix?" someNumber="None" image="f.jpg" lang2="- Мы к вашим услугам. Вы уже выбрали что-нибудь?">
+      <audioTime in="5198" out="9729" />
+    </line>
+    <line lang1="- J'ai remarqué en vitrine un ouvrage sur le XIXe siècle français." someNumber="None" image="f.jpg" lang2="- Я заметил на витрине одну работу о Франции XIX века.">
+      <audioTime in="9729" out="15081" />
+    </line>
+    <line lang1="- Le voici, voulez-vous le feuilleter," someNumber="None" image="f.jpg" lang2="- Вот она. Хотите ли просмотреть её,">
+      <audioTime in="15081" out="18691" />
+    </line>
+    <line lang1="il fait partie de la collection &quot;La connaissance des arts&quot;." someNumber="None" image="f.jpg" lang2="она входит в состав серии книг: &quot;Знакомство с искусством&quot;.">
+      <audioTime in="18691" out="22845" />
+    </line>
+    <line lang1="- Oh! c'est une très belle édition!" someNumber="None" image="f.jpg" lang2="- О! Это замечательное издание!">
+      <audioTime in="22845" out="25377" />
+    </line>
+    <line lang1="- Elle est présentée sous reliure cartonnée de luxe." someNumber="None" image="f.jpg" lang2="- Она издана в прекрасном картонном переплете.">
+      <audioTime in="25377" out="29099" />
+    </line>
+    <line lang1="Le volume se divise en plusieurs chapitres:" someNumber="None" image="f.jpg" lang2="Том состоит из нескольких глав:">
+      <audioTime in="29099" out="33026" />
+    </line>
+    <line lang1="la peinture, le mobilir, l'orfèvrerie, les tapis, les objets d'art." someNumber="None" image="f.jpg" lang2="живопись, мебель, золотые и серебряные изделия, ковры, предметы искусства.">
+      <audioTime in="33026" out="40449" />
+    </line>
+    <line lang1="Mille illustrations en polychromie accompagnent le texte." someNumber="None" image="f.jpg" lang2="Тысяча разноцветных иллюстраций обогащает текст.">
+      <audioTime in="40449" out="45623" />
+    </line>
+    <line lang1="- Très bien, il fait mon affaire." someNumber="None" image="f.jpg" lang2="- Очень хорошо, это мне подходит.">
+      <audioTime in="45623" out="48206" />
+    </line>
+    <line lang1="- Avez-vous besoin d'autre chose?" someNumber="None" image="f.jpg" lang2="- Надо ли вам ещё что-нибудь?...">
+      <audioTime in="48206" out="50627" />
+    </line>
+    <line lang1="Si la littérature scientifique vous intéresse," someNumber="None" image="f.jpg" lang2="Если вас интересует научная литература,">
+      <audioTime in="50627" out="53612" />
+    </line>
+    <line lang1="je me permets de vous conseiller notre toute dernière édition sur les satellites artificiels." someNumber="None" image="f.jpg" lang2="могу вам порекомендовать самое последнее издание об искусственных спутниках.">
+      <audioTime in="53612" out="60137" />
+    </line>
+    <line lang1="- Merci bien, mademoiselle, mais j'ai besoin d'un guide touristique." someNumber="None" image="f.jpg" lang2="- Спасибо, девушка, но мне нужен туристический путеводитель.">
+      <audioTime in="60137" out="64787" />
+    </line>
+    <line lang1="- Quelle région, monsieur?" someNumber="None" image="f.jpg" lang2="- Какого района?">
+      <audioTime in="64787" out="66794" />
+    </line>
+    <line lang1="- L'Ile de France." someNumber="None" image="f.jpg" lang2="- Иль-де-Франс.">
+      <audioTime in="66794" out="68374" />
+    </line>
+    <line lang1="- Nous avons ce qu'il vous faut." someNumber="None" image="f.jpg" lang2="- У нас есть то, что вам надо.">
+      <audioTime in="68374" out="70324" />
+    </line>
+    <line lang1="- Parfait, empaquetez-moi chaque ouvrage séparément." someNumber="None" image="f.jpg" lang2="- Замечательно, заверните мне, пожалуйста, каждую книгу отдельно.">
+      <audioTime in="70324" out="74192" />
+    </line>
+    <line lang1="- Voici votre facture, monsieur, veuillez passer à la caisse, s'il vous plaît." someNumber="None" image="f.jpg" lang2="- Вот вам счет, пройдите, пожалуйста, в кассу.">
+      <audioTime in="74192" out="80479" />
+    </line>
+  </lines>
+</lesson>

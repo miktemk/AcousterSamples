@@ -1,0 +1,71 @@
+<lesson>
+  <header wav="d_074.wav" dic="p074" dlgName="Почему?.. Потому что..." dlgFile="exr\dg073.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Warum #hat er sich heute #geschnitten?" someNumber="350" image="dg\074_001.gif" lang2="- Почему он порезался сегодня?">
+      <audioTime in="241" out="2575" />
+    </line>
+    <line lang1="- Weil er sich eilig #rasierte." someNumber="None" image="dg\074_001.gif" lang2="- Потому что он брился спешно.">
+      <audioTime in="2817" out="4910" />
+    </line>
+    <line lang1="- Was #hat er #genommen?" someNumber="710" image="dg\074_002.gif" lang2="- Что он взял?">
+      <audioTime in="4990" out="6520" />
+    </line>
+    <line lang1="- Er #hat Kuchen #genommen." someNumber="580" image="dg\074_002.gif" lang2="- Он взял пирожное.">
+      <audioTime in="6600" out="8210" />
+    </line>
+    <line lang1="- Was #hat er mit ihm #gemacht?" someNumber="790" image="dg\074_002.gif" lang2="- Что он сделал с ним?">
+      <audioTime in="8291" out="10143" />
+    </line>
+    <line lang1="- Er #hat ihn schnell #gegessen." someNumber="330" image="dg\074_002.gif" lang2="- Он съел его быстро.">
+      <audioTime in="10223" out="12155" />
+    </line>
+    <line lang1="- Was #haben Sie ihm #gegeben?" someNumber="None" image="dg\074_003.gif" lang2="- Что вы дали ему?">
+      <audioTime in="12477" out="14168" />
+    </line>
+    <line lang1="- Ich #habe ihm ein Glas Wasser #gegeben." someNumber="60" image="dg\074_003.gif" lang2="- Я дала ему стакан воды.">
+      <audioTime in="14489" out="16824" />
+    </line>
+    <line lang1="- Was #hat er damit #gemacht?" someNumber="None" image="dg\074_003.gif" lang2="- Что он сделал с ним?">
+      <audioTime in="16984" out="18836" />
+    </line>
+    <line lang1="- Er #hat es gierig #getrunken." someNumber="None" image="dg\074_003.gif" lang2="- Он жадно выпил его.">
+      <audioTime in="18836" out="21332" />
+    </line>
+    <line lang1="- Wann #haben Sie ihn #getroffen?" someNumber="None" image="dg\074_004.gif" lang2="- Когда вы встретили его?">
+      <audioTime in="21573" out="23667" />
+    </line>
+    <line lang1="- Ich #habe ihn vorgestern #getroffen." someNumber="720" image="dg\074_004.gif" lang2="- Я встретил его позавчера.">
+      <audioTime in="23667" out="26059" />
+    </line>
+    <line lang1="- Wie #hat sie dich #begrüßt?" someNumber="350" image="dg\074_004.gif" lang2="- Как она встретила тебя?">
+      <audioTime in="26059" out="28091" />
+    </line>
+    <line lang1="- Sie #hat mich herzlich #begrüßt." someNumber="None" image="dg\074_004.gif" lang2="- Она встретила меня тепло.">
+      <audioTime in="28335" out="30751" />
+    </line>
+    <line lang1="- Warum #sind sie beide zu spät #gekommen?" someNumber="750" image="dg\074_005.gif" lang2="- Почему вы оба пришли очень поздно?">
+      <audioTime in="31233" out="33728" />
+    </line>
+    <line lang1="- Weil der Bus Verspätung #hatte." someNumber="860" image="dg\074_005.gif" lang2="- Потому что автобус опоздал.">
+      <audioTime in="34051" out="36386" />
+    </line>
+    <line lang1="- Was #haben die Schreibkräfte heute früh #gemacht?" someNumber="None" image="dg\074_006.gif" lang2="- Что машинистки делали сегодня утром?">
+      <audioTime in="36869" out="39846" />
+    </line>
+    <line lang1="- Sie #haben fleißig #gearbeitet." someNumber="580" image="dg\074_006.gif" lang2="- Они усердно работали.">
+      <audioTime in="40169" out="42825" />
+    </line>
+    <line lang1="- Wie #haben Sie die vorige Nacht #verbracht?" someNumber="None" image="dg\074_007.gif" lang2="- Как вы провели прошлую ночь?">
+      <audioTime in="43147" out="46045" />
+    </line>
+    <line lang1="- Wir #haben die vorige Nacht sehr gut #verbracht." someNumber="900" image="dg\074_007.gif" lang2="- Прошлую ночь мы провели очень хорошо.">
+      <audioTime in="46368" out="49265" />
+    </line>
+    <line lang1="- Wie #ist er heute #geschwommen?" someNumber="580" image="dg\074_008.gif" lang2="- Как он плавал сегодня?">
+      <audioTime in="49587" out="51680" />
+    </line>
+    <line lang1="- Er #ist sehr gut #geschwommen." someNumber="710" image="dg\074_008.gif" lang2="- Он плавал очень хорошо.">
+      <audioTime in="51680" out="53613" />
+    </line>
+  </lines>
+</lesson>

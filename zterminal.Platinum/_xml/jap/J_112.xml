@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="j_112.wav" dlgName="Снова о болезнях" dic="p112" />
+  <lines>
+    <line lang1="ー私*が*もし*簡単*な*病気、例えば*風邪*を*引いたら、" someNumber="085" image="112_001.jpg" lang2="- Когда у меня бывает простая болезнь, например, простуда,">
+      <audioTime in="0" out="4382" />
+    </line>
+    <line lang1="薬局*で*薬*を*買って*飲む*けど。" someNumber="None" image="112_001.jpg" lang2="я покупаю в аптеке лекарство и принимаю его.">
+      <audioTime in="4382" out="8248" />
+    </line>
+    <line lang1="ー医者*に*しょほうせん*を*書いて*もらわなくても*薬*を*売って*もらえる？" someNumber="94" image="112_003.jpg" lang2="- Ты можешь купить лекарство, если даже врач не напишет рецепта?">
+      <audioTime in="8248" out="15002" />
+    </line>
+    <line lang1="ーうん。風邪薬、咳止め、痛み止め、" someNumber="None" image="112_004.jpg" lang2="- Да. Лекарства от простуды, от кашля, болеутоляющие,">
+      <audioTime in="15133" out="19157" />
+    </line>
+    <line lang1="ビタミン*など*は*しょほうせん*が*なくても*売って*くれる*よ。" someNumber="103" image="112_004.jpg" lang2="витамины и прочее продают и без рецепта.">
+      <audioTime in="19157" out="22831" />
+    </line>
+    <line lang1="ーどうした*の。" someNumber="None" image="112_006.jpg" lang2="- Что случилось?">
+      <audioTime in="22831" out="26660" />
+    </line>
+    <line lang1="ー虫歯*が*痛い*ん*だ。" someNumber="None" image="112_007.jpg" lang2="- Болит испорченный зуб.">
+      <audioTime in="26660" out="28941" />
+    </line>
+    <line lang1="ー歯医者*に*見て*もらった*ほう*が*いい*ん*じゃない。" someNumber="103" image="112_008.jpg" lang2="- Не лучше ли пойти показаться зубному врачу?">
+      <audioTime in="28941" out="32757" />
+    </line>
+    <line lang1="小さい*虫歯*なら、けずって*くれるし、" someNumber="085" image="112_008.jpg" lang2="Если будет небольшой кариес, он его вычистит,">
+      <audioTime in="32757" out="35592" />
+    </line>
+    <line lang1="ひどく*なっていたら、抜いて*くれる*わ。" someNumber="None" image="112_010.jpg" lang2="а если будет совсем плохо, выдернет.">
+      <audioTime in="35592" out="38190" />
+    </line>
+    <line lang1="ーやっぱり、虫歯*は*小さい*うち*に*行った*方*が*いい*な*あ。" someNumber="126" image="112_011.jpg" lang2="- Конечно, стоит пойти, пока кариес небольшой.">
+      <audioTime in="38190" out="42746" />
+    </line>
+    <line lang1="ーお父さん、起きられない*ほど*悪い*の。" someNumber="159" image="112_012.jpg" lang2="- Отец, тебе настолько плохо, что не можешь встать?">
+      <audioTime in="42746" out="50447" />
+    </line>
+    <line lang1="また*腰*かしら。" someNumber="None" image="112_013.jpg" lang2="Опять поясница?">
+      <audioTime in="50447" out="52176" />
+    </line>
+    <line lang1="ーああ。中沢*先生*を*呼んで*くれない*か。" someNumber="105" image="112_014.jpg" lang2="- Ох! Не вызовешь ли Накадзава-сэнсэя?">
+      <audioTime in="52176" out="56038" />
+    </line>
+    <line lang1="腰*だけ*じゃなくて、胸*も*痛い*なあ。" someNumber="None" image="112_015.jpg" lang2="Болит не только поясница, но и грудь.">
+      <audioTime in="56038" out="59315" />
+    </line>
+    <line lang1="心臓*も。" someNumber="None" image="112_015.jpg" lang2="И сердце.">
+      <audioTime in="59315" out="60603" />
+    </line>
+    <line lang1="夜*は*不眠症*で*眠れなかった*し、熱*が*ある*かもしれない。" someNumber="None" image="112_017.jpg" lang2="Ночью не мог заснуть из-за бессонницы, наверное и жар есть.">
+      <audioTime in="60603" out="65792" />
+    </line>
+    <line lang1="ほら、汗びっしょり*に*なっちゃった。" someNumber="80" image="112_017.jpg" lang2="Я весь в поту.">
+      <audioTime in="65709" out="68862" />
+    </line>
+    <line lang1="ーちょっと*脈*を*見せて。大丈夫*かしら..." someNumber="124" image="112_019.jpg" lang2="- Ну-ка, покажи пульс! Вроде бы, в порядке...">
+      <audioTime in="68862" out="73973" />
+    </line>
+    <line lang1="血圧*が*高い*かもしれない..." someNumber="None" image="112_019.jpg" lang2="Может быть, давление высокое.">
+      <audioTime in="73973" out="76682" />
+    </line>
+    <line lang1="ー回、詳しく*診察して*もらわなくちゃ。" someNumber="088" image="112_021.jpg" lang2="Надо как-нибудь тщательно обследоваться.">
+      <audioTime in="76682" out="80370" />
+    </line>
+    <line lang1="心臓、肺、肝臓、胃*も*全部*診て*もらいましょう。" someNumber="None" image="112_021.jpg" lang2="Обследуем сердце, лёгкие, печень, желудок и так далее.">
+      <audioTime in="80370" out="85733" />
+    </line>
+    <line lang1="ー内臓*は*大丈夫*だろう。" someNumber="None" image="112_023.jpg" lang2="- С внутренними органами должно быть в порядке.">
+      <audioTime in="85733" out="88457" />
+    </line>
+    <line lang1="神経*なん*だ*よ、きっと。" someNumber="140" image="112_024.jpg" lang2="Это точно нервы!">
+      <audioTime in="88457" out="93441" />
+    </line>
+  </lines>
+</lesson>

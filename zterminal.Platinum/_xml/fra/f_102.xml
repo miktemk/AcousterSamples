@@ -1,0 +1,86 @@
+<lesson>
+  <header wav="f_102.wav" dic="p102" dlgName="Что такое?" dlgFile="exr\fg101.txt" author="Alexander" />
+  <lines>
+    <line lang1="- J'ai froid." someNumber="None" image="dg\102_001.gif" lang2="- Мне холодно.">
+      <audioTime in="0" out="995" />
+    </line>
+    <line lang1="- Comment?" someNumber="None" image="dg\102_001.gif" lang2="- Что такое?">
+      <audioTime in="995" out="1651" />
+    </line>
+    <line lang1="- Elle dit qu'elle a froid." someNumber="None" image="dg\102_001.gif" lang2="- Она говорит, что ей холодно.">
+      <audioTime in="1651" out="2868" />
+    </line>
+    <line lang1="- J'ai pris froid." someNumber="None" image="dg\102_002.gif" lang2="- Я простыл.">
+      <audioTime in="2868" out="4151" />
+    </line>
+    <line lang1="- Comment?" someNumber="None" image="dg\102_002.gif" lang2="- Что такое?">
+      <audioTime in="4151" out="4667" />
+    </line>
+    <line lang1="- Il dit qu'il a pris froid." someNumber="None" image="dg\102_002.gif" lang2="- Он говорит, что он простыл.">
+      <audioTime in="4667" out="6124" />
+    </line>
+    <line lang1="- J'ai besoin d'un permis de conduire." someNumber="60" image="dg\102_003.gif" lang2="- Мне нужно водительское удостоверение.">
+      <audioTime in="6124" out="7964" />
+    </line>
+    <line lang1="- Comment?" someNumber="60" image="dg\102_003.gif" lang2="- Что такое?">
+      <audioTime in="7964" out="8551" />
+    </line>
+    <line lang1="- Elle dit qu'elle a besoin d'un permis de conduire" someNumber="None" image="dg\102_003.gif" lang2="- Она говорит, что ей нужно водительское удостоверение.">
+      <audioTime in="8551" out="10866" />
+    </line>
+    <line lang1="- Je vendrai cette maison." someNumber="None" image="dg\102_004.gif" lang2="- Я продам этот дом.">
+      <audioTime in="10866" out="12245" />
+    </line>
+    <line lang1="- Comment?" someNumber="None" image="dg\102_004.gif" lang2="- Что такое?">
+      <audioTime in="12245" out="12784" />
+    </line>
+    <line lang1="- Elle dit qu'elle vendra cette maison." someNumber="470" image="dg\102_004.gif" lang2="- Она говорит, что продаст этот дом.">
+      <audioTime in="12784" out="14460" />
+    </line>
+    <line lang1="- J'ai mal aux oreilles." someNumber="None" image="dg\102_005.gif" lang2="- У меня болят уши.">
+      <audioTime in="14460" out="15630" />
+    </line>
+    <line lang1="- Comment?" someNumber="None" image="dg\102_005.gif" lang2="- Что такое?">
+      <audioTime in="15630" out="16118" />
+    </line>
+    <line lang1="- Elle dit qu'elle a mal aux oreilles." someNumber="None" image="dg\102_005.gif" lang2="- Она говорит, что у неё болят уши.">
+      <audioTime in="16118" out="17683" />
+    </line>
+    <line lang1="- Je veux me faire couper les cheveux." someNumber="210" image="dg\102_006.gif" lang2="- Я хочу постричься.">
+      <audioTime in="17683" out="19215" />
+    </line>
+    <line lang1="- Comment?" someNumber="210" image="dg\102_006.gif" lang2="- Что такое?">
+      <audioTime in="19215" out="19972" />
+    </line>
+    <line lang1="- Elle dit qu'elle veut se faire couper les cheveux." someNumber="None" image="dg\102_006.gif" lang2="- Она говорит, что она хочет постричься.">
+      <audioTime in="19972" out="22044" />
+    </line>
+    <line lang1="- Nous devons réparer cette voiture." someNumber="None" image="dg\102_007.gif" lang2="- Мы должны отремонтировать эту автомашину.">
+      <audioTime in="22044" out="24043" />
+    </line>
+    <line lang1="- Comment?" someNumber="None" image="dg\102_007.gif" lang2="- Что такое?">
+      <audioTime in="24043" out="24577" />
+    </line>
+    <line lang1="- Elles disent qu'elles doivent réparer cette voiture." someNumber="200" image="dg\102_007.gif" lang2="- Они говорят, что они должны отремонтировать эту автомашину.">
+      <audioTime in="24577" out="26767" />
+    </line>
+    <line lang1="- J'ai mal à la tête." someNumber="None" image="dg\102_008.gif" lang2="- У меня болит голова.">
+      <audioTime in="26767" out="27876" />
+    </line>
+    <line lang1="- Comment?" someNumber="None" image="dg\102_008.gif" lang2="- Что такое?">
+      <audioTime in="27876" out="28545" />
+    </line>
+    <line lang1="- Elle dit qu'elle a mal à la tête." someNumber="None" image="dg\102_008.gif" lang2="- Она говорит, что у неё болит голова.">
+      <audioTime in="28545" out="28026" />
+    </line>
+    <line lang1="- Nous avons besoin d'argent." someNumber="None" image="dg\102_009.gif" lang2="- Нам нужны деньги.">
+      <audioTime in="28026" out="30091" />
+    </line>
+    <line lang1="- Comment?" someNumber="None" image="dg\102_009.gif" lang2="- Что такое?">
+      <audioTime in="30110" out="32200" />
+    </line>
+    <line lang1="- Ils disent qu'ils ont besoin d'argent." someNumber="None" image="dg\102_009.gif" lang2="- Они говорят, что им нужны деньги.">
+      <audioTime in="32200" out="34107" />
+    </line>
+  </lines>
+</lesson>

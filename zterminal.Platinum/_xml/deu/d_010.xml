@@ -1,0 +1,95 @@
+<lesson>
+  <header wav="d_010.wav" dic="p010" dlgName="Мужчина полный или худой?" dlgFile="exr\dg009.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Ist der Mann dick oder dünn?" someNumber="None" image="dg\010_001.gif" lang2="- Мужчина полный или худой?">
+      <audioTime in="83" out="1925" />
+    </line>
+    <line lang1="- Er #ist nicht dünn." someNumber="None" image="dg\010_001.gif" lang2="- Он не худой.">
+      <audioTime in="2092" out="3934" />
+    </line>
+    <line lang1="Er #ist dick." someNumber="None" image="dg\010_001.gif" lang2="Он полный.">
+      <audioTime in="3934" out="5063" />
+    </line>
+    <line lang1="- #Ist Herrn Braun kalt oder warm?" someNumber="None" image="dg\010_002.gif" lang2="- Господину Брауну холодно или жарко?">
+      <audioTime in="5358" out="8037" />
+    </line>
+    <line lang1="- Ihm #ist nicht kalt." someNumber="950" image="dg\010_002.gif" lang2="- Ему не холодно.">
+      <audioTime in="8204" out="9627" />
+    </line>
+    <line lang1="Ihm #ist warm." someNumber="950" image="dg\010_002.gif" lang2="Ему жарко.">
+      <audioTime in="9795" out="11218" />
+    </line>
+    <line lang1="- #Ist die Stewardess jung oder alt?" someNumber="250" image="dg\010_003.gif" lang2="- Стюардесса молодая или старая?">
+      <audioTime in="11552" out="13897" />
+    </line>
+    <line lang1="- Sie #ist nicht alt." someNumber="None" image="dg\010_003.gif" lang2="- Она не старая.">
+      <audioTime in="14064" out="15191" />
+    </line>
+    <line lang1="Sie #ist jung." someNumber="None" image="dg\010_003.gif" lang2="Она молодая.">
+      <audioTime in="15191" out="16320" />
+    </line>
+    <line lang1="- #Ist die Frau dünn oder dick?" someNumber="310" image="dg\010_004.gif" lang2="- Женщина худая или полная?">
+      <audioTime in="16660" out="18502" />
+    </line>
+    <line lang1="- Sie #ist nicht dick." someNumber="None" image="dg\010_004.gif" lang2="- Она не полная.">
+      <audioTime in="18585" out="19629" />
+    </line>
+    <line lang1="Sie #ist dünn." someNumber="None" image="dg\010_004.gif" lang2="Она худая.">
+      <audioTime in="19629" out="20758" />
+    </line>
+    <line lang1="- #Ist Ihr kalt oder heiß?" someNumber="820" image="dg\010_005.gif" lang2="- Ей холодно или жарко?">
+      <audioTime in="20929" out="23023" />
+    </line>
+    <line lang1="- Ihr #ist nicht heiß." someNumber="None" image="dg\010_005.gif" lang2="- Ей не жарко.">
+      <audioTime in="23106" out="24445" />
+    </line>
+    <line lang1="Ihr #ist kalt." someNumber="None" image="dg\010_005.gif" lang2="Ей холодно.">
+      <audioTime in="24445" out="25574" />
+    </line>
+    <line lang1="- #Ist die Polizistin klein oder groß?" someNumber="150" image="dg\010_006.gif" lang2="- Полицейская низкая или высокая?">
+      <audioTime in="26036" out="28716" />
+    </line>
+    <line lang1="Sie #ist nicht groß." someNumber="None" image="dg\010_006.gif" lang2="Она не высокая.">
+      <audioTime in="28799" out="30222" />
+    </line>
+    <line lang1="- Sie #ist klein." someNumber="None" image="dg\010_006.gif" lang2="- Она низкая.">
+      <audioTime in="30222" out="31729" />
+    </line>
+    <line lang1="- #Ist der Milchhändler alt oder jung?" someNumber="140" image="dg\010_007.gif" lang2="- Продавец молока старый или молодой.">
+      <audioTime in="31729" out="34241" />
+    </line>
+    <line lang1="- Er #ist nicht jung." someNumber="330" image="dg\010_007.gif" lang2="- Он не молодой.">
+      <audioTime in="34241" out="35506" />
+    </line>
+    <line lang1="Er #ist alt." someNumber="330" image="dg\010_007.gif" lang2="Он старый.">
+      <audioTime in="35506" out="37086" />
+    </line>
+    <line lang1="- #Ist der Mechaniker schmutzig oder sauber?" someNumber="None" image="dg\010_008.gif" lang2="- Механик грязный или чистый.">
+      <audioTime in="37757" out="40436" />
+    </line>
+    <line lang1="- Er #ist nicht sauber." someNumber="900" image="dg\010_008.gif" lang2="- Он не чистый.">
+      <audioTime in="40603" out="42149" />
+    </line>
+    <line lang1="Er #ist schmutzig." someNumber="900" image="dg\010_008.gif" lang2="Он грязный.">
+      <audioTime in="42149" out="43458" />
+    </line>
+    <line lang1="- #Ist der Polizist groß oder klein?" someNumber="None" image="dg\010_009.gif" lang2="- Полицейский высокий или низкий?">
+      <audioTime in="43869" out="46464" />
+    </line>
+    <line lang1="- Er #ist nicht klein." someNumber="None" image="dg\010_009.gif" lang2="- Он не низкий.">
+      <audioTime in="46548" out="48138" />
+    </line>
+    <line lang1="Er #ist groß." someNumber="None" image="dg\010_009.gif" lang2="Он высокий.">
+      <audioTime in="48139" out="49267" />
+    </line>
+    <line lang1="- #Ist die Kinderfrau sauber oder schmutzig?" someNumber="None" image="dg\010_010.gif" lang2="- Няня чистая или грязная?">
+      <audioTime in="49896" out="52575" />
+    </line>
+    <line lang1="- Sie #ist nicht schmutzig." someNumber="None" image="dg\010_010.gif" lang2="- Она не грязная.">
+      <audioTime in="52827" out="54333" />
+    </line>
+    <line lang1="Sie #ist sauber." someNumber="None" image="dg\010_010.gif" lang2="Она чистая.">
+      <audioTime in="54333" out="55553" />
+    </line>
+  </lines>
+</lesson>

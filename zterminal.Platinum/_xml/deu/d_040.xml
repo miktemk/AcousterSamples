@@ -1,0 +1,59 @@
+<lesson>
+  <header wav="d_040.wav" dic="p040" dlgName="Что Вы собираетесь?.." dlgFile="exr\dg039.txt" author="Alexander" />
+  <lines>
+    <line lang1="- #Wollen Sie Ihren Hut #aufsetzen?" someNumber="680" image="dg\040_001.gif" lang2="- Вы собираетесь надеть вашу шляпу?">
+      <audioTime in="65" out="2026" />
+    </line>
+    <line lang1="- Ja, ich #will ihn #aufsetzen." someNumber="330" image="dg\040_001.gif" lang2="- Да, я собираюсь надеть её.">
+      <audioTime in="2418" out="4378" />
+    </line>
+    <line lang1="- #Wollen Sie Ihre Schuhe #ausziehen?" someNumber="340" image="dg\040_002.gif" lang2="- Вы собираетесь снять ваши туфли?">
+      <audioTime in="5032" out="7058" />
+    </line>
+    <line lang1="- Ja, ich #will sie #ausziehen." someNumber="490" image="dg\040_002.gif" lang2="- Да, я собираюсь снять их.">
+      <audioTime in="7385" out="9346" />
+    </line>
+    <line lang1="- #Wollen Sie das Licht #anmachen?" someNumber="160" image="dg\040_003.gif" lang2="- Вы собираетесь включить свет?">
+      <audioTime in="9935" out="11633" />
+    </line>
+    <line lang1="- Ja, ich #will es #anmachen." someNumber="None" image="dg\040_003.gif" lang2="- Да, я собираюсь включить его.">
+      <audioTime in="12025" out="13987" />
+    </line>
+    <line lang1="- #Wollen Sie die Wasserhähne #zumachen?" someNumber="None" image="dg\040_004.gif" lang2="- Вы собираетесь закрыть краны?">
+      <audioTime in="14640" out="16862" />
+    </line>
+    <line lang1="- Ja, ich #will sie #zumachen." someNumber="None" image="dg\040_004.gif" lang2="- Да, я собираюсь закрыть их.">
+      <audioTime in="17254" out="19280" />
+    </line>
+    <line lang1="- #Wollen Sie Ihren Anzug #anziehen?" someNumber="340" image="dg\040_005.gif" lang2="- Вы собираетесь одеть ваш костюм?">
+      <audioTime in="19999" out="22091" />
+    </line>
+    <line lang1="- Ja, ich #will ihn #anziehen." someNumber="None" image="dg\040_005.gif" lang2="- Да, я собираюсь одеть его.">
+      <audioTime in="22549" out="24247" />
+    </line>
+    <line lang1="- #Wollen Sie Ihren Hut #absetzen?" someNumber="None" image="dg\040_006.gif" lang2="- Вы собираетесь снять вашу шляпу?">
+      <audioTime in="24771" out="26666" />
+    </line>
+    <line lang1="- Ja, ich #will ihn #absetzen." someNumber="None" image="dg\040_006.gif" lang2="- Да, я собираюсь снять её.">
+      <audioTime in="27058" out="29084" />
+    </line>
+    <line lang1="- #Wollen Sie den Fernseher #ausschalten?" someNumber="190" image="dg\040_007.gif" lang2="- Вы собираетесь выключить телевизор?">
+      <audioTime in="29672" out="31698" />
+    </line>
+    <line lang1="- Ja, ich #will ihn #ausschalten." someNumber="None" image="dg\040_007.gif" lang2="- Да, я собираюсь выключить его.">
+      <audioTime in="32026" out="34117" />
+    </line>
+    <line lang1="- #Wollen Sie das Licht #ausmachen?" someNumber="None" image="dg\040_008.gif" lang2="- Вы собираетесь выключить свет?">
+      <audioTime in="34575" out="36405" />
+    </line>
+    <line lang1="- Ja, ich #will es #ausmachen." someNumber="None" image="dg\040_008.gif" lang2="- Да, я собираюсь выключить его.">
+      <audioTime in="36666" out="38496" />
+    </line>
+    <line lang1="- #Wollen Sie das Radio #ausschalten?" someNumber="None" image="dg\040_009.gif" lang2="- Вы собираетесь выключить радио?">
+      <audioTime in="38692" out="40783" />
+    </line>
+    <line lang1="- Ja, ich #will es #ausschalten." someNumber="None" image="dg\040_009.gif" lang2="- Да, я собираюсь выключить его.">
+      <audioTime in="41241" out="43267" />
+    </line>
+  </lines>
+</lesson>

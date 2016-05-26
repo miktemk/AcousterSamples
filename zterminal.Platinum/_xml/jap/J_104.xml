@@ -1,0 +1,89 @@
+<lesson>
+  <header wav="j_104.wav" dlgName="Мороженое всё уже совсем растаяло!" dic="p104" />
+  <lines>
+    <line lang1="ーアイスクリーム*を*冷蔵庫*に*入れて*おいて*下さい。" someNumber="80" image="104_001.jpg" lang2="- Положи мороженое в холодильник!">
+      <audioTime in="0" out="4393" />
+    </line>
+    <line lang1="ーでも、もう*アイスクリーム*は*全部*溶けて*しまいました。" someNumber="80" image="104_002.jpg" lang2="- Но всё мороженое уже совсем растаяло!">
+      <audioTime in="4393" out="9251" />
+    </line>
+    <line lang1="ー今朝、山手線*で*事故*が*あって、電車*が*止まった*ので、" someNumber="None" image="104_003.jpg" lang2="- Сегодня утром на линии Яманотэ была авария и (наш) поезд прервал движение,">
+      <audioTime in="9251" out="15562" />
+    </line>
+    <line lang1="面接*の*時間*に*遅れて*しまった*ん*だ。" someNumber="None" image="104_004.jpg" lang2="поэтому я окончательно опоздал на собеседование.">
+      <audioTime in="15562" out="18004" />
+    </line>
+    <line lang1="ーあら、また？" someNumber="128" image="104_004.jpg" lang2="- Что ты! Опять?">
+      <audioTime in="18004" out="19671" />
+    </line>
+    <line lang1="ーどうぞ、お入り*下さい。" someNumber="109" image="104_006.jpg" lang2="- Пожалуйста, проходите!">
+      <audioTime in="19671" out="23282" />
+    </line>
+    <line lang1="暖房*を*つけて*おきました*から、暖かい*です*よ。" someNumber="None" image="104_007.jpg" lang2="Я включил отопление, поэтому здесь тепло.">
+      <audioTime in="23282" out="27116" />
+    </line>
+    <line lang1="ーよかった！" someNumber="None" image="104_008.jpg" lang2="- Как хорошо!">
+      <audioTime in="27116" out="29319" />
+    </line>
+    <line lang1="うち*は*ストーブ*が*こわれて*しまった*ん*です。" someNumber="None" image="104_009.jpg" lang2="У меня дома обогреватель окончательно испортился.">
+      <audioTime in="29319" out="32092" />
+    </line>
+    <line lang1="新しい*やつ*を*買わなくて*は*ならない*ん*です。" someNumber="088" image="104_010.jpg" lang2="Надо купить что-то новое!">
+      <audioTime in="32092" out="35369" />
+    </line>
+    <line lang1="ー明日*の*キャンプ*の*用意、全部*して*しまった*の？" someNumber="None" image="104_011.jpg" lang2="- Ты закончил подготовку к завтрашнему походу?">
+      <audioTime in="35369" out="41838" />
+    </line>
+    <line lang1="ーうん、荷物*は*用意した。" someNumber="None" image="104_012.jpg" lang2="- Ага. Вещи сложил.">
+      <audioTime in="41838" out="44073" />
+    </line>
+    <line lang1="ーお弁当*は？" someNumber="None" image="104_013.jpg" lang2="- А коробочку с завтраком?">
+      <audioTime in="44073" out="45582" />
+    </line>
+    <line lang1="ー買ってある。君*の*分*も*買って*おいた*よ。" someNumber="None" image="104_014.jpg" lang2="- Купил. Купил и на твою долю.">
+      <audioTime in="45582" out="48434" />
+    </line>
+    <line lang1="ーねえ、林*君*は*講義*の*とき、寝て*しまった*そう*です*よ。" someNumber="None" image="104_015.jpg" lang2="- Послушай, говорят, что Хаяси-кун заснул во время лекции.">
+      <audioTime in="48434" out="55535" />
+    </line>
+    <line lang1="ー仕方*が*ない*です*よ。" someNumber="None" image="104_016.jpg" lang2="- Ничего не поделаешь!">
+      <audioTime in="55535" out="58309" />
+    </line>
+    <line lang1="林*君*は*アルバイト*が*新聞*配達*なん*です。" someNumber="None" image="104_017.jpg" lang2="Хаяси-кун подрабатывает разносчиком газет.">
+      <audioTime in="58309" out="61967" />
+    </line>
+    <line lang1="朝５時*ごろ*から*配らなくて*は*いけない*ん*です。" someNumber="None" image="104_017.jpg" lang2="Ему ведь необходимо разносить (газеты) с 5 часов утра.">
+      <audioTime in="61967" out="66239" />
+    </line>
+    <line lang1="ー僕*も*来月*から*深夜*の*アルバイト*に*つこう*と*思っています。" someNumber="None" image="104_019.jpg" lang2="- Я тоже собираюсь со следующего месяца приступить к ночной работе.">
+      <audioTime in="66239" out="71174" />
+    </line>
+    <line lang1="それ*で、今*から*それ*に*そなえて、昼間*に*寝て*おく*よう*に*しています。" someNumber="None" image="104_020.jpg" lang2="Поэтому уже сейчас, готовясь к этому, решил ложиться спать днём.">
+      <audioTime in="71185" out="76232" />
+    </line>
+    <line lang1="ー敬子*さん、日光*で*写真*を*たくさん*とりました*か。" someNumber="None" image="104_021.jpg" lang2="- Кэико-сан, Вы много фотографировали в Никко?">
+      <audioTime in="76232" out="83111" />
+    </line>
+    <line lang1="見せて*下さいません*か。" someNumber="None" image="104_022.jpg" lang2="Не покажете ли?">
+      <audioTime in="83111" out="85206" />
+    </line>
+    <line lang1="ーそれ*が、まだ*現像*が*出来上がっていません。" someNumber="163" image="104_022.jpg" lang2="- Это так, но пока не проявила.">
+      <audioTime in="85206" out="89920" />
+    </line>
+    <line lang1="明日*に*は*出来上がる*はず*な*ので、明日*見せましょう。" someNumber="None" image="104_024.jpg" lang2="Будет готово завтра, так что завтра и покажу.">
+      <audioTime in="89920" out="94462" />
+    </line>
+    <line lang1="ー敬子*さん、昨日*の*写真*は*もう*できた*ん*です*か。" someNumber="None" image="104_025.jpg" lang2="- Кэико-сан, вчерашние фотографии уже готовы?">
+      <audioTime in="94462" out="100663" />
+    </line>
+    <line lang1="ーはい。でも、ピント*が*合っていなかった*ので、良く*できなかった*ん*です。" someNumber="None" image="104_026.jpg" lang2="- Да. Но было снято не в фокусе, поэтому получилось плохо.">
+      <audioTime in="100663" out="105790" />
+    </line>
+    <line lang1="全部*すてて*しまいました。" someNumber="None" image="104_027.jpg" lang2="Я всё выбросила!">
+      <audioTime in="105790" out="108074" />
+    </line>
+    <line lang1="ーええっ。" someNumber="128" image="104_028.jpg" lang2="- Что?!">
+      <audioTime in="108074" out="110736" />
+    </line>
+  </lines>
+</lesson>

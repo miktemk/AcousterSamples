@@ -1,0 +1,157 @@
+<config>
+	<song name="All" mp3="">
+		<image src="img/IMG_20120810_093213.jpg" />
+		<image src="img/IMG_20120810_093219.jpg" />
+		<image src="img/IMG_20120810_093231.jpg" />
+		<image src="img/IMG_20120810_093248.jpg" />
+		<image src="img/IMG_20120810_093254.jpg" />
+		<image src="img/IMG_20120810_093323.jpg" />
+		<image src="img/IMG_20120810_093328.jpg" />
+		<image src="img/IMG_20120810_093336.jpg" />
+		<image src="img/IMG_20120810_093343.jpg" />
+		<image src="img/IMG_20120810_093351.jpg" />
+		<image src="img/IMG_20130119_114038.jpg" />
+		<image src="img/IMG_20130119_114050.jpg" />
+		<image src="img/IMG_20130119_114213.jpg" />
+		<image src="img/IMG_20130119_114225.jpg" />
+		<image src="img/IMG_20130119_114236.jpg" />
+		<image src="img/IMG_20130119_114247.jpg" />
+		<image src="img/IMG_20130119_114306.jpg" />
+		<image src="img/IMG_20130119_114349.jpg" />
+		<image src="img/IMG_20130119_114401.jpg" />
+		<image src="img/IMG_20130119_114407.jpg" />
+		<image src="img/IMG_20130119_114438.jpg" />
+		<image src="img/IMG_20130119_114458.jpg" />
+		<image src="img/IMG_20130119_114512.jpg" />
+		<image src="img/IMG_20130119_114533.jpg" />
+		<image src="img/IMG_20130119_114541.jpg" />
+		<image src="img/IMG_20130119_114602.jpg" />
+		<image src="img/IMG_20130119_114611.jpg" />
+		<image src="img/IMG_20130119_114618.jpg" />
+		<image src="img/IMG_20130119_114627.jpg" />
+		<image src="img/IMG_20130119_114635.jpg" />
+		<image src="img/IMG_20130119_114645.jpg" />
+		<image src="img/IMG_20130119_114653.jpg" />
+		<image src="img/IMG_20130119_114702.jpg" />
+		<image src="img/IMG_20130119_114710.jpg" />
+		<image src="img/IMG_20130119_114721.jpg" />
+		<image src="img/IMG_20130119_114728.jpg" />
+		<image src="img/IMG_20130119_114757.jpg" />
+		<image src="img/IMG_20130119_114804.jpg" />
+		<image src="img/IMG_20130119_114813.jpg" />
+		<image src="img/IMG_20130119_114821.jpg" />
+		<image src="img/IMG_20130119_114841.jpg" />
+		<image src="img/IMG_20130119_114851.jpg" />
+		<image src="img/IMG_20130119_114902.jpg" />
+		<image src="img/IMG_20130119_114919.jpg" />
+		<image src="img/IMG_20130119_114934.jpg" />
+		<image src="img/IMG_20130119_114938.jpg" />
+		<image src="img/IMG_20130119_114949.jpg" />
+		<image src="img/IMG_20130119_114957.jpg" />
+		<image src="img/IMG_20130119_115010.jpg" />
+		<image src="img/IMG_20130119_115019.jpg" />
+		<image src="img/IMG_20130119_115034.jpg" />
+		<image src="img/IMG_20130119_115040.jpg" />
+		<image src="img/IMG_20130119_115103.jpg" />
+		<image src="img/IMG_20130119_115117.jpg" />
+		<image src="img/IMG_20130119_115123.jpg" />
+		<image src="img/IMG_20130119_115208.jpg" />
+		<image src="img/IMG_20130119_115217.jpg" />
+		<image src="img/IMG_20130119_115231.jpg" />
+	</song>
+	
+
+	
+	<song name="Alegrias in la" mp3="">
+		<image src="img/IMG_20120810_093213.jpg" />
+		<image src="img/IMG_20120810_093219.jpg" />
+		<image src="img/IMG_20120810_093231.jpg" />
+	</song>
+	<song name="Alegrias in mi Level 0" mp3="">
+		<image src="img/IMG_20120810_093248.jpg" />
+		<image src="img/IMG_20120810_093254.jpg" />
+	</song>
+	<song name="Bulerias III" mp3="mp3/28 Bulerias por arriba.mp3">
+		<image src="img/IMG_20120810_093323.jpg" />
+		<image src="img/IMG_20120810_093328.jpg" />
+		<image src="img/IMG_20120810_093336.jpg" />
+		<image src="img/IMG_20120810_093343.jpg" />
+		<image src="img/IMG_20120810_093351.jpg" />
+	</song>
+	<song name="Solea L4" mp3="">
+		<image src="img/IMG_20130119_114038.jpg" />
+		<image src="img/IMG_20130119_114050.jpg" />
+	</song>
+	<song name="Seguiriyas L4" mp3="">
+		<image src="img/IMG_20130119_114213.jpg" />
+		<image src="img/IMG_20130119_114225.jpg" />
+		<image src="img/IMG_20130119_114236.jpg" />
+		<image src="img/IMG_20130119_114247.jpg" />
+	</song>
+	<song name="Rumba L4" mp3="">
+		<image src="img/IMG_20130119_114306.jpg" />
+		<image src="img/IMG_20130119_114349.jpg" />
+		<image src="img/IMG_20130119_114401.jpg" />
+		<image src="img/IMG_20130119_114407.jpg" />
+	</song>
+	<song name="Solea por bulerias L4" mp3="">
+		<image src="img/IMG_20130119_114438.jpg" />
+		<image src="img/IMG_20130119_114458.jpg" />
+		<image src="img/IMG_20130119_114512.jpg" />
+	</song>
+	<song name="Alegrias L4" mp3="">
+		<image src="img/IMG_20130119_114533.jpg" />
+		<image src="img/IMG_20130119_114541.jpg" />
+	</song>
+	<song name="Solea L5" mp3="">
+		<image src="img/IMG_20130119_114602.jpg" />
+		<image src="img/IMG_20130119_114611.jpg" />
+		<image src="img/IMG_20130119_114618.jpg" />
+		<image src="img/IMG_20130119_114627.jpg" />
+	</song>
+	<song name="Tientos L5" mp3="">
+		<image src="img/IMG_20130119_114635.jpg" />
+		<image src="img/IMG_20130119_114645.jpg" />
+		<image src="img/IMG_20130119_114653.jpg" />
+		<image src="img/IMG_20130119_114702.jpg" />
+		<image src="img/IMG_20130119_114710.jpg" />
+	</song>
+	<song name="Seguiriyas L5" mp3="">
+		<image src="img/IMG_20130119_114721.jpg" />
+		<image src="img/IMG_20130119_114728.jpg" />
+		<image src="img/IMG_20130119_114757.jpg" />
+	</song>
+	<song name="Alegrias L5" mp3="">
+		<image src="img/IMG_20130119_114804.jpg" />
+		<image src="img/IMG_20130119_114813.jpg" />
+		<image src="img/IMG_20130119_114821.jpg" />
+	</song>
+	<song name="Verdiales L5" mp3="">
+		<image src="img/IMG_20130119_114841.jpg" />
+		<image src="img/IMG_20130119_114851.jpg" />
+		<image src="img/IMG_20130119_114902.jpg" />
+		<image src="img/IMG_20130119_114919.jpg" />
+	</song>
+	<song name="Bulerias L5" mp3="">
+		<image src="img/IMG_20130119_114934.jpg" />
+		<image src="img/IMG_20130119_114938.jpg" />
+		<image src="img/IMG_20130119_114949.jpg" />
+		<image src="img/IMG_20130119_114957.jpg" />
+		<image src="img/IMG_20130119_115010.jpg" />
+	</song>
+	<song name="Guajiras L5" mp3="">
+		<image src="img/IMG_20130119_115019.jpg" />
+		<image src="img/IMG_20130119_115034.jpg" />
+		<image src="img/IMG_20130119_115040.jpg" />
+	</song>
+	<song name="Solea L3" mp3="">
+		<image src="img/IMG_20130119_115103.jpg" />
+		<image src="img/IMG_20130119_115117.jpg" />
+		<image src="img/IMG_20130119_115123.jpg" />
+	</song>
+	<song name="Rumba L2" mp3="">
+		<image src="img/IMG_20130119_115208.jpg" />
+		<image src="img/IMG_20130119_115217.jpg" />
+		<image src="img/IMG_20130119_115231.jpg" />
+	</song>
+</config>

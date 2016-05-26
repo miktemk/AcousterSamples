@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="j_070.wav" dlgName="&quot;Пойду и приду &quot;" dic="p070" />
+  <lines>
+    <line lang1="ー日本人*は*人*に*会った*とき*に*は、どんな*あいさつ*を*します*か。" someNumber="153" image="070_001.jpg" lang2="- Как приветствуют (друг друга) японцы при встрече?">
+      <audioTime in="0" out="5993" />
+    </line>
+    <line lang1="ー朝*は「お早よう*ございます」と*言います。" someNumber="160" image="070_002.jpg" lang2="- Утром говорят: &quot;Доброе утро&quot;.">
+      <audioTime in="5993" out="10771" />
+    </line>
+    <line lang1="昼*は「今日*は」と*言います。" someNumber="128" image="070_003.jpg" lang2="Днём говорят: &quot;Добрый день&quot;.">
+      <audioTime in="10771" out="13334" />
+    </line>
+    <line lang1="夕方*は「今晩*は」と*言います。" someNumber="None" image="070_004.jpg" lang2="Вечером говорят: &quot;Добрый вечер&quot;.">
+      <audioTime in="13334" out="16754" />
+    </line>
+    <line lang1="ー家*を*出る*とき*と*家*に*帰った*とき*も*あいさつ*を*します*か。" someNumber="None" image="070_005.jpg" lang2="- Выходя из дома и возвращаясь домой тоже приветствуют?">
+      <audioTime in="16754" out="21665" />
+    </line>
+    <line lang1="ーはい。私*は*毎朝*家*を*出る*とき*に*は、" someNumber="None" image="070_006.jpg" lang2="- Да. Я каждый день, выходя из дома,">
+      <audioTime in="21665" out="28101" />
+    </line>
+    <line lang1="「行って*来ます」か「行って*まいります」と*言います。" someNumber="None" image="070_006.jpg" lang2="говорю: &quot;Пойду и приду&quot; или &quot;Пойду и вернусь&quot;.">
+      <audioTime in="28101" out="32047" />
+    </line>
+    <line lang1="母*は「行って*らっしゃい」と*答えます。" someNumber="None" image="070_008.jpg" lang2="Мама отвечает: &quot;Иди с богом!&quot;">
+      <audioTime in="32047" out="36163" />
+    </line>
+    <line lang1="家*に*帰った*とき*に*は、「ただいま」と*言います。" someNumber="None" image="070_009.jpg" lang2="По возвращении домой говорю: &quot;Вот и я!&quot;">
+      <audioTime in="36163" out="40895" />
+    </line>
+    <line lang1="母*は「お帰りなさい」と*答えます。" someNumber="None" image="070_010.jpg" lang2="Мама отвечает: &quot;С возвращением!&quot;">
+      <audioTime in="40895" out="45426" />
+    </line>
+    <line lang1="ーご飯*を*食べる*とき*も*あいさつ*を*します*か。" someNumber="None" image="070_011.jpg" lang2="- Во время обеда тоже есть специальные слова?">
+      <audioTime in="45426" out="50251" />
+    </line>
+    <line lang1="ーはい。ごちそう*する*人*は「召し上がって*下さい」と*言います。" someNumber="109" image="070_012.jpg" lang2="- Да. Те, кто угощают, говорят: &quot;Угощайтесь, пожалуйста!&quot;">
+      <audioTime in="50251" out="55852" />
+    </line>
+    <line lang1="それ*から*みんな*は「いただきます」と*言って、食べます。" someNumber="None" image="070_013.jpg" lang2="После этого все говорят: &quot;Отведаем!&quot; и начинают есть.">
+      <audioTime in="55852" out="60127" />
+    </line>
+    <line lang1="食べ*終わった*とき「ごちそう*さまでした」と*言います。" someNumber="None" image="070_014.jpg" lang2="Закончив есть, говорят: &quot;Спасибо за угощение!&quot;">
+      <audioTime in="60127" out="64969" />
+    </line>
+    <line lang1="ーお世話*に*なった*人*に*何*と*言います*か。" someNumber="109" image="070_015.jpg" lang2="- Что говорят людям, оказавшим услугу?">
+      <audioTime in="64969" out="68795" />
+    </line>
+    <line lang1="ー「お世話*に*なりました」と*お礼*を*言います。" someNumber="None" image="070_016.jpg" lang2="- В благодарность говорят: &quot;Спасибо за Ваше содействие!&quot;">
+      <audioTime in="68795" out="73432" />
+    </line>
+    <line lang1="―「ごくろう*さまでした」は*どんな*時*に*使います*か。" someNumber="None" image="070_017.jpg" lang2="- А в каком случае говорят: &quot;Благодарю Вас за Ваши хлопоты&quot;?">
+      <audioTime in="73432" out="77641" />
+    </line>
+    <line lang1="―それ*は*何*か*仕事*を*した*人*に*かんしゃ*を*示す*言い方*です。" someNumber="None" image="070_018.jpg" lang2="- Это способ выражения признательности за чей-то труд.">
+      <audioTime in="77641" out="82893" />
+    </line>
+    <line lang1="ーはい、分かりました。ありがとう*ございました。" someNumber="None" image="070_019.jpg" lang2="- Понятно. Большое спасибо.">
+      <audioTime in="82893" out="86835" />
+    </line>
+    <line lang1="ーいいえ。" someNumber="None" image="070_020.jpg" lang2="- Не стоит.">
+      <audioTime in="86835" out="88358" />
+    </line>
+    <line lang1="ロシア語*に*も*日常*の*あいさつ*が*あります*か。" someNumber="None" image="070_020.jpg" lang2="В русском языке тоже есть повседневные приветствия?">
+      <audioTime in="88358" out="92394" />
+    </line>
+    <line lang1="ーあります*よ。" someNumber="None" image="070_022.jpg" lang2="- Конечно есть!">
+      <audioTime in="92394" out="93556" />
+    </line>
+    <line lang1="ーいつか*ロシア語*の*あいさつ*を*教えて*下さいません*か。" someNumber="083" image="070_023.jpg" lang2="- Научите меня когда-нибудь русским приветствиям!">
+      <audioTime in="93486" out="97821" />
+    </line>
+    <line lang1="ーはい。" someNumber="None" image="070_024.jpg" lang2="- Хорошо.">
+      <audioTime in="97821" out="98770" />
+    </line>
+  </lines>
+</lesson>

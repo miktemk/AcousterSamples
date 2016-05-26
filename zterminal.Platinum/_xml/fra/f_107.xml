@@ -1,0 +1,47 @@
+<lesson>
+  <header wav="f_107.wav" dic="p107" dlgName="Вам нравится это платье?" dlgFile="exr\fg107.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Cette robe vous plaît, madame?" someNumber="470" image="dg\107_001.gif" lang2="- Это платье вам нравится, мадам?">
+      <audioTime in="0" out="2090" />
+    </line>
+    <line lang1="- Oui, je l'aime surtout pour la couleur." someNumber="470" image="dg\107_001.gif" lang2="- Да, оно мне нравится, особенно из-за цвета.">
+      <audioTime in="2090" out="4632" />
+    </line>
+    <line lang1="Cette robe est jolie, mais trop petite pour moi." someNumber="None" image="dg\107_001.gif" lang2="Это платье прелестно, но оно слишком мало для меня.">
+      <audioTime in="4632" out="7341" />
+    </line>
+    <line lang1="- Que diriez-vous de cette robe-ci?" someNumber="None" image="dg\107_002.gif" lang2="- Что вы скажете насчёт этого платья?">
+      <audioTime in="7341" out="8960" />
+    </line>
+    <line lang1="- C'est une jolie robe. Elle est belle." someNumber="None" image="dg\107_002.gif" lang2="- Это прелестное платье. Оно красивое.">
+      <audioTime in="8960" out="11288" />
+    </line>
+    <line lang1="- Les jupes courtes sont à la mode maintenant. Voulez-vous essayer?" someNumber="70" image="dg\107_002.gif" lang2="- Короткие юбки в моде сейчас. Хотите ли вы примерить?">
+      <audioTime in="11288" out="14183" />
+    </line>
+    <line lang1="- Bon." someNumber="None" image="dg\107_003.gif" lang2="- Хорошо.">
+      <audioTime in="14183" out="14900" />
+    </line>
+    <line lang1="- J'ai peur que cette robe verte ne soit trop petite pour moi." someNumber="None" image="dg\107_003.gif" lang2="- Я боюсь, что это зелёное платье слишком мало для меня.">
+      <audioTime in="14900" out="18355" />
+    </line>
+    <line lang1="Elle est plus petite que la robe bleue." someNumber="350" image="dg\107_004.gif" lang2="Оно меньше, чем голубое.">
+      <audioTime in="18355" out="20077" />
+    </line>
+    <line lang1="Et la couleur ne me plaît pas." someNumber="None" image="dg\107_004.gif" lang2="И цвет мне не нравится.">
+      <audioTime in="20077" out="21372" />
+    </line>
+    <line lang1="Elle ne me va pas. Je crois que cette robe bleue est plus jolie." someNumber="None" image="dg\107_005.gif" lang2="Оно мне не идёт. Я думаю, что это голубое платье красивее.">
+      <audioTime in="21372" out="24886" />
+    </line>
+    <line lang1="Pouvez-vous me montrer une autre robe bleue?" someNumber="None" image="dg\107_005.gif" lang2="Можете ли вы мне показать другое голубое платье?">
+      <audioTime in="24886" out="26960" />
+    </line>
+    <line lang1="- Je voudrais une robe pareille, mais qui soit de ma taille." someNumber="None" image="dg\107_006.gif" lang2="- Я хотела бы такое же платье, но которое было бы моего размера.">
+      <audioTime in="26960" out="30242" />
+    </line>
+    <line lang1="- Malheureusement, je n'ai pas de robe plus grande que celle-ci. C'est la plus grande robe du magasin." someNumber="None" image="dg\107_006.gif" lang2="- К сожалению, у меня нет платья больше, чем вот это. Это самое большое платье в магазине.">
+      <audioTime in="30242" out="35023" />
+    </line>
+  </lines>
+</lesson>

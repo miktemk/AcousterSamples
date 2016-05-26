@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_092.wav" dic="p092" dlgName="Вчера был..." dlgFile="exr\fg091.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Hier il a plu." someNumber="780" image="dg\092_001.gif" lang2="- Вчера шёл дождь.">
+      <audioTime in="0" out="942" />
+    </line>
+    <line lang1="- Oui, et demain il va encore pleuvoir." someNumber="None" image="dg\092_001.gif" lang2="- Да, и завтра снова будет идти дождь.">
+      <audioTime in="942" out="2868" />
+    </line>
+    <line lang1="- Hier il s'est levé tard." someNumber="None" image="dg\092_002.gif" lang2="- Вчера он встал поздно.">
+      <audioTime in="2868" out="4709" />
+    </line>
+    <line lang1="- Oui, et demain il va encore se lever tard." someNumber="700" image="dg\092_002.gif" lang2="- Да, и завтра он снова встанет поздно.">
+      <audioTime in="4709" out="7390" />
+    </line>
+    <line lang1="- Elle a balayé le plancher." someNumber="None" image="dg\092_003.gif" lang2="- Она подмела пол.">
+      <audioTime in="7390" out="9038" />
+    </line>
+    <line lang1="- Oui, et demain elle va encore balayer le plancher." someNumber="None" image="dg\092_003.gif" lang2="- Да, и завтра она снова будет подметать пол.">
+      <audioTime in="9038" out="11543" />
+    </line>
+    <line lang1="- Hier il a neigé." someNumber="690" image="dg\092_004.gif" lang2="- Вчера шёл снег.">
+      <audioTime in="11543" out="12776" />
+    </line>
+    <line lang1="- Oui, et demain il va encore neiger." someNumber="None" image="dg\092_004.gif" lang2="- Да, и завтра снова будет идти снег.">
+      <audioTime in="12776" out="14918" />
+    </line>
+    <line lang1="- Hier, il a terminé tard son travail." someNumber="None" image="dg\092_005.gif" lang2="- Вчера он закончил поздно свою работу.">
+      <audioTime in="14918" out="17068" />
+    </line>
+    <line lang1="- Oui, et demain il va encore terminer tard son travail." someNumber="None" image="dg\092_005.gif" lang2="- Да, и завтра он снова закончит поздно свою работу.">
+      <audioTime in="17068" out="20361" />
+    </line>
+    <line lang1="- Hier, ils ont réparé sa voiture." someNumber="None" image="dg\092_006.gif" lang2="- Вчера они отремонтировали его машину.">
+      <audioTime in="20361" out="22355" />
+    </line>
+    <line lang1="- Oui, et demain ils vont encore réparer sa voiture." someNumber="None" image="dg\092_006.gif" lang2="- Да, и завтра они снова будут ремонтировать его машину.">
+      <audioTime in="22355" out="25249" />
+    </line>
+    <line lang1="- Hier, elle lui a téléphoné." someNumber="460" image="dg\092_007.gif" lang2="- Вчера она ему позвонила.">
+      <audioTime in="25249" out="27072" />
+    </line>
+    <line lang1="- Oui, et demain elle va encore lui téléphoner." someNumber="None" image="dg\092_007.gif" lang2="- Да, и завтра она ещё ему позвонит.">
+      <audioTime in="27072" out="29718" />
+    </line>
+    <line lang1="- Hier, ils sont allés tard à la maison." someNumber="None" image="dg\092_008.gif" lang2="- Вчера они поехали поздно домой.">
+      <audioTime in="29718" out="31706" />
+    </line>
+    <line lang1="- Oui, et demain ils vont encore aller tard à la maison." someNumber="200" image="dg\092_008.gif" lang2="- Да, и завтра они снова поедут поздно домой.">
+      <audioTime in="31706" out="34829" />
+    </line>
+    <line lang1="- Hier, il s'est rasé." someNumber="None" image="dg\092_009.gif" lang2="- Вчера он побрился.">
+      <audioTime in="34829" out="36569" />
+    </line>
+    <line lang1="- Oui, et demain il va encore se raser." someNumber="None" image="dg\092_009.gif" lang2="- Да, и завтра он будет снова бриться.">
+      <audioTime in="36569" out="39112" />
+    </line>
+    <line lang1="- Il a fixé sa rencontre hier." someNumber="None" image="dg\092_010.gif" lang2="- Он назначил свою встречу вчера.">
+      <audioTime in="39112" out="41329" />
+    </line>
+    <line lang1="- Oui, et demain il va encore fixer sa rencontre." someNumber="None" image="dg\092_010.gif" lang2="- Да, и завтра он снова назначит свою встречу.">
+      <audioTime in="41329" out="43996" />
+    </line>
+  </lines>
+</lesson>

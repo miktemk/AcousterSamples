@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="j_107.wav" dlgName="Происхождение иероглифов" dic="p107" />
+  <lines>
+    <line lang1="ー日本人*が*毎日*使っている*字*は*平仮名、" someNumber="None" image="107_001.jpg" lang2="- Письменные знаки, употребляемые японцами каждый день, это - хирагана,">
+      <audioTime in="0" out="4684" />
+    </line>
+    <line lang1="片仮名*と" someNumber="None" image="107_002.jpg" lang2="катакана">
+      <audioTime in="4742" out="5604" />
+    </line>
+    <line lang1="漢字*です。" someNumber="None" image="107_003.jpg" lang2="и иероглифы.">
+      <audioTime in="5604" out="6592" />
+    </line>
+    <line lang1="仮名*は*言葉*の*音*を*表わします。" someNumber="None" image="107_004.jpg" lang2="Кана выражает звучание слов.">
+      <audioTime in="6592" out="10408" />
+    </line>
+    <line lang1="漢字*は*仮名*と*違って、意味*も*表わします。" someNumber="127" image="107_005.jpg" lang2="Иероглифы, в отличие от каны, выражают также смысл.">
+      <audioTime in="10408" out="15328" />
+    </line>
+    <line lang1="例えば、経済*の「ざい」" someNumber="None" image="107_006.jpg" lang2="Например, иероглифы &quot;дзаи&quot; в слове &quot;кэидзаи&quot;- экономика и">
+      <audioTime in="15328" out="19002" />
+    </line>
+    <line lang1="と*木材*の「ざい」は*音*が*同じです。" someNumber="None" image="107_006.jpg" lang2="&quot;дзаи&quot; в слове &quot;мокудзаи&quot; - лесоматериалы звучат одинаково.">
+      <audioTime in="19002" out="22343" />
+    </line>
+    <line lang1="でも、意味*が*違います。" someNumber="None" image="107_006.jpg" lang2="Но смысл их разный.">
+      <audioTime in="22343" out="24767" />
+    </line>
+    <line lang1="漢字*は*大昔、中国*で*生まれて、" someNumber="None" image="107_009.jpg" lang2="Иероглифы появились в Китае в глубокой древности,">
+      <audioTime in="24767" out="29196" />
+    </line>
+    <line lang1="５世紀*ごろ*日本*に*伝わりました。" someNumber="92" image="107_010.jpg" lang2="и были заимствованы Японией примерно в 5 веке.">
+      <audioTime in="29196" out="31951" />
+    </line>
+    <line lang1="漢字*と*共*に*中国*の*発音*に*ちかい*読み方*も*取り入れました。" someNumber="119" image="107_011.jpg" lang2="Вместе с иероглифами заимствовали также прочтение, близкое к китайскому звучанию.">
+      <audioTime in="31951" out="38104" />
+    </line>
+    <line lang1="これ*は「音読み」と*呼ばれています。" someNumber="95" image="107_011.jpg" lang2="Он называется чтением по &quot;ону&quot;.">
+      <audioTime in="38104" out="41621" />
+    </line>
+    <line lang1="日本式*の*読み方*は「訓読み」と*呼ばれています。" someNumber="None" image="107_011.jpg" lang2="Японский способ прочтения называется чтением по &quot;куну&quot;.">
+      <audioTime in="41621" out="46367" />
+    </line>
+    <line lang1="ーその*ころ*は、漢字*だけ*使われていました*か。" someNumber="95" image="107_014.jpg" lang2="- В то время применялись только иероглифы?">
+      <audioTime in="46367" out="51668" />
+    </line>
+    <line lang1="ーええ。しかし、漢字*を*使っている*の*は*だいたい*男性*でした。" someNumber="None" image="107_015.jpg" lang2="- Да. Однако иероглифы применяли, в основном, мужчины.">
+      <audioTime in="51668" out="57094" />
+    </line>
+    <line lang1="８世紀*の*ころ、平安*時代*の*女性*が*漢字*から*平仮名*を作りました。" someNumber="09" image="107_016.jpg" lang2="Примерно в 8 веке женщины эпохи Хэйан создали хирагану из иероглифов.">
+      <audioTime in="57094" out="63643" />
+    </line>
+    <line lang1="です*から、平仮名*は*女性*の*文字*として*使われました。" someNumber="None" image="107_017.jpg" lang2="Поэтому хирагана применялась в качестве женского письма.">
+      <audioTime in="63643" out="68975" />
+    </line>
+    <line lang1="平安*時代*の*文学*は*平仮名*で*書かれています。" someNumber="07" image="107_017.jpg" lang2="Литература эпохи Хэйан написана хираганой.">
+      <audioTime in="68975" out="73660" />
+    </line>
+    <line lang1="そして*漢字*の*一部分*を*とって、カタカナ*を*作りました。" someNumber="None" image="107_019.jpg" lang2="Катакана была создана из частей иероглифа.">
+      <audioTime in="73660" out="79465" />
+    </line>
+    <line lang1="片仮名*を*作った*の*は*お坊さん*だ*そう*です。" someNumber="None" image="107_019.jpg" lang2="Говорят, что катакану придумали буддистские монахи.">
+      <audioTime in="79465" out="83754" />
+    </line>
+    <line lang1="お経*を*写す*ため*に*片仮名*を*使いました。" someNumber="155" image="107_019.jpg" lang2="Они использовали катакану для переписывания сутр.">
+      <audioTime in="83754" out="87917" />
+    </line>
+    <line lang1="今、片仮名*は*外来語、外国人*の*名前、" someNumber="None" image="107_022.jpg" lang2="Сейчас катакану используют для записи иностранных слов, фамилий иностранцев,">
+      <audioTime in="88210" out="92721" />
+    </line>
+    <line lang1="外国*の*地名*など*を*書く*ため*に*使われています。" someNumber="None" image="107_022.jpg" lang2="иностранных географических названий и так далее.">
+      <audioTime in="92721" out="96361" />
+    </line>
+    <line lang1="現代*の*日本語*の*書き方*は*漢字*かな*混じりです。" someNumber="None" image="107_024.jpg" lang2="Современное японское письмо является смешанным письмом из иероглифов и каны.">
+      <audioTime in="96361" out="102277" />
+    </line>
+  </lines>
+</lesson>

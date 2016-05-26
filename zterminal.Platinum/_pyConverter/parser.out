@@ -1,0 +1,640 @@
+Created by PLY version 3.4 (http://www.dabeaz.com/ply)
+
+Grammar
+
+Rule 0     S' -> whole_fucking_file
+Rule 1     whole_fucking_file -> header entry_list
+Rule 2     header -> cmdDLG EQUALS JUMBLE
+Rule 3     header -> cmdDIC EQUALS JUMBLE
+Rule 4     header -> cmdAUTHOR EQUALS JUMBLE
+Rule 5     header -> cmdICON EQUALS JUMBLE
+Rule 6     header -> cmdP
+Rule 7     header -> cmdE EQUALS JUMBLE
+Rule 8     header -> SLIDE_DIALOG
+Rule 9     header -> WAV_FILENAME
+Rule 10    header -> header header
+Rule 11    entry_list -> cmdSTAR entry cmdSTAR
+Rule 12    entry_list -> cmdSTAR entry entry_list
+Rule 13    entry -> entrySE entryT entryV entryB entryG
+Rule 14    entrySE -> cmdS JUMBLE cmdE JUMBLE
+Rule 15    entrySE -> empty
+Rule 16    entryT -> cmdT JUMBLE
+Rule 17    entryT -> empty
+Rule 18    entryV -> cmdV JUMBLE
+Rule 19    entryV -> empty
+Rule 20    entryB -> cmdB JUMBLE
+Rule 21    entryB -> empty
+Rule 22    entryG -> cmdG JUMBLE
+Rule 23    entryG -> empty
+Rule 24    empty -> <empty>
+
+Terminals, with rules where they appear
+
+EQUALS               : 2 3 4 5 7
+JUMBLE               : 2 3 4 5 7 14 14 16 18 20 22
+SLIDE_DIALOG         : 8
+WAV_FILENAME         : 9
+cmdAUTHOR            : 4
+cmdB                 : 20
+cmdDIC               : 3
+cmdDLG               : 2
+cmdE                 : 7 14
+cmdG                 : 22
+cmdICON              : 5
+cmdP                 : 6
+cmdS                 : 14
+cmdSTAR              : 11 11 12
+cmdT                 : 16
+cmdV                 : 18
+error                : 
+
+Nonterminals, with rules where they appear
+
+empty                : 15 17 19 21 23
+entry                : 11 12
+entryB               : 13
+entryG               : 13
+entrySE              : 13
+entryT               : 13
+entryV               : 13
+entry_list           : 1 12
+header               : 1 10 10
+whole_fucking_file   : 0
+
+Parsing method: LALR
+
+state 0
+
+    (0) S' -> . whole_fucking_file
+    (1) whole_fucking_file -> . header entry_list
+    (2) header -> . cmdDLG EQUALS JUMBLE
+    (3) header -> . cmdDIC EQUALS JUMBLE
+    (4) header -> . cmdAUTHOR EQUALS JUMBLE
+    (5) header -> . cmdICON EQUALS JUMBLE
+    (6) header -> . cmdP
+    (7) header -> . cmdE EQUALS JUMBLE
+    (8) header -> . SLIDE_DIALOG
+    (9) header -> . WAV_FILENAME
+    (10) header -> . header header
+
+    cmdDLG          shift and go to state 4
+    cmdDIC          shift and go to state 7
+    cmdAUTHOR       shift and go to state 1
+    cmdICON         shift and go to state 8
+    cmdP            shift and go to state 5
+    cmdE            shift and go to state 10
+    SLIDE_DIALOG    shift and go to state 3
+    WAV_FILENAME    shift and go to state 2
+
+    header                         shift and go to state 6
+    whole_fucking_file             shift and go to state 9
+
+state 1
+
+    (4) header -> cmdAUTHOR . EQUALS JUMBLE
+
+    EQUALS          shift and go to state 11
+
+
+state 2
+
+    (9) header -> WAV_FILENAME .
+
+    cmdDLG          reduce using rule 9 (header -> WAV_FILENAME .)
+    cmdDIC          reduce using rule 9 (header -> WAV_FILENAME .)
+    cmdAUTHOR       reduce using rule 9 (header -> WAV_FILENAME .)
+    cmdICON         reduce using rule 9 (header -> WAV_FILENAME .)
+    cmdP            reduce using rule 9 (header -> WAV_FILENAME .)
+    cmdE            reduce using rule 9 (header -> WAV_FILENAME .)
+    SLIDE_DIALOG    reduce using rule 9 (header -> WAV_FILENAME .)
+    WAV_FILENAME    reduce using rule 9 (header -> WAV_FILENAME .)
+    cmdSTAR         reduce using rule 9 (header -> WAV_FILENAME .)
+
+
+state 3
+
+    (8) header -> SLIDE_DIALOG .
+
+    cmdDLG          reduce using rule 8 (header -> SLIDE_DIALOG .)
+    cmdDIC          reduce using rule 8 (header -> SLIDE_DIALOG .)
+    cmdAUTHOR       reduce using rule 8 (header -> SLIDE_DIALOG .)
+    cmdICON         reduce using rule 8 (header -> SLIDE_DIALOG .)
+    cmdP            reduce using rule 8 (header -> SLIDE_DIALOG .)
+    cmdE            reduce using rule 8 (header -> SLIDE_DIALOG .)
+    SLIDE_DIALOG    reduce using rule 8 (header -> SLIDE_DIALOG .)
+    WAV_FILENAME    reduce using rule 8 (header -> SLIDE_DIALOG .)
+    cmdSTAR         reduce using rule 8 (header -> SLIDE_DIALOG .)
+
+
+state 4
+
+    (2) header -> cmdDLG . EQUALS JUMBLE
+
+    EQUALS          shift and go to state 12
+
+
+state 5
+
+    (6) header -> cmdP .
+
+    cmdDLG          reduce using rule 6 (header -> cmdP .)
+    cmdDIC          reduce using rule 6 (header -> cmdP .)
+    cmdAUTHOR       reduce using rule 6 (header -> cmdP .)
+    cmdICON         reduce using rule 6 (header -> cmdP .)
+    cmdP            reduce using rule 6 (header -> cmdP .)
+    cmdE            reduce using rule 6 (header -> cmdP .)
+    SLIDE_DIALOG    reduce using rule 6 (header -> cmdP .)
+    WAV_FILENAME    reduce using rule 6 (header -> cmdP .)
+    cmdSTAR         reduce using rule 6 (header -> cmdP .)
+
+
+state 6
+
+    (1) whole_fucking_file -> header . entry_list
+    (10) header -> header . header
+    (11) entry_list -> . cmdSTAR entry cmdSTAR
+    (12) entry_list -> . cmdSTAR entry entry_list
+    (2) header -> . cmdDLG EQUALS JUMBLE
+    (3) header -> . cmdDIC EQUALS JUMBLE
+    (4) header -> . cmdAUTHOR EQUALS JUMBLE
+    (5) header -> . cmdICON EQUALS JUMBLE
+    (6) header -> . cmdP
+    (7) header -> . cmdE EQUALS JUMBLE
+    (8) header -> . SLIDE_DIALOG
+    (9) header -> . WAV_FILENAME
+    (10) header -> . header header
+
+    cmdSTAR         shift and go to state 13
+    cmdDLG          shift and go to state 4
+    cmdDIC          shift and go to state 7
+    cmdAUTHOR       shift and go to state 1
+    cmdICON         shift and go to state 8
+    cmdP            shift and go to state 5
+    cmdE            shift and go to state 10
+    SLIDE_DIALOG    shift and go to state 3
+    WAV_FILENAME    shift and go to state 2
+
+    header                         shift and go to state 14
+    entry_list                     shift and go to state 15
+
+state 7
+
+    (3) header -> cmdDIC . EQUALS JUMBLE
+
+    EQUALS          shift and go to state 16
+
+
+state 8
+
+    (5) header -> cmdICON . EQUALS JUMBLE
+
+    EQUALS          shift and go to state 17
+
+
+state 9
+
+    (0) S' -> whole_fucking_file .
+
+
+
+state 10
+
+    (7) header -> cmdE . EQUALS JUMBLE
+
+    EQUALS          shift and go to state 18
+
+
+state 11
+
+    (4) header -> cmdAUTHOR EQUALS . JUMBLE
+
+    JUMBLE          shift and go to state 19
+
+
+state 12
+
+    (2) header -> cmdDLG EQUALS . JUMBLE
+
+    JUMBLE          shift and go to state 20
+
+
+state 13
+
+    (11) entry_list -> cmdSTAR . entry cmdSTAR
+    (12) entry_list -> cmdSTAR . entry entry_list
+    (13) entry -> . entrySE entryT entryV entryB entryG
+    (14) entrySE -> . cmdS JUMBLE cmdE JUMBLE
+    (15) entrySE -> . empty
+    (24) empty -> .
+
+    cmdS            shift and go to state 24
+    cmdT            reduce using rule 24 (empty -> .)
+    cmdV            reduce using rule 24 (empty -> .)
+    cmdB            reduce using rule 24 (empty -> .)
+    cmdG            reduce using rule 24 (empty -> .)
+    cmdSTAR         reduce using rule 24 (empty -> .)
+
+    entrySE                        shift and go to state 22
+    entry                          shift and go to state 23
+    empty                          shift and go to state 21
+
+state 14
+
+    (10) header -> header header .
+    (10) header -> header . header
+    (2) header -> . cmdDLG EQUALS JUMBLE
+    (3) header -> . cmdDIC EQUALS JUMBLE
+    (4) header -> . cmdAUTHOR EQUALS JUMBLE
+    (5) header -> . cmdICON EQUALS JUMBLE
+    (6) header -> . cmdP
+    (7) header -> . cmdE EQUALS JUMBLE
+    (8) header -> . SLIDE_DIALOG
+    (9) header -> . WAV_FILENAME
+    (10) header -> . header header
+
+  ! shift/reduce conflict for cmdDLG resolved as shift
+  ! shift/reduce conflict for cmdDIC resolved as shift
+  ! shift/reduce conflict for cmdAUTHOR resolved as shift
+  ! shift/reduce conflict for cmdICON resolved as shift
+  ! shift/reduce conflict for cmdP resolved as shift
+  ! shift/reduce conflict for cmdE resolved as shift
+  ! shift/reduce conflict for SLIDE_DIALOG resolved as shift
+  ! shift/reduce conflict for WAV_FILENAME resolved as shift
+    cmdSTAR         reduce using rule 10 (header -> header header .)
+    cmdDLG          shift and go to state 4
+    cmdDIC          shift and go to state 7
+    cmdAUTHOR       shift and go to state 1
+    cmdICON         shift and go to state 8
+    cmdP            shift and go to state 5
+    cmdE            shift and go to state 10
+    SLIDE_DIALOG    shift and go to state 3
+    WAV_FILENAME    shift and go to state 2
+
+  ! cmdDLG          [ reduce using rule 10 (header -> header header .) ]
+  ! cmdDIC          [ reduce using rule 10 (header -> header header .) ]
+  ! cmdAUTHOR       [ reduce using rule 10 (header -> header header .) ]
+  ! cmdICON         [ reduce using rule 10 (header -> header header .) ]
+  ! cmdP            [ reduce using rule 10 (header -> header header .) ]
+  ! cmdE            [ reduce using rule 10 (header -> header header .) ]
+  ! SLIDE_DIALOG    [ reduce using rule 10 (header -> header header .) ]
+  ! WAV_FILENAME    [ reduce using rule 10 (header -> header header .) ]
+
+    header                         shift and go to state 14
+
+state 15
+
+    (1) whole_fucking_file -> header entry_list .
+
+    $end            reduce using rule 1 (whole_fucking_file -> header entry_list .)
+
+
+state 16
+
+    (3) header -> cmdDIC EQUALS . JUMBLE
+
+    JUMBLE          shift and go to state 25
+
+
+state 17
+
+    (5) header -> cmdICON EQUALS . JUMBLE
+
+    JUMBLE          shift and go to state 26
+
+
+state 18
+
+    (7) header -> cmdE EQUALS . JUMBLE
+
+    JUMBLE          shift and go to state 27
+
+
+state 19
+
+    (4) header -> cmdAUTHOR EQUALS JUMBLE .
+
+    cmdDLG          reduce using rule 4 (header -> cmdAUTHOR EQUALS JUMBLE .)
+    cmdDIC          reduce using rule 4 (header -> cmdAUTHOR EQUALS JUMBLE .)
+    cmdAUTHOR       reduce using rule 4 (header -> cmdAUTHOR EQUALS JUMBLE .)
+    cmdICON         reduce using rule 4 (header -> cmdAUTHOR EQUALS JUMBLE .)
+    cmdP            reduce using rule 4 (header -> cmdAUTHOR EQUALS JUMBLE .)
+    cmdE            reduce using rule 4 (header -> cmdAUTHOR EQUALS JUMBLE .)
+    SLIDE_DIALOG    reduce using rule 4 (header -> cmdAUTHOR EQUALS JUMBLE .)
+    WAV_FILENAME    reduce using rule 4 (header -> cmdAUTHOR EQUALS JUMBLE .)
+    cmdSTAR         reduce using rule 4 (header -> cmdAUTHOR EQUALS JUMBLE .)
+
+
+state 20
+
+    (2) header -> cmdDLG EQUALS JUMBLE .
+
+    cmdDLG          reduce using rule 2 (header -> cmdDLG EQUALS JUMBLE .)
+    cmdDIC          reduce using rule 2 (header -> cmdDLG EQUALS JUMBLE .)
+    cmdAUTHOR       reduce using rule 2 (header -> cmdDLG EQUALS JUMBLE .)
+    cmdICON         reduce using rule 2 (header -> cmdDLG EQUALS JUMBLE .)
+    cmdP            reduce using rule 2 (header -> cmdDLG EQUALS JUMBLE .)
+    cmdE            reduce using rule 2 (header -> cmdDLG EQUALS JUMBLE .)
+    SLIDE_DIALOG    reduce using rule 2 (header -> cmdDLG EQUALS JUMBLE .)
+    WAV_FILENAME    reduce using rule 2 (header -> cmdDLG EQUALS JUMBLE .)
+    cmdSTAR         reduce using rule 2 (header -> cmdDLG EQUALS JUMBLE .)
+
+
+state 21
+
+    (15) entrySE -> empty .
+
+    cmdT            reduce using rule 15 (entrySE -> empty .)
+    cmdV            reduce using rule 15 (entrySE -> empty .)
+    cmdB            reduce using rule 15 (entrySE -> empty .)
+    cmdG            reduce using rule 15 (entrySE -> empty .)
+    cmdSTAR         reduce using rule 15 (entrySE -> empty .)
+
+
+state 22
+
+    (13) entry -> entrySE . entryT entryV entryB entryG
+    (16) entryT -> . cmdT JUMBLE
+    (17) entryT -> . empty
+    (24) empty -> .
+
+    cmdT            shift and go to state 29
+    cmdV            reduce using rule 24 (empty -> .)
+    cmdB            reduce using rule 24 (empty -> .)
+    cmdG            reduce using rule 24 (empty -> .)
+    cmdSTAR         reduce using rule 24 (empty -> .)
+
+    entryT                         shift and go to state 28
+    empty                          shift and go to state 30
+
+state 23
+
+    (11) entry_list -> cmdSTAR entry . cmdSTAR
+    (12) entry_list -> cmdSTAR entry . entry_list
+    (11) entry_list -> . cmdSTAR entry cmdSTAR
+    (12) entry_list -> . cmdSTAR entry entry_list
+
+    cmdSTAR         shift and go to state 32
+
+    entry_list                     shift and go to state 31
+
+state 24
+
+    (14) entrySE -> cmdS . JUMBLE cmdE JUMBLE
+
+    JUMBLE          shift and go to state 33
+
+
+state 25
+
+    (3) header -> cmdDIC EQUALS JUMBLE .
+
+    cmdDLG          reduce using rule 3 (header -> cmdDIC EQUALS JUMBLE .)
+    cmdDIC          reduce using rule 3 (header -> cmdDIC EQUALS JUMBLE .)
+    cmdAUTHOR       reduce using rule 3 (header -> cmdDIC EQUALS JUMBLE .)
+    cmdICON         reduce using rule 3 (header -> cmdDIC EQUALS JUMBLE .)
+    cmdP            reduce using rule 3 (header -> cmdDIC EQUALS JUMBLE .)
+    cmdE            reduce using rule 3 (header -> cmdDIC EQUALS JUMBLE .)
+    SLIDE_DIALOG    reduce using rule 3 (header -> cmdDIC EQUALS JUMBLE .)
+    WAV_FILENAME    reduce using rule 3 (header -> cmdDIC EQUALS JUMBLE .)
+    cmdSTAR         reduce using rule 3 (header -> cmdDIC EQUALS JUMBLE .)
+
+
+state 26
+
+    (5) header -> cmdICON EQUALS JUMBLE .
+
+    cmdDLG          reduce using rule 5 (header -> cmdICON EQUALS JUMBLE .)
+    cmdDIC          reduce using rule 5 (header -> cmdICON EQUALS JUMBLE .)
+    cmdAUTHOR       reduce using rule 5 (header -> cmdICON EQUALS JUMBLE .)
+    cmdICON         reduce using rule 5 (header -> cmdICON EQUALS JUMBLE .)
+    cmdP            reduce using rule 5 (header -> cmdICON EQUALS JUMBLE .)
+    cmdE            reduce using rule 5 (header -> cmdICON EQUALS JUMBLE .)
+    SLIDE_DIALOG    reduce using rule 5 (header -> cmdICON EQUALS JUMBLE .)
+    WAV_FILENAME    reduce using rule 5 (header -> cmdICON EQUALS JUMBLE .)
+    cmdSTAR         reduce using rule 5 (header -> cmdICON EQUALS JUMBLE .)
+
+
+state 27
+
+    (7) header -> cmdE EQUALS JUMBLE .
+
+    cmdDLG          reduce using rule 7 (header -> cmdE EQUALS JUMBLE .)
+    cmdDIC          reduce using rule 7 (header -> cmdE EQUALS JUMBLE .)
+    cmdAUTHOR       reduce using rule 7 (header -> cmdE EQUALS JUMBLE .)
+    cmdICON         reduce using rule 7 (header -> cmdE EQUALS JUMBLE .)
+    cmdP            reduce using rule 7 (header -> cmdE EQUALS JUMBLE .)
+    cmdE            reduce using rule 7 (header -> cmdE EQUALS JUMBLE .)
+    SLIDE_DIALOG    reduce using rule 7 (header -> cmdE EQUALS JUMBLE .)
+    WAV_FILENAME    reduce using rule 7 (header -> cmdE EQUALS JUMBLE .)
+    cmdSTAR         reduce using rule 7 (header -> cmdE EQUALS JUMBLE .)
+
+
+state 28
+
+    (13) entry -> entrySE entryT . entryV entryB entryG
+    (18) entryV -> . cmdV JUMBLE
+    (19) entryV -> . empty
+    (24) empty -> .
+
+    cmdV            shift and go to state 35
+    cmdB            reduce using rule 24 (empty -> .)
+    cmdG            reduce using rule 24 (empty -> .)
+    cmdSTAR         reduce using rule 24 (empty -> .)
+
+    entryV                         shift and go to state 34
+    empty                          shift and go to state 36
+
+state 29
+
+    (16) entryT -> cmdT . JUMBLE
+
+    JUMBLE          shift and go to state 37
+
+
+state 30
+
+    (17) entryT -> empty .
+
+    cmdV            reduce using rule 17 (entryT -> empty .)
+    cmdB            reduce using rule 17 (entryT -> empty .)
+    cmdG            reduce using rule 17 (entryT -> empty .)
+    cmdSTAR         reduce using rule 17 (entryT -> empty .)
+
+
+state 31
+
+    (12) entry_list -> cmdSTAR entry entry_list .
+
+    $end            reduce using rule 12 (entry_list -> cmdSTAR entry entry_list .)
+
+
+state 32
+
+    (11) entry_list -> cmdSTAR entry cmdSTAR .
+    (11) entry_list -> cmdSTAR . entry cmdSTAR
+    (12) entry_list -> cmdSTAR . entry entry_list
+    (13) entry -> . entrySE entryT entryV entryB entryG
+    (14) entrySE -> . cmdS JUMBLE cmdE JUMBLE
+    (15) entrySE -> . empty
+    (24) empty -> .
+
+    $end            reduce using rule 11 (entry_list -> cmdSTAR entry cmdSTAR .)
+    cmdS            shift and go to state 24
+    cmdT            reduce using rule 24 (empty -> .)
+    cmdV            reduce using rule 24 (empty -> .)
+    cmdB            reduce using rule 24 (empty -> .)
+    cmdG            reduce using rule 24 (empty -> .)
+    cmdSTAR         reduce using rule 24 (empty -> .)
+
+    entrySE                        shift and go to state 22
+    entry                          shift and go to state 23
+    empty                          shift and go to state 21
+
+state 33
+
+    (14) entrySE -> cmdS JUMBLE . cmdE JUMBLE
+
+    cmdE            shift and go to state 38
+
+
+state 34
+
+    (13) entry -> entrySE entryT entryV . entryB entryG
+    (20) entryB -> . cmdB JUMBLE
+    (21) entryB -> . empty
+    (24) empty -> .
+
+    cmdB            shift and go to state 41
+    cmdG            reduce using rule 24 (empty -> .)
+    cmdSTAR         reduce using rule 24 (empty -> .)
+
+    entryB                         shift and go to state 39
+    empty                          shift and go to state 40
+
+state 35
+
+    (18) entryV -> cmdV . JUMBLE
+
+    JUMBLE          shift and go to state 42
+
+
+state 36
+
+    (19) entryV -> empty .
+
+    cmdB            reduce using rule 19 (entryV -> empty .)
+    cmdG            reduce using rule 19 (entryV -> empty .)
+    cmdSTAR         reduce using rule 19 (entryV -> empty .)
+
+
+state 37
+
+    (16) entryT -> cmdT JUMBLE .
+
+    cmdV            reduce using rule 16 (entryT -> cmdT JUMBLE .)
+    cmdB            reduce using rule 16 (entryT -> cmdT JUMBLE .)
+    cmdG            reduce using rule 16 (entryT -> cmdT JUMBLE .)
+    cmdSTAR         reduce using rule 16 (entryT -> cmdT JUMBLE .)
+
+
+state 38
+
+    (14) entrySE -> cmdS JUMBLE cmdE . JUMBLE
+
+    JUMBLE          shift and go to state 43
+
+
+state 39
+
+    (13) entry -> entrySE entryT entryV entryB . entryG
+    (22) entryG -> . cmdG JUMBLE
+    (23) entryG -> . empty
+    (24) empty -> .
+
+    cmdG            shift and go to state 45
+    cmdSTAR         reduce using rule 24 (empty -> .)
+
+    entryG                         shift and go to state 44
+    empty                          shift and go to state 46
+
+state 40
+
+    (21) entryB -> empty .
+
+    cmdG            reduce using rule 21 (entryB -> empty .)
+    cmdSTAR         reduce using rule 21 (entryB -> empty .)
+
+
+state 41
+
+    (20) entryB -> cmdB . JUMBLE
+
+    JUMBLE          shift and go to state 47
+
+
+state 42
+
+    (18) entryV -> cmdV JUMBLE .
+
+    cmdB            reduce using rule 18 (entryV -> cmdV JUMBLE .)
+    cmdG            reduce using rule 18 (entryV -> cmdV JUMBLE .)
+    cmdSTAR         reduce using rule 18 (entryV -> cmdV JUMBLE .)
+
+
+state 43
+
+    (14) entrySE -> cmdS JUMBLE cmdE JUMBLE .
+
+    cmdT            reduce using rule 14 (entrySE -> cmdS JUMBLE cmdE JUMBLE .)
+    cmdV            reduce using rule 14 (entrySE -> cmdS JUMBLE cmdE JUMBLE .)
+    cmdB            reduce using rule 14 (entrySE -> cmdS JUMBLE cmdE JUMBLE .)
+    cmdG            reduce using rule 14 (entrySE -> cmdS JUMBLE cmdE JUMBLE .)
+    cmdSTAR         reduce using rule 14 (entrySE -> cmdS JUMBLE cmdE JUMBLE .)
+
+
+state 44
+
+    (13) entry -> entrySE entryT entryV entryB entryG .
+
+    cmdSTAR         reduce using rule 13 (entry -> entrySE entryT entryV entryB entryG .)
+
+
+state 45
+
+    (22) entryG -> cmdG . JUMBLE
+
+    JUMBLE          shift and go to state 48
+
+
+state 46
+
+    (23) entryG -> empty .
+
+    cmdSTAR         reduce using rule 23 (entryG -> empty .)
+
+
+state 47
+
+    (20) entryB -> cmdB JUMBLE .
+
+    cmdG            reduce using rule 20 (entryB -> cmdB JUMBLE .)
+    cmdSTAR         reduce using rule 20 (entryB -> cmdB JUMBLE .)
+
+
+state 48
+
+    (22) entryG -> cmdG JUMBLE .
+
+    cmdSTAR         reduce using rule 22 (entryG -> cmdG JUMBLE .)
+
+WARNING: 
+WARNING: Conflicts:
+WARNING: 
+WARNING: shift/reduce conflict for cmdDLG in state 14 resolved as shift
+WARNING: shift/reduce conflict for cmdDIC in state 14 resolved as shift
+WARNING: shift/reduce conflict for cmdAUTHOR in state 14 resolved as shift
+WARNING: shift/reduce conflict for cmdICON in state 14 resolved as shift
+WARNING: shift/reduce conflict for cmdP in state 14 resolved as shift
+WARNING: shift/reduce conflict for cmdE in state 14 resolved as shift
+WARNING: shift/reduce conflict for SLIDE_DIALOG in state 14 resolved as shift
+WARNING: shift/reduce conflict for WAV_FILENAME in state 14 resolved as shift

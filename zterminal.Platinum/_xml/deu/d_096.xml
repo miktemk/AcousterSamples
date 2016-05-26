@@ -1,0 +1,77 @@
+<lesson>
+  <header wav="d_096.wav" dic="p096" dlgName="Я ездил в... А как Вы?" dlgFile="exr\dg095.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Ich #bin nach Accra vor einem Jahr #gefahren." someNumber="580" image="dg\096_001.gif" lang2="- Я ездил в Аккру год тому назад.">
+      <audioTime in="885" out="4205" />
+    </line>
+    <line lang1="Und Sie?" someNumber="580" image="dg\096_001.gif" lang2="А Вы?">
+      <audioTime in="4205" out="5334" />
+    </line>
+    <line lang1="- Ich #fahre nach Accra in einem Jahr." someNumber="550" image="dg\096_001.gif" lang2="- Я поеду в Аккру через год.">
+      <audioTime in="5423" out="7746" />
+    </line>
+    <line lang1="- Peter #ist nach Stockholm vor zwei Wochen #geflogen." someNumber="None" image="dg\096_002.gif" lang2="- Петер улетел в Стокгольм две недели назад.">
+      <audioTime in="7858" out="10735" />
+    </line>
+    <line lang1="Und Monika?" someNumber="None" image="dg\096_002.gif" lang2="А Моника?">
+      <audioTime in="10846" out="12063" />
+    </line>
+    <line lang1="- Sie #wird nach Stockholm in zwei Wochen #fliegen." someNumber="600" image="dg\096_002.gif" lang2="- Она полетит в Стокгольм через две недели.">
+      <audioTime in="12395" out="14940" />
+    </line>
+    <line lang1="- Frank und Alan #sind nach Tokio vor zwei Tagen #zurückgefahren." someNumber="410" image="dg\096_003.gif" lang2="- Фрэнк и Алан возвратились в Токио два дня тому назад.">
+      <audioTime in="15161" out="19368" />
+    </line>
+    <line lang1="Und Sie und Alice?" someNumber="410" image="dg\096_003.gif" lang2="А Вы и Алис?">
+      <audioTime in="19589" out="21802" />
+    </line>
+    <line lang1="- Wir #werden in zwei Tagen nach Tokio #zurückfahren." someNumber="600" image="dg\096_003.gif" lang2="- Мы возвратимся в Токио через два дня.">
+      <audioTime in="22024" out="25122" />
+    </line>
+    <line lang1="- Wir #sind nach Paris vor einem Monat #gefahren." someNumber="None" image="dg\096_009.gif" lang2="- Мы ездили в Париж месяц назад.">
+      <audioTime in="25233" out="28664" />
+    </line>
+    <line lang1="Und Sie?" someNumber="None" image="dg\096_009.gif" lang2="А вы?">
+      <audioTime in="28664" out="30214" />
+    </line>
+    <line lang1="- Sie #werden nach Paris in einem Monat #fahren." someNumber="900" image="dg\096_009.gif" lang2="- Вы поедете в Париж через месяц.">
+      <audioTime in="30546" out="33091" />
+    </line>
+    <line lang1="- Der Zug #ist nach Genf vor einer Stunde #abgefahren." someNumber="None" image="dg\096_005.gif" lang2="- Поезд отправился в Женеву час тому назад.">
+      <audioTime in="33423" out="37186" />
+    </line>
+    <line lang1="Und wann #wird der nächste Zug #fahren?" someNumber="600" image="dg\096_005.gif" lang2="А когда отправится следующий поезд?">
+      <audioTime in="37186" out="40285" />
+    </line>
+    <line lang1="- Er #wird in einer Stunde nach Genf #abfahren." someNumber="None" image="dg\096_005.gif" lang2="- Он отправляется в Женеву через час.">
+      <audioTime in="40506" out="43273" />
+    </line>
+    <line lang1="- Alice #ist nach Teheran vor zwei Tagen #geflogen." someNumber="190" image="dg\096_006.gif" lang2="- Алиса улетела в Тегеран два дня назад.">
+      <audioTime in="43605" out="47258" />
+    </line>
+    <line lang1="Und Sie?" someNumber="190" image="dg\096_006.gif" lang2="А вы?">
+      <audioTime in="47258" out="48387" />
+    </line>
+    <line lang1="- Ich #werde nach Teheran in zwei Tagen #fliegen." someNumber="None" image="dg\096_006.gif" lang2="- Я вылечу в Тегеран через два дня.">
+      <audioTime in="48696" out="51463" />
+    </line>
+    <line lang1="- Georg und Ilse #sind nach London vor einer Stunde #gefahren." someNumber="770" image="dg\096_007.gif" lang2="- Георг и Ильзе уехали в Лондон час тому назад.">
+      <audioTime in="51574" out="56222" />
+    </line>
+    <line lang1="Und Sie und Petra?" someNumber="770" image="dg\096_007.gif" lang2="А Вы и Петра?">
+      <audioTime in="56776" out="58989" />
+    </line>
+    <line lang1="- Wir #werden nach London in einer Stunde #fliegen." someNumber="None" image="dg\096_007.gif" lang2="- Мы полетим в Лондон через час.">
+      <audioTime in="59099" out="62199" />
+    </line>
+    <line lang1="- Das Flugzeug #ist nach Berlin vor drei Stunden #abgeflogen." someNumber="160" image="dg\096_008.gif" lang2="- Самолёт вылетел в Берлин три часа назад.">
+      <audioTime in="62309" out="66958" />
+    </line>
+    <line lang1="Und wann #wird das nächste Flugzeug #abfliegen?" someNumber="None" image="dg\096_008.gif" lang2="А когда вылетает следующий самолёт?">
+      <audioTime in="67179" out="70278" />
+    </line>
+    <line lang1="- Es #wird in drei Stunden nach Berlin #fliegen." someNumber="450" image="dg\096_008.gif" lang2="- Он вылетит в Берлин через три часа.">
+      <audioTime in="70388" out="73266" />
+    </line>
+  </lines>
+</lesson>

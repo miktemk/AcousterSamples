@@ -1,0 +1,107 @@
+<lesson>
+  <header wav="j_099.wav" dlgName="Прогноз погоды" dic="p099" />
+  <lines>
+    <line lang1="―お早う*ございます。天気*予報*です。" someNumber="174" image="099_001.jpg" lang2="- Доброе утро! Передаем прогноз погоды.">
+      <audioTime in="0" out="3632" />
+    </line>
+    <line lang1="今日*は*台風*５号*の*えいきょう*で" someNumber="None" image="099_002.jpg" lang2="Сегодня под влиянием тайфуна номер 5">
+      <audioTime in="3632" out="6830" />
+    </line>
+    <line lang1="四国*を*中心*として*西*日本*の*各地*に*大雨*が*降る*みこみ*です。" someNumber="127" image="099_003.jpg" lang2="повсеместно в западной Японии, и, преимущественно на Сикоку, ожидаются ливневые дожди.">
+      <audioTime in="6830" out="11814" />
+    </line>
+    <line lang1="今夜*に*かけて*は*関東*中部*から*東北*に*かけて*雨*が*降り*やすくて、" someNumber="167" image="099_003.jpg" lang2="До сегодняшней ночи от районов Канто, Тюгоку до района Тохоку вероятность дождя высока,">
+      <audioTime in="11947" out="18019" />
+    </line>
+    <line lang1="北海道*は*はげしい*雨*が*降る*でしょう。" someNumber="105" image="099_005.jpg" lang2="на Хоккайдо ожидается сильный дождь.">
+      <audioTime in="18019" out="21218" />
+    </line>
+    <line lang1="雲*の*様子*です。" someNumber="None" image="099_006.jpg" lang2="(Сообщаем) о состоянии облаков.">
+      <audioTime in="21218" out="23342" />
+    </line>
+    <line lang1="南*から*入り込んだ*雲*は*次々*と*北*の*方*へ*発達する*でしょう。" someNumber="163" image="099_007.jpg" lang2="Облака, проникшие с юга, постепенно продвигаются на север.">
+      <audioTime in="23342" out="28753" />
+    </line>
+    <line lang1="雨*の*様子*です。" someNumber="None" image="099_007.jpg" lang2="(Сообщаем) о положении дел с дождем.">
+      <audioTime in="28753" out="31621" />
+    </line>
+    <line lang1="昨日*は*全国的*に*雨*の*多い*日*でした。" someNumber="143" image="099_009.jpg" lang2="Вчера по всей стране был дождливый день.">
+      <audioTime in="31621" out="34995" />
+    </line>
+    <line lang1="特*に*四国*で*２００*ミリ、" someNumber="None" image="099_009.jpg" lang2="В частности, на Сикоку выпало 200 мм,">
+      <audioTime in="35045" out="37247" />
+    </line>
+    <line lang1="北海道*で*１５０ミリ*の*雨*が*降って、" someNumber="None" image="099_011.jpg" lang2="на Хоккайдо - 150 мм,">
+      <audioTime in="37247" out="39815" />
+    </line>
+    <line lang1="今日*も*はげしい*雨*の*おそれ*が*あります。" someNumber="None" image="099_012.jpg" lang2="и сегодня тоже существует опасность сильного дождя.">
+      <audioTime in="39815" out="42271" />
+    </line>
+    <line lang1="よそう*最高*気温*です。" someNumber="None" image="099_013.jpg" lang2="О предполагаемой максимальной температуре.">
+      <audioTime in="42271" out="45028" />
+    </line>
+    <line lang1="昨日*と*比べる*と*中部*地方*から*北海道*に*かけて" someNumber="127" image="099_013.jpg" lang2="По сравнению со вчерашним днём от района Тюбу до Хоккайдо">
+      <audioTime in="45028" out="49728" />
+    </line>
+    <line lang1="最高*気温*は*２度*ひくく*なり*そう*です。" someNumber="None" image="099_015.jpg" lang2="максимальная температура опустится на 2 градуса.">
+      <audioTime in="49728" out="52500" />
+    </line>
+    <line lang1="今日*の*各地*の*天気*予報*と*最高*気温*です。" someNumber="None" image="099_016.jpg" lang2="Передаем прогноз погоды и максимальную температуру на сегодня в каждом районе.">
+      <audioTime in="52500" out="56505" />
+    </line>
+    <line lang1="北海道*は*曇り*時々*雨、さっぽろ*は*２６度*でしょう。" someNumber="None" image="099_017.jpg" lang2="На Хоккайдо будет пасмурно, временами дождь, в Саппоро 260 С.">
+      <audioTime in="56505" out="62310" />
+    </line>
+    <line lang1="東北・北*関東*地方*は*曇り*のち*晴れ、仙台*は*２８度*でしょう。" someNumber="126" image="099_018.jpg" lang2="В районе Тохоку и северном Канто будет пасмурно, затем ясно, в Сэндае 280 С.">
+      <audioTime in="62623" out="69028" />
+    </line>
+    <line lang1="東海・南*関東*地方*は*晴れ*時々*曇り、東京*は*３１度*でしょう。" someNumber="None" image="099_019.jpg" lang2="В районе Токаи и южном Канто - ясно, временами пасмурно, в Токио 310 С.">
+      <audioTime in="69028" out="76681" />
+    </line>
+    <line lang1="中部・きんき*地方*は*晴れ*のち*曇り、京都*は*３３度*でしょう。" someNumber="None" image="099_020.jpg" lang2="В районах Тюбу, Кинки - ясно, временами пасмурно, в Киото 330 С.">
+      <audioTime in="76681" out="83262" />
+    </line>
+    <line lang1="中国・四国*地方*そして*九州*は*曇り*のち*雨*で*かご*島*は*３２度*でしょう。" someNumber="None" image="099_021.jpg" lang2="В районах Тюгоку и Сикоку, а также на Кюсю - пасмурно, затем ясно, в Кагосиме 320 С.">
+      <audioTime in="83262" out="89920" />
+    </line>
+    <line lang1="関東*地方*の*天気*予報*です。" someNumber="None" image="099_022.jpg" lang2="Прогноз погоды района Канто.">
+      <audioTime in="89920" out="93356" />
+    </line>
+    <line lang1="今日*は*東京、横浜、浦和、千葉*は*雲*が*少なくて" someNumber="167" image="099_022.jpg" lang2="Сегодня в городах Токио, Йокогама, Урава, Тиба небольшая облачность,">
+      <audioTime in="93356" out="100158" />
+    </line>
+    <line lang1="青空*が*広がる*でしょう。" someNumber="None" image="099_024.jpg" lang2="ожидается ясное небо.">
+      <audioTime in="100158" out="101953" />
+    </line>
+    <line lang1="関東*地方*の*週間*予報*です。" someNumber="None" image="099_024.jpg" lang2="Прогноз погоды района Канто на неделю.">
+      <audioTime in="101953" out="106399" />
+    </line>
+    <line lang1="ごらん*の*通り*同じ*よう*な*暑さ*は*これ*から*も*続く*でしょう。" someNumber="127" image="099_024.jpg" lang2="Как видите, такая же жара будет продолжаться и далее.">
+      <audioTime in="106399" out="110389" />
+    </line>
+    <line lang1="雨*は*なさ*そう*です。" someNumber="None" image="099_027.jpg" lang2="Дождя, очевидно, не будет.">
+      <audioTime in="110389" out="112372" />
+    </line>
+    <line lang1="風*と*波*です。" someNumber="None" image="099_028.jpg" lang2="О ветре и волнах.">
+      <audioTime in="112372" out="114354" />
+    </line>
+    <line lang1="風向き*は*南*あるい*は*南西*の*風*が*強く*吹く*でしょう。" someNumber="None" image="099_028.jpg" lang2="Ожидается сильный южный или юго-западный ветер.">
+      <audioTime in="114354" out="119465" />
+    </line>
+    <line lang1="海上*は*２メートル*以上*の*高い*波*と*なり*そう*です。" someNumber="None" image="099_030.jpg" lang2="На море ожидаются большие (высокие) волны, высотой до 2 метров.">
+      <audioTime in="119465" out="123437" />
+    </line>
+    <line lang1="天気*予報*を*お伝えしました。" someNumber="None" image="099_031.jpg" lang2="Мы передавали прогноз погоды.">
+      <audioTime in="123437" out="126337" />
+    </line>
+    <line lang1="―これ*から*はごらん*の*スポンサー「あさひ*ビール」の*ていきょう*で*お送りします。" someNumber="07" image="099_032.jpg" lang2="- Начиная с этого часа передачи предоставляет генеральный спонсор &quot;Пиво Асахи&quot;.">
+      <audioTime in="126337" out="133989" />
+    </line>
+    <line lang1="―暑い*とき*私*の*結論*は*冷たい*ビール*です！" someNumber="None" image="099_033.jpg" lang2="- В жару мой выбор - холодное пиво!">
+      <audioTime in="133989" out="140521" />
+    </line>
+    <line lang1="「あさひ*なま*ビール」ｓｕｐｅｒ ｄｒｙ！" someNumber="None" image="099_033.jpg" lang2="Натуральное пиво Асахи - суперсухое!">
+      <audioTime in="140521" out="145253" />
+    </line>
+  </lines>
+</lesson>

@@ -1,0 +1,65 @@
+<lesson>
+  <header wav="f_010.wav" dic="p010" dlgName="Мужчина полный или худой?" dlgFile="exr\fg009.txt" author="Alexander" />
+  <lines>
+    <line lang1="- Cet homme, est-il gros ou maigre?" someNumber="None" image="dg\010_001.gif" lang2="- Этот мужчина полный или худой?">
+      <audioTime in="0" out="2058" />
+    </line>
+    <line lang1="- Il n'est pas maigre. Il est gros." someNumber="370" image="dg\010_001.gif" lang2="- Он не худой. Он полный.">
+      <audioTime in="2058" out="3922" />
+    </line>
+    <line lang1="- Monsieur Vincent a-t-il froid ou chaud?" someNumber="None" image="dg\010_002.gif" lang2="- Г-ну Венсану холодно или жарко?">
+      <audioTime in="3922" out="6316" />
+    </line>
+    <line lang1="- Il n'a pas froid. Il a chaud." someNumber="None" image="dg\010_002.gif" lang2="- Ему не холодно. Ему жарко.">
+      <audioTime in="6316" out="7916" />
+    </line>
+    <line lang1="- L'hôtesse de l'air, est-elle jeune ou vieille?" someNumber="None" image="dg\010_003.gif" lang2="- Стюардесса молодая или старая?">
+      <audioTime in="7916" out="10251" />
+    </line>
+    <line lang1="- Elle n'est pas vieille, elle est jeune." someNumber="None" image="dg\010_003.gif" lang2="- Она не старая. Она молодая.">
+      <audioTime in="10251" out="12001" />
+    </line>
+    <line lang1="- La femme est-elle maigre ou grosse?" someNumber="None" image="dg\010_004.gif" lang2="- Женщина худая или полная?">
+      <audioTime in="12001" out="13929" />
+    </line>
+    <line lang1="- Elle n'est pas grosse. Elle est maigre." someNumber="930" image="dg\010_004.gif" lang2="- Она не полная. Она худая.">
+      <audioTime in="13929" out="15827" />
+    </line>
+    <line lang1="- Madame Vincent a-t-elle froid ou chaud?" someNumber="None" image="dg\010_005.gif" lang2="- Г-же Венсан холодно или жарко?">
+      <audioTime in="15827" out="18064" />
+    </line>
+    <line lang1="- Elle n'a pas chaud. Elle a froid." someNumber="None" image="dg\010_005.gif" lang2="- Ей не жарко. Ей холодно.">
+      <audioTime in="18064" out="19843" />
+    </line>
+    <line lang1="- La policière est-elle grande ou petite?" someNumber="None" image="dg\010_006.gif" lang2="- Полицейская высокая или низкая?">
+      <audioTime in="19843" out="22061" />
+    </line>
+    <line lang1="- Elle n'est pas grande. Elle est petite." someNumber="None" image="dg\010_006.gif" lang2="- Она не высокая. Она низкая.">
+      <audioTime in="22061" out="23777" />
+    </line>
+    <line lang1="- Le crémier, est-il vieux ou jeune?" someNumber="None" image="dg\010_007.gif" lang2="- Продавец молока старый или молодой.">
+      <audioTime in="23777" out="25879" />
+    </line>
+    <line lang1="- Il n'est pas jeune, il est vieux." someNumber="None" image="dg\010_007.gif" lang2="- Он не молодой. Он старый.">
+      <audioTime in="25879" out="27323" />
+    </line>
+    <line lang1="- Le mécanicien, est-il sale ou propre?" someNumber="None" image="dg\010_008.gif" lang2="- Механик грязный или чистый.">
+      <audioTime in="27323" out="29787" />
+    </line>
+    <line lang1="- Il n'est pas propre. Il est sale." someNumber="None" image="dg\010_008.gif" lang2="- Он не чистый. Он грязный.">
+      <audioTime in="29787" out="31652" />
+    </line>
+    <line lang1="- Le policier, est-il petit ou grand?" someNumber="None" image="dg\010_009.gif" lang2="- Полицейский высокий или низкий?">
+      <audioTime in="31652" out="33970" />
+    </line>
+    <line lang1="- Il n'est pas petit. Il est grand." someNumber="None" image="dg\010_009.gif" lang2="- Он не низкий. Он высокий.">
+      <audioTime in="33970" out="35689" />
+    </line>
+    <line lang1="- La bonne, est-elle sale ou propre?" someNumber="None" image="dg\010_010.gif" lang2="- Служанка чистая или грязная?">
+      <audioTime in="35689" out="37929" />
+    </line>
+    <line lang1="- Elle n'est pas sale. Elle est propre." someNumber="None" image="dg\010_010.gif" lang2="- Она не грязная. Она чистая.">
+      <audioTime in="37929" out="39594" />
+    </line>
+  </lines>
+</lesson>
